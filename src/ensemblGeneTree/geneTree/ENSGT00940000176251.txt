@@ -1,0 +1,1 @@
+(((ENSFHEG00000001662__Fundulus_heteroclitus,ENSPMGG00000022564__Periophthalmus_magnuspinnatus),(ENSHCOG00000001484__Hippocampus_comes,ENSHCOG00000007219__Hippocampus_comes)),ENSGMOG00000006222__Gadus_morhua);

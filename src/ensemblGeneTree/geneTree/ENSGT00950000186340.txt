@@ -1,0 +1,1 @@
+((((((ENSBTAG00000052695__Bos_taurus,ENSBMUG00000000611__Bos_mutus),ENSBBBG00000022239__Bison_bison_bison),ENSSSCG00000032185__Sus_scrofa),ENSPSMG00000022686__Prolemur_simus),ENSMUGG00000025856__Meriones_unguiculatus),ENSLCOG00000013773__Lepidothrix_coronata);

@@ -1,0 +1,1 @@
+(((ENSCJPG00005003892__Coturnix_japonica,ENSCJPG00005000305__Coturnix_japonica),ENSPMJG00000011871__Parus_major),ENSAMXG00000037871__Astyanax_mexicanus);

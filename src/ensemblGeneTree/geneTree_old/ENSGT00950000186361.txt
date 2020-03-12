@@ -1,0 +1,1 @@
+((((ENSMVIG00005010011__Manacus_vitellinus,ENSLCOG00000011608__Lepidothrix_coronata),ENSZALG00000014636__Zonotrichia_albicollis),ENSCPUG00000017869__Calidris_pugnax),((ENSGAGG00000019944__Gopherus_agassizii,ENSCABG00000008622__Chelonoidis_abingdonii),ENSCPBG00000024921__Chrysemys_picta_bellii));

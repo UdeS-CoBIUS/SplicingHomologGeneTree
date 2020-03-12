@@ -1,0 +1,1 @@
+((((ENSAMEG00000008295__Ailuropoda_melanoleuca,ENSUAMG00000027510__Ursus_americanus),ENSCGRG00001001259__Cricetulus_griseus_CHOK1GS_HDv1),ENSCPGG00000010168__Calidris_pygmaea),((ENSAPOG00000006348__Acanthochromis_polyacanthus,ENSCVAG00000002670__Cyprinodon_variegatus),ENSAMXG00000037444__Astyanax_mexicanus));

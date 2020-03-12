@@ -1,0 +1,1 @@
+(ENSCCEG00000000783__Cyanistes_caeruleus,ENSAPLG00000019759__Anas_platyrhynchos_platyrhynchos);

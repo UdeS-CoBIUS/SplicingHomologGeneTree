@@ -1,0 +1,1 @@
+(((ENSAPEG00000003032__Amphiprion_percula,ENSAOCG00000011716__Amphiprion_ocellaris),(((ENSPLAG00000013779__Poecilia_latipinna,ENSPMEG00000011840__Poecilia_mexicana),ENSXCOG00000003010__Xiphophorus_couchianus),ENSFHEG00000017382__Fundulus_heteroclitus)),ENSHCOG00000015086__Hippocampus_comes);

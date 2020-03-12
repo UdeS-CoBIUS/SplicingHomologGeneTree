@@ -1,0 +1,9 @@
+AMPHIPRIONPERCULA	amphiprion_percula
+AMPHIPRIONOCELLARIS	amphiprion_ocellaris
+CYPRINODONVARIEGATUS	cyprinodon_variegatus
+ASTATOTILAPIACALLIPTERA	astatotilapia_calliptera
+ANABASTESTUDINEUS	anabas_testudineus
+BETTASPLENDENS	betta_splendens
+ESOXLUCIUS	esox_lucius
+GADUSMORHUA	gadus_morhua
+GOPHERUSAGASSIZII	gopherus_agassizii

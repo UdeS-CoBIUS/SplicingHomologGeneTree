@@ -1,0 +1,1 @@
+((ENSMMUG00000043810__Macaca_mulatta,ENSTGEG00000015996__Theropithecus_gelada),ENSFDAG00000003980__Fukomys_damarensis);

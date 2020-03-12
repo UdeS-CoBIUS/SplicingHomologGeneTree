@@ -1,0 +1,1 @@
+((ENSKMAG00000014442__Kryptolebias_marmoratus,ENSXMAG00000000857__Xiphophorus_maculatus),(ENSONIG00000006927__Oreochromis_niloticus,ENSACIG00000023334__Amphilophus_citrinellus));

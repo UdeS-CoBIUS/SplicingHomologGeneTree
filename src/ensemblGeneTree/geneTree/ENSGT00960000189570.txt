@@ -1,0 +1,1 @@
+((((ENSMMMG00000004490__Marmota_marmota_marmota,ENSUPAG00010015520__Urocitellus_parryii),ENSUPAG00010018141__Urocitellus_parryii),ENSMSIG00000024347__Mus_spicilegus),(ENSSSCG00000004831__Sus_scrofa,ENSVVUG00000013832__Vulpes_vulpes));

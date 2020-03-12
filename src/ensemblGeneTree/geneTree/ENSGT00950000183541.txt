@@ -1,0 +1,1 @@
+(((((ENSMFAG00000036485__Macaca_fascicularis,ENSMMUG00000040356__Macaca_mulatta),(ENSMFAG00000042745__Macaca_fascicularis,ENSMMUG00000038546__Macaca_mulatta)),ENSMNEG00000007868__Macaca_nemestrina),(ENSCATG00000021200__Cercocebus_atys,ENSMLEG00000036308__Mandrillus_leucophaeus)),ENSPTEG00000009083__Piliocolobus_tephrosceles);

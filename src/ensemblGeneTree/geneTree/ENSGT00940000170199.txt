@@ -1,0 +1,1 @@
+((ENSFALG00000004151__Ficedula_albicollis,ENSTGUG00000004253__Taeniopygia_guttata),ENSOARG00000010571__Ovis_aries);

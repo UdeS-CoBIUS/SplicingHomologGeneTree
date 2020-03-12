@@ -1,0 +1,1 @@
+(((ENSUAMG00000006865__Ursus_americanus,ENSVVUG00000021834__Vulpes_vulpes),(ENSGGOG00000027350__Gorilla_gorilla,ENSPTRG00000042953__Pan_troglodytes)),(ENSAHAG00000005020__Apteryx_haastii,ENSCPRG00005003821__Crocodylus_porosus));

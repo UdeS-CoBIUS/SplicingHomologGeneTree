@@ -1,0 +1,1 @@
+((((ENSSHAG00000018079__Sarcophilus_harrisii,ENSLAFG00000025771__Loxodonta_africana),ENSLCOG00000002725__Lepidothrix_coronata),(ENSAPEG00000023161__Amphiprion_percula,ENSPMGG00000015243__Periophthalmus_magnuspinnatus)),ENSPMAG00000009542__Petromyzon_marinus);

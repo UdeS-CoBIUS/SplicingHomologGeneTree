@@ -1,0 +1,1 @@
+(ENSTGEG00000012055__Theropithecus_gelada,ENSECAG00000007157__Equus_caballus);

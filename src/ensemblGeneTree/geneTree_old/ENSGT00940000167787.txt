@@ -1,0 +1,1 @@
+((((ENSCGRG00001023836__Cricetulus_griseus_CHOK1GS_HDv1,ENSCGRG00000001762__Cricetulus_griseus_CriGri_1.0),ENSMOCG00000019222__Microtus_ochrogaster),ENSPEMG00000022148__Peromyscus_maniculatus_bairdii),ENSMUGG00000026716__Meriones_unguiculatus);

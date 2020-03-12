@@ -1,0 +1,1 @@
+(((((ENSAPEG00000020446__Amphiprion_percula,ENSAPOG00000017319__Acanthochromis_polyacanthus),ENSSPAG00000020298__Stegastes_partitus),(ENSPLAG00000015926__Poecilia_latipinna,ENSXCOG00000013116__Xiphophorus_couchianus)),ENSPMGG00000018013__Periophthalmus_magnuspinnatus),ENSELUG00000012965__Esox_lucius);

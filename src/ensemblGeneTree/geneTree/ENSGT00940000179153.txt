@@ -1,0 +1,1 @@
+((((ENSSPAG00000002168__Stegastes_partitus,ENSATEG00000020908__Anabas_testudineus),ENSPMGG00000013257__Periophthalmus_magnuspinnatus),ENSLBEG00000004320__Labrus_bergylta),ENSSPUG00000015457__Sphenodon_punctatus);

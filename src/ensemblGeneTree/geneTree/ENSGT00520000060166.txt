@@ -1,0 +1,1 @@
+((ENSLAFG00000025576__Loxodonta_africana,ENSDNOG00000034458__Dasypus_novemcinctus),((ENSCSAG00000017884__Chlorocebus_sabaeus,ENSOGAG00000033829__Otolemur_garnettii),ENSOCUG00000024200__Oryctolagus_cuniculus));

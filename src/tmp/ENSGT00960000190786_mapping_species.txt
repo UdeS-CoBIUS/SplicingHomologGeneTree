@@ -1,0 +1,3 @@
+PANTROGLODYTES	pan_troglodytes
+PANPANISCUS	pan_paniscus
+PILIOCOLOBUSTEPHROSCELES	piliocolobus_tephrosceles

@@ -1,0 +1,1 @@
+((((ENSMSIG00000026036__Mus_spicilegus,ENSMSIG00000029088__Mus_spicilegus),ENSMMMG00000017789__Marmota_marmota_marmota),ENSPTEG00000024697__Piliocolobus_tephrosceles),ENSSSCG00000016540__Sus_scrofa_strain_reference);

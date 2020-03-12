@@ -1,0 +1,1 @@
+(((ENSPTEG00000015573__Piliocolobus_tephrosceles,ENSPTEG00000025118__Piliocolobus_tephrosceles),ENSPTEG00000006778__Piliocolobus_tephrosceles),(WBGene00022335__Caenorhabditis_elegans_strain_N2,WBGene00022351__Caenorhabditis_elegans_strain_N2));

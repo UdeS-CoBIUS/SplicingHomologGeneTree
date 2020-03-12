@@ -1,0 +1,1 @@
+(((ENSACLG00000019327__Astatotilapia_calliptera,ENSXCOG00000018308__Xiphophorus_couchianus),ENSTRUG00000025015__Takifugu_rubripes),((ENSSPUG00000016034__Sphenodon_punctatus,ENSLCOG00000007475__Lepidothrix_coronata),ENSMMMG00000005817__Marmota_marmota_marmota));

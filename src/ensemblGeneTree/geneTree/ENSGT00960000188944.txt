@@ -1,0 +1,1 @@
+(ENSGAGG00000018877__Gopherus_agassizii,ENSAHAG00000000791__Apteryx_haastii);

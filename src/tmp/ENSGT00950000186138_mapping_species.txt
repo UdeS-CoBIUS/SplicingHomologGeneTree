@@ -1,0 +1,2 @@
+VULPESVULPES	vulpes_vulpes
+CANISLUPUSDINGO	canis_lupus_dingo

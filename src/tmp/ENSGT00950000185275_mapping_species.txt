@@ -1,0 +1,2 @@
+TAKIFUGURUBRIPES	takifugu_rubripes
+ZONOTRICHIAALBICOLLIS	zonotrichia_albicollis

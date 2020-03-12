@@ -1,0 +1,1 @@
+((ENSLBEG00000005752__Labrus_bergylta,ENSTRUG00000025295__Takifugu_rubripes),(((((ENSPNYG00000020120__Pundamilia_nyererei,ENSACLG00000017024__Astatotilapia_calliptera),ENSMZEG00005005224__Maylandia_zebra),ENSNBRG00000000430__Neolamprologus_brichardi),ENSHBUG00000001105__Haplochromis_burtoni),ENSONIG00000003593__Oreochromis_niloticus));

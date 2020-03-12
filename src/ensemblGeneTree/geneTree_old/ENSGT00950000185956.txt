@@ -1,0 +1,1 @@
+((ENSPEMG00000007274__Peromyscus_maniculatus_bairdii,ENSUPAG00010006752__Urocitellus_parryii),ENSEASG00005000427__Equus_asinus_asinus);

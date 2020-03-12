@@ -1,0 +1,1 @@
+((ENSCPGG00000011332__Calidris_pygmaea,ENSAPLG00000015999__Anas_platyrhynchos_platyrhynchos),ENSMVIG00005018038__Manacus_vitellinus);

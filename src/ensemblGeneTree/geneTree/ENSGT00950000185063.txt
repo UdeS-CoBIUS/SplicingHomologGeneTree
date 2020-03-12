@@ -1,0 +1,1 @@
+(((((ENSCPBG00000008162__Chrysemys_picta_bellii,ENSCPBG00000011758__Chrysemys_picta_bellii),ENSCPBG00000008170__Chrysemys_picta_bellii),ENSCPBG00000008157__Chrysemys_picta_bellii),ENSCPBG00000008159__Chrysemys_picta_bellii),ENSGAGG00000015431__Gopherus_agassizii);

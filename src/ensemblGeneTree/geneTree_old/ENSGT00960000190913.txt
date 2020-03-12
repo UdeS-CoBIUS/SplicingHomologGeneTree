@@ -1,0 +1,1 @@
+((ENSCPUG00000001574__Calidris_pugnax,ENSCPGG00000013600__Calidris_pygmaea),ENSNPEG00000011223__Nothoprocta_perdicaria);

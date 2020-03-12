@@ -1,0 +1,1 @@
+(((ENSMICG00000042252__Microcebus_murinus,ENSUPAG00010007495__Urocitellus_parryii),(ENSPCIG00000034979__Phascolarctos_cinereus,ENSPCIG00000031063__Phascolarctos_cinereus)),ENSAPOG00000021633__Acanthochromis_polyacanthus);

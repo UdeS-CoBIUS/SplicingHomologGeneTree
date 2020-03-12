@@ -1,0 +1,1 @@
+(((ENSOARG00000014182__Ovis_aries,ENSPTEG00000031034__Piliocolobus_tephrosceles),((ENSABRG00000014159__Anser_brachyrhynchus,ENSCJPG00005011126__Coturnix_japonica),ENSFALG00000011834__Ficedula_albicollis)),ENSPMAG00000002291__Petromyzon_marinus);

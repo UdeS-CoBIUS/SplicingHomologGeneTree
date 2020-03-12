@@ -1,0 +1,1 @@
+(((ENSVPAG00000012444__Vicugna_pacos,ENSVPAG00000012443__Vicugna_pacos),ENSBBBG00000002428__Bison_bison_bison),ENSTGEG00000027662__Theropithecus_gelada);

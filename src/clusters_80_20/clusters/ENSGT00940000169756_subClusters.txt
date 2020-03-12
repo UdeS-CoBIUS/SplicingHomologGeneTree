@@ -1,0 +1,6 @@
+>cluster_0
+C01G5.5.1	F53F1.2.2
+>cluster_1
+F53F1.2.1
+>cluster_2
+F53F1.3.1

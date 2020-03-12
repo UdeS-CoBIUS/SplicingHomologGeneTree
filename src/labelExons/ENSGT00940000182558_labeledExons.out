@@ -1,0 +1,9 @@
+>0
+ENSTRUT00000053404: ['exon skipping', 0, 0]
+ENSPLAT00000025381: ['no event', 7, 0]
+>1
+ENSTRUT00000053404: ['3event', '5event', 170, 0]
+ENSPLAT00000025381: [['internal gap >= 30', 106, 30], 291, 2]
+>2
+ENSTRUT00000053404: ['5event', 48, 2]
+ENSPLAT00000025381: ['exon skipping', 0, 0]

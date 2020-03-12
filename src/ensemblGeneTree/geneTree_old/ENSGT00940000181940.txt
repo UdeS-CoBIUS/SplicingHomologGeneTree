@@ -1,0 +1,1 @@
+(ENSTRUG00000023849__Takifugu_rubripes,ENSGMOG00000005175__Gadus_morhua);

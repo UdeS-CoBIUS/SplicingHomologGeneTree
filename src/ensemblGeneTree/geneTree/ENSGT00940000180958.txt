@@ -1,0 +1,1 @@
+((ENSXCOG00000010046__Xiphophorus_couchianus,ENSLBEG00000026433__Labrus_bergylta),((ENSMUGG00000003156__Meriones_unguiculatus,ENSMUGG00000003174__Meriones_unguiculatus),ENSEASG00005012885__Equus_asinus_asinus));

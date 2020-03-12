@@ -1,0 +1,10 @@
+AILUROPODAMELANOLEUCA	ailuropoda_melanoleuca
+PTEROPUSVAMPYRUS	pteropus_vampyrus
+TURSIOPSTRUNCATUS	tursiops_truncatus
+VICUGNAPACOS	vicugna_pacos
+ERINACEUSEUROPAEUS	erinaceus_europaeus
+PONGOABELII	pongo_abelii
+CHLOROCEBUSSABAEUS	chlorocebus_sabaeus
+OCHOTONAPRINCEPS	ochotona_princeps
+TUPAIABELANGERI	tupaia_belangeri
+PROCAVIACAPENSIS	procavia_capensis

@@ -1,0 +1,2 @@
+YOR028C_mRNA	YOR028C	Saccharomyces_cerevisiae_strain_S288C
+YDR259C_mRNA	YDR259C	Saccharomyces_cerevisiae_strain_S288C

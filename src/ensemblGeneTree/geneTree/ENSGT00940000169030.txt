@@ -1,0 +1,1 @@
+(((ENSTTRG00000009926__Tursiops_truncatus,ENSVPAG00000004122__Vicugna_pacos),ENSMPUG00000005899__Mustela_putorius_furo),ENSOCUG00000029683__Oryctolagus_cuniculus);

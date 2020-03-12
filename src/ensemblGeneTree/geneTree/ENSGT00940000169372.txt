@@ -1,0 +1,1 @@
+((((ENSODEG00000019482__Octodon_degus,ENSODEG00000004815__Octodon_degus),ENSCJAG00000038298__Callithrix_jacchus),(ENSNSUG00000014299__Notechis_scutatus,ENSCPBG00000010794__Chrysemys_picta_bellii)),ENSTRUG00000002228__Takifugu_rubripes);

@@ -1,0 +1,1 @@
+(ENSMMUG00000042890__Macaca_mulatta,ENSCGRG00001012950__Cricetulus_griseus_CHOK1GS_HDv1);

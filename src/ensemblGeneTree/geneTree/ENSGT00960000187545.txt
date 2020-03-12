@@ -1,0 +1,1 @@
+(((ENSIPUG00000013570__Ictalurus_punctatus,ENSPNAG00000003091__Pygocentrus_nattereri),ENSIPUG00000005384__Ictalurus_punctatus),ENSELUG00000010764__Esox_lucius);

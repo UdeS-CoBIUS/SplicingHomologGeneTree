@@ -1,0 +1,1 @@
+((((ENSRBIG00000005381__Rhinopithecus_bieti,ENSANAG00000026879__Aotus_nancymaae),ENSMUGG00000012576__Meriones_unguiculatus),ENSPCIG00000014254__Phascolarctos_cinereus),ENSCABG00000003913__Chelonoidis_abingdonii);

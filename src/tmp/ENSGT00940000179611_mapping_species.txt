@@ -1,0 +1,3 @@
+LABRUSBERGYLTA	labrus_bergylta
+LABRUSBERGYLTA	labrus_bergylta
+MASTACEMBELUSARMATUS	mastacembelus_armatus

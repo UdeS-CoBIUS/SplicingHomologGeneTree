@@ -1,0 +1,1 @@
+(((((ENSCAPG00000013022__Cavia_aperea,ENSOPRG00000008471__Ochotona_princeps),ENSDNOG00000034780__Dasypus_novemcinctus),ENSOANG00000000951__Ornithorhynchus_anatinus),ENSOANG00000031543__Ornithorhynchus_anatinus),ENSSPUG00000007990__Sphenodon_punctatus);

@@ -1,0 +1,1 @@
+((((ENSTGEG00000004816__Theropithecus_gelada,ENSMLEG00000003959__Mandrillus_leucophaeus),(ENSCANG00000016704__Colobus_angolensis_palliatus,ENSRBIG00000027731__Rhinopithecus_bieti)),ENSSBOG00000022939__Saimiri_boliviensis_boliviensis),ENSBMUG00000020040__Bos_mutus);

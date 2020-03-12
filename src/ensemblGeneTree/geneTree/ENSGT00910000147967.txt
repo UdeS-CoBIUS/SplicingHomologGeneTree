@@ -1,0 +1,1 @@
+((ENSSSCG00000040364__Sus_scrofa,ENSCHIG00000002362__Capra_hircus),(ENSCCAG00000036076__Cebus_capucinus_imitator,ENSRBIG00000031229__Rhinopithecus_bieti));

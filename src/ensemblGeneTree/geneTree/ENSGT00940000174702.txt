@@ -1,0 +1,1 @@
+(((ENSHCOG00000001823__Hippocampus_comes,ENSIPUG00000000627__Ictalurus_punctatus),(ENSCCEG00000022510__Cyanistes_caeruleus,ENSPMJG00000006507__Parus_major)),WBGene00001440__Caenorhabditis_elegans_strain_N2);

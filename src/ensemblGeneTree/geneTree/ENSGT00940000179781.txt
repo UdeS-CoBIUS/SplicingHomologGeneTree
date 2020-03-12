@@ -1,0 +1,1 @@
+((ENSOMEG00000019743__Oryzias_melastigma,ENSOMEG00000009261__Oryzias_melastigma),ENSORLG00015018239__Oryzias_latipes_ASM223469v1);

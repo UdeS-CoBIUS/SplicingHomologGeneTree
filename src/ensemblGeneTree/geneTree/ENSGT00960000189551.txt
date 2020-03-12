@@ -1,0 +1,1 @@
+((((ENSCPGG00000011887__Calidris_pygmaea,ENSJHYG00000017259__Junco_hyemalis),ENSNMEG00000002822__Numida_meleagris),(ENSNSUG00000002651__Notechis_scutatus,ENSNSUG00000010429__Notechis_scutatus)),ENSVVUG00000024133__Vulpes_vulpes);

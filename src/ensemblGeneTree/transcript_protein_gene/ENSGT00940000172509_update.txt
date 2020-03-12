@@ -1,0 +1,5 @@
+FBpp0076406	FBgn0028379	Drosophila_melanogaster	FBtr0076683
+YER120W_mRNA	YER120W	Saccharomyces_cerevisiae_strain_S288C
+F54H5.3.1	WBGene00018840	Caenorhabditis_elegans_strain_N2	F54H5.3.1
+FBpp0309607	FBgn0029687	Drosophila_melanogaster	FBtr0342739
+YBL091C-A_mRNA	YBL091C-A	Saccharomyces_cerevisiae_strain_S288C

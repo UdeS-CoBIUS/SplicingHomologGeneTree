@@ -1,0 +1,1 @@
+((ENSETEG00000016333__Echinops_telfairi,ENSDNOG00000036970__Dasypus_novemcinctus),ENSEEUG00000004676__Erinaceus_europaeus);

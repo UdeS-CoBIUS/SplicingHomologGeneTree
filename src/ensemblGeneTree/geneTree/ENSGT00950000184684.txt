@@ -1,0 +1,1 @@
+(ENSMPUG00000019045__Mustela_putorius_furo,ENSCAFG00000029272__Canis_lupus_familiaris);

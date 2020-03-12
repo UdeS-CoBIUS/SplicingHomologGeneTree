@@ -1,0 +1,1 @@
+((((((ENSAPEG00000019971__Amphiprion_percula,ENSAOCG00000011149__Amphiprion_ocellaris),ENSAPOG00000014485__Acanthochromis_polyacanthus),ENSSPAG00000013235__Stegastes_partitus),ENSPNYG00000006411__Pundamilia_nyererei),ENSGACG00000005241__Gasterosteus_aculeatus),ENSDCDG00000017570__Denticeps_clupeoides);

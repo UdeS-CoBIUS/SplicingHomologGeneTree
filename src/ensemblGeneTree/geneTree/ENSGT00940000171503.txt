@@ -1,0 +1,1 @@
+((((((ENSNMEG00000015489__Numida_meleagris,ENSJHYG00000009043__Junco_hyemalis),ENSCPUG00000007347__Calidris_pugnax),ENSARWG00000012502__Apteryx_rowi),(ENSAHAG00000015924__Apteryx_haastii,ENSMUNG00000015583__Melopsittacus_undulatus)),(ENSCPBG00000024333__Chrysemys_picta_bellii,ENSPSIG00000004423__Pelodiscus_sinensis)),ENSSLDG00000019352__Seriola_lalandi_dorsalis);

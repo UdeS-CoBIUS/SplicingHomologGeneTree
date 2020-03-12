@@ -1,0 +1,1 @@
+((ENSPTRG00000045652__Pan_troglodytes,ENSGGOG00000042770__Gorilla_gorilla),ENSPTEG00000015989__Piliocolobus_tephrosceles);

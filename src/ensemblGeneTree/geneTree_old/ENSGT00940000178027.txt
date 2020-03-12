@@ -1,0 +1,1 @@
+((((ENSSLDG00000016948__Seriola_lalandi_dorsalis,ENSSDUG00000001110__Seriola_dumerili),ENSORLG00020016103__Oryzias_latipes_ASM223471v1),ENSSMAG00000020910__Scophthalmus_maximus),(ENSMAMG00000000519__Mastacembelus_armatus,ENSMMOG00000018792__Mola_mola));

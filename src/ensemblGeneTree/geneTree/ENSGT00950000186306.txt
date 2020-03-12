@@ -1,0 +1,1 @@
+(ENSELUG00000024607__Esox_lucius,ENSECAG00000030200__Equus_caballus);

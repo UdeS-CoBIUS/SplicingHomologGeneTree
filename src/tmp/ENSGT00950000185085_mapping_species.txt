@@ -1,0 +1,6 @@
+URSUSAMERICANUS	ursus_americanus
+VULPESVULPES	vulpes_vulpes
+CRICETULUSGRISEUS	cricetulus_griseus
+CRICETULUSGRISEUS	cricetulus_griseus
+MUSSPICILEGUS	mus_spicilegus
+ANOLISCAROLINENSIS	anolis_carolinensis

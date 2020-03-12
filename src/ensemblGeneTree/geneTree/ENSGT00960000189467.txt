@@ -1,0 +1,1 @@
+(((((((ENSSCAG00000008646__Serinus_canaria,ENSZALG00000004208__Zonotrichia_albicollis),ENSCCEG00000006742__Cyanistes_caeruleus),ENSMVIG00005015712__Manacus_vitellinus),ENSMUNG00000009560__Melopsittacus_undulatus),ENSCJPG00005013014__Coturnix_japonica),ENSDNVG00000006124__Dromaius_novaehollandiae),ENSCHOG00000009208__Choloepus_hoffmanni);

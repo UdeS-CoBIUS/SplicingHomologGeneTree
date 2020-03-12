@@ -1,0 +1,1 @@
+((ENSCPBG00000000677__Chrysemys_picta_bellii,ENSSFOG00015022300__Scleropages_formosus),FBgn0015400__Drosophila_melanogaster);

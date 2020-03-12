@@ -1,0 +1,1 @@
+(((((ENSAMXG00000037360__Astyanax_mexicanus,ENSAMXG00000040111__Astyanax_mexicanus),((ENSAMXG00000035734__Astyanax_mexicanus,ENSAMXG00000038478__Astyanax_mexicanus),ENSAMXG00000038320__Astyanax_mexicanus)),ENSAMXG00000043194__Astyanax_mexicanus),ENSPNAG00000014745__Pygocentrus_nattereri),ENSOMEG00000013651__Oryzias_melastigma);

@@ -1,0 +1,1 @@
+(YDL181W__Saccharomyces_cerevisiae_strain_S288C,YDL130W-A__Saccharomyces_cerevisiae_strain_S288C);

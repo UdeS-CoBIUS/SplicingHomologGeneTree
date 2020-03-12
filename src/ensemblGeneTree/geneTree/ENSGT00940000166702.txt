@@ -1,0 +1,1 @@
+((((ENSCJAG00000017373__Callithrix_jacchus,ENSGGOG00000039808__Gorilla_gorilla),ENSMICG00000011195__Microcebus_murinus),ENSTBEG00000011657__Tupaia_belangeri),(ENSPVAG00000014894__Pteropus_vampyrus,ENSEEUG00000007437__Erinaceus_europaeus));

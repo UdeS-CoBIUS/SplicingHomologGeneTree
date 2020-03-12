@@ -1,0 +1,1 @@
+((((ENSNLEG00000027392__Nomascus_leucogenys,ENSPTRG00000021870__Pan_troglodytes),((ENSCCAG00000024648__Cebus_capucinus_imitator,ENSSBOG00000031233__Saimiri_boliviensis_boliviensis),ENSANAG00000021216__Aotus_nancymaae)),ENSODEG00000009461__Octodon_degus),ENSBBBG00000021829__Bison_bison_bison);

@@ -1,0 +1,4 @@
+ENSCINP00000014707	ENSCING00000007168	Ciona_intestinalis	ENSCINT00000014707
+FBpp0288933	FBgn0259176	Drosophila_melanogaster	FBtr0299658
+Y48C3A.12.1	WBGene00012994	Caenorhabditis_elegans_strain_N2	Y48C3A.12.1
+T18D3.7a.1	WBGene00011824	Caenorhabditis_elegans_strain_N2	T18D3.7a.1

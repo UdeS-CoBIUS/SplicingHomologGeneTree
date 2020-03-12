@@ -1,0 +1,1 @@
+(ENSFDAG00000011586__Fukomys_damarensis,ENSCGRG00000009666__Cricetulus_griseus_CriGri_1.0);

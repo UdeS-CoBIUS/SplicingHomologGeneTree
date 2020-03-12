@@ -1,0 +1,1 @@
+(((ENSRBIG00000031592__Rhinopithecus_bieti,ENSRROG00000032194__Rhinopithecus_roxellana),ENSCANG00000038915__Colobus_angolensis_palliatus),ENSTGEG00000020485__Theropithecus_gelada);

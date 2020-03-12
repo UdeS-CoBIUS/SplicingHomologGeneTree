@@ -1,0 +1,1 @@
+((((ENSORLG00015011212__Oryzias_latipes_ASM223469v1,ENSATEG00000003410__Anabas_testudineus),ENSAMXG00000033902__Astyanax_mexicanus),(ENSAMXG00000029362__Astyanax_mexicanus,ENSORLG00015002288__Oryzias_latipes_ASM223469v1)),ENSLSDG00000012533__Lonchura_striata_domestica);

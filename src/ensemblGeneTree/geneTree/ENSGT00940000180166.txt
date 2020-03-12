@@ -1,0 +1,1 @@
+((ENSSLDG00000014737__Seriola_lalandi_dorsalis,ENSACIG00000018504__Amphilophus_citrinellus),ENSIPUG00000018518__Ictalurus_punctatus);

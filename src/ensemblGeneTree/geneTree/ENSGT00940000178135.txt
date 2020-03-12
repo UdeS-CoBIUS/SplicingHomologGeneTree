@@ -1,0 +1,1 @@
+(((ENSTRUG00000024915__Takifugu_rubripes,ENSMMOG00000002032__Mola_mola),ENSMAMG00000016137__Mastacembelus_armatus),((ENSMZEG00005020437__Maylandia_zebra,ENSACLG00000002946__Astatotilapia_calliptera),ENSSPAG00000014639__Stegastes_partitus));

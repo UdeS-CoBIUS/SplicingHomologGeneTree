@@ -1,0 +1,1 @@
+(((ENSPMEG00000005385__Poecilia_mexicana,ENSPLAG00000003160__Poecilia_latipinna),ENSTNIG00000011662__Tetraodon_nigroviridis),ENSPKIG00000010239__Paramormyrops_kingsleyae);

@@ -1,0 +1,4 @@
+ICTALURUSPUNCTATUS	ictalurus_punctatus
+ICTALURUSPUNCTATUS	ictalurus_punctatus
+ICTALURUSPUNCTATUS	ictalurus_punctatus
+CLUPEAHARENGUS	clupea_harengus

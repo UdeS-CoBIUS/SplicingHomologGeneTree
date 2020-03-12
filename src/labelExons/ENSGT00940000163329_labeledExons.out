@@ -1,0 +1,25 @@
+>0
+ENSCHIT00000011759: ['no event', 80, 0]
+ENSOART00000019152: ['no event', 80, 0]
+ENSBTAT00000068263: ['no event', 80, 0]
+ENSBTAT00000045182: ['no event', 80, 0]
+>1
+ENSCHIT00000011759: ['no event', 153, 0]
+ENSOART00000019152: ['no event', 153, 0]
+ENSBTAT00000068263: ['no event', 153, 0]
+ENSBTAT00000045182: ['no event', 153, 0]
+>2
+ENSCHIT00000011759: [['internal gap < 30', 49, 1], 117, 1]
+ENSOART00000019152: [['internal gap < 30', 49, 1], 117, 1]
+ENSBTAT00000068263: [['internal gap < 30', 49, 1], 117, 1]
+ENSBTAT00000045182: [['internal gap < 30', 49, 1], 117, 1]
+>3
+ENSCHIT00000011759: ['no event', 99, 2]
+ENSOART00000019152: ['no event', 99, 2]
+ENSBTAT00000068263: ['no event', 99, 2]
+ENSBTAT00000045182: ['no event', 99, 2]
+>4
+ENSCHIT00000011759: ['no event', 206, 0]
+ENSOART00000019152: ['no event', 206, 0]
+ENSBTAT00000068263: ['no event', 206, 0]
+ENSBTAT00000045182: [['internal gap >= 30', 22, 30], 176, 0]

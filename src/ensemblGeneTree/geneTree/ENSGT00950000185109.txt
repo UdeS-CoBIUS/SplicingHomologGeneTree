@@ -1,0 +1,1 @@
+(((((ENSMUGG00000014220__Meriones_unguiculatus,ENSECAG00000029914__Equus_caballus),ENSSBOG00000033636__Saimiri_boliviensis_boliviensis),ENSMUGG00000026578__Meriones_unguiculatus),(ENSCAFG00020022073__Canis_lupus_dingo,ENSPSMG00000022726__Prolemur_simus)),ENSSCAG00000001884__Serinus_canaria);

@@ -1,0 +1,60 @@
+>0
+ENSPMAT00000000790: ['no event', 17, 0]
+ENSAMXT00000049768: ['3event', 9, 0]
+ENSAMXT00000009376: ['exon skipping', 0, 0]
+>1
+ENSPMAT00000000790: ['exon skipping', 0, 0]
+ENSAMXT00000049768: ['exon skipping', 0, 0]
+ENSAMXT00000009376: ['5event', 17, 0]
+>2
+ENSPMAT00000000790: ['5event', 209, 0]
+ENSAMXT00000049768: ['5event', 209, 0]
+ENSAMXT00000009376: [['internal gap < 30', 1, 9], 201, 0]
+>3
+ENSPMAT00000000790: ['no event', 141, 0]
+ENSAMXT00000049768: ['no event', 141, 0]
+ENSAMXT00000009376: ['no event', 141, 0]
+>4
+ENSPMAT00000000790: ['no event', 147, 1]
+ENSAMXT00000049768: [['internal gap < 30', 8, 6], 141, 1]
+ENSAMXT00000009376: [['internal gap < 30', 8, 6], 141, 1]
+>5
+ENSPMAT00000000790: ['no event', 174, 2]
+ENSAMXT00000049768: [['internal gap < 30', 84, 9], 165, 2]
+ENSAMXT00000009376: [['internal gap < 30', 84, 9], 165, 2]
+>6
+ENSPMAT00000000790: ['no event', 126, 0]
+ENSAMXT00000049768: ['no event', 126, 0]
+ENSAMXT00000009376: ['no event', 126, 0]
+>7
+ENSPMAT00000000790: ['no event', 102, 1]
+ENSAMXT00000049768: ['no event', 102, 1]
+ENSAMXT00000009376: ['no event', 102, 1]
+>8
+ENSPMAT00000000790: ['no event', 120, 2]
+ENSAMXT00000049768: ['no event', 120, 2]
+ENSAMXT00000009376: ['no event', 120, 2]
+>9
+ENSPMAT00000000790: ['no event', 96, 0]
+ENSAMXT00000049768: ['no event', 96, 0]
+ENSAMXT00000009376: ['no event', 96, 0]
+>10
+ENSPMAT00000000790: ['no event', 124, 1]
+ENSAMXT00000049768: ['no event', 124, 1]
+ENSAMXT00000009376: ['no event', 124, 1]
+>11
+ENSPMAT00000000790: ['no event', 36, 0]
+ENSAMXT00000049768: ['no event', 36, 0]
+ENSAMXT00000009376: ['no event', 36, 0]
+>12
+ENSPMAT00000000790: ['no event', 103, 1]
+ENSAMXT00000049768: ['no event', 103, 1]
+ENSAMXT00000009376: ['no event', 103, 1]
+>13
+ENSPMAT00000000790: ['no event', 176, 0]
+ENSAMXT00000049768: ['no event', 176, 0]
+ENSAMXT00000009376: ['no event', 176, 0]
+>14
+ENSPMAT00000000790: [['internal gap < 30', 8, 4], 72, 2]
+ENSAMXT00000049768: [['internal gap < 30', 8, 4], 72, 2]
+ENSAMXT00000009376: ['exon skipping', 0, 0]

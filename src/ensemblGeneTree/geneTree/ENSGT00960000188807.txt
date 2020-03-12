@@ -1,0 +1,1 @@
+(ENSPVAG00000014069__Pteropus_vampyrus,ENSETEG00000006420__Echinops_telfairi);

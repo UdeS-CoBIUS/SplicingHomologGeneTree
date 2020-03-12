@@ -1,0 +1,1 @@
+(((ENSTGEG00000026629__Theropithecus_gelada,ENSPTEG00000027646__Piliocolobus_tephrosceles),ENSPSMG00000020822__Prolemur_simus),(((ENSUMAG00000012760__Ursus_maritimus,ENSUAMG00000000228__Ursus_americanus),ENSNVIG00000012805__Neovison_vison),ENSPPRG00000016343__Panthera_pardus));

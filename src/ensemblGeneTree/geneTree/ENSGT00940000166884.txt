@@ -1,0 +1,1 @@
+((((ENSOGAG00000029354__Otolemur_garnettii,ENSEEUG00000010094__Erinaceus_europaeus),ENSLAFG00000025714__Loxodonta_africana),ENSOANG00000011662__Ornithorhynchus_anatinus),((ENSPSIG00000000827__Pelodiscus_sinensis,ENSMGAG00000017120__Meleagris_gallopavo),ENSACAG00000002446__Anolis_carolinensis));

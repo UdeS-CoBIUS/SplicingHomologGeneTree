@@ -1,0 +1,1 @@
+(((ENSXCOG00000009337__Xiphophorus_couchianus,ENSPREG00000017039__Poecilia_reticulata),ENSXCOG00000018896__Xiphophorus_couchianus),((ENSLBEG00000025035__Labrus_bergylta,ENSMMOG00000006929__Mola_mola),ENSSLDG00000017326__Seriola_lalandi_dorsalis));

@@ -1,0 +1,1 @@
+((ENSSSCG00000032639__Sus_scrofa,ENSVVUG00000029029__Vulpes_vulpes),(((ENSRBIG00000027212__Rhinopithecus_bieti,ENSCANG00000027739__Colobus_angolensis_palliatus),ENSPANG00000032787__Papio_anubis),(ENSSBOG00000033393__Saimiri_boliviensis_boliviensis,ENSANAG00000035024__Aotus_nancymaae)));

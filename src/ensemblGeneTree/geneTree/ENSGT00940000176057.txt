@@ -1,0 +1,1 @@
+((ENSTGUG00000015397__Taeniopygia_guttata,ENSBMUG00000003869__Bos_mutus),ENSEBUG00000002927__Eptatretus_burgeri);

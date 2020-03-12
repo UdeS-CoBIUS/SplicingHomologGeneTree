@@ -1,0 +1,1 @@
+((((ENSSDAG00000022397__Spermophilus_dauricus,ENSSDAG00000022395__Spermophilus_dauricus),ENSMMMG00000003985__Marmota_marmota_marmota),ENSMSIG00000009404__Mus_spicilegus),ENSSSCG00000038863__Sus_scrofa);

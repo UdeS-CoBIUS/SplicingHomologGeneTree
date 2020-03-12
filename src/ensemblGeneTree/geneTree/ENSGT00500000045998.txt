@@ -1,0 +1,1 @@
+(ENSTNIG00000003659__Tetraodon_nigroviridis,ENSTNIG00000001271__Tetraodon_nigroviridis);

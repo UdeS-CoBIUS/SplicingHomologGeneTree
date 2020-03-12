@@ -1,0 +1,1 @@
+(((((ENSOMEG00000018949__Oryzias_melastigma,ENSPFOG00000002524__Poecilia_formosa),ENSHCOG00000007743__Hippocampus_comes),ENSGACG00000015094__Gasterosteus_aculeatus),ENSGMOG00000007027__Gadus_morhua),ENSELUG00000012332__Esox_lucius);

@@ -1,0 +1,1 @@
+(((((ENSFCAG00000032179__Felis_catus,ENSCHIG00000015118__Capra_hircus),ENSCJAG00000045038__Callithrix_jacchus),(ENSCHOG00000013120__Choloepus_hoffmanni,ENSETEG00000003126__Echinops_telfairi)),ENSTGUG00000014393__Taeniopygia_guttata),(ENSTNIG00000003032__Tetraodon_nigroviridis,ENSDARG00000098983__Danio_rerio));

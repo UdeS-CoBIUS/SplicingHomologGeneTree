@@ -1,0 +1,1 @@
+((((ENSUAMG00000023004__Ursus_americanus,ENSMPUG00000017443__Mustela_putorius_furo),ENSBBBG00000022841__Bison_bison_bison),ENSOANG00000020409__Ornithorhynchus_anatinus),(ENSCABG00000022504__Chelonoidis_abingdonii,ENSNPEG00000004786__Nothoprocta_perdicaria));

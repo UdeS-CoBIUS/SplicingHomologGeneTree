@@ -1,0 +1,1 @@
+((ENSMICG00000013656__Microcebus_murinus,ENSOCUG00000029063__Oryctolagus_cuniculus),(((ENSSARG00000000269__Sorex_araneus,ENSEEUG00000009999__Erinaceus_europaeus),((ENSPTIG00000011934__Panthera_tigris_altaica,ENSPPRG00000013453__Panthera_pardus),ENSFCAG00000046149__Felis_catus)),ENSOARG00000008613__Ovis_aries));

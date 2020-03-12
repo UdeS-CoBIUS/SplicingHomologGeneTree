@@ -1,0 +1,1 @@
+(((((ENSFHEG00000003265__Fundulus_heteroclitus,ENSFHEG00000003320__Fundulus_heteroclitus),ENSFHEG00000003587__Fundulus_heteroclitus),ENSFHEG00000010674__Fundulus_heteroclitus),ENSFHEG00000003497__Fundulus_heteroclitus),ENSFHEG00000010664__Fundulus_heteroclitus);

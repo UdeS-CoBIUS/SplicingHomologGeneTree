@@ -1,0 +1,4 @@
+URSUSMARITIMUS	ursus_maritimus
+URSUSAMERICANUS	ursus_americanus
+URSUSAMERICANUS	ursus_americanus
+NEOVISONVISON	neovison_vison

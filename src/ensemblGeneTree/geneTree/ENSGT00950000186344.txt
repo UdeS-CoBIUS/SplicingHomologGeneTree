@@ -1,0 +1,1 @@
+((ENSSDAG00000015843__Spermophilus_dauricus,ENSPANG00000033162__Papio_anubis),(ENSEASG00005023021__Equus_asinus_asinus,ENSECAG00000032969__Equus_caballus));

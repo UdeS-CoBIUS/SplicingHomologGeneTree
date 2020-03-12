@@ -1,0 +1,1 @@
+((((ENSXCOG00000001047__Xiphophorus_couchianus,ENSPMEG00000009892__Poecilia_mexicana),ENSPMGG00000003953__Periophthalmus_magnuspinnatus),(ENSANAG00000022605__Aotus_nancymaae,ENSUAMG00000025031__Ursus_americanus)),ENSEBUG00000015376__Eptatretus_burgeri);

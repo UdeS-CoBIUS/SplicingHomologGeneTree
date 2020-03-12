@@ -1,0 +1,16 @@
+>0
+ENSACLT00000032727: ['no event', 8, 0]
+ENSMZET00005014608: ['no event', 8, 0]
+ENSPNYT00000020986: ['no event', 8, 0]
+>1
+ENSACLT00000032727: ['no event', 133, 0]
+ENSMZET00005014608: ['no event', 133, 0]
+ENSPNYT00000020986: ['no event', 133, 0]
+>2
+ENSACLT00000032727: ['no event', 57, 2]
+ENSMZET00005014608: ['no event', 57, 2]
+ENSPNYT00000020986: ['3event', 34, 2]
+>3
+ENSACLT00000032727: ['exon skipping', 0, 0]
+ENSMZET00005014608: ['exon skipping', 0, 0]
+ENSPNYT00000020986: ['5event', 13, 1]

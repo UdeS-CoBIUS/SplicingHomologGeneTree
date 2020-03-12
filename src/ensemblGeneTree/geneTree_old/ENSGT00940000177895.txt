@@ -1,0 +1,1 @@
+(((ENSHCOG00000008999__Hippocampus_comes,ENSHCOG00000017034__Hippocampus_comes),(((ENSPREG00000016193__Poecilia_reticulata,ENSGAFG00000009926__Gambusia_affinis),ENSXCOG00000000168__Xiphophorus_couchianus),ENSCVAG00000010218__Cyprinodon_variegatus)),(ENSAMXG00000030564__Astyanax_mexicanus,ENSAMXG00000039043__Astyanax_mexicanus));

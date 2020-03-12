@@ -1,0 +1,1 @@
+((ENSLOCG00000003569__Lepisosteus_oculatus,ENSIPUG00000019549__Ictalurus_punctatus),(ENSAHAG00000000852__Apteryx_haastii,ENSCPUG00000017397__Calidris_pugnax));

@@ -1,0 +1,1 @@
+((((ENSEBUG00000006654__Eptatretus_burgeri,ENSEBUG00000009019__Eptatretus_burgeri),ENSEBUG00000007813__Eptatretus_burgeri),(ENSEBUG00000000801__Eptatretus_burgeri,ENSEBUG00000016034__Eptatretus_burgeri)),ENSHCOG00000003179__Hippocampus_comes);

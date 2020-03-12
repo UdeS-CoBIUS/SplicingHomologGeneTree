@@ -1,0 +1,1 @@
+((ENSMMMG00000005811__Marmota_marmota_marmota,ENSMMMG00000002080__Marmota_marmota_marmota),(ENSUPAG00010009241__Urocitellus_parryii,ENSUPAG00010000151__Urocitellus_parryii));

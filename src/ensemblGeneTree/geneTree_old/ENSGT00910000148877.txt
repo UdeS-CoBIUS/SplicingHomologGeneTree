@@ -1,0 +1,1 @@
+(((ENSCCNG00000019968__Castor_canadensis,ENSMUGG00000007064__Meriones_unguiculatus),(ENSMFAG00000037577__Macaca_fascicularis,ENSMMUG00000044862__Macaca_mulatta)),(ENSAOCG00000008237__Amphiprion_ocellaris,ENSAPOG00000011336__Acanthochromis_polyacanthus));

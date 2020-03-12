@@ -1,0 +1,1 @@
+((((ENSPFOG00000008306__Poecilia_formosa,ENSPLAG00000004201__Poecilia_latipinna),ENSGAFG00000020538__Gambusia_affinis),(ENSFHEG00000011515__Fundulus_heteroclitus,ENSFHEG00000022885__Fundulus_heteroclitus)),(ENSFHEG00000002820__Fundulus_heteroclitus,ENSPFOG00000022342__Poecilia_formosa));

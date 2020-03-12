@@ -1,0 +1,1 @@
+((((((ENSCVAG00000008057__Cyprinodon_variegatus,ENSGAFG00000019030__Gambusia_affinis),ENSOMEG00000008776__Oryzias_melastigma),ENSSDUG00000013493__Seriola_dumerili),ENSSMAG00000018095__Scophthalmus_maximus),ENSATEG00000013253__Anabas_testudineus),(ENSSFOG00015019388__Scleropages_formosus,ENSPKIG00000002223__Paramormyrops_kingsleyae));

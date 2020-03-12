@@ -1,0 +1,1 @@
+(((ENSCVAG00000011789__Cyprinodon_variegatus,ENSATEG00000001034__Anabas_testudineus),ENSIPUG00000017095__Ictalurus_punctatus),((ENSGAGG00000003031__Gopherus_agassizii,ENSSPUG00000005433__Sphenodon_punctatus),ENSCCEG00000001471__Cyanistes_caeruleus));

@@ -1,0 +1,1 @@
+((((((ENSMLEG00000032815__Mandrillus_leucophaeus,ENSCANG00000041490__Colobus_angolensis_palliatus),ENSPPAG00000039094__Pan_paniscus),ENSPTIG00000007282__Panthera_tigris_altaica),ENSCABG00000015346__Chelonoidis_abingdonii),ENSAOCG00000018458__Amphiprion_ocellaris),ENSEBUG00000014203__Eptatretus_burgeri);

@@ -1,0 +1,5 @@
+PONGOABELII	pongo_abelii
+CHLOROCEBUSSABAEUS	chlorocebus_sabaeus
+OTOLEMURGARNETTII	otolemur_garnettii
+TUPAIABELANGERI	tupaia_belangeri
+ERINACEUSEUROPAEUS	erinaceus_europaeus

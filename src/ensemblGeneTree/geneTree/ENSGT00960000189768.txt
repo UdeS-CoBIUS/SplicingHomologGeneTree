@@ -1,0 +1,1 @@
+(((ENSPMJG00000005898__Parus_major,ENSLCOG00000009926__Lepidothrix_coronata),ENSCJPG00005006372__Coturnix_japonica),(ENSAHAG00000000934__Apteryx_haastii,ENSARWG00000011427__Apteryx_rowi));

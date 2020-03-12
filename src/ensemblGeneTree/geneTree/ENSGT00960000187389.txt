@@ -1,0 +1,1 @@
+(((ENSSMAG00000014352__Scophthalmus_maximus,ENSSMAG00000014347__Scophthalmus_maximus),(ENSSPAG00000022618__Stegastes_partitus,ENSPREG00000017853__Poecilia_reticulata)),((ENSAHAG00000014699__Apteryx_haastii,ENSAOWG00000004431__Apteryx_owenii),ENSCJPG00005017334__Coturnix_japonica));

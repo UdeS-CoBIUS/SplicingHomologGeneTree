@@ -1,0 +1,1 @@
+(((((((ENSAMXG00000037910__Astyanax_mexicanus,ENSAMXG00000040251__Astyanax_mexicanus),ENSAMXG00000032696__Astyanax_mexicanus),ENSAMXG00000042379__Astyanax_mexicanus),ENSAMXG00000038449__Astyanax_mexicanus),ENSAMXG00000036834__Astyanax_mexicanus),ENSAMXG00000035828__Astyanax_mexicanus),(ENSAHAG00000000005__Apteryx_haastii,ENSECAG00000034861__Equus_caballus));

@@ -1,0 +1,1 @@
+(((ENSNPEG00000006159__Nothoprocta_perdicaria,ENSAPLG00000019536__Anas_platyrhynchos_platyrhynchos),ENSSPUG00000011742__Sphenodon_punctatus),(ENSUAMG00000003991__Ursus_americanus,ENSRBIG00000019909__Rhinopithecus_bieti));

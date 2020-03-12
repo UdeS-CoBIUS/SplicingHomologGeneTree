@@ -1,0 +1,1 @@
+(((ENSIPUG00000012564__Ictalurus_punctatus,ENSIPUG00000012577__Ictalurus_punctatus),ENSAPEG00000000211__Amphiprion_percula),(ENSAHAG00000003316__Apteryx_haastii,ENSCCEG00000020041__Cyanistes_caeruleus));

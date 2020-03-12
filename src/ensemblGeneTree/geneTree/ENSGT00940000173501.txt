@@ -1,0 +1,1 @@
+(((ENSTNIG00000019741__Tetraodon_nigroviridis,ENSPMGG00000009779__Periophthalmus_magnuspinnatus),((ENSSPUG00000005190__Sphenodon_punctatus,ENSAPLG00000021400__Anas_platyrhynchos_platyrhynchos),ENSPCIG00000034586__Phascolarctos_cinereus)),ENSPMAG00000003306__Petromyzon_marinus);

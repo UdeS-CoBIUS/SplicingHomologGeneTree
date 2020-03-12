@@ -1,0 +1,1 @@
+((((ENSTGUG00000012368__Taeniopygia_guttata,ENSSMRG00000012262__Salvator_merianae),(((ENSAMEG00000000217__Ailuropoda_melanoleuca,ENSMLUG00000026360__Myotis_lucifugus),ENSBBBG00000000601__Bison_bison_bison),ENSFDAG00000016589__Fukomys_damarensis)),ENSLACG00000016918__Latimeria_chalumnae),ENSDARG00000103771__Danio_rerio);

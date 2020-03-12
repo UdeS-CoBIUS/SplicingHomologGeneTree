@@ -1,0 +1,1 @@
+((((ENSABRG00000001818__Anser_brachyrhynchus,ENSCPGG00000000093__Calidris_pygmaea),ENSAHAG00000002840__Apteryx_haastii),ENSCPBG00000014598__Chrysemys_picta_bellii),ENSSPUG00000002235__Sphenodon_punctatus);

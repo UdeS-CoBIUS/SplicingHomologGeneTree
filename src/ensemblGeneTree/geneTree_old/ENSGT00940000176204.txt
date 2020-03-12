@@ -1,0 +1,1 @@
+((((ENSXCOG00000014024__Xiphophorus_couchianus,ENSXMAG00000026198__Xiphophorus_maculatus),ENSPMGG00000015329__Periophthalmus_magnuspinnatus),ENSORLG00000024265__Oryzias_latipes_ASM223467v1),ENSGACG00000010552__Gasterosteus_aculeatus);

@@ -1,0 +1,1 @@
+((ENSAOCG00000005129__Amphiprion_ocellaris,ENSAPEG00000004384__Amphiprion_percula),((ENSAPEG00000010772__Amphiprion_percula,ENSAOCG00000016885__Amphiprion_ocellaris),(ENSAOCG00000011385__Amphiprion_ocellaris,ENSAPEG00000008919__Amphiprion_percula)));

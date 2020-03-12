@@ -1,0 +1,9 @@
+>0
+ENSMVIT00005013383: ['no event', 111, 0]
+ENSNSUT00000007263: ['exon skipping', 0, 0]
+>1
+ENSMVIT00005013383: ['3event', 84, 1]
+ENSNSUT00000007263: ['5event', 212, 0]
+>2
+ENSMVIT00005013383: ['5event', 50, 0]
+ENSNSUT00000007263: ['exon skipping', 0, 0]

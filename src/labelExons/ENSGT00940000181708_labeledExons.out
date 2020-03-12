@@ -1,0 +1,39 @@
+>0
+ENSAPET00000013352: ['no event', 86, 0]
+ENSAPOT00000033492: ['no event', 86, 0]
+>1
+ENSAPET00000013352: ['no event', 71, 0]
+ENSAPOT00000033492: ['no event', 71, 0]
+>2
+ENSAPET00000013352: ['no event', 119, 0]
+ENSAPOT00000033492: ['no event', 119, 0]
+>3
+ENSAPET00000013352: ['no event', 56, 0]
+ENSAPOT00000033492: ['no event', 56, 0]
+>4
+ENSAPET00000013352: ['no event', 169, 0]
+ENSAPOT00000033492: [['internal gap < 30', 106, 3], 166, 0]
+>5
+ENSAPET00000013352: ['no event', 131, 2]
+ENSAPOT00000033492: ['no event', 131, 2]
+>6
+ENSAPET00000013352: ['no event', 69, 2]
+ENSAPOT00000033492: ['no event', 69, 2]
+>7
+ENSAPET00000013352: ['no event', 102, 0]
+ENSAPOT00000033492: ['no event', 102, 0]
+>8
+ENSAPET00000013352: ['no event', 71, 1]
+ENSAPOT00000033492: ['no event', 71, 1]
+>9
+ENSAPET00000013352: ['no event', 98, 1]
+ENSAPOT00000033492: [['internal gap < 30', 53, 18], 80, 1]
+>10
+ENSAPET00000013352: [['internal gap < 30', 18, 9], 44, 1]
+ENSAPOT00000033492: ['no event', 53, 1]
+>11
+ENSAPET00000013352: ['no event', 143, 1]
+ENSAPOT00000033492: ['no event', 143, 1]
+>12
+ENSAPET00000013352: ['no event', 64, 1]
+ENSAPOT00000033492: ['no event', 64, 1]

@@ -1,0 +1,35 @@
+>0
+ENSAMXT00000055164: ['5event', 53, 0]
+ENSPNAT00000033592: ['5event', 53, 0]
+ENSDART00000109283: ['5event', 53, 0]
+ENSDART00000191914: ['no event', 89, 0]
+>1
+ENSAMXT00000055164: ['no event', 50, 0]
+ENSPNAT00000033592: ['no event', 50, 0]
+ENSDART00000109283: [['internal gap < 30', 36, 3], 47, 0]
+ENSDART00000191914: [['internal gap < 30', 36, 3], 47, 0]
+>2
+ENSAMXT00000055164: [['internal gap < 30', 2, 3], 62, 0]
+ENSPNAT00000033592: [['internal gap < 30', 42, 12], 53, 0]
+ENSDART00000109283: [['internal gap < 30', 2, 18], 47, 0]
+ENSDART00000191914: [['internal gap < 30', 2, 18], 47, 0]
+>3
+ENSAMXT00000055164: [['internal gap < 30', 17, 6], 29, 0]
+ENSPNAT00000033592: [['internal gap < 30', 20, 3], 32, 0]
+ENSDART00000109283: ['no event', 35, 0]
+ENSDART00000191914: ['no event', 35, 0]
+>4
+ENSAMXT00000055164: ['no event', 68, 0]
+ENSPNAT00000033592: ['no event', 68, 0]
+ENSDART00000109283: ['no event', 68, 0]
+ENSDART00000191914: ['no event', 68, 0]
+>5
+ENSAMXT00000055164: [['internal gap < 30', 67, 24], 77, 0]
+ENSPNAT00000033592: [['internal gap < 30', 23, 6], 95, 0]
+ENSDART00000109283: ['no event', 101, 0]
+ENSDART00000191914: ['no event', 101, 0]
+>6
+ENSAMXT00000055164: [['internal gap < 30', 42, 3], 44, 0]
+ENSPNAT00000033592: ['no event', 47, 0]
+ENSDART00000109283: [['internal gap < 30', 39, 6], 41, 0]
+ENSDART00000191914: [['internal gap < 30', 39, 6], 41, 0]

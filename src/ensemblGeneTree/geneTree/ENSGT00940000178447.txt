@@ -1,0 +1,1 @@
+(((ENSAOCG00000016255__Amphiprion_ocellaris,ENSAOCG00000017555__Amphiprion_ocellaris),ENSAOCG00000013426__Amphiprion_ocellaris),(ENSORLG00000027855__Oryzias_latipes_ASM223467v1,ENSOMEG00000007368__Oryzias_melastigma));

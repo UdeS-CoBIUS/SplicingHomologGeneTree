@@ -1,0 +1,1 @@
+(((((ENSNMEG00000006454__Numida_meleagris,ENSGALG00000045736__Gallus_gallus),ENSAPLG00000001785__Anas_platyrhynchos_platyrhynchos),(ENSCPGG00000015207__Calidris_pygmaea,ENSCPUG00000018501__Calidris_pugnax)),ENSNPEG00000008530__Nothoprocta_perdicaria),ENSACAG00000021118__Anolis_carolinensis);

@@ -1,0 +1,1 @@
+((ENSPTEG00000011197__Piliocolobus_tephrosceles,ENSCANG00000018130__Colobus_angolensis_palliatus),((((ENSMFAG00000012527__Macaca_fascicularis,ENSMMUG00000048768__Macaca_mulatta),ENSMLEG00000027767__Mandrillus_leucophaeus),ENSTGEG00000017311__Theropithecus_gelada),ENSCATG00000003311__Cercocebus_atys));

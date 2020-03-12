@@ -1,0 +1,10 @@
+>0
+ENSVURT00010030516: [['internal gap < 30', 138, 3], 405, 0]
+ENSPCIT00000036721: [['internal gap < 30', 138, 3], 405, 0]
+ENSUAMT00000033755: [['internal gap < 30', 135, 6], 402, 0]
+ENSAMET00000002637: ['no event', 408, 0]
+>1
+ENSVURT00010030516: [['internal gap >= 30', 410, 39], 448, 1]
+ENSPCIT00000036721: [['internal gap < 30', 413, 27], 460, 1]
+ENSUAMT00000033755: [['internal gap >= 30', 407, 42], 445, 1]
+ENSAMET00000002637: [['internal gap >= 30', 407, 42], 445, 1]

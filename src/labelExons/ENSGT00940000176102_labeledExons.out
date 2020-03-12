@@ -1,0 +1,12 @@
+>0
+ENSKMAT00000022377: ['no event', 161, 0]
+ENSPMGT00000013323: ['exon skipping', 0, 0]
+>1
+ENSKMAT00000022377: ['exon skipping', 0, 0]
+ENSPMGT00000013323: ['5event', 44, 0]
+>2
+ENSKMAT00000022377: ['exon skipping', 0, 0]
+ENSPMGT00000013323: ['no event', 68, 0]
+>3
+ENSKMAT00000022377: ['5event', 116, 0]
+ENSPMGT00000013323: ['no event', 118, 0]

@@ -1,0 +1,1 @@
+(((ENSMAMG00000003248__Mastacembelus_armatus,ENSMALG00000016408__Monopterus_albus),ENSCSEG00000003680__Cynoglossus_semilaevis),(ENSONIG00000019153__Oreochromis_niloticus,ENSPMGG00000010566__Periophthalmus_magnuspinnatus));

@@ -1,0 +1,4 @@
+EQUUSCABALLUS	equus_caballus
+OVISARIES	ovis_aries
+CANISLUPUSFAMILIARIS	canis_lupus_familiaris
+POGONAVITTICEPS	pogona_vitticeps

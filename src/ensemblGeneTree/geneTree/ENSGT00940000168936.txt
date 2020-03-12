@@ -1,0 +1,1 @@
+(((ENSRNOG00000015195__Rattus_norvegicus,ENSFDAG00000017316__Fukomys_damarensis),ENSHCOG00000017718__Hippocampus_comes),(FBgn0016715__Drosophila_melanogaster,FBgn0029712__Drosophila_melanogaster));

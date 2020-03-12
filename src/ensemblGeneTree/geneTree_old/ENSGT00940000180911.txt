@@ -1,0 +1,1 @@
+((ENSVVUG00000011907__Vulpes_vulpes,ENSVVUG00000001530__Vulpes_vulpes),(ENSAOCG00000013145__Amphiprion_ocellaris,ENSAPOG00000020226__Acanthochromis_polyacanthus));

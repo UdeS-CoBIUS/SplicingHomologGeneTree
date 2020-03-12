@@ -1,0 +1,1 @@
+(((ENSCPBG00000012664__Chrysemys_picta_bellii,ENSGAGG00000003642__Gopherus_agassizii),ENSPSIG00000012145__Pelodiscus_sinensis),ENSGMOG00000020091__Gadus_morhua);

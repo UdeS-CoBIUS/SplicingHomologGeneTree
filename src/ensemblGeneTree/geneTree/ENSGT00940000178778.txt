@@ -1,0 +1,1 @@
+(((ENSAMXG00000043762__Astyanax_mexicanus,ENSPNAG00000007888__Pygocentrus_nattereri),ENSPNAG00000025483__Pygocentrus_nattereri),ENSAPOG00000014870__Acanthochromis_polyacanthus);

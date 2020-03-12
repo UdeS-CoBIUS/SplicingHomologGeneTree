@@ -1,0 +1,1 @@
+(ENSLACG00000012639__Latimeria_chalumnae,ENSXETG00000002378__Xenopus_tropicalis);

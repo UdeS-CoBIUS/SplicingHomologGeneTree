@@ -1,0 +1,1 @@
+((ENSSDAG00000016223__Spermophilus_dauricus,ENSPEMG00000030366__Peromyscus_maniculatus_bairdii),(ENSUMAG00000004894__Ursus_maritimus,ENSCAFG00020000262__Canis_lupus_dingo));

@@ -1,0 +1,1 @@
+(((ENSPFOG00000024646__Poecilia_formosa,ENSHHUG00000027381__Hucho_hucho),ENSLOCG00000003616__Lepisosteus_oculatus),(ENSGAGG00000011410__Gopherus_agassizii,ENSNGAG00000017794__Nannospalax_galili));

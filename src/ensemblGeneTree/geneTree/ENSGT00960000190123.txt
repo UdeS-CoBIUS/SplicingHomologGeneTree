@@ -1,0 +1,1 @@
+(((ENSAHAG00000012563__Apteryx_haastii,ENSAOWG00000006854__Apteryx_owenii),ENSDNVG00000005527__Dromaius_novaehollandiae),ENSLSDG00000002667__Lonchura_striata_domestica);

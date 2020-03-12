@@ -1,0 +1,1 @@
+(((ENSCABG00000016853__Chelonoidis_abingdonii,ENSAPLG00000025103__Anas_platyrhynchos_platyrhynchos),ENSMUNG00000014673__Melopsittacus_undulatus),ENSSMRG00000006605__Salvator_merianae);

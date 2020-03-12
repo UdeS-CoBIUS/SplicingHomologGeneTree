@@ -1,0 +1,35 @@
+>0
+F53F1.2.1: ['exon skipping', 0, 0]
+F53F1.2.2: ['exon skipping', 0, 0]
+C01G5.5.1: ['3event', 72, 0]
+F53F1.3.1: ['no event', 173, 0]
+>1
+F53F1.2.1: ['5event', 203, 0]
+F53F1.2.2: ['5event', 203, 0]
+C01G5.5.1: ['5event', 98, 0]
+F53F1.3.1: ['exon skipping', 0, 0]
+>2
+F53F1.2.1: ['3event', 245, 0]
+F53F1.2.2: ['3event', 245, 0]
+C01G5.5.1: ['3event', 248, 0]
+F53F1.3.1: ['5event', ['internal gap >= 30', 120, 72], 311, 0]
+>3
+F53F1.2.1: ['5event', 169, 1]
+F53F1.2.2: ['5event', 169, 1]
+C01G5.5.1: ['5event', 169, 1]
+F53F1.3.1: [['internal gap >= 30', 1, 74], 96, 0]
+>4
+F53F1.2.1: ['3event', 91, 0]
+F53F1.2.2: ['3event', 91, 0]
+C01G5.5.1: [['internal gap < 30', 40, 28], 89, 0]
+F53F1.3.1: ['3event', 91, 0]
+>5
+F53F1.2.1: ['5event', 185, 0]
+F53F1.2.2: ['5event', 185, 0]
+C01G5.5.1: ['3event', 89, 0]
+F53F1.3.1: ['exon skipping', 0, 0]
+>6
+F53F1.2.1: ['exon skipping', 0, 0]
+F53F1.2.2: ['exon skipping', 0, 0]
+C01G5.5.1: ['5event', ['internal gap >= 30', 14, 82], 98, 0]
+F53F1.3.1: ['5event', 179, 0]

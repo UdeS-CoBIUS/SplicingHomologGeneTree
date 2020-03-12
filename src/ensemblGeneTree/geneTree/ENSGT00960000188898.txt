@@ -1,0 +1,1 @@
+((ENSTGEG00000006658__Theropithecus_gelada,ENSPCIG00000004210__Phascolarctos_cinereus),(ENSAOWG00000017696__Apteryx_owenii,ENSNMEG00000004621__Numida_meleagris));

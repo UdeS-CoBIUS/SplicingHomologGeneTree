@@ -1,0 +1,1 @@
+(((ENSGGOG00000004845__Gorilla_gorilla,ENSNGAG00000014850__Nannospalax_galili),(ENSPVAG00000007526__Pteropus_vampyrus,ENSVPAG00000009651__Vicugna_pacos)),ENSETEG00000000098__Echinops_telfairi);

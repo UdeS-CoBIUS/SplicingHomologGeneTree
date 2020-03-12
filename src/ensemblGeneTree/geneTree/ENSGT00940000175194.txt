@@ -1,0 +1,1 @@
+((((ENSNBRG00000010685__Neolamprologus_brichardi,ENSONIG00000008215__Oreochromis_niloticus),ENSACIG00000023692__Amphilophus_citrinellus),ENSSLDG00000010534__Seriola_lalandi_dorsalis),ENSPNAG00000006845__Pygocentrus_nattereri);

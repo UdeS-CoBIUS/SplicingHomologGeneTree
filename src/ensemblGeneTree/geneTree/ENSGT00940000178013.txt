@@ -1,0 +1,1 @@
+(((((ENSHBUG00000021528__Haplochromis_burtoni,ENSACLG00000005691__Astatotilapia_calliptera),ENSACIG00000013928__Amphilophus_citrinellus),ENSMZEG00005006796__Maylandia_zebra),ENSPLAG00000007332__Poecilia_latipinna),(ENSPNAG00000000113__Pygocentrus_nattereri,ENSAMXG00000030082__Astyanax_mexicanus));

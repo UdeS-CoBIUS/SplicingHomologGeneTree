@@ -1,0 +1,48 @@
+>0
+ENSCJPT00005023907: ['5event', 90, 0]
+ENSGALT00000100332: ['3event', 208, 0]
+ENSGALT00000089791: ['3event', 208, 0]
+ENSGALT00000100464: ['exon skipping', 0, 0]
+ENSNMET00000009747: ['3event', '5event', 172, 0]
+>1
+ENSCJPT00005023907: [['internal gap < 30', 168, 12], 337, 1]
+ENSGALT00000100332: ['5event', ['internal gap < 30', 164, 10], 339, 1]
+ENSGALT00000089791: ['5event', ['internal gap < 30', 164, 10], 339, 1]
+ENSGALT00000100464: ['5event', ['internal gap >= 30', 91, 111], 238, 0]
+ENSNMET00000009747: ['5event', ['internal gap < 30', 112, 4], 345, 1]
+>2
+ENSCJPT00005023907: ['no event', 89, 2]
+ENSGALT00000100332: ['no event', 89, 2]
+ENSGALT00000089791: ['no event', 89, 2]
+ENSGALT00000100464: ['no event', 89, 2]
+ENSNMET00000009747: ['no event', 89, 2]
+>3
+ENSCJPT00005023907: ['no event', 165, 2]
+ENSGALT00000100332: ['no event', 165, 2]
+ENSGALT00000089791: ['no event', 165, 2]
+ENSGALT00000100464: ['no event', 165, 2]
+ENSNMET00000009747: ['no event', 165, 2]
+>4
+ENSCJPT00005023907: [['internal gap < 30', 117, 3], 137, 0]
+ENSGALT00000100332: [['internal gap < 30', 117, 3], 137, 0]
+ENSGALT00000089791: [['internal gap < 30', 117, 3], 137, 0]
+ENSGALT00000100464: [['internal gap < 30', 117, 3], 137, 0]
+ENSNMET00000009747: [['internal gap < 30', 22, 9], 131, 0]
+>5
+ENSCJPT00005023907: ['3event', 424, 0]
+ENSGALT00000100332: [['internal gap >= 30', 479, 122], 605, 0]
+ENSGALT00000089791: ['3event', 637, 0]
+ENSGALT00000100464: ['3event', 506, 0]
+ENSNMET00000009747: ['3event', 481, 0]
+>6
+ENSCJPT00005023907: ['5event', 128, 0]
+ENSGALT00000100332: ['exon skipping', 0, 0]
+ENSGALT00000089791: ['exon skipping', 0, 0]
+ENSGALT00000100464: ['exon skipping', 0, 0]
+ENSNMET00000009747: ['5event', 128, 0]
+>7
+ENSCJPT00005023907: ['exon skipping', 0, 0]
+ENSGALT00000100332: ['exon skipping', 0, 0]
+ENSGALT00000089791: ['exon skipping', 0, 0]
+ENSGALT00000100464: ['5event', 64, 1]
+ENSNMET00000009747: ['exon skipping', 0, 0]

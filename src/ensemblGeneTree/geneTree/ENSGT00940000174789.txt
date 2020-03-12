@@ -1,0 +1,1 @@
+((((ENSZALG00000006427__Zonotrichia_albicollis,ENSCCEG00000014342__Cyanistes_caeruleus),ENSCJPG00005013720__Coturnix_japonica),(ENSDNVG00000016491__Dromaius_novaehollandiae,ENSNPEG00000007876__Nothoprocta_perdicaria)),ENSOANG00000012322__Ornithorhynchus_anatinus);

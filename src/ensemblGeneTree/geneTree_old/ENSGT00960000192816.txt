@@ -1,0 +1,1 @@
+(ENSAMEG00000019416__Ailuropoda_melanoleuca,ENSBBBG00000012456__Bison_bison_bison);

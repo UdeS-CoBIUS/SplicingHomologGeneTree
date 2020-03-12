@@ -1,0 +1,1 @@
+(((ENSUAMG00000011585__Ursus_americanus,ENSBTAG00000052675__Bos_taurus),ENSCCNG00000002775__Castor_canadensis),(ENSPMGG00000012818__Periophthalmus_magnuspinnatus,ENSPMGG00000011451__Periophthalmus_magnuspinnatus));

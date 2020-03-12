@@ -1,0 +1,1 @@
+(((ENSPANG00000031658__Papio_anubis,ENSMLEG00000023545__Mandrillus_leucophaeus),ENSPSMG00000013232__Prolemur_simus),((((ENSPTIG00000013314__Panthera_tigris_altaica,ENSPPRG00000020081__Panthera_pardus),ENSFCAG00000034018__Felis_catus),ENSNVIG00000011151__Neovison_vison),ENSSSCG00000040249__Sus_scrofa));

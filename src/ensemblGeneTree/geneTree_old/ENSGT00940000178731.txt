@@ -1,0 +1,1 @@
+(((ENSKMAG00000003037__Kryptolebias_marmoratus,ENSORLG00000025627__Oryzias_latipes_ASM223467v1),ENSMZEG00005028177__Maylandia_zebra),ENSPKIG00000010058__Paramormyrops_kingsleyae);

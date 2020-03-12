@@ -1,0 +1,1 @@
+((((ENSSBOG00000024339__Saimiri_boliviensis_boliviensis,ENSCCAG00000021773__Cebus_capucinus_imitator),ENSANAG00000020597__Aotus_nancymaae),(((ENSPTRG00000047998__Pan_troglodytes,ENSPPAG00000026570__Pan_paniscus),ENSGGOG00000041600__Gorilla_gorilla),ENSCANG00000020635__Colobus_angolensis_palliatus)),ENSCHIG00000027162__Capra_hircus);

@@ -1,0 +1,1 @@
+(((ENSAPEG00000006922__Amphiprion_percula,ENSAOCG00000004875__Amphiprion_ocellaris),(ENSAOCG00000023467__Amphiprion_ocellaris,ENSAPOG00000017467__Acanthochromis_polyacanthus)),ENSLACG00000001261__Latimeria_chalumnae);

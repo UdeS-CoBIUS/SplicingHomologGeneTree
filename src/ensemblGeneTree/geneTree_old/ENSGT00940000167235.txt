@@ -1,0 +1,1 @@
+((((ENSCSAVG00000000735__Ciona_savignyi,ENSCING00000003686__Ciona_intestinalis),(ENSCSAVG00000010592__Ciona_savignyi,ENSCING00000016246__Ciona_intestinalis)),(ENSMZEG00005026052__Maylandia_zebra,ENSCANG00000041157__Colobus_angolensis_palliatus)),(WBGene00004214__Caenorhabditis_elegans_strain_N2,FBgn0000382__Drosophila_melanogaster));

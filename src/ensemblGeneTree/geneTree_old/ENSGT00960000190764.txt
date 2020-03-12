@@ -1,0 +1,1 @@
+((ENSTGEG00000015422__Theropithecus_gelada,ENSPTEG00000008868__Piliocolobus_tephrosceles),ENSEASG00005009029__Equus_asinus_asinus);

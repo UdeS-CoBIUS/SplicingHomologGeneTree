@@ -1,0 +1,3 @@
+F53F1.3.1	WBGene00009981	Caenorhabditis_elegans_strain_N2	F53F1.3.1
+C01G5.5.1	WBGene00015307	Caenorhabditis_elegans_strain_N2	C01G5.5.1
+F53F1.2.1	WBGene00009980	Caenorhabditis_elegans_strain_N2	F53F1.2.1

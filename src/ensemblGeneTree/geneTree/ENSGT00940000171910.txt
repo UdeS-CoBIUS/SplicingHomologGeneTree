@@ -1,0 +1,1 @@
+(((ENSTBEG00000014713__Tupaia_belangeri,ENSECAG00000039459__Equus_caballus),ENSTGUG00000017427__Taeniopygia_guttata),YBL064C__Saccharomyces_cerevisiae_strain_S288C);

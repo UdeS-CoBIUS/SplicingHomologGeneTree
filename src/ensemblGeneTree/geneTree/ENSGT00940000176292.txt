@@ -1,0 +1,1 @@
+(((((ENSAMXG00000043299__Astyanax_mexicanus,ENSAMXG00000040418__Astyanax_mexicanus),ENSPNAG00000026833__Pygocentrus_nattereri),ENSIPUG00000012731__Ictalurus_punctatus),ENSAMXG00000030146__Astyanax_mexicanus),(ENSMZEG00005021216__Maylandia_zebra,ENSNBRG00000003582__Neolamprologus_brichardi));

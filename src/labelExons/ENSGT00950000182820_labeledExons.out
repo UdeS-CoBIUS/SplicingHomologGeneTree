@@ -1,0 +1,42 @@
+>0
+ENSECAT00000008416: ['no event', 104, 0]
+ENSECAT00000064732: ['no event', 104, 0]
+>1
+ENSECAT00000008416: ['no event', 68, 0]
+ENSECAT00000064732: ['no event', 68, 0]
+>2
+ENSECAT00000008416: ['no event', 77, 0]
+ENSECAT00000064732: ['no event', 77, 0]
+>3
+ENSECAT00000008416: ['no event', 26, 0]
+ENSECAT00000064732: ['no event', 26, 0]
+>4
+ENSECAT00000008416: ['no event', 54, 0]
+ENSECAT00000064732: ['no event', 54, 0]
+>5
+ENSECAT00000008416: ['no event', 25, 1]
+ENSECAT00000064732: ['no event', 25, 1]
+>6
+ENSECAT00000008416: ['no event', 53, 0]
+ENSECAT00000064732: ['no event', 53, 0]
+>7
+ENSECAT00000008416: ['no event', 56, 0]
+ENSECAT00000064732: ['no event', 56, 0]
+>8
+ENSECAT00000008416: ['no event', 65, 0]
+ENSECAT00000064732: ['no event', 65, 0]
+>9
+ENSECAT00000008416: ['no event', 90, 0]
+ENSECAT00000064732: ['no event', 90, 0]
+>10
+ENSECAT00000008416: ['exon skipping', 0, 0]
+ENSECAT00000064732: ['no event', 115, 1]
+>11
+ENSECAT00000008416: ['exon skipping', 0, 0]
+ENSECAT00000064732: ['no event', 85, 0]
+>12
+ENSECAT00000008416: ['5event', 117, 1]
+ENSECAT00000064732: ['no event', 129, 2]
+>13
+ENSECAT00000008416: ['no event', 84, 2]
+ENSECAT00000064732: ['3event', 79, 0]

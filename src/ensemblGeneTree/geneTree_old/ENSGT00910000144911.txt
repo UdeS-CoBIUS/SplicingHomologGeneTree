@@ -1,0 +1,1 @@
+((((ENSPSMG00000000962__Prolemur_simus,ENSOGAG00000030475__Otolemur_garnettii),ENSMMUG00000017871__Macaca_mulatta),ENSRNOG00000045728__Rattus_norvegicus),(((ENSAMEG00000013673__Ailuropoda_melanoleuca,ENSCAFG00000009117__Canis_lupus_familiaris),ENSOARG00000017511__Ovis_aries),ENSMLUG00000025172__Myotis_lucifugus));

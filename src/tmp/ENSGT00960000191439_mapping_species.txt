@@ -1,0 +1,2 @@
+BOSMUTUS	bos_mutus
+URSUSAMERICANUS	ursus_americanus

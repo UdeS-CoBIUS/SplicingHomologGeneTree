@@ -1,0 +1,3 @@
+PROLEMURSIMUS	prolemur_simus
+CALLITHRIXJACCHUS	callithrix_jacchus
+PANTHERAPARDUS	panthera_pardus

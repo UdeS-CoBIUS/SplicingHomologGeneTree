@@ -1,0 +1,1 @@
+((ENSPCOG00000019699__Propithecus_coquereli,ENSPSMG00000017828__Prolemur_simus),ENSBMUG00000020206__Bos_mutus);

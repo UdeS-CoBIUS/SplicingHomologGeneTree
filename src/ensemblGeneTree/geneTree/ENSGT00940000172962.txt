@@ -1,0 +1,1 @@
+((ENSCGRG00000010118__Cricetulus_griseus_CriGri_1.0,ENSPSMG00000024465__Prolemur_simus),((ENSBTAG00000048338__Bos_taurus,ENSBMUG00000002677__Bos_mutus),ENSBBBG00000011265__Bison_bison_bison));

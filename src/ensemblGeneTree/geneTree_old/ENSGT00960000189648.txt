@@ -1,0 +1,1 @@
+((((ENSTGEG00000015494__Theropithecus_gelada,ENSPTEG00000035374__Piliocolobus_tephrosceles),ENSNVIG00000017721__Neovison_vison),ENSOANG00000004906__Ornithorhynchus_anatinus),ENSCCEG00000005608__Cyanistes_caeruleus);

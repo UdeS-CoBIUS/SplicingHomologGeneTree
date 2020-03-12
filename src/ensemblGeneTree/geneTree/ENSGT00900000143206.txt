@@ -1,0 +1,1 @@
+((ENSMAUG00000017247__Mesocricetus_auratus,ENSCGRG00015007755__Cricetulus_griseus_CriGri-PICR),((MGP_SPRETEiJ_G0016656__Mus_spretus_strain_SPRET/EiJ,MGP_CAROLIEiJ_G0015832__Mus_caroli_strain_CAROLI_EIJ),MGP_PahariEiJ_G0031256__Mus_pahari_strain_PAHARI_EIJ));

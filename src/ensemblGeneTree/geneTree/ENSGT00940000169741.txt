@@ -1,0 +1,1 @@
+(((ENSACAG00000022689__Anolis_carolinensis,ENSPVIG00000019162__Pogona_vitticeps),ENSCABG00000018296__Chelonoidis_abingdonii),(MGP_SPRETEiJ_G0026334__Mus_spretus_strain_SPRET/EiJ,MGP_CAROLIEiJ_G0025387__Mus_caroli_strain_CAROLI_EIJ));

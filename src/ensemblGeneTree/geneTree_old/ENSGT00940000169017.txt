@@ -1,0 +1,1 @@
+((((((ENSDARG00000092140__Danio_rerio,ENSDARG00000103227__Danio_rerio),ENSDARG00000104932__Danio_rerio),ENSDARG00000096063__Danio_rerio),ENSAMXG00000031353__Astyanax_mexicanus),ENSSDUG00000019612__Seriola_dumerili),ENSPKIG00000022636__Paramormyrops_kingsleyae);

@@ -1,0 +1,1 @@
+(((ENSMMMG00000015973__Marmota_marmota_marmota,ENSOPRG00000003109__Ochotona_princeps),ENSTGEG00000025555__Theropithecus_gelada),(ENSBMUG00000011187__Bos_mutus,ENSBTAG00000053172__Bos_taurus));

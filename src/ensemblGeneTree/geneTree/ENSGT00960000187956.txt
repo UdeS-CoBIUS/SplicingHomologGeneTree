@@ -1,0 +1,1 @@
+((((((ENSPCIG00000016444__Phascolarctos_cinereus,ENSPCIG00000031137__Phascolarctos_cinereus),ENSPCIG00000030894__Phascolarctos_cinereus),ENSPCIG00000031311__Phascolarctos_cinereus),ENSPCIG00000002980__Phascolarctos_cinereus),ENSACAG00000015835__Anolis_carolinensis),ENSCVAG00000022784__Cyprinodon_variegatus);

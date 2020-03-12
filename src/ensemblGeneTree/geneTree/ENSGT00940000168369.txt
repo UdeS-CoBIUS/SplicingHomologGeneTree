@@ -1,0 +1,1 @@
+((ENSPVAG00000008737__Pteropus_vampyrus,ENSEEUG00000012030__Erinaceus_europaeus),(ENSFDAG00000004473__Fukomys_damarensis,ENSCLAG00000015833__Chinchilla_lanigera));

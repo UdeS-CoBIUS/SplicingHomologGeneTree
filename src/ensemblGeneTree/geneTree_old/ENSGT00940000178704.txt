@@ -1,0 +1,1 @@
+(((ENSXMAG00000030036__Xiphophorus_maculatus,ENSXCOG00000016644__Xiphophorus_couchianus),ENSAPEG00000017424__Amphiprion_percula),ENSHCOG00000019434__Hippocampus_comes);

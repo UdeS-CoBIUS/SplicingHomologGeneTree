@@ -1,0 +1,1 @@
+((((ENSMEUG00000009005__Notamacropus_eugenii,ENSPCIG00000007061__Phascolarctos_cinereus),ENSMODG00000017290__Monodelphis_domestica),(ENSNGAG00000012347__Nannospalax_galili,ENSSSCG00000004145__Sus_scrofa)),ENSOANG00000010437__Ornithorhynchus_anatinus);

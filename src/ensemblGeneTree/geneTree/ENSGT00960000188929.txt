@@ -1,0 +1,1 @@
+((((ENSCABG00000019857__Chelonoidis_abingdonii,ENSCPBG00000007031__Chrysemys_picta_bellii),(ENSAOWG00000004328__Apteryx_owenii,ENSDNVG00000008017__Dromaius_novaehollandiae)),ENSNSUG00000014894__Notechis_scutatus),ENSHCOG00000009313__Hippocampus_comes);

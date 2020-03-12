@@ -1,0 +1,1 @@
+((ENSOGAG00000034609__Otolemur_garnettii,ENSMODG00000028051__Monodelphis_domestica),(ENSSHAG00000008994__Sarcophilus_harrisii,ENSSDAG00000023901__Spermophilus_dauricus));

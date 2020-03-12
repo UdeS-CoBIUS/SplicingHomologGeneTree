@@ -1,0 +1,8 @@
+XIPHOPHORUSMACULATUS	xiphophorus_maculatus
+GAMBUSIAAFFINIS	gambusia_affinis
+ORYZIASLATIPES	oryzias_latipes
+ORYZIASLATIPES	oryzias_latipes
+GAMBUSIAAFFINIS	gambusia_affinis
+AMPHIPRIONOCELLARIS	amphiprion_ocellaris
+PERIOPHTHALMUSMAGNUSPINNATUS	periophthalmus_magnuspinnatus
+PYGOCENTRUSNATTERERI	pygocentrus_nattereri

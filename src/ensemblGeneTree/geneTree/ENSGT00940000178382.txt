@@ -1,0 +1,1 @@
+((ENSACIG00000020097__Amphilophus_citrinellus,ENSSPAG00000022198__Stegastes_partitus),(((ENSLBEG00000012892__Labrus_bergylta,ENSLBEG00000024180__Labrus_bergylta),ENSLBEG00000014409__Labrus_bergylta),ENSLCRG00005023241__Larimichthys_crocea));

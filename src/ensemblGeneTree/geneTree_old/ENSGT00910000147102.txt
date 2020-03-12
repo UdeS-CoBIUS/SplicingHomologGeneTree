@@ -1,0 +1,1 @@
+(((ENSNLEG00000035647__Nomascus_leucogenys,ENSPPAG00000039075__Pan_paniscus),(((ENSMLEG00000040905__Mandrillus_leucophaeus,ENSPANG00000035850__Papio_anubis),ENSCATG00000040797__Cercocebus_atys),((ENSMMUG00000044591__Macaca_mulatta,ENSMNEG00000019362__Macaca_nemestrina),ENSMFAG00000016048__Macaca_fascicularis))),ENSSBOG00000035141__Saimiri_boliviensis_boliviensis);

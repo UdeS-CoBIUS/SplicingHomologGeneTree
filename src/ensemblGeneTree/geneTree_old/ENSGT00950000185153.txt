@@ -1,0 +1,1 @@
+((ENSARWG00000009950__Apteryx_rowi,ENSZALG00000013117__Zonotrichia_albicollis),((((ENSUMAG00000025462__Ursus_maritimus,ENSUAMG00000015054__Ursus_americanus),ENSCHIG00000022977__Capra_hircus),ENSTGEG00000014051__Theropithecus_gelada),ENSPCIG00000010277__Phascolarctos_cinereus));

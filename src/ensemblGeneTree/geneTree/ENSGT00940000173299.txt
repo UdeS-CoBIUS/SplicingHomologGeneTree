@@ -1,0 +1,1 @@
+((((ENSTRUG00000023076__Takifugu_rubripes,ENSGACG00000000089__Gasterosteus_aculeatus),ENSPREG00000009839__Poecilia_reticulata),ENSCSEG00000021111__Cynoglossus_semilaevis),ENSGMOG00000017574__Gadus_morhua);

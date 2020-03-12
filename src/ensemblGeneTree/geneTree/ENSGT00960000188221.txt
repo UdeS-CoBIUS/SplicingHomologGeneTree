@@ -1,0 +1,1 @@
+((ENSEEUG00000013261__Erinaceus_europaeus,ENSEEUG00000014449__Erinaceus_europaeus),ENSCLAG00000001127__Chinchilla_lanigera);

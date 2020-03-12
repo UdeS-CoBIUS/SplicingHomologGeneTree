@@ -1,0 +1,1 @@
+((ENSMMOG00000009776__Mola_mola,ENSHCOG00000017704__Hippocampus_comes),((((ENSHBUG00000014004__Haplochromis_burtoni,ENSPNYG00000021370__Pundamilia_nyererei),ENSNBRG00000000892__Neolamprologus_brichardi),ENSACIG00000012063__Amphilophus_citrinellus),(ENSAOCG00000005096__Amphiprion_ocellaris,ENSAOCG00000023704__Amphiprion_ocellaris)));

@@ -1,0 +1,1 @@
+(ENSAPEG00000020393__Amphiprion_percula,ENSAOCG00000020190__Amphiprion_ocellaris);

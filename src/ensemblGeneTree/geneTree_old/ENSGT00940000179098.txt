@@ -1,0 +1,1 @@
+(((ENSAPEG00000004926__Amphiprion_percula,ENSAOCG00000020573__Amphiprion_ocellaris),ENSAPOG00000023571__Acanthochromis_polyacanthus),ENSSPAG00000022315__Stegastes_partitus);

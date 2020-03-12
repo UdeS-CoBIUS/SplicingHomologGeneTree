@@ -1,0 +1,1 @@
+(ENSCPGG00000009313__Calidris_pygmaea,ENSAPLG00000030656__Anas_platyrhynchos_platyrhynchos);

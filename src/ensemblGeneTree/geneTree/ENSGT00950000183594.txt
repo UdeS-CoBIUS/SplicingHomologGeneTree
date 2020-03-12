@@ -1,0 +1,1 @@
+((((((ENSHBUG00000010461__Haplochromis_burtoni,ENSHBUG00000010445__Haplochromis_burtoni),ENSACLG00000005713__Astatotilapia_calliptera),ENSMZEG00005024194__Maylandia_zebra),ENSNBRG00000011259__Neolamprologus_brichardi),ENSOMEG00000003506__Oryzias_melastigma),ENSSDUG00000017382__Seriola_dumerili);

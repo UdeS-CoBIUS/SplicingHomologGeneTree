@@ -1,0 +1,1 @@
+(((ENSSLDG00000001411__Seriola_lalandi_dorsalis,ENSNBRG00000023842__Neolamprologus_brichardi),ENSTRUG00000024430__Takifugu_rubripes),(ENSTGUG00000001884__Taeniopygia_guttata,ENSFALG00000014779__Ficedula_albicollis));

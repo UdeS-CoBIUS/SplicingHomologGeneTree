@@ -1,0 +1,1 @@
+((ENSTBEG00000000118__Tupaia_belangeri,ENSTBEG00000005149__Tupaia_belangeri),ENSSARG00000007990__Sorex_araneus);

@@ -1,0 +1,1 @@
+(ENSGALG00000054915__Gallus_gallus,ENSSPUG00000003916__Sphenodon_punctatus);

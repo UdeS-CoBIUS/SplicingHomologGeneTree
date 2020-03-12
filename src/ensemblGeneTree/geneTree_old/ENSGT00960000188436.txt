@@ -1,0 +1,1 @@
+(((ENSBMUG00000015914__Bos_mutus,ENSBTAG00000052666__Bos_taurus),ENSBBBG00000014327__Bison_bison_bison),ENSPSIG00000000604__Pelodiscus_sinensis);

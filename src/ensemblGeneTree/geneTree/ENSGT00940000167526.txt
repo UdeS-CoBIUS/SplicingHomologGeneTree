@@ -1,0 +1,1 @@
+(((ENSCING00000006657__Ciona_intestinalis,ENSCING00000020707__Ciona_intestinalis),((ENSDARG00000074041__Danio_rerio,ENSTRUG00000006098__Takifugu_rubripes),ENSPMAG00000006318__Petromyzon_marinus)),FBgn0263747__Drosophila_melanogaster);

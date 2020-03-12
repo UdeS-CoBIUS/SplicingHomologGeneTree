@@ -1,0 +1,1 @@
+(((ENSMNEG00000001486__Macaca_nemestrina,ENSMFAG00000044287__Macaca_fascicularis),(ENSTGEG00000024719__Theropithecus_gelada,ENSPANG00000029414__Papio_anubis)),(ENSMLEG00000006132__Mandrillus_leucophaeus,ENSCATG00000022576__Cercocebus_atys));

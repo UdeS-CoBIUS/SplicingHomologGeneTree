@@ -1,0 +1,1 @@
+((((ENSACIG00000019818__Amphilophus_citrinellus,ENSACIG00000023430__Amphilophus_citrinellus),ENSMZEG00005026775__Maylandia_zebra),ENSFHEG00000017478__Fundulus_heteroclitus),ENSSDUG00000000521__Seriola_dumerili);

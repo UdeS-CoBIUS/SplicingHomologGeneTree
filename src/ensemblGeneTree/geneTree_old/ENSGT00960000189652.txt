@@ -1,0 +1,1 @@
+(((ENSPSMG00000021257__Prolemur_simus,ENSPSMG00000009496__Prolemur_simus),ENSPSMG00000013077__Prolemur_simus),(ENSPSMG00000005747__Prolemur_simus,ENSPSMG00000023306__Prolemur_simus));

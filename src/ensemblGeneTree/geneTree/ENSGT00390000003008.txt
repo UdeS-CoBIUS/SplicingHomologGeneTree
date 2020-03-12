@@ -1,0 +1,1 @@
+(((ENSPPAG00000041711__Pan_paniscus,ENSCSAG00000006343__Chlorocebus_sabaeus),ENSTBEG00000010411__Tupaia_belangeri),(ENSTTRG00000007317__Tursiops_truncatus,ENSPVAG00000010019__Pteropus_vampyrus));

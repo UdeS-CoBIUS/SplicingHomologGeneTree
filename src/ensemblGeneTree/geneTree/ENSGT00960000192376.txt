@@ -1,0 +1,1 @@
+(ENSPPRG00000014903__Panthera_pardus,ENSLSDG00000008808__Lonchura_striata_domestica);

@@ -1,0 +1,1 @@
+((ENSMPUG00000013233__Mustela_putorius_furo,ENSUAMG00000007231__Ursus_americanus),ENSEASG00005018644__Equus_asinus_asinus);

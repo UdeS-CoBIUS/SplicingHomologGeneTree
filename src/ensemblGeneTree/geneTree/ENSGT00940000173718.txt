@@ -1,0 +1,1 @@
+((ENSGMOG00000007561__Gadus_morhua,ENSGACG00000001678__Gasterosteus_aculeatus),ENSPNAG00000001148__Pygocentrus_nattereri);

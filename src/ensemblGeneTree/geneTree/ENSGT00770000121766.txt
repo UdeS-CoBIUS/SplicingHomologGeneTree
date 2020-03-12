@@ -1,0 +1,1 @@
+((((ENSPFOG00000022144__Poecilia_formosa,ENSPLAG00000001198__Poecilia_latipinna),ENSPFOG00000024112__Poecilia_formosa),ENSXMAG00000028283__Xiphophorus_maculatus),(ENSXMAG00000029307__Xiphophorus_maculatus,ENSPLAG00000005675__Poecilia_latipinna));

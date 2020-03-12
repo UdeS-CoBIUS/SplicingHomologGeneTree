@@ -1,0 +1,1 @@
+(((ENSPTEG00000021963__Piliocolobus_tephrosceles,ENSPTEG00000021943__Piliocolobus_tephrosceles),ENSPTEG00000021982__Piliocolobus_tephrosceles),ENSPTEG00000022015__Piliocolobus_tephrosceles);

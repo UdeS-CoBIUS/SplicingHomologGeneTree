@@ -1,0 +1,1 @@
+(((((ENSSCAG00000014228__Serinus_canaria,ENSJHYG00000013191__Junco_hyemalis),ENSAPLG00000017131__Anas_platyrhynchos_platyrhynchos),ENSCPRG00005002043__Crocodylus_porosus),((ENSCABG00000005209__Chelonoidis_abingdonii,ENSGAGG00000004817__Gopherus_agassizii),ENSCPBG00000004640__Chrysemys_picta_bellii)),ENSNSUG00000001940__Notechis_scutatus);

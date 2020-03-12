@@ -1,0 +1,1 @@
+((ENSOANG00000021616__Ornithorhynchus_anatinus,ENSPCIG00000028897__Phascolarctos_cinereus),ENSACAG00000024422__Anolis_carolinensis);

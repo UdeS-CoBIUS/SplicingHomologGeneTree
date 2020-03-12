@@ -1,0 +1,1 @@
+(((((ENSPTRG00000050768__Pan_troglodytes,ENSPPAG00000011636__Pan_paniscus),ENSG00000284622__Homo_sapiens),ENSGGOG00000036613__Gorilla_gorilla),ENSPANG00000029909__Papio_anubis),(ENSCJAG00000046885__Callithrix_jacchus,ENSSBOG00000031662__Saimiri_boliviensis_boliviensis));

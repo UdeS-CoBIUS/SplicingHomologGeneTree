@@ -1,0 +1,1 @@
+((ENSTGUG00000016502__Taeniopygia_guttata,ENSMGAG00000017058__Meleagris_gallopavo),ENSCVAG00000011854__Cyprinodon_variegatus);

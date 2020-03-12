@@ -1,0 +1,1 @@
+((ENSCGRG00000016643__Cricetulus_griseus_CriGri_1.0,ENSMOCG00000018276__Microtus_ochrogaster),((MGP_SPRETEiJ_G0033985__Mus_spretus_strain_SPRET/EiJ,MGP_CAROLIEiJ_G0032837__Mus_caroli_strain_CAROLI_EIJ),MGP_PahariEiJ_G0015703__Mus_pahari_strain_PAHARI_EIJ));

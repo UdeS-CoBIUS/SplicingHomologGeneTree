@@ -1,0 +1,10 @@
+>0
+ENSCJAT00000082491: ['exon skipping', 0, 0]
+ENSCJAT00000070266: ['exon skipping', 0, 0]
+ENSCJAT00000068937: ['exon skipping', 0, 0]
+ENSNLET00000053218: ['no event', 1, 0]
+>1
+ENSCJAT00000082491: ['5event', 188, 0]
+ENSCJAT00000070266: ['5event', 188, 0]
+ENSCJAT00000068937: ['5event', 188, 0]
+ENSNLET00000053218: ['3event', 158, 2]

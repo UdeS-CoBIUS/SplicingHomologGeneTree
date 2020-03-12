@@ -1,0 +1,1 @@
+(((((ENSPTEG00000021480__Piliocolobus_tephrosceles,ENSTSYG00000033483__Carlito_syrichta),ENSUAMG00000008306__Ursus_americanus),ENSCPRG00005003935__Crocodylus_porosus),ENSAPEG00000010748__Amphiprion_percula),ENSEBUG00000000301__Eptatretus_burgeri);

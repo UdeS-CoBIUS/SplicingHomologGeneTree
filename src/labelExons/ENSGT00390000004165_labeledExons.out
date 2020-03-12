@@ -1,0 +1,8 @@
+>0
+ENSCATT00000037307: ['5event', ['internal gap >= 30', 107, 84], 242, 0]
+ENSMNET00000035120: ['5event', ['internal gap >= 30', 128, 63], 263, 0]
+ENSPTRT00000023590: ['5event', ['internal gap < 30', 179, 12], 314, 0]
+ENSPPAT00000002590: ['5event', ['internal gap < 30', 179, 12], 314, 0]
+ENSGGOT00000000466: ['3event', '5event', 294, 0]
+ENST00000308100: ['5event', ['internal gap < 30', 179, 12], 314, 0]
+ENSANAT00000031529: ['3event', '5event', 246, 0]

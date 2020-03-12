@@ -1,0 +1,1 @@
+(((ENSSPUG00000003898__Sphenodon_punctatus,ENSTGUG00000008885__Taeniopygia_guttata),ENSLACG00000007175__Latimeria_chalumnae),ENSHHUG00000028780__Hucho_hucho);

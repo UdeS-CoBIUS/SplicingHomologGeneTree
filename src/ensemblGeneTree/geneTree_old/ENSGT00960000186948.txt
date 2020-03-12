@@ -1,0 +1,1 @@
+(((ENSSPAG00000001873__Stegastes_partitus,ENSPLAG00000005535__Poecilia_latipinna),(((ENSMMOG00000003505__Mola_mola,ENSMMOG00000016832__Mola_mola),ENSTRUG00000017453__Takifugu_rubripes),(ENSMZEG00005020996__Maylandia_zebra,ENSMZEG00005027707__Maylandia_zebra))),ENSHCOG00000007823__Hippocampus_comes);

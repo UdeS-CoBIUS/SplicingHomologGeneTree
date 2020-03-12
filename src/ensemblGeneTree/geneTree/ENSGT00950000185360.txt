@@ -1,0 +1,1 @@
+((ENSUAMG00000001147__Ursus_americanus,ENSEASG00005001806__Equus_asinus_asinus),ENSSPUG00000005122__Sphenodon_punctatus);

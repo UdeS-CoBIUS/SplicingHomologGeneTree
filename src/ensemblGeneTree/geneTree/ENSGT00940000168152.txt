@@ -1,0 +1,1 @@
+(((ENSXETG00000003255__Xenopus_tropicalis,ENSXETG00000032771__Xenopus_tropicalis),(ENSPVAG00000016941__Pteropus_vampyrus,ENSJJAG00000009599__Jaculus_jaculus)),(ENSPKIG00000022404__Paramormyrops_kingsleyae,ENSACIG00000006921__Amphilophus_citrinellus));

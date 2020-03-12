@@ -1,0 +1,9 @@
+KRYPTOLEBIASMARMORATUS	kryptolebias_marmoratus
+XIPHOPHORUSMACULATUS	xiphophorus_maculatus
+STEGASTESPARTITUS	stegastes_partitus
+PARAMBASSISRANGA	parambassis_ranga
+GADUSMORHUA	gadus_morhua
+HUCHOHUCHO	hucho_hucho
+PELODISCUSSINENSIS	pelodiscus_sinensis
+NOTHOPROCTAPERDICARIA	nothoprocta_perdicaria
+OVISARIES	ovis_aries

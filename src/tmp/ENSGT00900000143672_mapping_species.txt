@@ -1,0 +1,4 @@
+NANNOSPALAXGALILI	nannospalax_galili
+MUSSPICILEGUS	mus_spicilegus
+CERCOCEBUSATYS	cercocebus_atys
+EQUUSCABALLUS	equus_caballus

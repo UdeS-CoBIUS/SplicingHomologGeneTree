@@ -1,0 +1,1 @@
+(((ENSAPOG00000023089__Acanthochromis_polyacanthus,ENSPMGG00000019131__Periophthalmus_magnuspinnatus),ENSAMXG00000033952__Astyanax_mexicanus),ENSCJPG00005002333__Coturnix_japonica);

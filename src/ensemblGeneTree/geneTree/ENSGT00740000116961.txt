@@ -1,0 +1,1 @@
+((((ENSELUG00000016435__Esox_lucius,ENSLBEG00000002463__Labrus_bergylta),ENSPNAG00000012673__Pygocentrus_nattereri),ENSLOCG00000003696__Lepisosteus_oculatus),ENSLACG00000006466__Latimeria_chalumnae);

@@ -1,0 +1,1 @@
+((((((ENSODEG00000002773__Octodon_degus,ENSMSIG00000008006__Mus_spicilegus),ENSODEG00000002679__Octodon_degus),ENSUPAG00010006429__Urocitellus_parryii),ENSPCOG00000010513__Propithecus_coquereli),ENSDNOG00000032730__Dasypus_novemcinctus),(ENSSLDG00000006296__Seriola_lalandi_dorsalis,ENSSLDG00000002353__Seriola_lalandi_dorsalis));

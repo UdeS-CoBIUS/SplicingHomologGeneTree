@@ -1,0 +1,1 @@
+(((ENSSPAG00000018889__Stegastes_partitus,ENSCSEG00000014474__Cynoglossus_semilaevis),ENSELUG00000000598__Esox_lucius),ENSPNAG00000005773__Pygocentrus_nattereri);

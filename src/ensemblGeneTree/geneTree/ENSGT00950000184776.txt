@@ -1,0 +1,1 @@
+(((ENSNMEG00000000673__Numida_meleagris,ENSNMEG00000001425__Numida_meleagris),ENSDNOG00000046716__Dasypus_novemcinctus),ENSORLG00000026517__Oryzias_latipes_ASM223467v1);

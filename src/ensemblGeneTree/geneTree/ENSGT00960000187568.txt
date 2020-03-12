@@ -1,0 +1,1 @@
+((ENSAMXG00000036872__Astyanax_mexicanus_Astyanax_mexicanus-2.0,ENSSHAG00000015977__Sarcophilus_harrisii),((ENSPNAG00000020471__Pygocentrus_nattereri,ENSPNAG00000025104__Pygocentrus_nattereri),ENSABRG00000006496__Anser_brachyrhynchus));

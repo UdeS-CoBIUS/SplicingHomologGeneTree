@@ -1,0 +1,6 @@
+YMR246W_mRNA	YMR246W	Saccharomyces_cerevisiae_strain_S288C
+C46F4.2.2	WBGene00016716	Caenorhabditis_elegans_strain_N2	C46F4.2.2
+FBpp0305216	FBgn0263120	Drosophila_melanogaster	FBtr0333001
+YIL009W_mRNA	YIL009W	Saccharomyces_cerevisiae_strain_S288C
+ENSSLDP00000002032	ENSSLDG00000001564	Seriola_lalandi_dorsalis
+YOR317W_mRNA	YOR317W	Saccharomyces_cerevisiae_strain_S288C

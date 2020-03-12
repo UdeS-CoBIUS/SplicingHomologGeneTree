@@ -1,0 +1,1 @@
+(((ENSKMAG00000012698__Kryptolebias_marmoratus,ENSCVAG00000001065__Cyprinodon_variegatus),ENSOMEG00000011683__Oryzias_melastigma),ENSGMOG00000020163__Gadus_morhua);

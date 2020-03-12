@@ -1,0 +1,1 @@
+((ENSNBRG00000004218__Neolamprologus_brichardi,ENSCVAG00000021304__Cyprinodon_variegatus),ENSLCRG00005016188__Larimichthys_crocea);

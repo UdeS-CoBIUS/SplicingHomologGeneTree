@@ -1,0 +1,1 @@
+(ENSPFOG00000022542__Poecilia_formosa,ENSOANG00000030551__Ornithorhynchus_anatinus);

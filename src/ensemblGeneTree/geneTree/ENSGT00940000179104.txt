@@ -1,0 +1,1 @@
+(((ENSXCOG00000013599__Xiphophorus_couchianus,ENSXMAG00000029487__Xiphophorus_maculatus),ENSNBRG00000022414__Neolamprologus_brichardi),ENSATEG00000008220__Anabas_testudineus);

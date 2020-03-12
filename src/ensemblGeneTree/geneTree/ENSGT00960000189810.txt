@@ -1,0 +1,1 @@
+(((ENSTGEG00000022813__Theropithecus_gelada,ENSPTEG00000022023__Piliocolobus_tephrosceles),ENSCCAG00000024385__Cebus_capucinus_imitator),ENSPSMG00000014938__Prolemur_simus);

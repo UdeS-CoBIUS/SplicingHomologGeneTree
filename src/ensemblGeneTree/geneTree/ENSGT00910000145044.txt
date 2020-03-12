@@ -1,0 +1,1 @@
+(((ENSPPYG00000001823__Pongo_abelii,ENSMMUG00000038082__Macaca_mulatta),ENSPVAG00000016198__Pteropus_vampyrus),ENSPCAG00000007865__Procavia_capensis);

@@ -1,0 +1,1 @@
+((ENSMICG00000042898__Microcebus_murinus,ENSPSMG00000000606__Prolemur_simus),((((ENSMLEG00000020362__Mandrillus_leucophaeus,ENSTGEG00000016878__Theropithecus_gelada),ENSCATG00000001260__Cercocebus_atys),ENSPANG00000035190__Papio_anubis),ENSMMUG00000010154__Macaca_mulatta));

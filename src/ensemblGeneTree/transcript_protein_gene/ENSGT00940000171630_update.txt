@@ -1,0 +1,4 @@
+YDR272W_mRNA	YDR272W	Saccharomyces_cerevisiae_strain_S288C
+FBpp0077912	FBgn0037024	Drosophila_melanogaster	FBtr0078254
+YOR040W_mRNA	YOR040W	Saccharomyces_cerevisiae_strain_S288C
+Y17G7B.3.1	WBGene00012459	Caenorhabditis_elegans_strain_N2	Y17G7B.3.1

@@ -1,0 +1,1 @@
+(ENSDNVG00000006182__Dromaius_novaehollandiae,ENSNMEG00000012877__Numida_meleagris);

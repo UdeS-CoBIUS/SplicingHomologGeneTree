@@ -1,0 +1,5 @@
+PYGOCENTRUSNATTERERI	pygocentrus_nattereri
+DENTICEPSCLUPEOIDES	denticeps_clupeoides
+TAKIFUGURUBRIPES	takifugu_rubripes
+SCLEROPAGESFORMOSUS	scleropages_formosus
+PARAMORMYROPSKINGSLEYAE	paramormyrops_kingsleyae

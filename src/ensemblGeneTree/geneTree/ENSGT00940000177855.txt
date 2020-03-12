@@ -1,0 +1,1 @@
+((((ENSPNYG00000022234__Pundamilia_nyererei,ENSHBUG00000009275__Haplochromis_burtoni),ENSSPAG00000016552__Stegastes_partitus),((ENSAOCG00000009035__Amphiprion_ocellaris,ENSAPEG00000021071__Amphiprion_percula),ENSLBEG00000004669__Labrus_bergylta)),(ENSMALG00000007045__Monopterus_albus,ENSHCOG00000000763__Hippocampus_comes));

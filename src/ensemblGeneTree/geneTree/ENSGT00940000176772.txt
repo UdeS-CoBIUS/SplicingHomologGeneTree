@@ -1,0 +1,1 @@
+(ENSGACG00000020860__Gasterosteus_aculeatus,WBGene00014003__Caenorhabditis_elegans_strain_N2);

@@ -1,0 +1,1 @@
+((ENSLSDG00000010145__Lonchura_striata_domestica,ENSJHYG00000000149__Junco_hyemalis),ENSPKIG00000015134__Paramormyrops_kingsleyae);

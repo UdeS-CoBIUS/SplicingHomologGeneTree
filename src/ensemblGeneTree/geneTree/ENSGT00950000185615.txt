@@ -1,0 +1,1 @@
+((((ENSAHAG00000000199__Apteryx_haastii,ENSNMEG00000005903__Numida_meleagris),ENSCPRG00005008814__Crocodylus_porosus),((ENSSMRG00000007732__Salvator_merianae,ENSNSUG00000007619__Notechis_scutatus),ENSSPUG00000001276__Sphenodon_punctatus)),ENSPTIG00000005692__Panthera_tigris_altaica);

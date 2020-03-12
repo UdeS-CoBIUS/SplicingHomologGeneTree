@@ -1,0 +1,1 @@
+((ENSPTEG00000002479__Piliocolobus_tephrosceles,ENSRBIG00000033035__Rhinopithecus_bieti),(ENSMFAG00000023402__Macaca_fascicularis,ENSMMUG00000043599__Macaca_mulatta));

@@ -1,0 +1,1 @@
+(((((ENSXETG00000033502__Xenopus_tropicalis,ENSXETG00000031323__Xenopus_tropicalis),ENSXETG00000030033__Xenopus_tropicalis),ENSXETG00000022463__Xenopus_tropicalis),ENSXETG00000033287__Xenopus_tropicalis),((ENSLOCG00000001433__Lepisosteus_oculatus,ENSLOCG00000001412__Lepisosteus_oculatus),ENSLOCG00000001395__Lepisosteus_oculatus));

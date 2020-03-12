@@ -1,0 +1,1 @@
+(((((ENSPMAG00000009048__Petromyzon_marinus,ENSEBUG00000014852__Eptatretus_burgeri),ENSLACG00000022596__Latimeria_chalumnae),(ENSCING00000019787__Ciona_intestinalis,ENSCSAVG00000000507__Ciona_savignyi)),WBGene00000225__Caenorhabditis_elegans_strain_N2),((ENSCING00000011806__Ciona_intestinalis,ENSCSAVG00000011773__Ciona_savignyi),FBgn0050359__Drosophila_melanogaster));

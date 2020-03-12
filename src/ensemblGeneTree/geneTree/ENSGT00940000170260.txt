@@ -1,0 +1,1 @@
+((ENSACAG00000003197__Anolis_carolinensis,ENSPSIG00000006277__Pelodiscus_sinensis),((ENSOANG00000028649__Ornithorhynchus_anatinus,ENSCCNG00000005415__Castor_canadensis),ENSPSMG00000022965__Prolemur_simus));

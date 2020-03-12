@@ -1,0 +1,1 @@
+((((ENSGAGG00000005336__Gopherus_agassizii,ENSABRG00000004972__Anser_brachyrhynchus),((ENSJJAG00000019913__Jaculus_jaculus,ENSMLEG00000035457__Mandrillus_leucophaeus),ENSBMUG00000016165__Bos_mutus)),(ENSMMOG00000004968__Mola_mola,ENSCSEG00000007202__Cynoglossus_semilaevis)),ENSEBUG00000001356__Eptatretus_burgeri);

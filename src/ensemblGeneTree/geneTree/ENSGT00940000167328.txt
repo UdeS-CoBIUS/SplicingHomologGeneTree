@@ -1,0 +1,1 @@
+(((((ENSANAG00000028848__Aotus_nancymaae,ENSANAG00000020429__Aotus_nancymaae),(ENSMLUG00000000848__Myotis_lucifugus,ENSMLUG00000029657__Myotis_lucifugus)),ENSLAFG00000025829__Loxodonta_africana),ENSOGAG00000006346__Otolemur_garnettii),((ENSFALG00000015075__Ficedula_albicollis,ENSLCOG00000003323__Lepidothrix_coronata),ENSTGUG00000013792__Taeniopygia_guttata));

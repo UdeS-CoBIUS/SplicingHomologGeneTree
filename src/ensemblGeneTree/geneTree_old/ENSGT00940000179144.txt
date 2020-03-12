@@ -1,0 +1,1 @@
+(((ENSAOCG00000000459__Amphiprion_ocellaris,ENSPMGG00000014562__Periophthalmus_magnuspinnatus),ENSAMXG00000030204__Astyanax_mexicanus),(((ENSGALG00000053432__Gallus_gallus,ENSGALG00000048127__Gallus_gallus),ENSGALG00000049608__Gallus_gallus),ENSCJPG00005013253__Coturnix_japonica));

@@ -1,0 +1,1 @@
+(((((ENSOARG00000001708__Ovis_aries,ENSTTRG00000002850__Tursiops_truncatus),ENSVPAG00000012245__Vicugna_pacos),(ENSOCUG00000017655__Oryctolagus_cuniculus,ENSCSAG00000018721__Chlorocebus_sabaeus)),ENSDNOG00000003190__Dasypus_novemcinctus),(ENSMEUG00000009168__Notamacropus_eugenii,ENSMODG00000001930__Monodelphis_domestica));

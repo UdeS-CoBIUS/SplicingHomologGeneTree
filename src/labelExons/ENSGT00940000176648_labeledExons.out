@@ -1,0 +1,12 @@
+>0
+FBtr0079765: ['no event', 57, 0]
+FBtr0309842: ['no event', 57, 0]
+FBtr0079766: ['no event', 57, 0]
+>1
+FBtr0079765: ['3event', 187, 1]
+FBtr0309842: [['internal gap < 30', 156, 13], 176, 1]
+FBtr0079766: [['internal gap < 30', 156, 13], 176, 1]
+>2
+FBtr0079765: ['5event', ['internal gap < 30', 125, 11], 205, 1]
+FBtr0309842: ['no event', 216, 1]
+FBtr0079766: ['no event', 216, 1]

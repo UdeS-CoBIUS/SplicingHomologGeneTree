@@ -1,0 +1,1 @@
+(((ENSPMJG00000002341__Parus_major,ENSCCEG00000019219__Cyanistes_caeruleus),ENSJHYG00000013957__Junco_hyemalis),ENSMUNG00000014823__Melopsittacus_undulatus);

@@ -1,0 +1,1 @@
+(((ENSZALG00000009389__Zonotrichia_albicollis,ENSGALG00000028039__Gallus_gallus),ENSCPBG00000021858__Chrysemys_picta_bellii),ENSSPUG00000016995__Sphenodon_punctatus);

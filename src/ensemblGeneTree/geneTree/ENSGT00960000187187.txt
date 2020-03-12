@@ -1,0 +1,1 @@
+((((ENSKMAG00000001451__Kryptolebias_marmoratus,ENSORLG00020003804__Oryzias_latipes_ASM223471v1),ENSTRUG00000020573__Takifugu_rubripes),((ENSAPEG00000022411__Amphiprion_percula,ENSAMXG00000035338__Astyanax_mexicanus),ENSAMXG00000030788__Astyanax_mexicanus)),ENSSCAG00000000673__Serinus_canaria);

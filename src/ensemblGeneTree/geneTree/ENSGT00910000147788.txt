@@ -1,0 +1,1 @@
+((ENSCCAG00000019325__Cebus_capucinus_imitator,ENSSBOG00000023507__Saimiri_boliviensis_boliviensis),(ENSPANG00000032743__Papio_anubis,ENSMLEG00000001962__Mandrillus_leucophaeus));

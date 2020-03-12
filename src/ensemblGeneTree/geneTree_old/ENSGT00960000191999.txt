@@ -1,0 +1,1 @@
+(ENSMSIG00000007596__Mus_spicilegus,ENSCGRG00015024145__Cricetulus_griseus_CriGri-PICR);

@@ -1,0 +1,1 @@
+(((((ENSCSAVG00000007938__Ciona_savignyi,ENSCSAVG00000010089__Ciona_savignyi),ENSCSAVG00000008517__Ciona_savignyi),(ENSCING00000008412__Ciona_intestinalis,ENSCING00000006673__Ciona_intestinalis)),ENSLCOG00000007129__Lepidothrix_coronata),(WBGene00001414__Caenorhabditis_elegans_strain_N2,WBGene00020262__Caenorhabditis_elegans_strain_N2));

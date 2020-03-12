@@ -1,0 +1,1 @@
+(ENSECAG00000030815__Equus_caballus,ENSMLUG00000028326__Myotis_lucifugus);

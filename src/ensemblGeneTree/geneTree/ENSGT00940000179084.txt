@@ -1,0 +1,1 @@
+(((ENSLBEG00000013454__Labrus_bergylta,ENSAOCG00000023426__Amphiprion_ocellaris),ENSMMOG00000008572__Mola_mola),ENSELUG00000002640__Esox_lucius);

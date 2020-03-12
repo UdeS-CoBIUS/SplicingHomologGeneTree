@@ -1,0 +1,1 @@
+((((ENSTBEG00000001438__Tupaia_belangeri,ENSCCAG00000027558__Cebus_capucinus_imitator),ENSOPRG00000007382__Ochotona_princeps),ENSETEG00000002114__Echinops_telfairi),(ENSMEUG00000010043__Notamacropus_eugenii,ENSMEUG00000010053__Notamacropus_eugenii));

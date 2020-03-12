@@ -1,0 +1,1 @@
+((ENSXETG00000034046__Xenopus_tropicalis,ENSXETG00000032482__Xenopus_tropicalis),ENSXETG00000026176__Xenopus_tropicalis);

@@ -1,0 +1,1 @@
+(((((ENSPMJG00000006863__Parus_major,ENSZALG00000005922__Zonotrichia_albicollis),ENSLSDG00000012270__Lonchura_striata_domestica),(ENSPMJG00000006868__Parus_major,ENSSCAG00000014893__Serinus_canaria)),ENSAPLG00000024814__Anas_platyrhynchos_platyrhynchos),ENSAMXG00000039175__Astyanax_mexicanus);

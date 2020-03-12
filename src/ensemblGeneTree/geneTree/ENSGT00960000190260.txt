@@ -1,0 +1,1 @@
+((ENSTGUG00000002720__Taeniopygia_guttata,ENSFALG00000009652__Ficedula_albicollis),ENSCCEG00000004007__Cyanistes_caeruleus);

@@ -1,0 +1,1 @@
+((((((ENSAOWG00000003900__Apteryx_owenii,ENSARWG00000013246__Apteryx_rowi),ENSAHAG00000004258__Apteryx_haastii),ENSNPEG00000012295__Nothoprocta_perdicaria),ENSCPRG00005001953__Crocodylus_porosus),((ENSGAGG00000022139__Gopherus_agassizii,ENSCABG00000008993__Chelonoidis_abingdonii),ENSCPBG00000019483__Chrysemys_picta_bellii)),ENSSFOG00015021607__Scleropages_formosus);

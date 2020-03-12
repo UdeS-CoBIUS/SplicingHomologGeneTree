@@ -1,0 +1,1 @@
+((ENSOGAG00000032111__Otolemur_garnettii,ENSOGAG00000028381__Otolemur_garnettii),((ENSOGAG00000001449__Otolemur_garnettii,ENSOGAG00000029737__Otolemur_garnettii),ENSOGAG00000008210__Otolemur_garnettii));

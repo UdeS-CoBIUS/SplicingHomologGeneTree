@@ -1,0 +1,1 @@
+((ENSCCAG00000021440__Cebus_capucinus_imitator,ENSCCNG00000007188__Castor_canadensis),ENSCHIG00000020046__Capra_hircus);

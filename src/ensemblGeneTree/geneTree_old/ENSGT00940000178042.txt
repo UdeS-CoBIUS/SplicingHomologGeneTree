@@ -1,0 +1,1 @@
+(((((((ENSAPEG00000007388__Amphiprion_percula,ENSAOCG00000010300__Amphiprion_ocellaris),ENSCVAG00000004052__Cyprinodon_variegatus),ENSACLG00000027726__Astatotilapia_calliptera),ENSATEG00000024328__Anabas_testudineus),ENSGMOG00000015154__Gadus_morhua),ENSELUG00000022545__Esox_lucius),ENSGAGG00000018349__Gopherus_agassizii);

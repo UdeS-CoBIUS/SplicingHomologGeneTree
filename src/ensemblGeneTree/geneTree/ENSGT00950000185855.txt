@@ -1,0 +1,1 @@
+(ENSSARG00000001615__Sorex_araneus,ENSECAG00000000419__Equus_caballus);

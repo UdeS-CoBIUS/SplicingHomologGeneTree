@@ -1,0 +1,1 @@
+(((ENSUAMG00000022112__Ursus_americanus,ENSOARG00000014208__Ovis_aries),(((ENSRNOG00000032170__Rattus_norvegicus,ENSRNOG00000049860__Rattus_norvegicus),(ENSMUGG00000008939__Meriones_unguiculatus,ENSMUGG00000009010__Meriones_unguiculatus)),ENSAMEG00000014483__Ailuropoda_melanoleuca)),ENSDNOG00000047466__Dasypus_novemcinctus);

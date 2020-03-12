@@ -1,0 +1,1 @@
+(((((ENSPPRG00000010539__Panthera_pardus,ENSPVAG00000011016__Pteropus_vampyrus),ENSSSCG00000035460__Sus_scrofa),(ENSCAPG00000008378__Cavia_aperea,MGP_SPRETEiJ_G0015292__Mus_spretus_strain_SPRET/EiJ)),ENSPCAG00000013782__Procavia_capensis),((ENSNMEG00000003572__Numida_meleagris,ENSMVIG00005008284__Manacus_vitellinus),ENSCPRG00005004185__Crocodylus_porosus));

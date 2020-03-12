@@ -1,0 +1,1 @@
+(ENSLBEG00000027859__Labrus_bergylta,ENSGALG00000052872__Gallus_gallus);

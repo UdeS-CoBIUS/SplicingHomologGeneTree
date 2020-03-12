@@ -1,0 +1,1 @@
+(ENSIPUG00000012222__Ictalurus_punctatus,ENSCVAG00000011349__Cyprinodon_variegatus);

@@ -1,0 +1,9 @@
+>0
+ENSBTAT00000087432: ['no event', 591, 0]
+ENSBTAT00000064693: ['exon skipping', 0, 0]
+>1
+ENSBTAT00000087432: ['exon skipping', 0, 0]
+ENSBTAT00000064693: ['5event', 48, 0]
+>2
+ENSBTAT00000087432: ['5event', 484, 1]
+ENSBTAT00000064693: ['no event', 485, 1]

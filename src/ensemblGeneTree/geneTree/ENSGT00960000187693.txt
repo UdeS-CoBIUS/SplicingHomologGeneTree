@@ -1,0 +1,1 @@
+((ENSFHEG00000014367__Fundulus_heteroclitus,ENSPKIG00000024569__Paramormyrops_kingsleyae),ENSTGUG00000004642__Taeniopygia_guttata);

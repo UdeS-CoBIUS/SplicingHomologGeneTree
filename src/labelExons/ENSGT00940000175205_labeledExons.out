@@ -1,0 +1,6 @@
+>0
+ENSCSAVT00000011929: ['exon skipping', 0, 0]
+ENSSFOT00015011266: ['no event', 146, 0]
+>1
+ENSCSAVT00000011929: ['3event', '5event', 825, 0]
+ENSSFOT00015011266: [['internal gap >= 30', 1567, 449], 1661, 0]

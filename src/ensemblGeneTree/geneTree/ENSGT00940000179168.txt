@@ -1,0 +1,1 @@
+((ENSSMAG00000003322__Scophthalmus_maximus,ENSCSEG00000003664__Cynoglossus_semilaevis),(ENSATEG00000000399__Anabas_testudineus,ENSORLG00000029017__Oryzias_latipes_ASM223467v1));

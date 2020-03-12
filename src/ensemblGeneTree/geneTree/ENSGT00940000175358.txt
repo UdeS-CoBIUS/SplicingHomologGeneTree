@@ -1,0 +1,1 @@
+(((((ENSORLG00000024394__Oryzias_latipes_ASM223467v1,ENSORLG00015013511__Oryzias_latipes_ASM223469v1),ENSORLG00020007644__Oryzias_latipes_ASM223471v1),ENSPMGG00000008340__Periophthalmus_magnuspinnatus),ENSLBEG00000016904__Labrus_bergylta),ENSEBUG00000005082__Eptatretus_burgeri);

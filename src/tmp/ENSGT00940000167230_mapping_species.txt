@@ -1,0 +1,7 @@
+CIONASAVIGNYI	ciona_savignyi
+CIONAINTESTINALIS	ciona_intestinalis
+ORNITHORHYNCHUSANATINUS	ornithorhynchus_anatinus
+DROSOPHILAMELANOGASTER	drosophila_melanogaster
+DROSOPHILAMELANOGASTER	drosophila_melanogaster
+DROSOPHILAMELANOGASTER	drosophila_melanogaster
+CAENORHABDITISELEGANS	caenorhabditis_elegans

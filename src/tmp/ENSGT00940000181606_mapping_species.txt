@@ -1,0 +1,3 @@
+SERIOLADUMERILI	seriola_dumerili
+LABRUSBERGYLTA	labrus_bergylta
+PROLEMURSIMUS	prolemur_simus

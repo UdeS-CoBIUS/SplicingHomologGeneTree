@@ -1,0 +1,1 @@
+((ENSGALG00000054424__Gallus_gallus,ENSCPGG00000008107__Calidris_pygmaea),ENSNPEG00000007668__Nothoprocta_perdicaria);

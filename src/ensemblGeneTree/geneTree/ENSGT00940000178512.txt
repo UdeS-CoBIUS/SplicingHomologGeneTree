@@ -1,0 +1,1 @@
+((ENSPLAG00000013164__Poecilia_latipinna,ENSSPAG00000013322__Stegastes_partitus),((ENSSLDG00000001442__Seriola_lalandi_dorsalis,ENSSMAG00000009041__Scophthalmus_maximus),ENSMAMG00000018180__Mastacembelus_armatus));

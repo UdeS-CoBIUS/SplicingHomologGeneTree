@@ -1,0 +1,1 @@
+(((((ENSAHAG00000016916__Apteryx_haastii,ENSAOWG00000005978__Apteryx_owenii),ENSARWG00000015745__Apteryx_rowi),ENSDNVG00000012616__Dromaius_novaehollandiae),ENSNPEG00000000378__Nothoprocta_perdicaria),ENSAPLG00000027134__Anas_platyrhynchos_platyrhynchos);

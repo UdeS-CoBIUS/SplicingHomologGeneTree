@@ -1,0 +1,1 @@
+((((ENSAPEG00000013115__Amphiprion_percula,ENSAOCG00000002093__Amphiprion_ocellaris),(ENSSPAG00000021485__Stegastes_partitus,ENSAPOG00000019189__Acanthochromis_polyacanthus)),(ENSACIG00000021068__Amphilophus_citrinellus,ENSNBRG00000020536__Neolamprologus_brichardi)),(ENSLBEG00000007433__Labrus_bergylta,ENSMMOG00000010476__Mola_mola));

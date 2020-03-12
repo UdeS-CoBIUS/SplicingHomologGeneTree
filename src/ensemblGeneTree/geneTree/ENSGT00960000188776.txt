@@ -1,0 +1,1 @@
+((ENSAPLG00000018367__Anas_platyrhynchos_platyrhynchos,ENSSCAG00000008484__Serinus_canaria),ENSGAGG00000009164__Gopherus_agassizii);

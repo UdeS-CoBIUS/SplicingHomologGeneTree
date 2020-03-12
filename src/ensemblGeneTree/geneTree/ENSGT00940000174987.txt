@@ -1,0 +1,1 @@
+(((ENSUAMG00000028275__Ursus_americanus,ENSEASG00005008041__Equus_asinus_asinus),(ENSPPAG00000027805__Pan_paniscus,ENSMUGG00000009577__Meriones_unguiculatus)),ENSNBRG00000001001__Neolamprologus_brichardi);

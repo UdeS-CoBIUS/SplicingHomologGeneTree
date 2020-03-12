@@ -1,0 +1,1 @@
+(((ENSMNEG00000035931__Macaca_nemestrina,ENSCATG00000035453__Cercocebus_atys),((ENSPPAG00000041674__Pan_paniscus,ENSPTRG00000048532__Pan_troglodytes),ENSGGOG00000024289__Gorilla_gorilla)),ENSPVAG00000005409__Pteropus_vampyrus);

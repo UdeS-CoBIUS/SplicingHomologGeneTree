@@ -1,0 +1,1 @@
+(((ENSAMXG00000034679__Astyanax_mexicanus,ENSAMXG00000034819__Astyanax_mexicanus),ENSPNAG00000022124__Pygocentrus_nattereri),ENSELUG00000002142__Esox_lucius);

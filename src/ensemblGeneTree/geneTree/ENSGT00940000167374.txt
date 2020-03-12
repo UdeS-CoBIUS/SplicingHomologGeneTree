@@ -1,0 +1,1 @@
+((((ENSCSAVG00000009421__Ciona_savignyi,ENSCING00000005289__Ciona_intestinalis),(ENSCSAVG00000010662__Ciona_savignyi,ENSCING00000003802__Ciona_intestinalis)),ENSLSDG00000001322__Lonchura_striata_domestica),((FBgn0000287__Drosophila_melanogaster,FBgn0261648__Drosophila_melanogaster),WBGene00004773__Caenorhabditis_elegans_strain_N2));

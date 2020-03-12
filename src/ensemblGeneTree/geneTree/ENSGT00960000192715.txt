@@ -1,0 +1,1 @@
+(ENSCLAG00000003550__Chinchilla_lanigera,ENSNVIG00000020766__Neovison_vison);

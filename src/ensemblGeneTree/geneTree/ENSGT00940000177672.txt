@@ -1,0 +1,1 @@
+(((((ENSAPEG00000001550__Amphiprion_percula,ENSAOCG00000017492__Amphiprion_ocellaris),ENSMALG00000007481__Monopterus_albus),ENSTRUG00000022952__Takifugu_rubripes),(((ENSPLAG00000004287__Poecilia_latipinna,ENSPMEG00000006425__Poecilia_mexicana),ENSGAFG00000020490__Gambusia_affinis),ENSFHEG00000007098__Fundulus_heteroclitus)),ENSIPUG00000008617__Ictalurus_punctatus);

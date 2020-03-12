@@ -1,0 +1,1 @@
+(((ENSLBEG00000017273__Labrus_bergylta,ENSAPEG00000008103__Amphiprion_percula),ENSELUG00000012897__Esox_lucius),(((ENSLSDG00000003548__Lonchura_striata_domestica,ENSLSDG00000011818__Lonchura_striata_domestica),ENSAHAG00000012740__Apteryx_haastii),ENSACAG00000022997__Anolis_carolinensis));

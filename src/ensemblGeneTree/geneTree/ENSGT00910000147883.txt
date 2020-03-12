@@ -1,0 +1,1 @@
+((((ENSMNEG00000040737__Macaca_nemestrina,ENSMLEG00000027551__Mandrillus_leucophaeus),ENSRBIG00000029648__Rhinopithecus_bieti),ENSSBOG00000034948__Saimiri_boliviensis_boliviensis),ENSSDAG00000001854__Spermophilus_dauricus);

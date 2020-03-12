@@ -1,0 +1,13 @@
+AMPHIPRIONPERCULA	amphiprion_percula
+AMPHIPRIONOCELLARIS	amphiprion_ocellaris
+POECILIALATIPINNA	poecilia_latipinna
+POECILIAMEXICANA	poecilia_mexicana
+XIPHOPHORUSCOUCHIANUS	xiphophorus_couchianus
+FUNDULUSHETEROCLITUS	fundulus_heteroclitus
+BETTASPLENDENS	betta_splendens
+HIPPOCAMPUSCOMES	hippocampus_comes
+HUCHOHUCHO	hucho_hucho
+HUCHOHUCHO	hucho_hucho
+HUCHOHUCHO	hucho_hucho
+HUCHOHUCHO	hucho_hucho
+ASTYANAXMEXICANUS	astyanax_mexicanus

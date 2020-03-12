@@ -1,0 +1,1 @@
+(((((ENSCGRG00000015372__Cricetulus_griseus_CriGri_1.0,ENSCGRG00000019861__Cricetulus_griseus_CriGri_1.0),ENSPEMG00000001179__Peromyscus_maniculatus_bairdii),ENSMUGG00000019792__Meriones_unguiculatus),ENSRNOG00000040058__Rattus_norvegicus),ENSCLAG00000017706__Chinchilla_lanigera);

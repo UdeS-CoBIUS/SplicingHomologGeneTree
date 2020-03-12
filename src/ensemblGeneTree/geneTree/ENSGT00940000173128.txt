@@ -1,0 +1,1 @@
+(((ENSONIG00000001360__Oreochromis_niloticus,ENSGACG00000012311__Gasterosteus_aculeatus),ENSELUG00000017403__Esox_lucius),YNL251C__Saccharomyces_cerevisiae_strain_S288C);

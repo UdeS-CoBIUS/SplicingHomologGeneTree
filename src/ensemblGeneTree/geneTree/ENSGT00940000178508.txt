@@ -1,0 +1,1 @@
+((((ENSAPEG00000017260__Amphiprion_percula,ENSSPAG00000009266__Stegastes_partitus),ENSNBRG00000002440__Neolamprologus_brichardi),ENSCSEG00000008729__Cynoglossus_semilaevis),ENSELUG00000006274__Esox_lucius);

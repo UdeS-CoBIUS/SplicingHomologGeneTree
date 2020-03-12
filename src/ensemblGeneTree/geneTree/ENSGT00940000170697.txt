@@ -1,0 +1,1 @@
+((ENSOANG00000006339__Ornithorhynchus_anatinus,ENSSHAG00000010461__Sarcophilus_harrisii),WBGene00009460__Caenorhabditis_elegans_strain_N2);

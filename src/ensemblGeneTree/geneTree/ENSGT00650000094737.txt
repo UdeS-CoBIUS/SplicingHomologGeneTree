@@ -1,0 +1,1 @@
+((((ENSAPEG00000009294__Amphiprion_percula,ENSGACG00000001345__Gasterosteus_aculeatus),ENSPREG00000015800__Poecilia_reticulata),ENSGMOG00000013129__Gadus_morhua),ENSIPUG00000016038__Ictalurus_punctatus);

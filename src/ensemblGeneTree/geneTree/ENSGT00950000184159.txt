@@ -1,0 +1,1 @@
+(((ENSELUG00000018577__Esox_lucius,ENSPMGG00000009951__Periophthalmus_magnuspinnatus),(ENSPKIG00000000940__Paramormyrops_kingsleyae,ENSPMJG00000017618__Parus_major)),ENSEBUG00000004209__Eptatretus_burgeri);

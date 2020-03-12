@@ -1,0 +1,1 @@
+((ENSLCOG00000004647__Lepidothrix_coronata,ENSLSDG00000006849__Lonchura_striata_domestica),ENSAPLG00000023254__Anas_platyrhynchos_platyrhynchos);

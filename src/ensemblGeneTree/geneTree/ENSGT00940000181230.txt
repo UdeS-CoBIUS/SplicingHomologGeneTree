@@ -1,0 +1,1 @@
+(ENSPREG00000021306__Poecilia_reticulata,ENSORLG00000024406__Oryzias_latipes_ASM223467v1);

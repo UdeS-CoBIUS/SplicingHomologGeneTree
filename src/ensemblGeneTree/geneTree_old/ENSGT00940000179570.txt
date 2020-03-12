@@ -1,0 +1,1 @@
+(((ENSCVAG00000007120__Cyprinodon_variegatus,ENSSLDG00000006902__Seriola_lalandi_dorsalis),ENSPNAG00000005725__Pygocentrus_nattereri),((ENSAHAG00000014996__Apteryx_haastii,ENSAOWG00000003906__Apteryx_owenii),ENSPVIG00000000997__Pogona_vitticeps));

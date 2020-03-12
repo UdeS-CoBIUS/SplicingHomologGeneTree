@@ -1,0 +1,1 @@
+(ENSSDAG00000008667__Spermophilus_dauricus,ENSBMUG00000015344__Bos_mutus);

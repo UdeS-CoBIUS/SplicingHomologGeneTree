@@ -1,0 +1,1 @@
+(ENSATEG00000021486__Anabas_testudineus,ENSPNYG00000011617__Pundamilia_nyererei);

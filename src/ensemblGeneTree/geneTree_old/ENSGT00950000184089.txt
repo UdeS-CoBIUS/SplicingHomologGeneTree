@@ -1,0 +1,1 @@
+(((ENSTSYG00000029657__Carlito_syrichta,ENSPSMG00000017594__Prolemur_simus),((ENSMUGG00000020807__Meriones_unguiculatus,ENSPEMG00000027524__Peromyscus_maniculatus_bairdii),ENSTBEG00000005232__Tupaia_belangeri)),ENSPCAG00000005691__Procavia_capensis);

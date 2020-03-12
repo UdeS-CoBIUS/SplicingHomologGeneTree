@@ -1,0 +1,1 @@
+(ENSCCAG00000034521__Cebus_capucinus_imitator,ENSG00000262180__Homo_sapiens);

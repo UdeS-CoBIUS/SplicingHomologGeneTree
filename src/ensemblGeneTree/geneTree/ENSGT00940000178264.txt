@@ -1,0 +1,1 @@
+((ENSATEG00000023065__Anabas_testudineus,ENSHCOG00000001904__Hippocampus_comes),((ENSSDUG00000015697__Seriola_dumerili,ENSCSEG00000016117__Cynoglossus_semilaevis),(ENSAOCG00000010574__Amphiprion_ocellaris,ENSAPEG00000015784__Amphiprion_percula)));

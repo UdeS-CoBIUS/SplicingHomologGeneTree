@@ -1,0 +1,10 @@
+PUNDAMILIANYEREREI	pundamilia_nyererei
+NEOLAMPROLOGUSBRICHARDI	neolamprologus_brichardi
+AMPHILOPHUSCITRINELLUS	amphilophus_citrinellus
+STEGASTESPARTITUS	stegastes_partitus
+LARIMICHTHYSCROCEA	larimichthys_crocea
+HUCHOHUCHO	hucho_hucho
+CAVIAAPEREA	cavia_aperea
+FUKOMYSDAMARENSIS	fukomys_damarensis
+SPERMOPHILUSDAURICUS	spermophilus_dauricus
+CARLITOSYRICHTA	carlito_syrichta

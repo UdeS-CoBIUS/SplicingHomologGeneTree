@@ -1,0 +1,1 @@
+((((ENSSLDG00000018509__Seriola_lalandi_dorsalis,ENSLBEG00000017553__Labrus_bergylta),ENSNBRG00000001610__Neolamprologus_brichardi),ENSAMXG00000032624__Astyanax_mexicanus),ENSOANG00000008436__Ornithorhynchus_anatinus);

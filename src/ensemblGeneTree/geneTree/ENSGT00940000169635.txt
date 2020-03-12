@@ -1,0 +1,1 @@
+(((ENSEBUG00000016900__Eptatretus_burgeri,ENSLACG00000012533__Latimeria_chalumnae),ENSCING00000021018__Ciona_intestinalis),FBgn0020269__Drosophila_melanogaster);

@@ -1,0 +1,1 @@
+(ENSACLG00000019777__Astatotilapia_calliptera,ENSMAUG00000017096__Mesocricetus_auratus);

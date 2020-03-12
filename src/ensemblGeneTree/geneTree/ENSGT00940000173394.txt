@@ -1,0 +1,1 @@
+(((ENSSMRG00000008696__Salvator_merianae,ENSACAG00000010805__Anolis_carolinensis),ENSOANG00000001109__Ornithorhynchus_anatinus),((ENSORLG00020011266__Oryzias_latipes_ASM223471v1,ENSORLG00000024131__Oryzias_latipes_ASM223467v1),ENSAPOG00000021717__Acanthochromis_polyacanthus));

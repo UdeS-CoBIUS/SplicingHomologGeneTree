@@ -1,0 +1,1 @@
+(((((ENSPLAG00000011690__Poecilia_latipinna,ENSGAFG00000018647__Gambusia_affinis),ENSXMAG00000023945__Xiphophorus_maculatus),ENSFHEG00000016587__Fundulus_heteroclitus),ENSPNYG00000001007__Pundamilia_nyererei),(ENSVVUG00000005204__Vulpes_vulpes,ENSVVUG00000023203__Vulpes_vulpes));

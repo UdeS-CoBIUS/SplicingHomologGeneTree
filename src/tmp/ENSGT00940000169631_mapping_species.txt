@@ -1,0 +1,13 @@
+POECILIARETICULATA	poecilia_reticulata
+POECILIARETICULATA	poecilia_reticulata
+POECILIAMEXICANA	poecilia_mexicana
+POECILIALATIPINNA	poecilia_latipinna
+POECILIAFORMOSA	poecilia_formosa
+POECILIAFORMOSA	poecilia_formosa
+POECILIAFORMOSA	poecilia_formosa
+POECILIAMEXICANA	poecilia_mexicana
+POECILIAFORMOSA	poecilia_formosa
+POECILIAFORMOSA	poecilia_formosa
+POECILIAFORMOSA	poecilia_formosa
+POECILIARETICULATA	poecilia_reticulata
+POECILIALATIPINNA	poecilia_latipinna

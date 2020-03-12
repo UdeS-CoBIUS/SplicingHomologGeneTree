@@ -1,0 +1,1 @@
+((((ENSPMAG00000004987__Petromyzon_marinus,ENSEBUG00000000510__Eptatretus_burgeri),ENSEBUG00000008071__Eptatretus_burgeri),ENSXETG00000019260__Xenopus_tropicalis),FBgn0250862__Drosophila_melanogaster);

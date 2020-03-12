@@ -1,0 +1,1 @@
+(((ENSRROG00000033067__Rhinopithecus_roxellana,ENSRBIG00000034988__Rhinopithecus_bieti),ENSMMUG00000038649__Macaca_mulatta),ENSBMUG00000012597__Bos_mutus);

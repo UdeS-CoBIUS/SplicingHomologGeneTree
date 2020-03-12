@@ -1,0 +1,1 @@
+((((ENSPMJG00000019840__Parus_major,ENSJHYG00000014875__Junco_hyemalis),ENSABRG00000019587__Anser_brachyrhynchus),ENSAHAG00000009791__Apteryx_haastii),((((ENSFCAG00000041062__Felis_catus,ENSPPRG00000014943__Panthera_pardus),ENSVPAG00000009469__Vicugna_pacos),ENSPTEG00000037419__Piliocolobus_tephrosceles),ENSPCIG00000013190__Phascolarctos_cinereus));

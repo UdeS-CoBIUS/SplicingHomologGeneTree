@@ -1,0 +1,1 @@
+(((ENSMMUG00000047176__Macaca_mulatta,ENSMNEG00000038263__Macaca_nemestrina),ENSMFAG00000019480__Macaca_fascicularis),ENSNLEG00000035372__Nomascus_leucogenys);

@@ -1,0 +1,1 @@
+((((ENSPLAG00000007400__Poecilia_latipinna,ENSPREG00000010681__Poecilia_reticulata),ENSXCOG00000006549__Xiphophorus_couchianus),(ENSOMEG00000001300__Oryzias_melastigma,ENSORLG00000028809__Oryzias_latipes_ASM223467v1)),ENSPNYG00000006295__Pundamilia_nyererei);

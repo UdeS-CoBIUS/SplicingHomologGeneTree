@@ -1,0 +1,9 @@
+CHOLOEPUSHOFFMANNI	choloepus_hoffmanni
+PHASCOLARCTOSCINEREUS	phascolarctos_cinereus
+TUPAIABELANGERI	tupaia_belangeri
+TAENIOPYGIAGUTTATA	taeniopygia_guttata
+LONCHURASTRIATADOMESTICA	lonchura_striata_domestica
+MANACUSVITELLINUS	manacus_vitellinus
+CALIDRISPYGMAEA	calidris_pygmaea
+CHELONOIDISABINGDONII	chelonoidis_abingdonii
+CIONAINTESTINALIS	ciona_intestinalis

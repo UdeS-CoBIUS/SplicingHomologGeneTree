@@ -1,0 +1,1 @@
+((ENSSCAG00000002095__Serinus_canaria,ENSSCAG00000002236__Serinus_canaria),ENSJHYG00000011149__Junco_hyemalis);

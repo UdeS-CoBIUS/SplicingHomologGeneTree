@@ -1,0 +1,1 @@
+((ENSPCAG00000010018__Procavia_capensis,ENSETEG00000014154__Echinops_telfairi),(((ENSPPYG00000019565__Pongo_abelii,ENSOPRG00000010242__Ochotona_princeps),((ENSVPAG00000006508__Vicugna_pacos,ENSTTRG00000005382__Tursiops_truncatus),ENSPVAG00000007835__Pteropus_vampyrus)),ENSCHOG00000012094__Choloepus_hoffmanni));

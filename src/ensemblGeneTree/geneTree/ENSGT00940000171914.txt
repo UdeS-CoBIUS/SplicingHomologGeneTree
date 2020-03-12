@@ -1,0 +1,1 @@
+(((ENSARWG00000001662__Apteryx_rowi,ENSAOWG00000019218__Apteryx_owenii),(ENSFALG00000012832__Ficedula_albicollis,ENSTGUG00000016092__Taeniopygia_guttata)),(ENSCPBG00000006917__Chrysemys_picta_bellii,ENSGAGG00000001577__Gopherus_agassizii));

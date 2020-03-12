@@ -1,0 +1,1 @@
+(((ENSORLG00000024289__Oryzias_latipes_ASM223467v1,ENSAOCG00000010436__Amphiprion_ocellaris),ENSSDUG00000015737__Seriola_dumerili),ENSPKIG00000022546__Paramormyrops_kingsleyae);

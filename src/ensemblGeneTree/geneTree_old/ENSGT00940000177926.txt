@@ -1,0 +1,1 @@
+((((ENSPNAG00000003125__Pygocentrus_nattereri,ENSPNAG00000002823__Pygocentrus_nattereri),(ENSPNAG00000000073__Pygocentrus_nattereri,ENSPNAG00000020524__Pygocentrus_nattereri)),ENSPNAG00000029623__Pygocentrus_nattereri),(ENSELUG00000012661__Esox_lucius,ENSELUG00000012666__Esox_lucius));

@@ -1,0 +1,1 @@
+(ENSBBBG00000012641__Bison_bison_bison,ENSBTAG00000051544__Bos_taurus);

@@ -1,0 +1,3 @@
+MUSSPICILEGUS	mus_spicilegus
+MERIONESUNGUICULATUS	meriones_unguiculatus
+PEROMYSCUSMANICULATUS	peromyscus_maniculatus

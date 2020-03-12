@@ -1,0 +1,1 @@
+((((ENSACLG00000023104__Astatotilapia_calliptera,ENSHBUG00000009461__Haplochromis_burtoni),ENSAOCG00000016987__Amphiprion_ocellaris),((ENSSMAG00000008950__Scophthalmus_maximus,ENSCSEG00000009302__Cynoglossus_semilaevis),ENSSLDG00000015874__Seriola_lalandi_dorsalis)),ENSELUG00000010745__Esox_lucius);

@@ -1,0 +1,1 @@
+(((ENSOGAG00000027647__Otolemur_garnettii,ENSPPYG00000002251__Pongo_abelii),ENSOANG00000002288__Ornithorhynchus_anatinus),ENSXETG00000032368__Xenopus_tropicalis);

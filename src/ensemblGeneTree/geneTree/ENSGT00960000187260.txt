@@ -1,0 +1,1 @@
+((((ENSLAFG00000008207__Loxodonta_africana,ENSAMEG00000006668__Ailuropoda_melanoleuca),ENSOANG00000028442__Ornithorhynchus_anatinus),ENSOANG00000028388__Ornithorhynchus_anatinus),(ENSMUNG00000001210__Melopsittacus_undulatus,ENSTGUG00000002734__Taeniopygia_guttata));

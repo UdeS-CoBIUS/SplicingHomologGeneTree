@@ -1,0 +1,1 @@
+((ENSEASG00005010867__Equus_asinus_asinus,ENSECAG00000036133__Equus_caballus),(ENSGGOG00000037574__Gorilla_gorilla,ENSPPAG00000009141__Pan_paniscus));

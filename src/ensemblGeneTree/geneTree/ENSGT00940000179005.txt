@@ -1,0 +1,1 @@
+((ENSOMEG00000010689__Oryzias_melastigma,ENSGAFG00000003426__Gambusia_affinis),(ENSSDUG00000017776__Seriola_dumerili,ENSATEG00000012299__Anabas_testudineus));

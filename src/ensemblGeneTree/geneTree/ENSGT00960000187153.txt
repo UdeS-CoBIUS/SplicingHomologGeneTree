@@ -1,0 +1,1 @@
+((((ENSOMEG00000011231__Oryzias_melastigma,ENSMMOG00000016703__Mola_mola),ENSOMEG00000019433__Oryzias_melastigma),ENSPMGG00000021489__Periophthalmus_magnuspinnatus),(ENSXETG00000020805__Xenopus_tropicalis,ENSDNOG00000038699__Dasypus_novemcinctus));

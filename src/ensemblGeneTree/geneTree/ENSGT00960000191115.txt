@@ -1,0 +1,1 @@
+((ENSNMEG00000005210__Numida_meleagris,ENSAPLG00000029911__Anas_platyrhynchos_platyrhynchos),ENSFALG00000012188__Ficedula_albicollis);

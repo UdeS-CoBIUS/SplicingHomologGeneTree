@@ -1,0 +1,1 @@
+((((((ENSMAUG00000010504__Mesocricetus_auratus,ENSCGRG00001007291__Cricetulus_griseus_CHOK1GS_HDv1),ENSMOCG00000021185__Microtus_ochrogaster),ENSMFAG00000025364__Macaca_fascicularis),ENSPTEG00000031691__Piliocolobus_tephrosceles),ENSPSMG00000009536__Prolemur_simus),(ENSSSCG00000035920__Sus_scrofa,ENSCHIG00000023901__Capra_hircus));

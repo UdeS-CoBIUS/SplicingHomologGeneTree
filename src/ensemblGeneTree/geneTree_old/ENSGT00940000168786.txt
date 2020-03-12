@@ -1,0 +1,1 @@
+((ENSOANG00000030552__Ornithorhynchus_anatinus,ENSCPGG00000007885__Calidris_pygmaea),ENSCING00000014690__Ciona_intestinalis);

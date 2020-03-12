@@ -1,0 +1,1 @@
+((((ENSPTIG00000008170__Panthera_tigris_altaica,ENSPPRG00000015013__Panthera_pardus),ENSFCAG00000043819__Felis_catus),ENSAMEG00000019353__Ailuropoda_melanoleuca),ENSSTOG00000001241__Ictidomys_tridecemlineatus);

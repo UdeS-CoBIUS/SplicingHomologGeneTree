@@ -1,0 +1,1 @@
+(((((ENSACLG00000011947__Astatotilapia_calliptera,ENSPFOG00000021991__Poecilia_formosa),ENSAOCG00000017484__Amphiprion_ocellaris),ENSTNIG00000015373__Tetraodon_nigroviridis),ENSMALG00000019392__Monopterus_albus),((ENSAMXG00000036421__Astyanax_mexicanus,ENSIPUG00000004120__Ictalurus_punctatus),ENSDARG00000116848__Danio_rerio));

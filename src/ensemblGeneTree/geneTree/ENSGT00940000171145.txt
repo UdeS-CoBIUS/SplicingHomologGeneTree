@@ -1,0 +1,1 @@
+(((ENSMLEG00000035230__Mandrillus_leucophaeus,ENSPTEG00000020886__Piliocolobus_tephrosceles),ENSANAG00000034614__Aotus_nancymaae),(ENSPPRG00000001260__Panthera_pardus,ENSUMAG00000006837__Ursus_maritimus));

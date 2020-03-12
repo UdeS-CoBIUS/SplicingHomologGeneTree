@@ -1,0 +1,1 @@
+((((ENSPNAG00000004721__Pygocentrus_nattereri,ENSIPUG00000000719__Ictalurus_punctatus),ENSDARG00000098959__Danio_rerio),ENSMALG00000003206__Monopterus_albus),(ENSTGUG00000004966__Taeniopygia_guttata,ENSFALG00000006791__Ficedula_albicollis));

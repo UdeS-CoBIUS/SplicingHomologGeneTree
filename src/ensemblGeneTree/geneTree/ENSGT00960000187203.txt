@@ -1,0 +1,1 @@
+((((ENSPKIG00000019440__Paramormyrops_kingsleyae,ENSPKIG00000013183__Paramormyrops_kingsleyae),((ENSAPEG00000007955__Amphiprion_percula,ENSAPEG00000007922__Amphiprion_percula),ENSPMGG00000020999__Periophthalmus_magnuspinnatus)),ENSAPEG00000011598__Amphiprion_percula),ENSEBUG00000004959__Eptatretus_burgeri);

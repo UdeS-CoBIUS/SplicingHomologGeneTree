@@ -1,0 +1,1 @@
+(((ENSUAMG00000003084__Ursus_americanus,ENSUMAG00000006495__Ursus_maritimus),ENSBMUG00000023564__Bos_mutus),(ENSMAUG00000000296__Mesocricetus_auratus,ENSCCNG00000005391__Castor_canadensis));

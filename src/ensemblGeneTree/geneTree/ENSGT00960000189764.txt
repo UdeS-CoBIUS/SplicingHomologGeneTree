@@ -1,0 +1,1 @@
+((((ENSPEMG00000031422__Peromyscus_maniculatus_bairdii,ENSCGRG00015012848__Cricetulus_griseus_CriGri-PICR),ENSPEMG00000025008__Peromyscus_maniculatus_bairdii),ENSMSIG00000017944__Mus_spicilegus),ENSCPUG00000019213__Calidris_pugnax);

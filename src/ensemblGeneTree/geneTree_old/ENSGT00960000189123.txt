@@ -1,0 +1,1 @@
+(((ENSTGUG00000001324__Taeniopygia_guttata,ENSCCEG00000018695__Cyanistes_caeruleus),ENSZALG00000012260__Zonotrichia_albicollis),ENSMVIG00005011811__Manacus_vitellinus);

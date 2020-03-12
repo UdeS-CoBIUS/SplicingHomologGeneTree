@@ -1,0 +1,1 @@
+(((ENSVPAG00000000546__Vicugna_pacos,ENSOPRG00000003720__Ochotona_princeps),(ENSPCAG00000001011__Procavia_capensis,ENSETEG00000007736__Echinops_telfairi)),ENSOANG00000010080__Ornithorhynchus_anatinus);

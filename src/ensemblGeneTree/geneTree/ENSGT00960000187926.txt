@@ -1,0 +1,1 @@
+((ENSGALG00000046923__Gallus_gallus,ENSPSIG00000001681__Pelodiscus_sinensis),ENSAMXG00000039213__Astyanax_mexicanus);

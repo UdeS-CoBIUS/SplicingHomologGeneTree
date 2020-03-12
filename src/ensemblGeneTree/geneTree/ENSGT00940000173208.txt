@@ -1,0 +1,1 @@
+(WBGene00004350__Caenorhabditis_elegans_strain_N2,ENSOANG00000000859__Ornithorhynchus_anatinus);

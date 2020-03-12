@@ -1,0 +1,1 @@
+(ENSMUSG00000116930__Mus_musculus_strain_reference_(CL57BL6),ENSAPLG00000025146__Anas_platyrhynchos_platyrhynchos);

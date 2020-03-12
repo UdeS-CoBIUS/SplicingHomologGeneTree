@@ -1,0 +1,1 @@
+((((ENSSFOG00015006161__Scleropages_formosus,ENSSFOG00015003418__Scleropages_formosus),ENSSFOG00015001811__Scleropages_formosus),ENSSFOG00015007839__Scleropages_formosus),((ENSELUG00000011635__Esox_lucius,ENSELUG00000010623__Esox_lucius),(ENSSDUG00000001211__Seriola_dumerili,ENSSLDG00000001441__Seriola_lalandi_dorsalis)));

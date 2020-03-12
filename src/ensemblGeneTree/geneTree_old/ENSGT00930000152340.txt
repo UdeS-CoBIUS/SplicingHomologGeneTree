@@ -1,0 +1,1 @@
+((ENSJHYG00000017967__Junco_hyemalis,ENSGALG00000047605__Gallus_gallus),(ENSSHAG00000012076__Sarcophilus_harrisii,ENSMLUG00000028501__Myotis_lucifugus));

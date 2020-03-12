@@ -1,0 +1,1 @@
+(ENSMPUG00000001170__Mustela_putorius_furo,ENSMPUG00000008247__Mustela_putorius_furo);

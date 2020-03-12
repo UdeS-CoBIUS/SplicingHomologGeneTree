@@ -1,0 +1,1 @@
+(ENSCAFG00020020668__Canis_lupus_dingo,ENSBTAG00000055032__Bos_taurus);

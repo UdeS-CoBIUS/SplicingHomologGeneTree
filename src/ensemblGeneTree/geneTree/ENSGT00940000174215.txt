@@ -1,0 +1,1 @@
+(ENSLOCG00000008366__Lepisosteus_oculatus,ENSLACG00000012285__Latimeria_chalumnae);

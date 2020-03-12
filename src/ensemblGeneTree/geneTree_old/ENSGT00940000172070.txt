@@ -1,0 +1,1 @@
+(((ENSGAFG00000017755__Gambusia_affinis,ENSXMAG00000023974__Xiphophorus_maculatus),((ENSPFOG00000024785__Poecilia_formosa,ENSXCOG00000016582__Xiphophorus_couchianus),ENSCVAG00000022573__Cyprinodon_variegatus)),ENSKMAG00000008339__Kryptolebias_marmoratus);

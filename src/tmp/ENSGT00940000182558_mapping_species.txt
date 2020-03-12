@@ -1,0 +1,2 @@
+TAKIFUGURUBRIPES	takifugu_rubripes
+POECILIALATIPINNA	poecilia_latipinna

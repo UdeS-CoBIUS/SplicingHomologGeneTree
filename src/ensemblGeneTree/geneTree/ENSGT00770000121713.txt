@@ -1,0 +1,1 @@
+(((ENSAMXG00000034572__Astyanax_mexicanus,ENSIPUG00000003308__Ictalurus_punctatus),ENSDARG00000092896__Danio_rerio),((ENSMMOG00000009816__Mola_mola,ENSTRUG00000019599__Takifugu_rubripes),(ENSPNYG00000021070__Pundamilia_nyererei,ENSPFOG00000024197__Poecilia_formosa)));

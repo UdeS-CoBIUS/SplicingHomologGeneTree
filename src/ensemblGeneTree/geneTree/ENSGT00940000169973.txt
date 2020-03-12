@@ -1,0 +1,1 @@
+((((ENSOANG00000010316__Ornithorhynchus_anatinus,ENSNVIG00000007594__Neovison_vison),ENSOANG00000031151__Ornithorhynchus_anatinus),(ENSLCOG00000009494__Lepidothrix_coronata,ENSCPGG00000006657__Calidris_pygmaea)),ENSLACG00000005609__Latimeria_chalumnae);

@@ -1,0 +1,1 @@
+(((((ENSAMXG00000032959__Astyanax_mexicanus_Astyanax_mexicanus-2.0,ENSAMXG00005009074__Astyanax_mexicanus_Astyanax_mexicanus-1.0.2),ENSPNAG00000004579__Pygocentrus_nattereri),ENSEEEG00000002113__Electrophorus_electricus),ENSIPUG00000017903__Ictalurus_punctatus),ENSDARG00000103101__Danio_rerio);

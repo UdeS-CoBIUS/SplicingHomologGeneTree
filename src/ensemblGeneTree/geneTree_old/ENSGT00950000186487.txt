@@ -1,0 +1,1 @@
+(((ENSMUSG00000076605__Mus_musculus_strain_reference_(CL57BL6),MGP_SPRETEiJ_G0000026__Mus_spretus_strain_SPRET/EiJ),MGP_CAROLIEiJ_G0000025__Mus_caroli_strain_CAROLI_EIJ),MGP_PahariEiJ_G0000021__Mus_pahari_strain_PAHARI_EIJ);

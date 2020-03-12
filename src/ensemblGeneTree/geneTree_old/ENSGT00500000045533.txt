@@ -1,0 +1,1 @@
+((((ENSPTEG00000033383__Piliocolobus_tephrosceles,ENSCANG00000019136__Colobus_angolensis_palliatus),(ENSCSAG00000019365__Chlorocebus_sabaeus,ENSTGEG00000010134__Theropithecus_gelada)),(ENSG00000213029__Homo_sapiens,ENSNLEG00000032941__Nomascus_leucogenys)),ENSOARG00000017738__Ovis_aries);

@@ -1,0 +1,1 @@
+(ENSAPLG00000022154__Anas_platyrhynchos_platyrhynchos,ENSLSDG00000015164__Lonchura_striata_domestica);

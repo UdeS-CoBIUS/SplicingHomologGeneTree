@@ -1,0 +1,1 @@
+(((((ENSLSDG00000016874__Lonchura_striata_domestica,ENSTGUG00000001826__Taeniopygia_guttata),(ENSZALG00000005003__Zonotrichia_albicollis,ENSJHYG00000015116__Junco_hyemalis)),ENSMVIG00005018528__Manacus_vitellinus),ENSMGAG00000009782__Meleagris_gallopavo),ENSMMMG00000014682__Marmota_marmota_marmota);

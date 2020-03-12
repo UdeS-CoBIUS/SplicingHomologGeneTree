@@ -1,0 +1,1 @@
+((((ENSPMEG00000021834__Poecilia_mexicana,ENSCVAG00000002659__Cyprinodon_variegatus),ENSOMEG00000012257__Oryzias_melastigma),ENSSPAG00000015703__Stegastes_partitus),(((ENSSPAG00000009382__Stegastes_partitus,ENSSPAG00000017698__Stegastes_partitus),ENSAPEG00000009836__Amphiprion_percula),ENSPMEG00000022453__Poecilia_mexicana));

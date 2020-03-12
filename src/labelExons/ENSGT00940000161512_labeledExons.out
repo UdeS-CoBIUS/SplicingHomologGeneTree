@@ -1,0 +1,14 @@
+>0
+ENSACAT00000028625: ['3event', '5event', 1647, 0]
+ENSPVIT00000032808: ['3event', 1890, 0]
+ENSSMRT00000003797: ['3event', '5event', 1635, 0]
+ENSNSUT00000016574: ['5event', ['internal gap >= 30', 1546, 333], 1640, 0]
+ENSCABT00000034781: ['3event', '5event', 1630, 0]
+ENSGAGT00000035120: ['3event', '5event', 1636, 0]
+>1
+ENSACAT00000028625: ['5event', ['internal gap < 30', 98, 16], 194, 0]
+ENSPVIT00000032808: ['5event', ['internal gap >= 30', 123, 55], 155, 0]
+ENSSMRT00000003797: ['5event', ['internal gap >= 30', 84, 94], 116, 0]
+ENSNSUT00000016574: [['internal gap >= 30', 40, 138], 72, 0]
+ENSCABT00000034781: ['5event', ['internal gap >= 30', 140, 38], 172, 1]
+ENSGAGT00000035120: ['5event', ['internal gap >= 30', 140, 38], 172, 1]

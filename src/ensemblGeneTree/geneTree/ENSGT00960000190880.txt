@@ -1,0 +1,1 @@
+((ENSNVIG00000010528__Neovison_vison,ENSVVUG00000002131__Vulpes_vulpes),ENSBBBG00000019445__Bison_bison_bison);

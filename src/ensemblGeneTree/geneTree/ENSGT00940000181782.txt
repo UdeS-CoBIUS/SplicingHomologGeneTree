@@ -1,0 +1,1 @@
+(ENSSDUG00000021495__Seriola_dumerili,ENSOANG00000006374__Ornithorhynchus_anatinus);

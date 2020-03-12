@@ -1,0 +1,1 @@
+((((ENSGALG00000050415__Gallus_gallus,ENSCPUG00000009673__Calidris_pugnax),ENSSMRG00000006118__Salvator_merianae),ENSUAMG00000003230__Ursus_americanus),ENSKMAG00000019073__Kryptolebias_marmoratus);

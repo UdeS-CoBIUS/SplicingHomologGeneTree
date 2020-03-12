@@ -1,0 +1,1 @@
+((((ENSRNOG00000049135__Rattus_norvegicus,ENSRNOG00000030870__Rattus_norvegicus),ENSRNOG00000033097__Rattus_norvegicus),ENSMSIG00000015286__Mus_spicilegus),(ENSMUGG00000012145__Meriones_unguiculatus,ENSMUGG00000003800__Meriones_unguiculatus));

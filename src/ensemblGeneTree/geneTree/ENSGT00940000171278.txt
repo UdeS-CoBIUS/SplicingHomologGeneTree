@@ -1,0 +1,1 @@
+(((ENSSPAG00000023243__Stegastes_partitus,ENSXMAG00000030060__Xiphophorus_maculatus),ENSPMGG00000003057__Periophthalmus_magnuspinnatus),((ENSRBIG00000036863__Rhinopithecus_bieti,ENSMICG00000042830__Microcebus_murinus),ENSMGAG00000003790__Meleagris_gallopavo));

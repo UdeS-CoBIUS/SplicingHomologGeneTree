@@ -1,0 +1,2 @@
+Y18D10A.7c.1	WBGene00004231	Caenorhabditis_elegans_strain_N2	Y18D10A.7c.1
+FBpp0298836	FBgn0262867	Drosophila_melanogaster	FBtr0307501

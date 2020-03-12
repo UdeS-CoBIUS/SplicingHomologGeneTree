@@ -1,0 +1,1 @@
+((((ENSACIG00000016429__Amphilophus_citrinellus,ENSPNYG00000003881__Pundamilia_nyererei),(ENSAOCG00000011738__Amphiprion_ocellaris,ENSAPEG00000000707__Amphiprion_percula)),ENSPMGG00000020331__Periophthalmus_magnuspinnatus),ENSLBEG00000012561__Labrus_bergylta);

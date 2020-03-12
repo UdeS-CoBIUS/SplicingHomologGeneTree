@@ -1,0 +1,20 @@
+>cluster_0
+FBtr0112941
+>cluster_1
+T04C10.2a.1	FBtr0076796
+>cluster_2
+YDL161W_mRNA	T04C10.2b.1	FBtr0331838
+>cluster_3
+FBtr0331835
+>cluster_4
+FBtr0076798
+>cluster_5
+YLR206W_mRNA	FBtr0076795
+>cluster_6
+FBtr0331833
+>cluster_7
+FBtr0331836
+>cluster_8
+FBtr0076794
+>cluster_9
+FBtr0076797

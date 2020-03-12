@@ -1,0 +1,10 @@
+>0
+ENSUAMT00000035699: ['3event', 131, 0]
+ENSUAMT00000013866: ['3event', 126, 0]
+ENSCJAT00000114591: [['internal gap < 30', 126, 4], 161, 0]
+ENSCJAT00000093728: ['3event', 119, 0]
+>1
+ENSUAMT00000035699: ['5event', 60, 2]
+ENSUAMT00000013866: ['3event', '5event', 48, 0]
+ENSCJAT00000114591: ['exon skipping', 0, 0]
+ENSCJAT00000093728: ['3event', '5event', 58, 2]

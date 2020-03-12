@@ -1,0 +1,1 @@
+(((ENSCANG00000012720__Colobus_angolensis_palliatus,ENSTGEG00000003203__Theropithecus_gelada),(((((ENSPPAG00000035973__Pan_paniscus,ENSPTRG00000040296__Pan_troglodytes),(ENSG00000183542__Homo_sapiens,ENSG00000255819__Homo_sapiens)),ENSGGOG00000027557__Gorilla_gorilla),ENSPPYG00000004272__Pongo_abelii),ENSNLEG00000003287__Nomascus_leucogenys)),ENSNVIG00000010148__Neovison_vison);

@@ -1,0 +1,1 @@
+((ENSCABG00000007037__Chelonoidis_abingdonii,ENSCPBG00000010396__Chrysemys_picta_bellii),ENSSDAG00000015707__Spermophilus_dauricus);

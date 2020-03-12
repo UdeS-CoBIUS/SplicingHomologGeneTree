@@ -1,0 +1,1 @@
+((((((ENSJJAG00000001721__Jaculus_jaculus,ENSNGAG00000015019__Nannospalax_galili),ENSODEG00000016893__Octodon_degus),ENSDORG00000026471__Dipodomys_ordii),ENSOCUG00000025679__Oryctolagus_cuniculus),ENSPPYG00000019696__Pongo_abelii),ENSOANG00000001045__Ornithorhynchus_anatinus);

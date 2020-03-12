@@ -1,0 +1,1 @@
+((ENSPCAG00000015915__Procavia_capensis,ENSOARG00000016463__Ovis_aries),ENSCCEG00000006227__Cyanistes_caeruleus);

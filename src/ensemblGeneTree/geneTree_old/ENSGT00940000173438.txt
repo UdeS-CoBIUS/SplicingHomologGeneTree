@@ -1,0 +1,1 @@
+((((ENSCPBG00000005583__Chrysemys_picta_bellii,ENSSPUG00000019093__Sphenodon_punctatus),ENSONIG00000020414__Oreochromis_niloticus),ENSMSIG00000009121__Mus_spicilegus),ENSEBUG00000005725__Eptatretus_burgeri);

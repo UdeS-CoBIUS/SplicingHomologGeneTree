@@ -1,0 +1,1 @@
+(ENSGALG00000047371__Gallus_gallus,ENSOANG00000014149__Ornithorhynchus_anatinus);

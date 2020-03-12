@@ -1,0 +1,1 @@
+((ENSHGLG00000001121__Heterocephalus_glaber_HetGla_female_1.0,ENSCAPG00000012434__Cavia_aperea),((ENSCGRG00001009606__Cricetulus_griseus_CHOK1GS_HDv1,ENSCGRG00000011164__Cricetulus_griseus_CriGri_1.0),ENSMUGG00000004835__Meriones_unguiculatus));

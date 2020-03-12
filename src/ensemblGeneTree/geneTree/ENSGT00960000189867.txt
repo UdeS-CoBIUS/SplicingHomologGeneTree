@@ -1,0 +1,1 @@
+(((ENSNMEG00000003756__Numida_meleagris,ENSCJPG00005008015__Coturnix_japonica),ENSMUNG00000003586__Melopsittacus_undulatus),ENSDNVG00000016558__Dromaius_novaehollandiae);

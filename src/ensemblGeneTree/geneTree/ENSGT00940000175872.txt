@@ -1,0 +1,1 @@
+(ENSMEUG00000009660__Notamacropus_eugenii,ENSETEG00000011153__Echinops_telfairi);

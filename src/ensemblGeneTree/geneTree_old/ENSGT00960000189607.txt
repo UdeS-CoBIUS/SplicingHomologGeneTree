@@ -1,0 +1,1 @@
+(((ENSMVIG00005016260__Manacus_vitellinus,ENSMVIG00005019972__Manacus_vitellinus),((ENSCCEG00000000271__Cyanistes_caeruleus,ENSPMJG00000009239__Parus_major),ENSFALG00000015044__Ficedula_albicollis)),ENSAHAG00000018749__Apteryx_haastii);

@@ -1,0 +1,1 @@
+(((((ENSMFAG00000030492__Macaca_fascicularis,ENSMNEG00000038184__Macaca_nemestrina),ENSCATG00000015055__Cercocebus_atys),ENSPANG00000030697__Papio_anubis),ENSMLEG00000026589__Mandrillus_leucophaeus),((ENSRROG00000032401__Rhinopithecus_roxellana,ENSRBIG00000035168__Rhinopithecus_bieti),ENSCANG00000024601__Colobus_angolensis_palliatus));

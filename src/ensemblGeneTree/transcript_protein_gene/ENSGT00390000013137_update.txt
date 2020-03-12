@@ -1,0 +1,2 @@
+F44G4.5.1	WBGene00009714	Caenorhabditis_elegans_strain_N2	F44G4.5.1
+C01G12.3.2	WBGene00007244	Caenorhabditis_elegans_strain_N2	C01G12.3.2

@@ -1,0 +1,1 @@
+(((ENSAPEG00000017574__Amphiprion_percula,ENSTRUG00000003391__Takifugu_rubripes),ENSELUG00000018570__Esox_lucius),ENSCSAVG00000001342__Ciona_savignyi);

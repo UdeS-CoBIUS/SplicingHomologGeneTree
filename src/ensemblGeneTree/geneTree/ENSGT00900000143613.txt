@@ -1,0 +1,1 @@
+(((((ENSMSIG00000011135__Mus_spicilegus,ENSMUGG00000005736__Meriones_unguiculatus),ENSJJAG00000014685__Jaculus_jaculus),ENSDORG00000025713__Dipodomys_ordii),ENSMFAG00000030656__Macaca_fascicularis),ENSSPUG00000011781__Sphenodon_punctatus);

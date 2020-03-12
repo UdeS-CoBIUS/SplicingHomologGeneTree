@@ -1,0 +1,1 @@
+(((ENSPTEG00000029800__Piliocolobus_tephrosceles,ENSPTEG00000029892__Piliocolobus_tephrosceles),ENSCATG00000036800__Cercocebus_atys),((ENSPTRG00000051943__Pan_troglodytes,ENSPPAG00000002404__Pan_paniscus),ENSGGOG00000037334__Gorilla_gorilla));

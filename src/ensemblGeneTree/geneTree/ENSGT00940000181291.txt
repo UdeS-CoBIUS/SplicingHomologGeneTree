@@ -1,0 +1,1 @@
+(ENSCSEG00000008246__Cynoglossus_semilaevis,ENSPNAG00000019678__Pygocentrus_nattereri);

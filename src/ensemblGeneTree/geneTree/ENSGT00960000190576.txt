@@ -1,0 +1,1 @@
+((ENSNMEG00000013609__Numida_meleagris,ENSNMEG00000014192__Numida_meleagris),ENSAPLG00000021492__Anas_platyrhynchos_platyrhynchos);

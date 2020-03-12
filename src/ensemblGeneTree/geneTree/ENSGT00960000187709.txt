@@ -1,0 +1,1 @@
+(((ENSCABG00000015665__Chelonoidis_abingdonii,ENSCPBG00000024194__Chrysemys_picta_bellii),(ENSZALG00000005184__Zonotrichia_albicollis,ENSLCOG00000013693__Lepidothrix_coronata)),(ENSLBEG00000019689__Labrus_bergylta,ENSSLDG00000004158__Seriola_lalandi_dorsalis));

@@ -1,0 +1,1 @@
+(((ENSTGEG00000008720__Theropithecus_gelada,ENSPANG00000029378__Papio_anubis),(ENSRBIG00000043176__Rhinopithecus_bieti,ENSRROG00000034500__Rhinopithecus_roxellana)),ENSANAG00000019158__Aotus_nancymaae);

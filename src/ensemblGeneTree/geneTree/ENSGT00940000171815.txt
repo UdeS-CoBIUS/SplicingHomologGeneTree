@@ -1,0 +1,1 @@
+((ENSLCOG00000003320__Lepidothrix_coronata,ENSGAGG00000003178__Gopherus_agassizii),(ENSHGLG00100001300__Heterocephalus_glaber_HetGla_1.0,ENSHGLG00000004770__Heterocephalus_glaber_HetGla_female_1.0));

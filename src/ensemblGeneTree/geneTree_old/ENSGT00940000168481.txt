@@ -1,0 +1,1 @@
+((((ENSCSEG00000014733__Cynoglossus_semilaevis,ENSGMOG00000004121__Gadus_morhua),ENSSFOG00015016174__Scleropages_formosus),(((ENSTGUG00000015211__Taeniopygia_guttata,ENSTGUG00000000190__Taeniopygia_guttata),ENSFALG00000005811__Ficedula_albicollis),ENSPVIG00000009934__Pogona_vitticeps)),ENSEBUG00000008156__Eptatretus_burgeri);

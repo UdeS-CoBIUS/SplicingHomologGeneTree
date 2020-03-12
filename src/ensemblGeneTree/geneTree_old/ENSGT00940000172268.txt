@@ -1,0 +1,1 @@
+((ENSPTEG00000008790__Piliocolobus_tephrosceles,ENSPTEG00000008901__Piliocolobus_tephrosceles),(ENSCING00000009890__Ciona_intestinalis,ENSCSAVG00000005611__Ciona_savignyi));

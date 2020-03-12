@@ -1,0 +1,1 @@
+(((((ENSABRG00000006417__Anser_brachyrhynchus,ENSCPRG00005014970__Crocodylus_porosus),ENSCABG00000020692__Chelonoidis_abingdonii),(ENSZALG00000010733__Zonotrichia_albicollis,ENSSCAG00000003368__Serinus_canaria)),((ENSANAG00000038519__Aotus_nancymaae,ENSSSCG00000016540__Sus_scrofa),ENSPCAG00000009440__Procavia_capensis)),ENSPKIG00000012923__Paramormyrops_kingsleyae);

@@ -1,0 +1,1 @@
+(((ENSCPBG00000025889__Chrysemys_picta_bellii,ENSCABG00000009107__Chelonoidis_abingdonii),(ENSAPLG00000029545__Anas_platyrhynchos_platyrhynchos,ENSMUNG00000000473__Melopsittacus_undulatus)),(ENSCANG00000014170__Colobus_angolensis_palliatus,ENSGGOG00000040319__Gorilla_gorilla));

@@ -1,0 +1,1 @@
+(((((ENSFHEG00000002671__Fundulus_heteroclitus,ENSPREG00000022351__Poecilia_reticulata),ENSMZEG00005018574__Maylandia_zebra),(ENSAPEG00000018689__Amphiprion_percula,ENSAPEG00000020882__Amphiprion_percula)),ENSHCOG00000013344__Hippocampus_comes),ENSPKIG00000014361__Paramormyrops_kingsleyae);

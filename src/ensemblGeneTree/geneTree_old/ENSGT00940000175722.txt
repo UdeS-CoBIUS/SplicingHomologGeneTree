@@ -1,0 +1,1 @@
+((FBgn0036237__Drosophila_melanogaster,ENSPTEG00000009099__Piliocolobus_tephrosceles),YOR281C__Saccharomyces_cerevisiae_strain_S288C);

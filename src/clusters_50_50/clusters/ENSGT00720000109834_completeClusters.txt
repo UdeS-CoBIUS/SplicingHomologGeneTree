@@ -1,0 +1,12 @@
+>completeCluster_0
+FBtr0078961	FBtr0335033	R148.5a.1
+>completeCluster_1
+FBtr0078961	FBtr0335033	R148.5b.1
+>completeCluster_2
+R148.5a.1	FBtr0335029	FBtr0078962
+>completeCluster_3
+FBtr0078962	FBtr0335028	R148.5a.1
+>completeCluster_4
+FBtr0078962	FBtr0335028	R148.5b.1
+>completeCluster_5
+R148.5b.1	FBtr0335031	FBtr0078962

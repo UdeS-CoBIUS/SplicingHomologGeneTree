@@ -1,0 +1,1 @@
+(((((ENSUAMG00000007885__Ursus_americanus,ENSUMAG00000009272__Ursus_maritimus),ENSPPRG00000020301__Panthera_pardus),ENSFDAG00000011227__Fukomys_damarensis),ENSETEG00000009987__Echinops_telfairi),ENSMEUG00000011973__Notamacropus_eugenii);

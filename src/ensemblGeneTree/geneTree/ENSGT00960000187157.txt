@@ -1,0 +1,1 @@
+(((ENSUAMG00000018325__Ursus_americanus,ENSUAMG00000025099__Ursus_americanus),ENSUMAG00000012715__Ursus_maritimus),((ENSCSAG00000010504__Chlorocebus_sabaeus,ENSCCAG00000036402__Cebus_capucinus_imitator),ENSOPRG00000009042__Ochotona_princeps));

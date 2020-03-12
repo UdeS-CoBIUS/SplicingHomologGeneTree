@@ -1,0 +1,1 @@
+((((ENSPNYG00000008784__Pundamilia_nyererei,ENSNBRG00000022537__Neolamprologus_brichardi),ENSMZEG00005012071__Maylandia_zebra),(ENSAOCG00000017027__Amphiprion_ocellaris,ENSAPOG00000015422__Acanthochromis_polyacanthus)),ENSSLDG00000009057__Seriola_lalandi_dorsalis);

@@ -1,0 +1,1 @@
+(ENSFDAG00000013620__Fukomys_damarensis,ENSCLAG00000011497__Chinchilla_lanigera);

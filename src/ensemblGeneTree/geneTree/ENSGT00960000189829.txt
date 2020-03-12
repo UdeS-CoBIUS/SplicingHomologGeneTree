@@ -1,0 +1,1 @@
+((ENSMUGG00000005470__Meriones_unguiculatus,ENSMSIG00000028125__Mus_spicilegus),(ENSBBBG00000022272__Bison_bison_bison,ENSBMUG00000000576__Bos_mutus));

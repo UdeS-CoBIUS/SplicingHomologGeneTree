@@ -1,0 +1,1 @@
+(((ENSDARG00000093015__Danio_rerio,ENSDARG00000097496__Danio_rerio),ENSIPUG00000019957__Ictalurus_punctatus),ENSOMEG00000000193__Oryzias_melastigma);

@@ -1,0 +1,1 @@
+(((((ENSGACG00000012918__Gasterosteus_aculeatus,ENSTNIG00000016755__Tetraodon_nigroviridis),ENSGMOG00000007656__Gadus_morhua),ENSDARG00000093201__Danio_rerio),ENSLOCG00000002672__Lepisosteus_oculatus),ENSLACG00000017838__Latimeria_chalumnae);

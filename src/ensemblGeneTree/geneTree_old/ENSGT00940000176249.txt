@@ -1,0 +1,1 @@
+(ENSPMAG00000010068__Petromyzon_marinus,ENSORLG00015005750__Oryzias_latipes_ASM223469v1);

@@ -1,0 +1,1 @@
+(((ENSUAMG00000004574__Ursus_americanus,ENSUMAG00000024578__Ursus_maritimus),ENSNVIG00000010457__Neovison_vison),(((((ENSCATG00000037590__Cercocebus_atys,ENSPANG00000029867__Papio_anubis),ENSPTEG00000000563__Piliocolobus_tephrosceles),ENSNLEG00000027996__Nomascus_leucogenys),ENSCJAG00000043414__Callithrix_jacchus),ENSPCOG00000015660__Propithecus_coquereli));

@@ -1,0 +1,1 @@
+((((((ENSSDAG00000009196__Spermophilus_dauricus,ENSMMMG00000000896__Marmota_marmota_marmota),ENSUPAG00010001548__Urocitellus_parryii),ENSCGRG00015027462__Cricetulus_griseus_CriGri-PICR),ENSPCIG00000021258__Phascolarctos_cinereus),ENSCJPG00005005734__Coturnix_japonica),ENSCSEG00000018117__Cynoglossus_semilaevis);

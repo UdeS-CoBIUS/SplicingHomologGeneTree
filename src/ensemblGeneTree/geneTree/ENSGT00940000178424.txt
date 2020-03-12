@@ -1,0 +1,1 @@
+(((ENSGAFG00000019018__Gambusia_affinis,ENSXCOG00000009113__Xiphophorus_couchianus),ENSFHEG00000021997__Fundulus_heteroclitus),(ENSAOCG00000013190__Amphiprion_ocellaris,ENSAOCG00000013462__Amphiprion_ocellaris));

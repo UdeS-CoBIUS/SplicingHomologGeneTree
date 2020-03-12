@@ -1,0 +1,1 @@
+((((ENSPFOG00000020162__Poecilia_formosa,ENSPFOG00000024817__Poecilia_formosa),ENSPFOG00000020744__Poecilia_formosa),ENSPNAG00000024588__Pygocentrus_nattereri),(((ENSPFOG00000006494__Poecilia_formosa,ENSPFOG00000010013__Poecilia_formosa),ENSCVAG00000001229__Cyprinodon_variegatus),ENSPNAG00000024199__Pygocentrus_nattereri));

@@ -1,0 +1,1 @@
+((ENSCCAG00000032055__Cebus_capucinus_imitator,ENSCHIG00000026276__Capra_hircus),ENSCHOG00000010312__Choloepus_hoffmanni);

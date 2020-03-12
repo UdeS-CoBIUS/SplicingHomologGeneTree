@@ -1,0 +1,1 @@
+((ENSCCEG00000022148__Cyanistes_caeruleus,ENSCPUG00000004131__Calidris_pugnax),(ENSAHAG00000009717__Apteryx_haastii,ENSAOWG00000014416__Apteryx_owenii));

@@ -1,0 +1,1 @@
+(((ENSVPAG00000007431__Vicugna_pacos,ENSTTRG00000011978__Tursiops_truncatus),ENSMAUG00000005101__Mesocricetus_auratus),ENSLAFG00000030307__Loxodonta_africana);

@@ -1,0 +1,1 @@
+(((ENSLBEG00000022945__Labrus_bergylta,ENSSLDG00000000363__Seriola_lalandi_dorsalis),ENSGAFG00000013393__Gambusia_affinis),(ENSHCOG00000002106__Hippocampus_comes,ENSPMGG00000011258__Periophthalmus_magnuspinnatus));

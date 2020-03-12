@@ -1,0 +1,1 @@
+((ENSCPUG00000001565__Calidris_pugnax,ENSGALG00000050837__Gallus_gallus),ENSGAGG00000015754__Gopherus_agassizii);

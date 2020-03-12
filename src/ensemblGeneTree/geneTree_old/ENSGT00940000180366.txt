@@ -1,0 +1,1 @@
+((ENSPMGG00000014401__Periophthalmus_magnuspinnatus,ENSPMGG00000023287__Periophthalmus_magnuspinnatus),ENSACIG00000010568__Amphilophus_citrinellus);

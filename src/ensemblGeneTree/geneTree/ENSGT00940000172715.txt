@@ -1,0 +1,1 @@
+(((((ENSIPUG00000013401__Ictalurus_punctatus,ENSAMXG00000041718__Astyanax_mexicanus),ENSSPUG00000001770__Sphenodon_punctatus),ENSPTEG00000006392__Piliocolobus_tephrosceles),ENSCING00000008882__Ciona_intestinalis),(ENSCING00000023887__Ciona_intestinalis,ENSCVAG00000003327__Cyprinodon_variegatus));

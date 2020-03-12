@@ -1,0 +1,1 @@
+((((ENSMFAG00000027008__Macaca_fascicularis,ENSPANG00000033381__Papio_anubis),ENSPTEG00000036428__Piliocolobus_tephrosceles),ENSANAG00000022239__Aotus_nancymaae),ENSSSCG00000034956__Sus_scrofa);

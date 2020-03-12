@@ -1,0 +1,1 @@
+(((ENSPVAG00000001098__Pteropus_vampyrus,ENSBBBG00000004087__Bison_bison_bison),(ENSOCUG00000003988__Oryctolagus_cuniculus,ENSOPRG00000007437__Ochotona_princeps)),ENSCABG00000007632__Chelonoidis_abingdonii);

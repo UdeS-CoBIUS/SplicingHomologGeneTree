@@ -1,0 +1,70 @@
+>0
+ENSPCIT00000015601: ['no event', 66, 0]
+ENSMODT00000042214: ['5event', 46, 0]
+ENSMODT00000087233: ['no event', 66, 0]
+ENSMODT00000065197: ['5event', 46, 0]
+>1
+ENSPCIT00000015601: ['exon skipping', 0, 0]
+ENSMODT00000042214: ['no event', 91, 2]
+ENSMODT00000087233: ['exon skipping', 0, 0]
+ENSMODT00000065197: ['no event', 91, 2]
+>2
+ENSPCIT00000015601: ['3event', '5event', 45, 1]
+ENSMODT00000042214: ['no event', 49, 1]
+ENSMODT00000087233: ['5event', 47, 1]
+ENSMODT00000065197: ['no event', 49, 1]
+>3
+ENSPCIT00000015601: ['5event', 56, 1]
+ENSMODT00000042214: ['exon skipping', 0, 0]
+ENSMODT00000087233: ['exon skipping', 0, 0]
+ENSMODT00000065197: ['exon skipping', 0, 0]
+>4
+ENSPCIT00000015601: ['exon skipping', 0, 0]
+ENSMODT00000042214: ['5event', 101, 1]
+ENSMODT00000087233: ['5event', 101, 1]
+ENSMODT00000065197: ['5event', 101, 1]
+>5
+ENSPCIT00000015601: ['exon skipping', 0, 0]
+ENSMODT00000042214: ['no event', 62, 1]
+ENSMODT00000087233: ['no event', 62, 1]
+ENSMODT00000065197: ['no event', 62, 1]
+>6
+ENSPCIT00000015601: ['5event', 98, 1]
+ENSMODT00000042214: [['internal gap < 30', 2, 3], 100, 1]
+ENSMODT00000087233: [['internal gap < 30', 2, 3], 100, 1]
+ENSMODT00000065197: [['internal gap < 30', 2, 3], 100, 1]
+>7
+ENSPCIT00000015601: ['no event', 62, 1]
+ENSMODT00000042214: ['no event', 62, 1]
+ENSMODT00000087233: ['no event', 62, 1]
+ENSMODT00000065197: ['no event', 62, 1]
+>8
+ENSPCIT00000015601: ['no event', 38, 1]
+ENSMODT00000042214: ['no event', 38, 1]
+ENSMODT00000087233: ['no event', 38, 1]
+ENSMODT00000065197: ['no event', 38, 1]
+>9
+ENSPCIT00000015601: ['no event', 119, 1]
+ENSMODT00000042214: ['no event', 119, 1]
+ENSMODT00000087233: ['no event', 119, 1]
+ENSMODT00000065197: ['no event', 119, 1]
+>10
+ENSPCIT00000015601: ['no event', 65, 1]
+ENSMODT00000042214: ['no event', 65, 1]
+ENSMODT00000087233: ['no event', 65, 1]
+ENSMODT00000065197: ['no event', 65, 1]
+>11
+ENSPCIT00000015601: ['exon skipping', 0, 0]
+ENSMODT00000042214: ['exon skipping', 0, 0]
+ENSMODT00000087233: ['no event', 142, 1]
+ENSMODT00000065197: ['no event', 142, 1]
+>12
+ENSPCIT00000015601: ['exon skipping', 0, 0]
+ENSMODT00000042214: ['5event', 16, 1]
+ENSMODT00000087233: ['exon skipping', 0, 0]
+ENSMODT00000065197: ['exon skipping', 0, 0]
+>13
+ENSPCIT00000015601: ['5event', 64, 1]
+ENSMODT00000042214: ['exon skipping', 0, 0]
+ENSMODT00000087233: ['exon skipping', 0, 0]
+ENSMODT00000065197: ['exon skipping', 0, 0]

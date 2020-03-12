@@ -1,0 +1,1 @@
+((ENSPSMG00000005732__Prolemur_simus,ENSMUGG00000020572__Meriones_unguiculatus),(ENSUAMG00000000400__Ursus_americanus,ENSMLUG00000013561__Myotis_lucifugus));

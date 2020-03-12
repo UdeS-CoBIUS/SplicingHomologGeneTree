@@ -1,0 +1,1 @@
+((((ENSOMEG00000022211__Oryzias_melastigma,ENSORLG00020004093__Oryzias_latipes_ASM223471v1),ENSPFOG00000021987__Poecilia_formosa),ENSCSEG00000004213__Cynoglossus_semilaevis),ENSTNIG00000006484__Tetraodon_nigroviridis);

@@ -1,0 +1,1 @@
+(((((ENSATEG00000003071__Anabas_testudineus,ENSPMGG00000008627__Periophthalmus_magnuspinnatus),ENSLBEG00000028524__Labrus_bergylta),ENSAOCG00000009417__Amphiprion_ocellaris),ENSSLDG00000021022__Seriola_lalandi_dorsalis),ENSGAGG00000024358__Gopherus_agassizii);

@@ -1,0 +1,1 @@
+(((ENSCANG00000021207__Colobus_angolensis_palliatus,ENSPANG00000032918__Papio_anubis),(ENSGGOG00000040231__Gorilla_gorilla,ENSNLEG00000033041__Nomascus_leucogenys)),(ENSSBOG00000023533__Saimiri_boliviensis_boliviensis,ENSANAG00000028914__Aotus_nancymaae));

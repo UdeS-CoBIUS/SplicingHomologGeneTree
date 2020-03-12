@@ -1,0 +1,1 @@
+(((ENSNVIG00000001560__Neovison_vison,ENSVVUG00000015896__Vulpes_vulpes),((ENSBBBG00000006127__Bison_bison_bison,ENSBMUG00000013249__Bos_mutus),ENSCHIG00000015620__Capra_hircus)),((ENSANAG00000033624__Aotus_nancymaae,ENSPSMG00000020711__Prolemur_simus),(ENSCCNG00000012676__Castor_canadensis,ENSPEMG00000031217__Peromyscus_maniculatus_bairdii)));

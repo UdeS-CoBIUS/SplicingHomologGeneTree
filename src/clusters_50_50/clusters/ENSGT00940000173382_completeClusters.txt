@@ -1,0 +1,2 @@
+>completeCluster_0
+FBtr0084102	CD4.2.1	ENSHHUT00000023600

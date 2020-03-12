@@ -1,0 +1,1 @@
+(((ENSCPGG00000015923__Calidris_pygmaea,ENSLSDG00000009999__Lonchura_striata_domestica),(ENSGAGG00000013218__Gopherus_agassizii,ENSNSUG00000016581__Notechis_scutatus)),ENSPMGG00000009855__Periophthalmus_magnuspinnatus);

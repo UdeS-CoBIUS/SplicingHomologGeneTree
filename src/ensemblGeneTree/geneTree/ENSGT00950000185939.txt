@@ -1,0 +1,1 @@
+((ENSOANG00000021405__Ornithorhynchus_anatinus,ENSUAMG00000025327__Ursus_americanus),(ENSLCOG00000015514__Lepidothrix_coronata,ENSLSDG00000002630__Lonchura_striata_domestica));

@@ -1,0 +1,1 @@
+(((ENSORLG00000029424__Oryzias_latipes_ASM223467v1,ENSORLG00015001753__Oryzias_latipes_ASM223469v1),ENSPREG00000003114__Poecilia_reticulata),ENSPNYG00000006340__Pundamilia_nyererei);

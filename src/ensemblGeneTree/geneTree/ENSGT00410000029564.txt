@@ -1,0 +1,1 @@
+(ENSEEUG00000012079__Erinaceus_europaeus,ENSPVAG00000001356__Pteropus_vampyrus);

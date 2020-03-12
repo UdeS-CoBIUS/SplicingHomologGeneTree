@@ -1,0 +1,1 @@
+((((ENSGAGG00000017233__Gopherus_agassizii,ENSMVIG00005009570__Manacus_vitellinus),ENSPVIG00000007373__Pogona_vitticeps),ENSLAFG00000027777__Loxodonta_africana),(ENSSDUG00000004661__Seriola_dumerili,ENSPMEG00000006552__Poecilia_mexicana));

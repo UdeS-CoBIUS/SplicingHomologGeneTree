@@ -1,0 +1,1 @@
+((((ENSSFOG00015003804__Scleropages_formosus,ENSAMXG00000034709__Astyanax_mexicanus),(ENSTRUG00000019733__Takifugu_rubripes,ENSLBEG00000020889__Labrus_bergylta)),(ENSGAGG00000001358__Gopherus_agassizii,ENSDNVG00000003111__Dromaius_novaehollandiae)),ENSEBUG00000006407__Eptatretus_burgeri);

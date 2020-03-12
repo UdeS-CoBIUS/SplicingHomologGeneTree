@@ -1,0 +1,1 @@
+(ENSSCAG00000010686__Serinus_canaria,ENSSFOG00015010224__Scleropages_formosus);

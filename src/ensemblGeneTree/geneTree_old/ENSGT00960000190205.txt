@@ -1,0 +1,1 @@
+((ENSMUNG00000000462__Melopsittacus_undulatus,ENSMVIG00005016874__Manacus_vitellinus),ENSDNVG00000019081__Dromaius_novaehollandiae);

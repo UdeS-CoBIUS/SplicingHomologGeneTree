@@ -1,0 +1,1 @@
+(((ENSSDAG00000005682__Spermophilus_dauricus,ENSMODG00000038352__Monodelphis_domestica),ENSOANG00000006500__Ornithorhynchus_anatinus),ENSTGUG00000014483__Taeniopygia_guttata);

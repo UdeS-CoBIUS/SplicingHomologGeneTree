@@ -1,0 +1,1 @@
+(((ENSVPAG00000006962__Vicugna_pacos,ENSNLEG00000033207__Nomascus_leucogenys),ENSSTOG00000029894__Ictidomys_tridecemlineatus),ENSCHOG00000013345__Choloepus_hoffmanni);

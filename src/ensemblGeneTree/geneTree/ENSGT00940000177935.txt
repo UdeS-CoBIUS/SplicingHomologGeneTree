@@ -1,0 +1,1 @@
+(((((ENSPNYG00000018734__Pundamilia_nyererei,ENSSPAG00000003444__Stegastes_partitus),ENSKMAG00000015957__Kryptolebias_marmoratus),ENSORLG00000026445__Oryzias_latipes_ASM223467v1),(ENSSLDG00000021167__Seriola_lalandi_dorsalis,ENSLBEG00000014104__Labrus_bergylta)),(ENSNVIG00000017244__Neovison_vison,ENSPSMG00000013915__Prolemur_simus));

@@ -1,0 +1,6 @@
+MANDRILLUSLEUCOPHAEUS	mandrillus_leucophaeus
+PAPIOANUBIS	papio_anubis
+RHINOPITHECUSBIETI	rhinopithecus_bieti
+RHINOPITHECUSROXELLANA	rhinopithecus_roxellana
+PANTROGLODYTES	pan_troglodytes
+CALLITHRIXJACCHUS	callithrix_jacchus

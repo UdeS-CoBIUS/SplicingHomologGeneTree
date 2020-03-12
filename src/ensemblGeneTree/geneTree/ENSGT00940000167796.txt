@@ -1,0 +1,1 @@
+((((ENSNGAG00000017017__Nannospalax_galili,ENSCGRG00000014563__Cricetulus_griseus_CriGri_1.0),(ENSSTOG00000025311__Ictidomys_tridecemlineatus,ENSFDAG00000012161__Fukomys_damarensis)),ENSOGAG00000028795__Otolemur_garnettii),ENSAMEG00000014425__Ailuropoda_melanoleuca);

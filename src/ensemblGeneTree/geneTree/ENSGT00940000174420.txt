@@ -1,0 +1,1 @@
+(((ENSNMEG00000013706__Numida_meleagris,ENSTGUG00000011041__Taeniopygia_guttata),ENSMODG00000029738__Monodelphis_domestica),ENSPMAG00000008246__Petromyzon_marinus);

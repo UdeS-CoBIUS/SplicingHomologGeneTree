@@ -1,0 +1,1 @@
+((((ENSPTRG00000051511__Pan_troglodytes,ENSNLEG00000010165__Nomascus_leucogenys),ENSMMUG00000038418__Macaca_mulatta),ENSTSYG00000033482__Carlito_syrichta),ENSUAMG00000009295__Ursus_americanus);

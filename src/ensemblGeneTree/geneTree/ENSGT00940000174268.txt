@@ -1,0 +1,1 @@
+(ENSCCAG00000026377__Cebus_capucinus_imitator,ENSPCOG00000013500__Propithecus_coquereli);

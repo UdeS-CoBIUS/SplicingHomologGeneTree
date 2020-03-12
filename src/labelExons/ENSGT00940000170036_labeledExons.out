@@ -1,0 +1,15 @@
+>0
+FBtr0086812: ['no event', 50, 0]
+FBtr0086811: ['no event', 50, 0]
+FBtr0300216: ['3event', 36, 0]
+FBtr0344762: ['3event', 36, 0]
+>1
+FBtr0086812: [['internal gap >= 30', 239, 30], 321, 0]
+FBtr0086811: [['internal gap < 30', 245, 24], 327, 0]
+FBtr0300216: ['5event', ['internal gap < 30', 288, 28], 323, 0]
+FBtr0344762: ['5event', ['internal gap < 30', 288, 28], 323, 0]
+>2
+FBtr0086812: ['3event', 268, 0]
+FBtr0086811: [['internal gap < 30', 366, 8], 380, 0]
+FBtr0300216: ['3event', 196, 0]
+FBtr0344762: ['3event', 196, 0]

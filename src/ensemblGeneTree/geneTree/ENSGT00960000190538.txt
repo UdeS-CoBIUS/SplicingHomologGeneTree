@@ -1,0 +1,1 @@
+((ENSUPAG00010010890__Urocitellus_parryii,ENSSDAG00000020639__Spermophilus_dauricus),ENSACIG00000017642__Amphilophus_citrinellus);

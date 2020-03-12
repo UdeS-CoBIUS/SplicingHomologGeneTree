@@ -1,0 +1,1 @@
+(((((ENSPMEG00000010420__Poecilia_mexicana,ENSPFOG00000009732__Poecilia_formosa),ENSPREG00000011807__Poecilia_reticulata),ENSGAFG00000014008__Gambusia_affinis),(ENSORLG00000020525__Oryzias_latipes_ASM223467v1,ENSMZEG00005003572__Maylandia_zebra)),ENSCHOG00000008255__Choloepus_hoffmanni);

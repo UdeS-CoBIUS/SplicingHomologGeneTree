@@ -1,0 +1,1 @@
+((((ENSTGUG00000016524__Taeniopygia_guttata,ENSTGUG00000008033__Taeniopygia_guttata),ENSFALG00000015031__Ficedula_albicollis),(ENSCCEG00000021420__Cyanistes_caeruleus,ENSZALG00000009021__Zonotrichia_albicollis)),ENSNPEG00000009812__Nothoprocta_perdicaria);

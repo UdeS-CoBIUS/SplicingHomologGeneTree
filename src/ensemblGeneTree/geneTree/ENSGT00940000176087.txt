@@ -1,0 +1,1 @@
+((ENSGACG00000001742__Gasterosteus_aculeatus,ENSGWIG00000002240__Gouania_willdenowi),ENSPKIG00000008625__Paramormyrops_kingsleyae);

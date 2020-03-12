@@ -1,0 +1,1 @@
+((ENSTRUG00000002902__Takifugu_rubripes,ENSPKIG00000017538__Paramormyrops_kingsleyae),ENSEBUG00000012598__Eptatretus_burgeri);

@@ -1,0 +1,1 @@
+(((ENSXMAG00000027640__Xiphophorus_maculatus,ENSGAFG00000014125__Gambusia_affinis),((ENSPMEG00000015440__Poecilia_mexicana,ENSPMEG00000005336__Poecilia_mexicana),(ENSPFOG00000016370__Poecilia_formosa,ENSPFOG00000016375__Poecilia_formosa))),ENSCVAG00000013959__Cyprinodon_variegatus);

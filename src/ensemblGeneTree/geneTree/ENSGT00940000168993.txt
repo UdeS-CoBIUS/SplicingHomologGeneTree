@@ -1,0 +1,1 @@
+((((((ENSMNEG00000033655__Macaca_nemestrina,ENSTGEG00000020543__Theropithecus_gelada),ENSPTEG00000032531__Piliocolobus_tephrosceles),ENSTSYG00000008471__Carlito_syrichta),ENSMMMG00000004925__Marmota_marmota_marmota),(ENSVPAG00000009353__Vicugna_pacos,ENSBBBG00000021966__Bison_bison_bison)),ENSCHOG00000009846__Choloepus_hoffmanni);

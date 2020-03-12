@@ -1,0 +1,1 @@
+(ENSLACG00000010097__Latimeria_chalumnae,ENSIPUG00000015425__Ictalurus_punctatus);

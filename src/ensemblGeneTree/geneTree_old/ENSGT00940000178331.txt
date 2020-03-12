@@ -1,0 +1,1 @@
+((((ENSPREG00000005022__Poecilia_reticulata,ENSXCOG00000004361__Xiphophorus_couchianus),(ENSPNYG00000022211__Pundamilia_nyererei,ENSMZEG00005018083__Maylandia_zebra)),ENSTRUG00000020843__Takifugu_rubripes),ENSHCOG00000013943__Hippocampus_comes);

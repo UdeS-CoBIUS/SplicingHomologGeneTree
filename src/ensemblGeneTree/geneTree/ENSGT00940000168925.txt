@@ -1,0 +1,1 @@
+(((ENSSDAG00000007695__Spermophilus_dauricus,ENSTBEG00000010819__Tupaia_belangeri),ENSNMEG00000016530__Numida_meleagris),((ENSONIG00000017103__Oreochromis_niloticus,ENSONIG00000000082__Oreochromis_niloticus),ENSSLDG00000007884__Seriola_lalandi_dorsalis));

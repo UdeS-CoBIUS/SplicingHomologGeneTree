@@ -1,0 +1,1 @@
+((((ENSTGEG00000017104__Theropithecus_gelada,ENSPTEG00000031244__Piliocolobus_tephrosceles),ENSMMUG00000017133__Macaca_mulatta),ENSPSMG00000004841__Prolemur_simus),ENSCCNG00000018920__Castor_canadensis);

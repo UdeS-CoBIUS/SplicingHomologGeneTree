@@ -1,0 +1,1 @@
+(((ENSHBUG00000022145__Haplochromis_burtoni,ENSAOCG00000016002__Amphiprion_ocellaris),ENSPLAG00000020639__Poecilia_latipinna),ENSCSEG00000002819__Cynoglossus_semilaevis);

@@ -1,0 +1,12 @@
+>0
+ENSSMRT00000008406: ['exon skipping', 0, 0]
+ENSCCNT00000014762: ['no event', 53, 0]
+>1
+ENSSMRT00000008406: ['5event', 239, 0]
+ENSCCNT00000014762: ['3event', 64, 0]
+>2
+ENSSMRT00000008406: ['exon skipping', 0, 0]
+ENSCCNT00000014762: ['5event', 39, 0]
+>3
+ENSSMRT00000008406: ['exon skipping', 0, 0]
+ENSCCNT00000014762: ['no event', 133, 1]

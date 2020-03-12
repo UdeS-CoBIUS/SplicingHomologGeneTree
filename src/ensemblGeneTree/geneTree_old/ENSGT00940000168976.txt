@@ -1,0 +1,1 @@
+(((((ENSFDAG00000004405__Fukomys_damarensis,ENSCAPG00000002913__Cavia_aperea),ENSODEG00000019509__Octodon_degus),ENSMSIG00000010877__Mus_spicilegus),ENSMGAG00000014790__Meleagris_gallopavo),(ENSHCOG00000003678__Hippocampus_comes,ENSSFOG00015000570__Scleropages_formosus));

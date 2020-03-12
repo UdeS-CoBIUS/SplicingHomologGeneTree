@@ -1,0 +1,1 @@
+(ENSDNVG00000008710__Dromaius_novaehollandiae,ENSAPLG00000023942__Anas_platyrhynchos_platyrhynchos);

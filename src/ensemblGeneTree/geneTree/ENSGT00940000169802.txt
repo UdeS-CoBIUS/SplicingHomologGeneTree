@@ -1,0 +1,1 @@
+(((ENSPNYG00000005304__Pundamilia_nyererei,ENSPREG00000017363__Poecilia_reticulata),ENSTNIG00000019648__Tetraodon_nigroviridis),((ENSMVIG00005004018__Manacus_vitellinus,ENSNMEG00000019547__Numida_meleagris),(ENSCPOG00000034692__Cavia_porcellus,ENSCAPG00000012638__Cavia_aperea)));

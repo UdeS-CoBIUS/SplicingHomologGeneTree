@@ -1,0 +1,1 @@
+(((ENSSTOG00000031300__Ictidomys_tridecemlineatus,ENSCLAG00000016820__Chinchilla_lanigera),ENSDORG00000023340__Dipodomys_ordii),ENSETEG00000014569__Echinops_telfairi);

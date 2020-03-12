@@ -1,0 +1,1 @@
+((((ENSCSEG00000002695__Cynoglossus_semilaevis,ENSSMAG00000007122__Scophthalmus_maximus),(ENSACLG00000009046__Astatotilapia_calliptera,ENSHBUG00000007491__Haplochromis_burtoni)),ENSPMGG00000005957__Periophthalmus_magnuspinnatus),ENSSPUG00000003790__Sphenodon_punctatus);

@@ -1,0 +1,1 @@
+((ENSAPEG00000008227__Amphiprion_percula,ENSORLG00000022232__Oryzias_latipes_ASM223467v1),(ENSSMAG00000018794__Scophthalmus_maximus,ENSSLDG00000017565__Seriola_lalandi_dorsalis));

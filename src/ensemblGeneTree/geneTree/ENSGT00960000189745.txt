@@ -1,0 +1,1 @@
+((ENSMMMG00000002376__Marmota_marmota_marmota,ENSSDAG00000023217__Spermophilus_dauricus),((ENSBTAG00000053344__Bos_taurus,ENSBMUG00000016554__Bos_mutus),ENSBBBG00000009635__Bison_bison_bison));

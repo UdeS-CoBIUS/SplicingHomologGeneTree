@@ -1,0 +1,1 @@
+((((ENSCCNG00000022537__Castor_canadensis,MGP_PahariEiJ_G0016416__Mus_pahari_strain_PAHARI_EIJ),ENSOPRG00000005866__Ochotona_princeps),ENSUAMG00000027256__Ursus_americanus),(ENSPCAG00000006392__Procavia_capensis,ENSETEG00000005372__Echinops_telfairi));

@@ -1,0 +1,1 @@
+(((ENSPREG00000010433__Poecilia_reticulata,ENSACIG00000018856__Amphilophus_citrinellus),ENSGMOG00000007238__Gadus_morhua),ENSCPBG00000024466__Chrysemys_picta_bellii);

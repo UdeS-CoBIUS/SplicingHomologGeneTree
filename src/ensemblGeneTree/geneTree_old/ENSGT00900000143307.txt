@@ -1,0 +1,1 @@
+(((ENSMSIG00000028821__Mus_spicilegus,MGP_CAROLIEiJ_G0015156__Mus_caroli_strain_CAROLI_EIJ),(MGP_SPRETEiJ_G0015964__Mus_spretus_strain_SPRET/EiJ,MGP_PahariEiJ_G0023776__Mus_pahari_strain_PAHARI_EIJ)),ENSPEMG00000029424__Peromyscus_maniculatus_bairdii);

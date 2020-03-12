@@ -1,0 +1,1 @@
+((ENSCHOG00000005946__Choloepus_hoffmanni,ENSEEUG00000003454__Erinaceus_europaeus),((((ENSCPGG00000003309__Calidris_pygmaea,ENSCPUG00000018785__Calidris_pugnax),ENSTGUG00000010445__Taeniopygia_guttata),ENSAPLG00000003676__Anas_platyrhynchos_platyrhynchos),(ENSAHAG00000019470__Apteryx_haastii,ENSAOWG00000018123__Apteryx_owenii)));

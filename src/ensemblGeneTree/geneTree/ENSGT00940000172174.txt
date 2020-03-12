@@ -1,0 +1,1 @@
+(((ENSSARG00000006622__Sorex_araneus,ENSETEG00000017913__Echinops_telfairi),ENSLSDG00000001884__Lonchura_striata_domestica),((ENSACIG00000002455__Amphilophus_citrinellus,ENSXCOG00000007394__Xiphophorus_couchianus),ENSPMGG00000002683__Periophthalmus_magnuspinnatus));

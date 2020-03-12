@@ -1,0 +1,1 @@
+(((ENSBBBG00000022078__Bison_bison_bison,ENSBMUG00000007119__Bos_mutus),ENSOARG00000008820__Ovis_aries),(((ENSAMEG00000019474__Ailuropoda_melanoleuca,ENSCAFG00000024733__Canis_lupus_familiaris),ENSMPUG00000019576__Mustela_putorius_furo),ENSMLUG00000016375__Myotis_lucifugus));

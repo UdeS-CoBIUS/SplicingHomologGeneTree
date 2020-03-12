@@ -1,0 +1,1 @@
+((((((ENSRBIG00000036488__Rhinopithecus_bieti,ENSRROG00000033464__Rhinopithecus_roxellana),ENSMLEG00000040748__Mandrillus_leucophaeus),ENSGGOG00000038693__Gorilla_gorilla),ENSOCUG00000025744__Oryctolagus_cuniculus),MGP_SPRETEiJ_G0023474__Mus_spretus_strain_SPRET/EiJ),ENSCHIG00000015984__Capra_hircus);

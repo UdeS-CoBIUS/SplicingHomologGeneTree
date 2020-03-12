@@ -1,0 +1,1 @@
+(((ENSFALG00000015067__Ficedula_albicollis,ENSFALG00000013956__Ficedula_albicollis),ENSLSDG00000005678__Lonchura_striata_domestica),((ENSMAMG00000004517__Mastacembelus_armatus,ENSMAMG00000004506__Mastacembelus_armatus),ENSIPUG00000003682__Ictalurus_punctatus));

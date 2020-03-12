@@ -1,0 +1,1 @@
+(((WBGene00011967__Caenorhabditis_elegans_strain_N2,WBGene00010037__Caenorhabditis_elegans_strain_N2),FBgn0062449__Drosophila_melanogaster),(((ENSCAFG00000008439__Canis_lupus_familiaris,ENSCAFG00020005496__Canis_lupus_dingo),ENSVVUG00000022883__Vulpes_vulpes),ENSCING00000014482__Ciona_intestinalis));

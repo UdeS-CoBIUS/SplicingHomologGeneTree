@@ -1,0 +1,1 @@
+(((ENSMMOG00000003061__Mola_mola,ENSTRUG00000022023__Takifugu_rubripes),(ENSHCOG00000009076__Hippocampus_comes,ENSPMGG00000006543__Periophthalmus_magnuspinnatus)),ENSPFOG00000024769__Poecilia_formosa);

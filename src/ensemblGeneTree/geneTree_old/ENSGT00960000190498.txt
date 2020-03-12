@@ -1,0 +1,1 @@
+((ENSDNVG00000013734__Dromaius_novaehollandiae,ENSMUNG00000008024__Melopsittacus_undulatus),ENSSDAG00000007131__Spermophilus_dauricus);

@@ -1,0 +1,1 @@
+(((ENSPANG00000009959__Papio_anubis,ENSCANG00000028293__Colobus_angolensis_palliatus),ENSNLEG00000008698__Nomascus_leucogenys),((ENSANAG00000009521__Aotus_nancymaae,ENSANAG00000035365__Aotus_nancymaae),ENSSBOG00000005958__Saimiri_boliviensis_boliviensis));

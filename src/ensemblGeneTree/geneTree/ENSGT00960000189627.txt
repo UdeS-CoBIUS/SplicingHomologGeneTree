@@ -1,0 +1,1 @@
+(((((ENSJHYG00000014625__Junco_hyemalis,ENSZALG00000003774__Zonotrichia_albicollis),ENSPMJG00000006065__Parus_major),ENSSCAG00000014194__Serinus_canaria),ENSDNVG00000004678__Dromaius_novaehollandiae),ENSACAG00000026813__Anolis_carolinensis);

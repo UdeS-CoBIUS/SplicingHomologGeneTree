@@ -1,0 +1,1 @@
+(ENSSMAG00000016601__Scophthalmus_maximus,ENSXCOG00000012194__Xiphophorus_couchianus);

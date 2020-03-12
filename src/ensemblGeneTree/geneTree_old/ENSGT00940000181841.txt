@@ -1,0 +1,1 @@
+(ENSAPEG00000007486__Amphiprion_percula,ENSSMAG00000015961__Scophthalmus_maximus);

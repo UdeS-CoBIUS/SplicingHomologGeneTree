@@ -1,0 +1,1 @@
+(ENSGMOG00000006416__Gadus_morhua,ENSPLAG00000016924__Poecilia_latipinna);

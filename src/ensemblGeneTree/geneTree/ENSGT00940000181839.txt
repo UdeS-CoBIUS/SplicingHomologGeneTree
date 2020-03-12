@@ -1,0 +1,1 @@
+((ENSMODG00000027467__Monodelphis_domestica,ENSCABG00000012997__Chelonoidis_abingdonii),ENSTRUG00000020961__Takifugu_rubripes);

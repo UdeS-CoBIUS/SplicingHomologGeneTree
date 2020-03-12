@@ -1,0 +1,1 @@
+((ENSECAG00000029467__Equus_caballus,ENSEASG00005013332__Equus_asinus_asinus),(ENSMMUG00000043193__Macaca_mulatta,ENSMLEG00000028884__Mandrillus_leucophaeus));

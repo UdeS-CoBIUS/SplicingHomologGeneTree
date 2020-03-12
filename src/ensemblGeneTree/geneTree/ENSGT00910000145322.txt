@@ -1,0 +1,1 @@
+((((((ENSRNOG00000060699__Rattus_norvegicus,ENSMUGG00000011719__Meriones_unguiculatus),ENSCCNG00000021841__Castor_canadensis),ENSCSAG00000013016__Chlorocebus_sabaeus),(ENSUAMG00000006587__Ursus_americanus,ENSCAFG00020013106__Canis_lupus_dingo)),ENSLAFG00000031836__Loxodonta_africana),ENSOANG00000003132__Ornithorhynchus_anatinus);

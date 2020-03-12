@@ -1,0 +1,1 @@
+(((ENSTTRG00000000784__Tursiops_truncatus,ENSPVAG00000015932__Pteropus_vampyrus),((((ENSPTRG00000050797__Pan_troglodytes,ENSPPAG00000007461__Pan_paniscus),ENSGGOG00000036389__Gorilla_gorilla),ENSNLEG00000010194__Nomascus_leucogenys),ENSRBIG00000036302__Rhinopithecus_bieti)),ENSCHOG00000011532__Choloepus_hoffmanni);

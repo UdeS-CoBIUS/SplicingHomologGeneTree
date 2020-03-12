@@ -1,0 +1,1 @@
+((((ENSXCOG00000010742__Xiphophorus_couchianus,ENSPREG00000007740__Poecilia_reticulata),ENSKMAG00000006138__Kryptolebias_marmoratus),ENSMMOG00000006740__Mola_mola),((ENSACIG00000024134__Amphilophus_citrinellus,ENSNBRG00000016940__Neolamprologus_brichardi),ENSMMOG00000006185__Mola_mola));

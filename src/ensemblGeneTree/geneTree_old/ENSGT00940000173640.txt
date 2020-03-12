@@ -1,0 +1,1 @@
+((ENSPMGG00000003363__Periophthalmus_magnuspinnatus,ENSXCOG00000004699__Xiphophorus_couchianus),((ENSGALG00000047491__Gallus_gallus,ENSSHAG00000016492__Sarcophilus_harrisii),ENSLACG00000015843__Latimeria_chalumnae));

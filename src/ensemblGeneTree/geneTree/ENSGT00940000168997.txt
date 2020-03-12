@@ -1,0 +1,1 @@
+((ENSGWIG00000025197__Gouania_willdenowi,ENSPFOG00000003561__Poecilia_formosa),((ENSVPAG00000000646__Vicugna_pacos,ENSAMEG00000014315__Ailuropoda_melanoleuca),ENSPCIG00000028794__Phascolarctos_cinereus));

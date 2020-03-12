@@ -1,0 +1,1 @@
+(((((ENSPTRG00000047482__Pan_troglodytes,ENSPPAG00000027993__Pan_paniscus),ENSMFAG00000038989__Macaca_fascicularis),ENSCJAG00000057835__Callithrix_jacchus),ENSPSMG00000015983__Prolemur_simus),(ENSCAFG00020021268__Canis_lupus_dingo,ENSFCAG00000047665__Felis_catus));

@@ -1,0 +1,1 @@
+((ENSAOCG00000009232__Amphiprion_ocellaris,ENSAMXG00000033740__Astyanax_mexicanus),(ENSLCOG00000013714__Lepidothrix_coronata,ENSSCAG00000017274__Serinus_canaria));

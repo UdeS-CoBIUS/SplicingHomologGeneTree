@@ -1,0 +1,1 @@
+((ENSOANG00000022191__Ornithorhynchus_anatinus,ENSMSIG00000013429__Mus_spicilegus),ENSMGAG00000017379__Meleagris_gallopavo);

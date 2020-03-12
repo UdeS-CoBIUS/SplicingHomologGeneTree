@@ -1,0 +1,2 @@
+POECILIARETICULATA	poecilia_reticulata
+FUNDULUSHETEROCLITUS	fundulus_heteroclitus

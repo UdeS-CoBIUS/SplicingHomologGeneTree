@@ -1,0 +1,1 @@
+(((((ENSPFOG00000023919__Poecilia_formosa,ENSPLAG00000000458__Poecilia_latipinna),ENSOMEG00000014575__Oryzias_melastigma),ENSTNIG00000002393__Tetraodon_nigroviridis),ENSEBUG00000016159__Eptatretus_burgeri),(WBGene00020695__Caenorhabditis_elegans_strain_N2,WBGene00001110__Caenorhabditis_elegans_strain_N2));

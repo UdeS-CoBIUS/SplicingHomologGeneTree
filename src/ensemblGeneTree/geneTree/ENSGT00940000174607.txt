@@ -1,0 +1,1 @@
+(((ENSSPUG00000014307__Sphenodon_punctatus,ENSCPBG00000001191__Chrysemys_picta_bellii),((ENSUAMG00000009810__Ursus_americanus,ENSUAMG00000000796__Ursus_americanus),ENSRROG00000035478__Rhinopithecus_roxellana)),(ENSMMOG00000008390__Mola_mola,ENSSLDG00000021164__Seriola_lalandi_dorsalis));

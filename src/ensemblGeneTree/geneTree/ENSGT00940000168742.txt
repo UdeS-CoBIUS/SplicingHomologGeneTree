@@ -1,0 +1,1 @@
+(((ENSCANG00000034089__Colobus_angolensis_palliatus,ENSMLEG00000027349__Mandrillus_leucophaeus),ENSCCAG00000028747__Cebus_capucinus_imitator),ENSMEUG00000010413__Notamacropus_eugenii);

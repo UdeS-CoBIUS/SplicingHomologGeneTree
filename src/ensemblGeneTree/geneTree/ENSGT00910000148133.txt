@@ -1,0 +1,1 @@
+(((ENSPTRG00000047468__Pan_troglodytes,ENSPTRG00000049742__Pan_troglodytes),ENSSSCG00000008883__Sus_scrofa),(ENSCPBG00000026991__Chrysemys_picta_bellii,ENSLCOG00000004909__Lepidothrix_coronata));

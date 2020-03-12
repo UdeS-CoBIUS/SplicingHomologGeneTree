@@ -1,0 +1,1 @@
+(((ENSPSMG00000011794__Prolemur_simus,ENSTGEG00000027356__Theropithecus_gelada),ENSPTIG00000015344__Panthera_tigris_altaica),ENSCSEG00000008172__Cynoglossus_semilaevis);

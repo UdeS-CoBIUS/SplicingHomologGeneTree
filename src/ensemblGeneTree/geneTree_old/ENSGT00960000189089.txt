@@ -1,0 +1,1 @@
+((((ENSLSDG00000006759__Lonchura_striata_domestica,ENSLSDG00000006906__Lonchura_striata_domestica),ENSMVIG00005019266__Manacus_vitellinus),ENSZALG00000011566__Zonotrichia_albicollis),ENSAPEG00000010235__Amphiprion_percula);

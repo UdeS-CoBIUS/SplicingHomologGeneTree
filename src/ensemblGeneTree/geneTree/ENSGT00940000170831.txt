@@ -1,0 +1,1 @@
+(((((((ENSMSIG00000003032__Mus_spicilegus,ENSMSIG00000003168__Mus_spicilegus),ENSMSIG00000006634__Mus_spicilegus),MGP_SPRETEiJ_G0019391__Mus_spretus_strain_SPRET/EiJ),ENSMSIG00000009568__Mus_spicilegus),ENSMUSG00000096641__Mus_musculus_strain_reference_(CL57BL6)),ENSMUGG00000026279__Meriones_unguiculatus),ENSPEMG00000010408__Peromyscus_maniculatus_bairdii);

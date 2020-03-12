@@ -1,0 +1,1 @@
+((MGP_PahariEiJ_G0030600__Mus_pahari_strain_PAHARI_EIJ,MGP_CAROLIEiJ_G0019583__Mus_caroli_strain_CAROLI_EIJ),ENSECAG00000032555__Equus_caballus);

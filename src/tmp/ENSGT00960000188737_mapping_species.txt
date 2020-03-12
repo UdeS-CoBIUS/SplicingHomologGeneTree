@@ -1,0 +1,4 @@
+COTURNIXJAPONICA	coturnix_japonica
+LEPIDOTHRIXCORONATA	lepidothrix_coronata
+NUMIDAMELEAGRIS	numida_meleagris
+PARAMORMYROPSKINGSLEYAE	paramormyrops_kingsleyae

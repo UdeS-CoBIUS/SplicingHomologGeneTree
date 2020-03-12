@@ -1,0 +1,18 @@
+>0
+ENSUPAT00010031543: ['no event', 255, 0]
+ENSUPAT00010031546: ['exon skipping', 0, 0]
+ENSSTOT00000037349: ['exon skipping', 0, 0]
+ENSSTOT00000011839: ['exon skipping', 0, 0]
+ENSSDAT00000011870: ['exon skipping', 0, 0]
+>1
+ENSUPAT00010031543: ['no event', 526, 1]
+ENSUPAT00010031546: ['5event', 523, 0]
+ENSSTOT00000037349: ['5event', 523, 0]
+ENSSTOT00000011839: ['5event', 523, 0]
+ENSSDAT00000011870: ['5event', 523, 0]
+>2
+ENSUPAT00010031543: [['internal gap >= 30', 828, 164], 1317, 2]
+ENSUPAT00010031546: [['internal gap >= 30', 828, 164], 1317, 2]
+ENSSTOT00000037349: [['internal gap >= 30', 828, 164], 1317, 2]
+ENSSTOT00000011839: [['internal gap >= 30', 738, 254], 1227, 2]
+ENSSDAT00000011870: [['internal gap >= 30', 1002, 152], 1329, 2]

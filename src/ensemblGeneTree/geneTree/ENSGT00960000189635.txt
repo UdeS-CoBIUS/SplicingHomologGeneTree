@@ -1,0 +1,1 @@
+(((ENSMMMG00000022135__Marmota_marmota_marmota,ENSSDAG00000008181__Spermophilus_dauricus),(ENSSDAG00000007971__Spermophilus_dauricus,ENSMMMG00000006501__Marmota_marmota_marmota)),(ENSPEMG00000009525__Peromyscus_maniculatus_bairdii,ENSMAUG00000007451__Mesocricetus_auratus));

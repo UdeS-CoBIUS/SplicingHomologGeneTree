@@ -1,0 +1,1 @@
+((ENSGALG00000044151__Gallus_gallus,ENSDNVG00000011192__Dromaius_novaehollandiae),ENSPCAG00000005348__Procavia_capensis);

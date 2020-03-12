@@ -1,0 +1,4 @@
+MONOPTERUSALBUS	monopterus_albus
+MONOPTERUSALBUS	monopterus_albus
+MASTACEMBELUSARMATUS	mastacembelus_armatus
+MOLAMOLA	mola_mola

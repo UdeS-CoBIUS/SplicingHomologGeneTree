@@ -1,0 +1,1 @@
+(ENSOANG00000007115__Ornithorhynchus_anatinus,ENSAMEG00000019326__Ailuropoda_melanoleuca);

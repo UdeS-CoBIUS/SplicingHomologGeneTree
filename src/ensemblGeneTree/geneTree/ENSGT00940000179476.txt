@@ -1,0 +1,1 @@
+(((ENSGAFG00000002689__Gambusia_affinis,ENSPLAG00000002337__Poecilia_latipinna),ENSCVAG00000012773__Cyprinodon_variegatus),((ENSHBUG00000007323__Haplochromis_burtoni,ENSMZEG00005022948__Maylandia_zebra),ENSNBRG00000020354__Neolamprologus_brichardi));

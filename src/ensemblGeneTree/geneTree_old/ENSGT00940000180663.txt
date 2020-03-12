@@ -1,0 +1,1 @@
+(ENSSFOG00015003734__Scleropages_formosus,ENSXCOG00000013329__Xiphophorus_couchianus);

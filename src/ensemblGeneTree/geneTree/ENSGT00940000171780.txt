@@ -1,0 +1,1 @@
+(((((ENSPMJG00000006357__Parus_major,ENSPMJG00000006353__Parus_major),ENSCPGG00000003985__Calidris_pygmaea),ENSMUNG00000012059__Melopsittacus_undulatus),ENSAHAG00000002405__Apteryx_haastii),ENSACAG00000029461__Anolis_carolinensis);

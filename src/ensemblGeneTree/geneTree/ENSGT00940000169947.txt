@@ -1,0 +1,1 @@
+(((ENSETEG00000009323__Echinops_telfairi,ENSVVUG00000014199__Vulpes_vulpes),(ENSMEUG00000014973__Notamacropus_eugenii,ENSOANG00000005828__Ornithorhynchus_anatinus)),(ENSNBRG00000021014__Neolamprologus_brichardi,ENSSMAG00000013605__Scophthalmus_maximus));

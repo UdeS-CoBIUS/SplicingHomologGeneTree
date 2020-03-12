@@ -1,0 +1,6 @@
+AMPHIPRIONOCELLARIS	amphiprion_ocellaris
+AMPHIPRIONPERCULA	amphiprion_percula
+XIPHOPHORUSCOUCHIANUS	xiphophorus_couchianus
+POECILIALATIPINNA	poecilia_latipinna
+NEOLAMPROLOGUSBRICHARDI	neolamprologus_brichardi
+TAKIFUGURUBRIPES	takifugu_rubripes

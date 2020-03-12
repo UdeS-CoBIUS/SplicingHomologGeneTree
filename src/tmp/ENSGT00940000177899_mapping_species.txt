@@ -1,0 +1,9 @@
+POECILIALATIPINNA	poecilia_latipinna
+POECILIARETICULATA	poecilia_reticulata
+XIPHOPHORUSCOUCHIANUS	xiphophorus_couchianus
+FUNDULUSHETEROCLITUS	fundulus_heteroclitus
+CYPRINODONVARIEGATUS	cyprinodon_variegatus
+ORYZIASMELASTIGMA	oryzias_melastigma
+ORYZIASLATIPES	oryzias_latipes
+ACANTHOCHROMISPOLYACANTHUS	acanthochromis_polyacanthus
+COTTOPERCAGOBIO	cottoperca_gobio

@@ -1,0 +1,1 @@
+(((ENSHBUG00000009599__Haplochromis_burtoni,ENSNBRG00000015035__Neolamprologus_brichardi),ENSACIG00000021570__Amphilophus_citrinellus),ENSAMXG00000020139__Astyanax_mexicanus_Astyanax_mexicanus-2.0);

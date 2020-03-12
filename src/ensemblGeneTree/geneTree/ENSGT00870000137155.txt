@@ -1,0 +1,1 @@
+(((((((ENSPFOG00000015878__Poecilia_formosa,ENSPFOG00000022787__Poecilia_formosa),ENSPMEG00000019547__Poecilia_mexicana),ENSORLG00000025469__Oryzias_latipes_ASM223467v1),ENSGACG00000018476__Gasterosteus_aculeatus),ENSTRUG00000003286__Takifugu_rubripes),ENSPMGG00000019500__Periophthalmus_magnuspinnatus),ENSGMOG00000019584__Gadus_morhua);

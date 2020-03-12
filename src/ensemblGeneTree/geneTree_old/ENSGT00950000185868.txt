@@ -1,0 +1,1 @@
+((MGP_PahariEiJ_G0013788__Mus_pahari_strain_PAHARI_EIJ,ENSCCNG00000023506__Castor_canadensis),ENSUAMG00000020102__Ursus_americanus);

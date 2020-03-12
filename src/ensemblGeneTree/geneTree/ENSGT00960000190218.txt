@@ -1,0 +1,1 @@
+((ENSPTEG00000000873__Piliocolobus_tephrosceles,ENSTGEG00000000901__Theropithecus_gelada),ENSCGRG00015007523__Cricetulus_griseus_CriGri-PICR);

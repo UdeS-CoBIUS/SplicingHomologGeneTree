@@ -1,0 +1,1 @@
+(((ENSAMXG00000040720__Astyanax_mexicanus,ENSMMOG00000007945__Mola_mola),ENSCJPG00005006493__Coturnix_japonica),(ENSAMXG00000040341__Astyanax_mexicanus,ENSPSIG00000001973__Pelodiscus_sinensis));

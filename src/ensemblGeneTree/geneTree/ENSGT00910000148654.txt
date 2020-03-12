@@ -1,0 +1,1 @@
+(((ENSSPUG00000012428__Sphenodon_punctatus,ENSNPEG00000003815__Nothoprocta_perdicaria),((ENSCHIG00000015844__Capra_hircus,ENSEASG00005003910__Equus_asinus_asinus),(ENSMAUG00000007251__Mesocricetus_auratus,ENSNLEG00000027807__Nomascus_leucogenys))),ENSACIG00000021175__Amphilophus_citrinellus);

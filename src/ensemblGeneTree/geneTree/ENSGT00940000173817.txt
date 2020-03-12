@@ -1,0 +1,1 @@
+((ENSPLAG00000006148__Poecilia_latipinna,ENSTNIG00000008133__Tetraodon_nigroviridis),(ENSETEG00000020182__Echinops_telfairi,ENSGAGG00000000926__Gopherus_agassizii));

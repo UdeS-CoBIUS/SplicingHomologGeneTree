@@ -1,0 +1,1 @@
+((((ENSFALG00000002970__Ficedula_albicollis,ENSCCEG00000014604__Cyanistes_caeruleus),ENSMUNG00000002422__Melopsittacus_undulatus),ENSCPRG00005015958__Crocodylus_porosus),(((ENSNGAG00000017894__Nannospalax_galili,ENSMSIG00000001999__Mus_spicilegus),ENSCAPG00000011698__Cavia_aperea),ENSTBEG00000002420__Tupaia_belangeri));

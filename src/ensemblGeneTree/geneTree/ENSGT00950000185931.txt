@@ -1,0 +1,1 @@
+(ENSUMAG00000024592__Ursus_maritimus,ENSGALG00000047250__Gallus_gallus);

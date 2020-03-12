@@ -1,0 +1,1 @@
+(((ENSPREG00000022694__Poecilia_reticulata,ENSPLAG00000022849__Poecilia_latipinna),ENSXMAG00000027408__Xiphophorus_maculatus),ENSACIG00000000783__Amphilophus_citrinellus);

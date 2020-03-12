@@ -1,0 +1,1 @@
+((((((((ENSGALG00000015234__Gallus_gallus,ENSNMEG00000013629__Numida_meleagris),ENSABRG00000012630__Anser_brachyrhynchus),ENSMUNG00000006360__Melopsittacus_undulatus),ENSCPRG00005016112__Crocodylus_porosus),ENSPSIG00000015994__Pelodiscus_sinensis),ENSPVIG00000015166__Pogona_vitticeps),ENSMGAG00000010811__Meleagris_gallopavo),ENSCING00000023549__Ciona_intestinalis);

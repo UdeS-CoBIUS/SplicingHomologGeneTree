@@ -1,0 +1,1 @@
+((((ENSARWG00000006360__Apteryx_rowi,ENSAOWG00000013155__Apteryx_owenii),ENSAHAG00000012444__Apteryx_haastii),ENSNPEG00000009913__Nothoprocta_perdicaria),(ENSMVIG00005006817__Manacus_vitellinus,ENSCCEG00000004592__Cyanistes_caeruleus));

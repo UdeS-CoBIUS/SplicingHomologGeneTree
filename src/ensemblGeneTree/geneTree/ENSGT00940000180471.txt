@@ -1,0 +1,1 @@
+((ENSUAMG00000028095__Ursus_americanus,ENSCCEG00000011765__Cyanistes_caeruleus),((ENSSLDG00000008072__Seriola_lalandi_dorsalis,ENSSPAG00000010632__Stegastes_partitus),ENSPMGG00000005519__Periophthalmus_magnuspinnatus));

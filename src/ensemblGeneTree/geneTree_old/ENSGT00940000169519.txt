@@ -1,0 +1,1 @@
+(((((ENSOCUG00000025566__Oryctolagus_cuniculus,ENSSDAG00000023462__Spermophilus_dauricus),ENSPPYG00000017384__Pongo_abelii),ENSUMAG00000009492__Ursus_maritimus),ENSG00000272647__Homo_sapiens),ENSDNOG00000031913__Dasypus_novemcinctus);

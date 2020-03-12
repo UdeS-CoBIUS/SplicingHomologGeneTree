@@ -1,0 +1,1 @@
+((((ENSCCEG00000009862__Cyanistes_caeruleus,ENSCCEG00000009859__Cyanistes_caeruleus),ENSLCOG00000008995__Lepidothrix_coronata),ENSPVIG00000017661__Pogona_vitticeps),(((ENSPNYG00000000773__Pundamilia_nyererei,ENSOMEG00000020065__Oryzias_melastigma),ENSMALG00000018286__Monopterus_albus),ENSDARG00000076380__Danio_rerio));

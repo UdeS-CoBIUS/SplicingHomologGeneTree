@@ -1,0 +1,1 @@
+(((ENSFHEG00000011104__Fundulus_heteroclitus,ENSCVAG00000017867__Cyprinodon_variegatus),ENSPNAG00000021845__Pygocentrus_nattereri),(((ENSCPUG00000005173__Calidris_pugnax,ENSSCAG00000006184__Serinus_canaria),ENSDNVG00000016211__Dromaius_novaehollandiae),ENSNSUG00000018281__Notechis_scutatus));

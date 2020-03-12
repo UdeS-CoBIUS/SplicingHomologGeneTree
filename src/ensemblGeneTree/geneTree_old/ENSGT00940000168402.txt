@@ -1,0 +1,1 @@
+((((ENSTGUG00000010705__Taeniopygia_guttata,ENSFALG00000015053__Ficedula_albicollis),ENSOANG00000012318__Ornithorhynchus_anatinus),ENSTNIG00000012251__Tetraodon_nigroviridis),ENSEBUG00000008736__Eptatretus_burgeri);

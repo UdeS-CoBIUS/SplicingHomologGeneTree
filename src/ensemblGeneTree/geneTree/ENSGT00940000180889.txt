@@ -1,0 +1,1 @@
+(ENSSLDG00000002434__Seriola_lalandi_dorsalis,ENSXCOG00000016304__Xiphophorus_couchianus);

@@ -1,0 +1,1 @@
+(((ENSCGRG00000003969__Cricetulus_griseus_CriGri_1.0,ENSCGRG00001015224__Cricetulus_griseus_CHOK1GS_HDv1),ENSPEMG00000027529__Peromyscus_maniculatus_bairdii),(ENSRNOG00000006051__Rattus_norvegicus,ENSNGAG00000004000__Nannospalax_galili));

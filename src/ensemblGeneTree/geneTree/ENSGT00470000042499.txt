@@ -1,0 +1,1 @@
+((ENSCSAG00000018560__Chlorocebus_sabaeus,ENSOARG00000014700__Ovis_aries),ENSDNOG00000041087__Dasypus_novemcinctus);

@@ -1,0 +1,1 @@
+(((ENSAPEG00000023608__Amphiprion_percula,ENSPLAG00000004303__Poecilia_latipinna),((ENSMMOG00000009722__Mola_mola,ENSSPAG00000005632__Stegastes_partitus),ENSMALG00000020237__Monopterus_albus)),ENSPKIG00000012242__Paramormyrops_kingsleyae);

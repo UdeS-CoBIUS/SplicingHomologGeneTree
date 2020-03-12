@@ -1,0 +1,1 @@
+((((ENSPTEG00000017392__Piliocolobus_tephrosceles,ENSTGEG00000012249__Theropithecus_gelada),ENSCJAG00000036074__Callithrix_jacchus),(ENSTTRG00000005811__Tursiops_truncatus,ENSEASG00005011254__Equus_asinus_asinus)),ENSMEUG00000009970__Notamacropus_eugenii);

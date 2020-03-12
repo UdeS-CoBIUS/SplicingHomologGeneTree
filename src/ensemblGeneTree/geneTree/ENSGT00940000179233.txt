@@ -1,0 +1,1 @@
+((ENSORLG00000030236__Oryzias_latipes_ASM223467v1,ENSAPEG00000001776__Amphiprion_percula),ENSTRUG00000023932__Takifugu_rubripes);

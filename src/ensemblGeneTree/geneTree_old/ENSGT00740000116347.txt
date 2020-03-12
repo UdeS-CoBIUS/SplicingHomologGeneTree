@@ -1,0 +1,1 @@
+((ENSOARG00000007442__Ovis_aries,ENSOPRG00000015776__Ochotona_princeps),ENSPSIG00000010235__Pelodiscus_sinensis);

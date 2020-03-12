@@ -1,0 +1,1 @@
+((((ENSCCEG00000009438__Cyanistes_caeruleus,ENSPMJG00000009894__Parus_major),(ENSLSDG00000016309__Lonchura_striata_domestica,ENSTGUG00000016743__Taeniopygia_guttata)),ENSDNVG00000014149__Dromaius_novaehollandiae),ENSPSIG00000001994__Pelodiscus_sinensis);

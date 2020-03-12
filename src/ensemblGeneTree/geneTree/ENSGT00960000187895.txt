@@ -1,0 +1,1 @@
+((ENSPMEG00000004963__Poecilia_mexicana,ENSPMEG00000019062__Poecilia_mexicana),ENSBTAG00000055155__Bos_taurus);

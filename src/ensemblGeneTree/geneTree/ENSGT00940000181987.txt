@@ -1,0 +1,1 @@
+((ENSPMGG00000016324__Periophthalmus_magnuspinnatus,ENSSFOG00015010648__Scleropages_formosus),ENSLSDG00000003894__Lonchura_striata_domestica);

@@ -1,0 +1,1 @@
+(((ENSAPEG00000013343__Amphiprion_percula,ENSAPEG00000013359__Amphiprion_percula),(((ENSAPEG00000010015__Amphiprion_percula,ENSAPEG00000010005__Amphiprion_percula),ENSAPEG00000013320__Amphiprion_percula),ENSAPEG00000007765__Amphiprion_percula)),((ENSAMXG00000041914__Astyanax_mexicanus,ENSAMXG00000034692__Astyanax_mexicanus),ENSAMXG00000037731__Astyanax_mexicanus));

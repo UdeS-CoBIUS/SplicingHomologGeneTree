@@ -1,0 +1,1 @@
+(((ENSTRUG00000022491__Takifugu_rubripes,ENSTRUG00000024847__Takifugu_rubripes),ENSLBEG00000011969__Labrus_bergylta),(ENSGAGG00000023465__Gopherus_agassizii,ENSCPBG00000020293__Chrysemys_picta_bellii));

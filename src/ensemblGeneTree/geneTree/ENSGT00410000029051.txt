@@ -1,0 +1,1 @@
+(((ENSMAMG00000018859__Mastacembelus_armatus,ENSGACG00000018370__Gasterosteus_aculeatus),ENSPFOG00000004257__Poecilia_formosa),ENSGMOG00000005599__Gadus_morhua);

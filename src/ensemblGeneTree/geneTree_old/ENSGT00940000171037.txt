@@ -1,0 +1,1 @@
+(((ENSSLDG00000002683__Seriola_lalandi_dorsalis,FBgn0026372__Drosophila_melanogaster),(ENSCSAVG00000007968__Ciona_savignyi,ENSCING00000010522__Ciona_intestinalis)),YOL127W__Saccharomyces_cerevisiae_strain_S288C);

@@ -1,0 +1,1 @@
+((ENSTRUG00000019958__Takifugu_rubripes,ENSMMOG00000015727__Mola_mola),ENSLACG00000009470__Latimeria_chalumnae);

@@ -1,0 +1,1 @@
+((((ENSPNAG00000028872__Pygocentrus_nattereri,ENSPNAG00000028046__Pygocentrus_nattereri),(ENSELUG00000005621__Esox_lucius,ENSMAMG00000023342__Mastacembelus_armatus)),ENSMMOG00000010815__Mola_mola),ENSCJPG00005002558__Coturnix_japonica);

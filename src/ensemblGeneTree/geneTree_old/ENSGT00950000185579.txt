@@ -1,0 +1,1 @@
+(((ENSUPAG00010017769__Urocitellus_parryii,ENSMMMG00000024287__Marmota_marmota_marmota),ENSCAFG00020023965__Canis_lupus_dingo),ENSSPUG00000019105__Sphenodon_punctatus);

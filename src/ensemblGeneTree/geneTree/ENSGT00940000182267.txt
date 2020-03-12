@@ -1,0 +1,1 @@
+(ENSIPUG00000002762__Ictalurus_punctatus,ENSSDUG00000000446__Seriola_dumerili);

@@ -1,0 +1,1 @@
+(ENSMPUG00000011973__Mustela_putorius_furo,ENSUAMG00000024232__Ursus_americanus);

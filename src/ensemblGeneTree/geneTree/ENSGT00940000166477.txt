@@ -1,0 +1,1 @@
+(((ENSNLEG00000007665__Nomascus_leucogenys,ENSPPYG00000014794__Pongo_abelii),((((ENSMNEG00000022627__Macaca_nemestrina,ENSMMUG00000048823__Macaca_mulatta),ENSTGEG00000017122__Theropithecus_gelada),ENSPANG00000008262__Papio_anubis),ENSCSAG00000004916__Chlorocebus_sabaeus)),ENSSBOG00000023725__Saimiri_boliviensis_boliviensis);

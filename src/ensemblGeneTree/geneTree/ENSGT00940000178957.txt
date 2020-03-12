@@ -1,0 +1,1 @@
+(((ENSMAMG00000017180__Mastacembelus_armatus,ENSMAMG00000017166__Mastacembelus_armatus),ENSMAMG00000017244__Mastacembelus_armatus),ENSONIG00000021254__Oreochromis_niloticus);

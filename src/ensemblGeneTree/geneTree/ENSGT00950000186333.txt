@@ -1,0 +1,1 @@
+((ENSCPBG00000017314__Chrysemys_picta_bellii,ENSMUNG00000001740__Melopsittacus_undulatus),ENSCAFG00020027447__Canis_lupus_dingo);

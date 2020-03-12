@@ -1,0 +1,1 @@
+((ENSVPAG00000004388__Vicugna_pacos,ENSCLAG00000000190__Chinchilla_lanigera),(ENSGAGG00000017015__Gopherus_agassizii,ENSLCOG00000011540__Lepidothrix_coronata));

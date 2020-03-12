@@ -1,0 +1,1 @@
+(((ENSMPUG00000018574__Mustela_putorius_furo,ENSCAFG00000029791__Canis_lupus_familiaris),ENSOCUG00000029462__Oryctolagus_cuniculus),ENSDNOG00000037807__Dasypus_novemcinctus);

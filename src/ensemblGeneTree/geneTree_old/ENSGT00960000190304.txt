@@ -1,0 +1,1 @@
+((ENSCPGG00000004107__Calidris_pygmaea,ENSLCOG00000012885__Lepidothrix_coronata),ENSCPBG00000028269__Chrysemys_picta_bellii);

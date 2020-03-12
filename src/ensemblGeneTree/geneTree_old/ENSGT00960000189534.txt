@@ -1,0 +1,1 @@
+(((ENSLCOG00000006209__Lepidothrix_coronata,ENSLSDG00000004654__Lonchura_striata_domestica),((ENSCPGG00000008060__Calidris_pygmaea,ENSCPUG00000012058__Calidris_pugnax),ENSMUNG00000001652__Melopsittacus_undulatus)),ENSSMRG00000022172__Salvator_merianae);

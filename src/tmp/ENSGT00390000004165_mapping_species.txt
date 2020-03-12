@@ -1,0 +1,9 @@
+CERCOCEBUSATYS	cercocebus_atys
+MACACANEMESTRINA	macaca_nemestrina
+CHLOROCEBUSSABAEUS	chlorocebus_sabaeus
+PANTROGLODYTES	pan_troglodytes
+PANPANISCUS	pan_paniscus
+GORILLAGORILLA	gorilla_gorilla
+HOMOSAPIENS	homo_sapiens
+AOTUSNANCYMAAE	aotus_nancymaae
+CALLITHRIXJACCHUS	callithrix_jacchus

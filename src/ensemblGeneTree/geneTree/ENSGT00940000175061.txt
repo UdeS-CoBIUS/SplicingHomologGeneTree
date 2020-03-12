@@ -1,0 +1,1 @@
+((((ENSBMUG00000019615__Bos_mutus,ENSPTIG00000021208__Panthera_tigris_altaica),ENSOANG00000015166__Ornithorhynchus_anatinus),ENSNSUG00000014837__Notechis_scutatus),((ENSLOCG00000001876__Lepisosteus_oculatus,ENSSFOG00015011517__Scleropages_formosus),(ENSGAFG00000021056__Gambusia_affinis,ENSXCOG00000017891__Xiphophorus_couchianus)));

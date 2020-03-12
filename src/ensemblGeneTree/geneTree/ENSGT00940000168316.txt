@@ -1,0 +1,1 @@
+(((ENSOANG00000013704__Ornithorhynchus_anatinus,ENSLACG00000017810__Latimeria_chalumnae),ENSEBUG00000012135__Eptatretus_burgeri),(ENSCING00000002963__Ciona_intestinalis,ENSCSAVG00000007142__Ciona_savignyi));

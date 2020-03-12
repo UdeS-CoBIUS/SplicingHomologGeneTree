@@ -1,0 +1,1 @@
+(ENSPMJG00000002197__Parus_major,ENSAPLG00000019142__Anas_platyrhynchos_platyrhynchos);

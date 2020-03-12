@@ -1,0 +1,1 @@
+((((((ENSNVIG00000017729__Neovison_vison,ENSUAMG00000015612__Ursus_americanus),ENSECAG00000039041__Equus_caballus),(ENSBBBG00000013607__Bison_bison_bison,ENSBMUG00000019953__Bos_mutus)),ENSNGAG00000015988__Nannospalax_galili),ENSDNOG00000046985__Dasypus_novemcinctus),ENSOANG00000029673__Ornithorhynchus_anatinus);

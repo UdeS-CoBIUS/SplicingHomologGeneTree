@@ -1,0 +1,6 @@
+MOLAMOLA	mola_mola
+AMPHIPRIONOCELLARIS	amphiprion_ocellaris
+LATESCALCARIFER	lates_calcarifer
+LARIMICHTHYSCROCEA	larimichthys_crocea
+CIONAINTESTINALIS	ciona_intestinalis
+CAENORHABDITISELEGANS	caenorhabditis_elegans

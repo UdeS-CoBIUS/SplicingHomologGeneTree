@@ -1,0 +1,1 @@
+(((ENSPANG00000032606__Papio_anubis,ENSCATG00000016477__Cercocebus_atys),(ENSMLEG00000017756__Mandrillus_leucophaeus,ENSMNEG00000016798__Macaca_nemestrina)),(ENSPTEG00000036889__Piliocolobus_tephrosceles,ENSCANG00000018542__Colobus_angolensis_palliatus));

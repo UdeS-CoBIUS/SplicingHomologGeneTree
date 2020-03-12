@@ -1,0 +1,1 @@
+((((ENSMUSG00000087198__Mus_musculus_strain_reference_(CL57BL6),ENSMSIG00000012805__Mus_spicilegus),ENSMUGG00000015616__Meriones_unguiculatus),(ENSPEMG00000030971__Peromyscus_maniculatus_bairdii,ENSCGRG00015004087__Cricetulus_griseus_CriGri-PICR)),(ENSSDAG00000019709__Spermophilus_dauricus,ENSMMMG00000017149__Marmota_marmota_marmota));

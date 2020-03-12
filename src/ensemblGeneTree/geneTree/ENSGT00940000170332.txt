@@ -1,0 +1,1 @@
+(((((ENSPCIG00000015721__Phascolarctos_cinereus,ENSSHAG00000018123__Sarcophilus_harrisii),ENSMODG00000002022__Monodelphis_domestica),(ENSCAFG00000009530__Canis_lupus_familiaris,ENSVVUG00000025202__Vulpes_vulpes)),(ENSCPRG00005000598__Crocodylus_porosus,ENSARWG00000014224__Apteryx_rowi)),FBgn0060296__Drosophila_melanogaster);

@@ -1,0 +1,1 @@
+(((ENSPSIG00000014539__Pelodiscus_sinensis,ENSFALG00000001628__Ficedula_albicollis),ENSOANG00000007106__Ornithorhynchus_anatinus),ENSLACG00000002069__Latimeria_chalumnae);

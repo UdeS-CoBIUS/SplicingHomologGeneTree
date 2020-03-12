@@ -1,0 +1,1 @@
+(((((ENSAPOG00000008860__Acanthochromis_polyacanthus,ENSOMEG00000005088__Oryzias_melastigma),ENSLBEG00000024274__Labrus_bergylta),ENSPMGG00000004387__Periophthalmus_magnuspinnatus),ENSSFOG00015022843__Scleropages_formosus),(MGP_SPRETEiJ_G0031573__Mus_spretus_strain_SPRET/EiJ,ENSCGRG00015026268__Cricetulus_griseus_CriGri-PICR));

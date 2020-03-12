@@ -1,0 +1,1 @@
+(((((ENSPNYG00000019960__Pundamilia_nyererei,ENSGWIG00000024166__Gouania_willdenowi),ENSGAFG00000011645__Gambusia_affinis),ENSAPOG00000007840__Acanthochromis_polyacanthus),ENSLBEG00000002811__Labrus_bergylta),ENSHHUG00000020659__Hucho_hucho);

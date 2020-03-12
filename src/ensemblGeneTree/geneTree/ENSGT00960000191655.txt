@@ -1,0 +1,1 @@
+(((ENSPCIG00000031008__Phascolarctos_cinereus,ENSVURG00010009103__Vombatus_ursinus),ENSMEUG00000014976__Notamacropus_eugenii),ENSMODG00000044402__Monodelphis_domestica);

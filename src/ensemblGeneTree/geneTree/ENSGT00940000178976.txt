@@ -1,0 +1,1 @@
+(((ENSATEG00000012651__Anabas_testudineus,ENSMAMG00000001766__Mastacembelus_armatus),ENSTNIG00000001227__Tetraodon_nigroviridis),ENSCSEG00000009918__Cynoglossus_semilaevis);

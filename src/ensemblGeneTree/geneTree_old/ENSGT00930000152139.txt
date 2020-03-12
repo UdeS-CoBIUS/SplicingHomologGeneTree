@@ -1,0 +1,1 @@
+((ENSPMAG00000008927__Petromyzon_marinus,ENSAMXG00000037745__Astyanax_mexicanus),((ENSOCUG00000022862__Oryctolagus_cuniculus,ENSXETG00000020841__Xenopus_tropicalis),((ENSEBUG00000000687__Eptatretus_burgeri,ENSEBUG00000003714__Eptatretus_burgeri),ENSEBUG00000014538__Eptatretus_burgeri)));

@@ -1,0 +1,1 @@
+((ENSOMEG00000009922__Oryzias_melastigma,ENSOMEG00000009912__Oryzias_melastigma),(ENSPNAG00000006177__Pygocentrus_nattereri,ENSPNAG00000003979__Pygocentrus_nattereri));

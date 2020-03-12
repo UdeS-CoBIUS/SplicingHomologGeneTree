@@ -1,0 +1,1 @@
+((WBGene00015495__Caenorhabditis_elegans_strain_N2,WBGene00013856__Caenorhabditis_elegans_strain_N2),FBgn0035023__Drosophila_melanogaster);

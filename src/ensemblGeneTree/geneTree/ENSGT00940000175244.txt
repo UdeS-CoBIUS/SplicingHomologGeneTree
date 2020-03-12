@@ -1,0 +1,1 @@
+(((ENSAPEG00000003834__Amphiprion_percula,ENSAOCG00000004643__Amphiprion_ocellaris),ENSHCOG00000008255__Hippocampus_comes),FBgn0085425__Drosophila_melanogaster);

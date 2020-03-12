@@ -1,0 +1,1 @@
+(((ENSTGEG00000027992__Theropithecus_gelada,ENSPTEG00000035089__Piliocolobus_tephrosceles),ENSPSMG00000006708__Prolemur_simus),ENSPEMG00000028683__Peromyscus_maniculatus_bairdii);

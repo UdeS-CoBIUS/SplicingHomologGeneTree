@@ -1,0 +1,1 @@
+(((ENSXCOG00000010607__Xiphophorus_couchianus,ENSGAFG00000020235__Gambusia_affinis),ENSPFOG00000001458__Poecilia_formosa),(((ENSACLG00000006954__Astatotilapia_calliptera,ENSACLG00000007104__Astatotilapia_calliptera),ENSMZEG00005002340__Maylandia_zebra),ENSHBUG00000012962__Haplochromis_burtoni));

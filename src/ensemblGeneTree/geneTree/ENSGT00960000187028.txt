@@ -1,0 +1,1 @@
+((((ENSLBEG00000002424__Labrus_bergylta,ENSLBEG00000007219__Labrus_bergylta),ENSATEG00000014809__Anabas_testudineus),((ENSPKIG00000019569__Paramormyrops_kingsleyae,ENSACLG00000025149__Astatotilapia_calliptera),ENSELUG00000019433__Esox_lucius)),ENSVVUG00000018926__Vulpes_vulpes);

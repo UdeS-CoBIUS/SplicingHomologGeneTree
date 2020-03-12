@@ -1,0 +1,1 @@
+(ENSTNIG00000002842__Tetraodon_nigroviridis,ENSSPAG00000006197__Stegastes_partitus);

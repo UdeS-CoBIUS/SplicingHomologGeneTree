@@ -1,0 +1,1 @@
+((((ENSLCOG00000003655__Lepidothrix_coronata,ENSJHYG00000009918__Junco_hyemalis),ENSAPLG00000008053__Anas_platyrhynchos_platyrhynchos),(ENSAOWG00000013612__Apteryx_owenii,ENSAHAG00000005385__Apteryx_haastii)),ENSNSUG00000003463__Notechis_scutatus);

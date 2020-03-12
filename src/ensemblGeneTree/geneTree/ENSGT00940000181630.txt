@@ -1,0 +1,1 @@
+(ENSSMAG00000009874__Scophthalmus_maximus,ENSSDUG00000007308__Seriola_dumerili);

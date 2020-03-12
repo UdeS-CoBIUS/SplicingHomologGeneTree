@@ -1,0 +1,1 @@
+(((ENSOARG00000002436__Ovis_aries,ENSACAG00000026477__Anolis_carolinensis),ENSLACG00000006119__Latimeria_chalumnae),ENSEBUG00000005944__Eptatretus_burgeri);

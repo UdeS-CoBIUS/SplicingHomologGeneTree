@@ -1,0 +1,1 @@
+(ENSNSUG00000010017__Notechis_scutatus,FBgn0263395__Drosophila_melanogaster);

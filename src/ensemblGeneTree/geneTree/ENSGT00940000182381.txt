@@ -1,0 +1,1 @@
+(ENSSMAG00000005586__Scophthalmus_maximus,ENSAOCG00000005626__Amphiprion_ocellaris);

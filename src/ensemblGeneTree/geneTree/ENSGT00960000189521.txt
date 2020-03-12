@@ -1,0 +1,1 @@
+((ENSMUNG00000011347__Melopsittacus_undulatus,ENSAPLG00000020727__Anas_platyrhynchos_platyrhynchos),(((ENSZALG00000004243__Zonotrichia_albicollis,ENSJHYG00000017722__Junco_hyemalis),ENSLSDG00000001688__Lonchura_striata_domestica),(ENSCCEG00000007669__Cyanistes_caeruleus,ENSPMJG00000019893__Parus_major)));

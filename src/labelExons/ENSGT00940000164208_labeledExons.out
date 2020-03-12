@@ -1,0 +1,5 @@
+>0
+ENSDART00000147418: ['3event', 612, 0]
+ENSDCDT00000065619: ['5event', ['internal gap >= 30', 565, 38], 788, 0]
+ENSCHAT00000024892: ['5event', ['internal gap < 30', 583, 20], 806, 0]
+ENSAMXT00000026348: ['5event', ['internal gap < 30', 577, 26], 800, 0]

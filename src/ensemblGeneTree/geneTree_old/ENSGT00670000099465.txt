@@ -1,0 +1,1 @@
+(((ENSPNAG00000012904__Pygocentrus_nattereri,ENSAMXG00000043775__Astyanax_mexicanus),ENSDARG00000068250__Danio_rerio),(ENSONIG00000005771__Oreochromis_niloticus,ENSPFOG00000022601__Poecilia_formosa));

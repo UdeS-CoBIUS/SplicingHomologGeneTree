@@ -1,0 +1,1 @@
+(((((ENSCGRG00015020385__Cricetulus_griseus_CriGri-PICR,ENSCGRG00015020454__Cricetulus_griseus_CriGri-PICR),ENSMSIG00000001844__Mus_spicilegus),(ENSCGRG00015006279__Cricetulus_griseus_CriGri-PICR,ENSMSIG00000002808__Mus_spicilegus)),ENSCHIG00000025435__Capra_hircus),ENSSHAG00000000249__Sarcophilus_harrisii);

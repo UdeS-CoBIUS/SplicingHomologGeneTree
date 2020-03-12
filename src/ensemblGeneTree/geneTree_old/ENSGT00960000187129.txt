@@ -1,0 +1,1 @@
+(((ENSCPUG00000009942__Calidris_pugnax,ENSAOWG00000015529__Apteryx_owenii),ENSECAG00000029902__Equus_caballus),((((ENSPMEG00000024171__Poecilia_mexicana,ENSPLAG00000008082__Poecilia_latipinna),ENSORLG00015010096__Oryzias_latipes_ASM223469v1),ENSLBEG00000002039__Labrus_bergylta),ENSAMXG00000034937__Astyanax_mexicanus));

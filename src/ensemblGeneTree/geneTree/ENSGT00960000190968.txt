@@ -1,0 +1,1 @@
+((((ENSBIXG00005014188__Bos_indicus_x_Bos_taurus_UOA_Brahman_1,ENSBIXG00000005358__Bos_indicus_x_Bos_taurus_UOA_Angus_1),ENSBTAG00000050655__Bos_taurus),ENSBMUG00000001720__Bos_mutus),ENSBBBG00000004753__Bison_bison_bison);

@@ -1,0 +1,1 @@
+(((ENSORLG00020015486__Oryzias_latipes_ASM223471v1,ENSCVAG00000012858__Cyprinodon_variegatus),ENSPNYG00000005986__Pundamilia_nyererei),(((ENSGACG00000014567__Gasterosteus_aculeatus,ENSMMOG00000016816__Mola_mola),ENSSLDG00000023427__Seriola_lalandi_dorsalis),ENSATEG00000023808__Anabas_testudineus));

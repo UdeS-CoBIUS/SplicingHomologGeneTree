@@ -1,0 +1,1 @@
+((ENSCABG00000012085__Chelonoidis_abingdonii,ENSNPEG00000002190__Nothoprocta_perdicaria),(((ENSCCNG00000011407__Castor_canadensis,ENSCCNG00000023984__Castor_canadensis),ENSMUGG00000000452__Meriones_unguiculatus),ENSSSCG00000035198__Sus_scrofa));

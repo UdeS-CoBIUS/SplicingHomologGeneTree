@@ -1,0 +1,1 @@
+((ENSAPEG00000018280__Amphiprion_percula,ENSFHEG00000014199__Fundulus_heteroclitus),((ENSMALG00000005915__Monopterus_albus,ENSATEG00000010623__Anabas_testudineus),(ENSSLDG00000006806__Seriola_lalandi_dorsalis,ENSSDUG00000020842__Seriola_dumerili)));

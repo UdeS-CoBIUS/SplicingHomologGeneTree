@@ -1,0 +1,1 @@
+(((ENSPSMG00000016015__Prolemur_simus,ENSPTEG00000031414__Piliocolobus_tephrosceles),((ENSTGEG00000014169__Theropithecus_gelada,ENSTSYG00000012533__Carlito_syrichta),ENSUPAG00010021670__Urocitellus_parryii)),ENSUMAG00000019044__Ursus_maritimus);

@@ -1,0 +1,1 @@
+((ENSMNEG00000036108__Macaca_nemestrina,MGP_CAROLIEiJ_G0028624__Mus_caroli_strain_CAROLI_EIJ),ENSHCOG00000008677__Hippocampus_comes);

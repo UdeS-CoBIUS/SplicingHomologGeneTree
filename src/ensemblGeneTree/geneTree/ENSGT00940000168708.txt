@@ -1,0 +1,1 @@
+((ENSCLAG00000017589__Chinchilla_lanigera,ENSODEG00000018838__Octodon_degus),(ENSHGLG00100020275__Heterocephalus_glaber_HetGla_1.0,ENSHGLG00000020763__Heterocephalus_glaber_HetGla_female_1.0));

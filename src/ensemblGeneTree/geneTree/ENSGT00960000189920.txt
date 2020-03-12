@@ -1,0 +1,1 @@
+(((ENSMUNG00000002283__Melopsittacus_undulatus,ENSZALG00000015107__Zonotrichia_albicollis),ENSDNVG00000002968__Dromaius_novaehollandiae),ENSSPUG00000008877__Sphenodon_punctatus);

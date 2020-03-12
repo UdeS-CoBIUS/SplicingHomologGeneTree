@@ -1,0 +1,1 @@
+(((((ENSSTOG00000028042__Ictidomys_tridecemlineatus,ENSODEG00000016480__Octodon_degus),ENSJJAG00000010832__Jaculus_jaculus),ENSDORG00000003973__Dipodomys_ordii),ENSMVIG00005002896__Manacus_vitellinus),ENSAMXG00000041537__Astyanax_mexicanus);

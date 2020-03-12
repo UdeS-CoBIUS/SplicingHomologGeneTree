@@ -1,0 +1,1 @@
+(((ENSCING00000006976__Ciona_intestinalis,ENSCSAVG00000003291__Ciona_savignyi),ENSCING00000012021__Ciona_intestinalis),((ENSLOCG00000009541__Lepisosteus_oculatus,ENSDARG00000093267__Danio_rerio),ENSLACG00000017692__Latimeria_chalumnae));

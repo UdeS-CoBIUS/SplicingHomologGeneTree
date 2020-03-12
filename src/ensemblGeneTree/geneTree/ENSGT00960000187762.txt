@@ -1,0 +1,1 @@
+((ENSAPOG00000018629__Acanthochromis_polyacanthus,ENSAOCG00000016993__Amphiprion_ocellaris),ENSSMAG00000002116__Scophthalmus_maximus);

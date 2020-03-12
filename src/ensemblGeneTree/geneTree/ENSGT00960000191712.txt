@@ -1,0 +1,1 @@
+(ENSSCAG00000001974__Serinus_canaria,ENSSCAG00000002342__Serinus_canaria);

@@ -1,0 +1,1 @@
+(ENSAMEG00000019179__Ailuropoda_melanoleuca,ENSCAFG00000029918__Canis_lupus_familiaris);

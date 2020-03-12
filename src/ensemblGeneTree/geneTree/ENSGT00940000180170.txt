@@ -1,0 +1,1 @@
+(((ENSACIG00000016495__Amphilophus_citrinellus,ENSSLDG00000001786__Seriola_lalandi_dorsalis),ENSSLDG00000016259__Seriola_lalandi_dorsalis),(ENSAHAG00000019493__Apteryx_haastii,ENSCPGG00000008465__Calidris_pygmaea));

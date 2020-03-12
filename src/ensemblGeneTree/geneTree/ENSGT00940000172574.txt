@@ -1,0 +1,1 @@
+((ENSPSIG00000013783__Pelodiscus_sinensis,ENSGAGG00000019732__Gopherus_agassizii),((ENSCPBG00000014556__Chrysemys_picta_bellii,ENSCABG00000017149__Chelonoidis_abingdonii),ENSPSIG00000007000__Pelodiscus_sinensis));

@@ -1,0 +1,1 @@
+((((ENSSPUG00000019034__Sphenodon_punctatus,ENSPVIG00000023218__Pogona_vitticeps),(((ENSMAUG00000015709__Mesocricetus_auratus,ENSOCUG00000029788__Oryctolagus_cuniculus),ENSUMAG00000011436__Ursus_maritimus),ENSVURG00010000706__Vombatus_ursinus)),ENSOMEG00000023476__Oryzias_melastigma),ENSCMIG00000005582__Callorhinchus_milii);

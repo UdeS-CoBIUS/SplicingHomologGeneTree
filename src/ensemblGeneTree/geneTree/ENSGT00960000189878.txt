@@ -1,0 +1,1 @@
+(((ENSJHYG00000012319__Junco_hyemalis,ENSZALG00000006146__Zonotrichia_albicollis),ENSTGUG00000012903__Taeniopygia_guttata),ENSCPGG00000001780__Calidris_pygmaea);

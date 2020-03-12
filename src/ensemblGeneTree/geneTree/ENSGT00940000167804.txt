@@ -1,0 +1,1 @@
+((((ENSSSCG00000036468__Sus_scrofa,ENSPTIG00000007301__Panthera_tigris_altaica),ENSOGAG00000030915__Otolemur_garnettii),ENSSSCG00000037173__Sus_scrofa),ENSETEG00000008762__Echinops_telfairi);

@@ -1,0 +1,1 @@
+(((ENSUAMG00000016487__Ursus_americanus,ENSCAFG00020008864__Canis_lupus_dingo),ENSEASG00005011184__Equus_asinus_asinus),((ENSPTEG00000027704__Piliocolobus_tephrosceles,ENSTGEG00000025492__Theropithecus_gelada),ENSPSMG00000015378__Prolemur_simus));

@@ -1,0 +1,72 @@
+>0
+ENSCPGT00000026128: [['internal gap < 30', 13, 6], 41, 0]
+ENSCPUT00000010090: [['internal gap < 30', 13, 6], 41, 0]
+ENSMUNT00000017817: ['no event', 47, 0]
+>1
+ENSCPGT00000026128: ['exon skipping', 0, 0]
+ENSCPUT00000010090: ['exon skipping', 0, 0]
+ENSMUNT00000017817: [['internal gap < 30', 22, 3], 142, 0]
+>2
+ENSCPGT00000026128: ['exon skipping', 0, 0]
+ENSCPUT00000010090: ['exon skipping', 0, 0]
+ENSMUNT00000017817: ['no event', 192, 2]
+>3
+ENSCPGT00000026128: ['5event', 129, 0]
+ENSCPUT00000010090: ['5event', 129, 0]
+ENSMUNT00000017817: ['no event', 132, 0]
+>4
+ENSCPGT00000026128: ['no event', 223, 1]
+ENSCPUT00000010090: [['internal gap < 30', 154, 9], 214, 1]
+ENSMUNT00000017817: [['internal gap < 30', 125, 6], 217, 1]
+>5
+ENSCPGT00000026128: ['no event', 87, 0]
+ENSCPUT00000010090: ['no event', 87, 0]
+ENSMUNT00000017817: ['no event', 87, 0]
+>6
+ENSCPGT00000026128: [['internal gap < 30', 3, 21], 124, 1]
+ENSCPUT00000010090: [['internal gap < 30', 3, 21], 124, 1]
+ENSMUNT00000017817: ['no event', 145, 1]
+>7
+ENSCPGT00000026128: ['no event', 158, 0]
+ENSCPUT00000010090: ['no event', 158, 0]
+ENSMUNT00000017817: ['no event', 158, 0]
+>8
+ENSCPGT00000026128: ['no event', 101, 0]
+ENSCPUT00000010090: ['no event', 101, 0]
+ENSMUNT00000017817: ['no event', 101, 0]
+>9
+ENSCPGT00000026128: ['no event', 119, 0]
+ENSCPUT00000010090: ['no event', 119, 0]
+ENSMUNT00000017817: ['no event', 119, 0]
+>10
+ENSCPGT00000026128: [['internal gap < 30', 92, 6], 132, 0]
+ENSCPUT00000010090: [['internal gap < 30', 92, 6], 132, 0]
+ENSMUNT00000017817: [['internal gap < 30', 92, 6], 132, 0]
+>11
+ENSCPGT00000026128: [['internal gap < 30', 85, 28], 169, 1]
+ENSCPUT00000010090: [['internal gap < 30', 85, 28], 169, 1]
+ENSMUNT00000017817: [['internal gap < 30', 85, 28], 169, 1]
+>12
+ENSCPGT00000026128: [['internal gap < 30', 64, 9], 138, 0]
+ENSCPUT00000010090: [['internal gap < 30', 64, 9], 138, 0]
+ENSMUNT00000017817: [['internal gap < 30', 82, 12], 135, 0]
+>13
+ENSCPGT00000026128: [['internal gap < 30', 30, 21], 129, 1]
+ENSCPUT00000010090: [['internal gap < 30', 30, 21], 129, 1]
+ENSMUNT00000017817: [['internal gap < 30', 10, 15], 135, 1]
+>14
+ENSCPGT00000026128: ['no event', 220, 2]
+ENSCPUT00000010090: ['no event', 220, 2]
+ENSMUNT00000017817: ['no event', 220, 2]
+>15
+ENSCPGT00000026128: ['no event', 154, 1]
+ENSCPUT00000010090: ['no event', 154, 1]
+ENSMUNT00000017817: ['no event', 154, 1]
+>16
+ENSCPGT00000026128: [['internal gap < 30', 64, 11], 201, 0]
+ENSCPUT00000010090: [['internal gap < 30', 64, 11], 201, 0]
+ENSMUNT00000017817: [['internal gap < 30', 64, 11], 201, 0]
+>17
+ENSCPGT00000026128: ['no event', 109, 1]
+ENSCPUT00000010090: ['no event', 109, 1]
+ENSMUNT00000017817: ['no event', 109, 1]

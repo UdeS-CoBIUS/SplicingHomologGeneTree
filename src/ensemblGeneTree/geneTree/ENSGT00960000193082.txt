@@ -1,0 +1,1 @@
+((ENSOCUG00000032268__Oryctolagus_cuniculus,ENSSDAG00000007300__Spermophilus_dauricus),ENSUAMG00000007420__Ursus_americanus);

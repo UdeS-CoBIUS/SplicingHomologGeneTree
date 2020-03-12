@@ -1,0 +1,1 @@
+(((ENSTGUG00000014737__Taeniopygia_guttata,ENSTGUG00000004487__Taeniopygia_guttata),ENSMVIG00005000917__Manacus_vitellinus),ENSJHYG00000013591__Junco_hyemalis);

@@ -1,0 +1,1 @@
+(((ENSMSIG00000029230__Mus_spicilegus,MGP_CAROLIEiJ_G0015476__Mus_caroli_strain_CAROLI_EIJ),MGP_SPRETEiJ_G0016289__Mus_spretus_strain_SPRET/EiJ),MGP_PahariEiJ_G0030890__Mus_pahari_strain_PAHARI_EIJ);

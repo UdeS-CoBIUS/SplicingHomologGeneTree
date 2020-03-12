@@ -1,0 +1,1 @@
+((ENSCVAG00000005328__Cyprinodon_variegatus,ENSPRNG00000020041__Parambassis_ranga),ENSEEEG00000010141__Electrophorus_electricus);

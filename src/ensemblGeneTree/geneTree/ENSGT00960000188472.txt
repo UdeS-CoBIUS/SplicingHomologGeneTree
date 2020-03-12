@@ -1,0 +1,1 @@
+(ENSMPUG00000017625__Mustela_putorius_furo,ENSAMEG00000011488__Ailuropoda_melanoleuca);

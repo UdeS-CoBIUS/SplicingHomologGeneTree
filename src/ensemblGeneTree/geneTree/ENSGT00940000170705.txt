@@ -1,0 +1,1 @@
+((((ENSMSIG00000030548__Mus_spicilegus,MGP_SPRETEiJ_G0016188__Mus_spretus_strain_SPRET/EiJ),MGP_CAROLIEiJ_G0015377__Mus_caroli_strain_CAROLI_EIJ),(ENSEEUG00000010101__Erinaceus_europaeus,ENSVVUG00000003963__Vulpes_vulpes)),(ENSCPRG00005006709__Crocodylus_porosus,ENSGAGG00000020686__Gopherus_agassizii));

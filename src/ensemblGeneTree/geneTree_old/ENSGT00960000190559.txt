@@ -1,0 +1,1 @@
+((ENSUPAG00010017391__Urocitellus_parryii,ENSSDAG00000021938__Spermophilus_dauricus),ENSPKIG00000013410__Paramormyrops_kingsleyae);

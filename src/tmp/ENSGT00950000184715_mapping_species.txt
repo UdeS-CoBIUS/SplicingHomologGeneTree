@@ -1,0 +1,3 @@
+PILIOCOLOBUSTEPHROSCELES	piliocolobus_tephrosceles
+CARLITOSYRICHTA	carlito_syrichta
+DIPODOMYSORDII	dipodomys_ordii

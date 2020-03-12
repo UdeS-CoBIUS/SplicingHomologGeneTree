@@ -1,0 +1,1 @@
+((ENSMUNG00000002916__Melopsittacus_undulatus,ENSAPLG00000024880__Anas_platyrhynchos_platyrhynchos),ENSORLG00020012364__Oryzias_latipes_ASM223471v1);

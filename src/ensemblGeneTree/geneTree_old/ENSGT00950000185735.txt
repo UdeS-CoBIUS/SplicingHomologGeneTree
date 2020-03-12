@@ -1,0 +1,1 @@
+(((((ENSZALG00000004312__Zonotrichia_albicollis,ENSJHYG00000008641__Junco_hyemalis),ENSMVIG00005011216__Manacus_vitellinus),ENSABRG00000005506__Anser_brachyrhynchus),(ENSBTAG00000011537__Bos_taurus,ENSBMUG00000008949__Bos_mutus)),ENSEBUG00000005454__Eptatretus_burgeri);

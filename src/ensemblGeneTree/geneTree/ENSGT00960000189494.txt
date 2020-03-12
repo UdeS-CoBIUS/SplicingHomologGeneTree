@@ -1,0 +1,1 @@
+((((ENSMUNG00000006822__Melopsittacus_undulatus,ENSSCAG00000007708__Serinus_canaria),ENSCJPG00005011483__Coturnix_japonica),((ENSDNVG00000014868__Dromaius_novaehollandiae,ENSNPEG00000016025__Nothoprocta_perdicaria),ENSARWG00000005963__Apteryx_rowi)),ENSNVIG00000018224__Neovison_vison);

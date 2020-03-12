@@ -1,0 +1,1 @@
+(((ENSARWG00000009083__Apteryx_rowi,ENSAHAG00000012866__Apteryx_haastii),ENSAOWG00000019412__Apteryx_owenii),ENSLSDG00000014565__Lonchura_striata_domestica);

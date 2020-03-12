@@ -1,0 +1,1 @@
+(((ENSPMJG00000015235__Parus_major,ENSCJPG00005000152__Coturnix_japonica),ENSCPBG00000013212__Chrysemys_picta_bellii),(((((ENSTSYG00000031269__Carlito_syrichta,ENSTSYG00000037512__Carlito_syrichta),ENSCCAG00000031712__Cebus_capucinus_imitator),ENSPSMG00000019549__Prolemur_simus),ENSPEMG00000025835__Peromyscus_maniculatus_bairdii),ENSFCAG00000037593__Felis_catus));

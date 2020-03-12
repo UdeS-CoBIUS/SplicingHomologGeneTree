@@ -1,0 +1,1 @@
+(((ENSMUNG00000004038__Melopsittacus_undulatus,ENSMUNG00000014352__Melopsittacus_undulatus),ENSSCAG00000000618__Serinus_canaria),ENSGAGG00000015347__Gopherus_agassizii);

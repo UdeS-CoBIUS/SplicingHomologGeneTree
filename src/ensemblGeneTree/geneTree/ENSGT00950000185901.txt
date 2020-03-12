@@ -1,0 +1,1 @@
+(((ENSECAG00000033469__Equus_caballus,ENSUMAG00000023340__Ursus_maritimus),ENSMUGG00000025573__Meriones_unguiculatus),(ENSNPEG00000013331__Nothoprocta_perdicaria,ENSCPRG00005001780__Crocodylus_porosus));

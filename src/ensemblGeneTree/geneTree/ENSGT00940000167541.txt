@@ -1,0 +1,1 @@
+(((((ENSPPYG00000010188__Pongo_abelii,ENSNLEG00000004264__Nomascus_leucogenys),ENSTSYG00000010151__Carlito_syrichta),ENSEASG00005004439__Equus_asinus_asinus),(ENSCCNG00000014075__Castor_canadensis,ENSMUGG00000027208__Meriones_unguiculatus)),((ENSAOCG00000011892__Amphiprion_ocellaris,ENSPFOG00000013438__Poecilia_formosa),ENSOMEG00000023754__Oryzias_melastigma));

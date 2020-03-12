@@ -1,0 +1,1 @@
+((ENSMUGG00000005212__Meriones_unguiculatus,ENSMUGG00000005195__Meriones_unguiculatus),ENSPMGG00000005632__Periophthalmus_magnuspinnatus);

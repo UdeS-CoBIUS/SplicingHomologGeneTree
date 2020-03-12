@@ -1,0 +1,1 @@
+((((ENSSDAG00000000063__Spermophilus_dauricus,ENSSDAG00000014718__Spermophilus_dauricus),ENSMMMG00000001764__Marmota_marmota_marmota),ENSSCAG00000003844__Serinus_canaria),ENSAOCG00000018490__Amphiprion_ocellaris);

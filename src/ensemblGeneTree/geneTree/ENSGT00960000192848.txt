@@ -1,0 +1,1 @@
+(ENSPTEG00000017707__Piliocolobus_tephrosceles,ENSCHIG00000022928__Capra_hircus);

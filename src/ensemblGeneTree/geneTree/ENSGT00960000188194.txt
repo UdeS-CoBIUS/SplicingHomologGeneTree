@@ -1,0 +1,1 @@
+((ENSPTEG00000008614__Piliocolobus_tephrosceles,ENSPTEG00000013253__Piliocolobus_tephrosceles),(ENSAMXG00000039171__Astyanax_mexicanus,ENSIPUG00000006699__Ictalurus_punctatus));

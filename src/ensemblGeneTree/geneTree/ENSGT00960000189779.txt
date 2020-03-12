@@ -1,0 +1,1 @@
+((((ENSSCAG00000008363__Serinus_canaria,ENSLSDG00000016117__Lonchura_striata_domestica),ENSZALG00000002095__Zonotrichia_albicollis),ENSPMJG00000004110__Parus_major),ENSCPBG00000016364__Chrysemys_picta_bellii);

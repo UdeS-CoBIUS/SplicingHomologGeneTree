@@ -1,0 +1,1 @@
+((((ENSGAGG00000022740__Gopherus_agassizii,ENSCPBG00000000363__Chrysemys_picta_bellii),ENSNSUG00000018327__Notechis_scutatus),ENSPCIG00000036285__Phascolarctos_cinereus),((ENSMMOG00000006584__Mola_mola,ENSMMOG00000006581__Mola_mola),((ENSTRUG00000025062__Takifugu_rubripes,ENSTRUG00000019711__Takifugu_rubripes),ENSTRUG00000022245__Takifugu_rubripes)));

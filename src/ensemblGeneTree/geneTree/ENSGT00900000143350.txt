@@ -1,0 +1,1 @@
+(((ENSHGLG00000003867__Heterocephalus_glaber_HetGla_female_1.0,ENSHGLG00100017216__Heterocephalus_glaber_HetGla_1.0),ENSFDAG00000015950__Fukomys_damarensis),ENSSTOG00000033343__Ictidomys_tridecemlineatus);

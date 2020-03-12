@@ -1,0 +1,5 @@
+BOSTAURUS	bos_taurus
+BISONBISONBISON	bison_bison_bison
+PTEROPUSVAMPYRUS	pteropus_vampyrus
+AILUROPODAMELANOLEUCA	ailuropoda_melanoleuca
+TUPAIABELANGERI	tupaia_belangeri

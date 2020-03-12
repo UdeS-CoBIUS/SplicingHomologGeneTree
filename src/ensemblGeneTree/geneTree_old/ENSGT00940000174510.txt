@@ -1,0 +1,1 @@
+((((ENSNBRG00000009874__Neolamprologus_brichardi,ENSORLG00015023022__Oryzias_latipes_ASM223469v1),(ENSAOCG00000004894__Amphiprion_ocellaris,ENSCVAG00000004293__Cyprinodon_variegatus)),ENSPMGG00000007841__Periophthalmus_magnuspinnatus),ENSTGUG00000016728__Taeniopygia_guttata);

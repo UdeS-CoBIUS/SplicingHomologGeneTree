@@ -1,0 +1,1 @@
+(ENSNSUG00000007647__Notechis_scutatus,ENSUAMG00000020066__Ursus_americanus);

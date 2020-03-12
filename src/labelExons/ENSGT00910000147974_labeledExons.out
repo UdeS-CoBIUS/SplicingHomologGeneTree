@@ -1,0 +1,16 @@
+>0
+ENSCATT00000026334: ['exon skipping', 0, 0]
+ENSMFAT00000062059: ['exon skipping', 0, 0]
+ENSPANT00000046563: ['exon skipping', 0, 0]
+ENSTGET00000035845: ['exon skipping', 0, 0]
+ENSMLET00000021465: ['exon skipping', 0, 0]
+ENSRBIT00000044690: ['no event', 6, 0]
+ENSPPAT00000007067: ['exon skipping', 0, 0]
+>1
+ENSCATT00000026334: ['3event', '5event', 249, 0]
+ENSMFAT00000062059: ['3event', '5event', 249, 0]
+ENSPANT00000046563: ['5event', 284, 0]
+ENSTGET00000035845: ['5event', 284, 0]
+ENSMLET00000021465: ['5event', 284, 0]
+ENSRBIT00000044690: [['internal gap < 30', 1, 1], 284, 1]
+ENSPPAT00000007067: ['5event', 284, 0]

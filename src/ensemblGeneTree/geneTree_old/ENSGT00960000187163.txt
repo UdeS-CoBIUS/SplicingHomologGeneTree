@@ -1,0 +1,1 @@
+((((((ENSXMAG00000022982__Xiphophorus_maculatus,ENSXMAG00000023509__Xiphophorus_maculatus),ENSTRUG00000020969__Takifugu_rubripes),ENSORLG00000025971__Oryzias_latipes_ASM223467v1),(ENSSDAG00000002125__Spermophilus_dauricus,ENSECAG00000040446__Equus_caballus)),ENSCPRG00005013103__Crocodylus_porosus),ENSPMAG00000007194__Petromyzon_marinus);

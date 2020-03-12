@@ -1,0 +1,1 @@
+(((ENSNLEG00000019236__Nomascus_leucogenys,ENSPPYG00000003857__Pongo_abelii),(ENSTGEG00000017222__Theropithecus_gelada,ENSPTEG00000028149__Piliocolobus_tephrosceles)),(ENSTTRG00000004615__Tursiops_truncatus,ENSPVAG00000009590__Pteropus_vampyrus));

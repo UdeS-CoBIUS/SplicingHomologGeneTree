@@ -1,0 +1,11 @@
+HIPPOCAMPUSCOMES	hippocampus_comes
+HIPPOCAMPUSCOMES	hippocampus_comes
+HIPPOCAMPUSCOMES	hippocampus_comes
+POECILIAMEXICANA	poecilia_mexicana
+POECILIAMEXICANA	poecilia_mexicana
+POECILIALATIPINNA	poecilia_latipinna
+POECILIALATIPINNA	poecilia_latipinna
+POECILIAMEXICANA	poecilia_mexicana
+POECILIALATIPINNA	poecilia_latipinna
+FUNDULUSHETEROCLITUS	fundulus_heteroclitus
+PARAMORMYROPSKINGSLEYAE	paramormyrops_kingsleyae

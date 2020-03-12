@@ -1,0 +1,1 @@
+((((ENSSFOG00015017787__Scleropages_formosus,ENSPKIG00000003510__Paramormyrops_kingsleyae),(ENSAPEG00000017109__Amphiprion_percula,ENSCSEG00000004768__Cynoglossus_semilaevis)),ENSLOCG00000010244__Lepisosteus_oculatus),ENSLACG00000014628__Latimeria_chalumnae);

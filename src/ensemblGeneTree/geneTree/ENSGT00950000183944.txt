@@ -1,0 +1,1 @@
+(((((ENSACIG00000006807__Amphilophus_citrinellus,ENSACIG00000006523__Amphilophus_citrinellus),ENSPMGG00000003579__Periophthalmus_magnuspinnatus),ENSLBEG00000026367__Labrus_bergylta),ENSGMOG00000013518__Gadus_morhua),ENSPNAG00000028844__Pygocentrus_nattereri);

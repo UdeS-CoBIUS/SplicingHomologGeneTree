@@ -1,0 +1,6 @@
+CIONASAVIGNYI	ciona_savignyi
+CIONAINTESTINALIS	ciona_intestinalis
+CIONAINTESTINALIS	ciona_intestinalis
+DROSOPHILAMELANOGASTER	drosophila_melanogaster
+CAENORHABDITISELEGANS	caenorhabditis_elegans
+SACCHAROMYCESCEREVISIAE	saccharomyces_cerevisiae

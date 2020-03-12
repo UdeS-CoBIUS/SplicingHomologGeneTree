@@ -1,0 +1,1 @@
+((((ENSEEUG00000012885__Erinaceus_europaeus,ENSEEUG00000001766__Erinaceus_europaeus),ENSEEUG00000012671__Erinaceus_europaeus),((ENSSARG00000010638__Sorex_araneus,ENSSARG00000008115__Sorex_araneus),((ENSSARG00000005868__Sorex_araneus,ENSSARG00000003312__Sorex_araneus),ENSSARG00000001117__Sorex_araneus))),ENSCING00000004406__Ciona_intestinalis);

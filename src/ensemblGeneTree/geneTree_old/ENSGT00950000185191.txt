@@ -1,0 +1,1 @@
+((ENSCJAG00000044194__Callithrix_jacchus,ENSCGRG00015008915__Cricetulus_griseus_CriGri-PICR),ENSEASG00005019444__Equus_asinus_asinus);

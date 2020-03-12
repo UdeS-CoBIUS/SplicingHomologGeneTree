@@ -1,0 +1,1 @@
+(((((ENSRBIG00000031844__Rhinopithecus_bieti,ENSRROG00000029014__Rhinopithecus_roxellana),ENSPTEG00000006335__Piliocolobus_tephrosceles),(((ENSTGEG00000006982__Theropithecus_gelada,ENSPANG00000034189__Papio_anubis),ENSMLEG00000016056__Mandrillus_leucophaeus),ENSMNEG00000002576__Macaca_nemestrina)),ENSPPAG00000040995__Pan_paniscus),ENSANAG00000034359__Aotus_nancymaae);

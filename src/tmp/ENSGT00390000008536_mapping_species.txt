@@ -1,0 +1,8 @@
+PTEROPUSVAMPYRUS	pteropus_vampyrus
+TURSIOPSTRUNCATUS	tursiops_truncatus
+CHLOROCEBUSSABAEUS	chlorocebus_sabaeus
+PONGOABELII	pongo_abelii
+OCHOTONAPRINCEPS	ochotona_princeps
+PROCAVIACAPENSIS	procavia_capensis
+TUPAIABELANGERI	tupaia_belangeri
+CHOLOEPUSHOFFMANNI	choloepus_hoffmanni

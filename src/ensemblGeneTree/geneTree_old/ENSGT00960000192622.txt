@@ -1,0 +1,1 @@
+(ENSPMAG00000006440__Petromyzon_marinus,ENSCJPG00005014179__Coturnix_japonica);

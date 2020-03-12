@@ -1,0 +1,1 @@
+(((ENSHBUG00000016026__Haplochromis_burtoni,ENSPNYG00000006660__Pundamilia_nyererei),ENSMZEG00005019668__Maylandia_zebra),ENSSDUG00000007504__Seriola_dumerili);

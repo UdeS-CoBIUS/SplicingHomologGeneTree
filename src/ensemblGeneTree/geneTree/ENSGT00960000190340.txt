@@ -1,0 +1,1 @@
+((ENSLSDG00000015314__Lonchura_striata_domestica,ENSMUNG00000008723__Melopsittacus_undulatus),ENSCJPG00005000233__Coturnix_japonica);

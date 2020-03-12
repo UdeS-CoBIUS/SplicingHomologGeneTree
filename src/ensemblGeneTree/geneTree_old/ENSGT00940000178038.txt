@@ -1,0 +1,1 @@
+((((((ENSLBEG00000022957__Labrus_bergylta,ENSLBEG00000001974__Labrus_bergylta),ENSLBEG00000006591__Labrus_bergylta),ENSLBEG00000023031__Labrus_bergylta),ENSLBEG00000022101__Labrus_bergylta),ENSAMXG00000030562__Astyanax_mexicanus),ENSFALG00000014979__Ficedula_albicollis);

@@ -1,0 +1,1 @@
+((((((ENSMVIG00005018500__Manacus_vitellinus,ENSLCOG00000002914__Lepidothrix_coronata),ENSSCAG00000000210__Serinus_canaria),ENSCPUG00000012874__Calidris_pugnax),((ENSAHAG00000018137__Apteryx_haastii,ENSARWG00000013833__Apteryx_rowi),ENSDNVG00000013824__Dromaius_novaehollandiae)),ENSSPUG00000017033__Sphenodon_punctatus),ENSPKIG00000005331__Paramormyrops_kingsleyae);

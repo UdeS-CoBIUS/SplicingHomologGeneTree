@@ -1,0 +1,1 @@
+((ENSMUNG00000008590__Melopsittacus_undulatus,ENSCPGG00000006816__Calidris_pygmaea),ENSOANG00000030246__Ornithorhynchus_anatinus);

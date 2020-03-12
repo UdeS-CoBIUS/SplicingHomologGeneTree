@@ -1,0 +1,1 @@
+(((((ENSMVIG00005007006__Manacus_vitellinus,ENSZALG00000008726__Zonotrichia_albicollis),ENSSPUG00000000793__Sphenodon_punctatus),ENSPMGG00000002753__Periophthalmus_magnuspinnatus),ENSUAMG00000016513__Ursus_americanus),ENSCING00000020841__Ciona_intestinalis);

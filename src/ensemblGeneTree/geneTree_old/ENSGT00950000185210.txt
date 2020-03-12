@@ -1,0 +1,1 @@
+((ENSPSMG00000001352__Prolemur_simus,ENSMFAG00000025260__Macaca_fascicularis),(ENSUMAG00000010655__Ursus_maritimus,ENSUAMG00000015236__Ursus_americanus));

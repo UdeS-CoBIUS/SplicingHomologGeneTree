@@ -1,0 +1,1 @@
+(((((ENSLCOG00000006585__Lepidothrix_coronata,ENSJHYG00000003096__Junco_hyemalis),ENSMUNG00000007392__Melopsittacus_undulatus),(ENSCPGG00000009888__Calidris_pygmaea,ENSCPUG00000006310__Calidris_pugnax)),ENSMGAG00000016402__Meleagris_gallopavo),ENSDNVG00000012161__Dromaius_novaehollandiae);

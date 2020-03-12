@@ -1,0 +1,1 @@
+(((ENSELUG00000019384__Esox_lucius,ENSPNAG00000023775__Pygocentrus_nattereri),ENSLBEG00000011944__Labrus_bergylta),(ENSCJPG00005006490__Coturnix_japonica,ENSSCAG00000004092__Serinus_canaria));

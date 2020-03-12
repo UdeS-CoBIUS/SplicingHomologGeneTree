@@ -1,0 +1,1 @@
+(((((ENSGALG00000035998__Gallus_gallus,ENSMGAG00000009917__Meleagris_gallopavo),(ENSGALG00000048286__Gallus_gallus,ENSMGAG00000016898__Meleagris_gallopavo)),ENSGALG00000035863__Gallus_gallus),ENSCJPG00005010371__Coturnix_japonica),ENSNMEG00000013647__Numida_meleagris);

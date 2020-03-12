@@ -1,0 +1,1 @@
+((((ENSAMXG00000042006__Astyanax_mexicanus,ENSCVAG00000011877__Cyprinodon_variegatus),ENSEBUG00000000877__Eptatretus_burgeri),(ENSCING00000024758__Ciona_intestinalis,ENSCSAVG00000000122__Ciona_savignyi)),WBGene00012207__Caenorhabditis_elegans_strain_N2);

@@ -1,0 +1,1 @@
+(ENSMUGG00000025747__Meriones_unguiculatus,ENSMPUG00000006352__Mustela_putorius_furo);

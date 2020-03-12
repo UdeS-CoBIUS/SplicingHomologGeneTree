@@ -1,0 +1,1 @@
+((((ENSDNVG00000002478__Dromaius_novaehollandiae,ENSAOWG00000016863__Apteryx_owenii),ENSNPEG00000006671__Nothoprocta_perdicaria),ENSCABG00000021345__Chelonoidis_abingdonii),ENSAMEG00000019277__Ailuropoda_melanoleuca);

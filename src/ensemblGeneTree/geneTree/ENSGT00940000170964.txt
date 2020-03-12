@@ -1,0 +1,1 @@
+((((ENSBTAG00000048433__Bos_taurus,ENSPPRG00000010992__Panthera_pardus),ENSCCAG00000020880__Cebus_capucinus_imitator),ENSMVIG00005000069__Manacus_vitellinus),ENSPMAG00000001839__Petromyzon_marinus);

@@ -1,0 +1,1 @@
+((ENSOANG00000031504__Ornithorhynchus_anatinus,ENSOANG00000030869__Ornithorhynchus_anatinus),(ENSFALG00000008207__Ficedula_albicollis,ENSSPUG00000011305__Sphenodon_punctatus));

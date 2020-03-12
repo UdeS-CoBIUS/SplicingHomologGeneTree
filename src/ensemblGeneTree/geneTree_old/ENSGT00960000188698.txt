@@ -1,0 +1,1 @@
+((ENSCJPG00005001000__Coturnix_japonica,ENSCPGG00000014845__Calidris_pygmaea),ENSSPUG00000018539__Sphenodon_punctatus);

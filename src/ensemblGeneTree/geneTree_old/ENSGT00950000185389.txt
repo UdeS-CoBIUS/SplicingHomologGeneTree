@@ -1,0 +1,1 @@
+((ENSNLEG00000030235__Nomascus_leucogenys,ENSTGEG00000015283__Theropithecus_gelada),(ENSEASG00005012213__Equus_asinus_asinus,ENSECAG00000040086__Equus_caballus));

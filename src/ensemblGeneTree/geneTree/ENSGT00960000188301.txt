@@ -1,0 +1,1 @@
+((ENSNVIG00000008308__Neovison_vison,ENSMPUG00000006616__Mustela_putorius_furo),ENSPTIG00000020826__Panthera_tigris_altaica);

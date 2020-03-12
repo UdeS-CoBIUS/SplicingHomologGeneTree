@@ -1,0 +1,1 @@
+((((ENSSCAG00000017254__Serinus_canaria,ENSCCEG00000020073__Cyanistes_caeruleus),(ENSZALG00000004425__Zonotrichia_albicollis,ENSJHYG00000006187__Junco_hyemalis)),ENSCJPG00005011257__Coturnix_japonica),ENSARWG00000003384__Apteryx_rowi);

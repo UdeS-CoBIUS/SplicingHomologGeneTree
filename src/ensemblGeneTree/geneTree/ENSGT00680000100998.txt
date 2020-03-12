@@ -1,0 +1,1 @@
+((((ENSGAGG00000014986__Gopherus_agassizii,ENSCPBG00000025728__Chrysemys_picta_bellii),ENSARWG00000001135__Apteryx_rowi),((ENSPSIG00000013714__Pelodiscus_sinensis,ENSPSIG00000009882__Pelodiscus_sinensis),ENSPSIG00000006218__Pelodiscus_sinensis)),ENSLACG00000000737__Latimeria_chalumnae);

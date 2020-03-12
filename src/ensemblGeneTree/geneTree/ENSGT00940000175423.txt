@@ -1,0 +1,1 @@
+(((ENSNBRG00000019999__Neolamprologus_brichardi,ENSACIG00000009219__Amphilophus_citrinellus),ENSSFOG00015012172__Scleropages_formosus),(ENSJHYG00000009084__Junco_hyemalis,ENSTGUG00000002851__Taeniopygia_guttata));

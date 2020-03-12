@@ -1,0 +1,1 @@
+((((((ENSRROG00000031786__Rhinopithecus_roxellana,ENSRBIG00000044760__Rhinopithecus_bieti),ENSCANG00000037460__Colobus_angolensis_palliatus),ENSPTEG00000022479__Piliocolobus_tephrosceles),ENSMLEG00000044258__Mandrillus_leucophaeus),ENSMMUG00000037697__Macaca_mulatta),ENSCJAG00000045089__Callithrix_jacchus);

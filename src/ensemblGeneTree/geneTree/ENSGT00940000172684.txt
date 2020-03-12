@@ -1,0 +1,1 @@
+((((ENSPPAG00000029823__Pan_paniscus,ENSTSYG00000036406__Carlito_syrichta),ENSBBBG00000008964__Bison_bison_bison),ENSTGUG00000010594__Taeniopygia_guttata),ENSAPOG00000008279__Acanthochromis_polyacanthus);

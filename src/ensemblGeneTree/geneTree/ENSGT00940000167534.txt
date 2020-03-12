@@ -1,0 +1,1 @@
+((((FBgn0000078__Drosophila_melanogaster,FBgn0000079__Drosophila_melanogaster),FBgn0020506__Drosophila_melanogaster),WBGene00008220__Caenorhabditis_elegans_strain_N2),((ENSBTAG00000055224__Bos_taurus,ENSBTAG00000052705__Bos_taurus),(ENSCSAVG00000006944__Ciona_savignyi,ENSCING00000009641__Ciona_intestinalis)));

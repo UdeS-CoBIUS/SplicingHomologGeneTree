@@ -1,0 +1,3 @@
+ASTATOTILAPIACALLIPTERA	astatotilapia_calliptera
+MAYLANDIAZEBRA	maylandia_zebra
+PUNDAMILIANYEREREI	pundamilia_nyererei

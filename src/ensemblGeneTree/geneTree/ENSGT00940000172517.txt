@@ -1,0 +1,1 @@
+(((ENSCING00000023218__Ciona_intestinalis,ENSCING00000024944__Ciona_intestinalis),ENSHCOG00000004840__Hippocampus_comes),WBGene00019914__Caenorhabditis_elegans_strain_N2);

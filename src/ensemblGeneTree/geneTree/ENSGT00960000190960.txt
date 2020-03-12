@@ -1,0 +1,1 @@
+((ENSTGUG00000011833__Taeniopygia_guttata,ENSLSDG00000002111__Lonchura_striata_domestica),ENSCPUG00000000569__Calidris_pugnax);

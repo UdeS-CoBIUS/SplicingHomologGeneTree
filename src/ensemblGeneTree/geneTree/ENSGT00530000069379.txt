@@ -1,0 +1,1 @@
+(((ENSDARG00000070964__Danio_rerio,ENSDARG00000079901__Danio_rerio),ENSDARG00000070960__Danio_rerio),((((ENSPNAG00000013081__Pygocentrus_nattereri,ENSPNAG00000013097__Pygocentrus_nattereri),ENSPNAG00000002570__Pygocentrus_nattereri),ENSAMXG00000010135__Astyanax_mexicanus),ENSPNAG00000011331__Pygocentrus_nattereri));

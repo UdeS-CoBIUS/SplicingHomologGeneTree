@@ -1,0 +1,1 @@
+((ENSCJPG00005003499__Coturnix_japonica,ENSCCEG00000000320__Cyanistes_caeruleus),(((ENSRROG00000032956__Rhinopithecus_roxellana,ENSPTEG00000006735__Piliocolobus_tephrosceles),ENSCCAG00000035320__Cebus_capucinus_imitator),(ENSNGAG00000019692__Nannospalax_galili,ENSMAUG00000019318__Mesocricetus_auratus)));

@@ -1,0 +1,1 @@
+(MGP_PahariEiJ_G0023041__Mus_pahari_strain_PAHARI_EIJ,ENSMUSG00000078953__Mus_musculus_strain_reference_(CL57BL6));

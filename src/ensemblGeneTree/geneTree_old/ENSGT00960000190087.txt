@@ -1,0 +1,1 @@
+((ENSPEMG00000030404__Peromyscus_maniculatus_bairdii,ENSPEMG00000026853__Peromyscus_maniculatus_bairdii),(ENSCGRG00015017077__Cricetulus_griseus_CriGri-PICR,ENSCGRG00015005036__Cricetulus_griseus_CriGri-PICR));

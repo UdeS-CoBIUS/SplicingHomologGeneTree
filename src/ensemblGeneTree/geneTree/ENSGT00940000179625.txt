@@ -1,0 +1,1 @@
+((ENSPMGG00000004692__Periophthalmus_magnuspinnatus,ENSORLG00015002763__Oryzias_latipes_ASM223469v1),(ENSGAGG00000022330__Gopherus_agassizii,ENSCPBG00000014306__Chrysemys_picta_bellii));

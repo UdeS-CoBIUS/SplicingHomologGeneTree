@@ -1,0 +1,1 @@
+(ENSSDAG00000012996__Spermophilus_dauricus,ENSPCIG00000028189__Phascolarctos_cinereus);

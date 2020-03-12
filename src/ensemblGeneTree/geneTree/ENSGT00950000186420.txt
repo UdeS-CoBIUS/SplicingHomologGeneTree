@@ -1,0 +1,1 @@
+((ENSBIXG00005031104__Bos_indicus_x_Bos_taurus_UOA_Brahman_1,ENSBTAG00000032774__Bos_taurus),ENSTBEG00000006271__Tupaia_belangeri);

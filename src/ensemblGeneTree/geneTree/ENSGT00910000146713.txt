@@ -1,0 +1,1 @@
+((ENSPCOG00000008571__Propithecus_coquereli,ENSMICG00000027129__Microcebus_murinus),ENSTSYG00000004735__Carlito_syrichta);

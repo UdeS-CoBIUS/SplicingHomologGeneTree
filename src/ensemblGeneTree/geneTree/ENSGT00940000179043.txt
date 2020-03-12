@@ -1,0 +1,1 @@
+(((ENSMZEG00005016764__Maylandia_zebra,ENSACLG00000016508__Astatotilapia_calliptera),ENSPNYG00000016644__Pundamilia_nyererei),ENSIPUG00000019851__Ictalurus_punctatus);

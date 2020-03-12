@@ -1,0 +1,1 @@
+(ENSMEUG00000014127__Notamacropus_eugenii,ENSSDAG00000016993__Spermophilus_dauricus);

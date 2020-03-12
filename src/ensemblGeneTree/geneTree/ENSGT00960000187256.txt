@@ -1,0 +1,1 @@
+(((((ENSRBIG00000033683__Rhinopithecus_bieti,ENSANAG00000028629__Aotus_nancymaae),ENSOGAG00000029060__Otolemur_garnettii),ENSTBEG00000003394__Tupaia_belangeri),ENSMLUG00000028083__Myotis_lucifugus),ENSCJPG00005008400__Coturnix_japonica);

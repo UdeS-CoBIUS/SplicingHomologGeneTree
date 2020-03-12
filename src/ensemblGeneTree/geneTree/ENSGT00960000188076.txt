@@ -1,0 +1,1 @@
+(ENSPCOG00000027009__Propithecus_coquereli,ENSMNEG00000028253__Macaca_nemestrina);

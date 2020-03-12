@@ -1,0 +1,1 @@
+((((ENSTTRG00000014943__Tursiops_truncatus,ENSPSMG00000007783__Prolemur_simus),ENSCAFG00000023991__Canis_lupus_familiaris),ENSPCAG00000008468__Procavia_capensis),((ENSMOCG00000022268__Microtus_ochrogaster,ENSRNOG00000024349__Rattus_norvegicus),ENSETEG00000016620__Echinops_telfairi));

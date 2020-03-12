@@ -1,0 +1,1 @@
+((((ENSPCOG00000023427__Propithecus_coquereli,ENSMICG00000037631__Microcebus_murinus),ENSDORG00000002414__Dipodomys_ordii),(((ENSUAMG00000007357__Ursus_americanus,ENSCAFG00020005997__Canis_lupus_dingo),ENSMPUG00000007905__Mustela_putorius_furo),ENSECAG00000024548__Equus_caballus)),ENSPCIG00000004353__Phascolarctos_cinereus);

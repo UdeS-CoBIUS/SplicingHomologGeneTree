@@ -1,0 +1,1 @@
+(((ENSJHYG00000009125__Junco_hyemalis,ENSCPUG00000008882__Calidris_pugnax),ENSAOWG00000018584__Apteryx_owenii),(ENSPVIG00000019161__Pogona_vitticeps,ENSACAG00000005578__Anolis_carolinensis));

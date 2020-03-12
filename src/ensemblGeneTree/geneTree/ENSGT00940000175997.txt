@@ -1,0 +1,1 @@
+(((ENSSLDG00000007097__Seriola_lalandi_dorsalis,ENSCSEG00000011408__Cynoglossus_semilaevis),((ENSMMOG00000002497__Mola_mola,ENSTRUG00000008274__Takifugu_rubripes),(ENSAPEG00000015358__Amphiprion_percula,ENSORLG00020002078__Oryzias_latipes_ASM223471v1))),ENSPMGG00000019155__Periophthalmus_magnuspinnatus);

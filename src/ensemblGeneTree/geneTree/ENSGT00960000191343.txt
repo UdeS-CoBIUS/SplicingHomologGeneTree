@@ -1,0 +1,1 @@
+(ENSOANG00000030084__Ornithorhynchus_anatinus,ENSCPGG00000002086__Calidris_pygmaea);

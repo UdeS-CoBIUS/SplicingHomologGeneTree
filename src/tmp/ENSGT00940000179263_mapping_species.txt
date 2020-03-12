@@ -1,0 +1,4 @@
+ACANTHOCHROMISPOLYACANTHUS	acanthochromis_polyacanthus
+AMPHIPRIONPERCULA	amphiprion_percula
+ANABASTESTUDINEUS	anabas_testudineus
+HUCHOHUCHO	hucho_hucho

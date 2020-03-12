@@ -1,0 +1,1 @@
+(((ENSSDUG00000014271__Seriola_dumerili,ENSSLDG00000005340__Seriola_lalandi_dorsalis),((ENSLBEG00000016594__Labrus_bergylta,ENSMMOG00000003427__Mola_mola),(ENSATEG00000011754__Anabas_testudineus,ENSMAMG00000023101__Mastacembelus_armatus))),ENSHCOG00000015377__Hippocampus_comes);

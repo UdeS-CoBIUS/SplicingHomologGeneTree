@@ -1,0 +1,1 @@
+((ENSOANG00000020473__Ornithorhynchus_anatinus,ENSVURG00010021988__Vombatus_ursinus),ENSAPLG00000021606__Anas_platyrhynchos_platyrhynchos);

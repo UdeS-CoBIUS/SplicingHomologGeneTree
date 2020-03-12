@@ -1,0 +1,1 @@
+(((ENSSLDG00000019965__Seriola_lalandi_dorsalis,ENSSDUG00000007856__Seriola_dumerili),ENSCSEG00000005461__Cynoglossus_semilaevis),((ENSAOCG00000023888__Amphiprion_ocellaris,ENSAPEG00000004967__Amphiprion_percula),ENSHBUG00000009903__Haplochromis_burtoni));

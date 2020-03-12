@@ -1,0 +1,1 @@
+((ENSAPLG00000027015__Anas_platyrhynchos_platyrhynchos,ENSTGUG00000007237__Taeniopygia_guttata),ENSMODG00000010025__Monodelphis_domestica);

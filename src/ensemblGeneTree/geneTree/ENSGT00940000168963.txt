@@ -1,0 +1,1 @@
+(((ENSOARG00000000604__Ovis_aries,ENSVVUG00000023229__Vulpes_vulpes),ENSOPRG00000001677__Ochotona_princeps),ENSFHEG00000001054__Fundulus_heteroclitus);

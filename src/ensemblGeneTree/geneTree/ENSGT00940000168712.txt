@@ -1,0 +1,1 @@
+((ENSTTRG00000014744__Tursiops_truncatus,ENSFCAG00000029697__Felis_catus),(MGP_PahariEiJ_G0020071__Mus_pahari_strain_PAHARI_EIJ,MGP_SPRETEiJ_G0020969__Mus_spretus_strain_SPRET/EiJ));

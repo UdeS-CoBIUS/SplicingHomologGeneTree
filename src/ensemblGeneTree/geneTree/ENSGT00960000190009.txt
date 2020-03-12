@@ -1,0 +1,1 @@
+(((ENSARWG00000009877__Apteryx_rowi,ENSAHAG00000018099__Apteryx_haastii),ENSDNVG00000013157__Dromaius_novaehollandiae),ENSPSIG00000015850__Pelodiscus_sinensis);

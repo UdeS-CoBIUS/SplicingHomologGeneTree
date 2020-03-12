@@ -1,0 +1,1 @@
+((((ENSFHEG00000020194__Fundulus_heteroclitus,ENSPFOG00000024256__Poecilia_formosa),ENSSPAG00000000150__Stegastes_partitus),ENSMALG00000011993__Monopterus_albus),((ENSLBEG00000002963__Labrus_bergylta,ENSTRUG00000021112__Takifugu_rubripes),(ENSSLDG00000008962__Seriola_lalandi_dorsalis,ENSSDUG00000001542__Seriola_dumerili)));

@@ -1,0 +1,1 @@
+(((ENSCJPG00005006281__Coturnix_japonica,ENSCPGG00000018138__Calidris_pygmaea),ENSTGUG00000004229__Taeniopygia_guttata),ENSPSIG00000016352__Pelodiscus_sinensis);

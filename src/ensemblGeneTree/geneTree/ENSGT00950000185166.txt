@@ -1,0 +1,1 @@
+(((((ENSCCNG00000002421__Castor_canadensis,ENSCAPG00000005616__Cavia_aperea),ENSPSMG00000024821__Prolemur_simus),ENSUAMG00000010732__Ursus_americanus),ENSOANG00000031643__Ornithorhynchus_anatinus),((ENSNPEG00000008162__Nothoprocta_perdicaria,ENSAPLG00000028856__Anas_platyrhynchos_platyrhynchos),ENSSPUG00000013055__Sphenodon_punctatus));

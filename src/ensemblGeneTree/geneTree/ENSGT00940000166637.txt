@@ -1,0 +1,1 @@
+((((ENSCING00000014370__Ciona_intestinalis,ENSCSAVG00000007268__Ciona_savignyi),((ENSCING00000019587__Ciona_intestinalis,ENSCSAVG00000007633__Ciona_savignyi),ENSCING00000000622__Ciona_intestinalis)),ENSCING00000005906__Ciona_intestinalis),(WBGene00018527__Caenorhabditis_elegans_strain_N2,WBGene00017909__Caenorhabditis_elegans_strain_N2));

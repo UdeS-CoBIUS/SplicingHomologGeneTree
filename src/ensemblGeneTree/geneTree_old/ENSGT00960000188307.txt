@@ -1,0 +1,1 @@
+(ENSOARG00000010331__Ovis_aries,ENSCHIG00000021322__Capra_hircus);

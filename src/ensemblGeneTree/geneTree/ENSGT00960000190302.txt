@@ -1,0 +1,1 @@
+((ENSAPLG00000029076__Anas_platyrhynchos_platyrhynchos,ENSAPLG00000016490__Anas_platyrhynchos_platyrhynchos),ENSPPRG00000005805__Panthera_pardus);

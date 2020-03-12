@@ -1,0 +1,1 @@
+((((((ENSACIG00000000748__Amphilophus_citrinellus,ENSNBRG00000015446__Neolamprologus_brichardi),ENSAPEG00000010149__Amphiprion_percula),ENSKMAG00000002503__Kryptolebias_marmoratus),ENSGACG00000006521__Gasterosteus_aculeatus),(ENSPREG00000004194__Poecilia_reticulata,ENSTRUG00000021554__Takifugu_rubripes)),ENSELUG00000004274__Esox_lucius);

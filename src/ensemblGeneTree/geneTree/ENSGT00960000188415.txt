@@ -1,0 +1,1 @@
+((ENSORLG00020012153__Oryzias_latipes_ASM223471v1,ENSAPOG00000002256__Acanthochromis_polyacanthus),ENSMAMG00000018452__Mastacembelus_armatus);

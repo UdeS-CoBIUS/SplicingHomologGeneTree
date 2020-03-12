@@ -1,0 +1,1 @@
+(((((ENSGACG00000015054__Gasterosteus_aculeatus,ENSTNIG00000000374__Tetraodon_nigroviridis),ENSPFOG00000016444__Poecilia_formosa),ENSGMOG00000007203__Gadus_morhua),ENSLOCG00000009366__Lepisosteus_oculatus),FBgn0036994__Drosophila_melanogaster);

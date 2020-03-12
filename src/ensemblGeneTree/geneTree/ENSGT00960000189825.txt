@@ -1,0 +1,1 @@
+(((ENSSDAG00000001422__Spermophilus_dauricus,ENSSDAG00000022951__Spermophilus_dauricus),ENSPEMG00000024307__Peromyscus_maniculatus_bairdii),ENSNSUG00000010811__Notechis_scutatus);

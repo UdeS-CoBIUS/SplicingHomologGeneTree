@@ -1,0 +1,1 @@
+(((ENSPMAG00000007429__Petromyzon_marinus,ENSEBUG00000015293__Eptatretus_burgeri),(ENSCSAVG00000011250__Ciona_savignyi,ENSCING00000019361__Ciona_intestinalis)),(FBgn0034914__Drosophila_melanogaster,WBGene00001073__Caenorhabditis_elegans_strain_N2));

@@ -1,0 +1,9 @@
+
+# reading ensemblGeneTree/sequences_0_100/ENSGT00940000163885_Aln_ByOrthoGroup.phy_phyml_lk.pv
+#   0    1+     2      9     10  |     3      4      5      6      7      8 
+# rank item    obs     au     np |     bp     pp     kh     sh    wkh    wsh |
+#    1    1  -35.0  0.999  0.999 |  0.998  1.000  0.995  0.998  0.995  1.000 |
+#    2    2  161.7  5e-65  4e-20 |      0  6e-71      0      0      0      0 |
+#    3    3   35.0  0.001  0.001 |  0.002  6e-16  0.005  0.106  0.005  0.008 |
+#    4    4  170.5 3e-148  7e-32 |      0  9e-75      0      0      0      0 |
+

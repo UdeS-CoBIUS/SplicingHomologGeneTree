@@ -1,0 +1,1 @@
+(ENSGMOG00000013145__Gadus_morhua,ENSGACG00000018190__Gasterosteus_aculeatus);

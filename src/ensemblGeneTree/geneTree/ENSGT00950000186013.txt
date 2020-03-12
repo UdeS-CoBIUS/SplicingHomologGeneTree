@@ -1,0 +1,1 @@
+(((ENSNPEG00000012723__Nothoprocta_perdicaria,ENSMUNG00000015903__Melopsittacus_undulatus),ENSCABG00000019358__Chelonoidis_abingdonii),(((ENSUPAG00010002867__Urocitellus_parryii,ENSSDAG00000020487__Spermophilus_dauricus),ENSCCNG00000004534__Castor_canadensis),(ENSUMAG00000000688__Ursus_maritimus,ENSUAMG00000020381__Ursus_americanus)));

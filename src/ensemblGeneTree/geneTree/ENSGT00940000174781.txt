@@ -1,0 +1,1 @@
+((WBGene00000923__Caenorhabditis_elegans_strain_N2,ENSPTEG00000001895__Piliocolobus_tephrosceles),YHR013C__Saccharomyces_cerevisiae_strain_S288C);

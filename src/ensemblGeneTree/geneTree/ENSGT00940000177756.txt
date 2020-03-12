@@ -1,0 +1,1 @@
+(((((ENSXMAG00000023414__Xiphophorus_maculatus,ENSGAFG00000005705__Gambusia_affinis),ENSATEG00000021492__Anabas_testudineus),ENSMMOG00000021223__Mola_mola),ENSELUG00000001753__Esox_lucius),(((ENSPNAG00000005608__Pygocentrus_nattereri,ENSAMXG00000033990__Astyanax_mexicanus),ENSIPUG00000024836__Ictalurus_punctatus),ENSDARG00000092525__Danio_rerio));

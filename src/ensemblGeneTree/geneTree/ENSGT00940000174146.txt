@@ -1,0 +1,1 @@
+((ENSMGAG00000002189__Meleagris_gallopavo,ENSTGUG00000002786__Taeniopygia_guttata),ENSMUNG00000000857__Melopsittacus_undulatus);

@@ -1,0 +1,1 @@
+(((ENSETEG00000011997__Echinops_telfairi,ENSPCAG00000013694__Procavia_capensis),(((ENSTTRG00000004393__Tursiops_truncatus,ENSPVAG00000002996__Pteropus_vampyrus),ENSEEUG00000010231__Erinaceus_europaeus),ENSOPRG00000005881__Ochotona_princeps)),ENSMEUG00000001409__Notamacropus_eugenii);

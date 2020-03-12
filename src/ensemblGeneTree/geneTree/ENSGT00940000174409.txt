@@ -1,0 +1,1 @@
+((ENSLACG00000003271__Latimeria_chalumnae,ENSLACG00000001977__Latimeria_chalumnae),ENSCCEG00000004471__Cyanistes_caeruleus);

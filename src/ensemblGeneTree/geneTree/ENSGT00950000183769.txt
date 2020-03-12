@@ -1,0 +1,1 @@
+((((ENSSHAG00000002595__Sarcophilus_harrisii,ENSPCIG00000017702__Phascolarctos_cinereus),ENSSHAG00000004322__Sarcophilus_harrisii),ENSOANG00000028276__Ornithorhynchus_anatinus),ENSLACG00000008487__Latimeria_chalumnae);

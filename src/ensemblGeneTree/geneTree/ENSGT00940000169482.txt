@@ -1,0 +1,1 @@
+((((ENSCING00000023734__Ciona_intestinalis,ENSCSAVG00000003094__Ciona_savignyi),ENSCING00000003358__Ciona_intestinalis),(ENSNSUG00000013959__Notechis_scutatus,ENSCJPG00005008563__Coturnix_japonica)),FBgn0024236__Drosophila_melanogaster);

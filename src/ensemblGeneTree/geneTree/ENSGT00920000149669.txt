@@ -1,0 +1,1 @@
+(((((ENSPFOG00000006108__Poecilia_formosa,ENSFHEG00000010518__Fundulus_heteroclitus),ENSONIG00000010759__Oreochromis_niloticus),ENSGACG00000002313__Gasterosteus_aculeatus),ENSGMOG00000015227__Gadus_morhua),ENSELUG00000013155__Esox_lucius);

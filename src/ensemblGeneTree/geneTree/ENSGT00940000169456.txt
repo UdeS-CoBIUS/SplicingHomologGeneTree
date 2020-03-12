@@ -1,0 +1,1 @@
+((((((ENSANAG00000020202__Aotus_nancymaae,ENSPSMG00000010607__Prolemur_simus),ENSMMMG00000021993__Marmota_marmota_marmota),ENSSSCG00000039810__Sus_scrofa),ENSOANG00000022495__Ornithorhynchus_anatinus),ENSXETG00000030949__Xenopus_tropicalis),((ENSCSEG00000011987__Cynoglossus_semilaevis,ENSMMOG00000000050__Mola_mola),ENSELUG00000019503__Esox_lucius));

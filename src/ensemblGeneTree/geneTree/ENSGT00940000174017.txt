@@ -1,0 +1,1 @@
+(FBgn0002522__Drosophila_melanogaster,ENSDARG00000070337__Danio_rerio);

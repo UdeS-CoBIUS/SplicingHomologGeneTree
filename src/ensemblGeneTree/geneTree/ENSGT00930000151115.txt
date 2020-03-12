@@ -1,0 +1,1 @@
+(((ENSGAFG00000011968__Gambusia_affinis,ENSPFOG00000022811__Poecilia_formosa),ENSAPOG00000005998__Acanthochromis_polyacanthus),((ENSGACG00000004561__Gasterosteus_aculeatus,ENSGACG00000004562__Gasterosteus_aculeatus),ENSTNIG00000004128__Tetraodon_nigroviridis));

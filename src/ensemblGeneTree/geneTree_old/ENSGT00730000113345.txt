@@ -1,0 +1,1 @@
+((ENSCAFG00000031329__Canis_lupus_familiaris,ENSCAFG00000030728__Canis_lupus_familiaris),ENSPNAG00000017673__Pygocentrus_nattereri);

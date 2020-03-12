@@ -1,0 +1,1 @@
+((ENSCPGG00000012060__Calidris_pygmaea,ENSABRG00000011619__Anser_brachyrhynchus),((ENSCCEG00000009834__Cyanistes_caeruleus,ENSPMJG00000002620__Parus_major),ENSSCAG00000013801__Serinus_canaria));

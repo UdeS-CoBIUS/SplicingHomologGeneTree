@@ -1,0 +1,1 @@
+(ENSPTEG00000021464__Piliocolobus_tephrosceles,ENSLAFG00000029715__Loxodonta_africana);

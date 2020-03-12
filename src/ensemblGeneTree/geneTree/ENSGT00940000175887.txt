@@ -1,0 +1,1 @@
+((((ENSMMOG00000014468__Mola_mola,ENSMMOG00000002790__Mola_mola),ENSTNIG00000012961__Tetraodon_nigroviridis),ENSSLDG00000008324__Seriola_lalandi_dorsalis),ENSATEG00000013394__Anabas_testudineus);

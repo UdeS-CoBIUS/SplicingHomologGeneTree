@@ -1,0 +1,1 @@
+((WBGene00006472__Caenorhabditis_elegans_strain_N2,ENSCING00000007716__Ciona_intestinalis),(YLR083C__Saccharomyces_cerevisiae_strain_S288C,YDR107C__Saccharomyces_cerevisiae_strain_S288C));

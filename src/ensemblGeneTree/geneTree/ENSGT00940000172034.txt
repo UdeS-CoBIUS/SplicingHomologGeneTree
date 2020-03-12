@@ -1,0 +1,1 @@
+((ENSAMXG00000012232__Astyanax_mexicanus,ENSHBUG00000017147__Haplochromis_burtoni),(ENSTGUG00000000493__Taeniopygia_guttata,ENSLSDG00000008017__Lonchura_striata_domestica));

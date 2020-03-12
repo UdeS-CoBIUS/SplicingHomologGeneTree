@@ -1,0 +1,1 @@
+((ENSSDAG00000017629__Spermophilus_dauricus,ENSSDAG00000017663__Spermophilus_dauricus),ENSCPUG00000009332__Calidris_pugnax);

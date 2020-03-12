@@ -1,0 +1,4 @@
+PERIOPHTHALMUSMAGNUSPINNATUS	periophthalmus_magnuspinnatus
+PTEROPUSVAMPYRUS	pteropus_vampyrus
+PETROMYZONMARINUS	petromyzon_marinus
+PETROMYZONMARINUS	petromyzon_marinus

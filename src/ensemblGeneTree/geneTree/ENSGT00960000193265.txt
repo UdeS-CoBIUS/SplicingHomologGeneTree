@@ -1,0 +1,1 @@
+((ENSLSDG00000012918__Lonchura_striata_domestica,ENSCPBG00000022017__Chrysemys_picta_bellii),ENSHHUG00000045217__Hucho_hucho);

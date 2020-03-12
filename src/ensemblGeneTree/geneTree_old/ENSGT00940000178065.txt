@@ -1,0 +1,1 @@
+((((ENSFHEG00000011766__Fundulus_heteroclitus,ENSGAFG00000005723__Gambusia_affinis),ENSSPAG00000001219__Stegastes_partitus),((ENSMZEG00005016874__Maylandia_zebra,ENSACLG00000023648__Astatotilapia_calliptera),ENSPNYG00000011596__Pundamilia_nyererei)),ENSSDUG00000020714__Seriola_dumerili);

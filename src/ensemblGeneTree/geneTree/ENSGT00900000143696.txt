@@ -1,0 +1,1 @@
+((((ENSUMAG00000016993__Ursus_maritimus,ENSEASG00005013404__Equus_asinus_asinus),ENSSSCG00000035427__Sus_scrofa),ENSUPAG00010015095__Urocitellus_parryii),ENSDNOG00000031619__Dasypus_novemcinctus);

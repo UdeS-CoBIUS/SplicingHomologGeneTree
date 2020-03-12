@@ -1,0 +1,1 @@
+(ENSLCOG00000013006__Lepidothrix_coronata,ENSMVIG00005006892__Manacus_vitellinus);

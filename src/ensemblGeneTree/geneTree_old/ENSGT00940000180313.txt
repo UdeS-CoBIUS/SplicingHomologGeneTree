@@ -1,0 +1,1 @@
+(((ENSPMGG00000014194__Periophthalmus_magnuspinnatus,ENSSLDG00000000394__Seriola_lalandi_dorsalis),ENSPKIG00000004703__Paramormyrops_kingsleyae),((ENSJHYG00000000567__Junco_hyemalis,ENSAPLG00000018646__Anas_platyrhynchos_platyrhynchos),ENSSDAG00000010423__Spermophilus_dauricus));

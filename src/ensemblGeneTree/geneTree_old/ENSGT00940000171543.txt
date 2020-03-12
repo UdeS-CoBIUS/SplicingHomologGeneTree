@@ -1,0 +1,1 @@
+(((ENSXETG00000033406__Xenopus_tropicalis,ENSNSUG00000004202__Notechis_scutatus),ENSACAG00000028487__Anolis_carolinensis),(((ENSPMGG00000005350__Periophthalmus_magnuspinnatus,ENSPMGG00000012856__Periophthalmus_magnuspinnatus),ENSCVAG00000021610__Cyprinodon_variegatus),ENSAMXG00000014136__Astyanax_mexicanus));

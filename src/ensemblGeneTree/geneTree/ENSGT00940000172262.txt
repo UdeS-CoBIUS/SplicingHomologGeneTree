@@ -1,0 +1,1 @@
+(((ENSAHAG00000018944__Apteryx_haastii,ENSCPGG00000018543__Calidris_pygmaea),ENSOANG00000031205__Ornithorhynchus_anatinus),ENSPMAG00000005861__Petromyzon_marinus);

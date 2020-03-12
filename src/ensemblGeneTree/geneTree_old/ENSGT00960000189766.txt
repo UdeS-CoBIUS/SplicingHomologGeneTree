@@ -1,0 +1,1 @@
+((((ENSAOWG00000008015__Apteryx_owenii,ENSARWG00000000568__Apteryx_rowi),ENSNPEG00000000547__Nothoprocta_perdicaria),ENSCABG00000022815__Chelonoidis_abingdonii),ENSNSUG00000014903__Notechis_scutatus);
