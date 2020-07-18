@@ -103,13 +103,14 @@ def sharedLeaves():
                         for record in SeqIO.parse("isoselSeq/" + tmp + "_filtered.fasta", "fasta"):
 							if cds_to_gene[record.id] in genes_used:
 								seq_from_isosel.append(record.id)                    
+                        print(seq_from_fuzzy, seq_from_isosel)
                         if len(seq_from_fuzzy) == len(seq_from_isosel):
                             shares = [e for e in seq_from_fuzzy if e in seq_from_isosel]
                             perecentage = 1.0*len(shares)/len(seq_from_fuzzy)
                             percentageSharedLeaves.append(perecentage)
                             #print(perecentage)
             except Exception as e:
-				pass
+				print(e)
 
         all_list.append(percentageSharedLeaves)
                     

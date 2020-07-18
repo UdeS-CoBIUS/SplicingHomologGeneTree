@@ -200,10 +200,11 @@ def main_stat():
 		
 		all_stat.append(stats)
 	c = "black"
-	
+	print(all_stat)
+	print(len(all_stat))	
 	plt.boxplot(all_stat,
 	                     vert=True,  # vertical box alignment
-	                     patch_artist=True,  # fill with color
+	                     #patch_artist=True,  # fill with color
                          capprops=dict(color=c),
 			             whiskerprops=dict(color=c),
 			             flierprops=dict(color=c, markeredgecolor=c),
