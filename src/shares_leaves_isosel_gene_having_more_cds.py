@@ -80,7 +80,7 @@ def sharedLeaves():
                     for k, v in tmp_dict.items():
                         if v > 1:
                             flag = True
-                            for e in genes[gene_id]:
+                            for e in genes[k]:
                                 selected_transcripts.append(e)
             
                     if flag == False:
@@ -88,7 +88,7 @@ def sharedLeaves():
                     else:                           
                         fuzy = open(x, "r")
                         lines = fuzy.readlines()
-                        if len(lines)>2:
+                        if len(lines)>=2:
                             line = lines[1]
                             line = line.replace("\n", "")
                             seq_from_fuzzy = line.split("\t")
@@ -98,16 +98,6 @@ def sharedLeaves():
                             for record in SeqIO.parse("isoselSeq/" + tmp + "_filtered.fasta", "fasta"):
                                 seq_from_isosel.append(record.id)                    
 
-                            for e in seq_from_isosel:
-                                if e in  selected_transcripts:
-                                    seq_from_isosel.remove(e)
-
-                            for e in seq_from_fuzzy:
-                                if e in  selected_transcripts:
-                                    seq_from_fuzzy.remove(e)
-                                                            
-                            #print(seq_from_isosel)
-                            #print(seq_from_fuzzy)
                             if len(seq_from_fuzzy) == len(seq_from_isosel):
                                 shares = [e for e in seq_from_fuzzy if e in seq_from_isosel]
                                 perecentage = 1.0*len(shares)/len(seq_from_fuzzy)
@@ -119,10 +109,10 @@ def sharedLeaves():
                     
 
     c = "black"
-    print(all_list)
+
     plt.boxplot(all_list,
                          vert=True,  # vertical box alignment
-                         #patch_artist=True,  # fill with color
+                         patch_artist=True,  # fill with color
                          capprops=dict(color=c),
                          whiskerprops=dict(color=c),
                          flierprops=dict(color=c, markeredgecolor=c),

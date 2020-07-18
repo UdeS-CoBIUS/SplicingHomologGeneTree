@@ -66,29 +66,23 @@ def sharedLeaves():
                         tmp_dict[gene_id] += 1
                     else:
                         tmp_dict[gene_id] = 1
-                for k, v in tmp_dict.items():
-                    if v!=1:
-                        flag = True
-        
-                if flag == False:
-                    pass
-                else:                           
-                    fuzy = open(x, "r")
-                    lines = fuzy.readlines()
-                    if len(lines)>2:
-                        line = lines[1]
-                        line = line.replace("\n", "")
-                        seq_from_fuzzy = line.split("\t")
-                        #print(seq_from_fuzzy)
-                                            
-                        seq_from_isosel = []
-                        for record in SeqIO.parse("isoselSeq/" + tmp + "_filtered.fasta", "fasta"):
-                            seq_from_isosel.append(record.id)                    
+            
+                fuzy = open(x, "r")
+                lines = fuzy.readlines()
+                if len(lines)>=2:
+                    line = lines[1]
+                    line = line.replace("\n", "")
+                    seq_from_fuzzy = line.split("\t")
+                    #print(seq_from_fuzzy)
+                                        
+                    seq_from_isosel = []
+                    for record in SeqIO.parse("isoselSeq/" + tmp + "_filtered.fasta", "fasta"):
+                        seq_from_isosel.append(record.id)                    
 
-                        if len(seq_from_fuzzy) == len(seq_from_isosel):
-                            shares = [e for e in seq_from_fuzzy if e in seq_from_isosel]
-                            perecentage = 1.0*len(shares)/len(seq_from_fuzzy)
-                            percentageSharedLeaves.append(perecentage)
+                    if len(seq_from_fuzzy) == len(seq_from_isosel):
+                        shares = [e for e in seq_from_fuzzy if e in seq_from_isosel]
+                        perecentage = 1.0*len(shares)/len(seq_from_fuzzy)
+                        percentageSharedLeaves.append(perecentage)
                             #print(perecentage)
             except:
                 pass
@@ -98,7 +92,7 @@ def sharedLeaves():
     c = "black"
     plt.boxplot(all_list,
 	                     vert=True,  # vertical box alignment
-	                     #patch_artist=True,  # fill with color
+	                     patch_artist=True,  # fill with color
                          capprops=dict(color=c),
 			             whiskerprops=dict(color=c),
 			             flierprops=dict(color=c, markeredgecolor=c),
