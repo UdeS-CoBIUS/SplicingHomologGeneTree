@@ -100,6 +100,10 @@ python2.7 ratio_SHT_LT.py
 #Ratio value classes Ratio percentage
 python2.7 ratio_value_classes.py
 
+#Number of all gene families used, and, number of gene families with gene having
+#more than one transcript
+python2.7 geneFamiliesCount.py
+
 #Number of CDS per gene
 python2.7 transcript_per_gene.py
 
