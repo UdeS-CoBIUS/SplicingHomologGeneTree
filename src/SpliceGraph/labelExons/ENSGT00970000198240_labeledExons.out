@@ -1,0 +1,28 @@
+>0
+ENSCMIT00000020696: ['no event', 42, 0]
+ENSCMIT00000020699: ['exon skipping', 0, 0]
+ENSCMIT00000020702: ['exon skipping', 0, 0]
+>1
+ENSCMIT00000020696: ['exon skipping', 0, 0]
+ENSCMIT00000020699: ['5event', 42, 0]
+ENSCMIT00000020702: ['5event', 42, 0]
+>2
+ENSCMIT00000020696: ['5event', 305, 1]
+ENSCMIT00000020699: ['no event', 306, 1]
+ENSCMIT00000020702: ['no event', 306, 1]
+>3
+ENSCMIT00000020696: ['no event', 260, 1]
+ENSCMIT00000020699: ['no event', 260, 1]
+ENSCMIT00000020702: ['no event', 260, 1]
+>4
+ENSCMIT00000020696: ['no event', 87, 1]
+ENSCMIT00000020699: ['no event', 87, 1]
+ENSCMIT00000020702: ['no event', 87, 1]
+>5
+ENSCMIT00000020696: ['exon skipping', 0, 0]
+ENSCMIT00000020699: ['exon skipping', 0, 0]
+ENSCMIT00000020702: ['no event', 13, 2]
+>6
+ENSCMIT00000020696: ['3event', '5event', 19, 2]
+ENSCMIT00000020699: ['3event', '5event', 19, 2]
+ENSCMIT00000020702: ['no event', 112, 1]

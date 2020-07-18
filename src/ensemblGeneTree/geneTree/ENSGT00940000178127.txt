@@ -1,0 +1,1 @@
+(((((ENSPNAG00000013686__Pygocentrus_nattereri,ENSPNAG00000008087__Pygocentrus_nattereri),ENSPNAG00000001450__Pygocentrus_nattereri),ENSPNAG00000010660__Pygocentrus_nattereri),(ENSTRUG00000024214__Takifugu_rubripes,ENSFHEG00000021131__Fundulus_heteroclitus)),ENSFALG00000010241__Ficedula_albicollis);

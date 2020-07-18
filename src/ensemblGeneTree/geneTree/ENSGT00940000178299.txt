@@ -1,0 +1,1 @@
+(((((ENSFHEG00000017250__Fundulus_heteroclitus,ENSPLAG00000008864__Poecilia_latipinna),ENSNBRG00000001212__Neolamprologus_brichardi),ENSELUG00000004234__Esox_lucius),ENSAMXG00000030541__Astyanax_mexicanus),ENSPKIG00000011436__Paramormyrops_kingsleyae);

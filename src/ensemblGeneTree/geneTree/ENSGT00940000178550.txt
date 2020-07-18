@@ -1,0 +1,1 @@
+(((ENSPMEG00000001410__Poecilia_mexicana,ENSPMEG00000019283__Poecilia_mexicana),(ENSORLG00020013636__Oryzias_latipes_ASM223471v1,ENSOMEG00000020470__Oryzias_melastigma)),ENSSPAG00000017823__Stegastes_partitus);

@@ -1,0 +1,18 @@
+>0
+T08B2.2.1: ['no event', 140, 0]
+C09G5.3.1: ['no event', 140, 0]
+>1
+T08B2.2.1: ['no event', 67, 0]
+C09G5.3.1: ['exon skipping', 0, 0]
+>2
+T08B2.2.1: [['internal gap >= 30', 484, 240], 489, 2]
+C09G5.3.1: ['5event', ['internal gap < 30', 431, 20], 709, 0]
+>3
+T08B2.2.1: ['no event', 76, 1]
+C09G5.3.1: ['exon skipping', 0, 0]
+>4
+T08B2.2.1: ['no event', 191, 0]
+C09G5.3.1: ['exon skipping', 0, 0]
+>5
+T08B2.2.1: ['exon skipping', 0, 0]
+C09G5.3.1: ['only gap', 0, 2]

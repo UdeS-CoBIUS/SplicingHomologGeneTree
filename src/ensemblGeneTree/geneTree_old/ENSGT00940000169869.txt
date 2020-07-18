@@ -1,1 +1,0 @@
-(((ENSCSAVG00000009392__Ciona_savignyi,ENSCING00000022617__Ciona_intestinalis),WBGene00009078__Caenorhabditis_elegans_strain_N2),YHR143W-A__Saccharomyces_cerevisiae_strain_S288C);

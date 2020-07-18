@@ -1,0 +1,1 @@
+(ENSPTRG00000047772__Pan_troglodytes,ENSUAMG00000018987__Ursus_americanus);

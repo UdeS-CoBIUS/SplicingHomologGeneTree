@@ -1,0 +1,1 @@
+((((((ENSOMEG00000022135__Oryzias_melastigma,ENSOMEG00000014489__Oryzias_melastigma),ENSORLG00015002634__Oryzias_latipes_ASM223469v1),ENSNBRG00000011419__Neolamprologus_brichardi),ENSELUG00000022700__Esox_lucius),ENSPKIG00000001083__Paramormyrops_kingsleyae),ENSCJPG00005000098__Coturnix_japonica);

@@ -1,0 +1,1 @@
+((((ENSPTIG00000009508__Panthera_tigris_altaica,ENSPPRG00000018543__Panthera_pardus),ENSFCAG00000045443__Felis_catus),(ENSBMUG00000019145__Bos_mutus,ENSBBBG00000025084__Bison_bison_bison)),((ENSG00000215174__Homo_sapiens,ENSPANG00000032089__Papio_anubis),ENSCJAG00000045736__Callithrix_jacchus));

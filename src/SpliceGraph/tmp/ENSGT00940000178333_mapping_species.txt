@@ -1,0 +1,8 @@
+GAMBUSIAAFFINIS	gambusia_affinis
+POECILIAMEXICANA	poecilia_mexicana
+POECILIARETICULATA	poecilia_reticulata
+PERIOPHTHALMUSMAGNUSPINNATUS	periophthalmus_magnuspinnatus
+ASTYANAXMEXICANUS	astyanax_mexicanus
+SCLEROPAGESFORMOSUS	scleropages_formosus
+MARMOTAMARMOTAMARMOTA	marmota_marmota_marmota
+SPERMOPHILUSDAURICUS	spermophilus_dauricus

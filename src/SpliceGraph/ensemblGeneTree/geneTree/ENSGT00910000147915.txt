@@ -1,0 +1,1 @@
+((((ENSMFAG00000007610__Macaca_fascicularis,ENSMMUG00000041628__Macaca_mulatta),ENSCANG00000042125__Colobus_angolensis_palliatus),ENSANAG00000028963__Aotus_nancymaae),ENSVVUG00000001953__Vulpes_vulpes);

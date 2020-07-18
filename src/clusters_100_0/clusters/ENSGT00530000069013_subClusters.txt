@@ -1,0 +1,6 @@
+>cluster_0
+H01G02.4.2
+>cluster_1
+H01G02.4.1
+>cluster_2
+F19B6.3.1	H01G02.4.3

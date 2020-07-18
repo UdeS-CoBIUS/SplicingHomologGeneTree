@@ -1,0 +1,1 @@
+(((ENSPTEG00000037221__Piliocolobus_tephrosceles,ENSTGEG00000001042__Theropithecus_gelada),ENSMUGG00000022373__Meriones_unguiculatus),(ENSSSCG00000038665__Sus_scrofa,ENSVVUG00000003314__Vulpes_vulpes));

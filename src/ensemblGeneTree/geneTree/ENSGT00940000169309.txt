@@ -1,0 +1,1 @@
+(((((((ENSPNAG00000021697__Pygocentrus_nattereri,ENSPNAG00000018970__Pygocentrus_nattereri),ENSAMXG00000006057__Astyanax_mexicanus),ENSIPUG00000018117__Ictalurus_punctatus),ENSDARG00000008022__Danio_rerio),ENSEBUG00000015071__Eptatretus_burgeri),FBgn0004379__Drosophila_melanogaster),YGL216W__Saccharomyces_cerevisiae_strain_S288C);

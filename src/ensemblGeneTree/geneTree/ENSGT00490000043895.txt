@@ -1,0 +1,1 @@
+(ENSOARG00000004297__Ovis_aries,ENSVPAG00000003580__Vicugna_pacos);

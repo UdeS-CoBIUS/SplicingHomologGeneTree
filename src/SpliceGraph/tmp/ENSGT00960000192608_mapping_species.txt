@@ -1,0 +1,2 @@
+MUSSPICILEGUS	mus_spicilegus
+RATTUSNORVEGICUS	rattus_norvegicus

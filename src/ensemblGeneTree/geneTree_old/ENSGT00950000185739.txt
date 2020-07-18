@@ -1,1 +1,0 @@
-(ENSFALG00000014699__Ficedula_albicollis,ENSUMAG00000021321__Ursus_maritimus);

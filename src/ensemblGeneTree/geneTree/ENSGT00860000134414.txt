@@ -1,0 +1,1 @@
+(((ENSPVAG00000006851__Pteropus_vampyrus,ENSTBEG00000003216__Tupaia_belangeri),ENSCHOG00000007498__Choloepus_hoffmanni),(ENSCHOG00000011208__Choloepus_hoffmanni,ENSTBEG00000009459__Tupaia_belangeri));

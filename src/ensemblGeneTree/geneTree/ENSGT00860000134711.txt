@@ -1,0 +1,1 @@
+((ENSMODG00000028330__Monodelphis_domestica,ENSMODG00000028972__Monodelphis_domestica),ENSPSIG00000000283__Pelodiscus_sinensis);

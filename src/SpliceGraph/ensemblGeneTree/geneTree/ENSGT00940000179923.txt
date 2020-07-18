@@ -1,0 +1,1 @@
+((ENSSDUG00000022148__Seriola_dumerili,ENSMALG00000001813__Monopterus_albus),ENSSPAG00000015845__Stegastes_partitus);

@@ -1,0 +1,1 @@
+((ENSUMAG00000023583__Ursus_maritimus,ENSUAMG00000020202__Ursus_americanus),ENSMSIG00000025570__Mus_spicilegus);

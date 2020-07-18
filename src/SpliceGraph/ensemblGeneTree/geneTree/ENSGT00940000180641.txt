@@ -1,0 +1,1 @@
+(((ENSUAMG00000027991__Ursus_americanus,ENSNSUG00000015653__Notechis_scutatus),(ENSJHYG00000014065__Junco_hyemalis,ENSLCOG00000011917__Lepidothrix_coronata)),(ENSAPOG00000019030__Acanthochromis_polyacanthus,ENSAPOG00000000533__Acanthochromis_polyacanthus));

@@ -1,0 +1,1 @@
+((ENSSDUG00000018510__Seriola_dumerili,ENSCSEG00000016398__Cynoglossus_semilaevis),(((ENSGAFG00000015915__Gambusia_affinis,ENSPLAG00000022068__Poecilia_latipinna),ENSXCOG00000015839__Xiphophorus_couchianus),ENSLBEG00000006926__Labrus_bergylta));

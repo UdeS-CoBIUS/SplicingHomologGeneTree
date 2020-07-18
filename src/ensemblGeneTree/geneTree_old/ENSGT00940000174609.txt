@@ -1,1 +1,0 @@
-(ENSFALG00000014890__Ficedula_albicollis,ENSFALG00000001983__Ficedula_albicollis);

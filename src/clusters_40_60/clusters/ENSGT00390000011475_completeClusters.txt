@@ -1,0 +1,2 @@
+>completeCluster_0
+ZK632.11.1	Y34D9A.7b.1	FBtr0300490

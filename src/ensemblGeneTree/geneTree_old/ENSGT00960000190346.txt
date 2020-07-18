@@ -1,1 +1,0 @@
-((ENSCCNG00000026238__Castor_canadensis,ENSSDAG00000011426__Spermophilus_dauricus),ENSCGRG00015018190__Cricetulus_griseus_CriGri-PICR);

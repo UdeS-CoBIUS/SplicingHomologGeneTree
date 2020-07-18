@@ -1,0 +1,5 @@
+BOSTAURUS	bos_taurus
+BOSMUTUS	bos_mutus
+BOSINDICUS	bos_indicus
+BOSINDICUS	bos_indicus
+BISONBISON	bison_bison

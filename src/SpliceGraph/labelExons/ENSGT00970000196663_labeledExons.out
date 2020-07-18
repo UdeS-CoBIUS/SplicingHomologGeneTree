@@ -1,0 +1,32 @@
+>0
+F30A10.4.1: ['5event', 56, 0]
+R07B7.6a.1: ['3event', 60, 0]
+R07B7.6b.1: ['exon skipping', 0, 0]
+>1
+F30A10.4.1: [['internal gap < 30', 41, 8], 119, 0]
+R07B7.6a.1: ['3event', '5event', 102, 0]
+R07B7.6b.1: ['exon skipping', 0, 0]
+>2
+F30A10.4.1: [['internal gap < 30', 54, 16], 102, 0]
+R07B7.6a.1: ['5event', 112, 0]
+R07B7.6b.1: ['5event', 19, 0]
+>3
+F30A10.4.1: ['no event', 465, 2]
+R07B7.6a.1: ['no event', 465, 2]
+R07B7.6b.1: ['no event', 465, 2]
+>4
+F30A10.4.1: ['no event', 153, 0]
+R07B7.6a.1: ['no event', 153, 0]
+R07B7.6b.1: ['no event', 153, 0]
+>5
+F30A10.4.1: [['internal gap >= 30', 148, 43], 255, 1]
+R07B7.6a.1: [['internal gap >= 30', 148, 43], 255, 1]
+R07B7.6b.1: [['internal gap >= 30', 148, 43], 255, 1]
+>6
+F30A10.4.1: ['no event', 130, 2]
+R07B7.6a.1: ['no event', 130, 2]
+R07B7.6b.1: ['no event', 130, 2]
+>7
+F30A10.4.1: [['internal gap >= 30', 118, 48], 175, 1]
+R07B7.6a.1: [['internal gap >= 30', 118, 48], 175, 1]
+R07B7.6b.1: [['internal gap >= 30', 118, 48], 175, 1]

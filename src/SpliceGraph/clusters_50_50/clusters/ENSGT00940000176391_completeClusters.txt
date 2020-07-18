@@ -1,0 +1,2 @@
+>completeCluster_0
+YIL120W_mRNA	YIL121W_mRNA	YNL065W_mRNA

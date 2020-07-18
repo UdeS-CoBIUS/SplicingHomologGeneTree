@@ -1,1 +1,0 @@
-((((ENSGAGG00000006331__Gopherus_agassizii,ENSGAGG00000006332__Gopherus_agassizii),ENSCABG00000020289__Chelonoidis_abingdonii),ENSCPBG00000005147__Chrysemys_picta_bellii),ENSNSUG00000010780__Notechis_scutatus);

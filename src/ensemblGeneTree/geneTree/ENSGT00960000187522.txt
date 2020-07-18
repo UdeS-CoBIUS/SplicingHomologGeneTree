@@ -1,0 +1,1 @@
+((((ENSLBEG00000029017__Labrus_bergylta,ENSTRUG00000019717__Takifugu_rubripes),ENSPNAG00000009034__Pygocentrus_nattereri),ENSPKIG00000003474__Paramormyrops_kingsleyae),ENSLSDG00000011340__Lonchura_striata_domestica);

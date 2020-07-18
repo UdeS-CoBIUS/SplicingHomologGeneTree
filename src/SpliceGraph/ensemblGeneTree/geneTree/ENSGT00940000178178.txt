@@ -1,0 +1,1 @@
+(((((ENSNBRG00000019222__Neolamprologus_brichardi,ENSMZEG00005008000__Maylandia_zebra),ENSAPOG00000011238__Acanthochromis_polyacanthus),ENSFHEG00000015493__Fundulus_heteroclitus),ENSHBUG00000001150__Haplochromis_burtoni),ENSPMGG00000013655__Periophthalmus_magnuspinnatus);

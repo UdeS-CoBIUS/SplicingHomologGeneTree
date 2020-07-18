@@ -1,0 +1,3 @@
+AMPHIPRIONOCELLARIS	amphiprion_ocellaris
+AMPHIPRIONPERCULA	amphiprion_percula
+ACANTHOCHROMISPOLYACANTHUS	acanthochromis_polyacanthus

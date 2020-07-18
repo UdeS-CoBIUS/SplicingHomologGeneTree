@@ -1,1 +1,0 @@
-(ENSLCOG00000008791__Lepidothrix_coronata,ENSNPEG00000015516__Nothoprocta_perdicaria);

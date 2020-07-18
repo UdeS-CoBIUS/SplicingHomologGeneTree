@@ -1,0 +1,1 @@
+(((ENSPTIG00000020669__Panthera_tigris_altaica,ENSFCAG00000033950__Felis_catus),ENSPPRG00000012089__Panthera_pardus),ENSCHOG00000004756__Choloepus_hoffmanni);

@@ -1,0 +1,16 @@
+>0
+ENSCATT00000057722: ['no event', 83, 0]
+ENSPTET00000000821: ['no event', 83, 0]
+ENSCCAT00000044825: [['internal gap < 30', 31, 3], 80, 0]
+>1
+ENSCATT00000057722: ['no event', 62, 0]
+ENSPTET00000000821: [['internal gap < 30', 19, 3], 59, 0]
+ENSCCAT00000044825: ['no event', 62, 0]
+>2
+ENSCATT00000057722: ['exon skipping', 0, 0]
+ENSPTET00000000821: ['exon skipping', 0, 0]
+ENSCCAT00000044825: ['no event', 17, 0]
+>3
+ENSCATT00000057722: ['exon skipping', 0, 0]
+ENSPTET00000000821: ['exon skipping', 0, 0]
+ENSCCAT00000044825: ['no event', 119, 0]

@@ -1,0 +1,7 @@
+THEROPITHECUSGELADA	theropithecus_gelada
+THEROPITHECUSGELADA	theropithecus_gelada
+PILIOCOLOBUSTEPHROSCELES	piliocolobus_tephrosceles
+PANPANISCUS	pan_paniscus
+GORILLAGORILLA	gorilla_gorilla
+PANTROGLODYTES	pan_troglodytes
+NOMASCUSLEUCOGENYS	nomascus_leucogenys

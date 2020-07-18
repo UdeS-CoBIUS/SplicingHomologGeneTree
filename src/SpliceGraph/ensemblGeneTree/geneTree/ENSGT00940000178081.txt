@@ -1,0 +1,1 @@
+((((ENSXCOG00000017616__Xiphophorus_couchianus,ENSPMEG00000002252__Poecilia_mexicana),((ENSHBUG00000011948__Haplochromis_burtoni,ENSACLG00000024944__Astatotilapia_calliptera),ENSACIG00000008166__Amphilophus_citrinellus)),ENSMMOG00000008689__Mola_mola),ENSPKIG00000001558__Paramormyrops_kingsleyae);

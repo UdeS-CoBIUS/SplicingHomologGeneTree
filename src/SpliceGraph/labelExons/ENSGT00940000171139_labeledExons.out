@@ -1,0 +1,39 @@
+>0
+ENSCPGT00000029110: ['no event', 108, 0]
+ENSCPUT00000009288: ['no event', 108, 0]
+>1
+ENSCPGT00000029110: ['no event', 99, 1]
+ENSCPUT00000009288: ['no event', 99, 1]
+>2
+ENSCPGT00000029110: ['no event', 91, 2]
+ENSCPUT00000009288: [['internal gap < 30', 2, 3], 88, 2]
+>3
+ENSCPGT00000029110: ['no event', 15, 1]
+ENSCPUT00000009288: ['no event', 15, 1]
+>4
+ENSCPGT00000029110: ['no event', 204, 2]
+ENSCPUT00000009288: ['no event', 204, 2]
+>5
+ENSCPGT00000029110: ['no event', 60, 0]
+ENSCPUT00000009288: ['no event', 60, 0]
+>6
+ENSCPGT00000029110: ['no event', 91, 1]
+ENSCPUT00000009288: ['no event', 91, 1]
+>7
+ENSCPGT00000029110: ['no event', 227, 0]
+ENSCPUT00000009288: ['no event', 227, 0]
+>8
+ENSCPGT00000029110: ['no event', 164, 0]
+ENSCPUT00000009288: ['no event', 164, 0]
+>9
+ENSCPGT00000029110: ['no event', 56, 0]
+ENSCPUT00000009288: ['no event', 56, 0]
+>10
+ENSCPGT00000029110: ['no event', 63, 0]
+ENSCPUT00000009288: ['no event', 63, 0]
+>11
+ENSCPGT00000029110: ['no event', 76, 1]
+ENSCPUT00000009288: ['no event', 76, 1]
+>12
+ENSCPGT00000029110: ['no event', 68, 0]
+ENSCPUT00000009288: ['no event', 68, 0]

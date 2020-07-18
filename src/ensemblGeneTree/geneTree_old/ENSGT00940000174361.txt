@@ -1,1 +1,0 @@
-(((((ENSPNYG00000002450__Pundamilia_nyererei,ENSPMEG00000017716__Poecilia_mexicana),ENSSMAG00000009152__Scophthalmus_maximus),((ENSAPOG00000018723__Acanthochromis_polyacanthus,ENSSDUG00000014737__Seriola_dumerili),ENSHCOG00000011342__Hippocampus_comes)),ENSELUG00000007926__Esox_lucius),(ENSPMAG00000008481__Petromyzon_marinus,ENSPMAG00000008810__Petromyzon_marinus));

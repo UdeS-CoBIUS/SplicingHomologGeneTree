@@ -1,0 +1,1 @@
+(((ENSSPAG00000021034__Stegastes_partitus,ENSAOCG00000005248__Amphiprion_ocellaris),ENSKMAG00000011577__Kryptolebias_marmoratus),(ENSSMAG00000009356__Scophthalmus_maximus,ENSLBEG00000022168__Labrus_bergylta));

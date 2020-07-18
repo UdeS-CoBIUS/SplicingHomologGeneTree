@@ -1,0 +1,1 @@
+((ENSSMAG00000013426__Scophthalmus_maximus,ENSCSEG00000007192__Cynoglossus_semilaevis),(ENSPMEG00000004367__Poecilia_mexicana,ENSCVAG00000019369__Cyprinodon_variegatus));

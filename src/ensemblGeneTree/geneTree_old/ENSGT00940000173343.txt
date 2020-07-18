@@ -1,1 +1,0 @@
-(ENSONIG00000017039__Oreochromis_niloticus,ENSDARG00000096897__Danio_rerio);

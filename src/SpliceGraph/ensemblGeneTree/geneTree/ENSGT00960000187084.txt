@@ -1,0 +1,1 @@
+(((((ENSACLG00000017637__Astatotilapia_calliptera,ENSPNYG00000012816__Pundamilia_nyererei),ENSACLG00000017647__Astatotilapia_calliptera),ENSACIG00000002557__Amphilophus_citrinellus),((ENSMMOG00000003015__Mola_mola,ENSTRUG00000020285__Takifugu_rubripes),ENSMALG00000008724__Monopterus_albus)),ENSSFOG00015023874__Scleropages_formosus);

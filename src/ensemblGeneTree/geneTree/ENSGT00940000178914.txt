@@ -1,0 +1,1 @@
+(((ENSSPAG00000011243__Stegastes_partitus,ENSSPAG00000018405__Stegastes_partitus),ENSXCOG00000003894__Xiphophorus_couchianus),ENSTRUG00000025727__Takifugu_rubripes);

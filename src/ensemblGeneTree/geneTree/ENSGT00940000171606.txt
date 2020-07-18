@@ -1,0 +1,1 @@
+((((ENSPCOG00000025606__Propithecus_coquereli,ENSMICG00000036424__Microcebus_murinus),(ENSMSIG00000001036__Mus_spicilegus,ENSMMMG00000002848__Marmota_marmota_marmota)),ENSNVIG00000018827__Neovison_vison),ENSPCIG00000013992__Phascolarctos_cinereus);

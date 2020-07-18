@@ -1,1 +1,0 @@
-(((ENSBMUG00000015931__Bos_mutus,ENSBTAG00000050008__Bos_taurus),ENSSSCG00000035484__Sus_scrofa),((ENSCJAG00000040915__Callithrix_jacchus,ENSANAG00000019321__Aotus_nancymaae),((ENSRROG00000021349__Rhinopithecus_roxellana,ENSPTEG00000002072__Piliocolobus_tephrosceles),(ENSPANG00000031851__Papio_anubis,ENSTGEG00000001558__Theropithecus_gelada))));

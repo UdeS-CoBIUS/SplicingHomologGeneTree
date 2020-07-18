@@ -1,1 +1,0 @@
-(((ENSDNOG00000032664__Dasypus_novemcinctus,ENSOARG00000019504__Ovis_aries),ENSMODG00000023212__Monodelphis_domestica),ENSPSIG00000009929__Pelodiscus_sinensis);

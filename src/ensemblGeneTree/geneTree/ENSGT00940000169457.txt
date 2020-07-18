@@ -1,0 +1,1 @@
+((((((ENSBMUG00000001029__Bos_mutus,ENSBTAG00000052909__Bos_taurus),ENSBBBG00000023611__Bison_bison_bison),ENSBIXG00005005030__Bos_indicus_x_Bos_taurus_UOA_Brahman_1),ENSUMAG00000023211__Ursus_maritimus),ENSOPRG00000012446__Ochotona_princeps),(ENSCHOG00000007986__Choloepus_hoffmanni,ENSPCAG00000001393__Procavia_capensis));

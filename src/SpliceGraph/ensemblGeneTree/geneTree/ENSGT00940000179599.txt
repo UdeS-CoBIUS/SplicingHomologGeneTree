@@ -1,0 +1,1 @@
+((ENSTRUG00000010211__Takifugu_rubripes,ENSMMOG00000007042__Mola_mola),ENSMAMG00000018437__Mastacembelus_armatus);

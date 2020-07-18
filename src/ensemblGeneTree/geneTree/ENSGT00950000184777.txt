@@ -1,0 +1,1 @@
+(((ENSAMEG00000019607__Ailuropoda_melanoleuca,ENSVVUG00000013284__Vulpes_vulpes),ENSBBBG00000002707__Bison_bison_bison),ENSETEG00000001170__Echinops_telfairi);

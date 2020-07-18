@@ -1,0 +1,1 @@
+(((ENSMUGG00000012945__Meriones_unguiculatus,ENSCGRG00015010256__Cricetulus_griseus_CriGri-PICR),(ENSTGEG00000010504__Theropithecus_gelada,ENSPPYG00000007517__Pongo_abelii)),((ENSUAMG00000020433__Ursus_americanus,ENSUMAG00000018124__Ursus_maritimus),ENSNVIG00000007336__Neovison_vison));

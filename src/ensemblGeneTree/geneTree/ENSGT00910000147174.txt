@@ -1,0 +1,1 @@
+(((ENSPPAG00000034238__Pan_paniscus,ENSPTRG00000046056__Pan_troglodytes),ENSNLEG00000033304__Nomascus_leucogenys),(((ENSRBIG00000043698__Rhinopithecus_bieti,ENSRROG00000042386__Rhinopithecus_roxellana),ENSCANG00000034107__Colobus_angolensis_palliatus),((ENSCATG00000037549__Cercocebus_atys,ENSMLEG00000044201__Mandrillus_leucophaeus),ENSPANG00000032010__Papio_anubis)));

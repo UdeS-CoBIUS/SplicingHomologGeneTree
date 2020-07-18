@@ -1,0 +1,1 @@
+(((ENSPLAG00000014910__Poecilia_latipinna,ENSPMEG00000018723__Poecilia_mexicana),ENSAPOG00000005265__Acanthochromis_polyacanthus),(ENSCSEG00000009285__Cynoglossus_semilaevis,ENSPMGG00000007683__Periophthalmus_magnuspinnatus));

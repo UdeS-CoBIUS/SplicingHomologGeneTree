@@ -1,0 +1,1 @@
+((ENSCPGG00000004264__Calidris_pygmaea,ENSCJPG00005002815__Coturnix_japonica),ENSPMGG00000022023__Periophthalmus_magnuspinnatus);

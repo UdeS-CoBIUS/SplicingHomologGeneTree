@@ -1,1 +1,0 @@
-((((ENSCPBG00000025187__Chrysemys_picta_bellii,ENSGAGG00000003815__Gopherus_agassizii),ENSTGEG00000022672__Theropithecus_gelada),(ENSAOWG00000018430__Apteryx_owenii,ENSAOWG00000018153__Apteryx_owenii)),(ENSPNAG00000022936__Pygocentrus_nattereri,ENSSFOG00015008113__Scleropages_formosus));

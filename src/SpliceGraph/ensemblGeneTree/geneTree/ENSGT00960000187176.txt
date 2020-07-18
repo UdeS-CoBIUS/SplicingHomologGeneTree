@@ -1,0 +1,1 @@
+((((ENSSMRG00000015741__Salvator_merianae,ENSSMRG00000019072__Salvator_merianae),ENSXETG00000013109__Xenopus_tropicalis),(((ENSPMGG00000013766__Periophthalmus_magnuspinnatus,ENSHCOG00000001124__Hippocampus_comes),ENSMAMG00000009796__Mastacembelus_armatus),ENSGMOG00000018247__Gadus_morhua)),ENSEBUG00000011190__Eptatretus_burgeri);

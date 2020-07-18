@@ -1,0 +1,1 @@
+((ENSSDAG00000007745__Spermophilus_dauricus,ENSSDAG00000007739__Spermophilus_dauricus),ENSTSYG00000025766__Carlito_syrichta);

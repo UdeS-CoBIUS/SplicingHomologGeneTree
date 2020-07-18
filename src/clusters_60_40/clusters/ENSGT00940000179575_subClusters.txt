@@ -1,0 +1,4 @@
+>cluster_0
+YCR097W-A_mRNA	YCR041W_mRNA
+>cluster_1
+YCL065W_mRNA

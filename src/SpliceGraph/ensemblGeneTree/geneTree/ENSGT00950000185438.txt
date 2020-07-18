@@ -1,0 +1,1 @@
+((((ENSBMUG00000014471__Bos_mutus,ENSBTAG00000051484__Bos_taurus),ENSBBBG00000019226__Bison_bison_bison),((ENSUAMG00000022651__Ursus_americanus,ENSUMAG00000023661__Ursus_maritimus),ENSNVIG00000009591__Neovison_vison)),ENSCCNG00000005708__Castor_canadensis);

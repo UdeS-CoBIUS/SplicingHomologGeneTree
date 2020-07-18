@@ -1,0 +1,1 @@
+(((((ENSPNYG00000023302__Pundamilia_nyererei,ENSNBRG00000021245__Neolamprologus_brichardi),ENSACIG00000018233__Amphilophus_citrinellus),ENSFHEG00000003178__Fundulus_heteroclitus),ENSATEG00000011347__Anabas_testudineus),ENSCSEG00000015745__Cynoglossus_semilaevis);

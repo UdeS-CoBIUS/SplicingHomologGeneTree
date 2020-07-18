@@ -1,0 +1,1 @@
+((ENSSDUG00000023846__Seriola_dumerili,ENSSDUG00000023845__Seriola_dumerili),(ENSSLDG00000007167__Seriola_lalandi_dorsalis,ENSSLDG00000007177__Seriola_lalandi_dorsalis));

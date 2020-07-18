@@ -1,0 +1,4 @@
+MACACAFASCICULARIS	macaca_fascicularis
+MACACAMULATTA	macaca_mulatta
+PAPIOANUBIS	papio_anubis
+MANDRILLUSLEUCOPHAEUS	mandrillus_leucophaeus

@@ -1,0 +1,1 @@
+(((ENSNPEG00000010286__Nothoprocta_perdicaria,ENSDNVG00000000852__Dromaius_novaehollandiae),((ENSTBEG00000013480__Tupaia_belangeri,ENSCAPG00000017732__Cavia_aperea),ENSEEUG00000003285__Erinaceus_europaeus)),WBGene00001041__Caenorhabditis_elegans_strain_N2);

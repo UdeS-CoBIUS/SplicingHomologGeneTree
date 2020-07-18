@@ -1,0 +1,1 @@
+(((ENSVPAG00000012447__Vicugna_pacos,ENSMLUG00000028561__Myotis_lucifugus),(((ENSMLEG00000042226__Mandrillus_leucophaeus,ENSPANG00000031592__Papio_anubis),ENSCANG00000038164__Colobus_angolensis_palliatus),ENSCAPG00000008653__Cavia_aperea)),ENSCING00000003998__Ciona_intestinalis);

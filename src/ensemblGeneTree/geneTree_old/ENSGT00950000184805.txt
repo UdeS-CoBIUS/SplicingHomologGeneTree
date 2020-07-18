@@ -1,1 +1,0 @@
-((ENSSARG00000009552__Sorex_araneus,ENSEEUG00000010804__Erinaceus_europaeus),ENSLSDG00000012084__Lonchura_striata_domestica);

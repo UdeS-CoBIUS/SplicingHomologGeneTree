@@ -1,0 +1,12 @@
+>0
+ENSVVUT00000015486: ['no event', 119, 0]
+ENSUMAT00000000225: ['no event', 119, 0]
+>1
+ENSVVUT00000015486: ['no event', 101, 0]
+ENSUMAT00000000225: ['exon skipping', 0, 0]
+>2
+ENSVVUT00000015486: ['exon skipping', 0, 0]
+ENSUMAT00000000225: ['5event', 45, 0]
+>3
+ENSVVUT00000015486: ['exon skipping', 0, 0]
+ENSUMAT00000000225: ['no event', 52, 1]

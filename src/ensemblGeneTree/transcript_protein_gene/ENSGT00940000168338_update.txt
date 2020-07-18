@@ -1,0 +1,7 @@
+ENSOGAP00000006972	ENSOGAG00000007786	Otolemur_garnettii
+ENSFHEP00000033314	ENSFHEG00000020409	Fundulus_heteroclitus
+FBpp0290118	FBgn0037553	Drosophila_melanogaster
+FBpp0081291	FBgn0037552	Drosophila_melanogaster
+FBpp0083431	FBgn0038865	Drosophila_melanogaster
+FBpp0297411	FBgn0036494	Drosophila_melanogaster
+FBpp0304454	FBgn0268063	Drosophila_melanogaster

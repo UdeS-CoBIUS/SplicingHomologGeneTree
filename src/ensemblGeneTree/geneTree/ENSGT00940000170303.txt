@@ -1,0 +1,1 @@
+(((ENSSTOG00000007743__Ictidomys_tridecemlineatus,ENSSDAG00000006691__Spermophilus_dauricus),(ENSFDAG00000006850__Fukomys_damarensis,ENSCPOG00000035809__Cavia_porcellus)),ENSMMOG00000016865__Mola_mola);

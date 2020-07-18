@@ -1,1 +1,0 @@
-(ENSNVIG00000003162__Neovison_vison,ENSPPRG00000017964__Panthera_pardus);

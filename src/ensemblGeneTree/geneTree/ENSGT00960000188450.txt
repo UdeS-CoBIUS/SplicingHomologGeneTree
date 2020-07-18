@@ -1,0 +1,1 @@
+(ENSSLDG00000024256__Seriola_lalandi_dorsalis,ENSAPEG00000004363__Amphiprion_percula);

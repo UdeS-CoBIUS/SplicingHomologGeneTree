@@ -1,1 +1,0 @@
-(ENSFHEG00000002831__Fundulus_heteroclitus,ENSORLG00020011532__Oryzias_latipes_ASM223471v1);

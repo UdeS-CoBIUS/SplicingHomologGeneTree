@@ -1,0 +1,1 @@
+(((ENSGGOG00000042564__Gorilla_gorilla,ENSPTRG00000052322__Pan_troglodytes),((((ENSCATG00000043197__Cercocebus_atys,ENSCATG00000032360__Cercocebus_atys),(ENSMFAG00000044242__Macaca_fascicularis,ENSMMUG00000038721__Macaca_mulatta)),ENSPPAG00000033241__Pan_paniscus),ENSSBOG00000015298__Saimiri_boliviensis_boliviensis)),ENSTSYG00000035817__Carlito_syrichta);

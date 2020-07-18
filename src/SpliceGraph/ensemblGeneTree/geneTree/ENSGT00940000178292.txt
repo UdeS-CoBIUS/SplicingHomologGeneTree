@@ -1,0 +1,1 @@
+(((((ENSSPAG00000015438__Stegastes_partitus,ENSKMAG00000011703__Kryptolebias_marmoratus),ENSLBEG00000025874__Labrus_bergylta),ENSXCOG00000014472__Xiphophorus_couchianus),ENSPMGG00000014639__Periophthalmus_magnuspinnatus),(ENSCCEG00000019090__Cyanistes_caeruleus,ENSOANG00000032229__Ornithorhynchus_anatinus));

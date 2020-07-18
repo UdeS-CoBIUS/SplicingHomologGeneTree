@@ -1,0 +1,1 @@
+((ENSBBBG00000006140__Bison_bison_bison,ENSCAFG00000019363__Canis_lupus_familiaris),((MGP_CAROLIEiJ_G0021176__Mus_caroli_strain_CAROLI_EIJ,MGP_SPRETEiJ_G0022086__Mus_spretus_strain_SPRET/EiJ),MGP_PahariEiJ_G0023492__Mus_pahari_strain_PAHARI_EIJ));

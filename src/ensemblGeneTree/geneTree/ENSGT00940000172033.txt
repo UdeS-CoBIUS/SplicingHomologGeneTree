@@ -1,0 +1,1 @@
+(ENSGMOG00000017618__Gadus_morhua,ENSGMOG00000010098__Gadus_morhua);

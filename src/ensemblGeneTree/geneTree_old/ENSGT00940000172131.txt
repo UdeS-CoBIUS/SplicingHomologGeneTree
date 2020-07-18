@@ -1,1 +1,0 @@
-(((ENSCAPG00000010820__Cavia_aperea,ENSFDAG00000017220__Fukomys_damarensis),ENSCCNG00000031209__Castor_canadensis),ENSPCIG00000009143__Phascolarctos_cinereus);

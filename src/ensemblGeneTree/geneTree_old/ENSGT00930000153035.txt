@@ -1,1 +1,0 @@
-(ENSPPRG00000003882__Panthera_pardus,ENSFCAG00000041658__Felis_catus);

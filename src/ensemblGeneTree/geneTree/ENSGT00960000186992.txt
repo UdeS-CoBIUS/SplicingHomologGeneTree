@@ -1,0 +1,1 @@
+((((ENSSDUG00000020376__Seriola_dumerili,ENSSLDG00000023580__Seriola_lalandi_dorsalis),ENSSMAG00000015829__Scophthalmus_maximus),ENSMAMG00000017573__Mastacembelus_armatus),(((ENSPMEG00000014282__Poecilia_mexicana,ENSPREG00000018753__Poecilia_reticulata),ENSPLAG00000016500__Poecilia_latipinna),ENSHBUG00000010738__Haplochromis_burtoni));

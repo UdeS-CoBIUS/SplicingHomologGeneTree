@@ -1,0 +1,1 @@
+(((ENSPPRG00000009828__Panthera_pardus,ENSPTIG00000019894__Panthera_tigris_altaica),ENSFCAG00000045217__Felis_catus),ENSPCOG00000009890__Propithecus_coquereli);

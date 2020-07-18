@@ -1,0 +1,2 @@
+>completeCluster_0
+W03B1.3.1	C08F11.10.1	Y37F4.1.1	T12A7.9.1

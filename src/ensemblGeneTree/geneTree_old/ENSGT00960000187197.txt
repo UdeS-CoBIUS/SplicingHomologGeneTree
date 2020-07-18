@@ -1,1 +1,0 @@
-((ENSPNAG00000014444__Pygocentrus_nattereri,ENSDARG00000059367__Danio_rerio),((((ENSXCOG00000004222__Xiphophorus_couchianus,ENSPLAG00000016475__Poecilia_latipinna),ENSAOCG00000007752__Amphiprion_ocellaris),ENSSDUG00000008622__Seriola_dumerili),ENSLBEG00000021533__Labrus_bergylta));

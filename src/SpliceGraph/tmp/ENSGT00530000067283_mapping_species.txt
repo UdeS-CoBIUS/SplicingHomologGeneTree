@@ -1,0 +1,6 @@
+MUSSPICILEGUS	mus_spicilegus
+MUSMUSCULUS	mus_musculus
+MUSMUSCULUS	mus_musculus
+MUSSPICILEGUS	mus_spicilegus
+RATTUSNORVEGICUS	rattus_norvegicus
+RATTUSNORVEGICUS	rattus_norvegicus

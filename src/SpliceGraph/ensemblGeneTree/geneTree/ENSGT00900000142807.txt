@@ -1,0 +1,1 @@
+(((ENSSTOG00000005523__Ictidomys_tridecemlineatus,ENSDORG00000026075__Dipodomys_ordii),((ENSCLAG00000013223__Chinchilla_lanigera,ENSFDAG00000015812__Fukomys_damarensis),ENSCPOG00000007157__Cavia_porcellus)),ENSMAUG00000019908__Mesocricetus_auratus);

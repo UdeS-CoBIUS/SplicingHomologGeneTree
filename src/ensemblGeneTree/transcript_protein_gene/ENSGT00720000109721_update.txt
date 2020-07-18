@@ -1,0 +1,2 @@
+B0205.10.1	WBGene00015024	Caenorhabditis_elegans_strain_N2	B0205.10.1
+B0379.7.1	WBGene00007159	Caenorhabditis_elegans_strain_N2	B0379.7.1

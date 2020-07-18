@@ -1,0 +1,1 @@
+((((ENSAPLG00000025813__Anas_platyrhynchos_platyrhynchos,ENSCPRG00005002990__Crocodylus_porosus),ENSGAGG00000023939__Gopherus_agassizii),ENSNSUG00000001163__Notechis_scutatus),(ENSOANG00000030174__Ornithorhynchus_anatinus,ENSUAMG00000018010__Ursus_americanus));

@@ -1,0 +1,7 @@
+CAVIAPORCELLUS	cavia_porcellus
+CAVIAAPEREA	cavia_aperea
+CHINCHILLALANIGERA	chinchilla_lanigera
+OCTODONDEGUS	octodon_degus
+DIPODOMYSORDII	dipodomys_ordii
+NANNOSPALAXGALILI	nannospalax_galili
+CRICETULUSGRISEUSCRIGRI	cricetulus_griseus_crigri

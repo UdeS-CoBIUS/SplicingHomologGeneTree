@@ -1,0 +1,1 @@
+(((ENSPLAG00000022173__Poecilia_latipinna,ENSPREG00000005985__Poecilia_reticulata),ENSXCOG00000013112__Xiphophorus_couchianus),ENSHBUG00000014932__Haplochromis_burtoni);

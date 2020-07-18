@@ -1,1 +1,0 @@
-(ENSKMAG00000018132__Kryptolebias_marmoratus,ENSPMAG00000002424__Petromyzon_marinus);

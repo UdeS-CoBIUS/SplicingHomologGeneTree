@@ -1,0 +1,1 @@
+(((ENSCVAG00000023122__Cyprinodon_variegatus,ENSPREG00000003996__Poecilia_reticulata),ENSSPAG00000011427__Stegastes_partitus),ENSAMXG00000043366__Astyanax_mexicanus);

@@ -1,0 +1,1 @@
+((((ENSMALG00000006749__Monopterus_albus,ENSMALG00000004861__Monopterus_albus),ENSMALG00000009961__Monopterus_albus),((ENSMALG00000003152__Monopterus_albus,ENSMALG00000009944__Monopterus_albus),(ENSMALG00000003400__Monopterus_albus,ENSMALG00000005135__Monopterus_albus))),ENSATEG00000014834__Anabas_testudineus);

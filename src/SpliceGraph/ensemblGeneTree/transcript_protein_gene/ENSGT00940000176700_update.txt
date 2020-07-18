@@ -1,0 +1,2 @@
+YER064C_mRNA	YER064C	Saccharomyces_cerevisiae_strain_S288C
+YIL056W_mRNA	YIL056W	Saccharomyces_cerevisiae_strain_S288C

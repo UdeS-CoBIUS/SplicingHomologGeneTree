@@ -1,0 +1,1 @@
+(ENSCCNG00000006647__Castor_canadensis,ENSSCAG00000011558__Serinus_canaria);

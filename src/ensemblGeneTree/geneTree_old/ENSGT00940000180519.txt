@@ -1,1 +1,0 @@
-(ENSSLDG00000018655__Seriola_lalandi_dorsalis,ENSSDUG00000020347__Seriola_dumerili);

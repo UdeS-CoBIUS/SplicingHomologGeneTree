@@ -1,0 +1,1 @@
+(((((ENSUAMG00000020620__Ursus_americanus,ENSUMAG00000002938__Ursus_maritimus),ENSVVUG00000004714__Vulpes_vulpes),ENSBTAG00000011898__Bos_taurus),ENSCJAG00000014317__Callithrix_jacchus),ENSPCIG00000009077__Phascolarctos_cinereus);

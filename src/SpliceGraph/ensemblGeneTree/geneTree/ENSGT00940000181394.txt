@@ -1,0 +1,1 @@
+((ENSGAFG00000011143__Gambusia_affinis,ENSCSEG00000008116__Cynoglossus_semilaevis),(((ENSCCEG00000013607__Cyanistes_caeruleus,ENSPMJG00000004520__Parus_major),ENSLCOG00000000167__Lepidothrix_coronata),ENSNPEG00000000111__Nothoprocta_perdicaria));

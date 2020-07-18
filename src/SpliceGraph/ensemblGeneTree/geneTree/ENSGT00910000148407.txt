@@ -1,0 +1,1 @@
+(((ENSMMUG00000045421__Macaca_mulatta,ENSTGEG00000023986__Theropithecus_gelada),ENSPANG00000035547__Papio_anubis),ENSCANG00000005911__Colobus_angolensis_palliatus);

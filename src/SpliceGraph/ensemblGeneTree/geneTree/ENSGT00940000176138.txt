@@ -1,0 +1,1 @@
+((ENSACIG00000006885__Amphilophus_citrinellus,WBGene00022336__Caenorhabditis_elegans_strain_N2),Q0130__Saccharomyces_cerevisiae_strain_S288C);

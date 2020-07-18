@@ -1,0 +1,1 @@
+(((ENSPVIG00000000711__Pogona_vitticeps,ENSSMRG00000009930__Salvator_merianae),ENSOANG00000022433__Ornithorhynchus_anatinus),((ENSMVIG00005006331__Manacus_vitellinus,ENSGAGG00000007658__Gopherus_agassizii),ENSOANG00000022432__Ornithorhynchus_anatinus));

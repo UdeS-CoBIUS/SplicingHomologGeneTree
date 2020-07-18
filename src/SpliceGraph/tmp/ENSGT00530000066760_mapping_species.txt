@@ -1,0 +1,6 @@
+NOTAMACROPUSEUGENII	notamacropus_eugenii
+SARCOPHILUSHARRISII	sarcophilus_harrisii
+MYOTISLUCIFUGUS	myotis_lucifugus
+OVISARIES	ovis_aries
+TAENIOPYGIAGUTTATA	taeniopygia_guttata
+LATIMERIACHALUMNAE	latimeria_chalumnae

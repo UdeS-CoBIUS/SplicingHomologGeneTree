@@ -1,0 +1,1 @@
+((((ENSNSUG00000011710__Notechis_scutatus,ENSNSUG00000001266__Notechis_scutatus),ENSNSUG00000015112__Notechis_scutatus),(ENSCABG00000003206__Chelonoidis_abingdonii,ENSAHAG00000003920__Apteryx_haastii)),(ENSSPUG00000015573__Sphenodon_punctatus,ENSGAGG00000020259__Gopherus_agassizii));

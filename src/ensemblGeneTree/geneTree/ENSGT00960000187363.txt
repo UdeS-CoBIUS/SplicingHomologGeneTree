@@ -1,0 +1,1 @@
+(((ENSVVUG00000013614__Vulpes_vulpes,ENSCAFG00020022680__Canis_lupus_dingo),ENSMPUG00000011328__Mustela_putorius_furo),(ENSPPAG00000031159__Pan_paniscus,ENSPTRG00000047420__Pan_troglodytes));

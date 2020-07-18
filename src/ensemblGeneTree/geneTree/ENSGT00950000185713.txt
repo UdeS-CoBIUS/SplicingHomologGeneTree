@@ -1,0 +1,1 @@
+(((((ENSLCOG00000015296__Lepidothrix_coronata,ENSMVIG00005005104__Manacus_vitellinus),ENSMUNG00000000289__Melopsittacus_undulatus),ENSCABG00000014864__Chelonoidis_abingdonii),ENSSPUG00000009683__Sphenodon_punctatus),ENSPCIG00000020812__Phascolarctos_cinereus);

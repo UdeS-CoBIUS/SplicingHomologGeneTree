@@ -1,0 +1,1 @@
+((ENSHCOG00000010446__Hippocampus_comes,ENSXCOG00000006709__Xiphophorus_couchianus),ENSBTAG00000054529__Bos_taurus);

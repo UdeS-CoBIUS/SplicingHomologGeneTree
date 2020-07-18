@@ -1,0 +1,1 @@
+(((ENSAOWG00000010090__Apteryx_owenii,ENSDNVG00000003937__Dromaius_novaehollandiae),ENSSCAG00000000997__Serinus_canaria),ENSFHEG00000019100__Fundulus_heteroclitus);

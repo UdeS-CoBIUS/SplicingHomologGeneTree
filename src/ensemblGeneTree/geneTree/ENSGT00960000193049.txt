@@ -1,0 +1,1 @@
+(ENSPMJG00000003338__Parus_major,ENSLSDG00000000660__Lonchura_striata_domestica);

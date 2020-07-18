@@ -1,0 +1,1 @@
+(ENSSARG00000008188__Sorex_araneus,ENSETEG00000007837__Echinops_telfairi);

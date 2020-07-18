@@ -1,0 +1,1 @@
+((FBgn0038760__Drosophila_melanogaster,FBgn0039170__Drosophila_melanogaster),(ENSTRUG00000005948__Takifugu_rubripes,ENSDARG00000038005__Danio_rerio));

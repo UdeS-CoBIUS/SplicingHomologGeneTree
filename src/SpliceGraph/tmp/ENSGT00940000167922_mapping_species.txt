@@ -1,0 +1,5 @@
+MANDRILLUSLEUCOPHAEUS	mandrillus_leucophaeus
+CERCOCEBUSATYS	cercocebus_atys
+MACACANEMESTRINA	macaca_nemestrina
+MACACAFASCICULARIS	macaca_fascicularis
+OCTODONDEGUS	octodon_degus

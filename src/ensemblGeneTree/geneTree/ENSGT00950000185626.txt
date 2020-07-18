@@ -1,0 +1,1 @@
+(((((ENSEEEG00000003360__Electrophorus_electricus,ENSCHAG00000026655__Clupea_harengus),((ENSHHUG00000021089__Hucho_hucho,ENSHHUG00000022598__Hucho_hucho),ENSELUG00000013073__Esox_lucius)),ENSECRG00000023018__Erpetoichthys_calabaricus),(ENSSPUG00000008936__Sphenodon_punctatus,ENSXETG00000017075__Xenopus_tropicalis)),ENSCMIG00000000932__Callorhinchus_milii);

@@ -1,0 +1,1 @@
+((((ENSLSDG00000001564__Lonchura_striata_domestica,ENSTGUG00000009794__Taeniopygia_guttata),ENSFALG00000007622__Ficedula_albicollis),ENSLCOG00000000694__Lepidothrix_coronata),ENSGALG00000043329__Gallus_gallus);

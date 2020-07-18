@@ -1,0 +1,1 @@
+(ENSCPGG00000006258__Calidris_pygmaea,ENSCCEG00000018858__Cyanistes_caeruleus);

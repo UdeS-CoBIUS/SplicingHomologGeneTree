@@ -1,0 +1,1 @@
+(((((((ENSTGUG00000014225__Taeniopygia_guttata,ENSTGUG00000014459__Taeniopygia_guttata),ENSTGUG00000015802__Taeniopygia_guttata),ENSTGUG00000016255__Taeniopygia_guttata),ENSTGUG00000015175__Taeniopygia_guttata),ENSTGUG00000013813__Taeniopygia_guttata),ENSTGUG00000014795__Taeniopygia_guttata),ENSFALG00000014909__Ficedula_albicollis);

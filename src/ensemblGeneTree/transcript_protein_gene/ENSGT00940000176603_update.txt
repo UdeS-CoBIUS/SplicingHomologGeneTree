@@ -1,0 +1,2 @@
+YBR245C_mRNA	YBR245C	Saccharomyces_cerevisiae_strain_S288C
+YOR304W_mRNA	YOR304W	Saccharomyces_cerevisiae_strain_S288C

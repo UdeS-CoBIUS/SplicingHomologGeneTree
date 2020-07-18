@@ -1,0 +1,1 @@
+(((((ENSCABG00000016566__Chelonoidis_abingdonii,ENSCABG00000015283__Chelonoidis_abingdonii),ENSGAGG00000001539__Gopherus_agassizii),ENSGAGG00000002314__Gopherus_agassizii),ENSLSDG00000008513__Lonchura_striata_domestica),(ENSUMAG00000011963__Ursus_maritimus,ENSUAMG00000004220__Ursus_americanus));

@@ -1,0 +1,1 @@
+((((ENSFALG00000000027__Ficedula_albicollis,ENSFALG00000000368__Ficedula_albicollis),ENSZALG00000006253__Zonotrichia_albicollis),ENSCAFG00000029956__Canis_lupus_familiaris),ENSGACG00000017862__Gasterosteus_aculeatus);

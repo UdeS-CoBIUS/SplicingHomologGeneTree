@@ -1,1 +1,0 @@
-((((ENSRROG00000018018__Rhinopithecus_roxellana,ENSCCAG00000032691__Cebus_capucinus_imitator),ENSTSYG00000033415__Carlito_syrichta),ENSCCNG00000029195__Castor_canadensis),ENSNSUG00000014422__Notechis_scutatus);

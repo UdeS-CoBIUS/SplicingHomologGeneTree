@@ -1,0 +1,15 @@
+>0
+ENSABRT00000002766: ['no event', 33, 0]
+ENSCJPT00005035586: ['3event', '5event', 18, 0]
+ENSCPGT00000020523: ['exon skipping', 0, 0]
+ENSCABT00000014543: ['3event', 21, 0]
+>1
+ENSABRT00000002766: ['exon skipping', 0, 0]
+ENSCJPT00005035586: ['exon skipping', 0, 0]
+ENSCPGT00000020523: ['exon skipping', 0, 0]
+ENSCABT00000014543: ['5event', 16, 0]
+>2
+ENSABRT00000002766: ['5event', 535, 1]
+ENSCJPT00005035586: ['3event', '5event', 306, 0]
+ENSCPGT00000020523: ['3event', '5event', 333, 0]
+ENSCABT00000014543: ['3event', 254, 2]

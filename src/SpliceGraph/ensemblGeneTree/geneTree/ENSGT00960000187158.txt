@@ -1,0 +1,1 @@
+(((((ENSPVAG00000014834__Pteropus_vampyrus,ENSNVIG00000024036__Neovison_vison),ENSEEUG00000006964__Erinaceus_europaeus),(ENSTBEG00000005275__Tupaia_belangeri,ENSNLEG00000004787__Nomascus_leucogenys)),ENSDNOG00000031233__Dasypus_novemcinctus),ENSMEUG00000014805__Notamacropus_eugenii);

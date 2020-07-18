@@ -1,0 +1,1 @@
+(((ENSNPEG00000006145__Nothoprocta_perdicaria,ENSAHAG00000019192__Apteryx_haastii),(ENSCJPG00005016883__Coturnix_japonica,ENSNMEG00000020732__Numida_meleagris)),ENSSMRG00000003489__Salvator_merianae);

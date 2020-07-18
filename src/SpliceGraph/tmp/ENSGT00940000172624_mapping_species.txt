@@ -1,0 +1,5 @@
+DROSOPHILAMELANOGASTER	drosophila_melanogaster
+EPTATRETUSBURGERI	eptatretus_burgeri
+PILIOCOLOBUSTEPHROSCELES	piliocolobus_tephrosceles
+PILIOCOLOBUSTEPHROSCELES	piliocolobus_tephrosceles
+SACCHAROMYCESCEREVISIAE	saccharomyces_cerevisiae

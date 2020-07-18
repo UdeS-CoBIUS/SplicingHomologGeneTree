@@ -1,0 +1,1 @@
+((ENSPTEG00000018319__Piliocolobus_tephrosceles,ENSPEMG00000030099__Peromyscus_maniculatus_bairdii),(ENSPMGG00000017354__Periophthalmus_magnuspinnatus,ENSSLDG00000006531__Seriola_lalandi_dorsalis));

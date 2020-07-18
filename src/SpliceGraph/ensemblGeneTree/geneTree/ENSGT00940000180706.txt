@@ -1,0 +1,1 @@
+(ENSAOCG00000017138__Amphiprion_ocellaris,ENSOANG00000031042__Ornithorhynchus_anatinus);

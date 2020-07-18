@@ -1,0 +1,1 @@
+(((ENSSBOG00000031178__Saimiri_boliviensis_boliviensis,ENSCCAG00000029108__Cebus_capucinus_imitator),ENSANAG00000037343__Aotus_nancymaae),((((ENSMMUG00000041910__Macaca_mulatta,ENSMFAG00000009714__Macaca_fascicularis),ENSTGEG00000013507__Theropithecus_gelada),ENSPANG00000033468__Papio_anubis),ENSMLEG00000021320__Mandrillus_leucophaeus));

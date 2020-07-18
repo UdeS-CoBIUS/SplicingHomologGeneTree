@@ -1,0 +1,1 @@
+(ENSAMEG00000019385__Ailuropoda_melanoleuca,ENSGALG00000054227__Gallus_gallus);

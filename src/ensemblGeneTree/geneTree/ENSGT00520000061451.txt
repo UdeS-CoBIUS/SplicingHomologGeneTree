@@ -1,0 +1,1 @@
+((((ENSTBEG00000003499__Tupaia_belangeri,ENSMSIG00000005988__Mus_spicilegus),(ENSMMUG00000004439__Macaca_mulatta,ENSSBOG00000032527__Saimiri_boliviensis_boliviensis)),ENSSARG00000003340__Sorex_araneus),ENSETEG00000001939__Echinops_telfairi);

@@ -1,0 +1,1 @@
+((((ENSCCNG00000009587__Castor_canadensis,ENSMMMG00000013892__Marmota_marmota_marmota),ENSJJAG00000014936__Jaculus_jaculus),ENSPSIG00000005512__Pelodiscus_sinensis),ENSACIG00000001980__Amphilophus_citrinellus);

@@ -1,0 +1,1 @@
+(((ENSTGEG00000017765__Theropithecus_gelada,ENSCSAG00000019672__Chlorocebus_sabaeus),ENSG00000211871__Homo_sapiens),((ENSUMAG00000013335__Ursus_maritimus,ENSUMAG00000013970__Ursus_maritimus),ENSUAMG00000022559__Ursus_americanus));

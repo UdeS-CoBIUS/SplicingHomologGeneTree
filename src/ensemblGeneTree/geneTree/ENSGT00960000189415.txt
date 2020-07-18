@@ -1,0 +1,1 @@
+((((((((ENSPMJG00000007032__Parus_major,ENSCCEG00000008768__Cyanistes_caeruleus),ENSMUNG00000000342__Melopsittacus_undulatus),ENSAOWG00000018581__Apteryx_owenii),ENSCPRG00005004107__Crocodylus_porosus),ENSCABG00000009187__Chelonoidis_abingdonii),ENSNSUG00000007797__Notechis_scutatus),ENSPCIG00000036789__Phascolarctos_cinereus),ENSHCOG00000019456__Hippocampus_comes);

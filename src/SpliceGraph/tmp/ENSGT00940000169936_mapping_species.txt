@@ -1,0 +1,7 @@
+PANTHERAPARDUS	panthera_pardus
+PANTHERAPARDUS	panthera_pardus
+PANTHERAPARDUS	panthera_pardus
+BOSTAURUS	bos_taurus
+BOSMUTUS	bos_mutus
+BISONBISONBISON	bison_bison_bison
+CASTORCANADENSIS	castor_canadensis

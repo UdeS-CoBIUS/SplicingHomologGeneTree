@@ -1,0 +1,1 @@
+(((ENSSDUG00000021119__Seriola_dumerili,ENSSDUG00000008832__Seriola_dumerili),ENSSLDG00000024646__Seriola_lalandi_dorsalis),ENSNBRG00000001469__Neolamprologus_brichardi);

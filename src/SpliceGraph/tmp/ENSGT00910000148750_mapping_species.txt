@@ -1,0 +1,3 @@
+PAPIOANUBIS	papio_anubis
+PILIOCOLOBUSTEPHROSCELES	piliocolobus_tephrosceles
+AOTUSNANCYMAAE	aotus_nancymaae

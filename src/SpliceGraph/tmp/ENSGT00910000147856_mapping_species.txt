@@ -1,0 +1,4 @@
+PANTROGLODYTES	pan_troglodytes
+PANPANISCUS	pan_paniscus
+NOMASCUSLEUCOGENYS	nomascus_leucogenys
+RHINOPITHECUSBIETI	rhinopithecus_bieti

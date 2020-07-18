@@ -1,0 +1,1 @@
+((((ENSPMEG00000013944__Poecilia_mexicana,ENSPREG00000015559__Poecilia_reticulata),ENSSPAG00000011896__Stegastes_partitus),ENSSFOG00015016151__Scleropages_formosus),((((ENSBBBG00000012012__Bison_bison_bison,ENSBMUG00000009719__Bos_mutus),ENSPTIG00000016640__Panthera_tigris_altaica),ENSTSYG00000035139__Carlito_syrichta),ENSNSUG00000006274__Notechis_scutatus));

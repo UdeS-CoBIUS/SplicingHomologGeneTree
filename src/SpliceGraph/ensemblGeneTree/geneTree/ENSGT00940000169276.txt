@@ -1,0 +1,1 @@
+((((ENSFALG00000014459__Ficedula_albicollis,ENSPVIG00000021635__Pogona_vitticeps),(ENSOARG00000010563__Ovis_aries,ENSPTIG00000004991__Panthera_tigris_altaica)),ENSPMJG00000018080__Parus_major),((ENSSLDG00000008066__Seriola_lalandi_dorsalis,ENSSLDG00000011982__Seriola_lalandi_dorsalis),ENSHCOG00000008611__Hippocampus_comes));

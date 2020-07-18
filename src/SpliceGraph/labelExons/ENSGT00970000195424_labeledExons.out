@@ -1,0 +1,12 @@
+>0
+ENSCSAT00000007448: ['no event', 84, 0]
+ENSMLET00000036341: ['exon skipping', 0, 0]
+>1
+ENSCSAT00000007448: [['internal gap >= 30', 1, 85], 90, 1]
+ENSMLET00000036341: ['5event', 174, 0]
+>2
+ENSCSAT00000007448: ['no event', 37, 1]
+ENSMLET00000036341: [['internal gap < 30', 1, 3], 34, 1]
+>3
+ENSCSAT00000007448: ['exon skipping', 0, 0]
+ENSMLET00000036341: ['no event', 2, 0]

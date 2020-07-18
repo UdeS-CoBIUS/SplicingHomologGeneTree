@@ -1,0 +1,102 @@
+
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+                                  ---  PhyML 20120412  ---                                             
+                            http://www.atgc-montpellier.fr/phyml                                          
+                         Copyright CNRS - Universite Montpellier II                                 
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+
+. Sequence filename: 			ENSGT00940000176078_Aln_ByOrthoGroup.phy
+. Data set: 				#1
+. Starting tree number: 			#1
+. Tree topology: 			fixed
+. Initial tree: 			user tree (ensemblGeneTree/trees_0_100/ENSGT00940000176078.nw)
+. Model of amino acids substitution: 	LG
+. Number of taxa: 			13
+. Log-likelihood: 			-7285.18216
+. Unconstrained likelihood: 		-7032.21474
+. Parsimony: 				742
+. Tree size: 				5.25516
+. Discrete gamma model: 		Yes
+  - Number of categories: 		4
+  - Gamma shape parameter: 		0.692
+
+. Run ID:				none
+. Random seed:				1594311747
+. Subtree patterns aliasing:		no
+. Version:				20120412
+. Time used:				0h0m19s (19 seconds)
+
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+ Suggested citations:
+ S. Guindon, JF. Dufayard, V. Lefort, M. Anisimova, W. Hordijk, O. Gascuel
+ "New algorithms and methods to estimate maximum-likelihood phylogenies: assessing the performance of PhyML 3.0."
+ Systematic Biology. 2010. 59(3):307-321.
+
+ S. Guindon & O. Gascuel
+ "A simple, fast, and accurate algorithm to estimate large phylogenies by maximum likelihood"
+ Systematic Biology. 2003. 52(5):696-704.
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+
+. Sequence filename: 			ENSGT00940000176078_Aln_ByOrthoGroup.phy
+. Data set: 				#1
+. Starting tree number: 			#2
+. Tree topology: 			fixed
+. Initial tree: 			user tree (ensemblGeneTree/trees_0_100/ENSGT00940000176078.nw)
+. Model of amino acids substitution: 	LG
+. Number of taxa: 			13
+. Log-likelihood: 			-7319.10941
+. Unconstrained likelihood: 		-7032.21474
+. Parsimony: 				762
+. Tree size: 				5.96705
+. Discrete gamma model: 		Yes
+  - Number of categories: 		4
+  - Gamma shape parameter: 		0.651
+
+. Run ID:				none
+. Random seed:				1594311747
+. Subtree patterns aliasing:		no
+. Version:				20120412
+. Time used:				0h0m16s (16 seconds)
+
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+ Suggested citations:
+ S. Guindon, JF. Dufayard, V. Lefort, M. Anisimova, W. Hordijk, O. Gascuel
+ "New algorithms and methods to estimate maximum-likelihood phylogenies: assessing the performance of PhyML 3.0."
+ Systematic Biology. 2010. 59(3):307-321.
+
+ S. Guindon & O. Gascuel
+ "A simple, fast, and accurate algorithm to estimate large phylogenies by maximum likelihood"
+ Systematic Biology. 2003. 52(5):696-704.
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+
+. Sequence filename: 			ENSGT00940000176078_Aln_ByOrthoGroup.phy
+. Data set: 				#1
+. Starting tree number: 			#3
+. Tree topology: 			fixed
+. Initial tree: 			user tree (ensemblGeneTree/trees_0_100/ENSGT00940000176078.nw)
+. Model of amino acids substitution: 	LG
+. Number of taxa: 			13
+. Log-likelihood: 			-7286.70031
+. Unconstrained likelihood: 		-7032.21474
+. Parsimony: 				748
+. Tree size: 				5.48928
+. Discrete gamma model: 		Yes
+  - Number of categories: 		4
+  - Gamma shape parameter: 		0.666
+
+. Run ID:				none
+. Random seed:				1594311747
+. Subtree patterns aliasing:		no
+. Version:				20120412
+. Time used:				0h0m16s (16 seconds)
+
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+ Suggested citations:
+ S. Guindon, JF. Dufayard, V. Lefort, M. Anisimova, W. Hordijk, O. Gascuel
+ "New algorithms and methods to estimate maximum-likelihood phylogenies: assessing the performance of PhyML 3.0."
+ Systematic Biology. 2010. 59(3):307-321.
+
+ S. Guindon & O. Gascuel
+ "A simple, fast, and accurate algorithm to estimate large phylogenies by maximum likelihood"
+ Systematic Biology. 2003. 52(5):696-704.
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo

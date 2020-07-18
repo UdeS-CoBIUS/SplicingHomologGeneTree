@@ -1,0 +1,1 @@
+(((ENSAOWG00000016846__Apteryx_owenii,ENSCCEG00000005620__Cyanistes_caeruleus),((ENSNGAG00000007771__Nannospalax_galili,ENSNGAG00000015347__Nannospalax_galili),ENSBBBG00000018747__Bison_bison_bison)),(ENSAPOG00000009323__Acanthochromis_polyacanthus,ENSCGOG00000003220__Cottoperca_gobio));

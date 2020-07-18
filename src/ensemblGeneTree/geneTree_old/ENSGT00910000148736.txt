@@ -1,1 +1,0 @@
-(ENSNLEG00000031618__Nomascus_leucogenys,ENSMMUG00000040430__Macaca_mulatta);

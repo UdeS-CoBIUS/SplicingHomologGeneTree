@@ -1,0 +1,1 @@
+((ENSSCAG00000004336__Serinus_canaria,ENSCCEG00000004243__Cyanistes_caeruleus),(ENSDORG00000000546__Dipodomys_ordii,ENSMAUG00000011735__Mesocricetus_auratus));

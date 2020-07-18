@@ -1,0 +1,1 @@
+(ENSUMAG00000011853__Ursus_maritimus,ENSMMUG00000009656__Macaca_mulatta);

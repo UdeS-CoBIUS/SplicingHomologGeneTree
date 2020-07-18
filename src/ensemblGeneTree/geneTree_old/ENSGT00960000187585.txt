@@ -1,1 +1,0 @@
-(((ENSPMGG00000014139__Periophthalmus_magnuspinnatus,ENSTRUG00000019920__Takifugu_rubripes),ENSMAMG00000022923__Mastacembelus_armatus),ENSSCAG00000006767__Serinus_canaria);

@@ -1,1 +1,0 @@
-(ENSSSCG00000032308__Sus_scrofa,ENSNVIG00000011756__Neovison_vison);

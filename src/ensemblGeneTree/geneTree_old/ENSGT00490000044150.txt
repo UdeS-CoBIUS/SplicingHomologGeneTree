@@ -1,1 +1,0 @@
-(ENSTTRG00000010553__Tursiops_truncatus,ENSPPYG00000001484__Pongo_abelii);

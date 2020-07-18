@@ -1,0 +1,1 @@
+((ENSATEG00000017268__Anabas_testudineus,ENSMALG00000012422__Monopterus_albus),(((ENSPMEG00000015029__Poecilia_mexicana,ENSPREG00000018870__Poecilia_reticulata),ENSXCOG00000000306__Xiphophorus_couchianus),ENSGAFG00000007265__Gambusia_affinis));

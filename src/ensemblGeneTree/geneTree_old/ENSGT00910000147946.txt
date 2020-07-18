@@ -1,1 +1,0 @@
-((ENSRROG00000034754__Rhinopithecus_roxellana,ENSRBIG00000030421__Rhinopithecus_bieti),(ENSPTRG00000045777__Pan_troglodytes,ENSPPAG00000025785__Pan_paniscus));

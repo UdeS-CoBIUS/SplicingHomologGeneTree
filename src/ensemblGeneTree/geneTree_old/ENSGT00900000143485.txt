@@ -1,1 +1,0 @@
-(((ENSNSUG00000006033__Notechis_scutatus,ENSNSUG00000006012__Notechis_scutatus),ENSSPUG00000010108__Sphenodon_punctatus),((ENSPPRG00000006016__Panthera_pardus,ENSMAUG00000015724__Mesocricetus_auratus),ENSOANG00000004132__Ornithorhynchus_anatinus));

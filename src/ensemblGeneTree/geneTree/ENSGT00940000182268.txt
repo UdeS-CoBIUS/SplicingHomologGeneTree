@@ -1,0 +1,1 @@
+(ENSSDUG00000019206__Seriola_dumerili,ENSMMOG00000015576__Mola_mola);

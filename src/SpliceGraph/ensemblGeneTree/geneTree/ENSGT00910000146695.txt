@@ -1,0 +1,1 @@
+(((ENSGGOG00000036229__Gorilla_gorilla,ENSGGOG00000006704__Gorilla_gorilla),ENSANAG00000026065__Aotus_nancymaae),((ENSUMAG00000015535__Ursus_maritimus,ENSUAMG00000023779__Ursus_americanus),ENSCAFG00020025045__Canis_lupus_dingo));

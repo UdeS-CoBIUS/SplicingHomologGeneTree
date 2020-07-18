@@ -1,0 +1,1 @@
+((((ENSHCOG00000005611__Hippocampus_comes,ENSCSEG00000000476__Cynoglossus_semilaevis),ENSPMGG00000006302__Periophthalmus_magnuspinnatus),ENSELUG00000018415__Esox_lucius),ENSSFOG00015000488__Scleropages_formosus);

@@ -1,0 +1,1 @@
+(((((ENSPTIG00000002472__Panthera_tigris_altaica,ENSPPRG00000001704__Panthera_pardus),ENSEEUG00000004579__Erinaceus_europaeus),ENSTTRG00000014045__Tursiops_truncatus),ENSUPAG00010004996__Urocitellus_parryii),(ENSCHOG00000013894__Choloepus_hoffmanni,ENSPCAG00000004497__Procavia_capensis));

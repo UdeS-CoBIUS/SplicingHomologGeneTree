@@ -1,0 +1,1 @@
+(ENSUPAG00010004689__Urocitellus_parryii,ENSSARG00000003467__Sorex_araneus);

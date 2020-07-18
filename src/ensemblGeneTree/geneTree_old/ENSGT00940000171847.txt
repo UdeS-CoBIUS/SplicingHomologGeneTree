@@ -1,1 +1,0 @@
-(((ENSJJAG00000008914__Jaculus_jaculus,ENSPEMG00000029407__Peromyscus_maniculatus_bairdii),ENSODEG00000013535__Octodon_degus),ENSPTEG00000038302__Piliocolobus_tephrosceles);

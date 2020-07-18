@@ -1,0 +1,21 @@
+>0
+ENSLOCT00000012739: ['no event', 53, 0]
+ENSECRT00000002756: ['no event', 53, 0]
+>1
+ENSLOCT00000012739: ['no event', 45, 0]
+ENSECRT00000002756: ['no event', 45, 0]
+>2
+ENSLOCT00000012739: ['no event', 230, 1]
+ENSECRT00000002756: ['no event', 230, 1]
+>3
+ENSLOCT00000012739: ['no event', 200, 1]
+ENSECRT00000002756: ['no event', 200, 1]
+>4
+ENSLOCT00000012739: ['no event', 119, 1]
+ENSECRT00000002756: ['no event', 119, 1]
+>5
+ENSLOCT00000012739: ['no event', 110, 1]
+ENSECRT00000002756: [['internal gap < 30', 5, 3], 107, 1]
+>6
+ENSLOCT00000012739: ['3event', 821, 1]
+ENSECRT00000002756: [['internal gap < 30', 6, 24], 865, 1]

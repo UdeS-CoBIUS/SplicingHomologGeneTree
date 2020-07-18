@@ -1,0 +1,1 @@
+(ENSCAFG00000029886__Canis_lupus_familiaris,ENSVPAG00000001344__Vicugna_pacos);

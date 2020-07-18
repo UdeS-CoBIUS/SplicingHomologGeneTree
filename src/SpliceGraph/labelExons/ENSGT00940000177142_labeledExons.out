@@ -1,0 +1,15 @@
+>0
+ENSMALT00000016071: ['no event', 27, 0]
+ENSATET00000010657: ['exon skipping', 0, 0]
+>1
+ENSMALT00000016071: ['exon skipping', 0, 0]
+ENSATET00000010657: ['5event', 184, 0]
+>2
+ENSMALT00000016071: ['5event', 226, 1]
+ENSATET00000010657: ['exon skipping', 0, 0]
+>3
+ENSMALT00000016071: ['exon skipping', 0, 0]
+ENSATET00000010657: ['5event', 234, 2]
+>4
+ENSMALT00000016071: ['5event', 77, 0]
+ENSATET00000010657: ['exon skipping', 0, 0]

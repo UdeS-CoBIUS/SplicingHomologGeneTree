@@ -1,0 +1,1 @@
+(ENSOARG00000019758__Ovis_aries,ENSAMEG00000019974__Ailuropoda_melanoleuca);

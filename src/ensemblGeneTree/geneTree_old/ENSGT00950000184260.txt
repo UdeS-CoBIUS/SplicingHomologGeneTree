@@ -1,1 +1,0 @@
-(((ENSMAMG00000018100__Mastacembelus_armatus,ENSORLG00015012144__Oryzias_latipes_ASM223469v1),ENSELUG00000006837__Esox_lucius),ENSAMXG00000035485__Astyanax_mexicanus);

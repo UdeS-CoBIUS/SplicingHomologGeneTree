@@ -1,0 +1,2 @@
+YNL270C_mRNA	YNL270C	Saccharomyces_cerevisiae_strain_S288C
+YEL063C_mRNA	YEL063C	Saccharomyces_cerevisiae_strain_S288C

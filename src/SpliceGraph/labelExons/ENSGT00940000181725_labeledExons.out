@@ -1,0 +1,9 @@
+>0
+ENSPNYT00000014795: ['no event', 123, 0]
+ENSMZET00005033228: ['no event', 123, 0]
+>1
+ENSPNYT00000014795: ['no event', 4, 1]
+ENSMZET00005033228: ['exon skipping', 0, 0]
+>2
+ENSPNYT00000014795: [['internal gap < 30', 2, 11], 106, 0]
+ENSMZET00005033228: ['5event', 115, 1]

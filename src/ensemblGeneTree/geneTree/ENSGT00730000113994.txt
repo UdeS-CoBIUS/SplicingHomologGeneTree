@@ -1,0 +1,1 @@
+((ENSAHAG00000004890__Apteryx_haastii,ENSPVIG00000004094__Pogona_vitticeps),(((ENSGACG00000001364__Gasterosteus_aculeatus,ENSGACG00000000323__Gasterosteus_aculeatus),ENSACIG00000015416__Amphilophus_citrinellus),ENSSLDG00000004020__Seriola_lalandi_dorsalis));

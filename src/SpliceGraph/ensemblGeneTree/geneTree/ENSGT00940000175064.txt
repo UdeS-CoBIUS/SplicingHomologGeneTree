@@ -1,0 +1,1 @@
+((ENSPTIG00000011312__Panthera_tigris_altaica,ENSAPLG00000023419__Anas_platyrhynchos_platyrhynchos),(ENSLBEG00000013499__Labrus_bergylta,ENSOMEG00000005363__Oryzias_melastigma));

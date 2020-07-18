@@ -1,0 +1,1 @@
+(((((ENSAPOG00000003400__Acanthochromis_polyacanthus,ENSPMGG00000008948__Periophthalmus_magnuspinnatus),ENSXMAG00000024140__Xiphophorus_maculatus),ENSATEG00000010767__Anabas_testudineus),ENSIPUG00000012148__Ictalurus_punctatus),ENSPKIG00000005771__Paramormyrops_kingsleyae);

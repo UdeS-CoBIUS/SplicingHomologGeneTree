@@ -1,1 +1,0 @@
-(ENSLBEG00000025428__Labrus_bergylta,ENSSFOG00015001479__Scleropages_formosus);

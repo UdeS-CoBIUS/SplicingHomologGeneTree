@@ -1,0 +1,1 @@
+((((ENSMSIG00000013826__Mus_spicilegus,ENSSDAG00000002394__Spermophilus_dauricus),(((ENSPANG00000034620__Papio_anubis,ENSCJAG00000046836__Callithrix_jacchus),ENSCCNG00000022785__Castor_canadensis),ENSPPRG00000023454__Panthera_pardus)),ENSCAFG00020010315__Canis_lupus_dingo),ENSNSUG00000003647__Notechis_scutatus);

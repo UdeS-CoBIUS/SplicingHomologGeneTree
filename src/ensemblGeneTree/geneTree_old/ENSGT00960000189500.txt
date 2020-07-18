@@ -1,1 +1,0 @@
-(((ENSNMEG00000009035__Numida_meleagris,ENSCJPG00005009077__Coturnix_japonica),((ENSLCOG00000014890__Lepidothrix_coronata,ENSPMJG00000003155__Parus_major),ENSLSDG00000010981__Lonchura_striata_domestica)),(ENSPVIG00000012151__Pogona_vitticeps,ENSNSUG00000000388__Notechis_scutatus));

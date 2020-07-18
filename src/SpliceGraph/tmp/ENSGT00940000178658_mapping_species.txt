@@ -1,0 +1,6 @@
+AMPHIPRIONPERCULA	amphiprion_percula
+AMPHIPRIONOCELLARIS	amphiprion_ocellaris
+PARAMBASSISRANGA	parambassis_ranga
+AMPHILOPHUSCITRINELLUS	amphilophus_citrinellus
+LABRUSBERGYLTA	labrus_bergylta
+CYNOGLOSSUSSEMILAEVIS	cynoglossus_semilaevis

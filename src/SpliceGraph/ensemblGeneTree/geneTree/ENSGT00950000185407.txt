@@ -1,0 +1,1 @@
+(((((ENSLSDG00000002229__Lonchura_striata_domestica,ENSLCOG00000001771__Lepidothrix_coronata),ENSGALG00000050937__Gallus_gallus),ENSCPBG00000021895__Chrysemys_picta_bellii),ENSSPUG00000004900__Sphenodon_punctatus),ENSNBRG00000000952__Neolamprologus_brichardi);

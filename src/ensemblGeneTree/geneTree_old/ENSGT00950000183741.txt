@@ -1,1 +1,0 @@
-((ENSSLDG00000004151__Seriola_lalandi_dorsalis,ENSGMOG00000020554__Gadus_morhua),ENSDARG00000039243__Danio_rerio);

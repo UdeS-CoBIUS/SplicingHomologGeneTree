@@ -1,1 +1,0 @@
-(ENSCSEG00000011994__Cynoglossus_semilaevis,ENSLAFG00000026788__Loxodonta_africana);

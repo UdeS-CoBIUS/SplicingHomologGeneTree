@@ -1,0 +1,5 @@
+FBpp0073218	FBgn0035575	Drosophila_melanogaster
+FBpp0292334	FBgn0028872	Drosophila_melanogaster
+ZK682.5.2	WBGene00022789	Caenorhabditis_elegans_strain_N2
+ENSCVAP00000017351	ENSCVAG00000020447	Cyprinodon_variegatus	ENSCVAT00000032271
+ENSAMXP00005034077	ENSAMXG00005016459	Astyanax_mexicanus_Astyanax_mexicanus-1.0.2

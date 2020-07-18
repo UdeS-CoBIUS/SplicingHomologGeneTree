@@ -1,0 +1,1 @@
+((YCR091W__Saccharomyces_cerevisiae_strain_S288C,YNR047W__Saccharomyces_cerevisiae_strain_S288C),ENSOANG00000011251__Ornithorhynchus_anatinus);

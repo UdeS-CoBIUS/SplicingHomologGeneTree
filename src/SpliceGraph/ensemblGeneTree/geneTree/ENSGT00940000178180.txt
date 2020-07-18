@@ -1,0 +1,1 @@
+(((ENSAPOG00000003912__Acanthochromis_polyacanthus,ENSCVAG00000009235__Cyprinodon_variegatus),ENSMAMG00000009499__Mastacembelus_armatus),((ENSLBEG00000009514__Labrus_bergylta,ENSGACG00000012354__Gasterosteus_aculeatus),ENSSDUG00000011727__Seriola_dumerili));

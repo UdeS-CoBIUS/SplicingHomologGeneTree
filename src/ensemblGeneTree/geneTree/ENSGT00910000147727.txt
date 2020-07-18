@@ -1,0 +1,1 @@
+(((ENSUMAG00000008786__Ursus_maritimus,ENSUAMG00000010409__Ursus_americanus),ENSNVIG00000007775__Neovison_vison),((((ENSMMUG00000044399__Macaca_mulatta,ENSMFAG00000030405__Macaca_fascicularis),ENSMLEG00000030539__Mandrillus_leucophaeus),ENSCANG00000025289__Colobus_angolensis_palliatus),ENSNLEG00000027208__Nomascus_leucogenys));

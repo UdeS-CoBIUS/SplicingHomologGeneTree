@@ -1,0 +1,1 @@
+((((ENSSMAG00000005479__Scophthalmus_maximus,ENSCSEG00000019619__Cynoglossus_semilaevis),((ENSSLDG00000012449__Seriola_lalandi_dorsalis,ENSSDUG00000021171__Seriola_dumerili),ENSMAMG00000001363__Mastacembelus_armatus)),ENSGACG00000020119__Gasterosteus_aculeatus),ENSGMOG00000016205__Gadus_morhua);

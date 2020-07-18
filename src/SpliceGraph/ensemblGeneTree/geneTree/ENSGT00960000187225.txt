@@ -1,0 +1,1 @@
+(((ENSPMGG00000021994__Periophthalmus_magnuspinnatus,ENSACIG00000011625__Amphilophus_citrinellus),ENSPKIG00000017846__Paramormyrops_kingsleyae),((ENSJHYG00000013693__Junco_hyemalis,ENSMGAG00000012842__Meleagris_gallopavo),ENSACAG00000011047__Anolis_carolinensis));

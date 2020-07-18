@@ -1,0 +1,1 @@
+((ENSAHAG00000001036__Apteryx_haastii,ENSDNVG00000017383__Dromaius_novaehollandiae),ENSMUNG00000009689__Melopsittacus_undulatus);

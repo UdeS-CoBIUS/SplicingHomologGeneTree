@@ -1,0 +1,60 @@
+>0
+ENSIPUT00000016994: ['no event', 40, 0]
+ENSIPUT00000017020: ['no event', 40, 0]
+ENSEEET00000014071: ['exon skipping', 0, 0]
+>1
+ENSIPUT00000016994: ['exon skipping', 0, 0]
+ENSIPUT00000017020: ['exon skipping', 0, 0]
+ENSEEET00000014071: ['5event', 92, 0]
+>2
+ENSIPUT00000016994: ['5event', 33, 2]
+ENSIPUT00000017020: ['5event', 33, 2]
+ENSEEET00000014071: ['exon skipping', 0, 0]
+>3
+ENSIPUT00000016994: ['no event', 174, 0]
+ENSIPUT00000017020: ['no event', 174, 0]
+ENSEEET00000014071: ['exon skipping', 0, 0]
+>4
+ENSIPUT00000016994: ['no event', 88, 1]
+ENSIPUT00000017020: ['exon skipping', 0, 0]
+ENSEEET00000014071: ['exon skipping', 0, 0]
+>5
+ENSIPUT00000016994: ['exon skipping', 0, 0]
+ENSIPUT00000017020: ['5event', 88, 1]
+ENSEEET00000014071: ['exon skipping', 0, 0]
+>6
+ENSIPUT00000016994: ['exon skipping', 0, 0]
+ENSIPUT00000017020: ['exon skipping', 0, 0]
+ENSEEET00000014071: ['5event', 2, 0]
+>7
+ENSIPUT00000016994: ['5event', 112, 0]
+ENSIPUT00000017020: ['5event', 112, 0]
+ENSEEET00000014071: ['no event', 113, 0]
+>8
+ENSIPUT00000016994: [['internal gap >= 30', 221, 178], 346, 2]
+ENSIPUT00000017020: [['internal gap >= 30', 221, 178], 346, 2]
+ENSEEET00000014071: [['internal gap < 30', 202, 13], 511, 2]
+>9
+ENSIPUT00000016994: ['no event', 122, 1]
+ENSIPUT00000017020: ['no event', 122, 1]
+ENSEEET00000014071: ['no event', 122, 1]
+>10
+ENSIPUT00000016994: ['no event', 151, 1]
+ENSIPUT00000017020: ['no event', 151, 1]
+ENSEEET00000014071: [['internal gap < 30', 101, 6], 145, 1]
+>11
+ENSIPUT00000016994: [['internal gap < 30', 46, 15], 85, 0]
+ENSIPUT00000017020: [['internal gap < 30', 46, 15], 85, 0]
+ENSEEET00000014071: ['no event', 100, 0]
+>12
+ENSIPUT00000016994: [['internal gap < 30', 59, 6], 165, 2]
+ENSIPUT00000017020: [['internal gap < 30', 59, 6], 165, 2]
+ENSEEET00000014071: [['internal gap < 30', 5, 6], 165, 2]
+>13
+ENSIPUT00000016994: ['no event', 127, 0]
+ENSIPUT00000017020: ['no event', 127, 0]
+ENSEEET00000014071: ['no event', 127, 0]
+>14
+ENSIPUT00000016994: ['no event', 69, 2]
+ENSIPUT00000017020: ['no event', 69, 2]
+ENSEEET00000014071: ['no event', 69, 2]

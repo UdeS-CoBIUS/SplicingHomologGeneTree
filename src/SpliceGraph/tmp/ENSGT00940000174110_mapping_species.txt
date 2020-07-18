@@ -1,0 +1,5 @@
+FELISCATUS	felis_catus
+FELISCATUS	felis_catus
+PILIOCOLOBUSTEPHROSCELES	piliocolobus_tephrosceles
+PHASCOLARCTOSCINEREUS	phascolarctos_cinereus
+NUMIDAMELEAGRIS	numida_meleagris

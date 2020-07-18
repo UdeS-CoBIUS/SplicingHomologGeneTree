@@ -1,0 +1,1 @@
+(((ENSSFOG00015010903__Scleropages_formosus,ENSPKIG00000002638__Paramormyrops_kingsleyae),(ENSAMXG00000034826__Astyanax_mexicanus,ENSPNAG00000016933__Pygocentrus_nattereri)),(ENSSMRG00000000611__Salvator_merianae,ENSPEMG00000024880__Peromyscus_maniculatus_bairdii));

@@ -1,0 +1,1 @@
+(((ENSPEMG00000029745__Peromyscus_maniculatus_bairdii,ENSCGRG00015017938__Cricetulus_griseus_CriGri-PICR),(ENSMUGG00000018543__Meriones_unguiculatus,ENSRNOG00000038215__Rattus_norvegicus)),ENSPSMG00000022884__Prolemur_simus);

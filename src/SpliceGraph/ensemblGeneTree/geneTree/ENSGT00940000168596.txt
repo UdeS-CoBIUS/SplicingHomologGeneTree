@@ -1,0 +1,1 @@
+((ENSMVIG00005016891__Manacus_vitellinus,ENSMVIG00005019402__Manacus_vitellinus),(((ENSPPAG00000029107__Pan_paniscus,ENSPTRG00000048595__Pan_troglodytes),ENSCAPG00000017568__Cavia_aperea),ENSEEUG00000000703__Erinaceus_europaeus));

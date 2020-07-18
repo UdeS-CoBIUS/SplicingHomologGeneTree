@@ -1,0 +1,1 @@
+((YOL113W__Saccharomyces_cerevisiae_strain_S288C,YNL298W__Saccharomyces_cerevisiae_strain_S288C),ENSSCAG00000004047__Serinus_canaria);

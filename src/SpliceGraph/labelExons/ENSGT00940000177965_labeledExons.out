@@ -1,0 +1,15 @@
+>0
+ENSACLT00000004274: ['no event', 84, 0]
+ENSNBRT00000007828: ['exon skipping', 0, 0]
+>1
+ENSACLT00000004274: ['no event', 144, 1]
+ENSNBRT00000007828: ['5event', 108, 0]
+>2
+ENSACLT00000004274: ['exon skipping', 0, 0]
+ENSNBRT00000007828: ['no event', 15, 1]
+>3
+ENSACLT00000004274: ['exon skipping', 0, 0]
+ENSNBRT00000007828: ['no event', 33, 2]
+>4
+ENSACLT00000004274: ['5event', 25, 1]
+ENSNBRT00000007828: ['exon skipping', 0, 0]

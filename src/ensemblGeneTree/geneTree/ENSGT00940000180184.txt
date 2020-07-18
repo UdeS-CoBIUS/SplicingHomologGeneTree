@@ -1,0 +1,1 @@
+(((ENSOMEG00000019331__Oryzias_melastigma,ENSORLG00020022510__Oryzias_latipes_ASM223471v1),ENSFHEG00000017739__Fundulus_heteroclitus),ENSLCRG00005015889__Larimichthys_crocea);

@@ -1,0 +1,1 @@
+(((((ENSCATG00000038562__Cercocebus_atys,ENSMLEG00000022907__Mandrillus_leucophaeus),ENSPANG00000034603__Papio_anubis),ENSPPYG00000019796__Pongo_abelii),ENSANAG00000021710__Aotus_nancymaae),(((ENSOARG00000018606__Ovis_aries,ENSTTRG00000021357__Tursiops_truncatus),ENSPVAG00000002034__Pteropus_vampyrus),ENSPTIG00000016647__Panthera_tigris_altaica));

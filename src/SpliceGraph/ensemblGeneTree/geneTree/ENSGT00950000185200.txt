@@ -1,0 +1,1 @@
+((((ENSECAG00000031092__Equus_caballus,ENSVVUG00000024173__Vulpes_vulpes),ENSBTAG00000049701__Bos_taurus),ENSMSIG00000007857__Mus_spicilegus),ENSAPLG00000028448__Anas_platyrhynchos_platyrhynchos);

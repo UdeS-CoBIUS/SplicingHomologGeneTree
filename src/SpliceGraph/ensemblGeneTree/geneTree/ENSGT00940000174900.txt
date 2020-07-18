@@ -1,0 +1,1 @@
+(((ENSUAMG00000020002__Ursus_americanus,ENSAHAG00000004530__Apteryx_haastii),ENSSLDG00000006653__Seriola_lalandi_dorsalis),FBgn0004432__Drosophila_melanogaster);

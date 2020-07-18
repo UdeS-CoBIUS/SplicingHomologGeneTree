@@ -1,0 +1,1 @@
+((ENSNPEG00000002317__Nothoprocta_perdicaria,ENSCABG00000007237__Chelonoidis_abingdonii),((ENSCCNG00000003275__Castor_canadensis,ENSPEMG00000030368__Peromyscus_maniculatus_bairdii),ENSUAMG00000004974__Ursus_americanus));

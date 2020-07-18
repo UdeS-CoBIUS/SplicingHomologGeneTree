@@ -1,1 +1,0 @@
-((ENSUAMG00000024916__Ursus_americanus,ENSJHYG00000004550__Junco_hyemalis),ENSTRUG00000025805__Takifugu_rubripes);

@@ -1,0 +1,4 @@
+>completeCluster_0
+FBtr0075377	FBtr0332308
+>completeCluster_1
+FBtr0110866	FBtr0347416

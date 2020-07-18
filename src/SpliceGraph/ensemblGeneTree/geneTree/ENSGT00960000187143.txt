@@ -1,0 +1,1 @@
+(((((ENSSSCG00000040242__Sus_scrofa,ENSSSCG00000000628__Sus_scrofa),ENSSSCG00000000629__Sus_scrofa),ENSPSIG00000001935__Pelodiscus_sinensis),ENSLACG00000002186__Latimeria_chalumnae),ENSAMXG00000032284__Astyanax_mexicanus);

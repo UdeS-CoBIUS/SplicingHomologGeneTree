@@ -1,0 +1,1 @@
+(((((ENSVVUG00000018127__Vulpes_vulpes,ENSNVIG00000013401__Neovison_vison),(ENSFCAG00000042189__Felis_catus,ENSPPRG00000014456__Panthera_pardus)),(ENSEASG00005018419__Equus_asinus_asinus,ENSECAG00000028316__Equus_caballus)),(ENSCHIG00000011360__Capra_hircus,ENSUAMG00000014795__Ursus_americanus)),ENSCCNG00000013158__Castor_canadensis);

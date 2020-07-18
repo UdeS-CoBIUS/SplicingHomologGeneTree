@@ -1,0 +1,1 @@
+(((ENSACIG00000010504__Amphilophus_citrinellus,ENSOMEG00000015748__Oryzias_melastigma),ENSSLDG00000009271__Seriola_lalandi_dorsalis),((ENSOANG00000010587__Ornithorhynchus_anatinus,ENSBBBG00000008586__Bison_bison_bison),(ENSAHAG00000003993__Apteryx_haastii,ENSSPUG00000007578__Sphenodon_punctatus)));

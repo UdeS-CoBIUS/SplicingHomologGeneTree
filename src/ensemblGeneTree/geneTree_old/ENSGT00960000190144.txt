@@ -1,1 +1,0 @@
-((ENSAPLG00000026550__Anas_platyrhynchos_platyrhynchos,ENSCPUG00000006763__Calidris_pugnax),ENSUAMG00000002544__Ursus_americanus);

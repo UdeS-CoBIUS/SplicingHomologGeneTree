@@ -1,0 +1,1 @@
+((((((ENSGALG00000051714__Gallus_gallus,ENSGALG00000052313__Gallus_gallus),ENSGALG00000050194__Gallus_gallus),ENSGALG00000050392__Gallus_gallus),ENSFALG00000014903__Ficedula_albicollis),ENSELUG00000023603__Esox_lucius),ENSEBUG00000004545__Eptatretus_burgeri);

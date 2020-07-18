@@ -1,0 +1,1 @@
+((((ENSPSMG00000020358__Prolemur_simus,ENSMICG00000043026__Microcebus_murinus),((ENSCCAG00000019697__Cebus_capucinus_imitator,ENSSBOG00000022913__Saimiri_boliviensis_boliviensis),ENSANAG00000026359__Aotus_nancymaae)),ENSMMMG00000008758__Marmota_marmota_marmota),ENSPPRG00000004671__Panthera_pardus);

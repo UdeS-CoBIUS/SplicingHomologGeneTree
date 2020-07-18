@@ -1,0 +1,1 @@
+(((((ENSPSMG00000017413__Prolemur_simus,ENSMICG00000044188__Microcebus_murinus),ENSPCOG00000007730__Propithecus_coquereli),ENSTSYG00000026085__Carlito_syrichta),ENSSDAG00000016726__Spermophilus_dauricus),ENSECAG00000020830__Equus_caballus);

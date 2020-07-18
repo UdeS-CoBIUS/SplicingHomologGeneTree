@@ -1,0 +1,1 @@
+((ENSPREG00000001906__Poecilia_reticulata,ENSHCOG00000020239__Hippocampus_comes),((((((ENSCCEG00000015845__Cyanistes_caeruleus,ENSPMJG00000019527__Parus_major),ENSJHYG00000005605__Junco_hyemalis),ENSCPUG00000002350__Calidris_pugnax),ENSMUNG00000009407__Melopsittacus_undulatus),ENSMVIG00005012464__Manacus_vitellinus),ENSNPEG00000014016__Nothoprocta_perdicaria));

@@ -1,1 +1,0 @@
-(ENSANAG00000020062__Aotus_nancymaae,ENSOCUG00000024605__Oryctolagus_cuniculus);

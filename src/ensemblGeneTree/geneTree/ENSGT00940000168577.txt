@@ -1,0 +1,1 @@
+((ENSCING00000015292__Ciona_intestinalis,ENSCSAVG00000006464__Ciona_savignyi),(((ENSKMAG00000019139__Kryptolebias_marmoratus,ENSXMAG00000016277__Xiphophorus_maculatus),ENSAPOG00000010099__Acanthochromis_polyacanthus),(ENSPCAG00000000345__Procavia_capensis,ENSTSYG00000034588__Carlito_syrichta)));

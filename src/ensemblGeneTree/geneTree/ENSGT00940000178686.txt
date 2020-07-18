@@ -1,0 +1,1 @@
+((ENSAPOG00000004649__Acanthochromis_polyacanthus,ENSORLG00020017632__Oryzias_latipes_ASM223471v1),(ENSSFOG00015007171__Scleropages_formosus,ENSSFOG00015007157__Scleropages_formosus));

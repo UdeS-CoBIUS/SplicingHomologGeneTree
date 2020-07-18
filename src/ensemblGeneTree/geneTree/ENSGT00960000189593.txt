@@ -1,0 +1,1 @@
+((ENSCPGG00000011995__Calidris_pygmaea,ENSAHAG00000012567__Apteryx_haastii),((ENSTGEG00000012782__Theropithecus_gelada,ENSPTEG00000004196__Piliocolobus_tephrosceles),(ENSBBBG00000019961__Bison_bison_bison,ENSBMUG00000016164__Bos_mutus)));

@@ -1,1 +1,0 @@
-((((ENSZALG00000005367__Zonotrichia_albicollis,ENSVVUG00000003889__Vulpes_vulpes),ENSARWG00000000322__Apteryx_rowi),ENSXETG00000001494__Xenopus_tropicalis),ENSORLG00000026271__Oryzias_latipes_ASM223467v1);

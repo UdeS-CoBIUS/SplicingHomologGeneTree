@@ -1,0 +1,1 @@
+(((ENSPFOG00000021705__Poecilia_formosa,ENSPFOG00000024344__Poecilia_formosa),(ENSPREG00000011710__Poecilia_reticulata,ENSFHEG00000002410__Fundulus_heteroclitus)),((ENSPNAG00000018354__Pygocentrus_nattereri,ENSAMXG00000008928__Astyanax_mexicanus),ENSIPUG00000011034__Ictalurus_punctatus));

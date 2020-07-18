@@ -1,0 +1,1 @@
+((((((ENSDNOG00000048777__Dasypus_novemcinctus,ENSDNOG00000001843__Dasypus_novemcinctus),ENSDNOG00000048966__Dasypus_novemcinctus),ENSDNOG00000031647__Dasypus_novemcinctus),ENSCAFG00000029634__Canis_lupus_familiaris),ENSOARG00000013300__Ovis_aries),ENSPFOG00000024820__Poecilia_formosa);

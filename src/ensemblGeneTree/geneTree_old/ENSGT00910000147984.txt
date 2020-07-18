@@ -1,1 +1,0 @@
-((ENSPPAG00000009307__Pan_paniscus,ENSRBIG00000036688__Rhinopithecus_bieti),ENSFCAG00000037317__Felis_catus);

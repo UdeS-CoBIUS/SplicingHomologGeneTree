@@ -1,0 +1,1 @@
+(((((ENSAOCG00000009481__Amphiprion_ocellaris,ENSPREG00000009908__Poecilia_reticulata),ENSPNAG00000003321__Pygocentrus_nattereri),ENSPKIG00000017811__Paramormyrops_kingsleyae),ENSPKIG00000012472__Paramormyrops_kingsleyae),ENSMVIG00005015850__Manacus_vitellinus);

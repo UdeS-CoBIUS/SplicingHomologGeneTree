@@ -1,0 +1,4 @@
+MACACAMULATTA	macaca_mulatta
+MACACAFASCICULARIS	macaca_fascicularis
+MACACANEMESTRINA	macaca_nemestrina
+CERCOCEBUSATYS	cercocebus_atys

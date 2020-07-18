@@ -1,0 +1,1 @@
+(((ENSEASG00005007882__Equus_asinus_asinus,ENSECAG00000034428__Equus_caballus),ENSPTEG00000014711__Piliocolobus_tephrosceles),(ENSLSDG00000013667__Lonchura_striata_domestica,ENSZALG00000004897__Zonotrichia_albicollis));

@@ -1,1 +1,0 @@
-((ENSLOCG00000003863__Lepisosteus_oculatus,ENSPFOG00000021821__Poecilia_formosa),(ENSPMAG00000007107__Petromyzon_marinus,ENSEBUG00000016512__Eptatretus_burgeri));

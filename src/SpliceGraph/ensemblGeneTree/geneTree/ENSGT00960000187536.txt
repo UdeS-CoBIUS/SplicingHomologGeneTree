@@ -1,0 +1,1 @@
+((((((ENSCGRG00015022767__Cricetulus_griseus_CriGri-PICR,ENSCGRG00001022558__Cricetulus_griseus_CHOK1GS_HDv1),ENSPEMG00000027646__Peromyscus_maniculatus_bairdii),ENSMSIG00000019901__Mus_spicilegus),ENSNGAG00000000643__Nannospalax_galili),ENSJJAG00000000481__Jaculus_jaculus),ENSPTIG00000001879__Panthera_tigris_altaica);

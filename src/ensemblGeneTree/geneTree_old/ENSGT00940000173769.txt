@@ -1,1 +1,0 @@
-((ENSPREG00000012703__Poecilia_reticulata,ENSNBRG00000023865__Neolamprologus_brichardi),((ENSPTIG00000000721__Panthera_tigris_altaica,ENSPTIG00000013887__Panthera_tigris_altaica),ENSCHIG00000023961__Capra_hircus));

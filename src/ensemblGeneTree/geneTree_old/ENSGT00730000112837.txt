@@ -1,1 +1,0 @@
-((ENSSARG00000009034__Sorex_araneus,ENSSARG00000003509__Sorex_araneus),ENSSARG00000014149__Sorex_araneus);

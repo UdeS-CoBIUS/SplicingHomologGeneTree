@@ -1,0 +1,1 @@
+((ENSMFAG00000005543__Macaca_fascicularis,ENSPANG00000035739__Papio_anubis),ENSTGEG00000018604__Theropithecus_gelada);

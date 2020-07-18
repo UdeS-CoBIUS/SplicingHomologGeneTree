@@ -1,0 +1,1 @@
+(((ENSXMAG00000026524__Xiphophorus_maculatus,ENSGAFG00000019888__Gambusia_affinis),ENSPLAG00000016955__Poecilia_latipinna),ENSFHEG00000007512__Fundulus_heteroclitus);

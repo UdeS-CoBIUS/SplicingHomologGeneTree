@@ -1,0 +1,1 @@
+((ENSTSYG00000028482__Carlito_syrichta,ENSPTEG00000014079__Piliocolobus_tephrosceles),(ENSUMAG00000005771__Ursus_maritimus,ENSUAMG00000025422__Ursus_americanus));

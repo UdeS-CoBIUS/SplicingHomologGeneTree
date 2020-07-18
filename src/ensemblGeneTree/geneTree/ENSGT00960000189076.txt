@@ -1,0 +1,1 @@
+(((ENSCPUG00000000516__Calidris_pugnax,ENSCPUG00000005278__Calidris_pugnax),ENSCPUG00000007458__Calidris_pugnax),ENSORLG00020016966__Oryzias_latipes_ASM223471v1);

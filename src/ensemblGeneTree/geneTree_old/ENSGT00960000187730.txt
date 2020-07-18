@@ -1,1 +1,0 @@
-((ENSCCAG00000025376__Cebus_capucinus_imitator,ENSCJAG00000043825__Callithrix_jacchus),ENSANAG00000030410__Aotus_nancymaae);

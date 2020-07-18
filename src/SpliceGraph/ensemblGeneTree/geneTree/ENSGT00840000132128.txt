@@ -1,0 +1,1 @@
+((ENSMODG00000028413__Monodelphis_domestica,ENSMODG00000028075__Monodelphis_domestica),ENSTGUG00000012297__Taeniopygia_guttata);

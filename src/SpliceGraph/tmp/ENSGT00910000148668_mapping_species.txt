@@ -1,0 +1,4 @@
+PROLEMURSIMUS	prolemur_simus
+CEBUSCAPUCINUS	cebus_capucinus
+CRICETULUSGRISEUSCRIGRIPICR	cricetulus_griseus_crigri-picr
+SUSSCROFA	sus_scrofa

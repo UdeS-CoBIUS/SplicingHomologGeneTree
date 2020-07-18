@@ -1,0 +1,1 @@
+(ENSG00000284041__Homo_sapiens,ENSOARG00000001086__Ovis_aries);

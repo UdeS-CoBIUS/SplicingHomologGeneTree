@@ -1,0 +1,1 @@
+(((ENSLCOG00000002598__Lepidothrix_coronata,ENSJHYG00000014543__Junco_hyemalis),ENSLSDG00000003666__Lonchura_striata_domestica),ENSARWG00000009659__Apteryx_rowi);

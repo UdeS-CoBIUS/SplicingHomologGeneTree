@@ -1,0 +1,1 @@
+((WBGene00044201__Caenorhabditis_elegans_strain_N2,WBGene00008396__Caenorhabditis_elegans_strain_N2),ENSPSIG00000004611__Pelodiscus_sinensis);

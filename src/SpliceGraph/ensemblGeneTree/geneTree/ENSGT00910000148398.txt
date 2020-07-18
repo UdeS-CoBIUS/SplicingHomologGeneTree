@@ -1,0 +1,1 @@
+(((ENSMLEG00000035384__Mandrillus_leucophaeus,ENSCANG00000032191__Colobus_angolensis_palliatus),ENSECAG00000033958__Equus_caballus),ENSZALG00000002432__Zonotrichia_albicollis);

@@ -1,0 +1,1 @@
+(((((ENSAOCG00000021930__Amphiprion_ocellaris,ENSPMEG00000022905__Poecilia_mexicana),ENSACLG00000007044__Astatotilapia_calliptera),ENSGMOG00000016294__Gadus_morhua),ENSPKIG00000010064__Paramormyrops_kingsleyae),(ENSNSUG00000001007__Notechis_scutatus,ENSTGUG00000008058__Taeniopygia_guttata));

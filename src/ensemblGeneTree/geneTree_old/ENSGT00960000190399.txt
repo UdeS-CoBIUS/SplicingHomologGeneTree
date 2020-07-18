@@ -1,1 +1,0 @@
-((ENSMUGG00000003937__Meriones_unguiculatus,ENSCCNG00000004003__Castor_canadensis),ENSAPLG00000021744__Anas_platyrhynchos_platyrhynchos);

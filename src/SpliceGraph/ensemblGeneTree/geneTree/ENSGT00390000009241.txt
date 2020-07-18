@@ -1,0 +1,1 @@
+(((ENSCHOG00000001348__Choloepus_hoffmanni,ENSDNOG00000032685__Dasypus_novemcinctus),(((((ENSPPAG00000033193__Pan_paniscus,ENSPTRG00000050376__Pan_troglodytes),ENSGGOG00000043905__Gorilla_gorilla),ENSNLEG00000030915__Nomascus_leucogenys),ENSTBEG00000009542__Tupaia_belangeri),ENSTTRG00000002363__Tursiops_truncatus)),ENSPCAG00000001928__Procavia_capensis);

@@ -1,0 +1,1 @@
+((((((ENSOMEG00000016701__Oryzias_melastigma,ENSOMEG00000023531__Oryzias_melastigma),ENSXMAG00000028028__Xiphophorus_maculatus),ENSPKIG00000008049__Paramormyrops_kingsleyae),ENSPMJG00000001394__Parus_major),ENSOMEG00000013196__Oryzias_melastigma),ENSEBUG00000006417__Eptatretus_burgeri);

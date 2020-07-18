@@ -1,0 +1,1 @@
+((((ENSTGEG00000015401__Theropithecus_gelada,ENSPANG00000033015__Papio_anubis),ENSPTEG00000011288__Piliocolobus_tephrosceles),ENSNLEG00000033225__Nomascus_leucogenys),(ENSECAG00000037679__Equus_caballus,ENSEASG00005016658__Equus_asinus_asinus));

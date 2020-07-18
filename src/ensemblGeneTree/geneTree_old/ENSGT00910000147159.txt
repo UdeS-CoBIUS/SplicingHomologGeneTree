@@ -1,1 +1,0 @@
-(((((ENSCATG00000034753__Cercocebus_atys,ENSMLEG00000010904__Mandrillus_leucophaeus),ENSMNEG00000030036__Macaca_nemestrina),ENSCANG00000042940__Colobus_angolensis_palliatus),(ENSPPAG00000034271__Pan_paniscus,ENSNLEG00000031839__Nomascus_leucogenys)),ENSANAG00000034736__Aotus_nancymaae);

@@ -1,0 +1,1 @@
+((ENSOANG00000010112__Ornithorhynchus_anatinus,ENSSBOG00000022824__Saimiri_boliviensis_boliviensis),ENSCPGG00000013039__Calidris_pygmaea);

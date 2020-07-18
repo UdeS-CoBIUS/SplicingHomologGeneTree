@@ -1,0 +1,18 @@
+>0
+ENSMMUT00000093280: ['exon skipping', 0, 0]
+ENSMLET00000047476: ['no event', 3, 0]
+ENSPTRT00000082748: ['no event', 3, 0]
+ENSPPAT00000031140: ['no event', 3, 0]
+ENSGGOT00000047107: ['no event', 3, 0]
+>1
+ENSMMUT00000093280: ['5event', 33, 0]
+ENSMLET00000047476: ['exon skipping', 0, 0]
+ENSPTRT00000082748: ['exon skipping', 0, 0]
+ENSPPAT00000031140: ['exon skipping', 0, 0]
+ENSGGOT00000047107: ['exon skipping', 0, 0]
+>2
+ENSMMUT00000093280: ['no event', 185, 1]
+ENSMLET00000047476: ['5event', 184, 1]
+ENSPTRT00000082748: ['5event', 184, 1]
+ENSPPAT00000031140: ['5event', 184, 1]
+ENSGGOT00000047107: ['5event', 184, 1]

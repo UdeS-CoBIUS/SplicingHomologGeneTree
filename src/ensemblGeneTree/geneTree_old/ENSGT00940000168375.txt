@@ -1,1 +1,0 @@
-(((((ENSSDUG00000020719__Seriola_dumerili,ENSMZEG00005023209__Maylandia_zebra),ENSPFOG00000024699__Poecilia_formosa),(ENSMALG00000009181__Monopterus_albus,ENSGACG00000002043__Gasterosteus_aculeatus)),(ENSDARG00000097662__Danio_rerio,ENSPKIG00000003044__Paramormyrops_kingsleyae)),(WBGene00003037__Caenorhabditis_elegans_strain_N2,FBgn0033846__Drosophila_melanogaster));

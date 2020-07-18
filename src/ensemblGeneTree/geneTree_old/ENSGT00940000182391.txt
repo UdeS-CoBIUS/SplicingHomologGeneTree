@@ -1,1 +1,0 @@
-(ENSFHEG00000019498__Fundulus_heteroclitus,ENSFHEG00000019486__Fundulus_heteroclitus);

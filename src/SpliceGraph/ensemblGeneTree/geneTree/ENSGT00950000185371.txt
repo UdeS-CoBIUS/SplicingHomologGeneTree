@@ -1,0 +1,1 @@
+((ENSBTAG00000054380__Bos_taurus,ENSPCIG00000023462__Phascolarctos_cinereus),ENSSPUG00000005146__Sphenodon_punctatus);

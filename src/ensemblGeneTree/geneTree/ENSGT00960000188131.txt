@@ -1,0 +1,1 @@
+(((ENSAPLG00000022845__Anas_platyrhynchos_platyrhynchos,ENSAPLG00000017008__Anas_platyrhynchos_platyrhynchos),ENSFALG00000014681__Ficedula_albicollis),ENSCVAG00000002451__Cyprinodon_variegatus);

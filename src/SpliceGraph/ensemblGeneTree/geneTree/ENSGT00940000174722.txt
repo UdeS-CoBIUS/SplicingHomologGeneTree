@@ -1,0 +1,1 @@
+(((ENSPKIG00000022318__Paramormyrops_kingsleyae,ENSSFOG00015016681__Scleropages_formosus),ENSELUG00000013337__Esox_lucius),ENSLOCG00000016176__Lepisosteus_oculatus);

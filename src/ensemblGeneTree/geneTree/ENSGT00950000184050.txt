@@ -1,0 +1,1 @@
+((ENSCSEG00000018140__Cynoglossus_semilaevis,ENSELUG00000007516__Esox_lucius),(ENSSFOG00015002761__Scleropages_formosus,ENSPKIG00000005400__Paramormyrops_kingsleyae));

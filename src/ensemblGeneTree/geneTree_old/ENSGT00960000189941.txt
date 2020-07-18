@@ -1,1 +1,0 @@
-(((ENSCJPG00005012344__Coturnix_japonica,ENSNMEG00000009738__Numida_meleagris),ENSAHAG00000011492__Apteryx_haastii),ENSFHEG00000001952__Fundulus_heteroclitus);

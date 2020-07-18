@@ -1,0 +1,1 @@
+((((ENSRROG00000043551__Rhinopithecus_roxellana,ENSTSYG00000025764__Carlito_syrichta),ENSMSIG00000027154__Mus_spicilegus),ENSBBBG00000024076__Bison_bison_bison),(ENSAPOG00000011769__Acanthochromis_polyacanthus,ENSAPOG00000012208__Acanthochromis_polyacanthus));

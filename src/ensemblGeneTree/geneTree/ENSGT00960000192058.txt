@@ -1,0 +1,1 @@
+(ENSSDAG00000004036__Spermophilus_dauricus,ENSMNEG00000004335__Macaca_nemestrina);

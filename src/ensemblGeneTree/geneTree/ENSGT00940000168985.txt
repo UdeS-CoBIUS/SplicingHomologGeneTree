@@ -1,0 +1,1 @@
+(((ENSRROG00000043512__Rhinopithecus_roxellana,ENSPPAG00000032321__Pan_paniscus),ENSSTOG00000024671__Ictidomys_tridecemlineatus),ENSLAFG00000028185__Loxodonta_africana);

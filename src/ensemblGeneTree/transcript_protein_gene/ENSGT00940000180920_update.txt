@@ -1,0 +1,2 @@
+YHR214C-D_mRNA	YHR214C-D	Saccharomyces_cerevisiae_strain_S288C
+YAR069C_mRNA	YAR069C	Saccharomyces_cerevisiae_strain_S288C

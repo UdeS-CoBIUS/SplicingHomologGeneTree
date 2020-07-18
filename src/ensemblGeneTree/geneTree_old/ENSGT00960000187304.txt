@@ -1,1 +1,0 @@
-((((ENSAPEG00000013621__Amphiprion_percula,ENSAPEG00000013604__Amphiprion_percula),ENSAOCG00000012523__Amphiprion_ocellaris),ENSLBEG00000002075__Labrus_bergylta),ENSSDUG00000010595__Seriola_dumerili);

@@ -1,0 +1,10 @@
+YGR296C-B_mRNA	YGR296C-B	Saccharomyces_cerevisiae_strain_S288C
+YDR545C-A_mRNA	YDR545C-A	Saccharomyces_cerevisiae_strain_S288C
+YLR466C-A_mRNA	YLR466C-A	Saccharomyces_cerevisiae_strain_S288C
+YPR204C-A_mRNA	YPR204C-A	Saccharomyces_cerevisiae_strain_S288C
+YBL113W-A_mRNA	YBL113W-A	Saccharomyces_cerevisiae_strain_S288C
+YPL283W-B_mRNA	YPL283W-B	Saccharomyces_cerevisiae_strain_S288C
+YOR396C-A_mRNA	YOR396C-A	Saccharomyces_cerevisiae_strain_S288C
+YLR467C-A_mRNA	YLR467C-A	Saccharomyces_cerevisiae_strain_S288C
+YEL077W-A_mRNA	YEL077W-A	Saccharomyces_cerevisiae_strain_S288C
+YER190C-B_mRNA	YER190C-B	Saccharomyces_cerevisiae_strain_S288C

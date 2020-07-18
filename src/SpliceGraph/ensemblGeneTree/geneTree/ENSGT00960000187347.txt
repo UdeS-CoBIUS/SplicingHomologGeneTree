@@ -1,0 +1,1 @@
+(((ENSAPEG00000019126__Amphiprion_percula,ENSCSEG00000016265__Cynoglossus_semilaevis),(((ENSGALG00000054307__Gallus_gallus,ENSLSDG00000006101__Lonchura_striata_domestica),ENSCPUG00000001846__Calidris_pugnax),ENSDNOG00000039361__Dasypus_novemcinctus)),FBgn0029728__Drosophila_melanogaster);

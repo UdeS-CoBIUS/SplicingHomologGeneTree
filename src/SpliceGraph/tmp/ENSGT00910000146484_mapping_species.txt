@@ -1,0 +1,6 @@
+NOMASCUSLEUCOGENYS	nomascus_leucogenys
+GORILLAGORILLA	gorilla_gorilla
+MACACANEMESTRINA	macaca_nemestrina
+CEBUSCAPUCINUS	cebus_capucinus
+SAIMIRIBOLIVIENSISBOLIVIENSIS	saimiri_boliviensis_boliviensis
+DASYPUSNOVEMCINCTUS	dasypus_novemcinctus

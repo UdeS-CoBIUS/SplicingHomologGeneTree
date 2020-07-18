@@ -1,1 +1,0 @@
-(ENSELUG00000020679__Esox_lucius,ENSSMAG00000020377__Scophthalmus_maximus);

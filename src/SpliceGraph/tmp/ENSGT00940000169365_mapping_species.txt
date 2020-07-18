@@ -1,0 +1,4 @@
+TETRAODONNIGROVIRIDIS	tetraodon_nigroviridis
+TAKIFUGURUBRIPES	takifugu_rubripes
+DANIORERIO	danio_rerio
+CIONAINTESTINALIS	ciona_intestinalis

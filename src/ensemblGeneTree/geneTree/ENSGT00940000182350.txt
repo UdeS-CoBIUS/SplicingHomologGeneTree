@@ -1,0 +1,1 @@
+((((ENSSCAG00000000744__Serinus_canaria,ENSLSDG00000011804__Lonchura_striata_domestica),ENSJHYG00000002281__Junco_hyemalis),ENSCPUG00000005773__Calidris_pugnax),(ENSSLDG00000007339__Seriola_lalandi_dorsalis,ENSPMGG00000022079__Periophthalmus_magnuspinnatus));

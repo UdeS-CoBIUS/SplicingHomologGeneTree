@@ -1,1 +1,0 @@
-((((ENSMSIG00000013570__Mus_spicilegus,MGP_CAROLIEiJ_G0015368__Mus_caroli_strain_CAROLI_EIJ),MGP_SPRETEiJ_G0016179__Mus_spretus_strain_SPRET/EiJ),MGP_PahariEiJ_G0030784__Mus_pahari_strain_PAHARI_EIJ),ENSCCNG00000030863__Castor_canadensis);

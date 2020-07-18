@@ -1,0 +1,1 @@
+(ENSOANG00000022005__Ornithorhynchus_anatinus,ENSPSIG00000008312__Pelodiscus_sinensis);

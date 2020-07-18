@@ -1,0 +1,1 @@
+((((ENSPREG00000021354__Poecilia_reticulata,ENSCVAG00000005206__Cyprinodon_variegatus),ENSCVAG00000019514__Cyprinodon_variegatus),ENSPMGG00000021126__Periophthalmus_magnuspinnatus),((ENSNPEG00000010426__Nothoprocta_perdicaria,ENSCCEG00000022171__Cyanistes_caeruleus),ENSCPRG00005006826__Crocodylus_porosus));

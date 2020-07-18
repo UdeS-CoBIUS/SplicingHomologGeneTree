@@ -1,0 +1,5 @@
+HAPLOCHROMISBURTONI	haplochromis_burtoni
+MAYLANDIAZEBRA	maylandia_zebra
+ACANTHOCHROMISPOLYACANTHUS	acanthochromis_polyacanthus
+PROCAVIACAPENSIS	procavia_capensis
+SPHENODONPUNCTATUS	sphenodon_punctatus

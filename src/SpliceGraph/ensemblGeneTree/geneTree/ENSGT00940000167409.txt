@@ -1,0 +1,1 @@
+((((((ENSMMUG00000038901__Macaca_mulatta,ENSMFAG00000004065__Macaca_fascicularis),ENSMLEG00000031928__Mandrillus_leucophaeus),ENSPPYG00000005398__Pongo_abelii),ENSTBEG00000013344__Tupaia_belangeri),ENSEEUG00000009820__Erinaceus_europaeus),ENSPCAG00000012963__Procavia_capensis);

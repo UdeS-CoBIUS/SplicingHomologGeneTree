@@ -1,0 +1,1 @@
+((ENSNMEG00000002151__Numida_meleagris,ENSCJPG00005015728__Coturnix_japonica),(ENSCPUG00000010624__Calidris_pugnax,ENSCPGG00000016886__Calidris_pygmaea));

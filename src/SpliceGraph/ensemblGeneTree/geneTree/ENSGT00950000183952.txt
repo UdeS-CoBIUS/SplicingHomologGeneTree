@@ -1,0 +1,1 @@
+(((ENSSPAG00000017193__Stegastes_partitus,ENSCVAG00000021718__Cyprinodon_variegatus),ENSGACG00000006179__Gasterosteus_aculeatus),ENSGMOG00000017776__Gadus_morhua);

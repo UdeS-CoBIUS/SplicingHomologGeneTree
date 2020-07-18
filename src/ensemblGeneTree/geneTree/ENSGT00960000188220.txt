@@ -1,0 +1,1 @@
+((ENSFCAG00000027871__Felis_catus,ENSPTIG00000018670__Panthera_tigris_altaica),ENSSDAG00000023967__Spermophilus_dauricus);

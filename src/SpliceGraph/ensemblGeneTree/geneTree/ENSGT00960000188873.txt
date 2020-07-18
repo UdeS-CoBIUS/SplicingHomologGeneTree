@@ -1,0 +1,1 @@
+(ENSECAG00000028722__Equus_caballus,ENSMSIG00000002119__Mus_spicilegus);

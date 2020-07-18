@@ -1,0 +1,1 @@
+((ENSCAFG00020013798__Canis_lupus_dingo,ENSCGRG00015008902__Cricetulus_griseus_CriGri-PICR),(ENSPSMG00000014117__Prolemur_simus,ENSVVUG00000014578__Vulpes_vulpes));

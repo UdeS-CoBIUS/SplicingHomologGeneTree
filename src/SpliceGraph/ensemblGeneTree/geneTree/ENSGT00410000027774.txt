@@ -1,0 +1,1 @@
+(((ENSEEUG00000015834__Erinaceus_europaeus,ENSOARG00000013359__Ovis_aries),ENSPPYG00000015798__Pongo_abelii),ENSETEG00000009338__Echinops_telfairi);

@@ -1,0 +1,9 @@
+>0
+ENSHHUT00000023559: ['no event', 751, 0]
+ENSPTET00000006683: ['exon skipping', 0, 0]
+>1
+ENSHHUT00000023559: ['3event', 371, 2]
+ENSPTET00000006683: ['5event', 1174, 0]
+>2
+ENSHHUT00000023559: ['exon skipping', 0, 0]
+ENSPTET00000006683: ['no event', 42, 2]

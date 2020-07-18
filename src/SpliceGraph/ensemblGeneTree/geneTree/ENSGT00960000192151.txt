@@ -1,0 +1,1 @@
+(ENSGALG00000054032__Gallus_gallus,ENSPMJG00000004665__Parus_major);

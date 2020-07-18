@@ -1,0 +1,1 @@
+((ENSOMEG00000005770__Oryzias_melastigma,ENSTRUG00000022553__Takifugu_rubripes),ENSEBUG00000004076__Eptatretus_burgeri);

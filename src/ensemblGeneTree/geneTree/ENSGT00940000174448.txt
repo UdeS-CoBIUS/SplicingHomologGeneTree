@@ -1,0 +1,1 @@
+(((ENSPTIG00000007093__Panthera_tigris_altaica,ENSPPRG00000021053__Panthera_pardus),ENSNVIG00000021325__Neovison_vison),ENSHHUG00000007214__Hucho_hucho);

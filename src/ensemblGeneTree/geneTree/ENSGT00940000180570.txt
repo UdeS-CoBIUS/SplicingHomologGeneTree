@@ -1,0 +1,1 @@
+(((ENSCCEG00000001594__Cyanistes_caeruleus,ENSJHYG00000017401__Junco_hyemalis),ENSMVIG00005002968__Manacus_vitellinus),(ENSSLDG00000012046__Seriola_lalandi_dorsalis,ENSPNAG00000029772__Pygocentrus_nattereri));

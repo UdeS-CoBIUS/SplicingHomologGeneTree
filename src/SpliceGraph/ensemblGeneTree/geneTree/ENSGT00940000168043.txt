@@ -1,0 +1,1 @@
+(((((ENSPPAG00000004151__Pan_paniscus,ENSPTRG00000047113__Pan_troglodytes),ENSGGOG00000041282__Gorilla_gorilla),ENSPANG00000029707__Papio_anubis),ENSUAMG00000006727__Ursus_americanus),(ENSNMEG00000010959__Numida_meleagris,ENSCPGG00000013102__Calidris_pygmaea));

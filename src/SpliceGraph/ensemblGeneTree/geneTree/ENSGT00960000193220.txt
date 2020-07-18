@@ -1,0 +1,1 @@
+(ENSCCEG00000000992__Cyanistes_caeruleus,ENSNMEG00000003071__Numida_meleagris);

@@ -1,0 +1,1 @@
+(((((ENSMNEG00000007348__Macaca_nemestrina,ENSG00000268790__Homo_sapiens),ENSMUGG00000024511__Meriones_unguiculatus),ENSUAMG00000010312__Ursus_americanus),((ENSPTEG00000014339__Piliocolobus_tephrosceles,ENSTGEG00000026440__Theropithecus_gelada),ENSCCNG00000029604__Castor_canadensis)),ENSCPRG00005017074__Crocodylus_porosus);

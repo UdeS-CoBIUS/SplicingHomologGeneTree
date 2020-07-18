@@ -1,0 +1,1 @@
+((((((ENSLCOG00000015961__Lepidothrix_coronata,ENSLSDG00000005588__Lonchura_striata_domestica),ENSCPUG00000017180__Calidris_pugnax),ENSNPEG00000013859__Nothoprocta_perdicaria),ENSCPRG00005014866__Crocodylus_porosus),ENSCABG00000006218__Chelonoidis_abingdonii),ENSNSUG00000005025__Notechis_scutatus);

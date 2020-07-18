@@ -1,0 +1,1 @@
+(((((ENSNBRG00000004287__Neolamprologus_brichardi,ENSGWIG00000010826__Gouania_willdenowi),ENSATEG00000002345__Anabas_testudineus),ENSLBEG00000002408__Labrus_bergylta),ENSEEEG00000014551__Electrophorus_electricus),ENSSFOG00015008359__Scleropages_formosus);

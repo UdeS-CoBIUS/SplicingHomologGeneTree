@@ -1,0 +1,1 @@
+((ENSGGOG00000041502__Gorilla_gorilla,ENSNLEG00000035545__Nomascus_leucogenys),(((ENSMNEG00000042481__Macaca_nemestrina,ENSMFAG00000001565__Macaca_fascicularis),(ENSCATG00000029606__Cercocebus_atys,ENSMLEG00000039221__Mandrillus_leucophaeus)),ENSCANG00000038963__Colobus_angolensis_palliatus));

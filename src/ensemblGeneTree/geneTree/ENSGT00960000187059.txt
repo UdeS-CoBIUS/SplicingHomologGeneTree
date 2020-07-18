@@ -1,0 +1,1 @@
+(((((ENSATEG00000021780__Anabas_testudineus,ENSMALG00000008101__Monopterus_albus),(ENSHCOG00000007060__Hippocampus_comes,ENSHCOG00000018778__Hippocampus_comes)),ENSTRUG00000024634__Takifugu_rubripes),ENSIPUG00000014186__Ictalurus_punctatus),(ENSNSUG00000006116__Notechis_scutatus,ENSBTAG00000054470__Bos_taurus));

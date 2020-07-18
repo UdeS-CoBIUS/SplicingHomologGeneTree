@@ -1,0 +1,1 @@
+(((ENSACLG00000021495__Astatotilapia_calliptera,ENSHBUG00000019046__Haplochromis_burtoni),ENSMZEG00005004315__Maylandia_zebra),ENSNBRG00000004991__Neolamprologus_brichardi);

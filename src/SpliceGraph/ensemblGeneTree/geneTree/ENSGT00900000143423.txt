@@ -1,0 +1,1 @@
+((ENSMAUG00000018384__Mesocricetus_auratus,ENSMAUG00000019045__Mesocricetus_auratus),ENSMOCG00000012122__Microtus_ochrogaster);

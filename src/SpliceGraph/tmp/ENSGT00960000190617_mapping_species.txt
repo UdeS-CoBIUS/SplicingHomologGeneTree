@@ -1,0 +1,3 @@
+THEROPITHECUSGELADA	theropithecus_gelada
+PILIOCOLOBUSTEPHROSCELES	piliocolobus_tephrosceles
+PONGOABELII	pongo_abelii

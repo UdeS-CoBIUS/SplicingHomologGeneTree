@@ -1,1 +1,0 @@
-(ENSMSIG00000012183__Mus_spicilegus,ENSSDAG00000014568__Spermophilus_dauricus);

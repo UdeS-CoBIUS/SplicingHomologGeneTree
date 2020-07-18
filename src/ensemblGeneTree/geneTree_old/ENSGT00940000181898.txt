@@ -1,1 +1,0 @@
-(ENSGAFG00000003595__Gambusia_affinis,ENSGAFG00000003598__Gambusia_affinis);

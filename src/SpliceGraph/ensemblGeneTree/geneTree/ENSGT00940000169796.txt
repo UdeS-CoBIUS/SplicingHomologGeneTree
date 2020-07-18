@@ -1,0 +1,1 @@
+((((ENSGMOG00000008055__Gadus_morhua,ENSHCOG00000002780__Hippocampus_comes),ENSELUG00000010404__Esox_lucius),ENSDARG00000105522__Danio_rerio),ENSPSIG00000000683__Pelodiscus_sinensis);

@@ -1,0 +1,1 @@
+((ENSPMGG00000015162__Periophthalmus_magnuspinnatus,ENSORLG00015012159__Oryzias_latipes_ASM223469v1),ENSIPUG00000010801__Ictalurus_punctatus);

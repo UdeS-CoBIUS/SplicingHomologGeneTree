@@ -1,0 +1,1 @@
+((ENSPCOG00000023160__Propithecus_coquereli,ENSTBEG00000003864__Tupaia_belangeri),ENSETEG00000011300__Echinops_telfairi);

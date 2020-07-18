@@ -1,0 +1,1 @@
+((ENSCPUG00000001271__Calidris_pugnax,ENSAPLG00000022504__Anas_platyrhynchos_platyrhynchos),ENSCPBG00000001325__Chrysemys_picta_bellii);

@@ -1,0 +1,4 @@
+ZONOTRICHIAALBICOLLIS	zonotrichia_albicollis
+JUNCOHYEMALIS	junco_hyemalis
+CYANISTESCAERULEUS	cyanistes_caeruleus
+MANACUSVITELLINUS	manacus_vitellinus

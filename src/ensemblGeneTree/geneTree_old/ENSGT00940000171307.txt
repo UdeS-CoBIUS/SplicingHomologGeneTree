@@ -1,1 +1,0 @@
-((ENSAPOG00000007785__Acanthochromis_polyacanthus,ENSFHEG00000014454__Fundulus_heteroclitus),((ENSUAMG00000005912__Ursus_americanus,ENSPVAG00000006057__Pteropus_vampyrus),ENSCHOG00000006745__Choloepus_hoffmanni));

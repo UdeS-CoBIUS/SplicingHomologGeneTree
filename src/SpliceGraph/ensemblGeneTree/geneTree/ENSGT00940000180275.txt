@@ -1,0 +1,1 @@
+((ENSSPAG00000023165__Stegastes_partitus,ENSPLAG00000023241__Poecilia_latipinna),ENSTRUG00000025101__Takifugu_rubripes);

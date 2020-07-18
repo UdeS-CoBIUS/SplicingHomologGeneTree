@@ -1,0 +1,12 @@
+>0
+ENSODET00000005199: ['no event', 26, 0]
+ENSCLAT00000011991: ['no event', 26, 0]
+ENSCPOT00000011952: ['no event', 26, 0]
+>1
+ENSODET00000005199: ['no event', 92, 0]
+ENSCLAT00000011991: ['no event', 92, 0]
+ENSCPOT00000011952: ['no event', 92, 0]
+>2
+ENSODET00000005199: [['internal gap < 30', 167, 3], 419, 0]
+ENSCLAT00000011991: ['no event', 422, 0]
+ENSCPOT00000011952: ['no event', 422, 0]

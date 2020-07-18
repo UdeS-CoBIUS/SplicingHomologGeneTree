@@ -1,0 +1,1 @@
+((((ENSACLG00000017766__Astatotilapia_calliptera,ENSMZEG00005020107__Maylandia_zebra),ENSMZEG00005024063__Maylandia_zebra),ENSMZEG00005023107__Maylandia_zebra),ENSPNYG00000021060__Pundamilia_nyererei);

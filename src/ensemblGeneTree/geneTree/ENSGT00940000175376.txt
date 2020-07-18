@@ -1,0 +1,1 @@
+(((ENSFHEG00000020411__Fundulus_heteroclitus,ENSPMEG00000014686__Poecilia_mexicana),ENSAMXG00000034953__Astyanax_mexicanus),(ENSRBIG00000031611__Rhinopithecus_bieti,ENSPTEG00000004223__Piliocolobus_tephrosceles));

@@ -1,0 +1,1 @@
+(ENSMAMG00000021982__Mastacembelus_armatus,ENSATEG00000018287__Anabas_testudineus);

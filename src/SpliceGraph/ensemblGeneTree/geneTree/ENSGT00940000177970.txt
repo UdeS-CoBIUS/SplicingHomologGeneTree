@@ -1,0 +1,1 @@
+(((((ENSPREG00000022432__Poecilia_reticulata,ENSCVAG00000023124__Cyprinodon_variegatus),ENSOMEG00000020025__Oryzias_melastigma),(ENSPNYG00000012661__Pundamilia_nyererei,ENSMZEG00005001614__Maylandia_zebra)),ENSAPOG00000016795__Acanthochromis_polyacanthus),ENSSLDG00000004524__Seriola_lalandi_dorsalis);

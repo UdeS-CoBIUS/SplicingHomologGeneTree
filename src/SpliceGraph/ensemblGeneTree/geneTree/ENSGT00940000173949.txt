@@ -1,0 +1,1 @@
+(((((ENSSDAG00000023615__Spermophilus_dauricus,ENSUPAG00010016793__Urocitellus_parryii),ENSMMMG00000016078__Marmota_marmota_marmota),ENSSTOG00000030350__Ictidomys_tridecemlineatus),ENSGGOG00000036213__Gorilla_gorilla),ENSGWIG00000015721__Gouania_willdenowi);

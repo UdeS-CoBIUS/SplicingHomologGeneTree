@@ -1,0 +1,1 @@
+(((ENSCCEG00000017197__Cyanistes_caeruleus,ENSNMEG00000003803__Numida_meleagris),(ENSLSDG00000001934__Lonchura_striata_domestica,ENSNMEG00000001050__Numida_meleagris)),ENSNPEG00000001183__Nothoprocta_perdicaria);

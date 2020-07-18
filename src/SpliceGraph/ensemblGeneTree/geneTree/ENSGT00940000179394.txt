@@ -1,0 +1,1 @@
+((ENSSLDG00000002991__Seriola_lalandi_dorsalis,ENSCSEG00000002765__Cynoglossus_semilaevis),ENSGAFG00000007494__Gambusia_affinis);

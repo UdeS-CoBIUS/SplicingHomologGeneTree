@@ -1,1 +1,0 @@
-((((((ENSMZEG00005001303__Maylandia_zebra,ENSMZEG00005001287__Maylandia_zebra),(ENSPNYG00000017544__Pundamilia_nyererei,ENSACLG00000003073__Astatotilapia_calliptera)),ENSPNYG00000017628__Pundamilia_nyererei),(ENSGAFG00000016042__Gambusia_affinis,ENSCVAG00000007677__Cyprinodon_variegatus)),ENSTRUG00000024607__Takifugu_rubripes),ENSATEG00000006058__Anabas_testudineus);

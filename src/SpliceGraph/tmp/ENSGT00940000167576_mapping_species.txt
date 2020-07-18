@@ -1,0 +1,6 @@
+CERCOCEBUSATYS	cercocebus_atys
+PAPIOANUBIS	papio_anubis
+GORILLAGORILLA	gorilla_gorilla
+MUSSPICILEGUS	mus_spicilegus
+VULPESVULPES	vulpes_vulpes
+LOXODONTAAFRICANA	loxodonta_africana

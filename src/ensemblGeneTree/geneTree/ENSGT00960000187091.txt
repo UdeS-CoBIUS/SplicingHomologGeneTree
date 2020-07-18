@@ -1,0 +1,1 @@
+(((ENSGAFG00000019700__Gambusia_affinis,ENSCVAG00000003317__Cyprinodon_variegatus),ENSFHEG00000009852__Fundulus_heteroclitus),((ENSGAFG00000005925__Gambusia_affinis,ENSPREG00000006643__Poecilia_reticulata),ENSFHEG00000009869__Fundulus_heteroclitus));

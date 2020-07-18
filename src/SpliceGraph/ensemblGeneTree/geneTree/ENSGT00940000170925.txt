@@ -1,0 +1,1 @@
+(((ENSSPUG00000012310__Sphenodon_punctatus,ENSOANG00000029675__Ornithorhynchus_anatinus),ENSCAPG00000008244__Cavia_aperea),ENSEBUG00000001069__Eptatretus_burgeri);

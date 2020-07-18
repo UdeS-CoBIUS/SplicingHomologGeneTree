@@ -1,0 +1,1 @@
+((((ENSAOWG00000004844__Apteryx_owenii,ENSARWG00000000865__Apteryx_rowi),ENSAPLG00000005265__Anas_platyrhynchos_platyrhynchos),ENSCABG00000009455__Chelonoidis_abingdonii),ENSSMRG00000000018__Salvator_merianae);

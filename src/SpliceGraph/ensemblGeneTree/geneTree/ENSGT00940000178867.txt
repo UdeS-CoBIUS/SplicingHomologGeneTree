@@ -1,0 +1,1 @@
+((((ENSPLAG00000006641__Poecilia_latipinna,ENSPMEG00000013808__Poecilia_mexicana),ENSAOCG00000023627__Amphiprion_ocellaris),ENSSLDG00000009937__Seriola_lalandi_dorsalis),((ENSSCAG00000017121__Serinus_canaria,ENSJHYG00000018088__Junco_hyemalis),ENSGAGG00000008223__Gopherus_agassizii));

@@ -1,0 +1,1 @@
+(ENSETEG00000018491__Echinops_telfairi,ENSAMEG00000007144__Ailuropoda_melanoleuca);

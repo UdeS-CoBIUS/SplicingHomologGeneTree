@@ -1,0 +1,1 @@
+((ENSTBEG00000009187__Tupaia_belangeri,ENSTBEG00000000158__Tupaia_belangeri),ENSCGRG00015024907__Cricetulus_griseus_CriGri-PICR);

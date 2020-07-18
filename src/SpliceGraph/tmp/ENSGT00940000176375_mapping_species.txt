@@ -1,0 +1,3 @@
+PYGOCENTRUSNATTERERI	pygocentrus_nattereri
+CYPRINODONVARIEGATUS	cyprinodon_variegatus
+SACCHAROMYCESCEREVISIAE	saccharomyces_cerevisiae

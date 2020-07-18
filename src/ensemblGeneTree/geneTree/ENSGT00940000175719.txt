@@ -1,0 +1,1 @@
+(((ENSSPAG00000010987__Stegastes_partitus,ENSACIG00000023828__Amphilophus_citrinellus),ENSMAMG00000011165__Mastacembelus_armatus),ENSTNIG00000003682__Tetraodon_nigroviridis);

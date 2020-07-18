@@ -1,0 +1,1 @@
+((ENSGMOG00000014339__Gadus_morhua,ENSGACG00000018989__Gasterosteus_aculeatus),(ENSARWG00000012177__Apteryx_rowi,ENSAOWG00000019338__Apteryx_owenii));

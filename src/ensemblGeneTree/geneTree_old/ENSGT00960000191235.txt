@@ -1,1 +1,0 @@
-(ENSNSUG00000001235__Notechis_scutatus,ENSCSAVG00000005534__Ciona_savignyi);

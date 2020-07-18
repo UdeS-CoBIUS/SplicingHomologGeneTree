@@ -1,0 +1,1 @@
+((ENSBMUG00000019482__Bos_mutus,ENSTGEG00000023056__Theropithecus_gelada),(((ENSFHEG00000004112__Fundulus_heteroclitus,ENSCVAG00000017159__Cyprinodon_variegatus),ENSXCOG00000016941__Xiphophorus_couchianus),ENSNBRG00000004547__Neolamprologus_brichardi));

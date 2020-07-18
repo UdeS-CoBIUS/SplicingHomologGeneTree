@@ -1,1 +1,0 @@
-((((ENSMAMG00000010042__Mastacembelus_armatus,ENSMAMG00000010034__Mastacembelus_armatus),ENSTRUG00000020264__Takifugu_rubripes),ENSCABG00000021561__Chelonoidis_abingdonii),ENSEBUG00000009343__Eptatretus_burgeri);

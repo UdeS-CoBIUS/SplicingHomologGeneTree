@@ -1,0 +1,1 @@
+(((((ENSMALG00000015251__Monopterus_albus,ENSMAMG00000019064__Mastacembelus_armatus),ENSGACG00000017563__Gasterosteus_aculeatus),ENSHCOG00000007394__Hippocampus_comes),ENSGMOG00000015259__Gadus_morhua),ENSELUG00000018596__Esox_lucius);

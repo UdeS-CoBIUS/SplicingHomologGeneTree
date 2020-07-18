@@ -1,0 +1,10 @@
+LARIMICHTHYSCROCEA	larimichthys_crocea
+XENOPUSTROPICALIS	xenopus_tropicalis
+CYPRINODONVARIEGATUS	cyprinodon_variegatus
+CYANISTESCAERULEUS	cyanistes_caeruleus
+XENOPUSTROPICALIS	xenopus_tropicalis
+PARUSMAJOR	parus_major
+HUCHOHUCHO	hucho_hucho
+AMPHIPRIONPERCULA	amphiprion_percula
+ORYZIASLATIPES	oryzias_latipes
+CALLORHINCHUSMILII	callorhinchus_milii

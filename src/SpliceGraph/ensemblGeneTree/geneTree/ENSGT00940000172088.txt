@@ -1,0 +1,1 @@
+((((ENSODEG00000009648__Octodon_degus,ENSODEG00000004792__Octodon_degus),ENSCCNG00000026948__Castor_canadensis),(((ENSAOWG00000004920__Apteryx_owenii,ENSABRG00000002329__Anser_brachyrhynchus),ENSPVIG00000003113__Pogona_vitticeps),ENSMVIG00005017886__Manacus_vitellinus)),(ENSFHEG00000010955__Fundulus_heteroclitus,ENSFHEG00000010902__Fundulus_heteroclitus));

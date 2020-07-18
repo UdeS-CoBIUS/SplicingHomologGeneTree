@@ -1,0 +1,4 @@
+NANNOSPALAXGALILI	nannospalax_galili
+MESOCRICETUSAURATUS	mesocricetus_auratus
+JACULUSJACULUS	jaculus_jaculus
+HETEROCEPHALUSGLABERFEMALE	heterocephalus_glaber_female

@@ -1,0 +1,1 @@
+(((ENSUAMG00000003092__Ursus_americanus,ENSOANG00000022255__Ornithorhynchus_anatinus),ENSSHAG00000018245__Sarcophilus_harrisii),(ENSCPBG00000025209__Chrysemys_picta_bellii,ENSNSUG00000001294__Notechis_scutatus));

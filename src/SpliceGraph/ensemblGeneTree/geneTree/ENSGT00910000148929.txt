@@ -1,0 +1,1 @@
+((((ENSRBIG00000020040__Rhinopithecus_bieti,ENSRROG00000042543__Rhinopithecus_roxellana),ENSMSIG00000017050__Mus_spicilegus),ENSCCNG00000003489__Castor_canadensis),ENSPPRG00000008049__Panthera_pardus);

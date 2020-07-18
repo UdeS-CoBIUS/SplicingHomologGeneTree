@@ -1,0 +1,1 @@
+(((ENSARWG00000013406__Apteryx_rowi,ENSAHAG00000011215__Apteryx_haastii),ENSNPEG00000010936__Nothoprocta_perdicaria),ENSAPLG00000024140__Anas_platyrhynchos_platyrhynchos);

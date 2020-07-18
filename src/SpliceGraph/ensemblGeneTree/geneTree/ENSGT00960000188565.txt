@@ -1,0 +1,1 @@
+(ENSIPUG00000001074__Ictalurus_punctatus,ENSELUG00000016487__Esox_lucius);

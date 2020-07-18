@@ -1,0 +1,1 @@
+(((ENSAOCG00000013399__Amphiprion_ocellaris,ENSPLAG00000022946__Poecilia_latipinna),((ENSVVUG00000002644__Vulpes_vulpes,ENSPTIG00000021542__Panthera_tigris_altaica),ENSCCNG00000030138__Castor_canadensis)),ENSEBUG00000016022__Eptatretus_burgeri);

@@ -1,0 +1,28 @@
+>0
+ZC404.5.1: [['internal gap < 30', 165, 26], 205, 0]
+W05H5.4.1: ['3event', '5event', 203, 0]
+ZC404.12.1: ['5event', ['internal gap >= 30', 141, 50], 181, 0]
+>1
+ZC404.5.1: [['internal gap >= 30', 506, 105], 580, 2]
+W05H5.4.1: ['5event', ['internal gap >= 30', 521, 109], 576, 2]
+ZC404.12.1: [['internal gap >= 30', 500, 111], 574, 2]
+>2
+ZC404.5.1: ['exon skipping', 0, 0]
+W05H5.4.1: ['no event', 24, 0]
+ZC404.12.1: ['exon skipping', 0, 0]
+>3
+ZC404.5.1: ['5event', 78, 0]
+W05H5.4.1: ['exon skipping', 0, 0]
+ZC404.12.1: ['5event', 78, 0]
+>4
+ZC404.5.1: [['internal gap >= 30', 36, 54], 114, 1]
+W05H5.4.1: ['5event', 167, 1]
+ZC404.12.1: [['internal gap >= 30', 36, 54], 114, 1]
+>5
+ZC404.5.1: [['internal gap < 30', 68, 29], 94, 1]
+W05H5.4.1: ['3event', 95, 1]
+ZC404.12.1: ['3event', 75, 1]
+>6
+ZC404.5.1: ['exon skipping', 0, 0]
+W05H5.4.1: ['5event', 9, 2]
+ZC404.12.1: ['exon skipping', 0, 0]

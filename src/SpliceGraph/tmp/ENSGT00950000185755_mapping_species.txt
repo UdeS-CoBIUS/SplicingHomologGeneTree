@@ -1,0 +1,2 @@
+BOSTAURUS	bos_taurus
+SARCOPHILUSHARRISII	sarcophilus_harrisii

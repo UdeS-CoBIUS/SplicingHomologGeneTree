@@ -1,0 +1,1 @@
+((((((ENSAPEG00000013069__Amphiprion_percula,ENSAPEG00000013059__Amphiprion_percula),ENSAPEG00000001921__Amphiprion_percula),ENSAPEG00000012077__Amphiprion_percula),ENSAPEG00000013080__Amphiprion_percula),ENSNBRG00000005659__Neolamprologus_brichardi),ENSAMXG00000035749__Astyanax_mexicanus);

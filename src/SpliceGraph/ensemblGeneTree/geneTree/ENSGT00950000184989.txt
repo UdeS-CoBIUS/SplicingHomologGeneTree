@@ -1,0 +1,1 @@
+(((ENSPMJG00000017185__Parus_major,ENSGALG00000003378__Gallus_gallus),ENSSPUG00000003995__Sphenodon_punctatus),(ENSLAFG00000028040__Loxodonta_africana,ENSUMAG00000008780__Ursus_maritimus));

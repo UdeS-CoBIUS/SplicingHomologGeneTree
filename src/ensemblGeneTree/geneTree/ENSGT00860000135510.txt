@@ -1,0 +1,1 @@
+((((MGP_SPRETEiJ_G0034162__Mus_spretus_strain_SPRET/EiJ,MGP_SPRETEiJ_G0034163__Mus_spretus_strain_SPRET/EiJ),MGP_SPRETEiJ_G0034160__Mus_spretus_strain_SPRET/EiJ),MGP_SPRETEiJ_G0034159__Mus_spretus_strain_SPRET/EiJ),MGP_SPRETEiJ_G0034161__Mus_spretus_strain_SPRET/EiJ);

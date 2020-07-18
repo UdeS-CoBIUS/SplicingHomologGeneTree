@@ -1,0 +1,1 @@
+((((ENSMALG00000017841__Monopterus_albus,ENSMAMG00000021115__Mastacembelus_armatus),ENSLBEG00000000397__Labrus_bergylta),(((ENSORLG00000028658__Oryzias_latipes_ASM223467v1,ENSORLG00020017019__Oryzias_latipes_ASM223471v1),ENSCVAG00000013155__Cyprinodon_variegatus),ENSAPEG00000017022__Amphiprion_percula)),ENSELUG00000006179__Esox_lucius);

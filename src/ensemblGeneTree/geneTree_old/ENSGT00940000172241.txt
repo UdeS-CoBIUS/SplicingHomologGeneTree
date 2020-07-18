@@ -1,1 +1,0 @@
-((ENSGMOG00000012004__Gadus_morhua,ENSFHEG00000018596__Fundulus_heteroclitus),ENSLOCG00000008013__Lepisosteus_oculatus);

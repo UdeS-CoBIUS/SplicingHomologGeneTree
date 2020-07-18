@@ -1,0 +1,1 @@
+((((ENSPEMG00000029548__Peromyscus_maniculatus_bairdii,ENSCGRG00015013708__Cricetulus_griseus_CriGri-PICR),(ENSMUGG00000020659__Meriones_unguiculatus,ENSMUGG00000016579__Meriones_unguiculatus)),ENSRROG00000031388__Rhinopithecus_roxellana),ENSSSCG00000034530__Sus_scrofa);

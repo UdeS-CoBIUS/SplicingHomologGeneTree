@@ -1,0 +1,4 @@
+POECILIAMEXICANA	poecilia_mexicana
+POECILIALATIPINNA	poecilia_latipinna
+XIPHOPHORUSCOUCHIANUS	xiphophorus_couchianus
+STEGASTESPARTITUS	stegastes_partitus

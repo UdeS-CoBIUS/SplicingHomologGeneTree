@@ -1,0 +1,1 @@
+((ENSAOCG00000020713__Amphiprion_ocellaris,ENSLOCG00000005093__Lepisosteus_oculatus),((ENSOANG00000012144__Ornithorhynchus_anatinus,ENSEEUG00000008663__Erinaceus_europaeus),ENSFALG00000006943__Ficedula_albicollis));

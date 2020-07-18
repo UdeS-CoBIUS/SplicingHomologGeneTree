@@ -1,0 +1,1 @@
+(((ENSAPEG00000012375__Amphiprion_percula,ENSSPAG00000006672__Stegastes_partitus),ENSSPAG00000012813__Stegastes_partitus),((ENSHCOG00000013200__Hippocampus_comes,ENSHCOG00000007501__Hippocampus_comes),ENSHCOG00000002382__Hippocampus_comes));

@@ -1,1 +1,0 @@
-((ENSSCAG00000002227__Serinus_canaria,ENSCABG00000000020__Chelonoidis_abingdonii),ENSTGEG00000011241__Theropithecus_gelada);

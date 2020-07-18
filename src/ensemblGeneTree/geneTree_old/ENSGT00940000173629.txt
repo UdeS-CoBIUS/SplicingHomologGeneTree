@@ -1,1 +1,0 @@
-((((ENSPTEG00000007861__Piliocolobus_tephrosceles,ENSPTEG00000000866__Piliocolobus_tephrosceles),(ENSPFOG00000024354__Poecilia_formosa,ENSPMEG00000016285__Poecilia_mexicana)),WBGene00008547__Caenorhabditis_elegans_strain_N2),YER144C__Saccharomyces_cerevisiae_strain_S288C);

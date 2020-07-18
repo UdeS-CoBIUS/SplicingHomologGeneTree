@@ -1,0 +1,1 @@
+((ENSSMRG00000006907__Salvator_merianae,ENSSMRG00000023390__Salvator_merianae),((ENSSMRG00000002000__Salvator_merianae,ENSSMRG00000000702__Salvator_merianae),(((ENSSMRG00000012980__Salvator_merianae,ENSSMRG00000020184__Salvator_merianae),(ENSSMRG00000022476__Salvator_merianae,ENSSMRG00000002016__Salvator_merianae)),ENSSMRG00000007429__Salvator_merianae)));

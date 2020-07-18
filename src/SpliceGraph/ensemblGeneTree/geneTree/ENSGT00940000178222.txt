@@ -1,0 +1,1 @@
+(((ENSXCOG00000008140__Xiphophorus_couchianus,ENSXMAG00000021248__Xiphophorus_maculatus),((ENSPLAG00000013468__Poecilia_latipinna,ENSPMEG00000021294__Poecilia_mexicana),ENSGAFG00000008165__Gambusia_affinis)),ENSMAMG00000009021__Mastacembelus_armatus);

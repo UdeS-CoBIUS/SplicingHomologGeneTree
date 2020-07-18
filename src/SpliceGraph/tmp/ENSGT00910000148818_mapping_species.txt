@@ -1,0 +1,4 @@
+EQUUSASINUS	equus_asinus
+EQUUSCABALLUS	equus_caballus
+GORILLAGORILLA	gorilla_gorilla
+PANPANISCUS	pan_paniscus

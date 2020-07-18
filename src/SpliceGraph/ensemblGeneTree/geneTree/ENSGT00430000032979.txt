@@ -1,0 +1,1 @@
+(((((ENSMMOG00000009202__Mola_mola,ENSGACG00000018386__Gasterosteus_aculeatus),(ENSSPAG00000020699__Stegastes_partitus,ENSACIG00000009409__Amphilophus_citrinellus)),ENSGMOG00000006954__Gadus_morhua),ENSLOCG00000018311__Lepisosteus_oculatus),ENSACAG00000026432__Anolis_carolinensis);

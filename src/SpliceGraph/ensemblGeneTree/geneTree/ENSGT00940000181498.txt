@@ -1,0 +1,1 @@
+(ENSATEG00000000296__Anabas_testudineus,ENSACIG00000024527__Amphilophus_citrinellus);

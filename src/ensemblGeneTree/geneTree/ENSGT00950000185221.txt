@@ -1,0 +1,1 @@
+((ENSMUGG00000001940__Meriones_unguiculatus,ENSSDAG00000015879__Spermophilus_dauricus),(ENSCPBG00000000690__Chrysemys_picta_bellii,ENSGAGG00000007772__Gopherus_agassizii));

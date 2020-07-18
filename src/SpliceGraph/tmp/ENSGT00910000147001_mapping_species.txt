@@ -1,0 +1,15 @@
+GAMBUSIAAFFINIS	gambusia_affinis
+POECILIARETICULATA	poecilia_reticulata
+LABRUSBERGYLTA	labrus_bergylta
+MACACAFASCICULARIS	macaca_fascicularis
+MACACANEMESTRINA	macaca_nemestrina
+CERCOCEBUSATYS	cercocebus_atys
+MACACAMULATTA	macaca_mulatta
+THEROPITHECUSGELADA	theropithecus_gelada
+MANDRILLUSLEUCOPHAEUS	mandrillus_leucophaeus
+RHINOPITHECUSBIETI	rhinopithecus_bieti
+PANPANISCUS	pan_paniscus
+PANTROGLODYTES	pan_troglodytes
+CEBUSCAPUCINUS	cebus_capucinus
+VULPESVULPES	vulpes_vulpes
+NUMIDAMELEAGRIS	numida_meleagris

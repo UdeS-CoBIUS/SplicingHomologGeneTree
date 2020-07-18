@@ -1,0 +1,1 @@
+((((ENSSDUG00000023659__Seriola_dumerili,ENSACIG00000016373__Amphilophus_citrinellus),ENSPMGG00000013852__Periophthalmus_magnuspinnatus),((ENSPMEG00000008473__Poecilia_mexicana,ENSPLAG00000011141__Poecilia_latipinna),ENSFHEG00000017770__Fundulus_heteroclitus)),(ENSATEG00000015609__Anabas_testudineus,ENSMALG00000010466__Monopterus_albus));

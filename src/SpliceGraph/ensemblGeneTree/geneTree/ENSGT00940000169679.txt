@@ -1,0 +1,1 @@
+((((ENSSCAG00000015706__Serinus_canaria,ENSMGAG00000010939__Meleagris_gallopavo),ENSCPBG00000005090__Chrysemys_picta_bellii),ENSACAG00000009448__Anolis_carolinensis),ENSGACG00000002098__Gasterosteus_aculeatus);

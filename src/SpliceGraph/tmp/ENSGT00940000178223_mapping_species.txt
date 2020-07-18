@@ -1,0 +1,6 @@
+ORYZIASMELASTIGMA	oryzias_melastigma
+ORYZIASMELASTIGMA	oryzias_melastigma
+CYPRINODONVARIEGATUS	cyprinodon_variegatus
+FUNDULUSHETEROCLITUS	fundulus_heteroclitus
+LABRUSBERGYLTA	labrus_bergylta
+PERIOPHTHALMUSMAGNUSPINNATUS	periophthalmus_magnuspinnatus

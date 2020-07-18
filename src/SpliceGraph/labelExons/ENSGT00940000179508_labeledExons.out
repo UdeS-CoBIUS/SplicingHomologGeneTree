@@ -1,0 +1,16 @@
+>0
+ENSPRET00000012083: ['no event', 1, 0]
+ENSXMAT00000032168: ['exon skipping', 0, 0]
+ENSGAFT00000026775: ['no event', 1, 0]
+>1
+ENSPRET00000012083: ['no event', 2, 2]
+ENSXMAT00000032168: ['exon skipping', 0, 0]
+ENSGAFT00000026775: ['exon skipping', 0, 0]
+>2
+ENSPRET00000012083: ['no event', 152, 2]
+ENSXMAT00000032168: ['5event', 104, 0]
+ENSGAFT00000026775: ['3event', '5event', 108, 2]
+>3
+ENSPRET00000012083: ['exon skipping', 0, 0]
+ENSXMAT00000032168: ['exon skipping', 0, 0]
+ENSGAFT00000026775: ['5event', 42, 2]

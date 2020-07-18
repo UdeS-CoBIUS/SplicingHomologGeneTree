@@ -1,0 +1,1 @@
+(((((ENSAPEG00000003194__Amphiprion_percula,ENSAOCG00000016004__Amphiprion_ocellaris),ENSAPEG00000021816__Amphiprion_percula),ENSSPAG00000022649__Stegastes_partitus),ENSMMOG00000012432__Mola_mola),ENSGMOG00000019942__Gadus_morhua);

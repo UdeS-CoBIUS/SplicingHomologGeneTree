@@ -1,0 +1,1 @@
+(((((ENSATEG00000010243__Anabas_testudineus,ENSMALG00000003962__Monopterus_albus),ENSMMOG00000002493__Mola_mola),(ENSSDUG00000008994__Seriola_dumerili,ENSSLDG00000006939__Seriola_lalandi_dorsalis)),ENSHCOG00000012284__Hippocampus_comes),ENSELUG00000015052__Esox_lucius);

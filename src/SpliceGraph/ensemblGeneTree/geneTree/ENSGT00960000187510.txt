@@ -1,0 +1,1 @@
+(((ENSORLG00015002133__Oryzias_latipes_ASM223469v1,ENSORLG00000024812__Oryzias_latipes_ASM223467v1),ENSIPUG00000009974__Ictalurus_punctatus),ENSPKIG00000009807__Paramormyrops_kingsleyae);

@@ -1,0 +1,5 @@
+CIONAINTESTINALIS	ciona_intestinalis
+CIONAINTESTINALIS	ciona_intestinalis
+PETROMYZONMARINUS	petromyzon_marinus
+DROSOPHILAMELANOGASTER	drosophila_melanogaster
+DROSOPHILAMELANOGASTER	drosophila_melanogaster

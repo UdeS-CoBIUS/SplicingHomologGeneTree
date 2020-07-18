@@ -1,0 +1,1 @@
+(((((ENSOCUG00000027336__Oryctolagus_cuniculus,ENSUPAG00010022487__Urocitellus_parryii),((ENSSSCG00000040235__Sus_scrofa,ENSSSCG00000040212__Sus_scrofa),ENSCHIG00000008084__Capra_hircus)),ENSMEUG00000007677__Notamacropus_eugenii),ENSPVIG00000023380__Pogona_vitticeps),ENSSMAG00000007797__Scophthalmus_maximus);

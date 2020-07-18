@@ -1,0 +1,16 @@
+CALLITHRIXJACCHUS	callithrix_jacchus
+CEBUSCAPUCINUS	cebus_capucinus
+AOTUSNANCYMAAE	aotus_nancymaae
+MACACAFASCICULARIS	macaca_fascicularis
+PAPIOANUBIS	papio_anubis
+MANDRILLUSLEUCOPHAEUS	mandrillus_leucophaeus
+CERCOCEBUSATYS	cercocebus_atys
+RHINOPITHECUSROXELLANA	rhinopithecus_roxellana
+GORILLAGORILLA	gorilla_gorilla
+HOMOSAPIENS	homo_sapiens
+PANTROGLODYTES	pan_troglodytes
+PANPANISCUS	pan_paniscus
+NOMASCUSLEUCOGENYS	nomascus_leucogenys
+CARLITOSYRICHTA	carlito_syrichta
+PROLEMURSIMUS	prolemur_simus
+BISONBISON	bison_bison

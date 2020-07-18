@@ -1,0 +1,1 @@
+(((ENSABRG00000002512__Anser_brachyrhynchus,ENSAPLG00000020183__Anas_platyrhynchos_platyrhynchos),ENSNMEG00000010434__Numida_meleagris),ENSAOWG00000012813__Apteryx_owenii);

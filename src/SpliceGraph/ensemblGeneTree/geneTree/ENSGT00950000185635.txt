@@ -1,0 +1,1 @@
+(ENSVPAG00000006506__Vicugna_pacos,ENSGAGG00000023568__Gopherus_agassizii);

@@ -1,0 +1,1 @@
+((((ENSLBEG00000008754__Labrus_bergylta,ENSLBEG00000023740__Labrus_bergylta),ENSLBEG00000008767__Labrus_bergylta),ENSAMXG00000040042__Astyanax_mexicanus),ENSSFOG00015022771__Scleropages_formosus);

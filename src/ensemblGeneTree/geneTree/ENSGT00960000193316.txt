@@ -1,0 +1,1 @@
+(ENSMUSG00000053873__Mus_musculus_strain_reference_(CL57BL6),ENSMSIG00000007836__Mus_spicilegus);

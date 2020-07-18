@@ -1,0 +1,1 @@
+((((ENSEEUG00000012726__Erinaceus_europaeus,ENSSARG00000001191__Sorex_araneus),ENSODEG00000014130__Octodon_degus),((ENSUAMG00000009936__Ursus_americanus,ENSSSCG00000032754__Sus_scrofa),(ENSPTRG00000049013__Pan_troglodytes,ENSPPAG00000036328__Pan_paniscus))),(ENSNMEG00000020127__Numida_meleagris,ENSCPBG00000006298__Chrysemys_picta_bellii));

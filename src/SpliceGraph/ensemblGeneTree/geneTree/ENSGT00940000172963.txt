@@ -1,0 +1,1 @@
+((ENSTRUG00000025794__Takifugu_rubripes,ENSTNIG00000017968__Tetraodon_nigroviridis),ENSNSUG00000003166__Notechis_scutatus);

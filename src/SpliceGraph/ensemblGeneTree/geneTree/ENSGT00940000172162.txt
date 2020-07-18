@@ -1,0 +1,1 @@
+((ENSLOCG00000010941__Lepisosteus_oculatus,ENSGMOG00000004852__Gadus_morhua),ENSSPUG00000014498__Sphenodon_punctatus);

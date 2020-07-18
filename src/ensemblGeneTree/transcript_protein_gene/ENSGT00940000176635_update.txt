@@ -1,0 +1,2 @@
+YOR371C_mRNA	YOR371C	Saccharomyces_cerevisiae_strain_S288C
+YAL056W_mRNA	YAL056W	Saccharomyces_cerevisiae_strain_S288C

@@ -1,0 +1,1 @@
+(((ENSCLAG00000004621__Chinchilla_lanigera,ENSODEG00000005348__Octodon_degus),ENSMUGG00000004731__Meriones_unguiculatus),(ENSMEUG00000014118__Notamacropus_eugenii,ENSSHAG00000003559__Sarcophilus_harrisii));

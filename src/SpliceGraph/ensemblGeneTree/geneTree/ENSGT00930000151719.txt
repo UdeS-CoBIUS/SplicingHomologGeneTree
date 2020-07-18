@@ -1,0 +1,1 @@
+(((ENSMUSG00000096597__Mus_musculus_strain_reference_(CL57BL6),MGP_SPRETEiJ_G0023346__Mus_spretus_strain_SPRET/EiJ),MGP_CAROLIEiJ_G0022431__Mus_caroli_strain_CAROLI_EIJ),ENSAMXG00000037188__Astyanax_mexicanus);

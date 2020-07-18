@@ -1,0 +1,1 @@
+((((ENSTNIG00000000340__Tetraodon_nigroviridis,ENSGACG00000007473__Gasterosteus_aculeatus),ENSGWIG00000024392__Gouania_willdenowi),ENSGMOG00000003590__Gadus_morhua),ENSPMAG00000008953__Petromyzon_marinus);

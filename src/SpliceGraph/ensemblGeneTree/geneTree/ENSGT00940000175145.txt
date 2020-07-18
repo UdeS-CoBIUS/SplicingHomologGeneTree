@@ -1,0 +1,1 @@
+((((ENSPMEG00000001842__Poecilia_mexicana,ENSPLAG00000013372__Poecilia_latipinna),ENSPMEG00000008206__Poecilia_mexicana),((ENSTNIG00000006414__Tetraodon_nigroviridis,ENSLBEG00000015070__Labrus_bergylta),ENSCVAG00000014901__Cyprinodon_variegatus)),ENSPTEG00000016554__Piliocolobus_tephrosceles);

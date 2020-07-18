@@ -1,0 +1,1 @@
+(ENSOARG00000001909__Ovis_aries,ENSPSMG00000001051__Prolemur_simus);

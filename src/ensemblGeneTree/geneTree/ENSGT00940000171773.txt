@@ -1,0 +1,1 @@
+(((((ENSFHEG00000001010__Fundulus_heteroclitus,ENSCVAG00000017521__Cyprinodon_variegatus),((ENSPFOG00000013535__Poecilia_formosa,ENSPMEG00000018921__Poecilia_mexicana),ENSPLAG00000021045__Poecilia_latipinna)),ENSSMAG00000003843__Scophthalmus_maximus),ENSHCOG00000006136__Hippocampus_comes),ENSCSAVG00000007068__Ciona_savignyi);

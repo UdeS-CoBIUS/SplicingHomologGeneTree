@@ -1,1 +1,0 @@
-(ENSCCEG00000008430__Cyanistes_caeruleus,ENSPLAG00000014398__Poecilia_latipinna);

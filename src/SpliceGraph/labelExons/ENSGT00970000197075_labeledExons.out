@@ -1,0 +1,30 @@
+>0
+F14H3.5.1: ['no event', 59, 0]
+F14H3.4.1: [['internal gap < 30', 35, 3], 56, 0]
+F14H3.3.1: ['5event', 29, 0]
+F14H3.3.2: ['5event', 29, 0]
+>1
+F14H3.5.1: [['internal gap < 30', 41, 9], 83, 0]
+F14H3.4.1: [['internal gap < 30', 63, 2], 90, 0]
+F14H3.3.1: [['internal gap < 30', 58, 7], 85, 0]
+F14H3.3.2: [['internal gap < 30', 58, 7], 85, 0]
+>2
+F14H3.5.1: ['exon skipping', 0, 0]
+F14H3.4.1: ['exon skipping', 0, 0]
+F14H3.3.1: ['5event', 191, 0]
+F14H3.3.2: ['5event', 191, 0]
+>3
+F14H3.5.1: ['exon skipping', 0, 0]
+F14H3.4.1: ['5event', 18, 2]
+F14H3.3.1: ['exon skipping', 0, 0]
+F14H3.3.2: ['exon skipping', 0, 0]
+>4
+F14H3.5.1: ['5event', ['internal gap >= 30', 222, 40], 398, 0]
+F14H3.4.1: [['internal gap >= 30', 31, 36], 402, 0]
+F14H3.3.1: ['5event', ['internal gap < 30', 249, 13], 425, 0]
+F14H3.3.2: ['5event', ['internal gap < 30', 249, 13], 425, 0]
+>5
+F14H3.5.1: ['no event', 131, 0]
+F14H3.4.1: ['no event', 131, 0]
+F14H3.3.1: [['internal gap >= 30', 87, 42], 89, 0]
+F14H3.3.2: [['internal gap >= 30', 87, 42], 89, 0]

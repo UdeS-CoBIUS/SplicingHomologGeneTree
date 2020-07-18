@@ -1,1 +1,0 @@
-((ENSTNIG00000019569__Tetraodon_nigroviridis,ENSHBUG00000016675__Haplochromis_burtoni),ENSANAG00000034663__Aotus_nancymaae);

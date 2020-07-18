@@ -1,0 +1,6 @@
+>cluster_0
+FBtr0077084	Y73E7A.6.2
+>cluster_1
+Y73E7A.6.1
+>cluster_2
+ENSPMGT00000028106

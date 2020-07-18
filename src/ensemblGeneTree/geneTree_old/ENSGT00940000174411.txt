@@ -1,1 +1,0 @@
-(((((ENSIPUG00000023822__Ictalurus_punctatus,ENSDARG00000070485__Danio_rerio),ENSTRUG00000024382__Takifugu_rubripes),ENSSFOG00015008525__Scleropages_formosus),ENSXETG00000026021__Xenopus_tropicalis),ENSCING00000025009__Ciona_intestinalis);

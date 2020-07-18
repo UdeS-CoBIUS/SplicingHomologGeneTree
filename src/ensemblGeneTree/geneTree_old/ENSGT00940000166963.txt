@@ -1,1 +1,0 @@
-(((((ENSFALG00000001537__Ficedula_albicollis,ENSFALG00000015210__Ficedula_albicollis),((ENSTGUG00000009556__Taeniopygia_guttata,ENSTGUG00000001706__Taeniopygia_guttata),ENSFALG00000003902__Ficedula_albicollis)),ENSCJPG00005008001__Coturnix_japonica),ENSELUG00000021797__Esox_lucius),ENSPMAG00000003751__Petromyzon_marinus);

@@ -1,0 +1,1 @@
+((((ENSCCAG00000030555__Cebus_capucinus_imitator,ENSSBOG00000019633__Saimiri_boliviensis_boliviensis),ENSCJAG00000008184__Callithrix_jacchus),ENSANAG00000016826__Aotus_nancymaae),ENSOPRG00000009089__Ochotona_princeps);

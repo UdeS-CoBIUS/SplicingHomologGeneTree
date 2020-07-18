@@ -1,0 +1,1 @@
+((((ENSMODG00000027496__Monodelphis_domestica,ENSMODG00000028373__Monodelphis_domestica),ENSMODG00000028738__Monodelphis_domestica),ENSMODG00000027662__Monodelphis_domestica),ENSSHAG00000010407__Sarcophilus_harrisii);

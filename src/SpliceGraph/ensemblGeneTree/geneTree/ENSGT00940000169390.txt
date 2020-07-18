@@ -1,0 +1,1 @@
+((ENSTRUG00000021036__Takifugu_rubripes,ENSTNIG00000006298__Tetraodon_nigroviridis),ENSLOCG00000018249__Lepisosteus_oculatus);

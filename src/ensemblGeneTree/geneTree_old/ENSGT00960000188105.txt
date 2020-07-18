@@ -1,1 +1,0 @@
-(ENSPCAG00000006776__Procavia_capensis,ENSPPYG00000020743__Pongo_abelii);

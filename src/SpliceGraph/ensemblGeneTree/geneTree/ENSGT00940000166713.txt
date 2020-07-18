@@ -1,0 +1,1 @@
+((ENSNGAG00000019843__Nannospalax_galili,ENSDORG00000029901__Dipodomys_ordii),(((ENSHGLG00100005586__Heterocephalus_glaber_HetGla_1.0,ENSHGLG00000018783__Heterocephalus_glaber_HetGla_female_1.0),ENSFDAG00000011105__Fukomys_damarensis),(ENSODEG00000004773__Octodon_degus,ENSCPOG00000031549__Cavia_porcellus)));

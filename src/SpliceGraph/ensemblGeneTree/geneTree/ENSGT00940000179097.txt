@@ -1,0 +1,1 @@
+(((ENSLBEG00000016735__Labrus_bergylta,ENSHBUG00000005764__Haplochromis_burtoni),ENSPMGG00000000376__Periophthalmus_magnuspinnatus),ENSPNAG00000010224__Pygocentrus_nattereri);

@@ -1,1 +1,0 @@
-((ENSCSEG00000004282__Cynoglossus_semilaevis,ENSSMAG00000004104__Scophthalmus_maximus),ENSSFOG00015012764__Scleropages_formosus);

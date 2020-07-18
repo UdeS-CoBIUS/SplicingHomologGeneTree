@@ -1,0 +1,1 @@
+((((ENSMSIG00000030549__Mus_spicilegus,ENSMUGG00000000103__Meriones_unguiculatus),ENSSDAG00000004260__Spermophilus_dauricus),((ENSMNEG00000032609__Macaca_nemestrina,ENSMNEG00000029277__Macaca_nemestrina),ENSTGEG00000011741__Theropithecus_gelada)),(ENSBBBG00000024374__Bison_bison_bison,ENSVVUG00000004621__Vulpes_vulpes));

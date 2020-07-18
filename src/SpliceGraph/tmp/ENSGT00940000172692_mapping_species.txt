@@ -1,0 +1,2 @@
+LEPISOSTEUSOCULATUS	lepisosteus_oculatus
+ZONOTRICHIAALBICOLLIS	zonotrichia_albicollis

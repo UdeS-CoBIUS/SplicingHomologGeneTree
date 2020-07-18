@@ -1,1 +1,0 @@
-(((ENSGACG00000016181__Gasterosteus_aculeatus,ENSCSEG00000021634__Cynoglossus_semilaevis),ENSGMOG00000012466__Gadus_morhua),ENSLACG00000022574__Latimeria_chalumnae);

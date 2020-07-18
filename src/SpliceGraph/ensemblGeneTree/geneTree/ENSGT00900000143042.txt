@@ -1,0 +1,1 @@
+(((ENSNPEG00000008835__Nothoprocta_perdicaria,ENSABRG00000016272__Anser_brachyrhynchus),ENSCPBG00000005285__Chrysemys_picta_bellii),(((ENSCCNG00000005353__Castor_canadensis,ENSJJAG00000000580__Jaculus_jaculus),ENSSDAG00000014823__Spermophilus_dauricus),ENSLAFG00000030520__Loxodonta_africana));

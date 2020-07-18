@@ -1,0 +1,1 @@
+(((((ENSPMEG00000008318__Poecilia_mexicana,ENSORLG00000024835__Oryzias_latipes_ASM223467v1),(ENSLCAG00010003514__Lates_calcarifer,ENSPNYG00000023324__Pundamilia_nyererei)),ENSMMOG00000016732__Mola_mola),((ENSOMEG00000011909__Oryzias_melastigma,ENSPNYG00000014373__Pundamilia_nyererei),ENSLCRG00005011684__Larimichthys_crocea)),ENSLCOG00000016254__Lepidothrix_coronata);

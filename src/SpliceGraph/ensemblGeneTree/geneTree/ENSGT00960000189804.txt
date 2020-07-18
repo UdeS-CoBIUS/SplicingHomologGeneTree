@@ -1,0 +1,1 @@
+(((ENSAPLG00000024217__Anas_platyrhynchos_platyrhynchos,ENSAPLG00000028191__Anas_platyrhynchos_platyrhynchos),ENSNVIG00000007295__Neovison_vison),ENSATEG00000006138__Anabas_testudineus);

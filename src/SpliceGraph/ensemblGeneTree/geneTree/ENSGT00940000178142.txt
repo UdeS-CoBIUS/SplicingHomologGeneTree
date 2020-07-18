@@ -1,0 +1,1 @@
+(((((ENSAPOG00000000424__Acanthochromis_polyacanthus,ENSSPAG00000001332__Stegastes_partitus),ENSAPEG00000003051__Amphiprion_percula),(ENSACIG00000003783__Amphilophus_citrinellus,ENSGAFG00000003581__Gambusia_affinis)),(ENSGWIG00000005972__Gouania_willdenowi,ENSGWIG00000005970__Gouania_willdenowi)),ENSSMAG00000012924__Scophthalmus_maximus);

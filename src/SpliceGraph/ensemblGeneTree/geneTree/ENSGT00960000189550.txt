@@ -1,0 +1,1 @@
+(((((ENSAPLG00000026336__Anas_platyrhynchos_platyrhynchos,ENSNMEG00000011816__Numida_meleagris),ENSJHYG00000000569__Junco_hyemalis),ENSNPEG00000009703__Nothoprocta_perdicaria),ENSNSUG00000016203__Notechis_scutatus),ENSMMUG00000009174__Macaca_mulatta);

@@ -1,2 +1,2 @@
-YIR035C_mRNA	YIR035C	Saccharomyces_cerevisiae_strain_S288C
 YIR036C_mRNA	YIR036C	Saccharomyces_cerevisiae_strain_S288C
+YIR035C_mRNA	YIR035C	Saccharomyces_cerevisiae_strain_S288C

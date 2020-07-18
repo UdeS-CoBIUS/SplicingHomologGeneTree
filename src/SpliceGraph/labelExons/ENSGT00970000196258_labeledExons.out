@@ -1,0 +1,50 @@
+>0
+Y57G11C.47.1: ['exon skipping', 0, 0]
+Y38C1AA.3a.1: ['no event', 59, 0]
+Y38C1AA.3b.1: ['exon skipping', 0, 0]
+Y38C1AA.3b.2: ['exon skipping', 0, 0]
+>1
+Y57G11C.47.1: ['5event', ['internal gap >= 30', 87, 36], 119, 0]
+Y38C1AA.3a.1: [['internal gap < 30', 1, 11], 144, 0]
+Y38C1AA.3b.1: ['5event', 143, 0]
+Y38C1AA.3b.2: ['5event', 143, 0]
+>2
+Y57G11C.47.1: ['no event', 131, 0]
+Y38C1AA.3a.1: ['exon skipping', 0, 0]
+Y38C1AA.3b.1: ['exon skipping', 0, 0]
+Y38C1AA.3b.2: ['exon skipping', 0, 0]
+>3
+Y57G11C.47.1: ['3event', 233, 0]
+Y38C1AA.3a.1: ['5event', 608, 0]
+Y38C1AA.3b.1: ['5event', 608, 0]
+Y38C1AA.3b.2: ['5event', 608, 0]
+>4
+Y57G11C.47.1: ['5event', 62, 0]
+Y38C1AA.3a.1: ['exon skipping', 0, 0]
+Y38C1AA.3b.1: ['exon skipping', 0, 0]
+Y38C1AA.3b.2: ['exon skipping', 0, 0]
+>5
+Y57G11C.47.1: ['no event', 88, 0]
+Y38C1AA.3a.1: ['exon skipping', 0, 0]
+Y38C1AA.3b.1: ['exon skipping', 0, 0]
+Y38C1AA.3b.2: ['exon skipping', 0, 0]
+>6
+Y57G11C.47.1: ['no event', 140, 2]
+Y38C1AA.3a.1: ['exon skipping', 0, 0]
+Y38C1AA.3b.1: ['exon skipping', 0, 0]
+Y38C1AA.3b.2: ['exon skipping', 0, 0]
+>7
+Y57G11C.47.1: ['no event', 123, 2]
+Y38C1AA.3a.1: ['exon skipping', 0, 0]
+Y38C1AA.3b.1: ['exon skipping', 0, 0]
+Y38C1AA.3b.2: ['exon skipping', 0, 0]
+>8
+Y57G11C.47.1: ['no event', 50, 0]
+Y38C1AA.3a.1: ['exon skipping', 0, 0]
+Y38C1AA.3b.1: ['exon skipping', 0, 0]
+Y38C1AA.3b.2: ['exon skipping', 0, 0]
+>9
+Y57G11C.47.1: ['exon skipping', 0, 0]
+Y38C1AA.3a.1: ['5event', 194, 0]
+Y38C1AA.3b.1: ['5event', 194, 0]
+Y38C1AA.3b.2: ['5event', 194, 0]

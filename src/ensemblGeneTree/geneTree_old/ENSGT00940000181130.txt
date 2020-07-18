@@ -1,1 +1,0 @@
-((ENSSMRG00000019429__Salvator_merianae,ENSDNVG00000005996__Dromaius_novaehollandiae),(ENSCVAG00000009878__Cyprinodon_variegatus,ENSLBEG00000026199__Labrus_bergylta));

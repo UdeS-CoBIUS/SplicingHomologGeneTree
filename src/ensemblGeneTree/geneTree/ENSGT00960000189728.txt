@@ -1,0 +1,1 @@
+((((ENSAPLG00000027106__Anas_platyrhynchos_platyrhynchos,ENSAPLG00000023629__Anas_platyrhynchos_platyrhynchos),ENSCJPG00005006447__Coturnix_japonica),ENSCCEG00000005554__Cyanistes_caeruleus),ENSARWG00000008581__Apteryx_rowi);

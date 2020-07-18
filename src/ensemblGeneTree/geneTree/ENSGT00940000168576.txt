@@ -1,0 +1,1 @@
+((ENSACAG00000026577__Anolis_carolinensis,ENSNSUG00000014636__Notechis_scutatus),(ENSLCOG00000011177__Lepidothrix_coronata,ENSTGUG00000009528__Taeniopygia_guttata));

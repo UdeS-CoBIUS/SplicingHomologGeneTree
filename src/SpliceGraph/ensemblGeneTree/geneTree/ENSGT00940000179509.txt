@@ -1,0 +1,1 @@
+((ENSCVAG00000021088__Cyprinodon_variegatus,ENSCVAG00000009115__Cyprinodon_variegatus),ENSCVAG00000022523__Cyprinodon_variegatus);

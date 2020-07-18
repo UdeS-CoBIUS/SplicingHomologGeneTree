@@ -1,0 +1,1 @@
+(((((ENSMVIG00005016750__Manacus_vitellinus,ENSLCOG00000007954__Lepidothrix_coronata),ENSLSDG00000000125__Lonchura_striata_domestica),ENSMUNG00000005718__Melopsittacus_undulatus),ENSMUNG00000005717__Melopsittacus_undulatus),ENSDNVG00000001780__Dromaius_novaehollandiae);

@@ -1,0 +1,1 @@
+((((ENSOCUG00000029018__Oryctolagus_cuniculus,ENSTBEG00000015585__Tupaia_belangeri),(ENSPPYG00000013006__Pongo_abelii,ENSCSAG00000018654__Chlorocebus_sabaeus)),ENSETEG00000017524__Echinops_telfairi),ENSDNOG00000038099__Dasypus_novemcinctus);

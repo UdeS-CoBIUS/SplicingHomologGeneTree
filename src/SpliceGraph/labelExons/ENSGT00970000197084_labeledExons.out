@@ -1,0 +1,12 @@
+>0
+ENSHHUT00000007785: [['internal gap < 30', 88, 18], 263, 0]
+ENSHHUT00000039566: [['internal gap < 30', 88, 18], 263, 0]
+ENSOANT00000038557: [['internal gap < 30', 122, 27], 254, 0]
+>1
+ENSHHUT00000007785: ['3event', 151, 0]
+ENSHHUT00000039566: [['internal gap >= 30', 96, 44], 173, 0]
+ENSOANT00000038557: ['3event', 188, 0]
+>2
+ENSHHUT00000007785: ['exon skipping', 0, 0]
+ENSHHUT00000039566: ['exon skipping', 0, 0]
+ENSOANT00000038557: ['5event', 13, 1]

@@ -1,0 +1,1 @@
+((((ENSPREG00000012071__Poecilia_reticulata,ENSPLAG00000016773__Poecilia_latipinna),ENSPMEG00000013457__Poecilia_mexicana),(ENSXCOG00000010930__Xiphophorus_couchianus,ENSXMAG00000020973__Xiphophorus_maculatus)),ENSGAFG00000005091__Gambusia_affinis);

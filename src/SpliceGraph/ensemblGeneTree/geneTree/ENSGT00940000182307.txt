@@ -1,0 +1,1 @@
+((ENSTRUG00000021455__Takifugu_rubripes,ENSIPUG00000018939__Ictalurus_punctatus),ENSTGEG00000021091__Theropithecus_gelada);

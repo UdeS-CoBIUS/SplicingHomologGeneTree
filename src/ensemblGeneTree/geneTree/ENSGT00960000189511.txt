@@ -1,0 +1,1 @@
+((((ENSCCEG00000001361__Cyanistes_caeruleus,ENSPMJG00000011400__Parus_major),ENSSCAG00000008250__Serinus_canaria),ENSMVIG00005006132__Manacus_vitellinus),((ENSNPEG00000016182__Nothoprocta_perdicaria,ENSNPEG00000012245__Nothoprocta_perdicaria),ENSNPEG00000002632__Nothoprocta_perdicaria));

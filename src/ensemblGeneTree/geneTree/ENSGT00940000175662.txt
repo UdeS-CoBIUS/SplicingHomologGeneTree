@@ -1,0 +1,1 @@
+(((ENSORLG00015004339__Oryzias_latipes_ASM223469v1,ENSOMEG00000011029__Oryzias_melastigma),ENSXMAG00000003192__Xiphophorus_maculatus),(ENSGACG00000013823__Gasterosteus_aculeatus,ENSTRUG00000020250__Takifugu_rubripes));

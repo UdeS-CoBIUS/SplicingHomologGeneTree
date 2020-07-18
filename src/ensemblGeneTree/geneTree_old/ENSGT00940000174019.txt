@@ -1,1 +1,0 @@
-(ENSPVAG00000002093__Pteropus_vampyrus,ENSCHOG00000013836__Choloepus_hoffmanni);

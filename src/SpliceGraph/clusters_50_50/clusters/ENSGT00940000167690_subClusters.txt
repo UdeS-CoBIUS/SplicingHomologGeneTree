@@ -1,0 +1,10 @@
+>cluster_0
+ZK546.1c.1
+>cluster_1
+ZK546.1d.1
+>cluster_2
+ZK546.1b.1
+>cluster_3
+FBtr0081180	ZK546.1d.2
+>cluster_4
+ZK546.1a.1

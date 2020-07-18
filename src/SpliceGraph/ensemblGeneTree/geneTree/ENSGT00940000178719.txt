@@ -1,0 +1,1 @@
+(((ENSCVAG00000018193__Cyprinodon_variegatus,ENSACIG00000003801__Amphilophus_citrinellus),ENSSLDG00000005728__Seriola_lalandi_dorsalis),ENSSFOG00015011170__Scleropages_formosus);

@@ -1,0 +1,8 @@
+>completeCluster_0
+FBtr0345482	H10D18.5d.1
+>completeCluster_1
+H10D18.5a.1	FBtr0302923
+>completeCluster_2
+FBtr0332922	H10D18.5b.1
+>completeCluster_3
+FBtr0345481	H10D18.5c.1

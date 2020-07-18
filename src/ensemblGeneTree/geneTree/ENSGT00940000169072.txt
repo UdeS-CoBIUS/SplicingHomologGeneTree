@@ -1,0 +1,1 @@
+(((ENSMICG00000032723__Microcebus_murinus,ENSPSMG00000018918__Prolemur_simus),ENSCCAG00000036384__Cebus_capucinus_imitator),((ENSHGLG00000008207__Heterocephalus_glaber_HetGla_female_1.0,ENSHGLG00100008739__Heterocephalus_glaber_HetGla_1.0),ENSSDAG00000002892__Spermophilus_dauricus));

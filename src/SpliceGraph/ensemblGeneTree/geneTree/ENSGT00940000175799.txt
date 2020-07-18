@@ -1,0 +1,1 @@
+((ENSORLG00020003181__Oryzias_latipes_ASM223471v1,ENSSMAG00000011195__Scophthalmus_maximus),ENSBBBG00000008234__Bison_bison_bison);

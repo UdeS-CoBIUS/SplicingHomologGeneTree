@@ -1,0 +1,1 @@
+((ENSUPAG00010012005__Urocitellus_parryii,ENSOPRG00000000052__Ochotona_princeps),ENSPSMG00000024590__Prolemur_simus);

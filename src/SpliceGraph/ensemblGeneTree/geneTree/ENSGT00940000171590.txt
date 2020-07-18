@@ -1,0 +1,1 @@
+((ENSAPEG00000022997__Amphiprion_percula,ENSAMXG00000033996__Astyanax_mexicanus),(ENSTBEG00000006366__Tupaia_belangeri,ENSEEUG00000004334__Erinaceus_europaeus));

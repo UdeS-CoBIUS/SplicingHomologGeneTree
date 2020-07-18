@@ -1,0 +1,1 @@
+(((ENSUAMG00000014288__Ursus_americanus,ENSBBBG00000013159__Bison_bison_bison),ENSCJAG00000040561__Callithrix_jacchus),(ENSPMJG00000004063__Parus_major,ENSCCEG00000014262__Cyanistes_caeruleus));

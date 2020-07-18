@@ -1,1 +1,0 @@
-(ENSPKIG00000020372__Paramormyrops_kingsleyae,ENSDARG00000100582__Danio_rerio);

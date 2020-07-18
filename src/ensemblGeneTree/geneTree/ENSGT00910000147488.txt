@@ -1,0 +1,1 @@
+(((ENSCCAG00000035743__Cebus_capucinus_imitator,ENSSBOG00000033727__Saimiri_boliviensis_boliviensis),ENSANAG00000035867__Aotus_nancymaae),((ENSMFAG00000015763__Macaca_fascicularis,ENSMMUG00000041934__Macaca_mulatta),ENSPANG00000029504__Papio_anubis));

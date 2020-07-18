@@ -1,0 +1,115 @@
+>0
+ENSPVIT00000042344: ['no event', 193, 0]
+ENSPVIT00000042346: ['no event', 193, 0]
+ENSPVIT00000042347: ['exon skipping', 0, 0]
+ENSACAT00000007841: ['exon skipping', 0, 0]
+>1
+ENSPVIT00000042344: ['exon skipping', 0, 0]
+ENSPVIT00000042346: ['exon skipping', 0, 0]
+ENSPVIT00000042347: ['5event', 136, 0]
+ENSACAT00000007841: ['exon skipping', 0, 0]
+>2
+ENSPVIT00000042344: ['exon skipping', 0, 0]
+ENSPVIT00000042346: ['exon skipping', 0, 0]
+ENSPVIT00000042347: ['exon skipping', 0, 0]
+ENSACAT00000007841: ['5event', 97, 0]
+>3
+ENSPVIT00000042344: ['5event', 169, 2]
+ENSPVIT00000042346: ['5event', 169, 2]
+ENSPVIT00000042347: ['5event', 169, 2]
+ENSACAT00000007841: [['internal gap < 30', 142, 3], 167, 2]
+>4
+ENSPVIT00000042344: ['exon skipping', 0, 0]
+ENSPVIT00000042346: ['no event', 18, 1]
+ENSPVIT00000042347: ['exon skipping', 0, 0]
+ENSACAT00000007841: ['exon skipping', 0, 0]
+>5
+ENSPVIT00000042344: ['exon skipping', 0, 0]
+ENSPVIT00000042346: ['no event', 70, 2]
+ENSPVIT00000042347: ['exon skipping', 0, 0]
+ENSACAT00000007841: ['exon skipping', 0, 0]
+>6
+ENSPVIT00000042344: ['exon skipping', 0, 0]
+ENSPVIT00000042346: ['exon skipping', 0, 0]
+ENSPVIT00000042347: ['exon skipping', 0, 0]
+ENSACAT00000007841: ['5event', 45, 1]
+>7
+ENSPVIT00000042344: ['5event', 247, 1]
+ENSPVIT00000042346: ['5event', 247, 1]
+ENSPVIT00000042347: ['5event', 250, 1]
+ENSACAT00000007841: ['no event', 256, 2]
+>8
+ENSPVIT00000042344: ['no event', 96, 0]
+ENSPVIT00000042346: ['no event', 96, 0]
+ENSPVIT00000042347: ['no event', 96, 0]
+ENSACAT00000007841: ['no event', 96, 0]
+>9
+ENSPVIT00000042344: ['no event', 118, 1]
+ENSPVIT00000042346: ['no event', 118, 1]
+ENSPVIT00000042347: ['no event', 118, 1]
+ENSACAT00000007841: ['no event', 118, 1]
+>10
+ENSPVIT00000042344: ['no event', 80, 0]
+ENSPVIT00000042346: ['no event', 80, 0]
+ENSPVIT00000042347: ['no event', 80, 0]
+ENSACAT00000007841: ['no event', 80, 0]
+>11
+ENSPVIT00000042344: ['no event', 94, 0]
+ENSPVIT00000042346: ['no event', 94, 0]
+ENSPVIT00000042347: ['no event', 94, 0]
+ENSACAT00000007841: ['no event', 94, 0]
+>12
+ENSPVIT00000042344: ['no event', 123, 2]
+ENSPVIT00000042346: ['no event', 123, 2]
+ENSPVIT00000042347: ['no event', 123, 2]
+ENSACAT00000007841: ['no event', 123, 2]
+>13
+ENSPVIT00000042344: ['no event', 93, 0]
+ENSPVIT00000042346: ['no event', 93, 0]
+ENSPVIT00000042347: ['no event', 93, 0]
+ENSACAT00000007841: ['no event', 93, 0]
+>14
+ENSPVIT00000042344: ['no event', 115, 1]
+ENSPVIT00000042346: ['no event', 115, 1]
+ENSPVIT00000042347: ['no event', 115, 1]
+ENSACAT00000007841: ['no event', 115, 1]
+>15
+ENSPVIT00000042344: ['no event', 219, 0]
+ENSPVIT00000042346: ['no event', 219, 0]
+ENSPVIT00000042347: ['no event', 219, 0]
+ENSACAT00000007841: ['no event', 219, 0]
+>16
+ENSPVIT00000042344: ['exon skipping', 0, 0]
+ENSPVIT00000042346: ['exon skipping', 0, 0]
+ENSPVIT00000042347: ['exon skipping', 0, 0]
+ENSACAT00000007841: ['no event', 66, 1]
+>17
+ENSPVIT00000042344: ['exon skipping', 0, 0]
+ENSPVIT00000042346: ['exon skipping', 0, 0]
+ENSPVIT00000042347: ['exon skipping', 0, 0]
+ENSACAT00000007841: ['no event', 24, 2]
+>18
+ENSPVIT00000042344: ['5event', ['internal gap < 30', 159, 12], 172, 1]
+ENSPVIT00000042346: ['5event', ['internal gap < 30', 159, 12], 172, 1]
+ENSPVIT00000042347: ['5event', ['internal gap < 30', 159, 12], 172, 1]
+ENSACAT00000007841: [['internal gap >= 30', 11, 116], 68, 0]
+>19
+ENSPVIT00000042344: ['exon skipping', 0, 0]
+ENSPVIT00000042346: ['exon skipping', 0, 0]
+ENSPVIT00000042347: ['exon skipping', 0, 0]
+ENSACAT00000007841: ['no event', 4, 1]
+>20
+ENSPVIT00000042344: ['5event', 115, 0]
+ENSPVIT00000042346: ['5event', 115, 0]
+ENSPVIT00000042347: ['5event', 115, 0]
+ENSACAT00000007841: ['no event', 117, 0]
+>21
+ENSPVIT00000042344: ['3event', 83, 2]
+ENSPVIT00000042346: ['no event', 132, 2]
+ENSPVIT00000042347: ['no event', 132, 2]
+ENSACAT00000007841: ['no event', 132, 2]
+>22
+ENSPVIT00000042344: ['5event', 32, 0]
+ENSPVIT00000042346: ['exon skipping', 0, 0]
+ENSPVIT00000042347: ['exon skipping', 0, 0]
+ENSACAT00000007841: ['exon skipping', 0, 0]

@@ -1,0 +1,6 @@
+>cluster_0
+F20D6.4b.1	C03G6.19.1
+>cluster_1
+F20D6.4d.1
+>cluster_2
+F20D6.3.1	F20D6.4c.1

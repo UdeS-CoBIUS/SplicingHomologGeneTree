@@ -1,1 +1,0 @@
-((ENSABRG00000002926__Anser_brachyrhynchus,ENSCJPG00005003038__Coturnix_japonica),ENSPCIG00000037081__Phascolarctos_cinereus);

@@ -1,0 +1,1 @@
+(((FBgn0263512__Drosophila_melanogaster,FBgn0263511__Drosophila_melanogaster),WBGene00000435__Caenorhabditis_elegans_strain_N2),((((ENSMMOG00000015725__Mola_mola,ENSTNIG00000016360__Tetraodon_nigroviridis),ENSPLAG00000014652__Poecilia_latipinna),ENSSPAG00000008801__Stegastes_partitus),ENSTBEG00000014757__Tupaia_belangeri));

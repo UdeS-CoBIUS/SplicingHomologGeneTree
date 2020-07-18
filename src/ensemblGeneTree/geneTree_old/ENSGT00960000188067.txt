@@ -1,1 +1,0 @@
-(ENSMLEG00000028284__Mandrillus_leucophaeus,ENSCATG00000044938__Cercocebus_atys);

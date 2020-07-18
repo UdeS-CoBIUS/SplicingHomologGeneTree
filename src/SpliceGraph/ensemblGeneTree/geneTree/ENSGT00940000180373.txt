@@ -1,0 +1,1 @@
+((ENSAMXG00000043200__Astyanax_mexicanus,ENSAMXG00000034999__Astyanax_mexicanus),ENSATEG00000018980__Anabas_testudineus);

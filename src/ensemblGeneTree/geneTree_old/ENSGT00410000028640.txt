@@ -1,1 +1,0 @@
-((ENSPPYG00000006296__Pongo_abelii,ENSPPYG00000006285__Pongo_abelii),ENSMMUG00000044170__Macaca_mulatta);

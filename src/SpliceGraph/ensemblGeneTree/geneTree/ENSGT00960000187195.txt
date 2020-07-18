@@ -1,0 +1,1 @@
+((((ENSAPEG00000023819__Amphiprion_percula,ENSAPEG00000023810__Amphiprion_percula),ENSAPOG00000011262__Acanthochromis_polyacanthus),(ENSCVAG00000003758__Cyprinodon_variegatus,ENSCVAG00000021224__Cyprinodon_variegatus)),ENSTNIG00000018094__Tetraodon_nigroviridis);

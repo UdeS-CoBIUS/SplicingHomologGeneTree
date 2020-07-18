@@ -1,0 +1,1 @@
+(ENSCPBG00000015333__Chrysemys_picta_bellii,ENSETEG00000002946__Echinops_telfairi);

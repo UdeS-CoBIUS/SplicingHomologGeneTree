@@ -1,1 +1,0 @@
-(((ENSPANG00000033705__Papio_anubis,ENSMLEG00000014123__Mandrillus_leucophaeus),ENSMMUG00000038560__Macaca_mulatta),ENSCANG00000038879__Colobus_angolensis_palliatus);

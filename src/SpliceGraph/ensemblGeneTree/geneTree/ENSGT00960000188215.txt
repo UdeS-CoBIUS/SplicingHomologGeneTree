@@ -1,0 +1,1 @@
+(ENSCSEG00000004729__Cynoglossus_semilaevis,ENSOARG00000008612__Ovis_aries);

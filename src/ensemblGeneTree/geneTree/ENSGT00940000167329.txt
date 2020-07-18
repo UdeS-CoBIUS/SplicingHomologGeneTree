@@ -1,0 +1,1 @@
+((((ENSCING00000002377__Ciona_intestinalis,ENSCSAVG00000009001__Ciona_savignyi),(ENSCING00000004570__Ciona_intestinalis,ENSCSAVG00000004368__Ciona_savignyi)),ENSEBUG00000008115__Eptatretus_burgeri),(WBGene00001632__Caenorhabditis_elegans_strain_N2,FBgn0030930__Drosophila_melanogaster));

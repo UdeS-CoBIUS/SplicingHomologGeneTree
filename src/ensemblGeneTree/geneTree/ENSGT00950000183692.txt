@@ -1,0 +1,1 @@
+((ENSEASG00005018974__Equus_asinus_asinus,ENSTGEG00000010950__Theropithecus_gelada),(((ENSPMEG00000015405__Poecilia_mexicana,ENSORLG00015012686__Oryzias_latipes_ASM223469v1),ENSLBEG00000026586__Labrus_bergylta),((ENSAMXG00000029186__Astyanax_mexicanus,ENSAMXG00000033469__Astyanax_mexicanus),ENSOMEG00000021609__Oryzias_melastigma)));

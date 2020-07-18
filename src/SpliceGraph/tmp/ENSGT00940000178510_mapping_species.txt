@@ -1,0 +1,4 @@
+XIPHOPHORUSCOUCHIANUS	xiphophorus_couchianus
+XIPHOPHORUSCOUCHIANUS	xiphophorus_couchianus
+POECILIALATIPINNA	poecilia_latipinna
+POECILIAMEXICANA	poecilia_mexicana

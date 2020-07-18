@@ -1,0 +1,1 @@
+(((ENSAHAG00000003576__Apteryx_haastii,ENSDNVG00000005021__Dromaius_novaehollandiae),ENSNPEG00000012683__Nothoprocta_perdicaria),ENSAMXG00000042153__Astyanax_mexicanus);

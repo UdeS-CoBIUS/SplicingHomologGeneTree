@@ -1,0 +1,1 @@
+(((ENSMOCG00000013800__Microtus_ochrogaster,ENSMAUG00000018005__Mesocricetus_auratus),ENSJJAG00000013034__Jaculus_jaculus),((ENSFDAG00000020866__Fukomys_damarensis,ENSHGLG00000016262__Heterocephalus_glaber_HetGla_female_1.0),ENSCLAG00000009321__Chinchilla_lanigera));

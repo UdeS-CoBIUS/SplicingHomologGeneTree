@@ -1,1 +1,0 @@
-((ENSABRG00000014114__Anser_brachyrhynchus,ENSAPLG00000029664__Anas_platyrhynchos_platyrhynchos),ENSDNVG00000007874__Dromaius_novaehollandiae);

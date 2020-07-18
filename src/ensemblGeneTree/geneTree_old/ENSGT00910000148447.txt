@@ -1,1 +1,0 @@
-(ENSANAG00000036960__Aotus_nancymaae,ENSMICG00000041955__Microcebus_murinus);

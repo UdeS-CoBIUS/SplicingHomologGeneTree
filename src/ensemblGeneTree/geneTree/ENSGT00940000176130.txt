@@ -1,0 +1,1 @@
+(((ENSXCOG00000007041__Xiphophorus_couchianus,ENSPKIG00000024005__Paramormyrops_kingsleyae),ENSAOCG00000015096__Amphiprion_ocellaris),ENSDNOG00000006509__Dasypus_novemcinctus);

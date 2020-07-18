@@ -1,0 +1,1 @@
+(((ENSSDAG00000024977__Spermophilus_dauricus,ENSSDAG00000015418__Spermophilus_dauricus),ENSTSYG00000027914__Carlito_syrichta),(ENSUAMG00000024454__Ursus_americanus,ENSBMUG00000023270__Bos_mutus));

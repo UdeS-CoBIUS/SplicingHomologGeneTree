@@ -1,0 +1,1 @@
+(ENSUPAG00010017050__Urocitellus_parryii,ENSMSIG00000010942__Mus_spicilegus);

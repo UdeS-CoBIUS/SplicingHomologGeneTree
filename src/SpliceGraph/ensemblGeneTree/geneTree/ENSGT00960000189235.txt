@@ -1,0 +1,1 @@
+(ENSMMMG00000008180__Marmota_marmota_marmota,YNR032W__Saccharomyces_cerevisiae_strain_S288C);

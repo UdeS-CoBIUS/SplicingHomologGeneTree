@@ -1,0 +1,18 @@
+>0
+ENSPPYT00000014152: ['no event', 48, 0]
+ENSCATT00000016484: ['no event', 48, 0]
+ENSMLET00000048775: ['no event', 48, 0]
+ENSTGET00000041719: ['no event', 48, 0]
+ENSCSAT00000014565: ['no event', 48, 0]
+>1
+ENSPPYT00000014152: ['exon skipping', 0, 0]
+ENSCATT00000016484: ['exon skipping', 0, 0]
+ENSMLET00000048775: ['exon skipping', 0, 0]
+ENSTGET00000041719: ['exon skipping', 0, 0]
+ENSCSAT00000014565: ['no event', 5, 1]
+>2
+ENSPPYT00000014152: ['3event', '5event', 365, 1]
+ENSCATT00000016484: ['3event', '5event', 365, 1]
+ENSMLET00000048775: ['5event', ['internal gap < 30', 359, 3], 499, 1]
+ENSTGET00000041719: ['3event', '5event', 365, 1]
+ENSCSAT00000014565: ['3event', 298, 1]

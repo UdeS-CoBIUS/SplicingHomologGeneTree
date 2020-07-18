@@ -1,1 +1,0 @@
-((ENSSDAG00000003033__Spermophilus_dauricus,ENSUPAG00010005733__Urocitellus_parryii),(ENSCCNG00000016975__Castor_canadensis,ENSMUGG00000007843__Meriones_unguiculatus));

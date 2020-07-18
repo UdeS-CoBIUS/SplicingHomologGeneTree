@@ -1,0 +1,1 @@
+((((ENSSDAG00000019336__Spermophilus_dauricus,ENSMMMG00000004033__Marmota_marmota_marmota),ENSUPAG00010016313__Urocitellus_parryii),ENSCJAG00000040700__Callithrix_jacchus),ENSPREG00000014129__Poecilia_reticulata);

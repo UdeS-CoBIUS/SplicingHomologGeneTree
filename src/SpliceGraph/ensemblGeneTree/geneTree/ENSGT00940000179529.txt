@@ -1,0 +1,1 @@
+(((ENSSPAG00000002311__Stegastes_partitus,ENSPREG00000019087__Poecilia_reticulata),ENSPMGG00000013122__Periophthalmus_magnuspinnatus),ENSSLDG00000023460__Seriola_lalandi_dorsalis);

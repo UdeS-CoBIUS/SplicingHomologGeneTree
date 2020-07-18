@@ -1,1 +1,0 @@
-((ENSCGRG00001005024__Cricetulus_griseus_CHOK1GS_HDv1,ENSCGRG00000019941__Cricetulus_griseus_CriGri_1.0),ENSCGRG00015007695__Cricetulus_griseus_CriGri-PICR);

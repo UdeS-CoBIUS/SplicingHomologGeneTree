@@ -1,0 +1,24 @@
+>cluster_0
+ENSCSAVT00000007307	ENSCINT00000001984	FBtr0304980
+>cluster_1
+FBtr0304983
+>cluster_2
+FBtr0078468
+>cluster_3
+FBtr0332736
+>cluster_4
+FBtr0304984
+>cluster_5
+FBtr0078470
+>cluster_6
+ENSCSAVT00000004823	FBtr0333222
+>cluster_7
+FBtr0111017
+>cluster_8
+FBtr0304982
+>cluster_9
+FBtr0304981
+>cluster_10
+Y119D3B.17.1	FBtr0346820
+>cluster_11
+FBtr0301364

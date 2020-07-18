@@ -1,1 +1,0 @@
-(ENSOANG00000019785__Ornithorhynchus_anatinus,ENSMODG00000025251__Monodelphis_domestica);

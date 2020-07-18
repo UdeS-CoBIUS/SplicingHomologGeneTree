@@ -1,0 +1,1 @@
+(ENSLAFG00000025798__Loxodonta_africana,ENSSDAG00000001606__Spermophilus_dauricus);

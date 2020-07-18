@@ -1,0 +1,1 @@
+((((((ENSCJPG00005009976__Coturnix_japonica,ENSAPLG00000023742__Anas_platyrhynchos_platyrhynchos),ENSCPUG00000003369__Calidris_pugnax),ENSCCEG00000021533__Cyanistes_caeruleus),ENSSPUG00000009013__Sphenodon_punctatus),ENSDNOG00000010053__Dasypus_novemcinctus),ENSAPOG00000024349__Acanthochromis_polyacanthus);

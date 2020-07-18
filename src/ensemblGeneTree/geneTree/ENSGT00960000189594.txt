@@ -1,0 +1,1 @@
+((((ENSPMJG00000009665__Parus_major,ENSCCEG00000010900__Cyanistes_caeruleus),(ENSLCOG00000000528__Lepidothrix_coronata,ENSMVIG00005010476__Manacus_vitellinus)),ENSLSDG00000007510__Lonchura_striata_domestica),ENSAOWG00000008907__Apteryx_owenii);

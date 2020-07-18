@@ -1,0 +1,1 @@
+((((ENSSPUG00000015391__Sphenodon_punctatus,ENSCABG00000001659__Chelonoidis_abingdonii),ENSLSDG00000006845__Lonchura_striata_domestica),ENSUAMG00000022537__Ursus_americanus),(ENSORLG00000024287__Oryzias_latipes_ASM223467v1,ENSSPAG00000005578__Stegastes_partitus));

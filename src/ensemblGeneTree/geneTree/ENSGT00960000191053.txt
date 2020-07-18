@@ -1,0 +1,1 @@
+((ENSMSIG00000007947__Mus_spicilegus,ENSCHIG00000012429__Capra_hircus),ENSMUNG00000012800__Melopsittacus_undulatus);

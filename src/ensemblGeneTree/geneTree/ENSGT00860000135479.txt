@@ -1,0 +1,1 @@
+((ENSMMUG00000047060__Macaca_mulatta,ENSMMUG00000043545__Macaca_mulatta),((ENSMMUG00000043623__Macaca_mulatta,ENSMMUG00000045943__Macaca_mulatta),ENSMMUG00000004247__Macaca_mulatta));

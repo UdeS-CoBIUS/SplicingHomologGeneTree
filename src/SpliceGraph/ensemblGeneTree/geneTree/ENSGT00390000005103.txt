@@ -1,0 +1,1 @@
+(ENSMODG00000022558__Monodelphis_domestica,ENSLACG00000001101__Latimeria_chalumnae);

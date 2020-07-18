@@ -1,0 +1,1 @@
+((ENSPTIG00000012707__Panthera_tigris_altaica,ENSTSYG00000032563__Carlito_syrichta),ENSDNVG00000012330__Dromaius_novaehollandiae);

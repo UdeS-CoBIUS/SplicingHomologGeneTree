@@ -1,0 +1,2 @@
+YPR180W_mRNA	YPR180W	Saccharomyces_cerevisiae_strain_S288C
+ENSMMMP00000011553	ENSMMMG00000010340	Marmota_marmota_marmota

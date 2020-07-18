@@ -1,0 +1,1 @@
+((ENSSPUG00000000457__Sphenodon_punctatus,ENSXETG00000002488__Xenopus_tropicalis),((ENSPNYG00000011117__Pundamilia_nyererei,ENSGACG00000014662__Gasterosteus_aculeatus),ENSGMOG00000019887__Gadus_morhua));

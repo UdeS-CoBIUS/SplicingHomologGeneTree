@@ -1,0 +1,1 @@
+(((ENSAPLG00000023369__Anas_platyrhynchos_platyrhynchos,ENSCJPG00005001859__Coturnix_japonica),ENSLCOG00000002954__Lepidothrix_coronata),ENSARWG00000004961__Apteryx_rowi);

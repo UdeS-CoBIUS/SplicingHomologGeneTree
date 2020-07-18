@@ -1,1 +1,0 @@
-((ENSOANG00000011510__Ornithorhynchus_anatinus,ENSDORG00000006957__Dipodomys_ordii),FBgn0031851__Drosophila_melanogaster);

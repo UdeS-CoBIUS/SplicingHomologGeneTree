@@ -1,0 +1,1 @@
+((ENSCING00000019037__Ciona_intestinalis,ENSXETG00000030818__Xenopus_tropicalis),((ENSXETG00000016294__Xenopus_tropicalis,ENSXETG00000019180__Xenopus_tropicalis),ENSCING00000020871__Ciona_intestinalis));

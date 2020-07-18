@@ -1,1 +1,0 @@
-((ENSGALG00000047207__Gallus_gallus,ENSAPLG00000024048__Anas_platyrhynchos_platyrhynchos),ENSFALG00000006841__Ficedula_albicollis);

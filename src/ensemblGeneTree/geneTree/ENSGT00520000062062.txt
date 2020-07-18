@@ -1,0 +1,1 @@
+(ENSTNIG00000000359__Tetraodon_nigroviridis,ENSTRUG00000010217__Takifugu_rubripes);

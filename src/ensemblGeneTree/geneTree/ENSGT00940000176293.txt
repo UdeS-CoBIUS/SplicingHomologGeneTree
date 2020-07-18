@@ -1,0 +1,1 @@
+(((((ENSGAFG00000015516__Gambusia_affinis,ENSXCOG00000017249__Xiphophorus_couchianus),(ENSPLAG00000001545__Poecilia_latipinna,ENSPMEG00000002676__Poecilia_mexicana)),ENSTRUG00000023452__Takifugu_rubripes),ENSPNAG00000016292__Pygocentrus_nattereri),YGL251C__Saccharomyces_cerevisiae_strain_S288C);

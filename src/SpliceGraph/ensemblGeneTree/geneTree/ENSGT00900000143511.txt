@@ -1,0 +1,1 @@
+(((ENSRNOG00000058245__Rattus_norvegicus,ENSMSIG00000003909__Mus_spicilegus),ENSMAUG00000022188__Mesocricetus_auratus),ENSCCNG00000016704__Castor_canadensis);

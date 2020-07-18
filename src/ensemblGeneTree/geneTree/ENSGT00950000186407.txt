@@ -1,0 +1,1 @@
+(((ENSPCOG00000024499__Propithecus_coquereli,ENSPEMG00000029450__Peromyscus_maniculatus_bairdii),ENSUAMG00000020164__Ursus_americanus),ENSAPLG00000018832__Anas_platyrhynchos_platyrhynchos);

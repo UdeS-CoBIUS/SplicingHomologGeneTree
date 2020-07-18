@@ -1,0 +1,1 @@
+(((((ENSSDUG00000003751__Seriola_dumerili,ENSSDUG00000003783__Seriola_dumerili),ENSSLDG00000008725__Seriola_lalandi_dorsalis),(ENSSLDG00000001071__Seriola_lalandi_dorsalis,ENSSDUG00000003758__Seriola_dumerili)),ENSSLDG00000005904__Seriola_lalandi_dorsalis),ENSACIG00000013293__Amphilophus_citrinellus);

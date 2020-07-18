@@ -1,1 +1,0 @@
-(ENSODEG00000016659__Octodon_degus,ENSCAPG00000012335__Cavia_aperea);

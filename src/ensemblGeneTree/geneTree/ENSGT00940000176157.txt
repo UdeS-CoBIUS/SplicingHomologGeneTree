@@ -1,0 +1,1 @@
+((((((ENSNBRG00000017817__Neolamprologus_brichardi,ENSPREG00000001408__Poecilia_reticulata),ENSSLDG00000008704__Seriola_lalandi_dorsalis),ENSMALG00000009704__Monopterus_albus),ENSACIG00000017500__Amphilophus_citrinellus),ENSSFOG00015022957__Scleropages_formosus),ENSLOCG00000009584__Lepisosteus_oculatus);

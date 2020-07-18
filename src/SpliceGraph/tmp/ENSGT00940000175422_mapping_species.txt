@@ -1,0 +1,2 @@
+LABRUSBERGYLTA	labrus_bergylta
+TETRAODONNIGROVIRIDIS	tetraodon_nigroviridis

@@ -1,1 +1,0 @@
-(ENSCCEG00000007284__Cyanistes_caeruleus,ENSLSDG00000002647__Lonchura_striata_domestica);

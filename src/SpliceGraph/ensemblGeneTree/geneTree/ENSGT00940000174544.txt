@@ -1,0 +1,1 @@
+((ENSOANG00000030974__Ornithorhynchus_anatinus,ENSPCIG00000001755__Phascolarctos_cinereus),ENSCSEG00000019296__Cynoglossus_semilaevis);

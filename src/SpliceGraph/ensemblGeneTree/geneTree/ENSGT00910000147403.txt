@@ -1,0 +1,1 @@
+((((ENSPPAG00000028544__Pan_paniscus,ENSPTRG00000048823__Pan_troglodytes),ENSGGOG00000037818__Gorilla_gorilla),((ENSMLEG00000032711__Mandrillus_leucophaeus,ENSPANG00000029974__Papio_anubis),ENSRROG00000044838__Rhinopithecus_roxellana)),ENSSBOG00000023663__Saimiri_boliviensis_boliviensis);

@@ -1,0 +1,1 @@
+((((((((ENSUAMG00000024569__Ursus_americanus,ENSUMAG00000021141__Ursus_maritimus),ENSMPUG00000002741__Mustela_putorius_furo),ENSUAMG00000003275__Ursus_americanus),ENSCAFG00020026349__Canis_lupus_dingo),ENSBBBG00000007231__Bison_bison_bison),ENSECAG00000039149__Equus_caballus),ENSGAGG00000002759__Gopherus_agassizii),ENSAMXG00000043322__Astyanax_mexicanus);

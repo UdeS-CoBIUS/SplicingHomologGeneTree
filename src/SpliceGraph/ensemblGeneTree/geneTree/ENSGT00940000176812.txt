@@ -1,0 +1,1 @@
+(YNL116W__Saccharomyces_cerevisiae_strain_S288C,YHR115C__Saccharomyces_cerevisiae_strain_S288C);

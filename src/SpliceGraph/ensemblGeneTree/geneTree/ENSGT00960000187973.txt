@@ -1,0 +1,1 @@
+((ENSEBUG00000007474__Eptatretus_burgeri,ENSEBUG00000011853__Eptatretus_burgeri),ENSSMAG00000010639__Scophthalmus_maximus);

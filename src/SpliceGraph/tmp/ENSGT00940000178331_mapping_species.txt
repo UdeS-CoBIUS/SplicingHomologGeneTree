@@ -1,0 +1,6 @@
+POECILIARETICULATA	poecilia_reticulata
+XIPHOPHORUSCOUCHIANUS	xiphophorus_couchianus
+PUNDAMILIANYEREREI	pundamilia_nyererei
+MAYLANDIAZEBRA	maylandia_zebra
+TAKIFUGURUBRIPES	takifugu_rubripes
+HIPPOCAMPUSCOMES	hippocampus_comes

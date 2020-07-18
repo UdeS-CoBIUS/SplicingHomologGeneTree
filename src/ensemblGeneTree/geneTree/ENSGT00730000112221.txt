@@ -1,0 +1,1 @@
+((ENSEEUG00000009954__Erinaceus_europaeus,ENSVPAG00000003994__Vicugna_pacos),ENSTBEG00000011921__Tupaia_belangeri);

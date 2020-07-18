@@ -1,0 +1,1 @@
+(((ENSMLUG00000026134__Myotis_lucifugus,ENSUMAG00000000919__Ursus_maritimus),((ENSVPAG00000004068__Vicugna_pacos,ENSEEUG00000009876__Erinaceus_europaeus),ENSTBEG00000010561__Tupaia_belangeri)),ENSCHOG00000001763__Choloepus_hoffmanni);

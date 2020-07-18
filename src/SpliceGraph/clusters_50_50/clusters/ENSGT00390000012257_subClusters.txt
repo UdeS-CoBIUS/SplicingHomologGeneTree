@@ -1,0 +1,6 @@
+>cluster_0
+ENSEBUT00000000302	FBtr0310157
+>cluster_1
+FBtr0070819	FBtr0088052
+>cluster_2
+FBtr0310159

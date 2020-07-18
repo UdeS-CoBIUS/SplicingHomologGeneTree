@@ -1,0 +1,2 @@
+>completeCluster_0
+ZK688.12.1	F52F12.8.1	C15H11.1.1	Y53F4B.19.1

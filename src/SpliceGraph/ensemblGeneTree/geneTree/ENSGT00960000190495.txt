@@ -1,0 +1,1 @@
+((ENSEEUG00000013291__Erinaceus_europaeus,ENSOANG00000029776__Ornithorhynchus_anatinus),ENSLSDG00000011791__Lonchura_striata_domestica);

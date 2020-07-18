@@ -1,0 +1,1 @@
+(((ENSCING00000004031__Ciona_intestinalis,ENSCSAVG00000002422__Ciona_savignyi),((ENSPREG00000009454__Poecilia_reticulata,ENSXMAG00000005437__Xiphophorus_maculatus),ENSSLDG00000005595__Seriola_lalandi_dorsalis)),(FBgn0264386__Drosophila_melanogaster,WBGene00000367__Caenorhabditis_elegans_strain_N2));

@@ -1,0 +1,1 @@
+((ENSSCAG00000008056__Serinus_canaria,ENSMVIG00005017721__Manacus_vitellinus),ENSPMGG00000003877__Periophthalmus_magnuspinnatus);

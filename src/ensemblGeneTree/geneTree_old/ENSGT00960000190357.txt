@@ -1,1 +1,0 @@
-((ENSPTEG00000030405__Piliocolobus_tephrosceles,ENSTGEG00000019193__Theropithecus_gelada),ENSSSCG00000040675__Sus_scrofa);

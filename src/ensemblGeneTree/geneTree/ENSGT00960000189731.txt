@@ -1,0 +1,1 @@
+((((ENSAHAG00000006848__Apteryx_haastii,ENSARWG00000004445__Apteryx_rowi),ENSAOWG00000013054__Apteryx_owenii),ENSDNVG00000018223__Dromaius_novaehollandiae),ENSACAG00000027776__Anolis_carolinensis);

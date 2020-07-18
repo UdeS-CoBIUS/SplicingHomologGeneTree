@@ -1,0 +1,4 @@
+CAVIAPORCELLUS	cavia_porcellus
+CHINCHILLALANIGERA	chinchilla_lanigera
+MICROTUSOCHROGASTER	microtus_ochrogaster
+EQUUSCABALLUS	equus_caballus

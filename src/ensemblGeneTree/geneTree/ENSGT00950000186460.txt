@@ -1,0 +1,1 @@
+(((ENSPTRG00000042825__Pan_troglodytes,ENSPTEG00000032937__Piliocolobus_tephrosceles),ENSCCNG00000026314__Castor_canadensis),ENSUMAG00000023310__Ursus_maritimus);

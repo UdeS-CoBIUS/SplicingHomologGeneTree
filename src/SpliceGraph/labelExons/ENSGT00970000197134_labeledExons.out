@@ -1,0 +1,12 @@
+>0
+Y6G8.16.1: ['no event', 329, 0]
+Y6G8.15.1: ['no event', 329, 0]
+Y6G8.14.1: ['no event', 329, 0]
+>1
+Y6G8.16.1: [['internal gap < 30', 45, 12], 125, 0]
+Y6G8.15.1: [['internal gap < 30', 45, 12], 125, 0]
+Y6G8.14.1: [['internal gap < 30', 108, 6], 131, 0]
+>2
+Y6G8.16.1: ['exon skipping', 0, 0]
+Y6G8.15.1: ['exon skipping', 0, 0]
+Y6G8.14.1: ['no event', 8, 0]

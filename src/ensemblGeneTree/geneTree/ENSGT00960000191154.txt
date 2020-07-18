@@ -1,0 +1,1 @@
+(ENSSTOG00000031600__Ictidomys_tridecemlineatus,ENSNVIG00000002612__Neovison_vison);

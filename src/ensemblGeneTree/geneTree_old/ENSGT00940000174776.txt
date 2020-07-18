@@ -1,1 +1,0 @@
-(((ENSAHAG00000014395__Apteryx_haastii,ENSMVIG00005014407__Manacus_vitellinus),(ENSBBBG00000012383__Bison_bison_bison,ENSCHIG00000019183__Capra_hircus)),ENSAOCG00000005219__Amphiprion_ocellaris);

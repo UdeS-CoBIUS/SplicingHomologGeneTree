@@ -1,0 +1,5 @@
+PROLEMURSIMUS	prolemur_simus
+MACACAFASCICULARIS	macaca_fascicularis
+PANTHERAPARDUS	panthera_pardus
+PANTHERATIGRIS	panthera_tigris
+ANASPLATYRHYNCHOS	anas_platyrhynchos

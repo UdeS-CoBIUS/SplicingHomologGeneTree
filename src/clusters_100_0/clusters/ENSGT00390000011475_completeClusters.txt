@@ -1,0 +1,8 @@
+>completeCluster_0
+FBtr0072344	Y34D9A.7a.1	ZK632.11.1
+>completeCluster_1
+Y34D9A.7c.1	ZK632.11.1	FBtr0072344
+>completeCluster_2
+Y34D9A.7c.1	ZK632.11.1	FBtr0300490
+>completeCluster_3
+FBtr0300490	Y34D9A.7b.1	ZK632.11.1

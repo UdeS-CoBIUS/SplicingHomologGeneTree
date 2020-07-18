@@ -1,0 +1,1 @@
+((ENSSBOG00000021042__Saimiri_boliviensis_boliviensis,ENSANAG00000030812__Aotus_nancymaae),(((ENSCANG00000031017__Colobus_angolensis_palliatus,ENSPTEG00000034502__Piliocolobus_tephrosceles),ENSRROG00000013346__Rhinopithecus_roxellana),ENSPANG00000007600__Papio_anubis));

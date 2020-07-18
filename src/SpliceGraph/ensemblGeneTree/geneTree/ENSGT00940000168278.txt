@@ -1,0 +1,1 @@
+(((ENSTBEG00000004660__Tupaia_belangeri,ENSMUGG00000014868__Meriones_unguiculatus),(ENSPVAG00000008296__Pteropus_vampyrus,ENSEEUG00000010899__Erinaceus_europaeus)),(ENSCHOG00000001810__Choloepus_hoffmanni,ENSPCAG00000008040__Procavia_capensis));

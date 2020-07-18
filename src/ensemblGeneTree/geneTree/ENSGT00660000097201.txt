@@ -1,0 +1,1 @@
+((((((ENSMUGG00000001873__Meriones_unguiculatus,ENSJJAG00000022798__Jaculus_jaculus),ENSCCNG00000013380__Castor_canadensis),(ENSCPOG00000002221__Cavia_porcellus,ENSODEG00000014152__Octodon_degus)),ENSUAMG00000015828__Ursus_americanus),ENSSHAG00000003282__Sarcophilus_harrisii),ENSLACG00000010518__Latimeria_chalumnae);

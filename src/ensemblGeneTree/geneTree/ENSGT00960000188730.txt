@@ -1,0 +1,1 @@
+(((((ENSAPLG00000007740__Anas_platyrhynchos_platyrhynchos,ENSMUNG00000011025__Melopsittacus_undulatus),ENSNMEG00000003256__Numida_meleagris),ENSNPEG00000001331__Nothoprocta_perdicaria),(ENSSMRG00000016347__Salvator_merianae,ENSSMRG00000015434__Salvator_merianae)),ENSBMUG00000004144__Bos_mutus);

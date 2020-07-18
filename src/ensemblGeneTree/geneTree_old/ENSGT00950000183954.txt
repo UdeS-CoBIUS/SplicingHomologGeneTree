@@ -1,1 +1,0 @@
-((ENSHCOG00000016061__Hippocampus_comes,ENSSLDG00000019438__Seriola_lalandi_dorsalis),ENSAMXG00000036306__Astyanax_mexicanus);

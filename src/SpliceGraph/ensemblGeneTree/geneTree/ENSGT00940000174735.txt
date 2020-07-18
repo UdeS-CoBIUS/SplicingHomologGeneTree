@@ -1,0 +1,1 @@
+(ENSTGUG00000000021__Taeniopygia_guttata,ENSDARG00000109392__Danio_rerio);

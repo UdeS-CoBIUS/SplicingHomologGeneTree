@@ -1,0 +1,1 @@
+((ENSBTAG00000046720__Bos_taurus,ENSOARG00000010031__Ovis_aries),ENSAMEG00000011702__Ailuropoda_melanoleuca);

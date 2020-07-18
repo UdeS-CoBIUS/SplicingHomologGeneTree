@@ -1,0 +1,1 @@
+(((ENSTBEG00000008406__Tupaia_belangeri,ENSTBEG00000016802__Tupaia_belangeri),ENSTBEG00000015135__Tupaia_belangeri),(ENSTBEG00000010459__Tupaia_belangeri,ENSTBEG00000010189__Tupaia_belangeri));

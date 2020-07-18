@@ -1,0 +1,1 @@
+(((((((ENSPPRG00000013864__Panthera_pardus,ENSFCAG00000040756__Felis_catus),ENSCAFG00020013918__Canis_lupus_dingo),ENSEEUG00000006742__Erinaceus_europaeus),ENSBTAG00000013928__Bos_taurus),ENSTBEG00000016036__Tupaia_belangeri),ENSMEUG00000001060__Notamacropus_eugenii),ENSCABG00000005149__Chelonoidis_abingdonii);

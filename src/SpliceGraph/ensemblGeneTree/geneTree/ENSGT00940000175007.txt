@@ -1,0 +1,1 @@
+((ENSXCOG00000002193__Xiphophorus_couchianus,ENSFHEG00000010339__Fundulus_heteroclitus),(ENSSLDG00000008097__Seriola_lalandi_dorsalis,ENSGACG00000011173__Gasterosteus_aculeatus));

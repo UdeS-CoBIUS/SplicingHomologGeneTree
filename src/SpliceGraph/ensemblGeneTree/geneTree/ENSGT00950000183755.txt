@@ -1,0 +1,1 @@
+((((((ENSPTRG00000045019__Pan_troglodytes,ENSPPAG00000033428__Pan_paniscus),ENSNLEG00000033664__Nomascus_leucogenys),ENSSBOG00000014186__Saimiri_boliviensis_boliviensis),ENSMICG00000030101__Microcebus_murinus),ENSCCNG00000019068__Castor_canadensis),ENSVVUG00000020360__Vulpes_vulpes);

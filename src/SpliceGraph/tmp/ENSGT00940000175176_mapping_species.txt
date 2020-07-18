@@ -1,0 +1,8 @@
+POECILIALATIPINNA	poecilia_latipinna
+POECILIAFORMOSA	poecilia_formosa
+POECILIAMEXICANA	poecilia_mexicana
+POECILIARETICULATA	poecilia_reticulata
+XIPHOPHORUSMACULATUS	xiphophorus_maculatus
+XIPHOPHORUSCOUCHIANUS	xiphophorus_couchianus
+KRYPTOLEBIASMARMORATUS	kryptolebias_marmoratus
+SCOPHTHALMUSMAXIMUS	scophthalmus_maximus

@@ -1,0 +1,1 @@
+(((ENSAPOG00000023701__Acanthochromis_polyacanthus,ENSAPOG00000006136__Acanthochromis_polyacanthus),ENSAPOG00000023966__Acanthochromis_polyacanthus),ENSELUG00000023586__Esox_lucius);

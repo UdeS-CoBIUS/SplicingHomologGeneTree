@@ -1,0 +1,1 @@
+(((((ENSAPOG00000016678__Acanthochromis_polyacanthus,ENSPREG00000016086__Poecilia_reticulata),ENSATEG00000017039__Anabas_testudineus),ENSPMEG00000007196__Poecilia_mexicana),ENSSLDG00000015077__Seriola_lalandi_dorsalis),ENSGMOG00000018520__Gadus_morhua);

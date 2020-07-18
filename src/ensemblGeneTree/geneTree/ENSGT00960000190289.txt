@@ -1,0 +1,1 @@
+((ENSCPGG00000014897__Calidris_pygmaea,ENSCPGG00000014274__Calidris_pygmaea),ENSCPUG00000008851__Calidris_pugnax);

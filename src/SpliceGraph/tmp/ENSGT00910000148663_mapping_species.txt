@@ -1,0 +1,6 @@
+THEROPITHECUSGELADA	theropithecus_gelada
+PAPIOANUBIS	papio_anubis
+PILIOCOLOBUSTEPHROSCELES	piliocolobus_tephrosceles
+SAIMIRIBOLIVIENSISBOLIVIENSIS	saimiri_boliviensis_boliviensis
+PROLEMURSIMUS	prolemur_simus
+CAPRAHIRCUS	capra_hircus

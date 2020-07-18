@@ -1,0 +1,2 @@
+XIPHOPHORUSMACULATUS	xiphophorus_maculatus
+XIPHOPHORUSCOUCHIANUS	xiphophorus_couchianus

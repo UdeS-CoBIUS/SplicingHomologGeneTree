@@ -1,0 +1,1 @@
+(ENSMLUG00000026316__Myotis_lucifugus,ENSOANG00000002506__Ornithorhynchus_anatinus);

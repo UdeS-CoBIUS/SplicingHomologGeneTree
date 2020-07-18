@@ -1,0 +1,8 @@
+>0
+ENSRROT00000055821: [['internal gap < 30', 131, 26], 191, 0]
+ENSRBIT00000043368: [['internal gap < 30', 131, 26], 191, 0]
+ENSMNET00000002678: [['internal gap < 30', 102, 8], 209, 0]
+ENSMFAT00000063664: [['internal gap < 30', 102, 8], 209, 0]
+ENSMLET00000055012: [['internal gap >= 30', 102, 47], 170, 0]
+ENSCATT00000046197: [['internal gap >= 30', 102, 47], 170, 0]
+ENSNLET00000038244: [['internal gap < 30', 131, 26], 191, 0]

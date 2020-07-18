@@ -1,0 +1,1 @@
+((ENSTGUG00000015453__Taeniopygia_guttata,ENSFALG00000001418__Ficedula_albicollis),ENSMODG00000028128__Monodelphis_domestica);

@@ -1,0 +1,7 @@
+RHINOPITHECUSBIETI	rhinopithecus_bieti
+RHINOPITHECUSROXELLANA	rhinopithecus_roxellana
+COLOBUSANGOLENSIS	colobus_angolensis
+PAPIOANUBIS	papio_anubis
+MANDRILLUSLEUCOPHAEUS	mandrillus_leucophaeus
+PANPANISCUS	pan_paniscus
+GORILLAGORILLA	gorilla_gorilla

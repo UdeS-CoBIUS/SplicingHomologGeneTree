@@ -1,0 +1,1 @@
+(((ENSKMAG00000005713__Kryptolebias_marmoratus,ENSMZEG00005018895__Maylandia_zebra),(ENSFHEG00000013342__Fundulus_heteroclitus,ENSCVAG00000016293__Cyprinodon_variegatus)),ENSAMXG00000031755__Astyanax_mexicanus);

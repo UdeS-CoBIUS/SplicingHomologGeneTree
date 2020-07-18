@@ -1,0 +1,4 @@
+XIPHOPHORUSCOUCHIANUS	xiphophorus_couchianus
+HIPPOCAMPUSCOMES	hippocampus_comes
+BISONBISONBISON	bison_bison_bison
+MANACUSVITELLINUS	manacus_vitellinus

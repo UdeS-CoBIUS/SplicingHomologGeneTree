@@ -1,0 +1,5 @@
+YNL331C_mRNA	YNL331C	Saccharomyces_cerevisiae_strain_S288C
+YJR155W_mRNA	YJR155W	Saccharomyces_cerevisiae_strain_S288C
+YDL243C_mRNA	YDL243C	Saccharomyces_cerevisiae_strain_S288C
+YCR107W_mRNA	YCR107W	Saccharomyces_cerevisiae_strain_S288C
+YOL165C_mRNA	YOL165C	Saccharomyces_cerevisiae_strain_S288C

@@ -1,0 +1,1 @@
+((ENSGMOG00000015282__Gadus_morhua,ENSAMXG00000034137__Astyanax_mexicanus),ENSPKIG00000017488__Paramormyrops_kingsleyae);

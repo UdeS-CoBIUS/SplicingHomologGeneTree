@@ -1,1 +1,0 @@
-((((ENSMSIG00000023125__Mus_spicilegus,ENSMOCG00000015116__Microtus_ochrogaster),ENSCCNG00000016563__Castor_canadensis),ENSPTEG00000026858__Piliocolobus_tephrosceles),((ENSEASG00005016635__Equus_asinus_asinus,ENSECAG00000036608__Equus_caballus),ENSUAMG00000012134__Ursus_americanus));

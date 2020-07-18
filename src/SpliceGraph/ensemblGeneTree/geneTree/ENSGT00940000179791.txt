@@ -1,0 +1,1 @@
+((ENSSLDG00000017546__Seriola_lalandi_dorsalis,ENSMAMG00000022500__Mastacembelus_armatus),ENSPRNG00000005129__Parambassis_ranga);

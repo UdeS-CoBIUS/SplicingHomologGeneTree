@@ -1,0 +1,10 @@
+RHINOPITHECUSBIETI	rhinopithecus_bieti
+RHINOPITHECUSROXELLANA	rhinopithecus_roxellana
+COLOBUSANGOLENSISPALLIATUS	colobus_angolensis_palliatus
+CERCOCEBUSATYS	cercocebus_atys
+MANDRILLUSLEUCOPHAEUS	mandrillus_leucophaeus
+MACACAMULATTA	macaca_mulatta
+MACACAFASCICULARIS	macaca_fascicularis
+MACACANEMESTRINA	macaca_nemestrina
+MACACANEMESTRINA	macaca_nemestrina
+PAPIOANUBIS	papio_anubis

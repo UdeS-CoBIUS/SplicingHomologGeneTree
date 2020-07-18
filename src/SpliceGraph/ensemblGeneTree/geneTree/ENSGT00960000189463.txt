@@ -1,0 +1,1 @@
+(((ENSLCOG00000001322__Lepidothrix_coronata,ENSMVIG00005013258__Manacus_vitellinus),((ENSZALG00000003439__Zonotrichia_albicollis,ENSJHYG00000014774__Junco_hyemalis),ENSLSDG00000004005__Lonchura_striata_domestica)),((ENSARWG00000001372__Apteryx_rowi,ENSAOWG00000018859__Apteryx_owenii),ENSAHAG00000008311__Apteryx_haastii));

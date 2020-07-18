@@ -1,0 +1,14 @@
+>0
+ENSRBIT00000063050: ['no event', 34, 0]
+ENSMNET00000034301: ['no event', 34, 0]
+ENSMFAT00000020067: ['no event', 34, 0]
+ENSMLET00000057324: ['no event', 34, 0]
+ENSCATT00000055412: ['no event', 34, 0]
+ENSPANT00000037437: ['no event', 34, 0]
+>1
+ENSRBIT00000063050: ['3event', 257, 2]
+ENSMNET00000034301: [['internal gap < 30', 198, 26], 252, 2]
+ENSMFAT00000020067: [['internal gap < 30', 198, 26], 252, 2]
+ENSMLET00000057324: [['internal gap < 30', 198, 26], 252, 2]
+ENSCATT00000055412: [['internal gap < 30', 198, 26], 252, 2]
+ENSPANT00000037437: [['internal gap < 30', 198, 26], 252, 2]

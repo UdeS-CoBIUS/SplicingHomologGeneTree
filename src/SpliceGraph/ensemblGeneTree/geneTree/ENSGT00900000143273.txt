@@ -1,0 +1,1 @@
+(((ENSRNOG00000049530__Rattus_norvegicus,ENSMSIG00000020319__Mus_spicilegus),ENSMUGG00000020932__Meriones_unguiculatus),ENSSSCG00000038747__Sus_scrofa);

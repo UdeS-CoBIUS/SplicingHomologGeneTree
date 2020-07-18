@@ -1,0 +1,4 @@
+MACACAMULATTA	macaca_mulatta
+MACACAMULATTA	macaca_mulatta
+MACACAMULATTA	macaca_mulatta
+THEROPITHECUSGELADA	theropithecus_gelada

@@ -1,0 +1,1 @@
+((ENSTBEG00000005298__Tupaia_belangeri,ENSCAPG00000017952__Cavia_aperea),ENSPVAG00000000473__Pteropus_vampyrus);

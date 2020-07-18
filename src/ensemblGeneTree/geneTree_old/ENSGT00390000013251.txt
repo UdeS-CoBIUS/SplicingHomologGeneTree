@@ -1,1 +1,0 @@
-(((ENSEEUG00000012939__Erinaceus_europaeus,ENSSARG00000006457__Sorex_araneus),ENSAMEG00000016505__Ailuropoda_melanoleuca),(ENSPPYG00000002030__Pongo_abelii,ENSCSAG00000000662__Chlorocebus_sabaeus));

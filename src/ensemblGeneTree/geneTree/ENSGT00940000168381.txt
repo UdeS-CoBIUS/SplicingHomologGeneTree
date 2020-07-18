@@ -1,0 +1,1 @@
+(((ENSEEUG00000009936__Erinaceus_europaeus,ENSANAG00000020536__Aotus_nancymaae),ENSETEG00000003547__Echinops_telfairi),ENSSPUG00000007047__Sphenodon_punctatus);

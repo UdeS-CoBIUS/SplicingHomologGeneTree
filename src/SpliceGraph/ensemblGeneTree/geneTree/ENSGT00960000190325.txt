@@ -1,0 +1,1 @@
+((ENSCCNG00000010756__Castor_canadensis,ENSMUGG00000017153__Meriones_unguiculatus),ENSSDAG00000014748__Spermophilus_dauricus);

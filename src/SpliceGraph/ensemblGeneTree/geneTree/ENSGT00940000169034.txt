@@ -1,0 +1,1 @@
+((((ENSACAG00000004685__Anolis_carolinensis,ENSACAG00000027008__Anolis_carolinensis),ENSOANG00000007534__Ornithorhynchus_anatinus),ENSPREG00000012446__Poecilia_reticulata),ENSCING00000001967__Ciona_intestinalis);

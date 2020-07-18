@@ -1,0 +1,1 @@
+(((ENSLCAG00010003683__Lates_calcarifer,ENSGACG00000007030__Gasterosteus_aculeatus),ENSFHEG00000004589__Fundulus_heteroclitus),ENSGMOG00000020004__Gadus_morhua);

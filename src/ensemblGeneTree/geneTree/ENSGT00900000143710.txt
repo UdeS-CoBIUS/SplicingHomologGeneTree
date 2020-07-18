@@ -1,0 +1,1 @@
+((MGP_PahariEiJ_G0031063__Mus_pahari_strain_PAHARI_EIJ,MGP_CAROLIEiJ_G0015650__Mus_caroli_strain_CAROLI_EIJ),ENSCGRG00015022122__Cricetulus_griseus_CriGri-PICR);

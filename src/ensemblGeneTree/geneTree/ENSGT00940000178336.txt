@@ -1,0 +1,1 @@
+(((ENSMZEG00005006731__Maylandia_zebra,ENSACIG00000019708__Amphilophus_citrinellus),ENSKMAG00000021580__Kryptolebias_marmoratus),((ENSSLDG00000013624__Seriola_lalandi_dorsalis,ENSATEG00000016697__Anabas_testudineus),ENSTRUG00000022067__Takifugu_rubripes));

@@ -1,0 +1,1 @@
+((((ENSGACG00000007466__Gasterosteus_aculeatus,ENSGMOG00000015506__Gadus_morhua),ENSHHUG00000048403__Hucho_hucho),(ENSHHUG00000045208__Hucho_hucho,ENSBSLG00000008389__Betta_splendens)),ENSOANG00000009102__Ornithorhynchus_anatinus);

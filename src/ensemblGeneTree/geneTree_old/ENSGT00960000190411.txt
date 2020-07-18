@@ -1,1 +1,0 @@
-((ENSCPBG00000013141__Chrysemys_picta_bellii,ENSCABG00000002162__Chelonoidis_abingdonii),ENSSMRG00000005593__Salvator_merianae);

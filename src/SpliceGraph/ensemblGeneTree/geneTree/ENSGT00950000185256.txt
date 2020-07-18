@@ -1,0 +1,1 @@
+((ENSCPBG00000023141__Chrysemys_picta_bellii,ENSCPBG00000026432__Chrysemys_picta_bellii),ENSCPBG00000021057__Chrysemys_picta_bellii);

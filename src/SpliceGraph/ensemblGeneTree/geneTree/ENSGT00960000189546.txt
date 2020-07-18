@@ -1,0 +1,1 @@
+(((((ENSCCEG00000007923__Cyanistes_caeruleus,ENSCCEG00000008325__Cyanistes_caeruleus),ENSCCEG00000004344__Cyanistes_caeruleus),ENSPMJG00000005851__Parus_major),ENSZALG00000010609__Zonotrichia_albicollis),ENSPEMG00000026167__Peromyscus_maniculatus_bairdii);

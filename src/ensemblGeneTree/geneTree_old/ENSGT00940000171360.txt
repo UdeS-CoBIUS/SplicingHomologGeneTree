@@ -1,1 +1,0 @@
-(ENSMLUG00000027582__Myotis_lucifugus,ENSPMAG00000001819__Petromyzon_marinus);

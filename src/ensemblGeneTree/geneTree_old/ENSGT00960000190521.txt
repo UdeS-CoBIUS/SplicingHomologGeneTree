@@ -1,1 +1,0 @@
-((ENSMVIG00005009234__Manacus_vitellinus,ENSLSDG00000012817__Lonchura_striata_domestica),ENSPVIG00000000043__Pogona_vitticeps);

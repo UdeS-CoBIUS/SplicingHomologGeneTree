@@ -1,0 +1,12 @@
+CALIDRISPYGMAEA	calidris_pygmaea
+CALIDRISPUGNAX	calidris_pugnax
+GALLUSGALLUS	gallus_gallus
+NUMIDAMELEAGRIS	numida_meleagris
+LEPIDOTHRIXCORONATA	lepidothrix_coronata
+MANACUSVITELLINUS	manacus_vitellinus
+CYANISTESCAERULEUS	cyanistes_caeruleus
+PARUSMAJOR	parus_major
+SERINUSCANARIA	serinus_canaria
+LONCHURASTRIATADOMESTICA	lonchura_striata_domestica
+JUNCOHYEMALIS	junco_hyemalis
+APTERYXHAASTII	apteryx_haastii

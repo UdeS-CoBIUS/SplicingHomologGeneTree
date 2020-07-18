@@ -1,0 +1,15 @@
+>0
+ENSEBUT00000023692: ['no event', 16, 0]
+ENSPMJT00000027968: ['exon skipping', 0, 0]
+>1
+ENSEBUT00000023692: ['exon skipping', 0, 0]
+ENSPMJT00000027968: ['5event', 197, 0]
+>2
+ENSEBUT00000023692: ['5event', 33, 2]
+ENSPMJT00000027968: ['exon skipping', 0, 0]
+>3
+ENSEBUT00000023692: ['exon skipping', 0, 0]
+ENSPMJT00000027968: ['5event', 296, 0]
+>4
+ENSEBUT00000023692: ['5event', 902, 0]
+ENSPMJT00000027968: ['exon skipping', 0, 0]

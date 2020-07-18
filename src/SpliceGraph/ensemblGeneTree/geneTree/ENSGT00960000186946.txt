@@ -1,0 +1,1 @@
+((((ENSOPRG00000016765__Ochotona_princeps,ENSOPRG00000014104__Ochotona_princeps),(ENSOCUG00000025885__Oryctolagus_cuniculus,ENSOCUG00000017521__Oryctolagus_cuniculus)),(ENSOCUG00000014966__Oryctolagus_cuniculus,ENSOPRG00000003541__Ochotona_princeps)),(ENSMODG00000025267__Monodelphis_domestica,ENSSHAG00000002361__Sarcophilus_harrisii));

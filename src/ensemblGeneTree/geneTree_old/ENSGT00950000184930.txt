@@ -1,1 +1,0 @@
-(ENSCPBG00000013690__Chrysemys_picta_bellii,ENSHCOG00000006883__Hippocampus_comes);

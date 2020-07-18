@@ -1,1 +1,0 @@
-(((ENSPMEG00000006472__Poecilia_mexicana,ENSPREG00000021018__Poecilia_reticulata),ENSORLG00000026309__Oryzias_latipes_ASM223467v1),ENSSDUG00000004927__Seriola_dumerili);

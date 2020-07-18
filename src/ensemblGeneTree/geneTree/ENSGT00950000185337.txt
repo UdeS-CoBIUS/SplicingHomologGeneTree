@@ -1,0 +1,1 @@
+((((ENSCJPG00005000316__Coturnix_japonica,ENSGALG00000054904__Gallus_gallus),ENSAHAG00000007578__Apteryx_haastii),ENSEEUG00000015525__Erinaceus_europaeus),ENSNBRG00000000999__Neolamprologus_brichardi);

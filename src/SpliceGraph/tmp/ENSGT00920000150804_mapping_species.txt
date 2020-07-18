@@ -1,0 +1,14 @@
+SPHENODONPUNCTATUS	sphenodon_punctatus
+NOTECHISSCUTATUS	notechis_scutatus
+LONCHURASTRIATADOMESTICA	lonchura_striata_domestica
+PARUSMAJOR	parus_major
+GALLUSGALLUS	gallus_gallus
+COTURNIXJAPONICA	coturnix_japonica
+NUMIDAMELEAGRIS	numida_meleagris
+VULPESVULPES	vulpes_vulpes
+URSUSAMERICANUS	ursus_americanus
+BOSTAURUS	bos_taurus
+BOSMUTUS	bos_mutus
+BISONBISONBISON	bison_bison_bison
+CAPRAHIRCUS	capra_hircus
+CRICETULUSGRISEUSCRIGRI	cricetulus_griseus_crigri

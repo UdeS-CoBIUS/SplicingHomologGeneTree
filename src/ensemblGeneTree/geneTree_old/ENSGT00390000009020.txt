@@ -1,1 +1,0 @@
-(ENSPPYG00000006811__Pongo_abelii,ENSEEUG00000010933__Erinaceus_europaeus);

@@ -1,0 +1,1 @@
+(ENSPTIG00000014185__Panthera_tigris_altaica,ENSPPRG00000024085__Panthera_pardus);

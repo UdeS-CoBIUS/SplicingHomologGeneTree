@@ -1,0 +1,1 @@
+((ENSLBEG00000013148__Labrus_bergylta,ENSTRUG00000024294__Takifugu_rubripes),(ENSXCOG00000010017__Xiphophorus_couchianus,ENSGAFG00000005262__Gambusia_affinis));

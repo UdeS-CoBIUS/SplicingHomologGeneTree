@@ -1,1 +1,0 @@
-(ENSGACG00000001787__Gasterosteus_aculeatus,ENSMMOG00000015422__Mola_mola);

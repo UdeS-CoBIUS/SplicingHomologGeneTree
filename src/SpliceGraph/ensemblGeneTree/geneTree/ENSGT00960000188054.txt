@@ -1,0 +1,1 @@
+((ENSAPOG00000017048__Acanthochromis_polyacanthus,ENSCVAG00000000490__Cyprinodon_variegatus),ENSTRUG00000022224__Takifugu_rubripes);

@@ -1,0 +1,1 @@
+((ENSELUG00000019354__Esox_lucius,ENSPNAG00000013836__Pygocentrus_nattereri),ENSOANG00000031627__Ornithorhynchus_anatinus);

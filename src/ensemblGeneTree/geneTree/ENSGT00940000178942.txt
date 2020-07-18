@@ -1,0 +1,1 @@
+((ENSAPEG00000014363__Amphiprion_percula,ENSORLG00000026179__Oryzias_latipes_ASM223467v1),(ENSATEG00000024320__Anabas_testudineus,ENSCSEG00000005822__Cynoglossus_semilaevis));

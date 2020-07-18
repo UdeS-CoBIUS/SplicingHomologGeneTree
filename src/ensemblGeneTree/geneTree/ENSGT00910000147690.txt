@@ -1,0 +1,1 @@
+((((ENSCATG00000043900__Cercocebus_atys,ENSMLEG00000042776__Mandrillus_leucophaeus),ENSPANG00000029726__Papio_anubis),ENSPTEG00000024341__Piliocolobus_tephrosceles),(ENSPPAG00000023029__Pan_paniscus,ENSPTRG00000043698__Pan_troglodytes));

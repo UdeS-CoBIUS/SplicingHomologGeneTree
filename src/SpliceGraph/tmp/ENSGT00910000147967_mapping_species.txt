@@ -1,0 +1,4 @@
+SUSSCROFA	sus_scrofa
+CAPRAHIRCUS	capra_hircus
+CEBUSCAPUCINUS	cebus_capucinus
+RHINOPITHECUSBIETI	rhinopithecus_bieti

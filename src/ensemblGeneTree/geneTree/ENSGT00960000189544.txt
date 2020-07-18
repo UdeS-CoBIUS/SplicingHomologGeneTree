@@ -1,0 +1,1 @@
+(((((ENSAOWG00000007103__Apteryx_owenii,ENSAHAG00000011980__Apteryx_haastii),ENSARWG00000002863__Apteryx_rowi),ENSDNVG00000014380__Dromaius_novaehollandiae),ENSCPRG00005016936__Crocodylus_porosus),ENSCABG00000023011__Chelonoidis_abingdonii);

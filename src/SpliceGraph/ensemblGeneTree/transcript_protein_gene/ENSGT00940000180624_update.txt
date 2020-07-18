@@ -1,0 +1,2 @@
+YDL133C-A_mRNA	YDL133C-A	Saccharomyces_cerevisiae_strain_S288C
+YDL184C_mRNA	YDL184C	Saccharomyces_cerevisiae_strain_S288C

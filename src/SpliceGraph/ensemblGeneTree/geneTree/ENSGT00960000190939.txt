@@ -1,0 +1,1 @@
+((ENSAPLG00000018199__Anas_platyrhynchos_platyrhynchos,ENSAPLG00000016945__Anas_platyrhynchos_platyrhynchos),ENSMALG00000022180__Monopterus_albus);

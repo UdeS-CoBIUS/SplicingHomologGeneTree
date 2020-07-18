@@ -1,0 +1,13 @@
+MACACAMULATTA	macaca_mulatta
+MACACAFASCICULARIS	macaca_fascicularis
+PAPIOANUBIS	papio_anubis
+RHINOPITHECUSROXELLANA	rhinopithecus_roxellana
+PANPANISCUS	pan_paniscus
+PANTROGLODYTES	pan_troglodytes
+GORILLAGORILLA	gorilla_gorilla
+NOMASCUSLEUCOGENYS	nomascus_leucogenys
+AOTUSNANCYMAAE	aotus_nancymaae
+CEBUSCAPUCINUS	cebus_capucinus
+PANTHERAPARDUS	panthera_pardus
+PANTHERATIGRISALTAICA	panthera_tigris_altaica
+FELISCATUS	felis_catus

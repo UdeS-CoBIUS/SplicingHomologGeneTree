@@ -1,1 +1,0 @@
-((ENSNPEG00000011638__Nothoprocta_perdicaria,ENSARWG00000010750__Apteryx_rowi),ENSVPAG00000010598__Vicugna_pacos);

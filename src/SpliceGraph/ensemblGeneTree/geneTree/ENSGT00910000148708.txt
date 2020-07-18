@@ -1,0 +1,1 @@
+((ENSRROG00000013321__Rhinopithecus_roxellana,ENSRBIG00000035987__Rhinopithecus_bieti),ENSPTEG00000013269__Piliocolobus_tephrosceles);

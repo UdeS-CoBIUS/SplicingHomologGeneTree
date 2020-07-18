@@ -1,0 +1,1 @@
+((((ENSPNAG00000024019__Pygocentrus_nattereri,ENSPNAG00000022653__Pygocentrus_nattereri),ENSPNAG00000006955__Pygocentrus_nattereri),ENSIPUG00000005545__Ictalurus_punctatus),ENSPMJG00000007062__Parus_major);

@@ -1,0 +1,12 @@
+URSUSMARITIMUS	ursus_maritimus
+URSUSAMERICANUS	ursus_americanus
+NEOVISONVISON	neovison_vison
+SUSSCROFA	sus_scrofa
+PAPIOANUBIS	papio_anubis
+THEROPITHECUSGELADA	theropithecus_gelada
+MACACANEMESTRINA	macaca_nemestrina
+MACACAFASCICULARIS	macaca_fascicularis
+MACACAMULATTA	macaca_mulatta
+MANDRILLUSLEUCOPHAEUS	mandrillus_leucophaeus
+PILIOCOLOBUSTEPHROSCELES	piliocolobus_tephrosceles
+CALLITHRIXJACCHUS	callithrix_jacchus

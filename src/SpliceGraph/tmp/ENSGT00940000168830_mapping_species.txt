@@ -1,0 +1,5 @@
+XENOPUSTROPICALIS	xenopus_tropicalis
+XENOPUSTROPICALIS	xenopus_tropicalis
+SERINUSCANARIA	serinus_canaria
+DROSOPHILAMELANOGASTER	drosophila_melanogaster
+DROSOPHILAMELANOGASTER	drosophila_melanogaster

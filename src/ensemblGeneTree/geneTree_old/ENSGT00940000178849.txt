@@ -1,1 +1,0 @@
-(((ENSNBRG00000016797__Neolamprologus_brichardi,ENSCVAG00000010445__Cyprinodon_variegatus),ENSMAMG00000007507__Mastacembelus_armatus),ENSTRUG00000022399__Takifugu_rubripes);

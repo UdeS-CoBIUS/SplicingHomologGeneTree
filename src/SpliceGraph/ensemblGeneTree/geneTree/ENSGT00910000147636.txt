@@ -1,0 +1,1 @@
+(((ENSPANG00000033269__Papio_anubis,ENSMMUG00000040804__Macaca_mulatta),ENSMFAG00000032483__Macaca_fascicularis),(ENSTGEG00000023789__Theropithecus_gelada,ENSCATG00000016286__Cercocebus_atys));

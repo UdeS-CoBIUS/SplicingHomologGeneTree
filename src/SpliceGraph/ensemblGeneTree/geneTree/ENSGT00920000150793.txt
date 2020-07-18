@@ -1,0 +1,1 @@
+((ENSMMUG00000001640__Macaca_mulatta,ENSCJAG00000039152__Callithrix_jacchus),(ENSSDAG00000021221__Spermophilus_dauricus,ENSMMMG00000020537__Marmota_marmota_marmota));

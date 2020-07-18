@@ -1,0 +1,1 @@
+(((((ENSPFOG00000002113__Poecilia_formosa,ENSNBRG00000001502__Neolamprologus_brichardi),ENSMMOG00000008597__Mola_mola),ENSPMGG00000017015__Periophthalmus_magnuspinnatus),(ENSHCOG00000005565__Hippocampus_comes,ENSHCOG00000005536__Hippocampus_comes)),ENSGMOG00000016819__Gadus_morhua);

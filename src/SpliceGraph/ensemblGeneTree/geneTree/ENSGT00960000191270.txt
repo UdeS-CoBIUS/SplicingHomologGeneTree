@@ -1,0 +1,1 @@
+(ENSSMRG00000019745__Salvator_merianae,ENSAPLG00000016664__Anas_platyrhynchos_platyrhynchos);

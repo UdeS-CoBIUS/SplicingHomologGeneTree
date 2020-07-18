@@ -1,0 +1,6 @@
+ANABASTESTUDINEUS	anabas_testudineus
+XIPHOPHORUSCOUCHIANUS	xiphophorus_couchianus
+HUCHOHUCHO	hucho_hucho
+ASTYANAXMEXICANUS	astyanax_mexicanus
+SCLEROPAGESFORMOSUS	scleropages_formosus
+EPTATRETUSBURGERI	eptatretus_burgeri

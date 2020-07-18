@@ -1,0 +1,1 @@
+(((ENSAPOG00000022928__Acanthochromis_polyacanthus,ENSAPOG00000008992__Acanthochromis_polyacanthus),ENSGAFG00000000649__Gambusia_affinis),(ENSTRUG00000022691__Takifugu_rubripes,ENSTRUG00000022101__Takifugu_rubripes));

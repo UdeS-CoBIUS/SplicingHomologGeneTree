@@ -1,0 +1,1 @@
+((ENSMMOG00000012325__Mola_mola,ENSHCOG00000012896__Hippocampus_comes),(((ENSACIG00000004016__Amphilophus_citrinellus,ENSNBRG00000018656__Neolamprologus_brichardi),ENSSPAG00000018704__Stegastes_partitus),(ENSPLAG00000012276__Poecilia_latipinna,ENSFHEG00000023028__Fundulus_heteroclitus)));

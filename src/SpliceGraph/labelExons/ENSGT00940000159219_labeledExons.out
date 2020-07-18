@@ -1,0 +1,25 @@
+>0
+ENSAHAT00000006720: ['exon skipping', 0, 0]
+ENSAOWT00000010946: ['exon skipping', 0, 0]
+ENSARWT00000024130: ['exon skipping', 0, 0]
+ENSDNVT00000014098: ['no event', 8, 0]
+>1
+ENSAHAT00000006720: ['5event', 395, 0]
+ENSAOWT00000010946: ['5event', 395, 0]
+ENSARWT00000024130: ['5event', 395, 0]
+ENSDNVT00000014098: [['internal gap < 30', 1, 15], 381, 0]
+>2
+ENSAHAT00000006720: ['no event', 239, 0]
+ENSAOWT00000010946: ['no event', 239, 0]
+ENSARWT00000024130: ['no event', 239, 0]
+ENSDNVT00000014098: ['no event', 239, 0]
+>3
+ENSAHAT00000006720: ['no event', 65, 0]
+ENSAOWT00000010946: ['no event', 65, 0]
+ENSARWT00000024130: ['no event', 65, 0]
+ENSDNVT00000014098: ['no event', 65, 0]
+>4
+ENSAHAT00000006720: ['no event', 179, 0]
+ENSAOWT00000010946: ['no event', 179, 0]
+ENSARWT00000024130: ['no event', 179, 0]
+ENSDNVT00000014098: ['no event', 179, 0]

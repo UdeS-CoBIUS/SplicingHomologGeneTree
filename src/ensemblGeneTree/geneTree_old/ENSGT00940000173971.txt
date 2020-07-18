@@ -1,1 +1,0 @@
-(((ENSVVUG00000009241__Vulpes_vulpes,ENSVPAG00000005214__Vicugna_pacos),ENSTSYG00000028515__Carlito_syrichta),ENSCPBG00000002396__Chrysemys_picta_bellii);

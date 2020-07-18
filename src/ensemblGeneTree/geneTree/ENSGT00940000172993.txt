@@ -1,0 +1,1 @@
+(((ENSATEG00000020909__Anabas_testudineus,ENSATEG00000015684__Anabas_testudineus),ENSATEG00000015703__Anabas_testudineus),(((ENSPNYG00000021168__Pundamilia_nyererei,ENSMZEG00005007743__Maylandia_zebra),(ENSONIG00000006260__Oreochromis_niloticus,ENSNBRG00000000742__Neolamprologus_brichardi)),ENSNBRG00000001599__Neolamprologus_brichardi));

@@ -1,0 +1,1 @@
+((ENSLACG00000006183__Latimeria_chalumnae,ENSPFOG00000021698__Poecilia_formosa),ENSCING00000014728__Ciona_intestinalis);

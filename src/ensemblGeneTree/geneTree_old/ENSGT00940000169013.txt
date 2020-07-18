@@ -1,1 +1,0 @@
-((((((ENSORLG00020003232__Oryzias_latipes_ASM223471v1,ENSPLAG00000001118__Poecilia_latipinna),ENSSPAG00000008678__Stegastes_partitus),ENSGACG00000009397__Gasterosteus_aculeatus),ENSDARG00000014246__Danio_rerio),ENSPMAG00000002680__Petromyzon_marinus),ENSCSAVG00000003892__Ciona_savignyi);

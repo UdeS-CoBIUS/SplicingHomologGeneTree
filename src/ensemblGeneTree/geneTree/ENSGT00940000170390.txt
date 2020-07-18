@@ -1,0 +1,1 @@
+(((ENSMMUG00000044040__Macaca_mulatta,ENSG00000259164__Homo_sapiens),ENSPTIG00000014963__Panthera_tigris_altaica),ENSAHAG00000009510__Apteryx_haastii);

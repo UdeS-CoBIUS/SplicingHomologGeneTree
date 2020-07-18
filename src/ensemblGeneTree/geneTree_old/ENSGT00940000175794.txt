@@ -1,1 +1,0 @@
-((ENSSBOG00000019808__Saimiri_boliviensis_boliviensis,ENSANAG00000016540__Aotus_nancymaae),ENSMPUG00000018224__Mustela_putorius_furo);

@@ -1,0 +1,1 @@
+(((ENSAPLG00000020154__Anas_platyrhynchos_platyrhynchos,ENSCJPG00005010488__Coturnix_japonica),((ENSJHYG00000006454__Junco_hyemalis,ENSLSDG00000017762__Lonchura_striata_domestica),ENSCPGG00000002637__Calidris_pygmaea)),ENSNPEG00000012661__Nothoprocta_perdicaria);

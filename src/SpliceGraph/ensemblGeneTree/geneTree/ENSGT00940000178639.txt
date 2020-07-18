@@ -1,0 +1,1 @@
+(((ENSSLDG00000005490__Seriola_lalandi_dorsalis,ENSSLDG00000004241__Seriola_lalandi_dorsalis),ENSLBEG00000005696__Labrus_bergylta),(ENSKMAG00000016583__Kryptolebias_marmoratus,ENSACIG00000011823__Amphilophus_citrinellus));

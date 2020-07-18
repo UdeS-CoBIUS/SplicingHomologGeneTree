@@ -1,1 +1,0 @@
-((ENSCAFG00000030632__Canis_lupus_familiaris,ENSOANG00000031503__Ornithorhynchus_anatinus),ENSONIG00000020545__Oreochromis_niloticus);

@@ -1,0 +1,4 @@
+SACCHAROMYCESCEREVISIAE	saccharomyces_cerevisiae
+SACCHAROMYCESCEREVISIAE	saccharomyces_cerevisiae
+CIONASAVIGNYI	ciona_savignyi
+CIONAINTESTINALIS	ciona_intestinalis

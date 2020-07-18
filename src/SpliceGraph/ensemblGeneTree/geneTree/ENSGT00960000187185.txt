@@ -1,0 +1,1 @@
+((ENSATEG00000020524__Anabas_testudineus,ENSATEG00000020486__Anabas_testudineus),(((ENSGAFG00000011170__Gambusia_affinis,ENSXMAG00000016536__Xiphophorus_maculatus),ENSPFOG00000006484__Poecilia_formosa),ENSAOCG00000006036__Amphiprion_ocellaris));

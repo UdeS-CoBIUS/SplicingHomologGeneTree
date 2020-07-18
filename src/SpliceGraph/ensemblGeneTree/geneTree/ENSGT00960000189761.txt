@@ -1,0 +1,1 @@
+(((ENSCCEG00000007237__Cyanistes_caeruleus,ENSPMJG00000002102__Parus_major),ENSNPEG00000004254__Nothoprocta_perdicaria),(ENSPEMG00000030319__Peromyscus_maniculatus_bairdii,ENSCAFG00020005526__Canis_lupus_dingo));

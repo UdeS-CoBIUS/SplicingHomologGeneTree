@@ -1,0 +1,1 @@
+(((((ENSORLG00000024881__Oryzias_latipes_ASM223467v1,ENSORLG00015012268__Oryzias_latipes_ASM223469v1),ENSAOCG00000008316__Amphiprion_ocellaris),ENSACLG00000000933__Astatotilapia_calliptera),ENSAMXG00000033344__Astyanax_mexicanus),ENSCSAVG00000002899__Ciona_savignyi);

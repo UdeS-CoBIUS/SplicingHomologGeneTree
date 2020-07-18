@@ -1,1 +1,0 @@
-((ENSMNEG00000034576__Macaca_nemestrina,ENSMLEG00000042538__Mandrillus_leucophaeus),ENSRROG00000038495__Rhinopithecus_roxellana);

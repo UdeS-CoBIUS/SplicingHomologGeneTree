@@ -1,0 +1,55 @@
+>0
+ENSDCDT00000000831: [['internal gap < 30', 3, 12], 72, 0]
+ENSCHAT00000012827: ['exon skipping', 0, 0]
+ENSAMXT00000014445: ['no event', 84, 0]
+ENSAMXT00000045597: ['no event', 84, 0]
+>1
+ENSDCDT00000000831: ['exon skipping', 0, 0]
+ENSCHAT00000012827: ['5event', 7, 0]
+ENSAMXT00000014445: ['exon skipping', 0, 0]
+ENSAMXT00000045597: ['exon skipping', 0, 0]
+>2
+ENSDCDT00000000831: ['exon skipping', 0, 0]
+ENSCHAT00000012827: ['no event', 19, 2]
+ENSAMXT00000014445: ['exon skipping', 0, 0]
+ENSAMXT00000045597: ['exon skipping', 0, 0]
+>3
+ENSDCDT00000000831: ['5event', ['internal gap < 30', 215, 14], 348, 1]
+ENSCHAT00000012827: [['internal gap >= 30', 193, 36], 326, 1]
+ENSAMXT00000014445: ['5event', ['internal gap < 30', 21, 14], 348, 1]
+ENSAMXT00000045597: ['5event', ['internal gap < 30', 21, 14], 348, 1]
+>4
+ENSDCDT00000000831: ['no event', 157, 2]
+ENSCHAT00000012827: ['no event', 157, 2]
+ENSAMXT00000014445: ['no event', 157, 2]
+ENSAMXT00000045597: ['no event', 157, 2]
+>5
+ENSDCDT00000000831: ['exon skipping', 0, 0]
+ENSCHAT00000012827: ['no event', 16, 1]
+ENSAMXT00000014445: ['exon skipping', 0, 0]
+ENSAMXT00000045597: ['exon skipping', 0, 0]
+>6
+ENSDCDT00000000831: ['5event', 50, 1]
+ENSCHAT00000012827: ['exon skipping', 0, 0]
+ENSAMXT00000014445: ['5event', 50, 1]
+ENSAMXT00000045597: ['exon skipping', 0, 0]
+>7
+ENSDCDT00000000831: [['internal gap < 30', 20, 3], 87, 1]
+ENSCHAT00000012827: ['exon skipping', 0, 0]
+ENSAMXT00000014445: [['internal gap < 30', 1, 3], 87, 1]
+ENSAMXT00000045597: ['5event', 86, 1]
+>8
+ENSDCDT00000000831: ['exon skipping', 0, 0]
+ENSCHAT00000012827: ['5event', 30, 0]
+ENSAMXT00000014445: ['exon skipping', 0, 0]
+ENSAMXT00000045597: ['exon skipping', 0, 0]
+>9
+ENSDCDT00000000831: ['5event', 96, 1]
+ENSCHAT00000012827: ['no event', 97, 1]
+ENSAMXT00000014445: ['5event', 96, 1]
+ENSAMXT00000045597: ['5event', 96, 1]
+>10
+ENSDCDT00000000831: ['no event', 84, 2]
+ENSCHAT00000012827: ['no event', 84, 2]
+ENSAMXT00000014445: ['no event', 84, 2]
+ENSAMXT00000045597: ['no event', 84, 2]

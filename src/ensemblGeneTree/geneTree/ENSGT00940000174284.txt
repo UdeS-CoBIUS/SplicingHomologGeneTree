@@ -1,0 +1,1 @@
+((ENSTGUG00000015870__Taeniopygia_guttata,ENSOANG00000030119__Ornithorhynchus_anatinus),ENSMZEG00005020301__Maylandia_zebra);

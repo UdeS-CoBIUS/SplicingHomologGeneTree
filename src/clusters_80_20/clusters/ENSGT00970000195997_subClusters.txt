@@ -1,0 +1,4 @@
+>cluster_0
+Y119C1B.10a.1	Y54F10BM.9.1
+>cluster_1
+AC8.10.1	AC8.3.1	F25G6.1.1	Y119C1B.10b.1

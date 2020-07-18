@@ -1,0 +1,1 @@
+(((ENSCAPG00000006105__Cavia_aperea,ENSMUGG00000022075__Meriones_unguiculatus),ENSSDAG00000005554__Spermophilus_dauricus),(ENSAOCG00000024646__Amphiprion_ocellaris,ENSNBRG00000015771__Neolamprologus_brichardi));

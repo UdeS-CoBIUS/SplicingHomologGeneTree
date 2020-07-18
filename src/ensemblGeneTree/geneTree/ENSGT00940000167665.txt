@@ -1,0 +1,1 @@
+(((((ENSPCAG00000013567__Procavia_capensis,ENSNGAG00000014930__Nannospalax_galili),ENSMEUG00000008892__Notamacropus_eugenii),ENSSSCG00000012833__Sus_scrofa),((ENSACLG00000014984__Astatotilapia_calliptera,ENSNBRG00000013668__Neolamprologus_brichardi),ENSFHEG00000016113__Fundulus_heteroclitus)),ENSPMAG00000004332__Petromyzon_marinus);

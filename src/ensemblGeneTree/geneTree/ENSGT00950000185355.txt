@@ -1,0 +1,1 @@
+(((ENSCGRG00015019065__Cricetulus_griseus_CriGri-PICR,ENSPEMG00000028262__Peromyscus_maniculatus_bairdii),ENSDNOG00000033771__Dasypus_novemcinctus),(ENSAPLG00000025925__Anas_platyrhynchos_platyrhynchos,ENSAHAG00000004752__Apteryx_haastii));

@@ -1,0 +1,1 @@
+(((((ENSACIG00000016122__Amphilophus_citrinellus,ENSAPOG00000012708__Acanthochromis_polyacanthus),(ENSMMOG00000020502__Mola_mola,ENSLBEG00000010280__Labrus_bergylta)),ENSPREG00000004003__Poecilia_reticulata),ENSMAMG00000001614__Mastacembelus_armatus),ENSPKIG00000015714__Paramormyrops_kingsleyae);

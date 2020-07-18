@@ -1,0 +1,1 @@
+(((ENSTSYG00000029105__Carlito_syrichta,ENSCJAG00000043346__Callithrix_jacchus),(ENSPCOG00000001306__Propithecus_coquereli,ENSPSMG00000022179__Prolemur_simus)),ENSMMMG00000007277__Marmota_marmota_marmota);

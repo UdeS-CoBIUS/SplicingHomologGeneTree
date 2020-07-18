@@ -1,0 +1,1 @@
+((ENSLAFG00000030548__Loxodonta_africana,ENSMEUG00000010277__Notamacropus_eugenii),ENSCVAG00000019230__Cyprinodon_variegatus);

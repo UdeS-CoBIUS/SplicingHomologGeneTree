@@ -1,0 +1,1 @@
+(((ENSPKIG00000023554__Paramormyrops_kingsleyae,ENSSFOG00015017205__Scleropages_formosus),ENSHCOG00000001745__Hippocampus_comes),ENSLOCG00000000601__Lepisosteus_oculatus);

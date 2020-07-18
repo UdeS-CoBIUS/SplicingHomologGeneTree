@@ -1,0 +1,1 @@
+(((ENSFCAG00000045572__Felis_catus,ENSMPUG00000009777__Mustela_putorius_furo),ENSPVAG00000012926__Pteropus_vampyrus),(ENSVPAG00000000544__Vicugna_pacos,ENSVPAG00000004351__Vicugna_pacos));

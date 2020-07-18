@@ -1,0 +1,1 @@
+(((WBGene00019730__Caenorhabditis_elegans_strain_N2,FBgn0270926__Drosophila_melanogaster),ENSPNAG00000016569__Pygocentrus_nattereri),(YPR145W__Saccharomyces_cerevisiae_strain_S288C,YGR124W__Saccharomyces_cerevisiae_strain_S288C));

@@ -1,0 +1,3 @@
+CALIDRISPYGMAEA	calidris_pygmaea
+CALIDRISPUGNAX	calidris_pugnax
+LONCHURASTRIATADOMESTICA	lonchura_striata_domestica

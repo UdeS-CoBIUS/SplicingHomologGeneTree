@@ -1,0 +1,1 @@
+((YLR249W__Saccharomyces_cerevisiae_strain_S288C,YNL014W__Saccharomyces_cerevisiae_strain_S288C),ENSSLDG00000001820__Seriola_lalandi_dorsalis);

@@ -1,0 +1,1 @@
+((((ENSECAG00000028131__Equus_caballus,ENSEASG00005010754__Equus_asinus_asinus),ENSMMMG00000001557__Marmota_marmota_marmota),ENSPVIG00000004743__Pogona_vitticeps),((ENSXMAG00000029397__Xiphophorus_maculatus,ENSPMGG00000020366__Periophthalmus_magnuspinnatus),ENSCSEG00000012067__Cynoglossus_semilaevis));

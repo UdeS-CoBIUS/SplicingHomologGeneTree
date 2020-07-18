@@ -1,0 +1,1 @@
+(((ENSOGAG00000027333__Otolemur_garnettii,ENSORLG00015022924__Oryzias_latipes_ASM223469v1),ENSPNAG00000003214__Pygocentrus_nattereri),(ENSORLG00015009234__Oryzias_latipes_ASM223469v1,ENSFALG00000001149__Ficedula_albicollis));

@@ -1,1 +1,0 @@
-(((ENSORLG00015007981__Oryzias_latipes_ASM223469v1,ENSPMGG00000022770__Periophthalmus_magnuspinnatus),ENSAPEG00000014004__Amphiprion_percula),(ENSMMOG00000013268__Mola_mola,ENSSLDG00000004430__Seriola_lalandi_dorsalis));

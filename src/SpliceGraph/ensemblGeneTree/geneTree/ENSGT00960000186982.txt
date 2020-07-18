@@ -1,0 +1,1 @@
+(((((((ENSUMAG00000010676__Ursus_maritimus,ENSUAMG00000009001__Ursus_americanus),ENSAMEG00000017155__Ailuropoda_melanoleuca),ENSCAFG00000005484__Canis_lupus_familiaris),ENSPVAG00000006677__Pteropus_vampyrus),ENSEASG00005017856__Equus_asinus_asinus),ENSCHIG00000023669__Capra_hircus),ENSLACG00000009227__Latimeria_chalumnae);

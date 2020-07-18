@@ -1,0 +1,6 @@
+APTERYXOWENII	apteryx_owenii
+APTERYXHAASTII	apteryx_haastii
+APTERYXROWI	apteryx_rowi
+NOTHOPROCTAPERDICARIA	nothoprocta_perdicaria
+CROCODYLUSPOROSUS	crocodylus_porosus
+SALVATORMERIANAE	salvator_merianae

@@ -1,0 +1,1 @@
+((((ENSAMXG00000035182__Astyanax_mexicanus,ENSIPUG00000019814__Ictalurus_punctatus),ENSAMXG00000038782__Astyanax_mexicanus),ENSDARG00000105863__Danio_rerio),((ENSAPEG00000015823__Amphiprion_percula,ENSCVAG00000015372__Cyprinodon_variegatus),ENSLBEG00000005735__Labrus_bergylta));

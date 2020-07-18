@@ -1,0 +1,8 @@
+>completeCluster_0
+Y37A1C.1a.1	FBtr0075987
+>completeCluster_1
+Y37A1C.1f.1	FBtr0333840
+>completeCluster_2
+Y37A1C.1b.1	FBtr0333838
+>completeCluster_3
+FBtr0333842	Y37A1C.1d.1

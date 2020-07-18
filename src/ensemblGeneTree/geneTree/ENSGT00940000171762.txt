@@ -1,0 +1,1 @@
+((ENSGMOG00000020231__Gadus_morhua,ENSGMOG00000004835__Gadus_morhua),ENSOMEG00000012024__Oryzias_melastigma);

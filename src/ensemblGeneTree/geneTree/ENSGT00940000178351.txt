@@ -1,0 +1,1 @@
+((((((ENSPNYG00000006805__Pundamilia_nyererei,ENSNBRG00000012442__Neolamprologus_brichardi),ENSSPAG00000006133__Stegastes_partitus),ENSAPEG00000020731__Amphiprion_percula),ENSPMEG00000004723__Poecilia_mexicana),ENSATEG00000016532__Anabas_testudineus),ENSAPLG00000023732__Anas_platyrhynchos_platyrhynchos);

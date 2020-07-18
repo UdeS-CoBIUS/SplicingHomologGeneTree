@@ -1,0 +1,1 @@
+(((ENSTGUG00000013592__Taeniopygia_guttata,ENSMVIG00005001002__Manacus_vitellinus),((ENSLSDG00000002180__Lonchura_striata_domestica,ENSZALG00000016744__Zonotrichia_albicollis),ENSCPGG00000015647__Calidris_pygmaea)),ENSCJPG00005017672__Coturnix_japonica);

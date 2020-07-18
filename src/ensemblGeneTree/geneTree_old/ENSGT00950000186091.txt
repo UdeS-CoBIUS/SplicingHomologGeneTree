@@ -1,1 +1,0 @@
-((ENSECAG00000034974__Equus_caballus,ENSEASG00005012977__Equus_asinus_asinus),ENSBBBG00000016328__Bison_bison_bison);

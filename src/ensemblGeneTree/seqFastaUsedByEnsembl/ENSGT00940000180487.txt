@@ -1,0 +1,3 @@
+  YBL109W	YBL109W	Saccharomyces_cerevisiae_strain_S288C YDR544C	YDR544C	Saccharomyces_cerevisiae_strain_S288C 
+ YHR217C	YHR217C	Saccharomyces_cerevisiae_strain_S288C 
+;

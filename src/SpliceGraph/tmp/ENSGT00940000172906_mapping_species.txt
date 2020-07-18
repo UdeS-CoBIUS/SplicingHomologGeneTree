@@ -1,0 +1,8 @@
+FUNDULUSHETEROCLITUS	fundulus_heteroclitus
+FUNDULUSHETEROCLITUS	fundulus_heteroclitus
+CYPRINODONVARIEGATUS	cyprinodon_variegatus
+POECILIAFORMOSA	poecilia_formosa
+POECILIALATIPINNA	poecilia_latipinna
+POECILIAFORMOSA	poecilia_formosa
+GAMBUSIAAFFINIS	gambusia_affinis
+KRYPTOLEBIASMARMORATUS	kryptolebias_marmoratus

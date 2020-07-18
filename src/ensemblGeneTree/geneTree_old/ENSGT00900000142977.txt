@@ -1,1 +1,0 @@
-(((((ENSHGLG00000008780__Heterocephalus_glaber_HetGla_female_1.0,ENSHGLG00100013625__Heterocephalus_glaber_HetGla_1.0),ENSFDAG00000009071__Fukomys_damarensis),(ENSCPOG00000025128__Cavia_porcellus,ENSCAPG00000009622__Cavia_aperea)),ENSNGAG00000023615__Nannospalax_galili),ENSTGEG00000011078__Theropithecus_gelada);

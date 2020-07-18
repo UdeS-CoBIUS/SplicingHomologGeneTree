@@ -1,0 +1,1 @@
+(ENSAPLG00000028110__Anas_platyrhynchos_platyrhynchos,ENSSLDG00000007589__Seriola_lalandi_dorsalis);

@@ -1,0 +1,1 @@
+((((((ENSMNEG00000036630__Macaca_nemestrina,ENSMFAG00000003429__Macaca_fascicularis),ENSPANG00000032630__Papio_anubis),ENSMLEG00000004941__Mandrillus_leucophaeus),ENSPTEG00000016937__Piliocolobus_tephrosceles),ENSNLEG00000032792__Nomascus_leucogenys),ENSCCNG00000014305__Castor_canadensis);

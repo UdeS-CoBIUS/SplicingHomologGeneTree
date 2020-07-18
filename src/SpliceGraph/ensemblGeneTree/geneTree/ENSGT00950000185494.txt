@@ -1,0 +1,1 @@
+((ENSCABG00000004456__Chelonoidis_abingdonii,ENSCPRG00005002699__Crocodylus_porosus),((((ENSBBBG00000004906__Bison_bison_bison,ENSUMAG00000017645__Ursus_maritimus),ENSEASG00005011437__Equus_asinus_asinus),(ENSSDAG00000005688__Spermophilus_dauricus,ENSMICG00000044341__Microcebus_murinus)),ENSPCIG00000031419__Phascolarctos_cinereus));

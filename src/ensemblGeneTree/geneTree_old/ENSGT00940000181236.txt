@@ -1,1 +1,0 @@
-(ENSORLG00000027371__Oryzias_latipes_ASM223467v1,ENSMALG00000008637__Monopterus_albus);

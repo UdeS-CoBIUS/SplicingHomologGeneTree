@@ -1,0 +1,1 @@
+((WBGene00003598__Caenorhabditis_elegans_strain_N2,FBgn0026206__Drosophila_melanogaster),(((ENSXMAG00000029919__Xiphophorus_maculatus,ENSPMEG00000002595__Poecilia_mexicana),ENSFHEG00000018230__Fundulus_heteroclitus),ENSAPOG00000021119__Acanthochromis_polyacanthus));

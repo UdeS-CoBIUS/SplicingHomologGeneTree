@@ -1,0 +1,1 @@
+((((ENSSPUG00000001847__Sphenodon_punctatus,ENSNSUG00000000750__Notechis_scutatus),ENSJHYG00000006971__Junco_hyemalis),((ENSOANG00000001508__Ornithorhynchus_anatinus,ENSOANG00000010772__Ornithorhynchus_anatinus),ENSOANG00000004311__Ornithorhynchus_anatinus)),ENSPREG00000008691__Poecilia_reticulata);

@@ -1,0 +1,24 @@
+>0
+F42H10.2.1: ['no event', 260, 0]
+F11C1.1.1: ['exon skipping', 0, 0]
+F11C1.1.2: ['exon skipping', 0, 0]
+>1
+F42H10.2.1: ['exon skipping', 0, 0]
+F11C1.1.1: ['5event', 35, 0]
+F11C1.1.2: ['5event', 35, 0]
+>2
+F42H10.2.1: ['exon skipping', 0, 0]
+F11C1.1.1: ['no event', 108, 0]
+F11C1.1.2: ['no event', 108, 0]
+>3
+F42H10.2.1: ['exon skipping', 0, 0]
+F11C1.1.1: ['no event', 84, 1]
+F11C1.1.2: ['no event', 84, 1]
+>4
+F42H10.2.1: ['5event', 63, 0]
+F11C1.1.1: ['no event', 115, 2]
+F11C1.1.2: ['no event', 115, 2]
+>5
+F42H10.2.1: ['3event', 24, 1]
+F11C1.1.1: ['no event', 37, 1]
+F11C1.1.2: ['no event', 37, 1]

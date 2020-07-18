@@ -1,0 +1,1 @@
+(((ENSMLEG00000035955__Mandrillus_leucophaeus,ENSTGEG00000021836__Theropithecus_gelada),ENSMFAG00000034055__Macaca_fascicularis),((ENSCANG00000034854__Colobus_angolensis_palliatus,ENSPTEG00000000340__Piliocolobus_tephrosceles),ENSRBIG00000035583__Rhinopithecus_bieti));

@@ -1,0 +1,1 @@
+((((ENSEBUG00000006298__Eptatretus_burgeri,ENSEBUG00000010669__Eptatretus_burgeri),ENSCPGG00000017263__Calidris_pygmaea),YER054C__Saccharomyces_cerevisiae_strain_S288C),(YIL045W__Saccharomyces_cerevisiae_strain_S288C,ENSLBEG00000002769__Labrus_bergylta));

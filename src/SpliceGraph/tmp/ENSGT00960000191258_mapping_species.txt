@@ -1,0 +1,2 @@
+BOSMUTUS	bos_mutus
+RATTUSNORVEGICUS	rattus_norvegicus

@@ -1,0 +1,1 @@
+(((ENSHGLG00000020465__Heterocephalus_glaber_HetGla_female_1.0,ENSHGLG00100021085__Heterocephalus_glaber_HetGla_1.0),ENSMICG00000033242__Microcebus_murinus),(ENSCHIG00000011990__Capra_hircus,ENSBBBG00000023925__Bison_bison_bison));

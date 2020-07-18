@@ -1,0 +1,1 @@
+(((ENSCAFG00000028890__Canis_lupus_familiaris,ENSMPUG00000007827__Mustela_putorius_furo),(ENSOARG00000006404__Ovis_aries,ENSSSCG00000005475__Sus_scrofa)),ENSOGAG00000010626__Otolemur_garnettii);

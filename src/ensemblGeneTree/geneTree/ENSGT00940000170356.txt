@@ -1,0 +1,1 @@
+((ENSEBUG00000006008__Eptatretus_burgeri,ENSEBUG00000013709__Eptatretus_burgeri),(((ENSXMAG00000013247__Xiphophorus_maculatus,ENSCVAG00000015203__Cyprinodon_variegatus),ENSKMAG00000009870__Kryptolebias_marmoratus),ENSHHUG00000027671__Hucho_hucho));

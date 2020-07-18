@@ -1,0 +1,1 @@
+((((((ENSPTRG00000046677__Pan_troglodytes,ENSPTRG00000050896__Pan_troglodytes),ENSPPAG00000032195__Pan_paniscus),ENSRBIG00000002128__Rhinopithecus_bieti),ENSMICG00000046270__Microcebus_murinus),ENSOCUG00000037847__Oryctolagus_cuniculus),(ENSUMAG00000001188__Ursus_maritimus,ENSFCAG00000049378__Felis_catus));

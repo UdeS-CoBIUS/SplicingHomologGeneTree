@@ -1,0 +1,1 @@
+(((ENSSHAG00000013752__Sarcophilus_harrisii,ENSMEUG00000002832__Notamacropus_eugenii),(ENSLAFG00000025849__Loxodonta_africana,ENSDNOG00000030796__Dasypus_novemcinctus)),((ENSMGAG00000008118__Meleagris_gallopavo,ENSTGUG00000009118__Taeniopygia_guttata),ENSACAG00000005307__Anolis_carolinensis));

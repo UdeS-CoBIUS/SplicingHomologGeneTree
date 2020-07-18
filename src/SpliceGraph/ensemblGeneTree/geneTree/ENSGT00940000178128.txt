@@ -1,0 +1,1 @@
+(((ENSAPEG00000021773__Amphiprion_percula,ENSSPAG00000021025__Stegastes_partitus),ENSSMAG00000018042__Scophthalmus_maximus),((ENSSDUG00000006264__Seriola_dumerili,ENSMAMG00000006594__Mastacembelus_armatus),ENSHBUG00000009872__Haplochromis_burtoni));

@@ -1,0 +1,1 @@
+(ENSGMOG00000009775__Gadus_morhua,ENSTGUG00000015230__Taeniopygia_guttata);

@@ -1,1 +1,0 @@
-(((ENSPNAG00000021492__Pygocentrus_nattereri,ENSIPUG00000003302__Ictalurus_punctatus),ENSDARG00000092721__Danio_rerio),(ENSPFOG00000017057__Poecilia_formosa,ENSGACG00000011793__Gasterosteus_aculeatus));

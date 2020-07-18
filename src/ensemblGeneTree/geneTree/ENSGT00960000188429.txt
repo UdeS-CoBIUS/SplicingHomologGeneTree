@@ -1,0 +1,1 @@
+(ENSSARG00000008584__Sorex_araneus,ENSCAFG00000030742__Canis_lupus_familiaris);

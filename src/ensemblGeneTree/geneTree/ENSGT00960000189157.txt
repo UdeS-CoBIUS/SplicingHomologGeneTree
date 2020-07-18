@@ -1,0 +1,1 @@
+(ENSODEG00000011423__Octodon_degus,ENSTBEG00000007456__Tupaia_belangeri);

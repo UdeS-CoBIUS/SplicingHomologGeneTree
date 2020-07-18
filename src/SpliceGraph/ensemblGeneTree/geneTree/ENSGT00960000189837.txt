@@ -1,0 +1,1 @@
+(((ENSCCEG00000023151__Cyanistes_caeruleus,ENSSCAG00000004731__Serinus_canaria),ENSCJPG00005005621__Coturnix_japonica),ENSNPEG00000014259__Nothoprocta_perdicaria);

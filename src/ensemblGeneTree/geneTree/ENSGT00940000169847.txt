@@ -1,0 +1,1 @@
+((((ENSSSCG00000033281__Sus_scrofa,ENSSSCG00000040474__Sus_scrofa),ENSCAFG00020005692__Canis_lupus_dingo),ENSGALG00000031139__Gallus_gallus),ENSACLG00000007108__Astatotilapia_calliptera);

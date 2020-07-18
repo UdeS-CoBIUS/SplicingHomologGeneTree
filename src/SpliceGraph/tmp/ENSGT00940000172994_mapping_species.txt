@@ -1,0 +1,2 @@
+DASYPUSNOVEMCINCTUS	dasypus_novemcinctus
+SPERMOPHILUSDAURICUS	spermophilus_dauricus

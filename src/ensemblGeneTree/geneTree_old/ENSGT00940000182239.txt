@@ -1,1 +1,0 @@
-((ENSXETG00000004758__Xenopus_tropicalis,ENSZALG00000008801__Zonotrichia_albicollis),ENSAPEG00000024696__Amphiprion_percula);

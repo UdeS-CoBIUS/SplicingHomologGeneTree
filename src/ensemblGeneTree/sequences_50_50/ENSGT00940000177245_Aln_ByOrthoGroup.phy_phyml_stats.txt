@@ -21,10 +21,10 @@
   - Gamma shape parameter: 		0.553
 
 . Run ID:				none
-. Random seed:				1580966239
+. Random seed:				1594953964
 . Subtree patterns aliasing:		no
 . Version:				20120412
-. Time used:				0h0m1s (1 seconds)
+. Time used:				0h0m0s (0 seconds)
 
  oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
  Suggested citations:
@@ -44,16 +44,16 @@
 . Initial tree: 			user tree (ensemblGeneTree/trees_50_50/ENSGT00940000177245.nw)
 . Model of amino acids substitution: 	LG
 . Number of taxa: 			3
-. Log-likelihood: 			-744.69766
+. Log-likelihood: 			-744.69760
 . Unconstrained likelihood: 		-576.07305
 . Parsimony: 				84
-. Tree size: 				3.01698
+. Tree size: 				3.01998
 . Discrete gamma model: 		Yes
   - Number of categories: 		4
-  - Gamma shape parameter: 		0.553
+  - Gamma shape parameter: 		0.552
 
 . Run ID:				none
-. Random seed:				1580966239
+. Random seed:				1594953964
 . Subtree patterns aliasing:		no
 . Version:				20120412
 . Time used:				0h0m0s (0 seconds)
@@ -76,16 +76,16 @@
 . Initial tree: 			user tree (ensemblGeneTree/trees_50_50/ENSGT00940000177245.nw)
 . Model of amino acids substitution: 	LG
 . Number of taxa: 			3
-. Log-likelihood: 			-744.69760
+. Log-likelihood: 			-744.69766
 . Unconstrained likelihood: 		-576.07305
 . Parsimony: 				84
-. Tree size: 				3.01998
+. Tree size: 				3.01678
 . Discrete gamma model: 		Yes
   - Number of categories: 		4
-  - Gamma shape parameter: 		0.552
+  - Gamma shape parameter: 		0.553
 
 . Run ID:				none
-. Random seed:				1580966239
+. Random seed:				1594953964
 . Subtree patterns aliasing:		no
 . Version:				20120412
 . Time used:				0h0m0s (0 seconds)
@@ -117,10 +117,10 @@
   - Gamma shape parameter: 		0.553
 
 . Run ID:				none
-. Random seed:				1580966239
+. Random seed:				1594953964
 . Subtree patterns aliasing:		no
 . Version:				20120412
-. Time used:				0h0m0s (0 seconds)
+. Time used:				0h0m1s (1 seconds)
 
  oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
  Suggested citations:

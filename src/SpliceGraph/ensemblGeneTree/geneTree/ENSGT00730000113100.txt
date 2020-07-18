@@ -1,0 +1,1 @@
+(((ENSORLG00000024400__Oryzias_latipes_ASM223467v1,ENSLBEG00000005093__Labrus_bergylta),(ENSORLG00000024351__Oryzias_latipes_ASM223467v1,ENSONIG00000013199__Oreochromis_niloticus)),ENSPMAG00000006007__Petromyzon_marinus);

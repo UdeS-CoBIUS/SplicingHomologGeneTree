@@ -1,0 +1,15 @@
+FELISCATUS	felis_catus
+EQUUSCABALLUS	equus_caballus
+PAPIOANUBIS	papio_anubis
+RHINOPITHECUSROXELLANA	rhinopithecus_roxellana
+PANTROGLODYTES	pan_troglodytes
+PANTROGLODYTES	pan_troglodytes
+PANPANISCUS	pan_paniscus
+NOMASCUSLEUCOGENYS	nomascus_leucogenys
+PANTROGLODYTES	pan_troglodytes
+PANPANISCUS	pan_paniscus
+PANTROGLODYTES	pan_troglodytes
+PILIOCOLOBUSTEPHROSCELES	piliocolobus_tephrosceles
+UROCITELLUSPARRYII	urocitellus_parryii
+MARMOTAMARMOTAMARMOTA	marmota_marmota_marmota
+PEROMYSCUSMANICULATUSBAIRDII	peromyscus_maniculatus_bairdii

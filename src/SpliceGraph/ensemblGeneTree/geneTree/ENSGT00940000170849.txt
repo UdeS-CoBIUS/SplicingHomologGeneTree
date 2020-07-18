@@ -1,0 +1,1 @@
+(ENSOARG00000010481__Ovis_aries,ENSOCUG00000024909__Oryctolagus_cuniculus);

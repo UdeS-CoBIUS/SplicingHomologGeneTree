@@ -1,0 +1,1 @@
+((((ENSMODG00000023214__Monodelphis_domestica,ENSMODG00000023213__Monodelphis_domestica),ENSMODG00000023215__Monodelphis_domestica),ENSPSIG00000000871__Pelodiscus_sinensis),((ENSTGUG00000009331__Taeniopygia_guttata,ENSFALG00000015030__Ficedula_albicollis),ENSMPUG00000011572__Mustela_putorius_furo));

@@ -1,0 +1,8 @@
+>cluster_0
+F53H1.1c.1
+>cluster_1
+F53H1.1b.1
+>cluster_2
+F53H1.1e.1
+>cluster_3
+FBtr0074011	ENSSDAT00000011770	F53H1.1a.1

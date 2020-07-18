@@ -1,1 +1,0 @@
-((ENSONIG00000001004__Oreochromis_niloticus,ENSONIG00000020946__Oreochromis_niloticus),(ENSPFOG00000022367__Poecilia_formosa,ENSPFOG00000022047__Poecilia_formosa));

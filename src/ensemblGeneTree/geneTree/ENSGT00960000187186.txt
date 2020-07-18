@@ -1,0 +1,1 @@
+(((ENSAPEG00000021725__Amphiprion_percula,ENSAMXG00000041192__Astyanax_mexicanus),ENSPSIG00000001696__Pelodiscus_sinensis),(((ENSAMXG00000036743__Astyanax_mexicanus,ENSAMXG00000034814__Astyanax_mexicanus),ENSPKIG00000011035__Paramormyrops_kingsleyae),ENSCABG00000015342__Chelonoidis_abingdonii));

@@ -1,0 +1,1 @@
+((ENSCSEG00000010751__Cynoglossus_semilaevis,ENSTRUG00000024723__Takifugu_rubripes),ENSAMXG00000040668__Astyanax_mexicanus);

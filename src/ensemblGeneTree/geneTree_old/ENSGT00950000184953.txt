@@ -1,1 +1,0 @@
-(ENSPFOG00000022991__Poecilia_formosa,ENSONIG00000013718__Oreochromis_niloticus);

@@ -1,0 +1,1 @@
+(((ENSNVIG00000000392__Neovison_vison,ENSUAMG00000023324__Ursus_americanus),(ENSPTIG00000013442__Panthera_tigris_altaica,ENSPPRG00000001119__Panthera_pardus)),ENSTRUG00000000165__Takifugu_rubripes);

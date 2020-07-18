@@ -1,0 +1,1 @@
+(((ENSCING00000007205__Ciona_intestinalis,ENSEBUG00000001599__Eptatretus_burgeri),WBGene00000137__Caenorhabditis_elegans_strain_N2),YMR020W__Saccharomyces_cerevisiae_strain_S288C);

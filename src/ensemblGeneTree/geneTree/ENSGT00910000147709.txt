@@ -1,0 +1,1 @@
+((ENSPCOG00000017849__Propithecus_coquereli,ENSMICG00000043814__Microcebus_murinus),(ENSANAG00000037552__Aotus_nancymaae,ENSCCAG00000030612__Cebus_capucinus_imitator));

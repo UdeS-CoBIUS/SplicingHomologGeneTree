@@ -1,0 +1,1 @@
+((ENSMUNG00000013148__Melopsittacus_undulatus,ENSLCOG00000005232__Lepidothrix_coronata),ENSTRUG00000022233__Takifugu_rubripes);

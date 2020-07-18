@@ -1,0 +1,1 @@
+(((((((ENSSPAG00000013590__Stegastes_partitus,ENSACIG00000006890__Amphilophus_citrinellus),ENSHCOG00000019735__Hippocampus_comes),ENSLBEG00000002361__Labrus_bergylta),ENSTRUG00000019888__Takifugu_rubripes),ENSCSEG00000009115__Cynoglossus_semilaevis),ENSELUG00000011269__Esox_lucius),WBGene00008449__Caenorhabditis_elegans_strain_N2);

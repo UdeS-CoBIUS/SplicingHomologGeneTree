@@ -1,1 +1,0 @@
-(ENSLOCG00000014943__Lepisosteus_oculatus,ENSPREG00000003075__Poecilia_reticulata);

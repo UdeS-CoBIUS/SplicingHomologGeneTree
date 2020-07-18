@@ -1,1 +1,0 @@
-(((ENSTNIG00000003283__Tetraodon_nigroviridis,ENSSPAG00000000294__Stegastes_partitus),ENSPMGG00000013886__Periophthalmus_magnuspinnatus),ENSPNAG00000014576__Pygocentrus_nattereri);

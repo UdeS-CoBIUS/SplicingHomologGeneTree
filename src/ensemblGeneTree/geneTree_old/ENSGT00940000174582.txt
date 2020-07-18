@@ -1,1 +1,0 @@
-(ENSCVAG00000000814__Cyprinodon_variegatus,FBgn0031675__Drosophila_melanogaster);

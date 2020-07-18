@@ -1,0 +1,1 @@
+(ENSCAPG00000017047__Cavia_aperea,ENSCPOG00000036232__Cavia_porcellus);

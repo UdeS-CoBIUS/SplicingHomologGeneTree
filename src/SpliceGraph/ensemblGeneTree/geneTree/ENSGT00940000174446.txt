@@ -1,0 +1,1 @@
+((ENSCCEG00000016112__Cyanistes_caeruleus,ENSSCAG00000003845__Serinus_canaria),((ENSCANG00000012145__Colobus_angolensis_palliatus,ENSMICG00000045781__Microcebus_murinus),ENSUAMG00000002259__Ursus_americanus));

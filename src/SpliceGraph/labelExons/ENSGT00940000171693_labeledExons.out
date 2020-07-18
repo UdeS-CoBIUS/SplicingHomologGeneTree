@@ -1,0 +1,12 @@
+>0
+ENSMUST00000076061: ['no event', 63, 0]
+ENSMUST00000178961: ['no event', 63, 0]
+ENSMUST00000177523: ['no event', 63, 0]
+ENSMUST00000111972: ['no event', 63, 0]
+ENSMUST00000074042: ['no event', 63, 0]
+>1
+ENSMUST00000076061: [['internal gap >= 30', 284, 126], 886, 1]
+ENSMUST00000178961: [['internal gap >= 30', 284, 126], 886, 1]
+ENSMUST00000177523: [['internal gap >= 30', 544, 207], 805, 1]
+ENSMUST00000111972: [['internal gap >= 30', 544, 207], 805, 1]
+ENSMUST00000074042: [['internal gap >= 30', 460, 291], 721, 1]

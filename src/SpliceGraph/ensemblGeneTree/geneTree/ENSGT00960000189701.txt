@@ -1,0 +1,1 @@
+((((ENSPEMG00000026168__Peromyscus_maniculatus_bairdii,ENSCGRG00015007514__Cricetulus_griseus_CriGri-PICR),ENSMSIG00000012527__Mus_spicilegus),ENSDORG00000026601__Dipodomys_ordii),ENSMLUG00000013964__Myotis_lucifugus);

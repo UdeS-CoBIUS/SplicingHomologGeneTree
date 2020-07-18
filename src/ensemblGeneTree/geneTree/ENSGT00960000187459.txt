@@ -1,0 +1,1 @@
+(((ENSMAMG00000010194__Mastacembelus_armatus,ENSATEG00000011043__Anabas_testudineus),ENSTRUG00000022288__Takifugu_rubripes),ENSAMXG00000032358__Astyanax_mexicanus);

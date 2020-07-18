@@ -1,0 +1,14 @@
+>0
+ENSAOCT00000004084: ['5event', ['internal gap < 30', 51, 18], 111, 0]
+ENSAPET00000002635: [['internal gap < 30', 66, 3], 126, 0]
+ENSAPOT00000030276: [['internal gap < 30', 63, 6], 123, 0]
+ENSSPAT00000011554: ['5event', ['internal gap < 30', 51, 18], 111, 0]
+ENSPRNT00000023707: ['no event', 129, 0]
+ENSONIT00000002133: ['5event', ['internal gap < 30', 51, 18], 111, 0]
+>1
+ENSAOCT00000004084: [['internal gap < 30', 166, 9], 256, 1]
+ENSAPET00000002635: [['internal gap < 30', 166, 9], 256, 1]
+ENSAPOT00000030276: [['internal gap < 30', 166, 9], 256, 1]
+ENSSPAT00000011554: [['internal gap < 30', 166, 9], 256, 1]
+ENSPRNT00000023707: [['internal gap < 30', 166, 9], 256, 1]
+ENSONIT00000002133: [['internal gap < 30', 21, 3], 262, 1]

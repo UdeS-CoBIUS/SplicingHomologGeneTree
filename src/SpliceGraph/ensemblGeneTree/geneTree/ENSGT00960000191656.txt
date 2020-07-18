@@ -1,0 +1,1 @@
+(ENSOANG00000004009__Ornithorhynchus_anatinus,ENSLACG00000002664__Latimeria_chalumnae);

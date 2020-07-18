@@ -1,0 +1,1 @@
+(((((ENSMSIG00000022972__Mus_spicilegus,ENSMUSG00000085684__Mus_musculus_strain_reference_(CL57BL6)),ENSMUGG00000015650__Meriones_unguiculatus),(ENSPEMG00000029094__Peromyscus_maniculatus_bairdii,ENSCGRG00015021595__Cricetulus_griseus_CriGri-PICR)),ENSPCOG00000012130__Propithecus_coquereli),ENSPCIG00000035878__Phascolarctos_cinereus);

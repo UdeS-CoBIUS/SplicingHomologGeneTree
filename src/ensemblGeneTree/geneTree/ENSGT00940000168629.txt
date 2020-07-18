@@ -1,0 +1,1 @@
+((((ENSSBOG00000035619__Saimiri_boliviensis_boliviensis,ENSCJAG00000041187__Callithrix_jacchus),ENSNGAG00000010831__Nannospalax_galili),((ENSVPAG00000004154__Vicugna_pacos,ENSNVIG00000012122__Neovison_vison),ENSEASG00005011355__Equus_asinus_asinus)),ENSPVIG00000000994__Pogona_vitticeps);

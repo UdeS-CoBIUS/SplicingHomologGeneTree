@@ -1,0 +1,1 @@
+(((ENSPVAG00000016900__Pteropus_vampyrus,ENSMLUG00000026583__Myotis_lucifugus),ENSTTRG00000013953__Tursiops_truncatus),ENSOANG00000002546__Ornithorhynchus_anatinus);

@@ -1,1 +1,0 @@
-((ENSTGUG00000012210__Taeniopygia_guttata,ENSCJPG00005020791__Coturnix_japonica),ENSPVIG00000022322__Pogona_vitticeps);

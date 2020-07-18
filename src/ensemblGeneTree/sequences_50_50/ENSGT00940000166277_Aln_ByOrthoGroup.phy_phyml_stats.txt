@@ -21,10 +21,10 @@
   - Gamma shape parameter: 		0.662
 
 . Run ID:				none
-. Random seed:				1580965261
+. Random seed:				1594998312
 . Subtree patterns aliasing:		no
 . Version:				20120412
-. Time used:				0h0m1s (1 seconds)
+. Time used:				0h0m0s (0 seconds)
 
  oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
  Suggested citations:
@@ -47,13 +47,13 @@
 . Log-likelihood: 			-907.28566
 . Unconstrained likelihood: 		-742.43144
 . Parsimony: 				60
-. Tree size: 				0.39618
+. Tree size: 				0.39627
 . Discrete gamma model: 		Yes
   - Number of categories: 		4
   - Gamma shape parameter: 		0.662
 
 . Run ID:				none
-. Random seed:				1580965261
+. Random seed:				1594998312
 . Subtree patterns aliasing:		no
 . Version:				20120412
 . Time used:				0h0m0s (0 seconds)
@@ -76,16 +76,16 @@
 . Initial tree: 			user tree (ensemblGeneTree/trees_50_50/ENSGT00940000166277.nw)
 . Model of amino acids substitution: 	LG
 . Number of taxa: 			4
-. Log-likelihood: 			-907.28566
+. Log-likelihood: 			-909.22285
 . Unconstrained likelihood: 		-742.43144
-. Parsimony: 				60
-. Tree size: 				0.39627
+. Parsimony: 				61
+. Tree size: 				0.41948
 . Discrete gamma model: 		Yes
   - Number of categories: 		4
-  - Gamma shape parameter: 		0.662
+  - Gamma shape parameter: 		0.520
 
 . Run ID:				none
-. Random seed:				1580965261
+. Random seed:				1594998312
 . Subtree patterns aliasing:		no
 . Version:				20120412
 . Time used:				0h0m0s (0 seconds)
@@ -108,16 +108,16 @@
 . Initial tree: 			user tree (ensemblGeneTree/trees_50_50/ENSGT00940000166277.nw)
 . Model of amino acids substitution: 	LG
 . Number of taxa: 			4
-. Log-likelihood: 			-909.22285
+. Log-likelihood: 			-907.28565
 . Unconstrained likelihood: 		-742.43144
-. Parsimony: 				61
-. Tree size: 				0.41948
+. Parsimony: 				60
+. Tree size: 				0.39627
 . Discrete gamma model: 		Yes
   - Number of categories: 		4
-  - Gamma shape parameter: 		0.520
+  - Gamma shape parameter: 		0.662
 
 . Run ID:				none
-. Random seed:				1580965261
+. Random seed:				1594998312
 . Subtree patterns aliasing:		no
 . Version:				20120412
 . Time used:				0h0m0s (0 seconds)

@@ -1,1 +1,0 @@
-(ENSMUGG00000012171__Meriones_unguiculatus,ENSMSIG00000015591__Mus_spicilegus);

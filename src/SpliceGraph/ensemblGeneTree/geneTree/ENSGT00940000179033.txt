@@ -1,0 +1,1 @@
+(((ENSSMAG00000003108__Scophthalmus_maximus,ENSCSEG00000004682__Cynoglossus_semilaevis),ENSSDUG00000001024__Seriola_dumerili),ENSAPOG00000018277__Acanthochromis_polyacanthus);

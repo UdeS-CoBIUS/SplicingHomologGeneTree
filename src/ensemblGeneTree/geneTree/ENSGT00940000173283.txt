@@ -1,0 +1,1 @@
+(ENSMOCG00000002501__Microtus_ochrogaster,ENSCGRG00000010119__Cricetulus_griseus_CriGri_1.0);

@@ -1,0 +1,1 @@
+((ENSAPOG00000015617__Acanthochromis_polyacanthus,ENSSLDG00000000039__Seriola_lalandi_dorsalis),(ENSTRUG00000021653__Takifugu_rubripes,ENSTRUG00000021297__Takifugu_rubripes));

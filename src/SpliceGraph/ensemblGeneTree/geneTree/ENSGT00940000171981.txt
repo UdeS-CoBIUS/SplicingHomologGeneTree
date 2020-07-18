@@ -1,0 +1,1 @@
+((((ENSLACG00000015094__Latimeria_chalumnae,ENSLSDG00000006851__Lonchura_striata_domestica),(ENSHCOG00000019326__Hippocampus_comes,ENSDCDG00000015366__Denticeps_clupeoides)),ENSLSDG00000006855__Lonchura_striata_domestica),ENSEBUG00000010319__Eptatretus_burgeri);

@@ -1,0 +1,3 @@
+CEBUSCAPUCINUS	cebus_capucinus
+AOTUSNANCYMAAE	aotus_nancymaae
+GORILLAGORILLA	gorilla_gorilla

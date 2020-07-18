@@ -1,0 +1,1 @@
+(((ENSCCAG00000023586__Cebus_capucinus_imitator,ENSCJAG00000042249__Callithrix_jacchus),((ENSGGOG00000043808__Gorilla_gorilla,ENSG00000284629__Homo_sapiens),((ENSMFAG00000039472__Macaca_fascicularis,ENSMNEG00000034286__Macaca_nemestrina),ENSPTEG00000039723__Piliocolobus_tephrosceles))),ENSPCOG00000027608__Propithecus_coquereli);

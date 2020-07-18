@@ -1,0 +1,3 @@
+CYNOGLOSSUSSEMILAEVIS	cynoglossus_semilaevis
+SCOPHTHALMUSMAXIMUS	scophthalmus_maximus
+SCLEROPAGESFORMOSUS	scleropages_formosus

@@ -1,0 +1,1 @@
+(((ENSTTRG00000014322__Tursiops_truncatus,ENSFCAG00000044382__Felis_catus),ENSOPRG00000000812__Ochotona_princeps),ENSPCAG00000012405__Procavia_capensis);

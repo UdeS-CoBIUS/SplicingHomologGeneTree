@@ -1,0 +1,1 @@
+(((ENSAOWG00000009314__Apteryx_owenii,ENSARWG00000000112__Apteryx_rowi),ENSNPEG00000014653__Nothoprocta_perdicaria),(ENSTGUG00000008043__Taeniopygia_guttata,ENSFALG00000009553__Ficedula_albicollis));

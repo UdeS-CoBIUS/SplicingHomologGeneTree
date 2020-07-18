@@ -1,0 +1,5 @@
+POECILIAMEXICANA	poecilia_mexicana
+POECILIAFORMOSA	poecilia_formosa
+POECILIARETICULATA	poecilia_reticulata
+CIONAINTESTINALIS	ciona_intestinalis
+CAENORHABDITISELEGANSSTRAINN2	caenorhabditis_elegans_strain_n2

@@ -1,1 +1,0 @@
-(((ENSTTRG00000005709__Tursiops_truncatus,ENSSARG00000006044__Sorex_araneus),((((ENSTGUG00000013327__Taeniopygia_guttata,ENSLCOG00000005534__Lepidothrix_coronata),ENSAPLG00000015437__Anas_platyrhynchos_platyrhynchos),ENSCABG00000011633__Chelonoidis_abingdonii),ENSPVIG00000012399__Pogona_vitticeps)),ENSCING00000009599__Ciona_intestinalis);

@@ -1,0 +1,1 @@
+(((ENSDORG00000024277__Dipodomys_ordii,ENSODEG00000007146__Octodon_degus),ENSUAMG00000025810__Ursus_americanus),ENSSPUG00000014756__Sphenodon_punctatus);

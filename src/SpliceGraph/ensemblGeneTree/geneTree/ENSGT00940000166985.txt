@@ -1,0 +1,1 @@
+(((ENSLOCG00000009669__Lepisosteus_oculatus,ENSLOCG00000009092__Lepisosteus_oculatus),(((ENSPFOG00000022625__Poecilia_formosa,ENSPFOG00000022983__Poecilia_formosa),ENSPFOG00000020000__Poecilia_formosa),ENSPFOG00000024187__Poecilia_formosa)),(ENSLACG00000010315__Latimeria_chalumnae,ENSLACG00000018144__Latimeria_chalumnae));

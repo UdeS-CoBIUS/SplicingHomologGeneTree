@@ -1,0 +1,8 @@
+PUNDAMILIANYEREREI	pundamilia_nyererei
+HAPLOCHROMISBURTONI	haplochromis_burtoni
+MAYLANDIAZEBRA	maylandia_zebra
+KRYPTOLEBIASMARMORATUS	kryptolebias_marmoratus
+CYPRINODONVARIEGATUS	cyprinodon_variegatus
+PARAMORMYROPSKINGSLEYAE	paramormyrops_kingsleyae
+SCLEROPAGESFORMOSUS	scleropages_formosus
+PYGOCENTRUSNATTERERI	pygocentrus_nattereri

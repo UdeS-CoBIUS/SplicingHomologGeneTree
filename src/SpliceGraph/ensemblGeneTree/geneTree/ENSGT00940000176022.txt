@@ -1,0 +1,1 @@
+(((ENSLBEG00000015218__Labrus_bergylta,ENSLBEG00000001996__Labrus_bergylta),ENSPREG00000004607__Poecilia_reticulata),ENSLACG00000012439__Latimeria_chalumnae);

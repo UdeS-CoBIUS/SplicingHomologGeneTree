@@ -1,0 +1,1 @@
+((ENSOPRG00000001772__Ochotona_princeps,ENSOPRG00000001761__Ochotona_princeps),(ENSOPRG00000005783__Ochotona_princeps,ENSOPRG00000016824__Ochotona_princeps));

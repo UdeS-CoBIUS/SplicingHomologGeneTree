@@ -1,0 +1,18 @@
+>0
+C49F5.3.1: ['no event', 78, 0]
+F02D10.6.1: ['exon skipping', 0, 0]
+>1
+C49F5.3.1: ['exon skipping', 0, 0]
+F02D10.6.1: ['5event', 53, 0]
+>2
+C49F5.3.1: ['5event', 124, 1]
+F02D10.6.1: ['exon skipping', 0, 0]
+>3
+C49F5.3.1: ['no event', 198, 0]
+F02D10.6.1: ['5event', ['internal gap < 30', 55, 22], 176, 0]
+>4
+C49F5.3.1: [['internal gap < 30', 19, 8], 125, 0]
+F02D10.6.1: [['internal gap < 30', 1, 8], 125, 0]
+>5
+C49F5.3.1: [['internal gap < 30', 62, 4], 248, 0]
+F02D10.6.1: [['internal gap < 30', 206, 10], 242, 0]

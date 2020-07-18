@@ -1,0 +1,1 @@
+(ENSBTAG00000055080__Bos_taurus,ENSSHAG00000001417__Sarcophilus_harrisii);

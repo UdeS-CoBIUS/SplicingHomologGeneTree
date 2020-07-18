@@ -1,0 +1,1 @@
+((((((ENSCATG00000043388__Cercocebus_atys,ENSMLEG00000028007__Mandrillus_leucophaeus),ENSMNEG00000000719__Macaca_nemestrina),ENSPCOG00000017684__Propithecus_coquereli),ENSCCNG00000007472__Castor_canadensis),ENSEEUG00000011902__Erinaceus_europaeus),ENSMVIG00005017115__Manacus_vitellinus);

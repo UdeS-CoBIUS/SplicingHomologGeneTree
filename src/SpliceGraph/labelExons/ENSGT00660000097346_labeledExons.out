@@ -1,0 +1,6 @@
+>0
+ENSCINT00000035552: ['no event', 156, 0]
+ENSCSAVT00000006100: [['internal gap < 30', 120, 3], 153, 0]
+>1
+ENSCINT00000035552: [['internal gap < 30', 330, 3], 523, 1]
+ENSCSAVT00000006100: ['3event', 525, 1]

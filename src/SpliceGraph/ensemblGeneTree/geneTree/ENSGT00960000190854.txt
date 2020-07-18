@@ -1,0 +1,1 @@
+((ENSPTEG00000030900__Piliocolobus_tephrosceles,ENSPEMG00000029459__Peromyscus_maniculatus_bairdii),ENSUAMG00000014789__Ursus_americanus);

@@ -1,0 +1,1 @@
+(((((ENSLBEG00000011084__Labrus_bergylta,ENSLBEG00000014834__Labrus_bergylta),(ENSLBEG00000013303__Labrus_bergylta,ENSLBEG00000009555__Labrus_bergylta)),ENSLBEG00000014607__Labrus_bergylta),ENSLBEG00000000720__Labrus_bergylta),((ENSLBEG00000014132__Labrus_bergylta,ENSLBEG00000012702__Labrus_bergylta),ENSLBEG00000006667__Labrus_bergylta));

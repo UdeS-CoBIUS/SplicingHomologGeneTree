@@ -1,0 +1,16 @@
+>0
+ENSPMET00000023310: ['no event', 41, 0]
+ENSPRET00000017349: ['no event', 41, 0]
+ENSPLAT00000002932: ['no event', 41, 0]
+>1
+ENSPMET00000023310: ['no event', 150, 0]
+ENSPRET00000017349: ['no event', 150, 0]
+ENSPLAT00000002932: ['no event', 150, 0]
+>2
+ENSPMET00000023310: ['exon skipping', 0, 0]
+ENSPRET00000017349: ['5event', 13, 2]
+ENSPLAT00000002932: ['exon skipping', 0, 0]
+>3
+ENSPMET00000023310: ['5event', 76, 1]
+ENSPRET00000017349: ['no event', 77, 1]
+ENSPLAT00000002932: ['5event', 76, 1]

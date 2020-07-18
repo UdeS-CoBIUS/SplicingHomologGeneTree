@@ -1,0 +1,1 @@
+((ENSCATG00000042883__Cercocebus_atys,ENSPCOG00000004943__Propithecus_coquereli),ENSAMEG00000013173__Ailuropoda_melanoleuca);

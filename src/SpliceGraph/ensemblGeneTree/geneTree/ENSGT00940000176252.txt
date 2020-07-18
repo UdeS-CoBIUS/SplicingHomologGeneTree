@@ -1,0 +1,1 @@
+((((ENSORLG00020002659__Oryzias_latipes_ASM223471v1,ENSAPEG00000000078__Amphiprion_percula),(ENSLBEG00000020195__Labrus_bergylta,ENSPMGG00000013133__Periophthalmus_magnuspinnatus)),ENSATEG00000006389__Anabas_testudineus),ENSPMAG00000008208__Petromyzon_marinus);

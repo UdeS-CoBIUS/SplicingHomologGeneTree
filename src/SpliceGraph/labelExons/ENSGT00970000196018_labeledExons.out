@@ -1,0 +1,15 @@
+>0
+ZK84.6.1: [['internal gap < 30', 145, 8], 258, 0]
+ZK75.1.1: ['5event', ['internal gap >= 30', 162, 32], 234, 0]
+Y116F11B.1.1: [['internal gap >= 30', 139, 65], 201, 0]
+ZK84.3.1: [['internal gap >= 30', 153, 50], 216, 0]
+>1
+ZK84.6.1: ['3event', 81, 1]
+ZK75.1.1: ['no event', 85, 1]
+Y116F11B.1.1: ['no event', 85, 1]
+ZK84.3.1: ['no event', 85, 1]
+>2
+ZK84.6.1: ['exon skipping', 0, 0]
+ZK75.1.1: ['exon skipping', 0, 0]
+Y116F11B.1.1: ['no event', 5, 0]
+ZK84.3.1: ['exon skipping', 0, 0]

@@ -1,0 +1,1 @@
+(((ENSORLG00020013953__Oryzias_latipes_ASM223471v1,ENSORLG00000027252__Oryzias_latipes_ASM223467v1),ENSPNAG00000013110__Pygocentrus_nattereri),ENSCJPG00005002996__Coturnix_japonica);

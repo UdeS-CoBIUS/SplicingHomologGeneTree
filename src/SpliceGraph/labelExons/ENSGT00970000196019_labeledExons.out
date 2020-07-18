@@ -1,0 +1,20 @@
+>0
+T23F11.2.1: ['exon skipping', 0, 0]
+R07E5.15.1: ['exon skipping', 0, 0]
+F17C8.7.1: [['internal gap < 30', 108, 1], 128, 0]
+R10E9.2.1: ['exon skipping', 0, 0]
+>1
+T23F11.2.1: ['5event', 7, 0]
+R07E5.15.1: ['5event', 7, 0]
+F17C8.7.1: ['no event', 8, 0]
+R10E9.2.1: ['5event', 7, 0]
+>2
+T23F11.2.1: ['no event', 472, 2]
+R07E5.15.1: ['no event', 472, 2]
+F17C8.7.1: ['no event', 472, 2]
+R10E9.2.1: ['no event', 472, 2]
+>3
+T23F11.2.1: [['internal gap < 30', 220, 18], 280, 1]
+R07E5.15.1: [['internal gap < 30', 220, 18], 280, 1]
+F17C8.7.1: [['internal gap < 30', 220, 18], 280, 1]
+R10E9.2.1: ['no event', 298, 1]

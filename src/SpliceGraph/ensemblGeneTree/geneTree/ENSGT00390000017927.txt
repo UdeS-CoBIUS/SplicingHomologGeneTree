@@ -1,0 +1,1 @@
+(((ENSPTEG00000035650__Piliocolobus_tephrosceles,ENSPTEG00000027133__Piliocolobus_tephrosceles),ENSMLEG00000029621__Mandrillus_leucophaeus),((((ENSPPAG00000031920__Pan_paniscus,ENSPTRG00000009914__Pan_troglodytes),ENSGGOG00000036404__Gorilla_gorilla),ENSPPYG00000009058__Pongo_abelii),ENSNLEG00000029665__Nomascus_leucogenys));

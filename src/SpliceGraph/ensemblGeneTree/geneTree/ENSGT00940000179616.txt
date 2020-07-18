@@ -1,0 +1,1 @@
+((ENSPMGG00000015824__Periophthalmus_magnuspinnatus,ENSPMGG00000015822__Periophthalmus_magnuspinnatus),ENSAPOG00000023922__Acanthochromis_polyacanthus);

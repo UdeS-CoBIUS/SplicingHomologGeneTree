@@ -1,0 +1,1 @@
+((ENSEBUG00000006020__Eptatretus_burgeri,ENSEBUG00000010030__Eptatretus_burgeri),ENSEBUG00000008750__Eptatretus_burgeri);

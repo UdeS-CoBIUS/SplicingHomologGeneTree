@@ -1,0 +1,1 @@
+((ENSARWG00000017513__Apteryx_rowi,ENSCPGG00000018827__Calidris_pygmaea),ENSCPBG00000002086__Chrysemys_picta_bellii);

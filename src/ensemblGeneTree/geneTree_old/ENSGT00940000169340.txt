@@ -1,1 +1,0 @@
-((ENSEBUG00000007376__Eptatretus_burgeri,ENSOCUG00000025463__Oryctolagus_cuniculus),(WBGene00012894__Caenorhabditis_elegans_strain_N2,FBgn0020620__Drosophila_melanogaster));

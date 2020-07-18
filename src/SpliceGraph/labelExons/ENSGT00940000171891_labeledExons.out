@@ -1,0 +1,12 @@
+>0
+ENSTSYT00000045729: ['no event', 121, 0]
+ENSANAT00000036759: ['no event', 121, 0]
+ENSSDAT00000005541: ['no event', 121, 0]
+>1
+ENSTSYT00000045729: [['internal gap < 30', 183, 2], 189, 2]
+ENSANAT00000036759: [['internal gap < 30', 152, 5], 186, 2]
+ENSSDAT00000005541: ['3event', 131, 2]
+>2
+ENSTSYT00000045729: ['exon skipping', 0, 0]
+ENSANAT00000036759: ['exon skipping', 0, 0]
+ENSSDAT00000005541: ['5event', 113, 0]

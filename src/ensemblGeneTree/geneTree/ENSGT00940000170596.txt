@@ -1,0 +1,1 @@
+((ENSTGUG00000012123__Taeniopygia_guttata,ENSLACG00000017087__Latimeria_chalumnae),ENSGACG00000019079__Gasterosteus_aculeatus);

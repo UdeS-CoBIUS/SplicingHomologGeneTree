@@ -1,0 +1,1 @@
+((((((ENSPMJG00000005008__Parus_major,ENSSCAG00000006217__Serinus_canaria),ENSCPUG00000019661__Calidris_pugnax),ENSDNVG00000008179__Dromaius_novaehollandiae),ENSGAGG00000005620__Gopherus_agassizii),ENSSPUG00000011381__Sphenodon_punctatus),((ENSPTIG00000005768__Panthera_tigris_altaica,ENSUAMG00000015622__Ursus_americanus),ENSBMUG00000011995__Bos_mutus));

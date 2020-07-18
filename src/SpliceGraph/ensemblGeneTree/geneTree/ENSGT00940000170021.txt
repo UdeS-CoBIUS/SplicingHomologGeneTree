@@ -1,0 +1,1 @@
+(((ENSPCOG00000008162__Propithecus_coquereli,ENSOANG00000028857__Ornithorhynchus_anatinus),WBGene00008641__Caenorhabditis_elegans_strain_N2),YBR186W__Saccharomyces_cerevisiae_strain_S288C);

@@ -1,1 +1,0 @@
-(((ENSAPOG00000020176__Acanthochromis_polyacanthus,ENSAPEG00000023344__Amphiprion_percula),ENSSPAG00000014694__Stegastes_partitus),ENSLBEG00000002629__Labrus_bergylta);

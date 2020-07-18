@@ -1,0 +1,5 @@
+TAENIOPYGIAGUTTATA	taeniopygia_guttata
+SERINUSCANARIA	serinus_canaria
+CYANISTESCAERULEUS	cyanistes_caeruleus
+ERINACEUSEUROPAEUS	erinaceus_europaeus
+PETROMYZONMARINUS	petromyzon_marinus

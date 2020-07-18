@@ -1,0 +1,9 @@
+>0
+ENSPVIT00000037024: ['no event', 290, 0]
+ENSACAT00000008440: ['5event', 89, 0]
+>1
+ENSPVIT00000037024: ['no event', 722, 0]
+ENSACAT00000008440: ['no event', 722, 0]
+>2
+ENSPVIT00000037024: ['no event', 11, 0]
+ENSACAT00000008440: ['exon skipping', 0, 0]

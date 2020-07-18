@@ -1,0 +1,1 @@
+((((ENSCANG00000039542__Colobus_angolensis_palliatus,ENSOPRG00000018276__Ochotona_princeps),ENSCHOG00000001601__Choloepus_hoffmanni),ENSCPRG00005009293__Crocodylus_porosus),ENSGAFG00000003285__Gambusia_affinis);

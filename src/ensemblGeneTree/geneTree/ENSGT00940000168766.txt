@@ -1,0 +1,1 @@
+(((ENSIPUG00000007811__Ictalurus_punctatus,ENSLACG00000011736__Latimeria_chalumnae),ENSCING00000024705__Ciona_intestinalis),(WBGene00020254__Caenorhabditis_elegans_strain_N2,FBgn0028496__Drosophila_melanogaster));

@@ -1,1 +1,0 @@
-(((ENSTGEG00000018439__Theropithecus_gelada,ENSPTEG00000014568__Piliocolobus_tephrosceles),(ENSG00000244094__Homo_sapiens,ENSGGOG00000043834__Gorilla_gorilla)),ENSCJAG00000044710__Callithrix_jacchus);

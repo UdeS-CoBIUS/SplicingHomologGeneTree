@@ -1,1 +1,0 @@
-(((ENSPANG00000015576__Papio_anubis,ENSXETG00000009347__Xenopus_tropicalis),(ENSKMAG00000021807__Kryptolebias_marmoratus,ENSACIG00000003511__Amphilophus_citrinellus)),FBgn0010328__Drosophila_melanogaster);

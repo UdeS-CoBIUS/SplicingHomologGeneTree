@@ -1,0 +1,1 @@
+(((ENSLBEG00000019993__Labrus_bergylta,ENSTRUG00000020754__Takifugu_rubripes),ENSSLDG00000006996__Seriola_lalandi_dorsalis),((ENSKMAG00000008846__Kryptolebias_marmoratus,ENSORLG00000022055__Oryzias_latipes_ASM223467v1),(ENSAOCG00000021131__Amphiprion_ocellaris,ENSAPEG00000013135__Amphiprion_percula)));

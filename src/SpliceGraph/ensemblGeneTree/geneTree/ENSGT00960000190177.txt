@@ -1,0 +1,1 @@
+((ENSLSDG00000009998__Lonchura_striata_domestica,ENSLCOG00000014419__Lepidothrix_coronata),ENSABRG00000016598__Anser_brachyrhynchus);

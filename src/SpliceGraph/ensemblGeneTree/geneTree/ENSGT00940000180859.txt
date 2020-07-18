@@ -1,0 +1,1 @@
+(((ENSHHUG00000022729__Hucho_hucho,ENSHHUG00000001309__Hucho_hucho),ENSAPOG00000010214__Acanthochromis_polyacanthus),ENSAMXG00000041823__Astyanax_mexicanus_Astyanax_mexicanus-2.0);

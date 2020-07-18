@@ -1,0 +1,1 @@
+(((ENSCJAG00000044121__Callithrix_jacchus,ENSCGRG00015028390__Cricetulus_griseus_CriGri-PICR),ENSSSCG00000035139__Sus_scrofa),(ENSCCNG00000026567__Castor_canadensis,ENSBMUG00000008682__Bos_mutus));

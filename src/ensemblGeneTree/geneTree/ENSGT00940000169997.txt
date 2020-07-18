@@ -1,0 +1,1 @@
+((ENSTBEG00000014168__Tupaia_belangeri,ENSOPRG00000014797__Ochotona_princeps),(ENSEASG00005021977__Equus_asinus_asinus,ENSTTRG00000010186__Tursiops_truncatus));

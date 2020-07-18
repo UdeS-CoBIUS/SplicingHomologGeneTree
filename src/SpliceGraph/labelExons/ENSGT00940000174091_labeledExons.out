@@ -1,0 +1,15 @@
+>0
+ENSEBUT00000000587: ['no event', 102, 0]
+ENSEBUT00000000601: ['no event', 102, 0]
+>1
+ENSEBUT00000000587: ['no event', 42, 1]
+ENSEBUT00000000601: ['no event', 42, 1]
+>2
+ENSEBUT00000000587: ['no event', 74, 2]
+ENSEBUT00000000601: ['exon skipping', 0, 0]
+>3
+ENSEBUT00000000587: ['no event', 105, 2]
+ENSEBUT00000000601: ['5event', 102, 2]
+>4
+ENSEBUT00000000587: ['no event', 155, 0]
+ENSEBUT00000000601: ['no event', 155, 0]

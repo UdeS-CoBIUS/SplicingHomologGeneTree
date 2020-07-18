@@ -1,0 +1,1 @@
+(((((ENSMPUG00000018638__Mustela_putorius_furo,ENSNVIG00000005420__Neovison_vison),ENSVVUG00000015692__Vulpes_vulpes),ENSTBEG00000014564__Tupaia_belangeri),(ENSSDAG00000002361__Spermophilus_dauricus,ENSMMMG00000018274__Marmota_marmota_marmota)),ENSDNOG00000031297__Dasypus_novemcinctus);

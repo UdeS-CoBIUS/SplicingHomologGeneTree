@@ -1,0 +1,2 @@
+KRYPTOLEBIASMARMORATUS	kryptolebias_marmoratus
+MONOPTERUSALBUS	monopterus_albus

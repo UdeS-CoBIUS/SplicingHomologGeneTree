@@ -1,1 +1,0 @@
-(ENSMALG00000006477__Monopterus_albus,ENSEBUG00000007094__Eptatretus_burgeri);

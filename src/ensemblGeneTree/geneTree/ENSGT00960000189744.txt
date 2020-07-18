@@ -1,0 +1,1 @@
+((((ENSSDAG00000009394__Spermophilus_dauricus,ENSSDAG00000024929__Spermophilus_dauricus),ENSMUGG00000026281__Meriones_unguiculatus),ENSCCNG00000019386__Castor_canadensis),ENSRROG00000037661__Rhinopithecus_roxellana);

@@ -1,0 +1,1 @@
+((ENSPTEG00000028855__Piliocolobus_tephrosceles,ENSTGEG00000020005__Theropithecus_gelada),ENSG00000285010__Homo_sapiens);

@@ -1,1 +1,0 @@
-((ENSAMXG00000035099__Astyanax_mexicanus,ENSAMXG00000034752__Astyanax_mexicanus),((ENSTGEG00000009543__Theropithecus_gelada,ENSPTEG00000008594__Piliocolobus_tephrosceles),((ENSMLEG00000043041__Mandrillus_leucophaeus,ENSCSAG00000006662__Chlorocebus_sabaeus),ENSNLEG00000034534__Nomascus_leucogenys)));

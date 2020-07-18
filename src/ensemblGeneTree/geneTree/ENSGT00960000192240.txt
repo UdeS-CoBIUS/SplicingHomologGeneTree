@@ -1,0 +1,1 @@
+(ENSNPEG00000011000__Nothoprocta_perdicaria,ENSAPLG00000023155__Anas_platyrhynchos_platyrhynchos);

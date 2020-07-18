@@ -1,0 +1,1 @@
+((ENSMUSG00000094112__Mus_musculus_strain_reference_(CL57BL6),ENSMSIG00000010914__Mus_spicilegus),MGP_CAROLIEiJ_G0019762__Mus_caroli_strain_CAROLI_EIJ);

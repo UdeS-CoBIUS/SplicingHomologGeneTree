@@ -1,1 +1,0 @@
-(FBgn0003520__Drosophila_melanogaster,ENSOANG00000031674__Ornithorhynchus_anatinus);

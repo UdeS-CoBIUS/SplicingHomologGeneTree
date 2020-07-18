@@ -1,0 +1,1 @@
+((((ENSACAG00000025204__Anolis_carolinensis,ENSACAG00000012128__Anolis_carolinensis),ENSGMOG00000014260__Gadus_morhua),((ENSCPUG00000009974__Calidris_pugnax,ENSNPEG00000005213__Nothoprocta_perdicaria),ENSFHEG00000012587__Fundulus_heteroclitus)),ENSPMAG00000005776__Petromyzon_marinus);

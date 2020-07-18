@@ -1,0 +1,1 @@
+((ENSSPAG00000018239__Stegastes_partitus,ENSPLAG00000018888__Poecilia_latipinna),(ENSSLDG00000001923__Seriola_lalandi_dorsalis,ENSSLDG00000007137__Seriola_lalandi_dorsalis));

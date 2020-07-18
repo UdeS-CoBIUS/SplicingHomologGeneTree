@@ -1,0 +1,2 @@
+>completeCluster_0
+YNL117W_mRNA	YIR031C_mRNA	C05E4.9a.2

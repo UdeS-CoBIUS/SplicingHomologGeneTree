@@ -1,0 +1,1 @@
+((((((FBgn0045442__Drosophila_melanogaster,FBgn0050018__Drosophila_melanogaster),FBgn0035847__Drosophila_melanogaster),FBgn0035789__Drosophila_melanogaster),FBgn0035132__Drosophila_melanogaster),WBGene00002252__Caenorhabditis_elegans_strain_N2),(ENSTRUG00000004048__Takifugu_rubripes,ENSTNIG00000010132__Tetraodon_nigroviridis));

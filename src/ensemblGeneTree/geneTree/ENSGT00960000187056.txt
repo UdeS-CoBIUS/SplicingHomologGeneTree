@@ -1,0 +1,1 @@
+(((((ENSPPRG00000015606__Panthera_pardus,ENSPPRG00000015614__Panthera_pardus),ENSPTIG00000007098__Panthera_tigris_altaica),ENSFCAG00000035000__Felis_catus),((ENSUMAG00000014595__Ursus_maritimus,ENSUAMG00000017125__Ursus_americanus),ENSNVIG00000020395__Neovison_vison)),(ENSTSYG00000026072__Carlito_syrichta,ENSPEMG00000024846__Peromyscus_maniculatus_bairdii));

@@ -1,0 +1,10 @@
+MACACAFASCICULARIS	macaca_fascicularis
+MACACANEMESTRINA	macaca_nemestrina
+PAPIOANUBIS	papio_anubis
+MANDRILLUSLEUCOPHAEUS	mandrillus_leucophaeus
+CERCOCEBUSATYS	cercocebus_atys
+THEROPITHECUSGELADA	theropithecus_gelada
+RHINOPITHECUSROXELLANA	rhinopithecus_roxellana
+NOMASCUSLEUCOGENYS	nomascus_leucogenys
+AOTUSNANCYMAAE	aotus_nancymaae
+CALLITHRIXJACCHUS	callithrix_jacchus

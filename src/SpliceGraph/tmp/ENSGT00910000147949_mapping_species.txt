@@ -1,0 +1,5 @@
+MACACAFASCICULARIS	macaca_fascicularis
+MANDRILLUSLEUCOPHAEUS	mandrillus_leucophaeus
+PANPANISCUS	pan_paniscus
+PANTROGLODYTES	pan_troglodytes
+GORILLAGORILLA	gorilla_gorilla

@@ -1,0 +1,5 @@
+MACACAFASCICULARIS	macaca_fascicularis
+SAIMIRIBOLIVIENSISBOLIVIENSIS	saimiri_boliviensis_boliviensis
+MARMOTAMARMOTAMARMOTA	marmota_marmota_marmota
+TURSIOPSTRUNCATUS	tursiops_truncatus
+PTEROPUSVAMPYRUS	pteropus_vampyrus

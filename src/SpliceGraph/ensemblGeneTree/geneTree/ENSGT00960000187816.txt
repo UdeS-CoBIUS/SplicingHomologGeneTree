@@ -1,0 +1,1 @@
+((ENSPTEG00000037627__Piliocolobus_tephrosceles,ENSPSMG00000000117__Prolemur_simus),(((ENSUAMG00000002123__Ursus_americanus,ENSUMAG00000003424__Ursus_maritimus),ENSNVIG00000010049__Neovison_vison),ENSFCAG00000035517__Felis_catus));

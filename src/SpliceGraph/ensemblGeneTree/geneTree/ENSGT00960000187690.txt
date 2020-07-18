@@ -1,0 +1,1 @@
+((((ENSNPEG00000013100__Nothoprocta_perdicaria,ENSCJPG00005010639__Coturnix_japonica),ENSCABG00000014635__Chelonoidis_abingdonii),ENSNSUG00000004571__Notechis_scutatus),((ENSNGAG00000022499__Nannospalax_galili,ENSDORG00000000162__Dipodomys_ordii),(ENSBBBG00000019782__Bison_bison_bison,ENSCAFG00020027406__Canis_lupus_dingo)));

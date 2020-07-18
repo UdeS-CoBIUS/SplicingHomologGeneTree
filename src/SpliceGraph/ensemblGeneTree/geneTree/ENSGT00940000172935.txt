@@ -1,0 +1,1 @@
+((ENSCJAG00000038472__Callithrix_jacchus,ENSPTEG00000037498__Piliocolobus_tephrosceles),(ENSAMEG00000011459__Ailuropoda_melanoleuca,ENSUAMG00000000270__Ursus_americanus));

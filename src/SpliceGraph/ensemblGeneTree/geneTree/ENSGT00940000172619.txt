@@ -1,0 +1,1 @@
+((ENSTGUG00000014142__Taeniopygia_guttata,ENSLCOG00000015235__Lepidothrix_coronata),ENSOANG00000022722__Ornithorhynchus_anatinus);

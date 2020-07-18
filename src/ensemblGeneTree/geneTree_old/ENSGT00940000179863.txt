@@ -1,1 +1,0 @@
-(((ENSMMOG00000004919__Mola_mola,ENSLBEG00000015320__Labrus_bergylta),ENSAMXG00000030303__Astyanax_mexicanus),ENSZALG00000002667__Zonotrichia_albicollis);

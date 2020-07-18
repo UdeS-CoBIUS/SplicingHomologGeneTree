@@ -1,0 +1,1 @@
+(((((ENSTTRG00000012570__Tursiops_truncatus,ENSSARG00000004331__Sorex_araneus),ENSPVAG00000007045__Pteropus_vampyrus),ENSOPRG00000016735__Ochotona_princeps),ENSTBEG00000011281__Tupaia_belangeri),((ENSPCAG00000001897__Procavia_capensis,ENSETEG00000007088__Echinops_telfairi),ENSCHOG00000003959__Choloepus_hoffmanni));

@@ -1,0 +1,1 @@
+((((ENSLSDG00000014925__Lonchura_striata_domestica,ENSSCAG00000008140__Serinus_canaria),ENSNMEG00000014957__Numida_meleagris),ENSMGAG00000016416__Meleagris_gallopavo),((ENSPTIG00000016933__Panthera_tigris_altaica,ENSPPRG00000011001__Panthera_pardus),(ENSCAFG00020024754__Canis_lupus_dingo,ENSMPUG00000001445__Mustela_putorius_furo)));

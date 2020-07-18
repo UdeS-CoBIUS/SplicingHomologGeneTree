@@ -1,0 +1,1 @@
+(((ENSONIG00000014005__Oreochromis_niloticus,ENSONIG00000005134__Oreochromis_niloticus),ENSONIG00000009124__Oreochromis_niloticus),ENSACLG00000006313__Astatotilapia_calliptera);

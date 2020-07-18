@@ -1,0 +1,1 @@
+(((ENSEASG00005004096__Equus_asinus_asinus,ENSECAG00000034523__Equus_caballus),ENSBTAG00000052838__Bos_taurus),ENSRROG00000043289__Rhinopithecus_roxellana);

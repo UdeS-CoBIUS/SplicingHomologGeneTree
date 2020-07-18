@@ -1,0 +1,1 @@
+((((ENSLSDG00000016176__Lonchura_striata_domestica,ENSLCOG00000014375__Lepidothrix_coronata),ENSMUNG00000007860__Melopsittacus_undulatus),ENSCPRG00005007250__Crocodylus_porosus),ENSGAGG00000010592__Gopherus_agassizii);

@@ -1,0 +1,1 @@
+(((ENSGAGG00000006610__Gopherus_agassizii,ENSCABG00000019860__Chelonoidis_abingdonii),ENSCPBG00000004440__Chrysemys_picta_bellii),ENSSLDG00000001436__Seriola_lalandi_dorsalis);

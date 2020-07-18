@@ -1,0 +1,1 @@
+((((ENSPNYG00000018666__Pundamilia_nyererei,ENSMZEG00005028622__Maylandia_zebra),ENSXCOG00000015176__Xiphophorus_couchianus),ENSHCOG00000017049__Hippocampus_comes),((((ENSMUGG00000002829__Meriones_unguiculatus,ENSMSIG00000004185__Mus_spicilegus),ENSODEG00000006442__Octodon_degus),ENSEASG00005017166__Equus_asinus_asinus),ENSDNVG00000002235__Dromaius_novaehollandiae));

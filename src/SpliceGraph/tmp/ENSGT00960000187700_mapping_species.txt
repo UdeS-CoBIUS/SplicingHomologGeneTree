@@ -1,0 +1,5 @@
+CEBUSCAPUCINUS	cebus_capucinus
+SAIMIRIBOLIVIENSIS	saimiri_boliviensis
+PANPANISCUS	pan_paniscus
+PANTROGLODYTES	pan_troglodytes
+UROCITELLUSPARRYII	urocitellus_parryii

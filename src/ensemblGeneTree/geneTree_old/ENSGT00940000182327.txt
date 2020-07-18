@@ -1,1 +1,0 @@
-(ENSSFOG00015009457__Scleropages_formosus,ENSHCOG00000020833__Hippocampus_comes);

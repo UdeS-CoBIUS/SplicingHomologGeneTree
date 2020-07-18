@@ -1,0 +1,1 @@
+((ENSTGUG00000016396__Taeniopygia_guttata,ENSLCRG00005016533__Larimichthys_crocea),ENSCMIG00000003301__Callorhinchus_milii);

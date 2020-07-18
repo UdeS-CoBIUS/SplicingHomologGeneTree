@@ -1,0 +1,1 @@
+((((ENSAMXG00000037682__Astyanax_mexicanus,ENSMAMG00000022770__Mastacembelus_armatus),ENSAPEG00000000777__Amphiprion_percula),(ENSDARG00000077571__Danio_rerio,ENSAMXG00000035813__Astyanax_mexicanus)),ENSSFOG00015023085__Scleropages_formosus);

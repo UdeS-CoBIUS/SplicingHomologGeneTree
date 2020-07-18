@@ -1,0 +1,4 @@
+>cluster_0
+Y76B12C.1b.1
+>cluster_1
+C23H5.7.1	Y76B12C.1a.1

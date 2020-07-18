@@ -1,0 +1,1 @@
+(((ENSARWG00000008967__Apteryx_rowi,ENSAOWG00000011652__Apteryx_owenii),((ENSJHYG00000015058__Junco_hyemalis,ENSZALG00000004049__Zonotrichia_albicollis),ENSCCEG00000003194__Cyanistes_caeruleus)),ENSSDAG00000022124__Spermophilus_dauricus);

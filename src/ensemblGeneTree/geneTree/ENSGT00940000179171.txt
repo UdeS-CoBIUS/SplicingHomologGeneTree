@@ -1,0 +1,1 @@
+(((ENSPKIG00000013792__Paramormyrops_kingsleyae,ENSPNAG00000005646__Pygocentrus_nattereri),(ENSKMAG00000015463__Kryptolebias_marmoratus,ENSPKIG00000005830__Paramormyrops_kingsleyae)),ENSGALG00000052957__Gallus_gallus);

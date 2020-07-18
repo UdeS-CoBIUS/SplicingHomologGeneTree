@@ -1,0 +1,1 @@
+(((ENSCLAG00000000224__Chinchilla_lanigera,ENSCLAG00000000485__Chinchilla_lanigera),ENSPEMG00000027071__Peromyscus_maniculatus_bairdii),(ENSPTEG00000023037__Piliocolobus_tephrosceles,ENSSBOG00000027198__Saimiri_boliviensis_boliviensis));

@@ -1,1 +1,0 @@
-(ENSANAG00000023577__Aotus_nancymaae,ENSCJAG00000039046__Callithrix_jacchus);

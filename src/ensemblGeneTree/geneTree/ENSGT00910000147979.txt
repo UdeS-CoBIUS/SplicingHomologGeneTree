@@ -1,0 +1,1 @@
+(((ENSPTRG00000044946__Pan_troglodytes,ENSPPAG00000011017__Pan_paniscus),ENSPSMG00000006489__Prolemur_simus),ENSVPAG00000005005__Vicugna_pacos);

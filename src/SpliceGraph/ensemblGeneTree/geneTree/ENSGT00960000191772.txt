@@ -1,0 +1,1 @@
+(ENSSDAG00000017638__Spermophilus_dauricus,ENSOANG00000031306__Ornithorhynchus_anatinus);

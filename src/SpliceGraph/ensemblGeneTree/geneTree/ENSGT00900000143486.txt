@@ -1,0 +1,1 @@
+(((((((ENSMSIG00000003710__Mus_spicilegus,ENSMSIG00000017985__Mus_spicilegus),ENSMUGG00000001749__Meriones_unguiculatus),ENSCGRG00001000121__Cricetulus_griseus_CHOK1GS_HDv1),ENSCCNG00000014742__Castor_canadensis),ENSNVIG00000020639__Neovison_vison),(ENSAOWG00000000243__Apteryx_owenii,ENSGAGG00000002541__Gopherus_agassizii)),ENSCSEG00000014803__Cynoglossus_semilaevis);

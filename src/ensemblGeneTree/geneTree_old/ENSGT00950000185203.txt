@@ -1,1 +1,0 @@
-((ENSCAFG00020023574__Canis_lupus_dingo,ENSMPUG00000019084__Mustela_putorius_furo),ENSMGAG00000003613__Meleagris_gallopavo);

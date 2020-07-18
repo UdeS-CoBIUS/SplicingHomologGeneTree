@@ -1,0 +1,1 @@
+(((ENSABRG00000001964__Anser_brachyrhynchus,ENSAPLG00000001956__Anas_platyrhynchos_platyrhynchos),ENSPVIG00000006835__Pogona_vitticeps),(((ENSDNVG00000002450__Dromaius_novaehollandiae,ENSCJPG00005010159__Coturnix_japonica),ENSPSIG00000014021__Pelodiscus_sinensis),ENSPVIG00000006831__Pogona_vitticeps));

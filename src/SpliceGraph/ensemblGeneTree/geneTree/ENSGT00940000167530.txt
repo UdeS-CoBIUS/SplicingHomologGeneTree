@@ -1,0 +1,1 @@
+((((ENSCPGG00000013037__Calidris_pygmaea,ENSJHYG00000009561__Junco_hyemalis),ENSCPBG00000004090__Chrysemys_picta_bellii),(ENSNSUG00000011283__Notechis_scutatus,ENSNSUG00000011307__Notechis_scutatus)),(((ENSVPAG00000001174__Vicugna_pacos,ENSBTAG00000003001__Bos_taurus),(ENSFCAG00000035471__Felis_catus,ENSPPRG00000002571__Panthera_pardus)),ENSODEG00000007062__Octodon_degus));

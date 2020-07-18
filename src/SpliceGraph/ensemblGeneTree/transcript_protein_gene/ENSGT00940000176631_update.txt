@@ -1,0 +1,2 @@
+YKR010C_mRNA	YKR010C	Saccharomyces_cerevisiae_strain_S288C
+YJL076W_mRNA	YJL076W	Saccharomyces_cerevisiae_strain_S288C

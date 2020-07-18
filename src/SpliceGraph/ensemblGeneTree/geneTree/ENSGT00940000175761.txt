@@ -1,0 +1,1 @@
+(((ENSPREG00000001669__Poecilia_reticulata,ENSPMEG00000022227__Poecilia_mexicana),ENSAPOG00000016513__Acanthochromis_polyacanthus),ENSTRUG00000025014__Takifugu_rubripes);

@@ -1,0 +1,1 @@
+(((ENSPKIG00000023818__Paramormyrops_kingsleyae,ENSPKIG00000025192__Paramormyrops_kingsleyae),ENSAPEG00000006988__Amphiprion_percula),ENSNSUG00000000810__Notechis_scutatus);

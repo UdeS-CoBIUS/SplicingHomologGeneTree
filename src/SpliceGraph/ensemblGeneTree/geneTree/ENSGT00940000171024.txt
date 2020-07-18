@@ -1,0 +1,1 @@
+((ENSEEUG00000009306__Erinaceus_europaeus,ENSMMUG00000046309__Macaca_mulatta),ENSTGUG00000004651__Taeniopygia_guttata);

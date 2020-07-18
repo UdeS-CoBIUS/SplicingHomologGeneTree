@@ -1,1 +1,0 @@
-((((ENSRBIG00000034392__Rhinopithecus_bieti,ENSRBIG00000027699__Rhinopithecus_bieti),ENSRROG00000032845__Rhinopithecus_roxellana),ENSANAG00000036089__Aotus_nancymaae),ENSCAFG00020003473__Canis_lupus_dingo);

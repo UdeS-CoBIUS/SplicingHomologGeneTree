@@ -1,1 +1,0 @@
-((ENSNLEG00000028160__Nomascus_leucogenys,ENSCPOG00000030198__Cavia_porcellus),ENSEASG00005021863__Equus_asinus_asinus);

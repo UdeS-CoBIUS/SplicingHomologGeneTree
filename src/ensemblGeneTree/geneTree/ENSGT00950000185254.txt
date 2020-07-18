@@ -1,0 +1,1 @@
+((ENSECAG00000037177__Equus_caballus,ENSECAG00000039639__Equus_caballus),ENSCANG00000008453__Colobus_angolensis_palliatus);

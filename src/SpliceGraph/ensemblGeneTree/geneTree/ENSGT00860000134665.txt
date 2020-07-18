@@ -1,0 +1,1 @@
+(((ENSPPAG00000000610__Pan_paniscus,ENSPTRG00000049844__Pan_troglodytes),ENSPPYG00000000879__Pongo_abelii),(((ENSMMUG00000010075__Macaca_mulatta,ENSMFAG00000020574__Macaca_fascicularis),(ENSCATG00000017037__Cercocebus_atys,ENSMLEG00000027133__Mandrillus_leucophaeus)),(ENSRROG00000013259__Rhinopithecus_roxellana,ENSCANG00000001632__Colobus_angolensis_palliatus)));

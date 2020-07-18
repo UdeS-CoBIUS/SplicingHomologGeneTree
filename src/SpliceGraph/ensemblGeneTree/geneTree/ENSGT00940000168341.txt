@@ -1,0 +1,1 @@
+((((ENSPPYG00000016750__Pongo_abelii,ENSOPRG00000009267__Ochotona_princeps),ENSPVAG00000006964__Pteropus_vampyrus),ENSETEG00000019825__Echinops_telfairi),ENSMEUG00000010682__Notamacropus_eugenii);

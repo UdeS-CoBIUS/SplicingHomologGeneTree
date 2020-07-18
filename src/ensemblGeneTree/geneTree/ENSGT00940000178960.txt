@@ -1,0 +1,1 @@
+(((ENSXMAG00000025358__Xiphophorus_maculatus,ENSGAFG00000013323__Gambusia_affinis),ENSACLG00000021431__Astatotilapia_calliptera),ENSMAMG00000021315__Mastacembelus_armatus);

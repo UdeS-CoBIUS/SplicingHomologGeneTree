@@ -1,1 +1,0 @@
-((ENSSCAG00000001278__Serinus_canaria,ENSCJPG00005002317__Coturnix_japonica),ENSDNVG00000019062__Dromaius_novaehollandiae);

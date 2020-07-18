@@ -1,0 +1,1 @@
+((ENSAPEG00000020483__Amphiprion_percula,ENSAOCG00000019905__Amphiprion_ocellaris),ENSAPOG00000012737__Acanthochromis_polyacanthus);

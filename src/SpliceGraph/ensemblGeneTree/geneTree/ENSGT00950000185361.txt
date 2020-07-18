@@ -1,0 +1,1 @@
+((ENSECAG00000040527__Equus_caballus,ENSNLEG00000036067__Nomascus_leucogenys),ENSOANG00000030849__Ornithorhynchus_anatinus);

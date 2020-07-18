@@ -1,0 +1,12 @@
+>0
+Y39E4B.13.1: ['no event', 35, 0]
+Y57G11C.1130.1: ['no event', 35, 0]
+>1
+Y39E4B.13.1: [['internal gap < 30', 191, 6], 214, 0]
+Y57G11C.1130.1: [['internal gap < 30', 55, 12], 208, 0]
+>2
+Y39E4B.13.1: [['internal gap < 30', 90, 9], 138, 2]
+Y57G11C.1130.1: [['internal gap < 30', 79, 6], 141, 2]
+>3
+Y39E4B.13.1: ['no event', 17, 0]
+Y57G11C.1130.1: ['exon skipping', 0, 0]

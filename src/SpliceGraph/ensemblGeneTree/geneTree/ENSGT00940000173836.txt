@@ -1,0 +1,1 @@
+((ENSPSIG00000010304__Pelodiscus_sinensis,ENSPSIG00000001344__Pelodiscus_sinensis),ENSAMXG00000043979__Astyanax_mexicanus_Astyanax_mexicanus-2.0);

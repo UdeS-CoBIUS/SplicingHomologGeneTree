@@ -1,0 +1,1 @@
+(((ENSPTRG00000043771__Pan_troglodytes,ENSNLEG00000012768__Nomascus_leucogenys),ENSPTEG00000031266__Piliocolobus_tephrosceles),(ENSBMUG00000020342__Bos_mutus,ENSBBBG00000014782__Bison_bison_bison));

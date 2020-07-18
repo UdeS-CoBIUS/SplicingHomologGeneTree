@@ -1,0 +1,1 @@
+(((((ENSRROG00000030774__Rhinopithecus_roxellana,ENSRBIG00000040044__Rhinopithecus_bieti),(ENSPTRG00000049709__Pan_troglodytes,ENSGGOG00000041887__Gorilla_gorilla)),ENSPTRG00000052687__Pan_troglodytes),ENSANAG00000032540__Aotus_nancymaae),ENSFCAG00000039108__Felis_catus);

@@ -1,0 +1,1 @@
+((((ENSORLG00000028493__Oryzias_latipes_ASM223467v1,ENSORLG00020002006__Oryzias_latipes_ASM223471v1),ENSLBEG00000005873__Labrus_bergylta),ENSAMXG00000030156__Astyanax_mexicanus),ENSLOCG00000018123__Lepisosteus_oculatus);

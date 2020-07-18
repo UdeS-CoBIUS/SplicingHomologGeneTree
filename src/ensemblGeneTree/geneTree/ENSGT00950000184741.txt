@@ -1,0 +1,1 @@
+(((ENSPTIG00000006615__Panthera_tigris_altaica,ENSNVIG00000007593__Neovison_vison),ENSBMUG00000020299__Bos_mutus),(ENSZALG00000016902__Zonotrichia_albicollis,ENSCPBG00000008769__Chrysemys_picta_bellii));

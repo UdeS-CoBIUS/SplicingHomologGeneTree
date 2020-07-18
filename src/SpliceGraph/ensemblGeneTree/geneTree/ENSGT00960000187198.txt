@@ -1,0 +1,1 @@
+((((ENSFDAG00000012946__Fukomys_damarensis,ENSFDAG00000004248__Fukomys_damarensis),ENSOCUG00000021173__Oryctolagus_cuniculus),ENSOGAG00000025542__Otolemur_garnettii),(ENSDNOG00000045095__Dasypus_novemcinctus,ENSLAFG00000032363__Loxodonta_africana));

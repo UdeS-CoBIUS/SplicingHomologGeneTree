@@ -1,0 +1,1 @@
+((FBgn0032479__Drosophila_melanogaster,WBGene00008656__Caenorhabditis_elegans_strain_N2),(((ENSPSIG00000001822__Pelodiscus_sinensis,ENSCPBG00000027225__Chrysemys_picta_bellii),ENSCPRG00005014234__Crocodylus_porosus),(ENSPCIG00000020382__Phascolarctos_cinereus,ENSMODG00000027511__Monodelphis_domestica)));

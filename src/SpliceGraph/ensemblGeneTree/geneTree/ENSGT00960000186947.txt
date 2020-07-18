@@ -1,0 +1,1 @@
+((((((ENSATEG00000010199__Anabas_testudineus,ENSATEG00000010216__Anabas_testudineus),ENSMAMG00000004391__Mastacembelus_armatus),ENSLBEG00000002126__Labrus_bergylta),ENSCSEG00000006313__Cynoglossus_semilaevis),ENSACIG00000014013__Amphilophus_citrinellus),(ENSIPUG00000008584__Ictalurus_punctatus,ENSIPUG00000020122__Ictalurus_punctatus));

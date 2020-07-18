@@ -1,0 +1,8 @@
+FICEDULAALBICOLLIS	ficedula_albicollis
+NUMIDAMELEAGRIS	numida_meleagris
+ANASPLATYRHYNCHOSPLATYRHYNCHOS	anas_platyrhynchos_platyrhynchos
+PARUSMAJOR	parus_major
+GORILLAGORILLA	gorilla_gorilla
+PILIOCOLOBUSTEPHROSCELES	piliocolobus_tephrosceles
+PROPITHECUSCOQUERELI	propithecus_coquereli
+MARMOTAMARMOTAMARMOTA	marmota_marmota_marmota

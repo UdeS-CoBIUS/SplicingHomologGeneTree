@@ -1,0 +1,1 @@
+((ENSAPEG00000001424__Amphiprion_percula,ENSORLG00015022253__Oryzias_latipes_ASM223469v1),ENSLBEG00000013017__Labrus_bergylta);

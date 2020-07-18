@@ -1,1 +1,0 @@
-((ENSAPLG00000024916__Anas_platyrhynchos_platyrhynchos,ENSLSDG00000001328__Lonchura_striata_domestica),ENSNSUG00000000339__Notechis_scutatus);

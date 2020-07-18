@@ -1,0 +1,1 @@
+((ENSOANG00000031538__Ornithorhynchus_anatinus,ENSMLUG00000004342__Myotis_lucifugus),(ENSCABG00000023210__Chelonoidis_abingdonii,ENSGAGG00000022064__Gopherus_agassizii));

@@ -1,0 +1,7 @@
+AMPHIPRIONOCELLARIS	amphiprion_ocellaris
+PERIOPHTHALMUSMAGNUSPINNATUS	periophthalmus_magnuspinnatus
+ASTYANAXMEXICANUS	astyanax_mexicanus
+GALLUSGALLUS	gallus_gallus
+GALLUSGALLUS	gallus_gallus
+GALLUSGALLUS	gallus_gallus
+COTURNIXJAPONICA	coturnix_japonica

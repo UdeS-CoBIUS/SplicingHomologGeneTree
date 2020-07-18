@@ -1,0 +1,1 @@
+((((ENSPFOG00000024499__Poecilia_formosa,ENSMZEG00005023454__Maylandia_zebra),ENSPFOG00000021939__Poecilia_formosa),((ENSPFOG00000023714__Poecilia_formosa,ENSPFOG00000024396__Poecilia_formosa),(ENSPFOG00000022929__Poecilia_formosa,ENSPFOG00000022067__Poecilia_formosa))),ENSDARG00000095891__Danio_rerio);

@@ -1,0 +1,48 @@
+>0
+FBtr0077076: ['exon skipping', 0, 0]
+FBtr0077074: ['exon skipping', 0, 0]
+FBtr0077075: ['exon skipping', 0, 0]
+C26D10.1.1: ['no event', 77, 0]
+YGL097W_mRNA: ['exon skipping', 0, 0]
+>1
+FBtr0077076: ['exon skipping', 0, 0]
+FBtr0077074: ['exon skipping', 0, 0]
+FBtr0077075: ['exon skipping', 0, 0]
+C26D10.1.1: ['no event', 318, 0]
+YGL097W_mRNA: ['exon skipping', 0, 0]
+>2
+FBtr0077076: ['exon skipping', 0, 0]
+FBtr0077074: ['exon skipping', 0, 0]
+FBtr0077075: ['exon skipping', 0, 0]
+C26D10.1.1: ['no event', 337, 1]
+YGL097W_mRNA: ['exon skipping', 0, 0]
+>3
+FBtr0077076: ['5event', ['internal gap >= 30', 646, 771], 663, 0]
+FBtr0077074: ['5event', ['internal gap >= 30', 646, 771], 663, 0]
+FBtr0077075: ['5event', ['internal gap >= 30', 646, 771], 663, 0]
+C26D10.1.1: ['3event', 298, 0]
+YGL097W_mRNA: ['5event', ['internal gap >= 30', 536, 39], 1395, 0]
+>4
+FBtr0077076: ['no event', 976, 1]
+FBtr0077074: ['no event', 976, 1]
+FBtr0077075: ['no event', 976, 1]
+C26D10.1.1: ['exon skipping', 0, 0]
+YGL097W_mRNA: ['exon skipping', 0, 0]
+>5
+FBtr0077076: ['exon skipping', 0, 0]
+FBtr0077074: ['exon skipping', 0, 0]
+FBtr0077075: ['exon skipping', 0, 0]
+C26D10.1.1: ['5event', 571, 1]
+YGL097W_mRNA: ['exon skipping', 0, 0]
+>6
+FBtr0077076: ['exon skipping', 0, 0]
+FBtr0077074: ['exon skipping', 0, 0]
+FBtr0077075: ['exon skipping', 0, 0]
+C26D10.1.1: ['no event', 107, 0]
+YGL097W_mRNA: ['exon skipping', 0, 0]
+>7
+FBtr0077076: ['exon skipping', 0, 0]
+FBtr0077074: ['exon skipping', 0, 0]
+FBtr0077075: ['exon skipping', 0, 0]
+C26D10.1.1: ['exon skipping', 0, 0]
+YGL097W_mRNA: ['5event', 52, 1]

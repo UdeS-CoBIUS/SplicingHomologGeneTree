@@ -1,0 +1,1 @@
+((((ENSOARG00000013746__Ovis_aries,ENSCHIG00000021830__Capra_hircus),ENSBTAG00000044113__Bos_taurus),ENSCAFG00000032045__Canis_lupus_familiaris),ENSACAG00000025465__Anolis_carolinensis);

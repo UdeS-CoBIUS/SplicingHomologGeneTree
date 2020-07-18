@@ -1,0 +1,1 @@
+((ENSUPAG00010005527__Urocitellus_parryii,ENSMNEG00000038436__Macaca_nemestrina),ENSVVUG00000025914__Vulpes_vulpes);

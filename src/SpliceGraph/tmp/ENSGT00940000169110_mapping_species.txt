@@ -1,0 +1,5 @@
+JACULUSJACULUS	jaculus_jaculus
+MUSSPICILEGUS	mus_spicilegus
+TURSIOPSTRUNCATUS	tursiops_truncatus
+PROCAVIACAPENSIS	procavia_capensis
+DASYPUSNOVEMCINCTUS	dasypus_novemcinctus

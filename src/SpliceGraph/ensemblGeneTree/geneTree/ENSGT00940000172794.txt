@@ -1,0 +1,1 @@
+(((ENSXMAG00000024247__Xiphophorus_maculatus,ENSXMAG00000027429__Xiphophorus_maculatus),ENSAPEG00000006757__Amphiprion_percula),(ENSPCAG00000009174__Procavia_capensis,ENSSSCG00000021434__Sus_scrofa));

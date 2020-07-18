@@ -1,1 +1,0 @@
-((ENSZALG00000010225__Zonotrichia_albicollis,ENSAMXG00000042343__Astyanax_mexicanus),ENSEBUG00000010270__Eptatretus_burgeri);

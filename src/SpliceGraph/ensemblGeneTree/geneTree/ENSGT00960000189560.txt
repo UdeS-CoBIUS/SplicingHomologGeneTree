@@ -1,0 +1,1 @@
+((((ENSCCEG00000006407__Cyanistes_caeruleus,ENSJHYG00000009415__Junco_hyemalis),ENSAPLG00000024297__Anas_platyrhynchos_platyrhynchos),ENSPVIG00000011658__Pogona_vitticeps),(ENSCANG00000028054__Colobus_angolensis_palliatus,ENSMSIG00000015717__Mus_spicilegus));

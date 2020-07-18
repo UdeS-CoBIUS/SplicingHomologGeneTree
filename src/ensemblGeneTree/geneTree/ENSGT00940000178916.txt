@@ -1,0 +1,1 @@
+(((ENSAMXG00000032139__Astyanax_mexicanus,ENSAMXG00000041602__Astyanax_mexicanus),ENSSDUG00000023537__Seriola_dumerili),ENSCABG00000003506__Chelonoidis_abingdonii);

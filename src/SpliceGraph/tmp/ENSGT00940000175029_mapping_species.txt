@@ -1,0 +1,2 @@
+TETRAODONNIGROVIRIDIS	tetraodon_nigroviridis
+ASTYANAXMEXICANUS	astyanax_mexicanus

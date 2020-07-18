@@ -1,0 +1,1 @@
+(((ENSAHAG00000005997__Apteryx_haastii,ENSAOWG00000008070__Apteryx_owenii),((ENSPMJG00000001949__Parus_major,ENSSCAG00000000599__Serinus_canaria),ENSCPUG00000013034__Calidris_pugnax)),ENSNSUG00000020301__Notechis_scutatus);

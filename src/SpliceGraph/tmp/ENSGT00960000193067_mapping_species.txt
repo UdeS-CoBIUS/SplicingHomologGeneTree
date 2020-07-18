@@ -1,0 +1,2 @@
+LONCHURASTRIATADOMESTICA	lonchura_striata_domestica
+MELOPSITTACUSUNDULATUS	melopsittacus_undulatus

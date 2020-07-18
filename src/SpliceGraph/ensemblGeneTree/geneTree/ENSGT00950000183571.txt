@@ -1,0 +1,1 @@
+(((ENSAMXG00000041253__Astyanax_mexicanus,ENSIPUG00000024847__Ictalurus_punctatus),((ENSSHAG00000013347__Sarcophilus_harrisii,ENSPPYG00000005402__Pongo_abelii),(ENSMAMG00000021365__Mastacembelus_armatus,ENSSHAG00000006822__Sarcophilus_harrisii))),ENSEBUG00000007566__Eptatretus_burgeri);

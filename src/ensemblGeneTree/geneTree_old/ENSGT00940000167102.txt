@@ -1,1 +1,0 @@
-((((ENSPPRG00000020369__Panthera_pardus,ENSBBBG00000020111__Bison_bison_bison),ENSSARG00000009971__Sorex_araneus),(((ENSODEG00000009942__Octodon_degus,ENSCPOG00000038446__Cavia_porcellus),ENSMUGG00000004582__Meriones_unguiculatus),ENSMICG00000045362__Microcebus_murinus)),ENSETEG00000004580__Echinops_telfairi);

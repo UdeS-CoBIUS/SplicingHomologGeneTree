@@ -1,0 +1,1 @@
+((((ENSSPAG00000022065__Stegastes_partitus,ENSNBRG00000009044__Neolamprologus_brichardi),(ENSXCOG00000012150__Xiphophorus_couchianus,ENSPLAG00000002279__Poecilia_latipinna)),ENSMMOG00000020290__Mola_mola),ENSCSEG00000018286__Cynoglossus_semilaevis);

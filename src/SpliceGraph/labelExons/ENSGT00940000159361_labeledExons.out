@@ -1,0 +1,24 @@
+>0
+ENSCMIT00000012774: ['exon skipping', 0, 0]
+ENSCMIT00000012781: ['no event', 557, 0]
+>1
+ENSCMIT00000012774: ['exon skipping', 0, 0]
+ENSCMIT00000012781: ['no event', 284, 0]
+>2
+ENSCMIT00000012774: ['exon skipping', 0, 0]
+ENSCMIT00000012781: ['no event', 50, 0]
+>3
+ENSCMIT00000012774: ['5event', 104, 0]
+ENSCMIT00000012781: ['exon skipping', 0, 0]
+>4
+ENSCMIT00000012774: ['no event', 168, 0]
+ENSCMIT00000012781: ['exon skipping', 0, 0]
+>5
+ENSCMIT00000012774: ['no event', 155, 1]
+ENSCMIT00000012781: ['exon skipping', 0, 0]
+>6
+ENSCMIT00000012774: ['no event', 158, 1]
+ENSCMIT00000012781: ['exon skipping', 0, 0]
+>7
+ENSCMIT00000012774: ['no event', 148, 1]
+ENSCMIT00000012781: ['exon skipping', 0, 0]

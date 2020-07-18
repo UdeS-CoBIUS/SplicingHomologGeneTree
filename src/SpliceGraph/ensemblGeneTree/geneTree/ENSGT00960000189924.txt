@@ -1,0 +1,1 @@
+((ENSNVIG00000013324__Neovison_vison,ENSOANG00000032021__Ornithorhynchus_anatinus),(ENSCPGG00000010379__Calidris_pygmaea,ENSCPGG00000010370__Calidris_pygmaea));

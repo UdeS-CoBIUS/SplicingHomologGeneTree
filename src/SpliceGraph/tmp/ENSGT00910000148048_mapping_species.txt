@@ -1,0 +1,5 @@
+THEROPITHECUSGELADA	theropithecus_gelada
+PAPIOANUBIS	papio_anubis
+CERCOCEBUSATYS	cercocebus_atys
+MACACANEMESTRINA	macaca_nemestrina
+SAIMIRIBOLIVIENSISBOLIVIENSIS	saimiri_boliviensis_boliviensis

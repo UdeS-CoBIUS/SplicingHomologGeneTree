@@ -1,0 +1,1 @@
+((((ENSPFOG00000024175__Poecilia_formosa,ENSGAFG00000018700__Gambusia_affinis),ENSGMOG00000014264__Gadus_morhua),ENSLOCG00000001232__Lepisosteus_oculatus),(ENSPSIG00000004388__Pelodiscus_sinensis,ENSACAG00000014946__Anolis_carolinensis));

@@ -1,0 +1,6 @@
+POECILIAMEXICANA	poecilia_mexicana
+POECILIALATIPINNA	poecilia_latipinna
+XIPHOPHORUSCOUCHIANUS	xiphophorus_couchianus
+XIPHOPHORUSMACULATUS	xiphophorus_maculatus
+POECILIARETICULATA	poecilia_reticulata
+GAMBUSIAAFFINIS	gambusia_affinis

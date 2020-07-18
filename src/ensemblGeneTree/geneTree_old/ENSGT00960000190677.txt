@@ -1,1 +1,0 @@
-((ENSLSDG00000001578__Lonchura_striata_domestica,ENSLCOG00000006916__Lepidothrix_coronata),ENSPMJG00000018540__Parus_major);

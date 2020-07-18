@@ -1,1 +1,0 @@
-(((((((ENSCCEG00000017965__Cyanistes_caeruleus,ENSPMJG00000008682__Parus_major),ENSFALG00000010080__Ficedula_albicollis),ENSMVIG00005006480__Manacus_vitellinus),ENSABRG00000023120__Anser_brachyrhynchus),ENSPSIG00000011235__Pelodiscus_sinensis),ENSPVIG00000008351__Pogona_vitticeps),ENSLACG00000022139__Latimeria_chalumnae);

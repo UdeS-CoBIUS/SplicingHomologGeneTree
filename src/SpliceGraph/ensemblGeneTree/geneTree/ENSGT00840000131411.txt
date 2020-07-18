@@ -1,0 +1,1 @@
+(ENSECAG00000035819__Equus_caballus,ENSTGUG00000007607__Taeniopygia_guttata);

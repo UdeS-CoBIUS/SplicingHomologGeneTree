@@ -1,0 +1,3 @@
+CHELONOIDISABINGDONII	chelonoidis_abingdonii
+SPHENODONPUNCTATUS	sphenodon_punctatus
+ORNITHORHYNCHUSANATINUS	ornithorhynchus_anatinus

@@ -1,0 +1,1 @@
+(((((ENSCPUG00000004187__Calidris_pugnax,ENSCPGG00000000931__Calidris_pygmaea),ENSMUNG00000003965__Melopsittacus_undulatus),((ENSPMJG00000008095__Parus_major,ENSCCEG00000013850__Cyanistes_caeruleus),ENSLSDG00000017487__Lonchura_striata_domestica)),ENSNMEG00000013804__Numida_meleagris),ENSAHAG00000002604__Apteryx_haastii);

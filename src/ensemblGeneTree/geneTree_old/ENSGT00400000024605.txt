@@ -1,1 +1,0 @@
-((ENSPPYG00000011257__Pongo_abelii,ENSTBEG00000006659__Tupaia_belangeri),(ENSTTRG00000013075__Tursiops_truncatus,ENSPVAG00000014319__Pteropus_vampyrus));

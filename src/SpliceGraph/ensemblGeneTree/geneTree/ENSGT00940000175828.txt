@@ -1,0 +1,1 @@
+(((((ENSXMAG00000027776__Xiphophorus_maculatus,ENSXMAG00000028634__Xiphophorus_maculatus),(ENSXMAG00000021992__Xiphophorus_maculatus,ENSXCOG00000012092__Xiphophorus_couchianus)),ENSPLAG00000016461__Poecilia_latipinna),ENSFHEG00000009296__Fundulus_heteroclitus),ENSAPEG00000018099__Amphiprion_percula);

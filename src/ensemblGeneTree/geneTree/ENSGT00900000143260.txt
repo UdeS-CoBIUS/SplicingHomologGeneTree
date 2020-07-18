@@ -1,0 +1,1 @@
+(((((ENSHGLG00100018452__Heterocephalus_glaber_HetGla_1.0,ENSHGLG00000017454__Heterocephalus_glaber_HetGla_female_1.0),ENSFDAG00000011929__Fukomys_damarensis),ENSCPOG00000006693__Cavia_porcellus),ENSCLAG00000009949__Chinchilla_lanigera),ENSOCUG00000031226__Oryctolagus_cuniculus);

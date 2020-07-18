@@ -1,0 +1,1 @@
+((ENSPFOG00000020215__Poecilia_formosa,ENSPFOG00000019909__Poecilia_formosa),((((ENSGACG00000001808__Gasterosteus_aculeatus,ENSGACG00000020809__Gasterosteus_aculeatus),ENSGACG00000020818__Gasterosteus_aculeatus),ENSGACG00000002617__Gasterosteus_aculeatus),ENSGACG00000003121__Gasterosteus_aculeatus));

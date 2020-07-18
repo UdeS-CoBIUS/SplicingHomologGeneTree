@@ -1,0 +1,1 @@
+((ENSTNIG00000002292__Tetraodon_nigroviridis,ENSPMEG00000008909__Poecilia_mexicana),ENSOANG00000005510__Ornithorhynchus_anatinus);

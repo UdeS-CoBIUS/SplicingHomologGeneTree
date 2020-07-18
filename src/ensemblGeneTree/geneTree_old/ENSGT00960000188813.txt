@@ -1,1 +1,0 @@
-(ENSLOCG00000001225__Lepisosteus_oculatus,ENSFALG00000014373__Ficedula_albicollis);

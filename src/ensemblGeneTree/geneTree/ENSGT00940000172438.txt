@@ -1,0 +1,1 @@
+((((ENSPTEG00000009792__Piliocolobus_tephrosceles,ENSPCOG00000021547__Propithecus_coquereli),ENSODEG00000009405__Octodon_degus),ENSVVUG00000010633__Vulpes_vulpes),ENSPCIG00000031044__Phascolarctos_cinereus);

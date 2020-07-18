@@ -1,0 +1,1 @@
+(((ENSMMUG00000044042__Macaca_mulatta,ENSMLEG00000030548__Mandrillus_leucophaeus),(ENSRBIG00000027445__Rhinopithecus_bieti,ENSCANG00000023237__Colobus_angolensis_palliatus)),ENSNLEG00000029120__Nomascus_leucogenys);

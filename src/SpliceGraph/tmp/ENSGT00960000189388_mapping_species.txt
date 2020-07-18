@@ -1,0 +1,11 @@
+APTERYXROWI	apteryx_rowi
+APTERYXOWENII	apteryx_owenii
+APTERYXHAASTII	apteryx_haastii
+NOTHOPROCTAPERDICARIA	nothoprocta_perdicaria
+ZONOTRICHIAALBICOLLIS	zonotrichia_albicollis
+JUNCOHYEMALIS	junco_hyemalis
+CALIDRISPUGNAX	calidris_pugnax
+MELOPSITTACUSUNDULATUS	melopsittacus_undulatus
+COTURNIXJAPONICA	coturnix_japonica
+GOPHERUSAGASSIZII	gopherus_agassizii
+CHELONOIDISABINGDONII	chelonoidis_abingdonii

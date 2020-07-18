@@ -1,0 +1,1 @@
+((((ENSCCAG00000029713__Cebus_capucinus_imitator,ENSANAG00000038495__Aotus_nancymaae),((ENSCANG00000000811__Colobus_angolensis_palliatus,ENSPTEG00000039527__Piliocolobus_tephrosceles),((ENSTGEG00000013744__Theropithecus_gelada,ENSMMUG00000038522__Macaca_mulatta),ENSPANG00000035672__Papio_anubis))),ENSPSMG00000025563__Prolemur_simus),ENSSSCG00000039828__Sus_scrofa);

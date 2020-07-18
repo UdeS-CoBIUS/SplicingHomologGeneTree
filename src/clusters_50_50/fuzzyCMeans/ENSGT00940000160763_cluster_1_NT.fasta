@@ -1,4 +1,4 @@
->ENSSMRT00000002310ENSSMRG00000001676_SALVATORMERIANAE
+>ENSSMRT00000002317ENSSMRG00000001676_SALVATORMERIANAE
 ATGGACAATTTTACCTCTTCACTGAGCCAGTCCTCCTGGGATCGGTGTCAGGCCTGGGCG
 AAGTCAAGCTCCACGTGGCACAGTGCAGTTGTTGATGAAGAGCTGATCCCTGCTGCACTG
 AATGTGTTTGAGCAGCAGACTCCATTACAGGATGATAGTTTCTTGCCAGGGGCTTCATCC
@@ -24,13 +24,13 @@ GTGGCTGTATCTCCAGATGAAAGCAGTGAGGGATCAGATGGAGAG---------------
 ---------------------------------------
 >ENSSPUT00000013700ENSSPUG00000009908_SPHENODONPUNCTATUS
 ATGGAGAGTGCCGTCTCTGTGCTGAGCCCGTCCTCCTGGGAGCGGCGGCGGGCGTGGGCC
-AAGCAAAGCCGCTTGTGGCACAGCGTGGCCGTGGAGGAG---------------------
+AAGCAAAGCCGCTTGTGGCAC---------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
----------------------------------------------------------GAG
+------------------------AGCGTGGCCGTGGAGGAG---------------GAG
 GGGGAGGCAGAGACCGTT------------------------------GCACAGGACACA
 ------------------------------------------------------------
 ------------CCGGAGCTGCAGTCGACACACCTGGACGAC---GTCTTCCTGCAAGGA

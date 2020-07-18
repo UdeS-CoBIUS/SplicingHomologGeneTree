@@ -1,0 +1,7 @@
+SUSSCROFA	sus_scrofa
+VULPESVULPES	vulpes_vulpes
+RHINOPITHECUSBIETI	rhinopithecus_bieti
+COLOBUSANGOLENSIS	colobus_angolensis
+PAPIOANUBIS	papio_anubis
+SAIMIRIBOLIVIENSIS	saimiri_boliviensis
+AOTUSNANCYMAAE	aotus_nancymaae

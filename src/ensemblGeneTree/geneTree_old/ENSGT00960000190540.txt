@@ -1,1 +1,0 @@
-((ENSABRG00000014599__Anser_brachyrhynchus,ENSDNVG00000004243__Dromaius_novaehollandiae),ENSCPRG00005015560__Crocodylus_porosus);

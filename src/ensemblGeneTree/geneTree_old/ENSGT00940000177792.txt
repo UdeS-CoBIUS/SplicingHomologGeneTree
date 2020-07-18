@@ -1,1 +1,0 @@
-(((((ENSHBUG00000008837__Haplochromis_burtoni,ENSPNYG00000016888__Pundamilia_nyererei),ENSACLG00000022763__Astatotilapia_calliptera),ENSNBRG00000024401__Neolamprologus_brichardi),ENSSPAG00000011646__Stegastes_partitus),((ENSMMOG00000010888__Mola_mola,ENSMALG00000006368__Monopterus_albus),ENSSDUG00000011705__Seriola_dumerili));

@@ -1,0 +1,1 @@
+((ENSTGEG00000017523__Theropithecus_gelada,ENSPTEG00000039209__Piliocolobus_tephrosceles),ENSAPLG00000019237__Anas_platyrhynchos_platyrhynchos);

@@ -1,0 +1,1 @@
+(ENSTGUG00000017244__Taeniopygia_guttata,ENSCAFG00000025426__Canis_lupus_familiaris);

@@ -1,0 +1,1 @@
+(((ENSCSAG00000018398__Chlorocebus_sabaeus,ENSOPRG00000000934__Ochotona_princeps),ENSEEUG00000000185__Erinaceus_europaeus),ENSETEG00000011248__Echinops_telfairi);

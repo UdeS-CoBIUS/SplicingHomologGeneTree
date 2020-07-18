@@ -1,0 +1,1 @@
+(((ENSPTEG00000013408__Piliocolobus_tephrosceles,ENSPTEG00000035206__Piliocolobus_tephrosceles),YLR433C__Saccharomyces_cerevisiae_strain_S288C),(YML057W__Saccharomyces_cerevisiae_strain_S288C,ENSMMMG00000010142__Marmota_marmota_marmota));

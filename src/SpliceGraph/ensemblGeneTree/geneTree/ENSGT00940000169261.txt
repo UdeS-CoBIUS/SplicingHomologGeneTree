@@ -1,0 +1,1 @@
+((((ENSPREG00000019364__Poecilia_reticulata,ENSPLAG00000000198__Poecilia_latipinna),ENSCING00000024925__Ciona_intestinalis),ENSEBUG00000001936__Eptatretus_burgeri),(FBgn0267348__Drosophila_melanogaster,WBGene00016913__Caenorhabditis_elegans_strain_N2));

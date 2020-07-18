@@ -1,0 +1,1 @@
+((ENSLACG00000006896__Latimeria_chalumnae,ENSLACG00000010505__Latimeria_chalumnae),ENSLBEG00000023350__Labrus_bergylta);

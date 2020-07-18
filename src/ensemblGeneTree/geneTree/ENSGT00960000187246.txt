@@ -1,0 +1,1 @@
+((((ENSUAMG00000020241__Ursus_americanus,ENSUMAG00000006748__Ursus_maritimus),(ENSUAMG00000004494__Ursus_americanus,ENSUMAG00000001237__Ursus_maritimus)),ENSCAFG00020025081__Canis_lupus_dingo),ENSMMMG00000012256__Marmota_marmota_marmota);

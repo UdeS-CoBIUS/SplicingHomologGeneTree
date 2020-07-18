@@ -1,0 +1,4 @@
+MAYLANDIAZEBRA	maylandia_zebra
+MAYLANDIAZEBRA	maylandia_zebra
+HAPLOCHROMISBURTONI	haplochromis_burtoni
+GOPHERUSAGASSIZII	gopherus_agassizii

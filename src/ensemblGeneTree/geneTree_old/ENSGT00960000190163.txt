@@ -1,1 +1,0 @@
-((ENSNMEG00000006170__Numida_meleagris,ENSGALG00000039750__Gallus_gallus),ENSABRG00000000337__Anser_brachyrhynchus);

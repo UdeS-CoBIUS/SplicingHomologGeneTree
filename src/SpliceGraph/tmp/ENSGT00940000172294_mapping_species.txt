@@ -1,0 +1,7 @@
+SPHENODONPUNCTATUS	sphenodon_punctatus
+NOTECHISSCUTATUS	notechis_scutatus
+PROLEMURSIMUS	prolemur_simus
+OTOLEMURGARNETTII	otolemur_garnettii
+PEROMYSCUSMANICULATUSBAIRDII	peromyscus_maniculatus_bairdii
+MERIONESUNGUICULATUS	meriones_unguiculatus
+TURSIOPSTRUNCATUS	tursiops_truncatus

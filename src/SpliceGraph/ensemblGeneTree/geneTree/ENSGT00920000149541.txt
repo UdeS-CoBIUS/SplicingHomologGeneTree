@@ -1,0 +1,1 @@
+((((ENSLACG00000012422__Latimeria_chalumnae,ENSLACG00000017077__Latimeria_chalumnae),((ENSLACG00000006971__Latimeria_chalumnae,ENSLACG00000014203__Latimeria_chalumnae),ENSLACG00000003135__Latimeria_chalumnae)),ENSLACG00000001441__Latimeria_chalumnae),ENSNBRG00000002385__Neolamprologus_brichardi);

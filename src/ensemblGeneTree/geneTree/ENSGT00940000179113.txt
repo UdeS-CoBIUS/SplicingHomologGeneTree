@@ -1,0 +1,1 @@
+(((ENSAOCG00000016719__Amphiprion_ocellaris,ENSSPAG00000018130__Stegastes_partitus),ENSATEG00000015887__Anabas_testudineus),ENSSMAG00000019018__Scophthalmus_maximus);

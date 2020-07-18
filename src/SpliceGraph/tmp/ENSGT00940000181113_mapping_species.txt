@@ -1,0 +1,2 @@
+PYGOCENTRUSNATTERERI	pygocentrus_nattereri
+AMPHIPRIONPERCULA	amphiprion_percula

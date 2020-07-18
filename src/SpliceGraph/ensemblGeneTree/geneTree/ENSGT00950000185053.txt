@@ -1,0 +1,1 @@
+(((((ENSUMAG00000016958__Ursus_maritimus,ENSUAMG00000004397__Ursus_americanus),ENSCAFG00020006218__Canis_lupus_dingo),(ENSPCOG00000022004__Propithecus_coquereli,ENSHGLG00100000620__Heterocephalus_glaber_HetGla_1.0)),ENSPCIG00000023487__Phascolarctos_cinereus),ENSNSUG00000012495__Notechis_scutatus);

@@ -1,0 +1,1 @@
+((ENSCPGG00000010037__Calidris_pygmaea,ENSCJPG00005003336__Coturnix_japonica),ENSSLDG00000005178__Seriola_lalandi_dorsalis);

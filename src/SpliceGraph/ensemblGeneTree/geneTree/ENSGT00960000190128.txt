@@ -1,0 +1,1 @@
+(((ENSMUNG00000010905__Melopsittacus_undulatus,ENSAPLG00000022156__Anas_platyrhynchos_platyrhynchos),ENSNPEG00000008771__Nothoprocta_perdicaria),ENSPVIG00000000390__Pogona_vitticeps);

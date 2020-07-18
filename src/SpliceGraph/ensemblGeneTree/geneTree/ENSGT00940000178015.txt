@@ -1,0 +1,1 @@
+((((ENSSDUG00000004529__Seriola_dumerili,ENSAPOG00000001994__Acanthochromis_polyacanthus),ENSMALG00000018137__Monopterus_albus),(ENSSDUG00000001224__Seriola_dumerili,ENSMALG00000009211__Monopterus_albus)),(ENSELUG00000016263__Esox_lucius,ENSELUG00000016356__Esox_lucius));

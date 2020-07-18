@@ -1,1 +1,0 @@
-(((ENSOARG00000019946__Ovis_aries,ENSOARG00000020120__Ovis_aries),ENSBBBG00000012851__Bison_bison_bison),ENSPTIG00000009857__Panthera_tigris_altaica);

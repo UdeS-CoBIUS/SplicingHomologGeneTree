@@ -1,0 +1,1 @@
+((ENSPMGG00000003334__Periophthalmus_magnuspinnatus,ENSHCOG00000020678__Hippocampus_comes),ENSTRUG00000025915__Takifugu_rubripes);

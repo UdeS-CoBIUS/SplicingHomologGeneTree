@@ -1,0 +1,1 @@
+((ENSOANG00000030290__Ornithorhynchus_anatinus,ENSELUG00000024204__Esox_lucius),ENSEBUG00000005761__Eptatretus_burgeri);

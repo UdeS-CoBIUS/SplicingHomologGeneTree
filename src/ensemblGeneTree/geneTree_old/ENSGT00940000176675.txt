@@ -1,1 +1,0 @@
-(YPL013C__Saccharomyces_cerevisiae_strain_S288C,ENSHCOG00000010628__Hippocampus_comes);

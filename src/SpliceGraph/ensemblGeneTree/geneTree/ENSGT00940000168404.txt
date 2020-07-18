@@ -1,0 +1,1 @@
+(((ENSPMAG00000002781__Petromyzon_marinus,ENSPMAG00000003165__Petromyzon_marinus),ENSEBUG00000002533__Eptatretus_burgeri),(((ENSMUNG00000011110__Melopsittacus_undulatus,ENSTGUG00000014058__Taeniopygia_guttata),ENSNSUG00000009603__Notechis_scutatus),ENSTRUG00000016941__Takifugu_rubripes));

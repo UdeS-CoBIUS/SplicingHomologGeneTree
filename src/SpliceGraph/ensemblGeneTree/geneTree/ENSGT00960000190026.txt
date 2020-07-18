@@ -1,0 +1,1 @@
+((ENSABRG00000017187__Anser_brachyrhynchus,ENSAPLG00000027503__Anas_platyrhynchos_platyrhynchos),(ENSSCAG00000001500__Serinus_canaria,ENSCCEG00000018402__Cyanistes_caeruleus));

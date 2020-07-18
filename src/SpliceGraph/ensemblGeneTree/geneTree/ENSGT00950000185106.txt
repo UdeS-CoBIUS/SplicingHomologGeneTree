@@ -1,0 +1,1 @@
+(((ENSSPUG00000016888__Sphenodon_punctatus,ENSNSUG00000011607__Notechis_scutatus),ENSCPBG00000011901__Chrysemys_picta_bellii),(ENSOANG00000031865__Ornithorhynchus_anatinus,ENSUMAG00000017151__Ursus_maritimus));

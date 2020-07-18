@@ -1,1 +1,0 @@
-((ENSBBBG00000020048__Bison_bison_bison,ENSBTAG00000046614__Bos_taurus),ENSCHIG00000023046__Capra_hircus);

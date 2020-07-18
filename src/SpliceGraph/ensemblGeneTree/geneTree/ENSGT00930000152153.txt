@@ -1,0 +1,1 @@
+((((ENSBBBG00000020467__Bison_bison_bison,ENSPTIG00000011221__Panthera_tigris_altaica),ENSCGRG00000017632__Cricetulus_griseus_CriGri_1.0),ENSVVUG00000024762__Vulpes_vulpes),ENSCPRG00005016118__Crocodylus_porosus);

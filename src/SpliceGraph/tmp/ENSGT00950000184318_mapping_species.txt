@@ -1,0 +1,5 @@
+COTURNIXJAPONICA	coturnix_japonica
+NUMIDAMELEAGRIS	numida_meleagris
+JUNCOHYEMALIS	junco_hyemalis
+PELODISCUSSINENSIS	pelodiscus_sinensis
+RATTUSNORVEGICUS	rattus_norvegicus

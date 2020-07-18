@@ -1,1 +1,0 @@
-(ENSTRUG00000020436__Takifugu_rubripes,ENSAOCG00000018913__Amphiprion_ocellaris);

@@ -1,0 +1,2 @@
+YNL231C_mRNA	YNL231C	Saccharomyces_cerevisiae_strain_S288C
+YNL264C_mRNA	YNL264C	Saccharomyces_cerevisiae_strain_S288C

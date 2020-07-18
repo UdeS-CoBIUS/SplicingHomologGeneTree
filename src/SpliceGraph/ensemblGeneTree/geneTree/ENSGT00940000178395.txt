@@ -1,0 +1,1 @@
+((((ENSAOCG00000008539__Amphiprion_ocellaris,ENSSPAG00000001639__Stegastes_partitus),ENSPMEG00000019886__Poecilia_mexicana),ENSTRUG00000019988__Takifugu_rubripes),ENSAMXG00000029983__Astyanax_mexicanus);

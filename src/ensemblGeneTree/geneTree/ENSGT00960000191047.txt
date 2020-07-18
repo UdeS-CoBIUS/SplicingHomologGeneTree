@@ -1,0 +1,1 @@
+((ENSMUGG00000007284__Meriones_unguiculatus,ENSUAMG00000019583__Ursus_americanus),ENSCJPG00005012851__Coturnix_japonica);

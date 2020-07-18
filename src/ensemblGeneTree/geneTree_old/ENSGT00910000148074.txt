@@ -1,1 +1,0 @@
-((ENSPPAG00000036304__Pan_paniscus,ENSGGOG00000041227__Gorilla_gorilla),(ENSCATG00000030902__Cercocebus_atys,ENSCANG00000042455__Colobus_angolensis_palliatus));

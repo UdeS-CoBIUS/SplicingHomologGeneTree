@@ -1,0 +1,1 @@
+((((ENSLBEG00000025116__Labrus_bergylta,ENSMMOG00000004666__Mola_mola),((ENSPREG00000015719__Poecilia_reticulata,ENSAPOG00000019029__Acanthochromis_polyacanthus),(ENSHCOG00000013694__Hippocampus_comes,ENSPMGG00000007989__Periophthalmus_magnuspinnatus))),ENSELUG00000012359__Esox_lucius),ENSIPUG00000004913__Ictalurus_punctatus);

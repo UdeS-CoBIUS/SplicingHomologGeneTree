@@ -1,0 +1,10 @@
+>0
+ENSPMET00000017445: ['no event', 172, 0]
+ENSPLAT00000017108: ['no event', 172, 0]
+ENSXMAT00000025331: ['no event', 172, 0]
+ENSGAFT00000024602: ['no event', 172, 0]
+>1
+ENSPMET00000017445: ['no event', 135, 2]
+ENSPLAT00000017108: ['no event', 135, 2]
+ENSXMAT00000025331: [['internal gap < 30', 95, 18], 117, 2]
+ENSGAFT00000024602: [['internal gap < 30', 98, 15], 120, 2]

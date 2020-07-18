@@ -1,0 +1,1 @@
+(((ENSMNEG00000037162__Macaca_nemestrina,ENSEASG00005016946__Equus_asinus_asinus),ENSPCIG00000032397__Phascolarctos_cinereus),((ENSTGUG00000016418__Taeniopygia_guttata,ENSGALG00000048273__Gallus_gallus),ENSPSIG00000010836__Pelodiscus_sinensis));

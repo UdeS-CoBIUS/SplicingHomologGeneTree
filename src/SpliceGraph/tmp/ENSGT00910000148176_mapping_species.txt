@@ -1,0 +1,4 @@
+AOTUSNANCYMAAE	aotus_nancymaae
+CALLITHRIXJACCHUS	callithrix_jacchus
+PANPANISCUS	pan_paniscus
+RHINOPITHECUSROXELLANA	rhinopithecus_roxellana

@@ -1,0 +1,1 @@
+(ENSSCAG00000006103__Serinus_canaria,ENSLSDG00000000909__Lonchura_striata_domestica);

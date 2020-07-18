@@ -1,1 +1,0 @@
-((ENSMALG00000006781__Monopterus_albus,ENSPMGG00000009965__Periophthalmus_magnuspinnatus),ENSSMAG00000013487__Scophthalmus_maximus);

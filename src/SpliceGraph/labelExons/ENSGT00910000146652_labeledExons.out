@@ -1,0 +1,6 @@
+>0
+ENSANAT00000021788: [['internal gap < 30', 417, 22], 449, 0]
+ENSNLET00000041009: [['internal gap >= 30', 382, 64], 407, 0]
+>1
+ENSANAT00000021788: ['exon skipping', 0, 0]
+ENSNLET00000041009: ['no event', 5, 0]

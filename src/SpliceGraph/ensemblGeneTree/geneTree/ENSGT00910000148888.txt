@@ -1,0 +1,1 @@
+((ENSSPAG00000018580__Stegastes_partitus,ENSCSEG00000002433__Cynoglossus_semilaevis),(((ENSRROG00000044959__Rhinopithecus_roxellana,ENSRBIG00000043327__Rhinopithecus_bieti),ENSPTEG00000028608__Piliocolobus_tephrosceles),ENSCABG00000006921__Chelonoidis_abingdonii));

@@ -1,0 +1,14 @@
+PYGOCENTRUSNATTERERI	pygocentrus_nattereri
+CLUPEAHARENGUS	clupea_harengus
+ORYZIASLATIPES	oryzias_latipes
+ORYZIASLATIPES	oryzias_latipes
+ORYZIASLATIPES	oryzias_latipes
+ORYZIASMELASTIGMA	oryzias_melastigma
+XIPHOPHORUSMACULATUS	xiphophorus_maculatus
+COTTOPERCAGOBIO	cottoperca_gobio
+MOLAMOLA	mola_mola
+LABRUSBERGYLTA	labrus_bergylta
+ANABASTESTUDINEUS	anabas_testudineus
+ASTYANAXMEXICANUS	astyanax_mexicanus
+ASTYANAXMEXICANUS	astyanax_mexicanus
+PARAMORMYROPSKINGSLEYAE	paramormyrops_kingsleyae

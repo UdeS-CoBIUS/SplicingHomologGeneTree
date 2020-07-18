@@ -1,0 +1,1 @@
+(ENSVPAG00000010616__Vicugna_pacos,ENSSARG00000010112__Sorex_araneus);

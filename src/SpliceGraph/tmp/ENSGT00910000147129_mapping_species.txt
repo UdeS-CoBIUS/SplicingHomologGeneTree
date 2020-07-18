@@ -1,0 +1,9 @@
+RHINOPITHECUSBIETI	rhinopithecus_bieti
+PILIOCOLOBUSTEPHROSCELES	piliocolobus_tephrosceles
+MANDRILLUSLEUCOPHAEUS	mandrillus_leucophaeus
+MACACAMULATTA	macaca_mulatta
+MACACANEMESTRINA	macaca_nemestrina
+MACACAFASCICULARIS	macaca_fascicularis
+CERCOCEBUSATYS	cercocebus_atys
+PAPIOANUBIS	papio_anubis
+SAIMIRIBOLIVIENSISBOLIVIENSIS	saimiri_boliviensis_boliviensis

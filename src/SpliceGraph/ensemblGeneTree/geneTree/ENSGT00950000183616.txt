@@ -1,0 +1,1 @@
+(((ENSHBUG00000010103__Haplochromis_burtoni,ENSNBRG00000008689__Neolamprologus_brichardi),ENSCSEG00000019937__Cynoglossus_semilaevis),((ENSTRUG00000021274__Takifugu_rubripes,ENSTRUG00000025339__Takifugu_rubripes),ENSMMOG00000019949__Mola_mola));

@@ -1,0 +1,8 @@
+PROPITHECUSCOQUERELI	propithecus_coquereli
+MICROCEBUSMURINUS	microcebus_murinus
+MACACANEMESTRINA	macaca_nemestrina
+THEROPITHECUSGELADA	theropithecus_gelada
+PILIOCOLOBUSTEPHROSCELES	piliocolobus_tephrosceles
+NOMASCUSLEUCOGENYS	nomascus_leucogenys
+HOMOSAPIENS	homo_sapiens
+PANTHERAPARDUS	panthera_pardus

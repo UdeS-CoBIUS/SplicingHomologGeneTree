@@ -1,0 +1,1 @@
+((ENSNSUG00000000291__Notechis_scutatus,ENSNSUG00000003876__Notechis_scutatus),ENSCJPG00005010859__Coturnix_japonica);

@@ -1,0 +1,1 @@
+(ENSABRG00000021476__Anser_brachyrhynchus,ENSNPEG00000012824__Nothoprocta_perdicaria);

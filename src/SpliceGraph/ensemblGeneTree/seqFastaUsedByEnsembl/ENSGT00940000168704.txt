@@ -1,0 +1,4 @@
+  ENSPMAP00000010169	ENSPMAG00000009245	Petromyzon_marinus ENSCINP00000032101	ENSCING00000019492	Ciona_intestinalis 
+  FBpp0302956	FBgn0032451	Drosophila_melanogaster Y53G8B.4a.1	WBGene00021820	Caenorhabditis_elegans_strain_N2 
+ 
+;

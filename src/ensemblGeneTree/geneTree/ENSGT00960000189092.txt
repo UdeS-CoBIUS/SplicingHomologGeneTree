@@ -1,0 +1,1 @@
+((((ENSGALG00000050799__Gallus_gallus,ENSCPGG00000014445__Calidris_pygmaea),ENSJHYG00000002307__Junco_hyemalis),ENSGAGG00000012738__Gopherus_agassizii),ENSNSUG00000010452__Notechis_scutatus);

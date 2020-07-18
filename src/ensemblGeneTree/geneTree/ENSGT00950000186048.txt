@@ -1,0 +1,1 @@
+((((ENSCPBG00000003082__Chrysemys_picta_bellii,ENSCPBG00000002056__Chrysemys_picta_bellii),ENSCABG00000019615__Chelonoidis_abingdonii),ENSAPLG00000030373__Anas_platyrhynchos_platyrhynchos),ENSMUGG00000016028__Meriones_unguiculatus);

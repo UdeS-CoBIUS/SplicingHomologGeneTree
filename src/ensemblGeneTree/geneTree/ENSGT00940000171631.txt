@@ -1,0 +1,1 @@
+((ENSLACG00000017401__Latimeria_chalumnae,ENSXETG00000031054__Xenopus_tropicalis),(ENSSPAG00000012047__Stegastes_partitus,ENSMALG00000020587__Monopterus_albus));

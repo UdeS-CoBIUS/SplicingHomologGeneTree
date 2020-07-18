@@ -1,0 +1,72 @@
+>0
+ENSGMOT00000003233: ['no event', 61, 0]
+ENSGMOT00000003255: ['no event', 61, 0]
+ENSHHUT00000086027: ['no event', 61, 0]
+>1
+ENSGMOT00000003233: ['3event', 47, 2]
+ENSGMOT00000003255: ['no event', 63, 2]
+ENSHHUT00000086027: ['exon skipping', 0, 0]
+>2
+ENSGMOT00000003233: ['exon skipping', 0, 0]
+ENSGMOT00000003255: ['no event', 57, 0]
+ENSHHUT00000086027: ['exon skipping', 0, 0]
+>3
+ENSGMOT00000003233: ['exon skipping', 0, 0]
+ENSGMOT00000003255: ['no event', 36, 1]
+ENSHHUT00000086027: ['exon skipping', 0, 0]
+>4
+ENSGMOT00000003233: ['3event', '5event', 100, 0]
+ENSGMOT00000003255: [['internal gap >= 30', 4, 41], 66, 2]
+ENSHHUT00000086027: ['5event', 53, 2]
+>5
+ENSGMOT00000003233: ['exon skipping', 0, 0]
+ENSGMOT00000003255: ['no event', 19, 2]
+ENSHHUT00000086027: ['exon skipping', 0, 0]
+>6
+ENSGMOT00000003233: ['5event', 17, 1]
+ENSGMOT00000003255: ['exon skipping', 0, 0]
+ENSHHUT00000086027: ['exon skipping', 0, 0]
+>7
+ENSGMOT00000003233: ['no event', 51, 1]
+ENSGMOT00000003255: ['exon skipping', 0, 0]
+ENSHHUT00000086027: ['exon skipping', 0, 0]
+>8
+ENSGMOT00000003233: ['no event', 70, 2]
+ENSGMOT00000003255: ['exon skipping', 0, 0]
+ENSHHUT00000086027: ['exon skipping', 0, 0]
+>9
+ENSGMOT00000003233: ['no event', 114, 1]
+ENSGMOT00000003255: ['5event', 111, 1]
+ENSHHUT00000086027: ['exon skipping', 0, 0]
+>10
+ENSGMOT00000003233: ['no event', 112, 2]
+ENSGMOT00000003255: ['no event', 112, 2]
+ENSHHUT00000086027: ['5event', 111, 2]
+>11
+ENSGMOT00000003233: ['exon skipping', 0, 0]
+ENSGMOT00000003255: ['exon skipping', 0, 0]
+ENSHHUT00000086027: ['no event', 62, 0]
+>12
+ENSGMOT00000003233: ['exon skipping', 0, 0]
+ENSGMOT00000003255: ['exon skipping', 0, 0]
+ENSHHUT00000086027: ['no event', 79, 0]
+>13
+ENSGMOT00000003233: ['exon skipping', 0, 0]
+ENSGMOT00000003255: ['exon skipping', 0, 0]
+ENSHHUT00000086027: ['no event', 68, 2]
+>14
+ENSGMOT00000003233: ['exon skipping', 0, 0]
+ENSGMOT00000003255: ['exon skipping', 0, 0]
+ENSHHUT00000086027: ['no event', 158, 2]
+>15
+ENSGMOT00000003233: ['exon skipping', 0, 0]
+ENSGMOT00000003255: ['exon skipping', 0, 0]
+ENSHHUT00000086027: ['no event', 105, 2]
+>16
+ENSGMOT00000003233: ['exon skipping', 0, 0]
+ENSGMOT00000003255: ['exon skipping', 0, 0]
+ENSHHUT00000086027: ['no event', 103, 0]
+>17
+ENSGMOT00000003233: ['exon skipping', 0, 0]
+ENSGMOT00000003255: ['exon skipping', 0, 0]
+ENSHHUT00000086027: ['no event', 198, 2]

@@ -1,1 +1,0 @@
-(ENSPFOG00000022682__Poecilia_formosa,ENSPFOG00000024502__Poecilia_formosa);

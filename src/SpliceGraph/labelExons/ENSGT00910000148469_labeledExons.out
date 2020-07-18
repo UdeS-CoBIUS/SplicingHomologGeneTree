@@ -1,0 +1,8 @@
+>0
+ENSMNET00000051646: ['no event', 51, 0]
+ENSMLET00000035737: ['no event', 51, 0]
+ENSANAT00000054112: ['no event', 51, 0]
+>1
+ENSMNET00000051646: [['internal gap < 30', 109, 11], 181, 1]
+ENSMLET00000035737: [['internal gap < 30', 109, 11], 181, 1]
+ENSANAT00000054112: ['3event', 159, 1]

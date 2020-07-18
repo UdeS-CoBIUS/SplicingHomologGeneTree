@@ -1,0 +1,1 @@
+((((ENSOARG00000007873__Ovis_aries,ENSOARG00000007902__Ovis_aries),ENSEEUG00000006887__Erinaceus_europaeus),((ENSTGEG00000016982__Theropithecus_gelada,ENSPTEG00000028657__Piliocolobus_tephrosceles),ENSG00000285891__Homo_sapiens)),ENSDNOG00000044155__Dasypus_novemcinctus);

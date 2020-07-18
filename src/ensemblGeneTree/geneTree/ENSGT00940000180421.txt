@@ -1,0 +1,1 @@
+(((ENSACIG00000013979__Amphilophus_citrinellus,ENSXCOG00000010585__Xiphophorus_couchianus),ENSCSEG00000018336__Cynoglossus_semilaevis),ENSUAMG00000010634__Ursus_americanus);

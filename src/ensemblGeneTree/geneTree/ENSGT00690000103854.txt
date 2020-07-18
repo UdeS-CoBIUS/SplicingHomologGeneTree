@@ -1,0 +1,1 @@
+(ENSRNOG00000005447__Rattus_norvegicus,ENSMPUG00000015215__Mustela_putorius_furo);

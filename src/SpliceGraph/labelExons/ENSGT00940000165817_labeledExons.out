@@ -1,0 +1,30 @@
+>0
+ENSDORT00000035179: [['internal gap >= 30', 73, 121], 219, 0]
+ENSEEUT00000008154: [['internal gap >= 30', 73, 121], 219, 0]
+ENSPTET00000032281: [['internal gap >= 30', 73, 121], 219, 0]
+ENSPTET00000036144: [['internal gap >= 30', 193, 124], 216, 0]
+>1
+ENSDORT00000035179: ['exon skipping', 0, 0]
+ENSEEUT00000008154: ['exon skipping', 0, 0]
+ENSPTET00000032281: ['no event', 55, 1]
+ENSPTET00000036144: ['exon skipping', 0, 0]
+>2
+ENSDORT00000035179: ['exon skipping', 0, 0]
+ENSEEUT00000008154: ['5event', 55, 1]
+ENSPTET00000032281: ['exon skipping', 0, 0]
+ENSPTET00000036144: ['exon skipping', 0, 0]
+>3
+ENSDORT00000035179: ['exon skipping', 0, 0]
+ENSEEUT00000008154: ['no event', 23, 0]
+ENSPTET00000032281: ['exon skipping', 0, 0]
+ENSPTET00000036144: ['exon skipping', 0, 0]
+>4
+ENSDORT00000035179: ['5event', 85, 1]
+ENSEEUT00000008154: ['exon skipping', 0, 0]
+ENSPTET00000032281: ['5event', 56, 0]
+ENSPTET00000036144: ['5event', 68, 1]
+>5
+ENSDORT00000035179: ['exon skipping', 0, 0]
+ENSEEUT00000008154: ['exon skipping', 0, 0]
+ENSPTET00000032281: ['3event', 70, 0]
+ENSPTET00000036144: [['internal gap >= 30', 1, 39], 55, 1]

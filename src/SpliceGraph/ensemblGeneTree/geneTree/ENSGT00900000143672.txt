@@ -1,0 +1,1 @@
+(((ENSNGAG00000015463__Nannospalax_galili,ENSMSIG00000027497__Mus_spicilegus),ENSCATG00000038802__Cercocebus_atys),ENSECAG00000029086__Equus_caballus);

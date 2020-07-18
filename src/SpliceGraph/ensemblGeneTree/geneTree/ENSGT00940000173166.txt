@@ -1,0 +1,1 @@
+(((WBGene00016465__Caenorhabditis_elegans_strain_N2,WBGene00016464__Caenorhabditis_elegans_strain_N2),ENSCVAG00000007322__Cyprinodon_variegatus),YPL031C__Saccharomyces_cerevisiae_strain_S288C);

@@ -1,0 +1,1 @@
+((ENSPSIG00000001000__Pelodiscus_sinensis,ENSPSIG00000000068__Pelodiscus_sinensis),ENSTGUG00000004457__Taeniopygia_guttata);

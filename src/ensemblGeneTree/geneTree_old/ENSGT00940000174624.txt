@@ -1,1 +1,0 @@
-((ENSEBUG00000016233__Eptatretus_burgeri,ENSPMAG00000000981__Petromyzon_marinus),ENSPLAG00000014970__Poecilia_latipinna);

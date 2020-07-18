@@ -1,0 +1,1 @@
+((ENSTGEG00000003804__Theropithecus_gelada,ENSTGEG00000027515__Theropithecus_gelada),((((ENSGGOG00000038798__Gorilla_gorilla,ENSGGOG00000042545__Gorilla_gorilla),((ENSPTRG00000044569__Pan_troglodytes,ENSPTRG00000048707__Pan_troglodytes),ENSPPAG00000004745__Pan_paniscus)),ENSPPAG00000029252__Pan_paniscus),ENSNLEG00000033143__Nomascus_leucogenys));

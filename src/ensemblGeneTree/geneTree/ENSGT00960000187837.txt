@@ -1,0 +1,1 @@
+((ENSTRUG00000022250__Takifugu_rubripes,ENSHCOG00000012072__Hippocampus_comes),ENSLOCG00000004689__Lepisosteus_oculatus);

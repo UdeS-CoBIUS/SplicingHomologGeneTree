@@ -1,0 +1,1 @@
+(ENSMFAG00000033043__Macaca_fascicularis,ENSNVIG00000009704__Neovison_vison);

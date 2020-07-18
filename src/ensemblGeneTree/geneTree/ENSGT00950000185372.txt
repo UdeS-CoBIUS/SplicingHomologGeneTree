@@ -1,0 +1,1 @@
+(((ENSGAGG00000020853__Gopherus_agassizii,ENSCABG00000007383__Chelonoidis_abingdonii),(((ENSNMEG00000015121__Numida_meleagris,ENSGALG00000049378__Gallus_gallus),ENSABRG00000005276__Anser_brachyrhynchus),ENSAOWG00000018472__Apteryx_owenii)),(ENSPVIG00000007053__Pogona_vitticeps,ENSSPUG00000006643__Sphenodon_punctatus));

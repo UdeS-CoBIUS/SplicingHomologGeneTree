@@ -1,0 +1,1 @@
+(((ENSHCOG00000016661__Hippocampus_comes,ENSMALG00000015703__Monopterus_albus),ENSPMGG00000006306__Periophthalmus_magnuspinnatus),ENSGMOG00000003861__Gadus_morhua);

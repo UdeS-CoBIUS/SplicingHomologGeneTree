@@ -1,0 +1,11 @@
+SERIOLALALANDIDORSALIS	seriola_lalandi_dorsalis
+MOLAMOLA	mola_mola
+ASTYANAXMEXICANUS	astyanax_mexicanus
+ASTYANAXMEXICANUS	astyanax_mexicanus
+ASTYANAXMEXICANUS	astyanax_mexicanus
+ASTYANAXMEXICANUS	astyanax_mexicanus
+ASTYANAXMEXICANUS	astyanax_mexicanus
+ASTYANAXMEXICANUS	astyanax_mexicanus
+ASTYANAXMEXICANUS	astyanax_mexicanus
+LABRUSBERGYLTA	labrus_bergylta
+PARAMORMYROPSKINGSLEYAE	paramormyrops_kingsleyae

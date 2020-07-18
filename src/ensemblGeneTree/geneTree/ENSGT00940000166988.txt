@@ -1,0 +1,1 @@
+((((ENSTBEG00000005740__Tupaia_belangeri,ENSJJAG00000021917__Jaculus_jaculus),((ENSMMUG00000041512__Macaca_mulatta,ENSMNEG00000035924__Macaca_nemestrina),((ENSCATG00000030357__Cercocebus_atys,ENSMLEG00000034156__Mandrillus_leucophaeus),ENSPANG00000020771__Papio_anubis))),ENSPTIG00000013253__Panthera_tigris_altaica),ENSSLDG00000022530__Seriola_lalandi_dorsalis);

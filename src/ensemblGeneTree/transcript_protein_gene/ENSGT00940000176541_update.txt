@@ -1,0 +1,2 @@
+YOR010C_mRNA	YOR010C	Saccharomyces_cerevisiae_strain_S288C
+YER011W_mRNA	YER011W	Saccharomyces_cerevisiae_strain_S288C

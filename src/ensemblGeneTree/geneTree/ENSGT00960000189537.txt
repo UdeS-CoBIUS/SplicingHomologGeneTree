@@ -1,0 +1,1 @@
+(((((ENSMSIG00000007937__Mus_spicilegus,ENSMSIG00000020874__Mus_spicilegus),ENSMSIG00000020896__Mus_spicilegus),ENSMSIG00000002217__Mus_spicilegus),ENSMUGG00000002321__Meriones_unguiculatus),ENSPNAG00000026895__Pygocentrus_nattereri);

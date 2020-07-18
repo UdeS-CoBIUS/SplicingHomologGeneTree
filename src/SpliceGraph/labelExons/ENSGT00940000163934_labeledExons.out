@@ -1,0 +1,12 @@
+>0
+ENSLAFT00000035036: ['no event', 908, 0]
+ENSLAFT00000037398: ['3event', 184, 0]
+>1
+ENSLAFT00000035036: ['exon skipping', 0, 0]
+ENSLAFT00000037398: ['5event', 4, 1]
+>2
+ENSLAFT00000035036: ['exon skipping', 0, 0]
+ENSLAFT00000037398: ['no event', 630, 0]
+>3
+ENSLAFT00000035036: ['exon skipping', 0, 0]
+ENSLAFT00000037398: ['no event', 82, 1]

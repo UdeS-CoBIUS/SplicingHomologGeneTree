@@ -1,1 +1,0 @@
-(ENSSPUG00000002849__Sphenodon_punctatus,ENSSFOG00015016864__Scleropages_formosus);

@@ -1,0 +1,1 @@
+(((ENSAMXG00000030979__Astyanax_mexicanus,ENSACLG00000006658__Astatotilapia_calliptera),ENSELUG00000002550__Esox_lucius),ENSPSIG00000001014__Pelodiscus_sinensis);

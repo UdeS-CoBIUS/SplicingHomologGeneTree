@@ -1,0 +1,1 @@
+(((WBGene00014058__Caenorhabditis_elegans_strain_N2,WBGene00009543__Caenorhabditis_elegans_strain_N2),ENSMMMG00000007957__Marmota_marmota_marmota),YER170W__Saccharomyces_cerevisiae_strain_S288C);

@@ -1,0 +1,1 @@
+((ENSFCAG00000043202__Felis_catus,ENSVPAG00000003268__Vicugna_pacos),((ENSPCOG00000021266__Propithecus_coquereli,ENSMICG00000044021__Microcebus_murinus),ENSTSYG00000008103__Carlito_syrichta));

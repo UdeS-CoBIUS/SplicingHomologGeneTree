@@ -1,0 +1,1 @@
+(ENSTSYG00000034522__Carlito_syrichta,ENSEEUG00000000115__Erinaceus_europaeus);

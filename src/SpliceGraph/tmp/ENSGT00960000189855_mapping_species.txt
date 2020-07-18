@@ -1,0 +1,4 @@
+SPERMOPHILUSDAURICUS	spermophilus_dauricus
+SPERMOPHILUSDAURICUS	spermophilus_dauricus
+MARMOTAMARMOTAMARMOTA	marmota_marmota_marmota
+UROCITELLUSPARRYII	urocitellus_parryii

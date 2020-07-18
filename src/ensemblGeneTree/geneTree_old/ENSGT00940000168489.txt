@@ -1,1 +1,0 @@
-((((ENSACAG00000012615__Anolis_carolinensis,ENSCSAG00000006431__Chlorocebus_sabaeus),ENSXETG00000013012__Xenopus_tropicalis),ENSGMOG00000001981__Gadus_morhua),ENSPMAG00000000417__Petromyzon_marinus);

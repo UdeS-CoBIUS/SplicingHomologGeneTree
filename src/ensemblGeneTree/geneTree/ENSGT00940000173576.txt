@@ -1,0 +1,1 @@
+(ENSTNIG00000000215__Tetraodon_nigroviridis,ENSG00000255767__Homo_sapiens);

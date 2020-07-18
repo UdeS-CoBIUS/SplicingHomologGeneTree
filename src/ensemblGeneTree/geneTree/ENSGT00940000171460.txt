@@ -1,0 +1,1 @@
+((ENSLOCG00000004406__Lepisosteus_oculatus,ENSFHEG00000007579__Fundulus_heteroclitus),(((ENSDNVG00000009226__Dromaius_novaehollandiae,ENSAOWG00000009910__Apteryx_owenii),ENSABRG00000012287__Anser_brachyrhynchus),ENSLACG00000022386__Latimeria_chalumnae));

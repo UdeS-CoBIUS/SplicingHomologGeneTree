@@ -1,0 +1,1 @@
+((ENSCHOG00000011421__Choloepus_hoffmanni,ENSPCAG00000005048__Procavia_capensis),(((ENSGGOG00000037576__Gorilla_gorilla,ENSMMUG00000008378__Macaca_mulatta),ENSCJAG00000014457__Callithrix_jacchus),MGP_CAROLIEiJ_G0031574__Mus_caroli_strain_CAROLI_EIJ));

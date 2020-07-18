@@ -1,0 +1,1 @@
+((((ENSGAGG00000004830__Gopherus_agassizii,ENSPSIG00000013138__Pelodiscus_sinensis),ENSMVIG00005011515__Manacus_vitellinus),ENSACAG00000028676__Anolis_carolinensis),(ENSOANG00000021693__Ornithorhynchus_anatinus,ENSSHAG00000007187__Sarcophilus_harrisii));

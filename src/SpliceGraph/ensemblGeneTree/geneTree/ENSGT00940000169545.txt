@@ -1,0 +1,1 @@
+((ENSMAUG00000005497__Mesocricetus_auratus,ENSMOCG00000016972__Microtus_ochrogaster),(ENSOARG00000006127__Ovis_aries,ENSOARG00000006617__Ovis_aries));

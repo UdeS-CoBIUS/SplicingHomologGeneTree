@@ -1,0 +1,1 @@
+(((ENSLSDG00000011470__Lonchura_striata_domestica,ENSPMJG00000011690__Parus_major),ENSABRG00000003995__Anser_brachyrhynchus),((ENSAOWG00000014070__Apteryx_owenii,ENSAHAG00000007962__Apteryx_haastii),ENSDNVG00000001236__Dromaius_novaehollandiae));

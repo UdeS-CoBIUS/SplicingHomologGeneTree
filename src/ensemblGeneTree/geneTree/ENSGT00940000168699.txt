@@ -1,0 +1,1 @@
+((((ENSCGRG00015008590__Cricetulus_griseus_CriGri-PICR,ENSCGRG00015016584__Cricetulus_griseus_CriGri-PICR),ENSCGRG00001024855__Cricetulus_griseus_CHOK1GS_HDv1),ENSPEMG00000014842__Peromyscus_maniculatus_bairdii),(ENSMUSG00000081443__Mus_musculus_strain_reference_(CL57BL6),ENSMUSG00000109745__Mus_musculus_strain_reference_(CL57BL6)));

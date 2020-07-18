@@ -1,0 +1,8 @@
+CYPRINODONVARIEGATUS	cyprinodon_variegatus
+CYPRINODONVARIEGATUS	cyprinodon_variegatus
+CYPRINODONVARIEGATUS	cyprinodon_variegatus
+FUNDULUSHETEROCLITUS	fundulus_heteroclitus
+POECILIAFORMOSA	poecilia_formosa
+ORYZIASMELASTIGMA	oryzias_melastigma
+PARAMBASSISRANGA	parambassis_ranga
+MONOPTERUSALBUS	monopterus_albus

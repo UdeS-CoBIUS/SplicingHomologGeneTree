@@ -1,0 +1,1 @@
+(((ENSCCNG00000019302__Castor_canadensis,ENSCCNG00000013943__Castor_canadensis),((ENSSDAG00000004544__Spermophilus_dauricus,ENSSTOG00000028178__Ictidomys_tridecemlineatus),ENSUPAG00010023857__Urocitellus_parryii)),ENSTSYG00000032963__Carlito_syrichta);

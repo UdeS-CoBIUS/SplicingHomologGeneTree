@@ -1,0 +1,1 @@
+(((((ENSCCAG00000022876__Cebus_capucinus_imitator,ENSSBOG00000033745__Saimiri_boliviensis_boliviensis),ENSANAG00000028840__Aotus_nancymaae),ENSPTEG00000007665__Piliocolobus_tephrosceles),ENSMMMG00000020235__Marmota_marmota_marmota),ENSNVIG00000004909__Neovison_vison);

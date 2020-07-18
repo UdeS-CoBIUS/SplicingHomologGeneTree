@@ -1,0 +1,2 @@
+>completeCluster_0
+C23G10.6.1	C10H11.5.1	C10H11.6b.1	F47C10.6.1

@@ -1,0 +1,1 @@
+(ENSCSEG00000004099__Cynoglossus_semilaevis,ENSCSEG00000007581__Cynoglossus_semilaevis);

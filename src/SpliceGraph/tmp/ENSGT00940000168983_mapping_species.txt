@@ -1,0 +1,5 @@
+MACACAMULATTA	macaca_mulatta
+PAPIOANUBIS	papio_anubis
+PILIOCOLOBUSTEPHROSCELES	piliocolobus_tephrosceles
+PROPITHECUSCOQUERELI	propithecus_coquereli
+CIONAINTESTINALIS	ciona_intestinalis

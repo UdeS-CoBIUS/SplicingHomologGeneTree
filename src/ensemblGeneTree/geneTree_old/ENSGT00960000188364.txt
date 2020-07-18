@@ -1,1 +1,0 @@
-(ENSMAUG00000013338__Mesocricetus_auratus,ENSNGAG00000000992__Nannospalax_galili);

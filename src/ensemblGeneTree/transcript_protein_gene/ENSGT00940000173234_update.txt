@@ -1,0 +1,7 @@
+ENSHHUP00000025116	ENSHHUG00000015833	Hucho_hucho	ENSHHUT00000026092
+ENSPTEP00000008711	ENSPTEG00000009892	Piliocolobus_tephrosceles	ENSPTET00000013269
+F07A11.2a.2	WBGene00008546	Caenorhabditis_elegans_strain_N2	F07A11.2a.2
+F22B3.4.2	WBGene00009035	Caenorhabditis_elegans_strain_N2	F22B3.4.2
+YKL104C_mRNA	YKL104C	Saccharomyces_cerevisiae_strain_S288C
+YMR085W_mRNA	YMR085W	Saccharomyces_cerevisiae_strain_S288C
+YMR084W_mRNA	YMR084W	Saccharomyces_cerevisiae_strain_S288C

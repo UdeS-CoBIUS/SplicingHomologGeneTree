@@ -1,0 +1,1 @@
+(((((ENSZALG00000003164__Zonotrichia_albicollis,ENSJHYG00000018371__Junco_hyemalis),ENSNPEG00000015383__Nothoprocta_perdicaria),ENSCPBG00000007462__Chrysemys_picta_bellii),(((ENSBMUG00000022261__Bos_mutus,ENSBBBG00000018169__Bison_bison_bison),ENSMSIG00000000710__Mus_spicilegus),ENSPCIG00000024700__Phascolarctos_cinereus)),ENSGAFG00000002025__Gambusia_affinis);

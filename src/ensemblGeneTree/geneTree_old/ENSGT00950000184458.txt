@@ -1,1 +1,0 @@
-(ENSTRUG00000020195__Takifugu_rubripes,ENSSDUG00000013340__Seriola_dumerili);

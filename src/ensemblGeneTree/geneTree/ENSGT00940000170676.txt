@@ -1,0 +1,1 @@
+(((ENSPVAG00000004465__Pteropus_vampyrus,ENSTTRG00000005776__Tursiops_truncatus),ENSPPYG00000014510__Pongo_abelii),ENSGACG00000017160__Gasterosteus_aculeatus);

@@ -1,1 +1,0 @@
-(((((ENSSCAG00000011637__Serinus_canaria,ENSZALG00000010714__Zonotrichia_albicollis),ENSMVIG00005016481__Manacus_vitellinus),ENSNPEG00000015578__Nothoprocta_perdicaria),ENSCABG00000012024__Chelonoidis_abingdonii),ENSNSUG00000011560__Notechis_scutatus);

@@ -1,1 +1,0 @@
-((((ENSVPAG00000003344__Vicugna_pacos,ENSTTRG00000012156__Tursiops_truncatus),(ENSBBBG00000015031__Bison_bison_bison,ENSECAG00000013756__Equus_caballus)),ENSEEUG00000014576__Erinaceus_europaeus),ENSPCOG00000016400__Propithecus_coquereli);

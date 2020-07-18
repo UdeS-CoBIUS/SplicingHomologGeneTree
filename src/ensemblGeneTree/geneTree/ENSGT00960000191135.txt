@@ -1,0 +1,1 @@
+((ENSNMEG00000021135__Numida_meleagris,ENSMGAG00000009188__Meleagris_gallopavo),ENSDNVG00000000264__Dromaius_novaehollandiae);

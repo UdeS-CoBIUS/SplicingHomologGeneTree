@@ -1,0 +1,1 @@
+(((ENSSDAG00000004115__Spermophilus_dauricus,ENSOPRG00000007078__Ochotona_princeps),(ENSPPYG00000019873__Pongo_abelii,ENSPPYG00000019902__Pongo_abelii)),ENSGAGG00000008652__Gopherus_agassizii);

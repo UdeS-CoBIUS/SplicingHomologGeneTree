@@ -1,0 +1,1 @@
+((ENSORLG00015011314__Oryzias_latipes_ASM223469v1,ENSPLAG00000007483__Poecilia_latipinna),ENSMAMG00000019420__Mastacembelus_armatus);

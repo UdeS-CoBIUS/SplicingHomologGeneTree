@@ -1,0 +1,1 @@
+((((ENSRBIG00000004652__Rhinopithecus_bieti,ENSRROG00000031506__Rhinopithecus_roxellana),ENSCANG00000041509__Colobus_angolensis_palliatus),(ENSSBOG00000019872__Saimiri_boliviensis_boliviensis,ENSANAG00000021967__Aotus_nancymaae)),ENSOPRG00000005768__Ochotona_princeps);

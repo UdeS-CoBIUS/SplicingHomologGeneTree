@@ -1,1 +1,0 @@
-(ENSPPYG00000011015__Pongo_abelii,ENSETEG00000012729__Echinops_telfairi);

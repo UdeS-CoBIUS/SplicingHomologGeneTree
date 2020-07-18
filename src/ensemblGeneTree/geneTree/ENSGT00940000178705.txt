@@ -1,0 +1,1 @@
+(((ENSLBEG00000011539__Labrus_bergylta,ENSXCOG00000020270__Xiphophorus_couchianus),ENSCSEG00000018867__Cynoglossus_semilaevis),ENSSFOG00015019477__Scleropages_formosus);

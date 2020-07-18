@@ -1,0 +1,1 @@
+(((ENSTGUG00000017421__Taeniopygia_guttata,ENSCPUG00000018246__Calidris_pugnax),(ENSDNVG00000008650__Dromaius_novaehollandiae,ENSARWG00000007739__Apteryx_rowi)),ENSMUGG00000023880__Meriones_unguiculatus);

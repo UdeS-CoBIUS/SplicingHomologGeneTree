@@ -1,0 +1,1 @@
+((((ENSTTRG00000011694__Tursiops_truncatus,ENSSARG00000001522__Sorex_araneus),ENSPVAG00000008796__Pteropus_vampyrus),ENSPPYG00000008379__Pongo_abelii),ENSPCAG00000013648__Procavia_capensis);

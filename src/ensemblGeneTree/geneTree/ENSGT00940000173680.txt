@@ -1,0 +1,1 @@
+(((ENSPTEG00000007562__Piliocolobus_tephrosceles,ENSMLEG00000033463__Mandrillus_leucophaeus),ENSPSMG00000005278__Prolemur_simus),ENSAMEG00000001313__Ailuropoda_melanoleuca);

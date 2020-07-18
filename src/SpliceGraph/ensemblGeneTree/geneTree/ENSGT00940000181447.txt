@@ -1,0 +1,1 @@
+(((ENSAMXG00005019892__Astyanax_mexicanus_Astyanax_mexicanus-1.0.2,ENSELUG00000015277__Esox_lucius),ENSFHEG00000013502__Fundulus_heteroclitus),((ENSCABG00000020701__Chelonoidis_abingdonii,ENSCPBG00000017137__Chrysemys_picta_bellii),(ENSAOWG00000012788__Apteryx_owenii,ENSMVIG00005014938__Manacus_vitellinus)));

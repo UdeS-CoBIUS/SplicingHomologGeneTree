@@ -1,0 +1,1 @@
+((((ENSMMOG00000016846__Mola_mola,ENSMMOG00000020737__Mola_mola),ENSLBEG00000008851__Labrus_bergylta),((ENSSLDG00000010426__Seriola_lalandi_dorsalis,ENSSMAG00000003259__Scophthalmus_maximus),(ENSMAMG00000019825__Mastacembelus_armatus,ENSAPOG00000014229__Acanthochromis_polyacanthus))),ENSPMGG00000023862__Periophthalmus_magnuspinnatus);

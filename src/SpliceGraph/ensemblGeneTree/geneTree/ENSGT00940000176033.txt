@@ -1,0 +1,1 @@
+(((((ENSCSEG00000019806__Cynoglossus_semilaevis,ENSPMGG00000006029__Periophthalmus_magnuspinnatus),ENSMMOG00000015937__Mola_mola),(ENSACIG00000012924__Amphilophus_citrinellus,ENSXCOG00000019209__Xiphophorus_couchianus)),ENSGMOG00000015476__Gadus_morhua),ENSPKIG00000009213__Paramormyrops_kingsleyae);

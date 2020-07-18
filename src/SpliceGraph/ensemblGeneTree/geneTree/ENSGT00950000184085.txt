@@ -1,0 +1,1 @@
+((((ENSAMXG00000042961__Astyanax_mexicanus,ENSAMXG00000030432__Astyanax_mexicanus),ENSPKIG00000001700__Paramormyrops_kingsleyae),(ENSCCEG00000020264__Cyanistes_caeruleus,ENSMMOG00000011071__Mola_mola)),ENSPMAG00000005144__Petromyzon_marinus);

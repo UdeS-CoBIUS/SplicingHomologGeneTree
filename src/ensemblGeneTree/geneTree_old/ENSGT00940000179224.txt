@@ -1,1 +1,0 @@
-((ENSAPOG00000011499__Acanthochromis_polyacanthus,ENSAOCG00000017311__Amphiprion_ocellaris),ENSSLDG00000007248__Seriola_lalandi_dorsalis);

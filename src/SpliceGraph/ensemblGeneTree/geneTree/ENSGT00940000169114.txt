@@ -1,0 +1,1 @@
+((ENSGMOG00000009421__Gadus_morhua,ENSGAFG00000017269__Gambusia_affinis),(ENSTGUG00000001253__Taeniopygia_guttata,ENSFALG00000000125__Ficedula_albicollis));

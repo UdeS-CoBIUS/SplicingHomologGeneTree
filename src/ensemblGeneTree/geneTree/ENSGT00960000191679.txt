@@ -1,0 +1,1 @@
+(ENSMVIG00005013387__Manacus_vitellinus,ENSAPLG00000027138__Anas_platyrhynchos_platyrhynchos);

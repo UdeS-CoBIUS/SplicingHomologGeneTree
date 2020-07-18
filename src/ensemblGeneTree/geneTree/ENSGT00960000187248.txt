@@ -1,0 +1,1 @@
+((((ENSAMXG00000034528__Astyanax_mexicanus,ENSAMXG00000040930__Astyanax_mexicanus),ENSPNAG00000018208__Pygocentrus_nattereri),ENSKMAG00000003549__Kryptolebias_marmoratus),ENSPSIG00000017617__Pelodiscus_sinensis);

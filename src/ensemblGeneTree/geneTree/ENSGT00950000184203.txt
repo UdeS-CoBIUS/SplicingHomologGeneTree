@@ -1,0 +1,1 @@
+((ENSPKIG00000017992__Paramormyrops_kingsleyae,ENSPKIG00000017947__Paramormyrops_kingsleyae),ENSFHEG00000020044__Fundulus_heteroclitus);

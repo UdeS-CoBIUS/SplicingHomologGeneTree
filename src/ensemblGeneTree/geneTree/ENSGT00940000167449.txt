@@ -1,0 +1,1 @@
+((ENSFCAG00000039628__Felis_catus,ENSEASG00005006033__Equus_asinus_asinus),((((ENSHGLG00000009153__Heterocephalus_glaber_HetGla_female_1.0,ENSHGLG00100003346__Heterocephalus_glaber_HetGla_1.0),ENSCAPG00000014663__Cavia_aperea),ENSCCNG00000001887__Castor_canadensis),ENSPCOG00000015673__Propithecus_coquereli));

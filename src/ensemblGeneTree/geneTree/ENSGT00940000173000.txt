@@ -1,0 +1,1 @@
+(ENSOANG00000030873__Ornithorhynchus_anatinus,ENSGMOG00000016678__Gadus_morhua);

@@ -1,0 +1,1 @@
+((ENSCAFG00000029361__Canis_lupus_familiaris,ENSBMUG00000022093__Bos_mutus),((ENSSDAG00000016861__Spermophilus_dauricus,ENSUPAG00010014893__Urocitellus_parryii),ENSCCNG00000031277__Castor_canadensis));

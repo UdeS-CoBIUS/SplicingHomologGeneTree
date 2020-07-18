@@ -1,0 +1,1 @@
+((((ENSTRUG00000019545__Takifugu_rubripes,ENSMZEG00005002042__Maylandia_zebra),ENSSMAG00000018625__Scophthalmus_maximus),ENSPNAG00000022976__Pygocentrus_nattereri),((ENSCPUG00000004609__Calidris_pugnax,ENSCPUG00000004607__Calidris_pugnax),ENSNMEG00000001554__Numida_meleagris));

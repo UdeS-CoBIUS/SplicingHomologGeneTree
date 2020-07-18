@@ -1,0 +1,1 @@
+(((ENSPMGG00000001695__Periophthalmus_magnuspinnatus,ENSLBEG00000012373__Labrus_bergylta),(ENSXETG00000002633__Xenopus_tropicalis,ENSAMXG00000039664__Astyanax_mexicanus)),ENSEBUG00000002808__Eptatretus_burgeri);

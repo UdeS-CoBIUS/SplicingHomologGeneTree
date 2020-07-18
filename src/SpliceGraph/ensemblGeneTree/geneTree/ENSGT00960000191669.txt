@@ -1,0 +1,1 @@
+(ENSAPLG00000026780__Anas_platyrhynchos_platyrhynchos,ENSAPLG00000021066__Anas_platyrhynchos_platyrhynchos);

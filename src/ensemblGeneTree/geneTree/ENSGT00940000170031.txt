@@ -1,0 +1,1 @@
+(((((ENSXMAG00000008355__Xiphophorus_maculatus,ENSPMEG00000005522__Poecilia_mexicana),ENSCVAG00000011449__Cyprinodon_variegatus),ENSNBRG00000004406__Neolamprologus_brichardi),ENSEBUG00000013345__Eptatretus_burgeri),FBgn0000826__Drosophila_melanogaster);

@@ -1,0 +1,1 @@
+((((((ENSMFAG00000018471__Macaca_fascicularis,ENSPANG00000033556__Papio_anubis),ENSCATG00000013876__Cercocebus_atys),(ENSRBIG00000034180__Rhinopithecus_bieti,ENSRROG00000034913__Rhinopithecus_roxellana)),ENSCATG00000000447__Cercocebus_atys),ENSCCNG00000018126__Castor_canadensis),ENSGAGG00000002191__Gopherus_agassizii);

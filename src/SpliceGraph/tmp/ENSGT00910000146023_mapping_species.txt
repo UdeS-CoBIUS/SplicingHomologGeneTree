@@ -1,0 +1,6 @@
+MERIONESUNGUICULATUS	meriones_unguiculatus
+MUSSPICILEGUS	mus_spicilegus
+HETEROCEPHALUSGLABERMALE	heterocephalus_glaber_male
+HETEROCEPHALUSGLABERFEMALE	heterocephalus_glaber_female
+PANTROGLODYTES	pan_troglodytes
+GORILLAGORILLA	gorilla_gorilla

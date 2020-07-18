@@ -1,0 +1,1 @@
+(ENSGALG00000039480__Gallus_gallus,ENSCJPG00005015743__Coturnix_japonica);

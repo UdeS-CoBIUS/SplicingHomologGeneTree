@@ -1,0 +1,1 @@
+((((((ENSPVAG00000003938__Pteropus_vampyrus,ENSEEUG00000011089__Erinaceus_europaeus),ENSTTRG00000005401__Tursiops_truncatus),ENSTBEG00000014655__Tupaia_belangeri),ENSCHOG00000003029__Choloepus_hoffmanni),ENSETEG00000010689__Echinops_telfairi),(ENSMEUG00000008975__Notamacropus_eugenii,ENSSHAG00000000233__Sarcophilus_harrisii));

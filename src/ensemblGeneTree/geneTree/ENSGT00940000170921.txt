@@ -1,0 +1,1 @@
+((((ENSLBEG00000026305__Labrus_bergylta,ENSGACG00000003960__Gasterosteus_aculeatus),((ENSPFOG00000024461__Poecilia_formosa,ENSLCAG00010019569__Lates_calcarifer),ENSHHUG00000013802__Hucho_hucho)),ENSDARG00000086104__Danio_rerio),ENSCMIG00000009720__Callorhinchus_milii);

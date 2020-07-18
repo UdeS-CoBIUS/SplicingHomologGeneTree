@@ -1,1 +1,0 @@
-((((ENSLBEG00000025719__Labrus_bergylta,ENSPMGG00000003399__Periophthalmus_magnuspinnatus),ENSSLDG00000005096__Seriola_lalandi_dorsalis),(ENSGACG00000005650__Gasterosteus_aculeatus,ENSGMOG00000013641__Gadus_morhua)),(ENSZALG00000010242__Zonotrichia_albicollis,ENSNPEG00000001487__Nothoprocta_perdicaria));

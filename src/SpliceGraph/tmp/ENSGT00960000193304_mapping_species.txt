@@ -1,0 +1,3 @@
+PILIOCOLOBUSTEPHROSCELES	piliocolobus_tephrosceles
+THEROPITHECUSGELADA	theropithecus_gelada
+HOMOSAPIENS	homo_sapiens

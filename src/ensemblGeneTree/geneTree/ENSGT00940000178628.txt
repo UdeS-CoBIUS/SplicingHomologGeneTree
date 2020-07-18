@@ -1,0 +1,1 @@
+((((ENSPLAG00000010854__Poecilia_latipinna,ENSACLG00000012083__Astatotilapia_calliptera),ENSMALG00000016451__Monopterus_albus),ENSPNAG00000014187__Pygocentrus_nattereri),ENSSFOG00015000971__Scleropages_formosus);

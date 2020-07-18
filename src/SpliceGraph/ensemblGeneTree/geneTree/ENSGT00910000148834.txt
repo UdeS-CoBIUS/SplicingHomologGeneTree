@@ -1,0 +1,1 @@
+((((ENSUPAG00010013452__Urocitellus_parryii,ENSSDAG00000007565__Spermophilus_dauricus),ENSMSIG00000027156__Mus_spicilegus),(((ENSPPAG00000015281__Pan_paniscus,ENSPTRG00000044813__Pan_troglodytes),ENSGGOG00000040102__Gorilla_gorilla),ENSPTEG00000027412__Piliocolobus_tephrosceles)),(ENSCAFG00000047222__Canis_lupus_familiaris,ENSCAFG00020018198__Canis_lupus_dingo));

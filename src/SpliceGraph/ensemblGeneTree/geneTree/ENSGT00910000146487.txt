@@ -1,0 +1,1 @@
+(MGP_CAROLIEiJ_G0024194__Mus_caroli_strain_CAROLI_EIJ,ENSG00000262560__Homo_sapiens);

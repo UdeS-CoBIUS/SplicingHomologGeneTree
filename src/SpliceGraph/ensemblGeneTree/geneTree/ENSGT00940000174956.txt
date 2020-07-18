@@ -1,0 +1,1 @@
+(YLR077W__Saccharomyces_cerevisiae_strain_S288C,FBgn0031344__Drosophila_melanogaster);

@@ -1,0 +1,1 @@
+(ENSVVUG00000024605__Vulpes_vulpes,ENSCAFG00000030482__Canis_lupus_familiaris);

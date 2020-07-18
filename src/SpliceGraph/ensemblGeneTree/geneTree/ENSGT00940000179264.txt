@@ -1,0 +1,1 @@
+((ENSPREG00000020435__Poecilia_reticulata,ENSACIG00000008172__Amphilophus_citrinellus),ENSPMGG00000022101__Periophthalmus_magnuspinnatus);

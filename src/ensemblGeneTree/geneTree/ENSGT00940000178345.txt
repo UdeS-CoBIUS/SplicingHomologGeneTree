@@ -1,0 +1,1 @@
+((((ENSMMOG00000002279__Mola_mola,ENSNBRG00000009334__Neolamprologus_brichardi),ENSACIG00000014728__Amphilophus_citrinellus),(ENSORLG00020001959__Oryzias_latipes_ASM223471v1,ENSTRUG00000019778__Takifugu_rubripes)),ENSPMGG00000011224__Periophthalmus_magnuspinnatus);

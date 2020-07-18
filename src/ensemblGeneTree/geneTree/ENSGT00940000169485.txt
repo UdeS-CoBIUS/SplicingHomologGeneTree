@@ -1,0 +1,1 @@
+(((ENSSDAG00000005650__Spermophilus_dauricus,ENSMMMG00000014748__Marmota_marmota_marmota),ENSCAPG00000002125__Cavia_aperea),((MGP_SPRETEiJ_G0016843__Mus_spretus_strain_SPRET/EiJ,MGP_CAROLIEiJ_G0016004__Mus_caroli_strain_CAROLI_EIJ),ENSCGRG00000003994__Cricetulus_griseus_CriGri_1.0));

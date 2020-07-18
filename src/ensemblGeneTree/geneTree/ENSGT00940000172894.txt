@@ -1,0 +1,1 @@
+(((ENSAMXG00000034614__Astyanax_mexicanus,ENSAMXG00000017219__Astyanax_mexicanus),(ENSPCIG00000004595__Phascolarctos_cinereus,ENSPCIG00000030972__Phascolarctos_cinereus)),WBGene00011688__Caenorhabditis_elegans_strain_N2);

@@ -1,0 +1,1 @@
+((((ENSSHAG00000005217__Sarcophilus_harrisii,ENSCSEG00000018317__Cynoglossus_semilaevis),ENSMPUG00000007229__Mustela_putorius_furo),ENSSHAG00000017651__Sarcophilus_harrisii),ENSEBUG00000005428__Eptatretus_burgeri);

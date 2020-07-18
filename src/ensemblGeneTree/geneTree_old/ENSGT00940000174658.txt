@@ -1,1 +1,0 @@
-((ENSNVIG00000004562__Neovison_vison,ENSCHIG00000019006__Capra_hircus),ENSCCNG00000028177__Castor_canadensis);

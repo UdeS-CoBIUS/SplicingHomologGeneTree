@@ -1,0 +1,1 @@
+((ENSONIG00000020849__Oreochromis_niloticus,ENSGACG00000003449__Gasterosteus_aculeatus),ENSGMOG00000012710__Gadus_morhua);

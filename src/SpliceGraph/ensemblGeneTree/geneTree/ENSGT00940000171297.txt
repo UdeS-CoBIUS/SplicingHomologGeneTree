@@ -1,0 +1,1 @@
+(ENSODEG00000005885__Octodon_degus,ENSCPOG00000037530__Cavia_porcellus);

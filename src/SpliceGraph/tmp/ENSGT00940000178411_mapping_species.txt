@@ -1,0 +1,5 @@
+POECILIAMEXICANA	poecilia_mexicana
+POECILIAMEXICANA	poecilia_mexicana
+POECILIALATIPINNA	poecilia_latipinna
+XIPHOPHORUSCOUCHIANUS	xiphophorus_couchianus
+HIPPOCAMPUSCOMES	hippocampus_comes

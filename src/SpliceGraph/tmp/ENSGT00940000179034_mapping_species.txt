@@ -1,0 +1,4 @@
+NEOLAMPROLOGUSBRICHARDI	neolamprologus_brichardi
+NEOLAMPROLOGUSBRICHARDI	neolamprologus_brichardi
+POECILIALATIPINNA	poecilia_latipinna
+ACANTHOCHROMISPOLYACANTHUS	acanthochromis_polyacanthus

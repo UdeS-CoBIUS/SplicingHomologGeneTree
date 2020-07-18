@@ -1,0 +1,1 @@
+(ENSPKIG00000022210__Paramormyrops_kingsleyae,ENSOCUG00000025647__Oryctolagus_cuniculus);

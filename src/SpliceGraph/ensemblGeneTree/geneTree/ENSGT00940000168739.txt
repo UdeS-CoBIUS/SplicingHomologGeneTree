@@ -1,0 +1,1 @@
+(((ENSMAUG00000017840__Mesocricetus_auratus,ENSCGRG00001014007__Cricetulus_griseus_CHOK1GS_HDv1),ENSPEMG00000028627__Peromyscus_maniculatus_bairdii),ENSNGAG00000018977__Nannospalax_galili);

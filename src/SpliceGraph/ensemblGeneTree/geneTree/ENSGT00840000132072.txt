@@ -1,0 +1,1 @@
+((ENSSCAG00000012151__Serinus_canaria,ENSLACG00000014581__Latimeria_chalumnae),((ENSXMAG00000026744__Xiphophorus_maculatus,ENSXMAG00000021401__Xiphophorus_maculatus),ENSPLAG00000013220__Poecilia_latipinna));

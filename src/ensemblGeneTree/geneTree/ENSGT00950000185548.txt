@@ -1,0 +1,1 @@
+((ENSPCIG00000001957__Phascolarctos_cinereus,ENSTSYG00000028417__Carlito_syrichta),(ENSCJPG00005014822__Coturnix_japonica,ENSAPLG00000017349__Anas_platyrhynchos_platyrhynchos));

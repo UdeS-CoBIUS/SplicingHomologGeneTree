@@ -1,1 +1,0 @@
-(((ENSCSAVG00000003217__Ciona_savignyi,ENSCSAVG00000003223__Ciona_savignyi),ENSCSAVG00000003221__Ciona_savignyi),ENSCSAVG00000003445__Ciona_savignyi);

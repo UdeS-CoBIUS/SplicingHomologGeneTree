@@ -1,0 +1,1 @@
+(((ENSAHAG00000002427__Apteryx_haastii,ENSAOWG00000006311__Apteryx_owenii),ENSCPGG00000004454__Calidris_pygmaea),(ENSFHEG00000008414__Fundulus_heteroclitus,ENSNBRG00000000183__Neolamprologus_brichardi));

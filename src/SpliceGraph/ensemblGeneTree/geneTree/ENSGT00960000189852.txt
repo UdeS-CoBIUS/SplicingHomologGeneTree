@@ -1,0 +1,1 @@
+((ENSAOWG00000011865__Apteryx_owenii,ENSAHAG00000003987__Apteryx_haastii),(ENSDNVG00000004324__Dromaius_novaehollandiae,ENSNPEG00000009803__Nothoprocta_perdicaria));

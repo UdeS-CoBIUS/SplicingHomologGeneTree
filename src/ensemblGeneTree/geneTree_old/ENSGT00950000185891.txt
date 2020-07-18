@@ -1,1 +1,0 @@
-(((ENSARWG00000006495__Apteryx_rowi,ENSAHAG00000018511__Apteryx_haastii),ENSGAGG00000006272__Gopherus_agassizii),ENSSDUG00000013483__Seriola_dumerili);

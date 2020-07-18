@@ -1,0 +1,1 @@
+(((ENSG00000256618__Homo_sapiens,ENSG00000270672__Homo_sapiens),(ENSPPAG00000007406__Pan_paniscus,ENSPTRG00000044149__Pan_troglodytes)),((ENSPTEG00000022741__Piliocolobus_tephrosceles,ENSRBIG00000007100__Rhinopithecus_bieti),ENSCSAG00000019501__Chlorocebus_sabaeus));

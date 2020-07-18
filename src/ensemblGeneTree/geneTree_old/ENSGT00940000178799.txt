@@ -1,1 +1,0 @@
-(((ENSPMEG00000007931__Poecilia_mexicana,ENSPLAG00000006040__Poecilia_latipinna),ENSAPOG00000023464__Acanthochromis_polyacanthus),ENSATEG00000015059__Anabas_testudineus);

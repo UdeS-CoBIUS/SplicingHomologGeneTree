@@ -1,1 +1,0 @@
-(((ENSSDUG00000009181__Seriola_dumerili,ENSMMOG00000015163__Mola_mola),ENSAPOG00000005772__Acanthochromis_polyacanthus),ENSHCOG00000018103__Hippocampus_comes);

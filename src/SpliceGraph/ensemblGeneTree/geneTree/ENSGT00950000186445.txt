@@ -1,0 +1,1 @@
+((ENSGALG00000054191__Gallus_gallus,ENSAPLG00000028828__Anas_platyrhynchos_platyrhynchos),ENSGAFG00000017299__Gambusia_affinis);

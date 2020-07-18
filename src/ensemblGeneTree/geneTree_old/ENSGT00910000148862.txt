@@ -1,1 +1,0 @@
-(((((ENSPTRG00000046839__Pan_troglodytes,ENSPTRG00000047474__Pan_troglodytes),ENSPTRG00000047735__Pan_troglodytes),ENSPTRG00000046577__Pan_troglodytes),ENSPTRG00000051781__Pan_troglodytes),ENSPTRG00000048294__Pan_troglodytes);

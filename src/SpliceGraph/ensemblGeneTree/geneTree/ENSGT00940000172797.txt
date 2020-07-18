@@ -1,0 +1,1 @@
+(((((ENSACLG00000004135__Astatotilapia_calliptera,ENSPNYG00000012481__Pundamilia_nyererei),ENSNBRG00000009626__Neolamprologus_brichardi),ENSOMEG00000022031__Oryzias_melastigma),ENSGACG00000012205__Gasterosteus_aculeatus),ENSGMOG00000018455__Gadus_morhua);

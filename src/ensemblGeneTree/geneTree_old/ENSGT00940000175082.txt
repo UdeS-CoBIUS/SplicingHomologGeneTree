@@ -1,1 +1,0 @@
-((ENSMLUG00000023402__Myotis_lucifugus,ENSSARG00000008926__Sorex_araneus),ENSPVIG00000004824__Pogona_vitticeps);

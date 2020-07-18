@@ -1,0 +1,1 @@
+(((ENSCAFG00000028692__Canis_lupus_familiaris,ENSEASG00005018542__Equus_asinus_asinus),ENSUAMG00000004239__Ursus_americanus),ENSPCIG00000029168__Phascolarctos_cinereus);

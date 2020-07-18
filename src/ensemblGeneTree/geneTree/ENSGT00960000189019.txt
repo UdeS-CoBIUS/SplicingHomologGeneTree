@@ -1,0 +1,1 @@
+((ENSLSDG00000000705__Lonchura_striata_domestica,ENSARWG00000014109__Apteryx_rowi),ENSACIG00000023200__Amphilophus_citrinellus);

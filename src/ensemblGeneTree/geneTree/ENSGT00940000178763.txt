@@ -1,0 +1,1 @@
+(((ENSPMEG00000022610__Poecilia_mexicana,ENSPLAG00000012802__Poecilia_latipinna),ENSXCOG00000000017__Xiphophorus_couchianus),ENSSPAG00000000379__Stegastes_partitus);

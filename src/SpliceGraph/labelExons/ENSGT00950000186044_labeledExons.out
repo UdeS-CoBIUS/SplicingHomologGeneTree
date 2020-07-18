@@ -1,0 +1,6 @@
+>0
+ENSPCIT00000046614: ['no event', 90, 0]
+ENSPCIT00000009065: ['exon skipping', 0, 0]
+>1
+ENSPCIT00000046614: [['internal gap >= 30', 112, 103], 152, 1]
+ENSPCIT00000009065: ['5event', 254, 0]

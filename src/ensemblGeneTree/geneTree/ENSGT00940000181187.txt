@@ -1,0 +1,1 @@
+((ENSCSEG00000017371__Cynoglossus_semilaevis,ENSSLDG00000006443__Seriola_lalandi_dorsalis),ENSLCRG00005021054__Larimichthys_crocea);

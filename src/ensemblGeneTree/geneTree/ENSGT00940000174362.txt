@@ -1,0 +1,1 @@
+(((ENSPFOG00000013287__Poecilia_formosa,ENSPLAG00000022071__Poecilia_latipinna),ENSXMAG00000025647__Xiphophorus_maculatus),(((ENSPFOG00000004126__Poecilia_formosa,ENSPLAG00000006336__Poecilia_latipinna),ENSPMEG00000009198__Poecilia_mexicana),ENSXMAG00000029915__Xiphophorus_maculatus));

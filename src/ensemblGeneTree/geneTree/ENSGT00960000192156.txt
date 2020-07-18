@@ -1,0 +1,1 @@
+(ENSDNVG00000008922__Dromaius_novaehollandiae,ENSABRG00000019766__Anser_brachyrhynchus);

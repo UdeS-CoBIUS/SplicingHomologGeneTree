@@ -1,0 +1,1 @@
+((ENSCLAG00000002668__Chinchilla_lanigera,ENSHGLG00000005191__Heterocephalus_glaber_HetGla_female_1.0),(ENSMAUG00000018531__Mesocricetus_auratus,ENSMOCG00000013006__Microtus_ochrogaster));

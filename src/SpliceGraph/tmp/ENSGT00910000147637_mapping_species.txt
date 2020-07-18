@@ -1,0 +1,6 @@
+THEROPITHECUSGELADA	theropithecus_gelada
+MACACANEMESTRINA	macaca_nemestrina
+CERCOCEBUSATYS	cercocebus_atys
+RHINOPITHECUSROXELLANA	rhinopithecus_roxellana
+MANDRILLUSLEUCOPHAEUS	mandrillus_leucophaeus
+CALLITHRIXJACCHUS	callithrix_jacchus

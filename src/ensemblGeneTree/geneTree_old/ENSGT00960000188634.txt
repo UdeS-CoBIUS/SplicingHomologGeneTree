@@ -1,1 +1,0 @@
-((ENSCPBG00000010639__Chrysemys_picta_bellii,ENSSHAG00000013050__Sarcophilus_harrisii),ENSLOCG00000017468__Lepisosteus_oculatus);

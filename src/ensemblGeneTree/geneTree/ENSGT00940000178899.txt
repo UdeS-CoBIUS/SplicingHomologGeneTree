@@ -1,0 +1,1 @@
+(((ENSHCOG00000015753__Hippocampus_comes,ENSORLG00020022295__Oryzias_latipes_ASM223471v1),ENSFHEG00000021806__Fundulus_heteroclitus),ENSSDUG00000002134__Seriola_dumerili);

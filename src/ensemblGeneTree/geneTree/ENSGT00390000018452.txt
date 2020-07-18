@@ -1,0 +1,1 @@
+((((ENSRBIG00000039831__Rhinopithecus_bieti,ENSRROG00000044635__Rhinopithecus_roxellana),ENSCANG00000034677__Colobus_angolensis_palliatus),((((ENSPTRG00000049089__Pan_troglodytes,ENSPPAG00000033186__Pan_paniscus),ENSGGOG00000041138__Gorilla_gorilla),ENSPPYG00000011721__Pongo_abelii),ENSNLEG00000034039__Nomascus_leucogenys)),ENSETEG00000013434__Echinops_telfairi);

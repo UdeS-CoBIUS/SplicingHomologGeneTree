@@ -1,0 +1,1 @@
+((ENSAPOG00000004211__Acanthochromis_polyacanthus,ENSAPOG00000004221__Acanthochromis_polyacanthus),ENSTRUG00000022686__Takifugu_rubripes);

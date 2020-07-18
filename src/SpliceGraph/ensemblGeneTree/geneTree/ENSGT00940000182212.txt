@@ -1,0 +1,1 @@
+(ENSDARG00000097725__Danio_rerio,ENSIPUG00000007681__Ictalurus_punctatus);

@@ -1,0 +1,1 @@
+((ENSORLG00000022288__Oryzias_latipes_ASM223467v1,ENSORLG00000026928__Oryzias_latipes_ASM223467v1),(ENSLACG00000005511__Latimeria_chalumnae,ENSLACG00000005723__Latimeria_chalumnae));

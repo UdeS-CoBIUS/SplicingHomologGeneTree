@@ -1,0 +1,3 @@
+GAMBUSIAAFFINIS	gambusia_affinis
+POECILIARETICULATA	poecilia_reticulata
+NEOLAMPROLOGUSBRICHARDI	neolamprologus_brichardi

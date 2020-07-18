@@ -1,0 +1,6 @@
+>cluster_0
+R03A10.4a.1
+>cluster_1
+F28H6.3.1	R03A10.4a.2
+>cluster_2
+YJL060W_mRNA	R03A10.4b.1

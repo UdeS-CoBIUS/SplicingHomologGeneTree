@@ -1,0 +1,1 @@
+((ENSECAG00000019237__Equus_caballus,ENSMPUG00000011565__Mustela_putorius_furo),ENSMMMG00000007039__Marmota_marmota_marmota);

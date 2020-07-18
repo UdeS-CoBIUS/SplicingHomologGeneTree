@@ -1,0 +1,1 @@
+(((((ENSMSIG00000010201__Mus_spicilegus,ENSRNOG00000055140__Rattus_norvegicus),ENSCGRG00015024924__Cricetulus_griseus_CriGri-PICR),ENSCCNG00000021932__Castor_canadensis),(ENSUPAG00010011292__Urocitellus_parryii,ENSMMMG00000020192__Marmota_marmota_marmota)),(ENSCAFG00020021226__Canis_lupus_dingo,ENSVVUG00000020821__Vulpes_vulpes));

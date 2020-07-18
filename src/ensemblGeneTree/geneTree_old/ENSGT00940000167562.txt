@@ -1,1 +1,0 @@
-((((((ENSFCAG00000033295__Felis_catus,ENSAMEG00000019725__Ailuropoda_melanoleuca),ENSPVAG00000010959__Pteropus_vampyrus),ENSSBOG00000028748__Saimiri_boliviensis_boliviensis),ENSDNOG00000039801__Dasypus_novemcinctus),ENSGAGG00000004690__Gopherus_agassizii),ENSXETG00000014146__Xenopus_tropicalis);

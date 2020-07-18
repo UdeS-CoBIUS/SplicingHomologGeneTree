@@ -1,0 +1,1 @@
+(((((ENSMVIG00005008757__Manacus_vitellinus,ENSCCEG00000014594__Cyanistes_caeruleus),ENSDNVG00000010609__Dromaius_novaehollandiae),ENSCJPG00005003045__Coturnix_japonica),ENSFALG00000003005__Ficedula_albicollis),ENSNSUG00000018267__Notechis_scutatus);

@@ -1,0 +1,1 @@
+((ENSPNAG00000029119__Pygocentrus_nattereri,ENSPNAG00000027778__Pygocentrus_nattereri),ENSPKIG00000006441__Paramormyrops_kingsleyae);

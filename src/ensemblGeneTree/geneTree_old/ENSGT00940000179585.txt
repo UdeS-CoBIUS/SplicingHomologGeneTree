@@ -1,1 +1,0 @@
-((ENSSMAG00000018415__Scophthalmus_maximus,ENSGAFG00000005314__Gambusia_affinis),ENSAMXG00000032943__Astyanax_mexicanus);

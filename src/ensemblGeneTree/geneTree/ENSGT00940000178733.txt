@@ -1,0 +1,1 @@
+((ENSAPOG00000020775__Acanthochromis_polyacanthus,ENSPMGG00000015544__Periophthalmus_magnuspinnatus),(ENSMAMG00000005911__Mastacembelus_armatus,ENSSLDG00000006367__Seriola_lalandi_dorsalis));

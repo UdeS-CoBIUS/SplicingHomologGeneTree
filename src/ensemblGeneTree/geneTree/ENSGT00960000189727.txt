@@ -1,0 +1,1 @@
+(((ENSMUGG00000004190__Meriones_unguiculatus,ENSMUGG00000004179__Meriones_unguiculatus),ENSMUGG00000018941__Meriones_unguiculatus),(ENSMSIG00000008289__Mus_spicilegus,MGP_CAROLIEiJ_G0019128__Mus_caroli_strain_CAROLI_EIJ));

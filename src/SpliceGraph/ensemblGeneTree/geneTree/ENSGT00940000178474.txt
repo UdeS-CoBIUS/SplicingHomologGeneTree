@@ -1,0 +1,1 @@
+(((((ENSXCOG00000008855__Xiphophorus_couchianus,ENSXCOG00000017682__Xiphophorus_couchianus),ENSXMAG00000022640__Xiphophorus_maculatus),ENSGAFG00000001193__Gambusia_affinis),ENSMAMG00000002497__Mastacembelus_armatus),ENSNSUG00000003495__Notechis_scutatus);

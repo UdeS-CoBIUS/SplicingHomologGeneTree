@@ -1,1 +1,0 @@
-(((ENSSHAG00000015000__Sarcophilus_harrisii,ENSPCIG00000026588__Phascolarctos_cinereus),(((ENSCAPG00000008161__Cavia_aperea,ENSOPRG00000009972__Ochotona_princeps),ENSMMUG00000047747__Macaca_mulatta),ENSETEG00000011482__Echinops_telfairi)),ENSOANG00000013744__Ornithorhynchus_anatinus);

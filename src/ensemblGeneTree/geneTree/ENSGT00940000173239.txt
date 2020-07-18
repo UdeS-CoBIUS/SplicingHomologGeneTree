@@ -1,0 +1,1 @@
+(((ENSAPEG00000005228__Amphiprion_percula,ENSSLDG00000006385__Seriola_lalandi_dorsalis),(ENSTBEG00000007690__Tupaia_belangeri,ENSMEUG00000001899__Notamacropus_eugenii)),ENSPMAG00000006121__Petromyzon_marinus);

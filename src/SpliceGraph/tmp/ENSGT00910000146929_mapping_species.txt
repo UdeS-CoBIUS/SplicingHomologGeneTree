@@ -1,0 +1,12 @@
+GORILLAGORILLA	gorilla_gorilla
+PONGOABELII	pongo_abelii
+NOMASCUSLEUCOGENYS	nomascus_leucogenys
+MACACAFASCICULARIS	macaca_fascicularis
+MACACANEMESTRINA	macaca_nemestrina
+CERCOCEBUSATYS	cercocebus_atys
+MANDRILLUSLEUCOPHAEUS	mandrillus_leucophaeus
+PAPIOANUBIS	papio_anubis
+RHINOPITHECUSROXELLANA	rhinopithecus_roxellana
+RHINOPITHECUSBIETI	rhinopithecus_bieti
+COLOBUSANGOLENSISPALLIATUS	colobus_angolensis_palliatus
+AOTUSNANCYMAAE	aotus_nancymaae

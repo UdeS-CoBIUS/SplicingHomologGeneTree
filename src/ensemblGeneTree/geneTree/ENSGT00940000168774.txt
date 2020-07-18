@@ -1,0 +1,1 @@
+((((ENSCANG00000032589__Colobus_angolensis_palliatus,ENSNLEG00000003603__Nomascus_leucogenys),ENSTSYG00000013827__Carlito_syrichta),ENSHGLG00100010063__Heterocephalus_glaber_HetGla_1.0),ENSZALG00000007407__Zonotrichia_albicollis);

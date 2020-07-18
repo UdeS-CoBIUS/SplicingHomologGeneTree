@@ -1,0 +1,12 @@
+>0
+ENSPTRT00000102998: ['3event', 465, 0]
+ENSPPAT00000054488: ['3event', 465, 0]
+ENSGGOT00000059649: ['3event', 492, 0]
+ENSNLET00000037962: [['internal gap >= 30', 463, 32], 503, 0]
+ENSRROT00000045932: ['3event', 500, 0]
+>1
+ENSPTRT00000102998: ['exon skipping', 0, 0]
+ENSPPAT00000054488: ['exon skipping', 0, 0]
+ENSGGOT00000059649: ['exon skipping', 0, 0]
+ENSNLET00000037962: ['exon skipping', 0, 0]
+ENSRROT00000045932: ['5event', 12, 2]

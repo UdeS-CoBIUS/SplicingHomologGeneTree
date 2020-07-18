@@ -1,0 +1,68 @@
+>0
+C23H5.7.1: ['no event', 62, 0]
+Y76B12C.1a.1: ['exon skipping', 0, 0]
+Y76B12C.1b.1: ['exon skipping', 0, 0]
+>1
+C23H5.7.1: ['exon skipping', 0, 0]
+Y76B12C.1a.1: ['5event', 110, 0]
+Y76B12C.1b.1: ['exon skipping', 0, 0]
+>2
+C23H5.7.1: ['5event', 91, 0]
+Y76B12C.1a.1: [['internal gap < 30', 77, 11], 87, 0]
+Y76B12C.1b.1: ['exon skipping', 0, 0]
+>3
+C23H5.7.1: ['exon skipping', 0, 0]
+Y76B12C.1a.1: ['no event', 263, 0]
+Y76B12C.1b.1: ['exon skipping', 0, 0]
+>4
+C23H5.7.1: ['exon skipping', 0, 0]
+Y76B12C.1a.1: ['no event', 187, 0]
+Y76B12C.1b.1: ['exon skipping', 0, 0]
+>5
+C23H5.7.1: ['5event', 5, 2]
+Y76B12C.1a.1: ['exon skipping', 0, 0]
+Y76B12C.1b.1: ['exon skipping', 0, 0]
+>6
+C23H5.7.1: ['no event', 209, 2]
+Y76B12C.1a.1: ['5event', 208, 2]
+Y76B12C.1b.1: ['exon skipping', 0, 0]
+>7
+C23H5.7.1: [['internal gap < 30', 83, 2], 167, 1]
+Y76B12C.1a.1: [['internal gap < 30', 57, 5], 164, 1]
+Y76B12C.1b.1: ['exon skipping', 0, 0]
+>8
+C23H5.7.1: ['no event', 220, 1]
+Y76B12C.1a.1: ['no event', 220, 1]
+Y76B12C.1b.1: ['exon skipping', 0, 0]
+>9
+C23H5.7.1: [['internal gap >= 30', 113, 540], 285, 0]
+Y76B12C.1a.1: [['internal gap >= 30', 126, 543], 282, 0]
+Y76B12C.1b.1: ['exon skipping', 0, 0]
+>10
+C23H5.7.1: ['no event', 87, 1]
+Y76B12C.1a.1: ['no event', 87, 1]
+Y76B12C.1b.1: ['exon skipping', 0, 0]
+>11
+C23H5.7.1: ['no event', 81, 2]
+Y76B12C.1a.1: ['no event', 81, 2]
+Y76B12C.1b.1: ['exon skipping', 0, 0]
+>12
+C23H5.7.1: [['internal gap < 30', 73, 2], 447, 0]
+Y76B12C.1a.1: [['internal gap < 30', 98, 2], 447, 0]
+Y76B12C.1b.1: ['5event', 318, 0]
+>13
+C23H5.7.1: ['no event', 94, 1]
+Y76B12C.1a.1: [['internal gap < 30', 62, 3], 91, 1]
+Y76B12C.1b.1: [['internal gap < 30', 62, 3], 91, 1]
+>14
+C23H5.7.1: ['no event', 95, 0]
+Y76B12C.1a.1: ['no event', 95, 0]
+Y76B12C.1b.1: ['no event', 95, 0]
+>15
+C23H5.7.1: ['no event', 5, 0]
+Y76B12C.1a.1: ['exon skipping', 0, 0]
+Y76B12C.1b.1: ['exon skipping', 0, 0]
+>16
+C23H5.7.1: ['3event', 118, 0]
+Y76B12C.1a.1: ['5event', 131, 0]
+Y76B12C.1b.1: ['5event', 131, 0]

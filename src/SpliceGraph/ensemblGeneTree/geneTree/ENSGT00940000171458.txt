@@ -1,0 +1,1 @@
+(((ENSPNAG00000002912__Pygocentrus_nattereri,ENSIPUG00000000872__Ictalurus_punctatus),(ENSGACG00000007618__Gasterosteus_aculeatus,ENSGMOG00000000086__Gadus_morhua)),ENSLOCG00000004055__Lepisosteus_oculatus);

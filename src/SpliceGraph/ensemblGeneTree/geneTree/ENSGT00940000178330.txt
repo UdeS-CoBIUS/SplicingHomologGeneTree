@@ -1,0 +1,1 @@
+((((ENSACIG00000023135__Amphilophus_citrinellus,ENSACIG00000023763__Amphilophus_citrinellus),ENSACIG00000023691__Amphilophus_citrinellus),(ENSPNYG00000023939__Pundamilia_nyererei,ENSHBUG00000021741__Haplochromis_burtoni)),ENSSPAG00000020754__Stegastes_partitus);

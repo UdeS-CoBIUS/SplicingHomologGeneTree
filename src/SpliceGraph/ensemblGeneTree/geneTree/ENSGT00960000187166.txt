@@ -1,0 +1,1 @@
+(((ENSSFOG00015012890__Scleropages_formosus,ENSOMEG00000006665__Oryzias_melastigma),(((ENSPREG00000013379__Poecilia_reticulata,ENSFHEG00000011552__Fundulus_heteroclitus),ENSAOCG00000009530__Amphiprion_ocellaris),ENSCJPG00005006464__Coturnix_japonica)),FBgn0053926__Drosophila_melanogaster);

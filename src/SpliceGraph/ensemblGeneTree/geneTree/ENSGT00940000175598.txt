@@ -1,0 +1,1 @@
+((ENSLOCG00000002939__Lepisosteus_oculatus,ENSPMGG00000002358__Periophthalmus_magnuspinnatus),ENSEBUG00000005948__Eptatretus_burgeri);

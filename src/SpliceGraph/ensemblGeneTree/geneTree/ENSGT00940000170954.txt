@@ -1,0 +1,1 @@
+((((ENSFALG00000014844__Ficedula_albicollis,ENSLCOG00000002694__Lepidothrix_coronata),ENSTGUG00000002475__Taeniopygia_guttata),(ENSPVIG00000020784__Pogona_vitticeps,ENSNSUG00000020634__Notechis_scutatus)),((ENSPNAG00000023779__Pygocentrus_nattereri,ENSIPUG00000016197__Ictalurus_punctatus),ENSDARG00000067806__Danio_rerio));

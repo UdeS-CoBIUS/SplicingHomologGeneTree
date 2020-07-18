@@ -1,0 +1,4 @@
+PANTROGLODYTES	pan_troglodytes
+PANPANISCUS	pan_paniscus
+GORILLAGORILLA	gorilla_gorilla
+NOMASCUSLEUCOGENYS	nomascus_leucogenys

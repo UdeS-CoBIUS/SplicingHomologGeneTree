@@ -1,0 +1,1 @@
+(((ENSCABG00000009128__Chelonoidis_abingdonii,ENSCAPG00000017339__Cavia_aperea),ENSOANG00000031006__Ornithorhynchus_anatinus),ENSOMEG00000005860__Oryzias_melastigma);

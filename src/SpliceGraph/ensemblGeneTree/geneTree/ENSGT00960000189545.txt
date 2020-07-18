@@ -1,0 +1,1 @@
+(((((ENSABRG00000013314__Anser_brachyrhynchus,ENSAPLG00000019194__Anas_platyrhynchos_platyrhynchos),ENSNMEG00000008110__Numida_meleagris),ENSCPUG00000003476__Calidris_pugnax),ENSDNVG00000016247__Dromaius_novaehollandiae),ENSAMEG00000019003__Ailuropoda_melanoleuca);

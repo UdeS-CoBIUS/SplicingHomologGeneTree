@@ -1,0 +1,1 @@
+(((ENSCJPG00005001631__Coturnix_japonica,ENSGALG00000049385__Gallus_gallus),ENSAMXG00000033047__Astyanax_mexicanus),((ENSAMXG00000030416__Astyanax_mexicanus,ENSAMXG00000037928__Astyanax_mexicanus),ENSLACG00000003355__Latimeria_chalumnae));

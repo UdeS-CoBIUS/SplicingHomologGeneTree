@@ -1,0 +1,1 @@
+((((ENSPREG00000000721__Poecilia_reticulata,ENSPMEG00000014709__Poecilia_mexicana),(ENSXMAG00000025053__Xiphophorus_maculatus,ENSXCOG00000009304__Xiphophorus_couchianus)),ENSPMGG00000008866__Periophthalmus_magnuspinnatus),ENSSMAG00000006252__Scophthalmus_maximus);

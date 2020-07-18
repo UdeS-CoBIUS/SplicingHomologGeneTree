@@ -1,1 +1,0 @@
-(ENSUAMG00000011195__Ursus_americanus,ENSUMAG00000005446__Ursus_maritimus);

@@ -1,0 +1,1 @@
+((ENSTGUG00000006247__Taeniopygia_guttata,ENSAHAG00000012661__Apteryx_haastii),ENSGMOG00000011326__Gadus_morhua);

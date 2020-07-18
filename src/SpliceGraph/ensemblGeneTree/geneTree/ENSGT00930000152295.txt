@@ -1,0 +1,1 @@
+((ENSGALG00000052043__Gallus_gallus,ENSSHAG00000014809__Sarcophilus_harrisii),ENSLACG00000003500__Latimeria_chalumnae);

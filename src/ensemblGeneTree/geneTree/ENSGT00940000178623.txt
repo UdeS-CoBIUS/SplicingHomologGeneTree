@@ -1,0 +1,1 @@
+(((ENSCSEG00000013590__Cynoglossus_semilaevis,ENSSDUG00000000165__Seriola_dumerili),(ENSHBUG00000018848__Haplochromis_burtoni,ENSPNYG00000002142__Pundamilia_nyererei)),ENSHCOG00000017207__Hippocampus_comes);

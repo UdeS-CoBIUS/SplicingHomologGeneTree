@@ -1,1 +1,0 @@
-(ENSPEMG00000025165__Peromyscus_maniculatus_bairdii,ENSMUGG00000027139__Meriones_unguiculatus);

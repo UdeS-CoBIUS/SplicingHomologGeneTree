@@ -1,0 +1,3 @@
+MUSSPICILEGUS	mus_spicilegus
+MUSSPICILEGUS	mus_spicilegus
+PEROMYSCUSMANICULATUSBAIRDII	peromyscus_maniculatus_bairdii

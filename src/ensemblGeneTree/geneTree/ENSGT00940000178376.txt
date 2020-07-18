@@ -1,0 +1,1 @@
+(((ENSMZEG00005010941__Maylandia_zebra,ENSCVAG00000005137__Cyprinodon_variegatus),(ENSSDUG00000000539__Seriola_dumerili,ENSSLDG00000000553__Seriola_lalandi_dorsalis)),ENSHCOG00000006205__Hippocampus_comes);

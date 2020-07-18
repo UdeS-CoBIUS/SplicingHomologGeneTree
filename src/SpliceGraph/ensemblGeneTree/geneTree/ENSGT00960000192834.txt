@@ -1,0 +1,1 @@
+((ENSVPAG00000005781__Vicugna_pacos,ENSSDAG00000023968__Spermophilus_dauricus),ENSVURG00010011387__Vombatus_ursinus);

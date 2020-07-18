@@ -1,0 +1,3 @@
+MELOPSITTACUSUNDULATUS	melopsittacus_undulatus
+CYANISTESCAERULEUS	cyanistes_caeruleus
+MUSSPICILEGUS	mus_spicilegus

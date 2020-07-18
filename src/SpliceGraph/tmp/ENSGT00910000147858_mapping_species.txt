@@ -1,0 +1,5 @@
+PANPANISCUS	pan_paniscus
+GORILLAGORILLA	gorilla_gorilla
+PAPIOANUBIS	papio_anubis
+MACACAMULATTA	macaca_mulatta
+MANDRILLUSLEUCOPHAEUS	mandrillus_leucophaeus

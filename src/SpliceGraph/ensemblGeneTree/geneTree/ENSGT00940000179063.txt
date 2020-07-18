@@ -1,0 +1,1 @@
+(((ENSFHEG00000001327__Fundulus_heteroclitus,ENSGAFG00000016005__Gambusia_affinis),ENSACIG00000004411__Amphilophus_citrinellus),ENSATEG00000014603__Anabas_testudineus);

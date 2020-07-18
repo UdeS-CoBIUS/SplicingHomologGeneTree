@@ -1,0 +1,1 @@
+(((ENSSMAG00000009274__Scophthalmus_maximus,ENSOMEG00000020212__Oryzias_melastigma),ENSPMGG00000009676__Periophthalmus_magnuspinnatus),ENSELUG00000020665__Esox_lucius);

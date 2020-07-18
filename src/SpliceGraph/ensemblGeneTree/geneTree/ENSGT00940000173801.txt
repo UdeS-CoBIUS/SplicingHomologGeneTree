@@ -1,0 +1,1 @@
+(ENSPFOG00000005902__Poecilia_formosa,ENSGMOG00000013164__Gadus_morhua);

@@ -1,0 +1,4 @@
+>completeCluster_0
+FBtr0342883	Y52B11A.4.2
+>completeCluster_1
+Y52B11A.4.1	FBtr0347186

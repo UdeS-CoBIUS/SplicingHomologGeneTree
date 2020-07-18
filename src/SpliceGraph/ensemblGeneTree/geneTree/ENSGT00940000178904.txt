@@ -1,0 +1,1 @@
+((ENSACIG00000018132__Amphilophus_citrinellus,ENSPNYG00000011326__Pundamilia_nyererei),(ENSAPEG00000012682__Amphiprion_percula,ENSAOCG00000010731__Amphiprion_ocellaris));

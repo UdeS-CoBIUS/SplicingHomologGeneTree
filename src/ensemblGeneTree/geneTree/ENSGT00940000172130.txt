@@ -1,0 +1,1 @@
+(((ENSAPOG00000024228__Acanthochromis_polyacanthus,ENSGACG00000012462__Gasterosteus_aculeatus),ENSHCOG00000005636__Hippocampus_comes),ENSGMOG00000019430__Gadus_morhua);

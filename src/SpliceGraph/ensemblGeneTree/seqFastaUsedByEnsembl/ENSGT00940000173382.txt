@@ -1,0 +1,4 @@
+  ENSOTSP00005041843	ENSOTSG00005020088	Oncorhynchus_tshawytscha ENSHHUP00000022738	ENSHHUG00000014251	Hucho_hucho 
+  CD4.2.1	WBGene00000795	Caenorhabditis_elegans_strain_N2 FBpp0083501	FBgn0038877	Drosophila_melanogaster 
+ 
+;

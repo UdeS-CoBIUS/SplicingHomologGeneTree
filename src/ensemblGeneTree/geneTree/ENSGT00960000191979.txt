@@ -1,0 +1,1 @@
+(ENSDNVG00000000952__Dromaius_novaehollandiae,ENSCCEG00000009873__Cyanistes_caeruleus);

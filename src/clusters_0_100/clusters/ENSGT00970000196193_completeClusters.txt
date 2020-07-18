@@ -1,0 +1,2 @@
+>completeCluster_0
+ZK678.5.1	ZK1037.10.1	C29F3.2.1

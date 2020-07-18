@@ -1,0 +1,1 @@
+(((ENSIPUG00000001258__Ictalurus_punctatus,ENSAMXG00000041341__Astyanax_mexicanus),((ENSTRUG00000021564__Takifugu_rubripes,ENSACLG00000004770__Astatotilapia_calliptera),(ENSNBRG00000004531__Neolamprologus_brichardi,ENSONIG00000020755__Oreochromis_niloticus))),ENSLACG00000005083__Latimeria_chalumnae);

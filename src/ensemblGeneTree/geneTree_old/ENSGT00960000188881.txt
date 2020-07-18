@@ -1,1 +1,0 @@
-(ENSOMEG00000020983__Oryzias_melastigma,ENSTRUG00000023305__Takifugu_rubripes);

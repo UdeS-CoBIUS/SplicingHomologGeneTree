@@ -1,0 +1,1 @@
+((ENSTGUG00000002419__Taeniopygia_guttata,ENSSCAG00000010678__Serinus_canaria),(ENSMVIG00005009528__Manacus_vitellinus,ENSPMJG00000015153__Parus_major));

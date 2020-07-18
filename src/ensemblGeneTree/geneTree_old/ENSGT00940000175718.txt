@@ -1,1 +1,0 @@
-(((ENSLSDG00000018198__Lonchura_striata_domestica,ENSCPGG00000005468__Calidris_pygmaea),ENSLACG00000017358__Latimeria_chalumnae),(ENSPLAG00000009104__Poecilia_latipinna,ENSPMEG00000005840__Poecilia_mexicana));

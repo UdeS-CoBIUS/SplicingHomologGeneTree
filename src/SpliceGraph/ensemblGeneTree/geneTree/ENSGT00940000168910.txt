@@ -1,0 +1,1 @@
+(((ENSCING00000004347__Ciona_intestinalis,ENSCSAVG00000010734__Ciona_savignyi),ENSHHUG00000015363__Hucho_hucho),(FBgn0029935__Drosophila_melanogaster,WBGene00022158__Caenorhabditis_elegans_strain_N2));

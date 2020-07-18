@@ -1,0 +1,85 @@
+>0
+ENSGALT00000095891: ['no event', 9698, 0]
+ENSCJPT00005014135: ['exon skipping', 0, 0]
+ENSCJPT00005014136: ['exon skipping', 0, 0]
+ENSCJPT00005014134: ['exon skipping', 0, 0]
+>1
+ENSGALT00000095891: ['exon skipping', 0, 0]
+ENSCJPT00005014135: ['exon skipping', 0, 0]
+ENSCJPT00005014136: ['exon skipping', 0, 0]
+ENSCJPT00005014134: ['5event', 3762, 0]
+>2
+ENSGALT00000095891: ['exon skipping', 0, 0]
+ENSCJPT00005014135: ['5event', 20, 0]
+ENSCJPT00005014136: ['5event', 20, 0]
+ENSCJPT00005014134: ['exon skipping', 0, 0]
+>3
+ENSGALT00000095891: ['exon skipping', 0, 0]
+ENSCJPT00005014135: ['exon skipping', 0, 0]
+ENSCJPT00005014136: ['exon skipping', 0, 0]
+ENSCJPT00005014134: ['5event', 134, 1]
+>4
+ENSGALT00000095891: ['exon skipping', 0, 0]
+ENSCJPT00005014135: ['5event', 91, 0]
+ENSCJPT00005014136: ['5event', 91, 0]
+ENSCJPT00005014134: ['exon skipping', 0, 0]
+>5
+ENSGALT00000095891: ['exon skipping', 0, 0]
+ENSCJPT00005014135: ['exon skipping', 0, 0]
+ENSCJPT00005014136: ['exon skipping', 0, 0]
+ENSCJPT00005014134: ['5event', 1682, 1]
+>6
+ENSGALT00000095891: ['exon skipping', 0, 0]
+ENSCJPT00005014135: ['exon skipping', 0, 0]
+ENSCJPT00005014136: ['exon skipping', 0, 0]
+ENSCJPT00005014134: ['no event', 107, 1]
+>7
+ENSGALT00000095891: ['exon skipping', 0, 0]
+ENSCJPT00005014135: ['exon skipping', 0, 0]
+ENSCJPT00005014136: ['exon skipping', 0, 0]
+ENSCJPT00005014134: ['no event', 2, 1]
+>8
+ENSGALT00000095891: ['exon skipping', 0, 0]
+ENSCJPT00005014135: ['5event', ['internal gap < 30', 114, 16], 157, 2]
+ENSCJPT00005014136: ['5event', ['internal gap < 30', 114, 16], 157, 2]
+ENSCJPT00005014134: ['3event', 128, 1]
+>9
+ENSGALT00000095891: ['exon skipping', 0, 0]
+ENSCJPT00005014135: ['no event', 2414, 1]
+ENSCJPT00005014136: ['3event', 2202, 1]
+ENSCJPT00005014134: ['exon skipping', 0, 0]
+>10
+ENSGALT00000095891: ['exon skipping', 0, 0]
+ENSCJPT00005014135: ['exon skipping', 0, 0]
+ENSCJPT00005014136: ['exon skipping', 0, 0]
+ENSCJPT00005014134: ['5event', 58, 0]
+>11
+ENSGALT00000095891: ['exon skipping', 0, 0]
+ENSCJPT00005014135: ['5event', 770, 1]
+ENSCJPT00005014136: ['exon skipping', 0, 0]
+ENSCJPT00005014134: ['exon skipping', 0, 0]
+>12
+ENSGALT00000095891: ['exon skipping', 0, 0]
+ENSCJPT00005014135: ['exon skipping', 0, 0]
+ENSCJPT00005014136: ['exon skipping', 0, 0]
+ENSCJPT00005014134: ['5event', 65, 2]
+>13
+ENSGALT00000095891: ['exon skipping', 0, 0]
+ENSCJPT00005014135: ['5event', 266, 1]
+ENSCJPT00005014136: ['exon skipping', 0, 0]
+ENSCJPT00005014134: ['exon skipping', 0, 0]
+>14
+ENSGALT00000095891: ['exon skipping', 0, 0]
+ENSCJPT00005014135: ['exon skipping', 0, 0]
+ENSCJPT00005014136: ['exon skipping', 0, 0]
+ENSCJPT00005014134: ['5event', 174, 2]
+>15
+ENSGALT00000095891: ['exon skipping', 0, 0]
+ENSCJPT00005014135: ['5event', 304, 1]
+ENSCJPT00005014136: ['exon skipping', 0, 0]
+ENSCJPT00005014134: ['exon skipping', 0, 0]
+>16
+ENSGALT00000095891: ['exon skipping', 0, 0]
+ENSCJPT00005014135: ['no event', 591, 0]
+ENSCJPT00005014136: ['5event', 590, 0]
+ENSCJPT00005014134: ['exon skipping', 0, 0]

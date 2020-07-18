@@ -1,0 +1,1 @@
+((ENSHGLG00100004099__Heterocephalus_glaber_HetGla_1.0,ENSHGLG00000019568__Heterocephalus_glaber_HetGla_female_1.0),ENSCSAG00000017722__Chlorocebus_sabaeus);

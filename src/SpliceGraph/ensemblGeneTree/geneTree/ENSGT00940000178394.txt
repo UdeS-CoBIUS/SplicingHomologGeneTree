@@ -1,0 +1,1 @@
+(((ENSLBEG00000014517__Labrus_bergylta,ENSLBEG00000013874__Labrus_bergylta),ENSLBEG00000019768__Labrus_bergylta),ENSXCOG00000010125__Xiphophorus_couchianus);

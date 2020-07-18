@@ -1,0 +1,1 @@
+(((ENSPANG00000032332__Papio_anubis,ENSNLEG00000030559__Nomascus_leucogenys),ENSTGEG00000014857__Theropithecus_gelada),ENSPSMG00000018341__Prolemur_simus);

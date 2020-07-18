@@ -1,0 +1,12 @@
+>0
+F30A10.13a.1: ['3event', 42, 0]
+F30A10.13b.1: ['exon skipping', 0, 0]
+F30A10.11.1: ['5event', 41, 0]
+>1
+F30A10.13a.1: ['5event', 2, 0]
+F30A10.13b.1: ['exon skipping', 0, 0]
+F30A10.11.1: ['exon skipping', 0, 0]
+>2
+F30A10.13a.1: [['internal gap < 30', 1, 3], 243, 0]
+F30A10.13b.1: ['5event', 188, 0]
+F30A10.11.1: ['3event', '5event', 234, 0]

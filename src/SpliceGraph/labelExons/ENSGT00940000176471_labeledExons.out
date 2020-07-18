@@ -1,0 +1,6 @@
+>0
+YCL036W_mRNA: ['5event', ['internal gap >= 30', 1620, 57], 1694, 0]
+YDR514C_mRNA: [['internal gap >= 30', 1329, 300], 1451, 0]
+>1
+YCL036W_mRNA: ['no event', 5, 0]
+YDR514C_mRNA: ['exon skipping', 0, 0]

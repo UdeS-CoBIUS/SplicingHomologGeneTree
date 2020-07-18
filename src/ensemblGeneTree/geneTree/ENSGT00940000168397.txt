@@ -1,0 +1,1 @@
+(((((ENSUAMG00000021671__Ursus_americanus,ENSUMAG00000019878__Ursus_maritimus),ENSSSCG00000035751__Sus_scrofa),(ENSPTRG00000047776__Pan_troglodytes,ENSNLEG00000031280__Nomascus_leucogenys)),ENSMEUG00000007842__Notamacropus_eugenii),((ENSCABG00000010014__Chelonoidis_abingdonii,ENSGAGG00000003634__Gopherus_agassizii),ENSCPBG00000014500__Chrysemys_picta_bellii));

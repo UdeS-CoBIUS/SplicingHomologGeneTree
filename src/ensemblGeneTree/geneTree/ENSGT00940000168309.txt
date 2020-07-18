@@ -1,0 +1,1 @@
+((((ENSPANG00000030339__Papio_anubis,ENSRROG00000029256__Rhinopithecus_roxellana),ENSGGOG00000007604__Gorilla_gorilla),ENSPCAG00000012798__Procavia_capensis),ENSMEUG00000008822__Notamacropus_eugenii);

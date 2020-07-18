@@ -1,0 +1,1 @@
+(((ENSUPAG00010015816__Urocitellus_parryii,ENSSTOG00000031664__Ictidomys_tridecemlineatus),ENSPCIG00000025821__Phascolarctos_cinereus),(ENSGAGG00000009087__Gopherus_agassizii,ENSJHYG00000009286__Junco_hyemalis));

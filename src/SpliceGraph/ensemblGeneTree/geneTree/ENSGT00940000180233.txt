@@ -1,0 +1,1 @@
+((((ENSPNYG00000000006__Pundamilia_nyererei,ENSHBUG00000017636__Haplochromis_burtoni),ENSELUG00000010064__Esox_lucius),((ENSCCEG00000008260__Cyanistes_caeruleus,ENSCCEG00000021895__Cyanistes_caeruleus),ENSZALG00000005554__Zonotrichia_albicollis)),FBgn0037384__Drosophila_melanogaster);

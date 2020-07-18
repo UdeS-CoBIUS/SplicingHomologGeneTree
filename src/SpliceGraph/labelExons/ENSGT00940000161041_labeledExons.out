@@ -1,0 +1,14 @@
+>0
+ENSPKIT00000001327: [['internal gap >= 30', 437, 54], 795, 0]
+ENSPKIT00000038011: [['internal gap >= 30', 441, 48], 801, 0]
+ENSSFOT00015006795: ['5event', 255, 0]
+ENSCHAT00000000807: ['no event', 849, 0]
+ENSCHAT00000000810: [['internal gap >= 30', 455, 45], 804, 0]
+ENSDCDT00000051999: [['internal gap >= 30', 449, 42], 807, 0]
+>1
+ENSPKIT00000001327: [['internal gap >= 30', 339, 64], 490, 1]
+ENSPKIT00000038011: [['internal gap >= 30', 339, 64], 490, 1]
+ENSSFOT00015006795: [['internal gap >= 30', 326, 40], 514, 1]
+ENSCHAT00000000807: [['internal gap < 30', 378, 19], 535, 1]
+ENSCHAT00000000810: [['internal gap < 30', 378, 19], 535, 1]
+ENSDCDT00000051999: [['internal gap >= 30', 351, 46], 508, 1]

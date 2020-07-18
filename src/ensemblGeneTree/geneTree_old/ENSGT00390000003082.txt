@@ -1,1 +1,0 @@
-(((ENSVPAG00000003289__Vicugna_pacos,ENSTTRG00000011005__Tursiops_truncatus),ENSPVAG00000000265__Pteropus_vampyrus),(ENSCSAG00000012672__Chlorocebus_sabaeus,ENSPPYG00000020362__Pongo_abelii));

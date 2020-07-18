@@ -1,1 +1,0 @@
-(ENSPLAG00000011147__Poecilia_latipinna,ENSAOCG00000011782__Amphiprion_ocellaris);

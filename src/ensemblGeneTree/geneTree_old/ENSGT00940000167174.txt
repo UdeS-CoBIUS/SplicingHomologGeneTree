@@ -1,1 +1,0 @@
-((((((ENSBMUG00000024796__Bos_mutus,ENSBTAG00000002596__Bos_taurus),ENSBBBG00000006773__Bison_bison_bison),ENSVPAG00000000605__Vicugna_pacos),ENSTTRG00000006561__Tursiops_truncatus),((ENSMFAG00000032078__Macaca_fascicularis,ENSCANG00000009526__Colobus_angolensis_palliatus),ENSPPAG00000001035__Pan_paniscus)),ENSCHOG00000002580__Choloepus_hoffmanni);

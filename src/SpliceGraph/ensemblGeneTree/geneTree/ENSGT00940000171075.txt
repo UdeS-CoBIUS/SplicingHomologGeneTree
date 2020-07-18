@@ -1,0 +1,1 @@
+(((ENSDNVG00000002496__Dromaius_novaehollandiae,ENSTGUG00000006192__Taeniopygia_guttata),ENSGMOG00000017256__Gadus_morhua),ENSEBUG00000015232__Eptatretus_burgeri);

@@ -1,0 +1,1 @@
+(((ENSORLG00000001066__Oryzias_latipes_ASM223467v1,ENSFHEG00000017295__Fundulus_heteroclitus),ENSTRUG00000023001__Takifugu_rubripes),ENSIPUG00000012615__Ictalurus_punctatus);

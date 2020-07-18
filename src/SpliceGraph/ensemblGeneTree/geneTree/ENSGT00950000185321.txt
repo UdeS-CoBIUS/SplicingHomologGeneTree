@@ -1,0 +1,1 @@
+(((ENSUAMG00000022947__Ursus_americanus,ENSCAFG00020001810__Canis_lupus_dingo),(ENSSDAG00000024162__Spermophilus_dauricus,ENSSDAG00000018709__Spermophilus_dauricus)),ENSSHAG00000013791__Sarcophilus_harrisii);

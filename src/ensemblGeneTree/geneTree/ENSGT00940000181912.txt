@@ -1,0 +1,1 @@
+(ENSSMAG00000000610__Scophthalmus_maximus,ENSMMOG00000006258__Mola_mola);

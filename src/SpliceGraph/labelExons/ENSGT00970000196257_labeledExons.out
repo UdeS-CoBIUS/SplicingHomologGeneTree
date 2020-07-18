@@ -1,0 +1,24 @@
+>0
+ZK616.3a.1: ['no event', 141, 0]
+ZK616.3b.1: ['exon skipping', 0, 0]
+ZK616.2.1: ['5event', ['internal gap >= 30', 64, 45], 96, 0]
+>1
+ZK616.3a.1: [['internal gap >= 30', 29, 33], 63, 1]
+ZK616.3b.1: ['exon skipping', 0, 0]
+ZK616.2.1: ['no event', 96, 1]
+>2
+ZK616.3a.1: ['no event', 8, 2]
+ZK616.3b.1: ['exon skipping', 0, 0]
+ZK616.2.1: ['exon skipping', 0, 0]
+>3
+ZK616.3a.1: ['no event', 121, 2]
+ZK616.3b.1: ['5event', 84, 0]
+ZK616.2.1: ['5event', ['internal gap >= 30', 50, 33], 88, 2]
+>4
+ZK616.3a.1: ['no event', 70, 1]
+ZK616.3b.1: ['no event', 70, 1]
+ZK616.2.1: ['exon skipping', 0, 0]
+>5
+ZK616.3a.1: ['exon skipping', 0, 0]
+ZK616.3b.1: ['exon skipping', 0, 0]
+ZK616.2.1: ['5event', 10, 1]

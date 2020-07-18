@@ -1,0 +1,1 @@
+((((ENSLSDG00000001935__Lonchura_striata_domestica,ENSPMJG00000005831__Parus_major),ENSFALG00000002738__Ficedula_albicollis),ENSNSUG00000008521__Notechis_scutatus),(ENSPCAG00000002027__Procavia_capensis,ENSPTEG00000035911__Piliocolobus_tephrosceles));

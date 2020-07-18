@@ -1,0 +1,1 @@
+(((ENSVPAG00000000622__Vicugna_pacos,ENSBTAG00000049677__Bos_taurus),ENSTBEG00000002810__Tupaia_belangeri),ENSETEG00000012642__Echinops_telfairi);

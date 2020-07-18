@@ -1,1 +1,0 @@
-(ENSBMUG00000021147__Bos_mutus,ENSMLEG00000041631__Mandrillus_leucophaeus);

@@ -1,1 +1,0 @@
-(ENSACIG00000003607__Amphilophus_citrinellus,ENSACIG00000000275__Amphilophus_citrinellus);

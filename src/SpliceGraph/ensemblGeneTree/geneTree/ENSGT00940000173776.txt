@@ -1,0 +1,1 @@
+((((ENSPSMG00000001681__Prolemur_simus,ENSPSMG00000001669__Prolemur_simus),ENSSBOG00000013176__Saimiri_boliviensis_boliviensis),(ENSUMAG00000024121__Ursus_maritimus,ENSMPUG00000006576__Mustela_putorius_furo)),(ENSSCAG00000001641__Serinus_canaria,ENSAHAG00000014946__Apteryx_haastii));

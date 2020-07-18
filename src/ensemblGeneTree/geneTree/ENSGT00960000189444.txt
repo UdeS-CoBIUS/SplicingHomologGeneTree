@@ -1,0 +1,1 @@
+((((((ENSCCEG00000013922__Cyanistes_caeruleus,ENSSCAG00000000920__Serinus_canaria),ENSABRG00000011456__Anser_brachyrhynchus),ENSAHAG00000000763__Apteryx_haastii),ENSGAGG00000001971__Gopherus_agassizii),((ENSJJAG00000021874__Jaculus_jaculus,ENSPSMG00000023624__Prolemur_simus),ENSVURG00010007481__Vombatus_ursinus)),ENSPREG00000015661__Poecilia_reticulata);

@@ -1,0 +1,4 @@
+HUCHOHUCHO	hucho_hucho
+PILIOCOLOBUSTEPHROSCELES	piliocolobus_tephrosceles
+EPTATRETUSBURGERI	eptatretus_burgeri
+PETROMYZONMARINUS	petromyzon_marinus

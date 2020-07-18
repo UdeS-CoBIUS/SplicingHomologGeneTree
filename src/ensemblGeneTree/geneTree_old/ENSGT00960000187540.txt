@@ -1,1 +1,0 @@
-((((ENSPANG00000011213__Papio_anubis,ENSTGEG00000023352__Theropithecus_gelada),ENSRBIG00000042397__Rhinopithecus_bieti),ENSPPYG00000014773__Pongo_abelii),ENSDORG00000005629__Dipodomys_ordii);

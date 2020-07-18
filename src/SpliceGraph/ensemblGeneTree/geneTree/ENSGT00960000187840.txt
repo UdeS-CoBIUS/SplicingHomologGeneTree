@@ -1,0 +1,1 @@
+((ENSEASG00005017279__Equus_asinus_asinus,ENSSSCG00000033404__Sus_scrofa),((ENSPEMG00000028712__Peromyscus_maniculatus_bairdii,ENSCGRG00015007222__Cricetulus_griseus_CriGri-PICR),ENSCCAG00000037505__Cebus_capucinus_imitator));

@@ -1,1 +1,0 @@
-(FBgn0030161__Drosophila_melanogaster,ENSRNOG00000053688__Rattus_norvegicus);

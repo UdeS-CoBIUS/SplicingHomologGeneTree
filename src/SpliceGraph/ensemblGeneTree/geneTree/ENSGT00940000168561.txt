@@ -1,0 +1,1 @@
+((((ENSMSIG00000026102__Mus_spicilegus,ENSMSIG00000010937__Mus_spicilegus),(ENSMAUG00000019784__Mesocricetus_auratus,ENSCGRG00015013670__Cricetulus_griseus_CriGri-PICR)),ENSCCAG00000036720__Cebus_capucinus_imitator),(ENSVPAG00000001406__Vicugna_pacos,ENSBBBG00000006070__Bison_bison_bison));

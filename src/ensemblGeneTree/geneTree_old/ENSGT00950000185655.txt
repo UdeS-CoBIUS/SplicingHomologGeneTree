@@ -1,1 +1,0 @@
-((((ENSSDAG00000010526__Spermophilus_dauricus,ENSSDAG00000016046__Spermophilus_dauricus),MGP_CAROLIEiJ_G0019342__Mus_caroli_strain_CAROLI_EIJ),ENSCCNG00000016325__Castor_canadensis),ENSUAMG00000009948__Ursus_americanus);

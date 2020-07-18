@@ -1,0 +1,1 @@
+((ENSCPUG00000007813__Calidris_pugnax,ENSNMEG00000006997__Numida_meleagris),((ENSCPBG00000008145__Chrysemys_picta_bellii,ENSCABG00000010861__Chelonoidis_abingdonii),(ENSCABG00000018478__Chelonoidis_abingdonii,ENSCPBG00000008160__Chrysemys_picta_bellii)));

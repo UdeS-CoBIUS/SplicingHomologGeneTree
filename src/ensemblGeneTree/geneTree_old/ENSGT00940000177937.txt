@@ -1,1 +1,0 @@
-(((((ENSCVAG00000021138__Cyprinodon_variegatus,ENSCVAG00000021434__Cyprinodon_variegatus),ENSCVAG00000009224__Cyprinodon_variegatus),ENSPREG00000016335__Poecilia_reticulata),(ENSFHEG00000019472__Fundulus_heteroclitus,ENSFHEG00000021157__Fundulus_heteroclitus)),ENSSDUG00000009101__Seriola_dumerili);

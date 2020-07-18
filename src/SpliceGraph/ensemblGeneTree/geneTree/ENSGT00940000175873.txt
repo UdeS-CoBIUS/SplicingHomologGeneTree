@@ -1,0 +1,1 @@
+((((((ENSPREG00000015828__Poecilia_reticulata,ENSPMEG00000003567__Poecilia_mexicana),ENSXMAG00000012233__Xiphophorus_maculatus),ENSACIG00000006341__Amphilophus_citrinellus),ENSMMOG00000012456__Mola_mola),ENSPNAG00000027845__Pygocentrus_nattereri),((ENSLSDG00000002981__Lonchura_striata_domestica,ENSPMJG00000015264__Parus_major),ENSCJPG00005021163__Coturnix_japonica));

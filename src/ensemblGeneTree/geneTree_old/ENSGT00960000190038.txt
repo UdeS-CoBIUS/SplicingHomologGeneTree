@@ -1,1 +1,0 @@
-((ENSNPEG00000009435__Nothoprocta_perdicaria,ENSCPGG00000016510__Calidris_pygmaea),(ENSNSUG00000013143__Notechis_scutatus,ENSPVIG00000010940__Pogona_vitticeps));

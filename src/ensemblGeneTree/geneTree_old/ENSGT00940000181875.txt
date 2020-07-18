@@ -1,1 +1,0 @@
-(ENSPNAG00000013542__Pygocentrus_nattereri,ENSAOCG00000007083__Amphiprion_ocellaris);

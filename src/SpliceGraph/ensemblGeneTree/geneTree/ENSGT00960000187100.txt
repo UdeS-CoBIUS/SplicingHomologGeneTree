@@ -1,0 +1,1 @@
+(((((ENSUMAG00000014787__Ursus_maritimus,ENSUAMG00000022315__Ursus_americanus),ENSAMEG00000008687__Ailuropoda_melanoleuca),(ENSMPUG00000007960__Mustela_putorius_furo,ENSNVIG00000017604__Neovison_vison)),ENSCAFG00020022839__Canis_lupus_dingo),ENSFCAG00000046096__Felis_catus);

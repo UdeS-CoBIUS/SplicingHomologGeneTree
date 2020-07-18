@@ -1,0 +1,1 @@
+((ENSARWG00000014478__Apteryx_rowi,ENSSCAG00000013260__Serinus_canaria),ENSCABG00000011615__Chelonoidis_abingdonii);

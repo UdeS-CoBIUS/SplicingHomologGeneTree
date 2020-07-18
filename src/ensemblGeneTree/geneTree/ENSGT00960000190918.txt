@@ -1,0 +1,1 @@
+((ENSPCIG00000035358__Phascolarctos_cinereus,ENSTSYG00000006138__Carlito_syrichta),ENSLSDG00000000939__Lonchura_striata_domestica);

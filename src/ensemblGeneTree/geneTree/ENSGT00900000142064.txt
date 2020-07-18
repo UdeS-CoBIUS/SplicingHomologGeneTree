@@ -1,0 +1,1 @@
+(((ENSMODG00000025126__Monodelphis_domestica,ENSSHAG00000011065__Sarcophilus_harrisii),ENSLAFG00000028416__Loxodonta_africana),ENSOANG00000004765__Ornithorhynchus_anatinus);

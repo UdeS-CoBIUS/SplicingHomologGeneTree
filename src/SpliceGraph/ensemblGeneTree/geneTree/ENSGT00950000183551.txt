@@ -1,0 +1,1 @@
+(((((((ENSCVAG00000007101__Cyprinodon_variegatus,ENSCVAG00000011466__Cyprinodon_variegatus),ENSCVAG00000005018__Cyprinodon_variegatus),ENSFHEG00000016296__Fundulus_heteroclitus),ENSPFOG00000024361__Poecilia_formosa),ENSOMEG00000014981__Oryzias_melastigma),ENSPRNG00000016002__Parambassis_ranga),ENSMALG00000013581__Monopterus_albus);

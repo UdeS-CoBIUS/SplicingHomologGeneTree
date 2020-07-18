@@ -1,1 +1,0 @@
-((((ENSOARG00000016566__Ovis_aries,ENSAMEG00000008841__Ailuropoda_melanoleuca),ENSOGAG00000026229__Otolemur_garnettii),ENSSPUG00000016697__Sphenodon_punctatus),((ENSPREG00000015257__Poecilia_reticulata,ENSOMEG00000011107__Oryzias_melastigma),ENSTRUG00000024304__Takifugu_rubripes));

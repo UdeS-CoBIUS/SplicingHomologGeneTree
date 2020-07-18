@@ -1,0 +1,1 @@
+((ENSBMUG00000012960__Bos_mutus,ENSBMUG00000010272__Bos_mutus),ENSBIXG00005005068__Bos_indicus_x_Bos_taurus_UOA_Brahman_1);

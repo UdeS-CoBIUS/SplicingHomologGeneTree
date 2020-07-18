@@ -1,0 +1,1 @@
+((ENSMODG00000027627__Monodelphis_domestica,ENSMODG00000028443__Monodelphis_domestica),ENSCAFG00000028937__Canis_lupus_familiaris);

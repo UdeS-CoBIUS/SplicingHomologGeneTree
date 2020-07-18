@@ -1,0 +1,1 @@
+(((ENSCPUG00000004834__Calidris_pugnax,ENSCPGG00000014031__Calidris_pygmaea),((ENSTGUG00000011053__Taeniopygia_guttata,ENSZALG00000016112__Zonotrichia_albicollis),ENSFALG00000011053__Ficedula_albicollis)),(ENSAOWG00000010209__Apteryx_owenii,ENSARWG00000003941__Apteryx_rowi));

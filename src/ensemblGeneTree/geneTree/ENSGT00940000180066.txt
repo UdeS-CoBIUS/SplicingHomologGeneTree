@@ -1,0 +1,1 @@
+(((((ENSAPEG00000023590__Amphiprion_percula,ENSAOCG00000020478__Amphiprion_ocellaris),ENSPRNG00000020543__Parambassis_ranga),ENSATEG00000023538__Anabas_testudineus),ENSHHUG00000023845__Hucho_hucho),ENSEEEG00000020743__Electrophorus_electricus);

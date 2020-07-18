@@ -1,0 +1,1 @@
+(((ENSCPBG00000005228__Chrysemys_picta_bellii,ENSCJPG00005007661__Coturnix_japonica),((ENSAOCG00000014665__Amphiprion_ocellaris,ENSAOCG00000014693__Amphiprion_ocellaris),ENSAPOG00000007669__Acanthochromis_polyacanthus)),ENSPMAG00000005664__Petromyzon_marinus);

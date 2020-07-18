@@ -1,0 +1,1 @@
+((((((ENSPLAG00000008819__Poecilia_latipinna,ENSPMEG00000003591__Poecilia_mexicana),ENSFHEG00000001177__Fundulus_heteroclitus),ENSKMAG00000020938__Kryptolebias_marmoratus),((ENSLBEG00000002398__Labrus_bergylta,ENSMMOG00000010859__Mola_mola),ENSMALG00000001379__Monopterus_albus)),ENSAMXG00000003307__Astyanax_mexicanus),FBgn0265083__Drosophila_melanogaster);

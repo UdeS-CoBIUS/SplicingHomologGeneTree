@@ -1,0 +1,9 @@
+>0
+ENSFCAT00000079742: [['internal gap < 30', 16, 1], 102, 0]
+ENSODET00000006192: ['exon skipping', 0, 0]
+>1
+ENSFCAT00000079742: ['exon skipping', 0, 0]
+ENSODET00000006192: ['5event', 26, 0]
+>2
+ENSFCAT00000079742: ['5event', ['internal gap >= 30', 7, 41], 154, 1]
+ENSODET00000006192: ['no event', 195, 0]

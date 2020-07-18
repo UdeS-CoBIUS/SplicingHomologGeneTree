@@ -1,0 +1,1 @@
+(((((ENSFDAG00000010081__Fukomys_damarensis,ENSCCAG00000029910__Cebus_capucinus_imitator),ENSSSCG00000033604__Sus_scrofa),ENSEEUG00000006534__Erinaceus_europaeus),ENSCCEG00000001072__Cyanistes_caeruleus),(ENSELUG00000001617__Esox_lucius,ENSXCOG00000005336__Xiphophorus_couchianus));

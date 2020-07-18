@@ -1,1 +1,0 @@
-((ENSTTRG00000013320__Tursiops_truncatus,ENSVPAG00000007669__Vicugna_pacos),ENSPVAG00000012263__Pteropus_vampyrus);

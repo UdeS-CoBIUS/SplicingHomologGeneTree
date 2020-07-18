@@ -1,1 +1,0 @@
-((ENSECAG00000030737__Equus_caballus,ENSEASG00005009608__Equus_asinus_asinus),ENSNLEG00000035145__Nomascus_leucogenys);

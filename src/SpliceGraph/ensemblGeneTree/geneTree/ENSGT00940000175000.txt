@@ -1,0 +1,1 @@
+(((ENSSFOG00015024107__Scleropages_formosus,ENSLBEG00000021196__Labrus_bergylta),ENSPNAG00000003994__Pygocentrus_nattereri),(ENSOANG00000013533__Ornithorhynchus_anatinus,ENSABRG00000002865__Anser_brachyrhynchus));

@@ -1,0 +1,1 @@
+(((ENSSPAG00000008394__Stegastes_partitus,ENSOMEG00000022650__Oryzias_melastigma),(ENSTRUG00000022305__Takifugu_rubripes,ENSTRUG00000021383__Takifugu_rubripes)),ENSPMGG00000013490__Periophthalmus_magnuspinnatus);

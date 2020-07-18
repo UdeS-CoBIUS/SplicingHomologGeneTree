@@ -1,0 +1,1 @@
+(((ENSLACG00000005642__Latimeria_chalumnae,ENSLACG00000004664__Latimeria_chalumnae),ENSLACG00000007815__Latimeria_chalumnae),(((ENSCABG00000000497__Chelonoidis_abingdonii,ENSGAGG00000002836__Gopherus_agassizii),ENSCPBG00000012302__Chrysemys_picta_bellii),(ENSNSUG00000001080__Notechis_scutatus,ENSPVIG00000002165__Pogona_vitticeps)));

@@ -1,1 +1,0 @@
-((ENSPSIG00000002294__Pelodiscus_sinensis,ENSPSIG00000006090__Pelodiscus_sinensis),ENSGAGG00000024587__Gopherus_agassizii);

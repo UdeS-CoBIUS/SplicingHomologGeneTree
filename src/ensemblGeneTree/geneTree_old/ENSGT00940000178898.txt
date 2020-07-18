@@ -1,1 +1,0 @@
-((ENSMZEG00005024856__Maylandia_zebra,ENSPNYG00000018188__Pundamilia_nyererei),(ENSACLG00000007394__Astatotilapia_calliptera,ENSHBUG00000018361__Haplochromis_burtoni));

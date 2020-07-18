@@ -1,0 +1,3 @@
+YOR090C_mRNA	YOR090C	Saccharomyces_cerevisiae_strain_S288C
+ZK973.3.1	WBGene00022832	Caenorhabditis_elegans_strain_N2	ZK973.3.1
+FBpp0298274	FBgn0029958	Drosophila_melanogaster	FBtr0307273

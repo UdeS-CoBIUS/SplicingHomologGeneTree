@@ -1,0 +1,1 @@
+((ENSMSIG00000021604__Mus_spicilegus,ENSMUSG00000113558__Mus_musculus_strain_reference_(CL57BL6)),ENSPPAG00000029518__Pan_paniscus);

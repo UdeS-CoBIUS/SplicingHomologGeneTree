@@ -1,0 +1,1 @@
+((((ENSKMAG00000019911__Kryptolebias_marmoratus,ENSKMAG00000019960__Kryptolebias_marmoratus),ENSPMGG00000002952__Periophthalmus_magnuspinnatus),ENSSMAG00000001601__Scophthalmus_maximus),ENSMMOG00000021589__Mola_mola);

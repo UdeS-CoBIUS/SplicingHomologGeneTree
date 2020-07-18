@@ -21,10 +21,10 @@
   - Gamma shape parameter: 		0.049
 
 . Run ID:				none
-. Random seed:				1580964616
+. Random seed:				1594963235
 . Subtree patterns aliasing:		no
 . Version:				20120412
-. Time used:				0h0m1s (1 seconds)
+. Time used:				0h0m0s (0 seconds)
 
  oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
  Suggested citations:
@@ -47,13 +47,13 @@
 . Log-likelihood: 			-235.15093
 . Unconstrained likelihood: 		-208.13338
 . Parsimony: 				4
-. Tree size: 				0.08055
+. Tree size: 				0.08057
 . Discrete gamma model: 		Yes
   - Number of categories: 		4
   - Gamma shape parameter: 		0.049
 
 . Run ID:				none
-. Random seed:				1580964616
+. Random seed:				1594963235
 . Subtree patterns aliasing:		no
 . Version:				20120412
 . Time used:				0h0m0s (0 seconds)
@@ -79,13 +79,13 @@
 . Log-likelihood: 			-235.15093
 . Unconstrained likelihood: 		-208.13338
 . Parsimony: 				4
-. Tree size: 				0.08057
+. Tree size: 				0.08055
 . Discrete gamma model: 		Yes
   - Number of categories: 		4
   - Gamma shape parameter: 		0.049
 
 . Run ID:				none
-. Random seed:				1580964616
+. Random seed:				1594963235
 . Subtree patterns aliasing:		no
 . Version:				20120412
 . Time used:				0h0m0s (0 seconds)
@@ -117,7 +117,7 @@
   - Gamma shape parameter: 		0.049
 
 . Run ID:				none
-. Random seed:				1580964616
+. Random seed:				1594963235
 . Subtree patterns aliasing:		no
 . Version:				20120412
 . Time used:				0h0m0s (0 seconds)

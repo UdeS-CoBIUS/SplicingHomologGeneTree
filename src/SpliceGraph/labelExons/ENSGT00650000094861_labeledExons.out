@@ -1,0 +1,9 @@
+>0
+ENSGACT00000017461: ['no event', 82, 0]
+ENSSMAT00000021237: ['exon skipping', 0, 0]
+>1
+ENSGACT00000017461: ['exon skipping', 0, 0]
+ENSSMAT00000021237: ['5event', 56, 0]
+>2
+ENSGACT00000017461: ['3event', '5event', 349, 2]
+ENSSMAT00000021237: [['internal gap < 30', 318, 15], 350, 0]

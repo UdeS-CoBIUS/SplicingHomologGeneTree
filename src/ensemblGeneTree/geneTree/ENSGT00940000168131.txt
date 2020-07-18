@@ -1,0 +1,1 @@
+((((ENSACIG00000023229__Amphilophus_citrinellus,ENSAPEG00000011842__Amphiprion_percula),ENSDARG00000068274__Danio_rerio),((ENSCSAVG00000007636__Ciona_savignyi,ENSCING00000017355__Ciona_intestinalis),ENSCSAVG00000010708__Ciona_savignyi)),FBgn0033273__Drosophila_melanogaster);

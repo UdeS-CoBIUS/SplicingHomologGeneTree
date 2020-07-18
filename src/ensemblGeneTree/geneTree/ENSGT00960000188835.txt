@@ -1,0 +1,1 @@
+(((ENSARWG00000018115__Apteryx_rowi,ENSAHAG00000008016__Apteryx_haastii),ENSCJPG00005008285__Coturnix_japonica),ENSELUG00000010425__Esox_lucius);

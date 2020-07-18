@@ -1,0 +1,1 @@
+((((ENSGAFG00000000045__Gambusia_affinis,ENSGAFG00000000048__Gambusia_affinis),ENSXCOG00000011033__Xiphophorus_couchianus),(ENSGAFG00000000043__Gambusia_affinis,ENSXMAG00000028287__Xiphophorus_maculatus)),ENSXCOG00000011035__Xiphophorus_couchianus);

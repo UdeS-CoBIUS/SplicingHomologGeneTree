@@ -1,1 +1,0 @@
-((ENSOANG00000029464__Ornithorhynchus_anatinus,ENSOPRG00000001436__Ochotona_princeps),ENSGALG00000051829__Gallus_gallus);

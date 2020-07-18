@@ -1,0 +1,2 @@
+DANIORERIO	danio_rerio
+PYGOCENTRUSNATTERERI	pygocentrus_nattereri

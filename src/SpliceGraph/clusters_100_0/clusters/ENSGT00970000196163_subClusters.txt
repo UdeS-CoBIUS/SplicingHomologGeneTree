@@ -1,0 +1,6 @@
+>cluster_0
+Y45G12C.15.1	Y45G12C.14.1	R05D8.2b.1
+>cluster_1
+R05D8.2c.1
+>cluster_2
+R05D8.2a.1

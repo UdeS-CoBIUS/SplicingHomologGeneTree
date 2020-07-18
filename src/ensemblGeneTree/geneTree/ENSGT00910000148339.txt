@@ -1,0 +1,1 @@
+((ENSACIG00000006185__Amphilophus_citrinellus,ENSSFOG00015014535__Scleropages_formosus),((ENSSPUG00000015606__Sphenodon_punctatus,ENSAPLG00000024984__Anas_platyrhynchos_platyrhynchos),ENSTSYG00000027386__Carlito_syrichta));

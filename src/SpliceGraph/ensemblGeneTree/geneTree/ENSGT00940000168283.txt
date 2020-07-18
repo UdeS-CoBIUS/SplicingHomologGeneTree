@@ -1,0 +1,1 @@
+(((ENSTGUG00000017174__Taeniopygia_guttata,ENSMGAG00000005014__Meleagris_gallopavo),(((ENSPNAG00000026188__Pygocentrus_nattereri,ENSAMXG00000011754__Astyanax_mexicanus),ENSIPUG00000015561__Ictalurus_punctatus),ENSDARG00000091366__Danio_rerio)),ENSPMAG00000005497__Petromyzon_marinus);

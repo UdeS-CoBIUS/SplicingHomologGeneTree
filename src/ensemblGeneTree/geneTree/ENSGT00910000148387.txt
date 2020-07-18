@@ -1,0 +1,1 @@
+(((ENSPANG00000031098__Papio_anubis,ENSCATG00000038631__Cercocebus_atys),ENSTGEG00000007013__Theropithecus_gelada),(ENSPTEG00000036521__Piliocolobus_tephrosceles,ENSRBIG00000034376__Rhinopithecus_bieti));

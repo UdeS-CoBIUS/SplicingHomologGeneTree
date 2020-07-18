@@ -1,0 +1,1 @@
+(((ENSSDAG00000011312__Spermophilus_dauricus,ENSMUGG00000012162__Meriones_unguiculatus),ENSTGEG00000022293__Theropithecus_gelada),ENSUAMG00000009203__Ursus_americanus);

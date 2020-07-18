@@ -1,0 +1,12 @@
+ZONOTRICHIAALBICOLLIS	zonotrichia_albicollis
+JUNCOHYEMALIS	junco_hyemalis
+SERINUSCANARIA	serinus_canaria
+CYANISTESCAERULEUS	cyanistes_caeruleus
+PARUSMAJOR	parus_major
+CALIDRISPUGNAX	calidris_pugnax
+ANSERBRACHYRHYNCHUS	anser_brachyrhynchus
+COTURNIXJAPONICA	coturnix_japonica
+ANASPLATYRHYNCHOS	anas_platyrhynchos
+LONCHURASTRIATA	lonchura_striata
+DROMAIUSNOVAEHOLLANDIAE	dromaius_novaehollandiae
+CROCODYLUSPOROSUS	crocodylus_porosus

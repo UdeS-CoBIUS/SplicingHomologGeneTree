@@ -1,0 +1,1 @@
+((ENSPMGG00000022798__Periophthalmus_magnuspinnatus,ENSACIG00000016557__Amphilophus_citrinellus),((ENSEASG00005008084__Equus_asinus_asinus,ENSECAG00000020800__Equus_caballus),ENSTBEG00000008257__Tupaia_belangeri));

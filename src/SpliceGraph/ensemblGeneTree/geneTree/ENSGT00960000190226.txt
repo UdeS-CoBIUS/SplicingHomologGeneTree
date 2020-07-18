@@ -1,0 +1,1 @@
+((ENSPANG00000017171__Papio_anubis,ENSCGRG00015013431__Cricetulus_griseus_CriGri-PICR),ENSCPUG00000019972__Calidris_pugnax);

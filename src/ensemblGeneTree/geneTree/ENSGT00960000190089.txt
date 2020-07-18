@@ -1,0 +1,1 @@
+(((ENSSDAG00000015437__Spermophilus_dauricus,ENSSDAG00000004793__Spermophilus_dauricus),ENSSDAG00000016092__Spermophilus_dauricus),ENSCCAG00000026402__Cebus_capucinus_imitator);

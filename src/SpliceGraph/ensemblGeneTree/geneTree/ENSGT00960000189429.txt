@@ -1,0 +1,1 @@
+(((ENSAPLG00000031023__Anas_platyrhynchos_platyrhynchos,ENSNMEG00000015534__Numida_meleagris),((((ENSCPGG00000017981__Calidris_pygmaea,ENSCPGG00000015912__Calidris_pygmaea),ENSCPGG00000006536__Calidris_pygmaea),ENSCPGG00000016611__Calidris_pygmaea),(ENSPMJG00000019002__Parus_major,ENSFALG00000015214__Ficedula_albicollis))),ENSNPEG00000011249__Nothoprocta_perdicaria);

@@ -1,0 +1,2 @@
+>completeCluster_0
+YOR137C_mRNA	YLR361C_mRNA	YNL010W_mRNA

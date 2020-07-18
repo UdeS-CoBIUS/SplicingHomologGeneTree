@@ -1,0 +1,14 @@
+>cluster_0
+FBtr0071404
+>cluster_1
+FBtr0100192	F44F4.2.2
+>cluster_2
+F44F4.2.1	FBtr0333427
+>cluster_3
+FBtr0100193
+>cluster_4
+FBtr0303558
+>cluster_5
+FBtr0071405
+>cluster_6
+FBtr0071406

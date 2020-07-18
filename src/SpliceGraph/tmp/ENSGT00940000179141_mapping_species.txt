@@ -1,0 +1,4 @@
+ICTALURUSPUNCTATUS	ictalurus_punctatus
+ASTYANAXMEXICANUS	astyanax_mexicanus
+ESOXLUCIUS	esox_lucius
+ESOXLUCIUS	esox_lucius

@@ -1,0 +1,1 @@
+((ENSELUG00000001546__Esox_lucius,ENSPMGG00000022398__Periophthalmus_magnuspinnatus),((ENSAMXG00000035595__Astyanax_mexicanus,ENSIPUG00000003477__Ictalurus_punctatus),ENSDARG00000101181__Danio_rerio));

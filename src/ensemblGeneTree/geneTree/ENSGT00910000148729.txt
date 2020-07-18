@@ -1,0 +1,1 @@
+((ENSMFAG00000030613__Macaca_fascicularis,ENSNLEG00000034332__Nomascus_leucogenys),(ENSUAMG00000009380__Ursus_americanus,ENSUMAG00000018905__Ursus_maritimus));

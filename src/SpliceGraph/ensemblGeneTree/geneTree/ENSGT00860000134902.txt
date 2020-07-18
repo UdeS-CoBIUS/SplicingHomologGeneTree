@@ -1,0 +1,1 @@
+((((ENSTGUG00000000108__Taeniopygia_guttata,ENSTGUG00000014333__Taeniopygia_guttata),ENSCCEG00000008417__Cyanistes_caeruleus),ENSFALG00000014701__Ficedula_albicollis),ENSLBEG00000008861__Labrus_bergylta);

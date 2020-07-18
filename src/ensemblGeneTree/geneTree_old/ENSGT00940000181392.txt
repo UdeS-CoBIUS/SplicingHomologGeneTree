@@ -1,1 +1,0 @@
-(ENSMZEG00005023088__Maylandia_zebra,ENSACLG00000023808__Astatotilapia_calliptera);

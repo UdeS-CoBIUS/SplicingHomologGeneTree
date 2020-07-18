@@ -1,0 +1,1 @@
+(ENSDARG00000097871__Danio_rerio,ENSTRUG00000023630__Takifugu_rubripes);

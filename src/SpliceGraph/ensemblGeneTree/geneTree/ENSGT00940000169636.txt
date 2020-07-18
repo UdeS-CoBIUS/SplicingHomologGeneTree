@@ -1,0 +1,1 @@
+((ENSSHAG00000006024__Sarcophilus_harrisii,ENSMEUG00000014669__Notamacropus_eugenii),ENSEEUG00000005819__Erinaceus_europaeus);

@@ -1,0 +1,1 @@
+((ENSMAMG00000004687__Mastacembelus_armatus,ENSPMGG00000003918__Periophthalmus_magnuspinnatus),ENSPREG00000020841__Poecilia_reticulata);

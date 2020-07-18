@@ -1,0 +1,6 @@
+>cluster_0
+YCL073C_mRNA	YKR106W_mRNA
+>cluster_1
+YEL065W_mRNA
+>cluster_2
+YHL040C_mRNA	YHL047C_mRNA

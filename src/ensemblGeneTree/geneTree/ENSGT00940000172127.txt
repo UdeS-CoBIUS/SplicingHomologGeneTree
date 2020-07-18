@@ -1,0 +1,1 @@
+(((ENSAPOG00000003245__Acanthochromis_polyacanthus,ENSSPAG00000013171__Stegastes_partitus),(ENSPFOG00000008247__Poecilia_formosa,ENSPMEG00000007123__Poecilia_mexicana)),(((ENSTRUG00000024108__Takifugu_rubripes,ENSGACG00000008661__Gasterosteus_aculeatus),ENSLBEG00000015787__Labrus_bergylta),ENSATEG00000023790__Anabas_testudineus));

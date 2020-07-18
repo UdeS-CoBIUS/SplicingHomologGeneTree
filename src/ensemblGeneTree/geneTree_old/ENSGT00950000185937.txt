@@ -1,1 +1,0 @@
-((ENSGAGG00000004484__Gopherus_agassizii,ENSMUNG00000005155__Melopsittacus_undulatus),ENSMODG00000024128__Monodelphis_domestica);

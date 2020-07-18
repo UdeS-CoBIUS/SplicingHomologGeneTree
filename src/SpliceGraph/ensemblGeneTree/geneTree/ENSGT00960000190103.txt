@@ -1,0 +1,1 @@
+(((ENSCCAG00000024915__Cebus_capucinus_imitator,ENSPSMG00000020282__Prolemur_simus),ENSUPAG00010013681__Urocitellus_parryii),ENSEEUG00000013425__Erinaceus_europaeus);

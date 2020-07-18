@@ -1,0 +1,1 @@
+((((ENSORLG00015009478__Oryzias_latipes_ASM223469v1,ENSXCOG00000009805__Xiphophorus_couchianus),ENSMMOG00000018121__Mola_mola),ENSIPUG00000015321__Ictalurus_punctatus),ENSLOCG00000010285__Lepisosteus_oculatus);

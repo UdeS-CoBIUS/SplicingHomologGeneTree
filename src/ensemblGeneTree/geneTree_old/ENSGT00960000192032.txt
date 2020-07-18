@@ -1,1 +1,0 @@
-(ENSCCEG00000020941__Cyanistes_caeruleus,ENSCCEG00000020939__Cyanistes_caeruleus);

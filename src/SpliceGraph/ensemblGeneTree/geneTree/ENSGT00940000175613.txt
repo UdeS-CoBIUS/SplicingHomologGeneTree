@@ -1,0 +1,1 @@
+((ENSCSEG00000014179__Cynoglossus_semilaevis,ENSHCOG00000018655__Hippocampus_comes),ENSOANG00000032154__Ornithorhynchus_anatinus);

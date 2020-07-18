@@ -1,0 +1,1 @@
+(ENSSDAG00000021164__Spermophilus_dauricus,ENSCGRG00015027003__Cricetulus_griseus_CriGri-PICR);

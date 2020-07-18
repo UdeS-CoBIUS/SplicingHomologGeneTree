@@ -1,0 +1,3 @@
+ORYZIASMELASTIGMA	oryzias_melastigma
+NEOLAMPROLOGUSBRICHARDI	neolamprologus_brichardi
+SERIOLALALANDIDORSALIS	seriola_lalandi_dorsalis

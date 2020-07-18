@@ -1,1 +1,0 @@
-((ENSSDUG00000020534__Seriola_dumerili,ENSSLDG00000006985__Seriola_lalandi_dorsalis),ENSMMOG00000021520__Mola_mola);

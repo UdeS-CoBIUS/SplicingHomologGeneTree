@@ -1,0 +1,1 @@
+((((ENSCPGG00000016679__Calidris_pygmaea,ENSCPUG00000019721__Calidris_pugnax),ENSMGAG00000017082__Meleagris_gallopavo),ENSMUNG00000005853__Melopsittacus_undulatus),((ENSARWG00000011980__Apteryx_rowi,ENSAHAG00000009551__Apteryx_haastii),ENSDNVG00000015603__Dromaius_novaehollandiae));

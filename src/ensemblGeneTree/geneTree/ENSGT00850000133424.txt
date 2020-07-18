@@ -1,0 +1,1 @@
+((((ENSTRUG00000023550__Takifugu_rubripes,ENSTRUG00000023686__Takifugu_rubripes),ENSTNIG00000015685__Tetraodon_nigroviridis),ENSGACG00000001334__Gasterosteus_aculeatus),ENSCVAG00000000815__Cyprinodon_variegatus);

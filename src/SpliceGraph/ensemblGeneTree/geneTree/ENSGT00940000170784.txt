@@ -1,0 +1,1 @@
+((((ENSLBEG00000012183__Labrus_bergylta,ENSLBEG00000001585__Labrus_bergylta),ENSDARG00000104869__Danio_rerio),ENSOANG00000020780__Ornithorhynchus_anatinus),ENSCING00000018194__Ciona_intestinalis);

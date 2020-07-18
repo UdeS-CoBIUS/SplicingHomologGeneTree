@@ -1,0 +1,12 @@
+HOMOSAPIENS	homo_sapiens
+PANTROGLODYTES	pan_troglodytes
+GORILLAGORILLA	gorilla_gorilla
+NOMASCUSLEUCOGENYS	nomascus_leucogenys
+THEROPITHECUSGELADA	theropithecus_gelada
+CALLITHRIXJACCHUS	callithrix_jacchus
+PROLEMURSIMUS	prolemur_simus
+ORYCTOLAGUSCUNICULUS	oryctolagus_cuniculus
+PANTHERAPARDUS	panthera_pardus
+PANTHERATIGRIS	panthera_tigris
+EQUUSCABALLUS	equus_caballus
+PHASCOLARCTOSCINEREUS	phascolarctos_cinereus

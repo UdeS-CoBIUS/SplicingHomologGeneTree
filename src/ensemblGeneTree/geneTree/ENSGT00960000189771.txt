@@ -1,0 +1,1 @@
+((((ENSMVIG00005004851__Manacus_vitellinus,ENSAPLG00000017284__Anas_platyrhynchos_platyrhynchos),ENSDNVG00000017526__Dromaius_novaehollandiae),ENSGAGG00000004596__Gopherus_agassizii),ENSSPUG00000003106__Sphenodon_punctatus);

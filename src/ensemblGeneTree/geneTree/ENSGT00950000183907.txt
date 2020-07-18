@@ -1,0 +1,1 @@
+(((((ENSCAFG00020010853__Canis_lupus_dingo,ENSCGRG00015026585__Cricetulus_griseus_CriGri-PICR),ENSRBIG00000040639__Rhinopithecus_bieti),(ENSTBEG00000016680__Tupaia_belangeri,ENSCHIG00000010838__Capra_hircus)),ENSMVIG00005016266__Manacus_vitellinus),ENSPMGG00000020036__Periophthalmus_magnuspinnatus);

@@ -1,0 +1,1 @@
+(((ENSTBEG00000013855__Tupaia_belangeri,MGP_SPRETEiJ_G0026539__Mus_spretus_strain_SPRET/EiJ),ENSMEUG00000008899__Notamacropus_eugenii),ENSOANG00000022074__Ornithorhynchus_anatinus);

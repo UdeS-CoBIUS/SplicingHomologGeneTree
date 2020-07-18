@@ -1,1 +1,0 @@
-(((ENSMMMG00000005511__Marmota_marmota_marmota,ENSPEMG00000025802__Peromyscus_maniculatus_bairdii),(ENSTGEG00000018091__Theropithecus_gelada,ENSPSMG00000010518__Prolemur_simus)),ENSNVIG00000009895__Neovison_vison);

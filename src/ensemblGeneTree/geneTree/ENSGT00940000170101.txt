@@ -1,0 +1,1 @@
+((ENSCSAVG00000005962__Ciona_savignyi,ENSPTEG00000017153__Piliocolobus_tephrosceles),(FBgn0028516__Drosophila_melanogaster,FBgn0051860__Drosophila_melanogaster));

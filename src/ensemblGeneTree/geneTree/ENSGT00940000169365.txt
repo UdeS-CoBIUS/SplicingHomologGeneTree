@@ -1,0 +1,1 @@
+(((ENSTNIG00000007871__Tetraodon_nigroviridis,ENSTRUG00000005481__Takifugu_rubripes),ENSDARG00000039516__Danio_rerio),ENSCING00000022413__Ciona_intestinalis);

@@ -1,0 +1,14 @@
+PANPANISCUS	pan_paniscus
+PANTROGLODYTES	pan_troglodytes
+GORILLAGORILLA	gorilla_gorilla
+PANTROGLODYTES	pan_troglodytes
+MACACANEMESTRINA	macaca_nemestrina
+MACACAMULATTA	macaca_mulatta
+MACACAFASCICULARIS	macaca_fascicularis
+MANDRILLUSLEUCOPHAEUS	mandrillus_leucophaeus
+THEROPITHECUSGELADA	theropithecus_gelada
+PAPIOANUBIS	papio_anubis
+CERCOCEBUSATYS	cercocebus_atys
+RHINOPITHECUSROXELLANA	rhinopithecus_roxellana
+RHINOPITHECUSBIETI	rhinopithecus_bieti
+COLOBUSANGOLENSIS	colobus_angolensis

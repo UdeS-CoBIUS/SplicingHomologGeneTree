@@ -1,0 +1,1 @@
+(((((((ENSPPAG00000024258__Pan_paniscus,ENSPTRG00000043824__Pan_troglodytes),ENSG00000270188__Homo_sapiens),(ENSPTEG00000037602__Piliocolobus_tephrosceles,ENSTGEG00000015466__Theropithecus_gelada)),ENSCSAG00000000396__Chlorocebus_sabaeus),ENSCJAG00000040395__Callithrix_jacchus),ENSBBBG00000002568__Bison_bison_bison),ENSJHYG00000004403__Junco_hyemalis);

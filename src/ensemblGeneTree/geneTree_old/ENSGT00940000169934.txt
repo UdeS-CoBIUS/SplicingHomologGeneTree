@@ -1,1 +1,0 @@
-(((ENSJJAG00000016815__Jaculus_jaculus,ENSNGAG00000003678__Nannospalax_galili),ENSODEG00000000271__Octodon_degus),ENSDORG00000008018__Dipodomys_ordii);

@@ -1,0 +1,7 @@
+MUSMUSCULUS	mus_musculus
+MUSSPICILEGUS	mus_spicilegus
+MERIONESUNGUICULATUS	meriones_unguiculatus
+PEROMYSCUSMANICULATUSBAIRDII	peromyscus_maniculatus_bairdii
+CRICETULUSGRISEUSCRIGRIPICR	cricetulus_griseus_crigri-picr
+SPERMOPHILUSDAURICUS	spermophilus_dauricus
+MARMOTAMARMOTAMARMOTA	marmota_marmota_marmota

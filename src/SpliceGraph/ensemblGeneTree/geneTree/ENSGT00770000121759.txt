@@ -1,0 +1,1 @@
+(((((MGP_SPRETEiJ_G0017914__Mus_spretus_strain_SPRET/EiJ,ENSMUSG00000050538__Mus_musculus_strain_reference_(CL57BL6)),ENSMSIG00000016184__Mus_spicilegus),MGP_CAROLIEiJ_G0017068__Mus_caroli_strain_CAROLI_EIJ),MGP_PahariEiJ_G0018197__Mus_pahari_strain_PAHARI_EIJ),ENSCSAG00000002661__Chlorocebus_sabaeus);

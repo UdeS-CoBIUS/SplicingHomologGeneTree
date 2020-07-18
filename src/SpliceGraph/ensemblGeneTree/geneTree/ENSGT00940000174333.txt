@@ -1,0 +1,1 @@
+(ENSMLUG00000023334__Myotis_lucifugus,ENSPVAG00000000314__Pteropus_vampyrus);

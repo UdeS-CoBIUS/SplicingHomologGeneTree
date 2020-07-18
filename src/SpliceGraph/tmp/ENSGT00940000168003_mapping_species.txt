@@ -1,0 +1,9 @@
+PILIOCOLOBUSTEPHROSCELES	piliocolobus_tephrosceles
+RHINOPITHECUSROXELLANA	rhinopithecus_roxellana
+MANDRILLUSLEUCOPHAEUS	mandrillus_leucophaeus
+PAPIOANUBIS	papio_anubis
+THEROPITHECUSGELADA	theropithecus_gelada
+MACACAFASCICULARIS	macaca_fascicularis
+CERCOCEBUSATYS	cercocebus_atys
+CALLITHRIXJACCHUS	callithrix_jacchus
+ECHINOPSTELFAIRI	echinops_telfairi

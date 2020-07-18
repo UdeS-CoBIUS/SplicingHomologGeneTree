@@ -1,0 +1,1 @@
+(ENSRNOG00000050693__Rattus_norvegicus,ENSCLAG00000006527__Chinchilla_lanigera);

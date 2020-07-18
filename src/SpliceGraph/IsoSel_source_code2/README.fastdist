@@ -1,0 +1,64 @@
+FastDist, a program for protein evolutionary distances fast computing
+
+Please send bug reports, comments, etc., to guy.perriere[at]univ-lyon1.fr
+
+Basic usage:
+
+    fastdist <infile>
+
+Where <infile> is a protein sequence alignment file in Fasta format. By default,
+results are sent to the standard output as a distance matrix in Phylip format.
+This matrix can be then used to compute a phylogenetic tree with any program
+compatible with this format (eg, Neighbor or BioNJ).
+
+Possible options:
+
+    fastdist <infile> [-n <name>] [-m <model>] [-a <alpha>] [-e <0|1|2>]
+    [-b <number>] [-s <number> [-t <number>] [-f] [-g] [-x]
+
+Where:
+
+    -n <name>      Name four output files (default: infile)
+    -m <model>     Amino acid substitution model (default: PAM)
+    -e <0|1|2>     Missing distances estimation method (default: 0)
+    -a <alpha>     Gamma shape parameter (default: 2.25)
+    -b <number>    Number of boostrap replicates (default: 0)
+    -s <number>    Number used as seed for bootstrap replicates (default: 0)
+    -t <number>    Number of threads (default: 1)
+    -f             Amino acids equilibrium frequencies estimated from dataset
+                   (otherwise: equilibrium frequencies taken from model)
+    -g             Global gap removal (otherwise: pairwise gap removal)
+    -x             One file per tree (otherwise: all generated trees are in the same file)
+
+For the amino acid substitution models, possible values are PAM, JTT, WAG, LG,
+Blo, Kim, Poi, Gam, Obs, Gap. Blo stands for BLOSUM62, Kim for the Kimura
+approximation of PAM, Poi for Poisson, Gam for Gamma-corrected Poisson, Obs for
+the observed divergence and Gap for the observed divergence with gap as a
+supplementary character. Values for PAM and JTT exchangeabilities and
+equilibrium frequencies are the ones from DCMut versions (Kosiol and Goldman,
+2005).
+
+The -f option is only useful when using the substitution models PAM, JTT, WAG, LG and BLOSUM62.
+
+For the alpha parameter, this option is only useful when using the Gamma-
+corrected Poisson distance (Gam). Following Nei and Zhang (2005), the default
+value (alpha = 2.25) allows to approximate a PAM distance while a value of alpha
+= 2.4 allows to approximate a JTT distance
+
+The -s option is only useful when using bootstrap replicates. The number must be
+an unsigned integer. Note that if 0 is chosen (the default) then the seed used
+will be generated using the time in seconds since the Epoch (00:00:00 UTC,
+January 1, 1970). 
+
+For the missing distances estimation methods, possible values are 0 (no
+estimation), 1 (estimation by the ultrametric inequality approach) and 2
+(estimation by the additive procedure with the four points condition). Those
+two methods are described in Makarenkov and Lapointe (2004).
+
+The -t option is only available with HPC binaries (ie, those that have been
+compiled with the OpenMP library).
+
+--
+Guy Perrière - Laboratoire BBE - Université Claude Bernard Lyon 1
+43 bd. du 11 Novembre 1918 - 69622 Villeurbanne Cedex - France
+http://lbbe.univ-lyon1.fr/-Perriere-Guy-.html

@@ -1,0 +1,1 @@
+(((ENSLAFG00000031960__Loxodonta_africana,ENSCHOG00000002401__Choloepus_hoffmanni),ENSOANG00000008528__Ornithorhynchus_anatinus),ENSTGUG00000006424__Taeniopygia_guttata);

@@ -1,0 +1,1 @@
+(ENSCAFG00000030580__Canis_lupus_familiaris,ENSOARG00000014871__Ovis_aries);

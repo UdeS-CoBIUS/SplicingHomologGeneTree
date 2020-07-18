@@ -1,0 +1,1 @@
+(((ENSPTEG00000032423__Piliocolobus_tephrosceles,ENSPTEG00000031167__Piliocolobus_tephrosceles),(ENSMNEG00000036096__Macaca_nemestrina,ENSMFAG00000032840__Macaca_fascicularis)),ENSPTRG00000052664__Pan_troglodytes);

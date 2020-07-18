@@ -1,1 +1,0 @@
-((((ENSCPBG00000009883__Chrysemys_picta_bellii,ENSGAGG00000018918__Gopherus_agassizii),ENSPSIG00000012284__Pelodiscus_sinensis),ENSCPBG00000004689__Chrysemys_picta_bellii),ENSSPUG00000003829__Sphenodon_punctatus);

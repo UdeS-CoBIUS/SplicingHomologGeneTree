@@ -1,0 +1,2 @@
+ICTALURUSPUNCTATUS	ictalurus_punctatus
+PERIOPHTHALMUSMAGNUSPINNATUS	periophthalmus_magnuspinnatus

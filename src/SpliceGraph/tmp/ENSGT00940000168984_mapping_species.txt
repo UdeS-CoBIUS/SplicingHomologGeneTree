@@ -1,0 +1,5 @@
+CAENORHABDITISELEGANSSTRAINN2	caenorhabditis_elegans_strain_n2
+DROSOPHILAMELANOGASTER	drosophila_melanogaster
+EPTATRETUSBURGERI	eptatretus_burgeri
+PETROMYZONMARINUS	petromyzon_marinus
+SACCHAROMYCESCEREVISIAE	saccharomyces_cerevisiae

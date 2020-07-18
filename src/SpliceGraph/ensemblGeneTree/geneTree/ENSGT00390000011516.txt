@@ -1,0 +1,1 @@
+(((YFL060C__Saccharomyces_cerevisiae_strain_S288C,YNL334C__Saccharomyces_cerevisiae_strain_S288C),YMR095C__Saccharomyces_cerevisiae_strain_S288C),ENSCING00000006260__Ciona_intestinalis);

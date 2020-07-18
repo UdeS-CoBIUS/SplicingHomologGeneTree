@@ -1,0 +1,1 @@
+((ENSCSEG00000006863__Cynoglossus_semilaevis,ENSHCOG00000019592__Hippocampus_comes),(((ENSAPOG00000022992__Acanthochromis_polyacanthus,ENSAPOG00000010978__Acanthochromis_polyacanthus),ENSAPOG00000017644__Acanthochromis_polyacanthus),ENSAPEG00000019505__Amphiprion_percula));

@@ -1,0 +1,2 @@
+YCR033W_mRNA	YCR033W	Saccharomyces_cerevisiae_strain_S288C
+C14B9.6a.3	WBGene00001565	Caenorhabditis_elegans_strain_N2	C14B9.6a.3

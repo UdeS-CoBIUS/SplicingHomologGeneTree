@@ -1,0 +1,1 @@
+(((ENSLSDG00000010479__Lonchura_striata_domestica,ENSTGUG00000010738__Taeniopygia_guttata),ENSCPGG00000008568__Calidris_pygmaea),ENSNSUG00000015643__Notechis_scutatus);

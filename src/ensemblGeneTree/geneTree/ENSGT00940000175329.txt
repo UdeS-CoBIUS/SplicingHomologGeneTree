@@ -1,0 +1,1 @@
+((ENSEBUG00000015933__Eptatretus_burgeri,ENSEBUG00000003572__Eptatretus_burgeri),((((ENSLBEG00000007390__Labrus_bergylta,ENSLBEG00000011889__Labrus_bergylta),ENSLBEG00000016454__Labrus_bergylta),ENSIPUG00000022030__Ictalurus_punctatus),((ENSCPUG00000014505__Calidris_pugnax,ENSCPUG00000014503__Calidris_pugnax),ENSCPGG00000009607__Calidris_pygmaea)));

@@ -1,0 +1,136 @@
+>0
+C10F3.3.1: ['exon skipping', 0, 0]
+FBtr0074897: ['no event', 183, 0]
+FBtr0304746: ['no event', 183, 0]
+>1
+C10F3.3.1: ['exon skipping', 0, 0]
+FBtr0074897: ['no event', 133, 1]
+FBtr0304746: ['no event', 133, 1]
+>2
+C10F3.3.1: ['3event', '5event', 222, 0]
+FBtr0074897: [['internal gap >= 30', 146, 55], 197, 0]
+FBtr0304746: [['internal gap >= 30', 146, 55], 197, 0]
+>3
+C10F3.3.1: ['5event', 92, 0]
+FBtr0074897: ['exon skipping', 0, 0]
+FBtr0304746: ['exon skipping', 0, 0]
+>4
+C10F3.3.1: ['no event', 165, 0]
+FBtr0074897: ['exon skipping', 0, 0]
+FBtr0304746: ['exon skipping', 0, 0]
+>5
+C10F3.3.1: ['3event', 139, 1]
+FBtr0074897: ['5event', 122, 0]
+FBtr0304746: ['5event', 122, 0]
+>6
+C10F3.3.1: ['5event', 322, 0]
+FBtr0074897: ['exon skipping', 0, 0]
+FBtr0304746: ['exon skipping', 0, 0]
+>7
+C10F3.3.1: ['exon skipping', 0, 0]
+FBtr0074897: ['5event', 194, 0]
+FBtr0304746: ['5event', 194, 0]
+>8
+C10F3.3.1: ['5event', 111, 2]
+FBtr0074897: ['no event', 228, 0]
+FBtr0304746: ['no event', 228, 0]
+>9
+C10F3.3.1: ['no event', 127, 0]
+FBtr0074897: ['no event', 127, 0]
+FBtr0304746: ['no event', 127, 0]
+>10
+C10F3.3.1: ['no event', 158, 2]
+FBtr0074897: ['no event', 158, 2]
+FBtr0304746: ['no event', 158, 2]
+>11
+C10F3.3.1: ['no event', 65, 2]
+FBtr0074897: ['exon skipping', 0, 0]
+FBtr0304746: ['exon skipping', 0, 0]
+>12
+C10F3.3.1: ['no event', 35, 2]
+FBtr0074897: ['exon skipping', 0, 0]
+FBtr0304746: ['exon skipping', 0, 0]
+>13
+C10F3.3.1: ['exon skipping', 0, 0]
+FBtr0074897: ['5event', 751, 2]
+FBtr0304746: ['5event', 751, 2]
+>14
+C10F3.3.1: ['exon skipping', 0, 0]
+FBtr0074897: ['no event', 98, 1]
+FBtr0304746: ['no event', 98, 1]
+>15
+C10F3.3.1: ['5event', 204, 2]
+FBtr0074897: [['internal gap >= 30', 46, 86], 120, 1]
+FBtr0304746: [['internal gap >= 30', 46, 86], 120, 1]
+>16
+C10F3.3.1: ['no event', 8, 0]
+FBtr0074897: ['exon skipping', 0, 0]
+FBtr0304746: ['exon skipping', 0, 0]
+>17
+C10F3.3.1: ['no event', 88, 0]
+FBtr0074897: ['exon skipping', 0, 0]
+FBtr0304746: ['exon skipping', 0, 0]
+>18
+C10F3.3.1: ['no event', 170, 2]
+FBtr0074897: ['exon skipping', 0, 0]
+FBtr0304746: ['exon skipping', 0, 0]
+>19
+C10F3.3.1: ['no event', 153, 2]
+FBtr0074897: ['exon skipping', 0, 0]
+FBtr0304746: ['exon skipping', 0, 0]
+>20
+C10F3.3.1: [['internal gap >= 30', 181, 37], 214, 0]
+FBtr0074897: ['3event', '5event', 227, 0]
+FBtr0304746: ['3event', '5event', 227, 0]
+>21
+C10F3.3.1: ['exon skipping', 0, 0]
+FBtr0074897: ['5event', 207, 2]
+FBtr0304746: ['5event', 207, 2]
+>22
+C10F3.3.1: ['exon skipping', 0, 0]
+FBtr0074897: ['no event', 313, 0]
+FBtr0304746: ['no event', 313, 0]
+>23
+C10F3.3.1: ['3event', '5event', 70, 2]
+FBtr0074897: [['internal gap < 30', 2, 6], 162, 2]
+FBtr0304746: [['internal gap < 30', 2, 6], 162, 2]
+>24
+C10F3.3.1: ['exon skipping', 0, 0]
+FBtr0074897: ['no event', 212, 0]
+FBtr0304746: ['no event', 212, 0]
+>25
+C10F3.3.1: ['exon skipping', 0, 0]
+FBtr0074897: ['no event', 104, 0]
+FBtr0304746: ['no event', 104, 0]
+>26
+C10F3.3.1: ['exon skipping', 0, 0]
+FBtr0074897: ['exon skipping', 0, 0]
+FBtr0304746: ['no event', 14, 0]
+>27
+C10F3.3.1: ['5event', 6, 0]
+FBtr0074897: ['exon skipping', 0, 0]
+FBtr0304746: ['exon skipping', 0, 0]
+>28
+C10F3.3.1: ['exon skipping', 0, 0]
+FBtr0074897: ['5event', 242, 0]
+FBtr0304746: ['5event', 242, 0]
+>29
+C10F3.3.1: ['5event', ['internal gap < 30', 86, 24], 116, 1]
+FBtr0074897: [['internal gap < 30', 64, 11], 129, 0]
+FBtr0304746: [['internal gap < 30', 64, 11], 129, 0]
+>30
+C10F3.3.1: ['no event', 34, 1]
+FBtr0074897: ['exon skipping', 0, 0]
+FBtr0304746: ['exon skipping', 0, 0]
+>31
+C10F3.3.1: ['no event', 248, 0]
+FBtr0074897: ['exon skipping', 0, 0]
+FBtr0304746: ['exon skipping', 0, 0]
+>32
+C10F3.3.1: ['no event', 371, 0]
+FBtr0074897: ['exon skipping', 0, 0]
+FBtr0304746: ['exon skipping', 0, 0]
+>33
+C10F3.3.1: ['no event', 107, 0]
+FBtr0074897: ['exon skipping', 0, 0]
+FBtr0304746: ['exon skipping', 0, 0]

@@ -1,0 +1,1 @@
+(((ENSPNAG00000002396__Pygocentrus_nattereri,ENSPNAG00000001405__Pygocentrus_nattereri),(((ENSMMOG00000000530__Mola_mola,ENSMMOG00000015308__Mola_mola),ENSMMOG00000007311__Mola_mola),ENSMAMG00000020728__Mastacembelus_armatus)),ENSPKIG00000016995__Paramormyrops_kingsleyae);

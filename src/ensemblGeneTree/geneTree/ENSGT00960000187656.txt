@@ -1,0 +1,1 @@
+((ENSORLG00020022005__Oryzias_latipes_ASM223471v1,ENSORLG00015002311__Oryzias_latipes_ASM223469v1),(ENSTGUG00000018330__Taeniopygia_guttata,ENSNPEG00000010801__Nothoprocta_perdicaria));

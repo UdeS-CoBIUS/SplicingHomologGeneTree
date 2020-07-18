@@ -1,0 +1,1 @@
+((ENSNVIG00000004844__Neovison_vison,ENSMPUG00000017418__Mustela_putorius_furo),ENSMLUG00000000547__Myotis_lucifugus);

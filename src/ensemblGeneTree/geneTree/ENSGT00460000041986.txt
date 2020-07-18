@@ -1,0 +1,1 @@
+(((((ENSOCUG00000021099__Oryctolagus_cuniculus,ENSOCUG00000027485__Oryctolagus_cuniculus),ENSOCUG00000023169__Oryctolagus_cuniculus),ENSOCUG00000024786__Oryctolagus_cuniculus),ENSOCUG00000025189__Oryctolagus_cuniculus),ENSOANG00000020183__Ornithorhynchus_anatinus);

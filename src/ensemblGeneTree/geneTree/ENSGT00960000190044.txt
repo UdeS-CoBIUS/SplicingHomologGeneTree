@@ -1,0 +1,1 @@
+(((ENSMMMG00000001059__Marmota_marmota_marmota,ENSMMMG00000019558__Marmota_marmota_marmota),ENSUPAG00010022403__Urocitellus_parryii),ENSPCIG00000010083__Phascolarctos_cinereus);

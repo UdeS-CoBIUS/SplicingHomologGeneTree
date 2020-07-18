@@ -1,0 +1,1 @@
+(ENSEASG00005020715__Equus_asinus_asinus,ENSECAG00000030251__Equus_caballus);

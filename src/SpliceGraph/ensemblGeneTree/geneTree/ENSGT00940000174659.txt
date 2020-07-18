@@ -1,0 +1,1 @@
+(((((((ENSPMEG00000003120__Poecilia_mexicana,ENSXCOG00000007872__Xiphophorus_couchianus),ENSMMOG00000010465__Mola_mola),ENSATEG00000016609__Anabas_testudineus),ENSHCOG00000011792__Hippocampus_comes),ENSAMXG00000041211__Astyanax_mexicanus),ENSLOCG00000000148__Lepisosteus_oculatus),(ENSEBUG00000005382__Eptatretus_burgeri,ENSEBUG00000003335__Eptatretus_burgeri));

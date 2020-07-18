@@ -1,1 +1,0 @@
-((ENSTRUG00000022762__Takifugu_rubripes,ENSTNIG00000003962__Tetraodon_nigroviridis),(ENSHBUG00000008491__Haplochromis_burtoni,ENSSPAG00000010884__Stegastes_partitus));

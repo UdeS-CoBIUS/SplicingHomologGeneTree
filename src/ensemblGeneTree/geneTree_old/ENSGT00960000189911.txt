@@ -1,1 +1,0 @@
-(((ENSCCEG00000014797__Cyanistes_caeruleus,ENSPMJG00000006591__Parus_major),ENSLSDG00000007717__Lonchura_striata_domestica),ENSSPUG00000017180__Sphenodon_punctatus);

@@ -1,0 +1,1 @@
+((ENSOPRG00000007324__Ochotona_princeps,ENSTBEG00000003597__Tupaia_belangeri),ENSETEG00000016665__Echinops_telfairi);

@@ -1,0 +1,72 @@
+>0
+ENSPMAT00000007729: ['no event', 76, 0]
+ENSPMAT00000010513: ['no event', 76, 0]
+ENSEBUT00000015312: ['no event', 76, 0]
+>1
+ENSPMAT00000007729: ['no event', 18, 2]
+ENSPMAT00000010513: ['exon skipping', 0, 0]
+ENSEBUT00000015312: ['exon skipping', 0, 0]
+>2
+ENSPMAT00000007729: [['internal gap < 30', 2, 22], 78, 0]
+ENSPMAT00000010513: ['3event', '5event', 92, 2]
+ENSEBUT00000015312: ['5event', 95, 2]
+>3
+ENSPMAT00000007729: [['internal gap < 30', 88, 22], 102, 2]
+ENSPMAT00000010513: ['5event', ['internal gap < 30', 94, 16], 108, 1]
+ENSEBUT00000015312: ['3event', 115, 2]
+>4
+ENSPMAT00000007729: ['no event', 124, 2]
+ENSPMAT00000010513: ['no event', 124, 2]
+ENSEBUT00000015312: ['5event', 123, 2]
+>5
+ENSPMAT00000007729: ['no event', 81, 0]
+ENSPMAT00000010513: [['internal gap < 30', 44, 2], 79, 0]
+ENSEBUT00000015312: ['no event', 81, 0]
+>6
+ENSPMAT00000007729: ['exon skipping', 0, 0]
+ENSPMAT00000010513: [['internal gap < 30', 1, 1], 11, 1]
+ENSEBUT00000015312: ['exon skipping', 0, 0]
+>7
+ENSPMAT00000007729: ['5event', 68, 1]
+ENSPMAT00000010513: ['no event', 70, 1]
+ENSEBUT00000015312: ['5event', 68, 1]
+>8
+ENSPMAT00000007729: ['no event', 66, 1]
+ENSPMAT00000010513: ['no event', 66, 1]
+ENSEBUT00000015312: ['no event', 66, 1]
+>9
+ENSPMAT00000007729: ['no event', 111, 2]
+ENSPMAT00000010513: ['no event', 111, 2]
+ENSEBUT00000015312: [['internal gap < 30', 73, 24], 87, 2]
+>10
+ENSPMAT00000007729: [['internal gap < 30', 3, 7], 8, 0]
+ENSPMAT00000010513: ['exon skipping', 0, 0]
+ENSEBUT00000015312: ['no event', 15, 0]
+>11
+ENSPMAT00000007729: ['exon skipping', 0, 0]
+ENSPMAT00000010513: ['exon skipping', 0, 0]
+ENSEBUT00000015312: ['no event', 7, 1]
+>12
+ENSPMAT00000007729: ['5event', 5, 0]
+ENSPMAT00000010513: ['exon skipping', 0, 0]
+ENSEBUT00000015312: ['exon skipping', 0, 0]
+>13
+ENSPMAT00000007729: ['no event', 120, 0]
+ENSPMAT00000010513: ['5event', 119, 0]
+ENSEBUT00000015312: ['5event', 119, 0]
+>14
+ENSPMAT00000007729: ['no event', 197, 0]
+ENSPMAT00000010513: ['no event', 197, 0]
+ENSEBUT00000015312: ['no event', 197, 0]
+>15
+ENSPMAT00000007729: [['internal gap < 30', 62, 3], 89, 0]
+ENSPMAT00000010513: [['internal gap < 30', 62, 3], 89, 0]
+ENSEBUT00000015312: ['3event', 86, 0]
+>16
+ENSPMAT00000007729: [['internal gap < 30', 54, 8], 65, 0]
+ENSPMAT00000010513: ['3event', 62, 0]
+ENSEBUT00000015312: ['5event', ['internal gap < 30', 30, 5], 68, 0]
+>17
+ENSPMAT00000007729: ['exon skipping', 0, 0]
+ENSPMAT00000010513: ['5event', 3, 2]
+ENSEBUT00000015312: ['exon skipping', 0, 0]

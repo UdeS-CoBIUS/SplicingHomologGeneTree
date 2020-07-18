@@ -1,0 +1,1 @@
+(((ENSLOCG00000000516__Lepisosteus_oculatus,ENSIPUG00000007800__Ictalurus_punctatus),(ENSNVIG00000015386__Neovison_vison,ENSMUGG00000013449__Meriones_unguiculatus)),((ENSCSAVG00000005514__Ciona_savignyi,ENSCING00000019549__Ciona_intestinalis),ENSCING00000019247__Ciona_intestinalis));

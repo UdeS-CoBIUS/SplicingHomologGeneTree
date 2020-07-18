@@ -1,0 +1,1 @@
+((((FBgn0032632__Drosophila_melanogaster,FBgn0032626__Drosophila_melanogaster),FBgn0028429__Drosophila_melanogaster),WBGene00021312__Caenorhabditis_elegans_strain_N2),(ENSEBUG00000004716__Eptatretus_burgeri,ENSLACG00000015463__Latimeria_chalumnae));

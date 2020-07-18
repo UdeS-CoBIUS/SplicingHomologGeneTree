@@ -1,0 +1,1 @@
+(ENSCVAG00000022533__Cyprinodon_variegatus,ENSSLDG00000014784__Seriola_lalandi_dorsalis);

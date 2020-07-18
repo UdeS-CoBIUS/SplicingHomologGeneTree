@@ -1,1 +1,0 @@
-(ENSAOCG00000013942__Amphiprion_ocellaris,ENSMAMG00000016183__Mastacembelus_armatus);

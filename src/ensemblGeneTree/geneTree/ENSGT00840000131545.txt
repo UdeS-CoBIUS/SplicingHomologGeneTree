@@ -1,0 +1,1 @@
+((ENSEBUG00000009282__Eptatretus_burgeri,ENSEBUG00000002228__Eptatretus_burgeri),(ENSTNIG00000003188__Tetraodon_nigroviridis,ENSTNIG00000002533__Tetraodon_nigroviridis));

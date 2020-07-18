@@ -1,0 +1,12 @@
+>0
+YML115C_mRNA: [['internal gap >= 30', 1196, 65], 1601, 0]
+YPL050C_mRNA: ['5event', ['internal gap >= 30', 1169, 479], 1187, 0]
+YEL036C_mRNA: ['5event', ['internal gap >= 30', 725, 536], 1130, 0]
+>1
+YML115C_mRNA: [['internal gap >= 30', 1, 314], 5, 0]
+YPL050C_mRNA: ['exon skipping', 0, 0]
+YEL036C_mRNA: ['no event', 319, 0]
+>2
+YML115C_mRNA: ['exon skipping', 0, 0]
+YPL050C_mRNA: ['exon skipping', 0, 0]
+YEL036C_mRNA: ['no event', 51, 2]

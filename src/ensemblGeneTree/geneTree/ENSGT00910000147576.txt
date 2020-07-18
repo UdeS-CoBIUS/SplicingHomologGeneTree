@@ -1,0 +1,1 @@
+((ENSANAG00000031197__Aotus_nancymaae,ENSSBOG00000023477__Saimiri_boliviensis_boliviensis),(((ENSPPAG00000029605__Pan_paniscus,ENSPTRG00000047548__Pan_troglodytes),ENSGGOG00000043349__Gorilla_gorilla),ENSMFAG00000012495__Macaca_fascicularis));

@@ -1,0 +1,1 @@
+(ENSAPEG00000023313__Amphiprion_percula,ENSORLG00020009959__Oryzias_latipes_ASM223471v1);

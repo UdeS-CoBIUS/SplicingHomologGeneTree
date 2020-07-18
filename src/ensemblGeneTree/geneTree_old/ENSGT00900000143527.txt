@@ -1,1 +1,0 @@
-(ENSMAUG00000009162__Mesocricetus_auratus,ENSCGRG00001024105__Cricetulus_griseus_CHOK1GS_HDv1);

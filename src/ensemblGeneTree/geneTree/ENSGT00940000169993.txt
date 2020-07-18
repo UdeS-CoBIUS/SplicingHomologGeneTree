@@ -1,0 +1,1 @@
+((((ENSGMOG00000003372__Gadus_morhua,ENSOMEG00000022960__Oryzias_melastigma),ENSSFOG00015018067__Scleropages_formosus),ENSACAG00000008782__Anolis_carolinensis),ENSEBUG00000010741__Eptatretus_burgeri);

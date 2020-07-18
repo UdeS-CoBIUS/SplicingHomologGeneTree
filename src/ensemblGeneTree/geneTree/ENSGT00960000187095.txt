@@ -1,0 +1,1 @@
+((((ENSMAMG00000007751__Mastacembelus_armatus,ENSMAMG00000007972__Mastacembelus_armatus),ENSMAMG00000001996__Mastacembelus_armatus),ENSPNAG00000022931__Pygocentrus_nattereri),(ENSSFOG00015008825__Scleropages_formosus,ENSSFOG00015023501__Scleropages_formosus));

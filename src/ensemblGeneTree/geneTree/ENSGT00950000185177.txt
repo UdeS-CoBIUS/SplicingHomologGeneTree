@@ -1,0 +1,1 @@
+(((ENSUMAG00000023445__Ursus_maritimus,ENSUAMG00000015006__Ursus_americanus),(ENSNVIG00000013771__Neovison_vison,ENSCAFG00020026076__Canis_lupus_dingo)),ENSSSCG00000034478__Sus_scrofa);

@@ -1,0 +1,30 @@
+>0
+ENSPNAT00000020700: ['exon skipping', 0, 0]
+ENSPNAT00000020717: ['no event', 17, 0]
+>1
+ENSPNAT00000020700: ['5event', 103, 0]
+ENSPNAT00000020717: [['internal gap < 30', 1, 27], 77, 0]
+>2
+ENSPNAT00000020700: ['no event', 100, 2]
+ENSPNAT00000020717: ['no event', 100, 2]
+>3
+ENSPNAT00000020700: ['no event', 104, 1]
+ENSPNAT00000020717: ['no event', 104, 1]
+>4
+ENSPNAT00000020700: ['no event', 81, 1]
+ENSPNAT00000020717: ['no event', 81, 1]
+>5
+ENSPNAT00000020700: ['3event', 113, 2]
+ENSPNAT00000020717: ['no event', 119, 2]
+>6
+ENSPNAT00000020700: ['5event', 147, 0]
+ENSPNAT00000020717: ['exon skipping', 0, 0]
+>7
+ENSPNAT00000020700: ['no event', 99, 1]
+ENSPNAT00000020717: ['exon skipping', 0, 0]
+>8
+ENSPNAT00000020700: ['no event', 57, 2]
+ENSPNAT00000020717: ['exon skipping', 0, 0]
+>9
+ENSPNAT00000020700: ['exon skipping', 0, 0]
+ENSPNAT00000020717: ['5event', 75, 2]

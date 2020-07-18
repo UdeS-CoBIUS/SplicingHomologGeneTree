@@ -1,0 +1,1 @@
+((ENSGAGG00000025412__Gopherus_agassizii,ENSGAGG00000010268__Gopherus_agassizii),((ENSAHAG00000009900__Apteryx_haastii,ENSAOWG00000002013__Apteryx_owenii),(ENSABRG00000023152__Anser_brachyrhynchus,ENSCPGG00000017551__Calidris_pygmaea)));

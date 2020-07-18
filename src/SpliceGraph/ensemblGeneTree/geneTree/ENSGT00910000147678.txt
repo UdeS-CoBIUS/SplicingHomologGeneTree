@@ -1,0 +1,1 @@
+(((((ENSPPAG00000038395__Pan_paniscus,ENSNLEG00000028782__Nomascus_leucogenys),ENSMMUG00000041365__Macaca_mulatta),ENSSBOG00000019065__Saimiri_boliviensis_boliviensis),(ENSCCNG00000001044__Castor_canadensis,ENSMSIG00000021147__Mus_spicilegus)),((ENSBBBG00000001325__Bison_bison_bison,ENSBMUG00000015811__Bos_mutus),ENSPTIG00000019116__Panthera_tigris_altaica));

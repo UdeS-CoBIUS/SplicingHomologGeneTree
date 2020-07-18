@@ -1,0 +1,1 @@
+((((ENSUPAG00010019535__Urocitellus_parryii,ENSCGRG00000000076__Cricetulus_griseus_CriGri_1.0),ENSEEUG00000007523__Erinaceus_europaeus),(ENSSPUG00000014310__Sphenodon_punctatus,ENSCPBG00000024892__Chrysemys_picta_bellii)),ENSTRUG00000021612__Takifugu_rubripes);

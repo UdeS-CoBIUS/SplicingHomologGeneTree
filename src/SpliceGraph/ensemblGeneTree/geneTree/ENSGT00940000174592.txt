@@ -1,0 +1,1 @@
+((ENSCAFG00020010899__Canis_lupus_dingo,ENSMNEG00000029300__Macaca_nemestrina),ENSMGAG00000016459__Meleagris_gallopavo);

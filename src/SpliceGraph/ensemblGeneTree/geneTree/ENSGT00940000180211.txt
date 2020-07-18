@@ -1,0 +1,1 @@
+((ENSLBEG00000021239__Labrus_bergylta,ENSATEG00000018395__Anabas_testudineus),ENSAMXG00000036322__Astyanax_mexicanus);

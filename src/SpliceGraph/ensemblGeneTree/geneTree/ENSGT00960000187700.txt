@@ -1,0 +1,1 @@
+(((ENSCCAG00000015509__Cebus_capucinus_imitator,ENSSBOG00000029082__Saimiri_boliviensis_boliviensis),(ENSPPAG00000035905__Pan_paniscus,ENSPTRG00000043029__Pan_troglodytes)),ENSUPAG00010013983__Urocitellus_parryii);

@@ -1,0 +1,65 @@
+>0
+ZK354.9.1: ['exon skipping', 0, 0]
+F25B3.4.1: ['no event', 12, 0]
+C23G10.1a.1: ['exon skipping', 0, 0]
+C23G10.1b.1: ['exon skipping', 0, 0]
+>1
+ZK354.9.1: ['exon skipping', 0, 0]
+F25B3.4.1: ['exon skipping', 0, 0]
+C23G10.1a.1: ['exon skipping', 0, 0]
+C23G10.1b.1: ['5event', 341, 0]
+>2
+ZK354.9.1: ['exon skipping', 0, 0]
+F25B3.4.1: ['exon skipping', 0, 0]
+C23G10.1a.1: ['5event', 35, 0]
+C23G10.1b.1: ['exon skipping', 0, 0]
+>3
+ZK354.9.1: ['exon skipping', 0, 0]
+F25B3.4.1: ['5event', 10, 1]
+C23G10.1a.1: ['exon skipping', 0, 0]
+C23G10.1b.1: ['exon skipping', 0, 0]
+>4
+ZK354.9.1: ['5event', ['internal gap >= 30', 10, 63], 73, 0]
+F25B3.4.1: [['internal gap < 30', 72, 1], 135, 0]
+C23G10.1a.1: ['3event', '5event', 85, 0]
+C23G10.1b.1: ['3event', '5event', 85, 0]
+>5
+ZK354.9.1: ['exon skipping', 0, 0]
+F25B3.4.1: ['exon skipping', 0, 0]
+C23G10.1a.1: ['5event', 86, 1]
+C23G10.1b.1: ['5event', 86, 1]
+>6
+ZK354.9.1: ['exon skipping', 0, 0]
+F25B3.4.1: ['5event', 115, 0]
+C23G10.1a.1: ['exon skipping', 0, 0]
+C23G10.1b.1: ['exon skipping', 0, 0]
+>7
+ZK354.9.1: ['5event', ['internal gap < 30', 16, 13], 411, 2]
+F25B3.4.1: [['internal gap < 30', 17, 12], 412, 2]
+C23G10.1a.1: ['3event', '5event', 122, 1]
+C23G10.1b.1: ['3event', '5event', 122, 1]
+>8
+ZK354.9.1: ['exon skipping', 0, 0]
+F25B3.4.1: ['exon skipping', 0, 0]
+C23G10.1a.1: ['5event', 233, 0]
+C23G10.1b.1: ['5event', 233, 0]
+>9
+ZK354.9.1: ['exon skipping', 0, 0]
+F25B3.4.1: ['exon skipping', 0, 0]
+C23G10.1a.1: ['no event', 112, 0]
+C23G10.1b.1: ['no event', 112, 0]
+>10
+ZK354.9.1: ['5event', ['internal gap < 30', 154, 16], 347, 0]
+F25B3.4.1: ['5event', ['internal gap < 30', 154, 16], 347, 0]
+C23G10.1a.1: ['3event', 219, 2]
+C23G10.1b.1: ['3event', 219, 2]
+>11
+ZK354.9.1: ['exon skipping', 0, 0]
+F25B3.4.1: ['exon skipping', 0, 0]
+C23G10.1a.1: ['5event', 170, 0]
+C23G10.1b.1: ['5event', 170, 0]
+>12
+ZK354.9.1: ['5event', 56, 0]
+F25B3.4.1: ['5event', 56, 0]
+C23G10.1a.1: ['exon skipping', 0, 0]
+C23G10.1b.1: ['exon skipping', 0, 0]

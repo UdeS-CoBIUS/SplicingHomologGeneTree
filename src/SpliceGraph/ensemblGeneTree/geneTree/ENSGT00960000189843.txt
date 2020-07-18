@@ -1,0 +1,1 @@
+(((ENSCGRG00000003982__Cricetulus_griseus_CriGri_1.0,ENSCGRG00015004802__Cricetulus_griseus_CriGri-PICR),ENSPEMG00000028247__Peromyscus_maniculatus_bairdii),ENSMUGG00000023490__Meriones_unguiculatus);

@@ -1,0 +1,1 @@
+(((ENSFHEG00000005339__Fundulus_heteroclitus,ENSXCOG00000000517__Xiphophorus_couchianus),ENSPMGG00000006333__Periophthalmus_magnuspinnatus),(ENSATEG00000007559__Anabas_testudineus,ENSHCOG00000008421__Hippocampus_comes));

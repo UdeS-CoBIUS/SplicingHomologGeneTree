@@ -1,0 +1,1 @@
+(((ENSANAG00000026427__Aotus_nancymaae,ENSTGEG00000022728__Theropithecus_gelada),ENSCCNG00000018305__Castor_canadensis),((ENSUAMG00000009065__Ursus_americanus,ENSCAFG00020023130__Canis_lupus_dingo),ENSCHIG00000011187__Capra_hircus));

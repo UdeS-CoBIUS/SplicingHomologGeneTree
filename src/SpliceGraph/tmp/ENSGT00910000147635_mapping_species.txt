@@ -1,0 +1,7 @@
+MACACAFASCICULARIS	macaca_fascicularis
+MACACANEMESTRINA	macaca_nemestrina
+MACACAMULATTA	macaca_mulatta
+PAPIOANUBIS	papio_anubis
+CERCOCEBUSATYS	cercocebus_atys
+MANDRILLUSLEUCOPHAEUS	mandrillus_leucophaeus
+NOMASCUSLEUCOGENYS	nomascus_leucogenys

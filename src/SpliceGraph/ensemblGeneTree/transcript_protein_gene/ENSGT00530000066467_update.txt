@@ -1,0 +1,2 @@
+F13B6.2.1	WBGene00017417	Caenorhabditis_elegans_strain_N2	F13B6.2.1
+F13B6.1.1	WBGene00017416	Caenorhabditis_elegans_strain_N2	F13B6.1.1

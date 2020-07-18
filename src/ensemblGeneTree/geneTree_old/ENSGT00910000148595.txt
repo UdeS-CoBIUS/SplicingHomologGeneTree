@@ -1,1 +1,0 @@
-((((ENSUPAG00010002254__Urocitellus_parryii,ENSUPAG00010002245__Urocitellus_parryii),ENSSTOG00000032120__Ictidomys_tridecemlineatus),ENSTSYG00000036173__Carlito_syrichta),(ENSUAMG00000023202__Ursus_americanus,ENSNVIG00000010687__Neovison_vison));

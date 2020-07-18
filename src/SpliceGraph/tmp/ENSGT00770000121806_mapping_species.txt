@@ -1,0 +1,11 @@
+SERIOLADUMERILI	seriola_dumerili
+LATESCALCARIFER	lates_calcarifer
+ASTATOTILAPIACALLIPTERA	astatotilapia_calliptera
+HAPLOCHROMISBURTONI	haplochromis_burtoni
+OREOCHROMISNILOTICUS	oreochromis_niloticus
+POECILIAFORMOSA	poecilia_formosa
+AMPHIPRIONOCELLARIS	amphiprion_ocellaris
+FUNDULUSHETEROCLITUS	fundulus_heteroclitus
+POECILIAFORMOSA	poecilia_formosa
+LATESCALCARIFER	lates_calcarifer
+HIPPOCAMPUSCOMES	hippocampus_comes

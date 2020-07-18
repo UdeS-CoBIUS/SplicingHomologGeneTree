@@ -1,1 +1,0 @@
-((ENSSCAG00000006257__Serinus_canaria,ENSLSDG00000000868__Lonchura_striata_domestica),(ENSCCEG00000005917__Cyanistes_caeruleus,ENSCCEG00000005577__Cyanistes_caeruleus));

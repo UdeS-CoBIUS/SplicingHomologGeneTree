@@ -1,1 +1,0 @@
-(ENSSPAG00000019026__Stegastes_partitus,ENSXCOG00000017288__Xiphophorus_couchianus);

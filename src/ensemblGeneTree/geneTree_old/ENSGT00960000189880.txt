@@ -1,1 +1,0 @@
-(((ENSLCOG00000013149__Lepidothrix_coronata,ENSMVIG00005011241__Manacus_vitellinus),ENSNPEG00000005059__Nothoprocta_perdicaria),ENSOANG00000028264__Ornithorhynchus_anatinus);

@@ -1,0 +1,1 @@
+((ENSLACG00000004442__Latimeria_chalumnae,ENSLACG00000000888__Latimeria_chalumnae),((ENSMMOG00000008070__Mola_mola,ENSSPAG00000003919__Stegastes_partitus),ENSLOCG00000009840__Lepisosteus_oculatus));

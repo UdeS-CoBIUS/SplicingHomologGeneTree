@@ -1,0 +1,1 @@
+((MGP_SPRETEiJ_G0017240__Mus_spretus_strain_SPRET/EiJ,MGP_CAROLIEiJ_G0016398__Mus_caroli_strain_CAROLI_EIJ),MGP_PahariEiJ_G0017533__Mus_pahari_strain_PAHARI_EIJ);

@@ -1,0 +1,1 @@
+(ENSTGEG00000016154__Theropithecus_gelada,ENSPCIG00000020695__Phascolarctos_cinereus);

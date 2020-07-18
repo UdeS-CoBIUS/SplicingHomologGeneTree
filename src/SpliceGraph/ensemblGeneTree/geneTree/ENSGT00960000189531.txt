@@ -1,0 +1,1 @@
+((((ENSNSUG00000014238__Notechis_scutatus,ENSNSUG00000002808__Notechis_scutatus),ENSNSUG00000010493__Notechis_scutatus),ENSNSUG00000002499__Notechis_scutatus),(ENSNSUG00000006818__Notechis_scutatus,ENSNSUG00000009532__Notechis_scutatus));

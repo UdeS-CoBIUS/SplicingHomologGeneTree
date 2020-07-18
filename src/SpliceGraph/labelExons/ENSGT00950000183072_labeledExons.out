@@ -1,0 +1,12 @@
+>0
+ENSACAT00000009752: [['internal gap < 30', 134, 3], 183, 0]
+ENSPVIT00000006010: ['no event', 186, 0]
+>1
+ENSACAT00000009752: ['no event', 259, 1]
+ENSPVIT00000006010: ['no event', 259, 1]
+>2
+ENSACAT00000009752: ['no event', 296, 0]
+ENSPVIT00000006010: ['no event', 296, 0]
+>3
+ENSACAT00000009752: [['internal gap < 30', 693, 21], 1016, 0]
+ENSPVIT00000006010: [['internal gap < 30', 661, 6], 1031, 0]

@@ -1,1 +1,0 @@
-((ENSATEG00000015812__Anabas_testudineus,ENSTRUG00000025294__Takifugu_rubripes),(ENSSMAG00000019597__Scophthalmus_maximus,ENSORLG00000025747__Oryzias_latipes_ASM223467v1));

@@ -1,0 +1,1 @@
+(((ENSARWG00000007067__Apteryx_rowi,ENSDNVG00000003578__Dromaius_novaehollandiae),ENSCPGG00000006478__Calidris_pygmaea),ENSNSUG00000014324__Notechis_scutatus);

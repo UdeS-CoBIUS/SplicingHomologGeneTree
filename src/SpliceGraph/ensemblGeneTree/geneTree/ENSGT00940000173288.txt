@@ -1,0 +1,1 @@
+((ENSGALG00000047120__Gallus_gallus,ENSMODG00000029107__Monodelphis_domestica),ENSIPUG00000005115__Ictalurus_punctatus);

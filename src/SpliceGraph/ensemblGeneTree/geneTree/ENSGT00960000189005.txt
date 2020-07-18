@@ -1,0 +1,1 @@
+((ENSCPGG00000005094__Calidris_pygmaea,ENSLSDG00000001695__Lonchura_striata_domestica),ENSTRUG00000024441__Takifugu_rubripes);

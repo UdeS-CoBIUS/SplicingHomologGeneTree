@@ -1,0 +1,1 @@
+(ENSXETG00000027956__Xenopus_tropicalis,ENSCJPG00005000635__Coturnix_japonica);

@@ -1,1 +1,0 @@
-((ENSPSIG00000001293__Pelodiscus_sinensis,ENSPSIG00000001282__Pelodiscus_sinensis),ENSPSIG00000002071__Pelodiscus_sinensis);

@@ -1,0 +1,1 @@
+((((ENSXMAG00000030092__Xiphophorus_maculatus,ENSPLAG00000020680__Poecilia_latipinna),ENSSLDG00000017512__Seriola_lalandi_dorsalis),ENSPMGG00000022610__Periophthalmus_magnuspinnatus),ENSEBUG00000011708__Eptatretus_burgeri);

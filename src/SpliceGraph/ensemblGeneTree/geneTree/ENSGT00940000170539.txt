@@ -1,0 +1,1 @@
+((((ENSSSCG00000033288__Sus_scrofa,ENSVPAG00000015498__Vicugna_pacos),ENSUAMG00000023702__Ursus_americanus),ENSCLAG00000005933__Chinchilla_lanigera),ENSPCAG00000002548__Procavia_capensis);

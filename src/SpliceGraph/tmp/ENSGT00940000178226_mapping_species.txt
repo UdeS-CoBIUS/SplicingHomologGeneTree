@@ -1,0 +1,6 @@
+MAYLANDIAZEBRA	maylandia_zebra
+HAPLOCHROMISBURTONI	haplochromis_burtoni
+PUNDAMILIANYEREREI	pundamilia_nyererei
+AMPHILOPHUSCITRINELLUS	amphilophus_citrinellus
+KRYPTOLEBIASMARMORATUS	kryptolebias_marmoratus
+LABRUSBERGYLTA	labrus_bergylta

@@ -1,0 +1,1 @@
+((((ENSOANG00000028633__Ornithorhynchus_anatinus,ENSMODG00000028854__Monodelphis_domestica),ENSLOCG00000005224__Lepisosteus_oculatus),ENSEBUG00000015341__Eptatretus_burgeri),(ENSCING00000003610__Ciona_intestinalis,ENSCSAVG00000008465__Ciona_savignyi));

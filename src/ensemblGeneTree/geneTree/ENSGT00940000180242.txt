@@ -1,0 +1,1 @@
+(((ENSLBEG00000008598__Labrus_bergylta,ENSAPOG00000020393__Acanthochromis_polyacanthus),ENSCSEG00000004837__Cynoglossus_semilaevis),(ENSSPUG00000006891__Sphenodon_punctatus,ENSPTEG00000000584__Piliocolobus_tephrosceles));

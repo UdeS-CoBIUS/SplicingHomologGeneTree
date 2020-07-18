@@ -1,0 +1,1 @@
+(((((ENSMNEG00000010740__Macaca_nemestrina,ENSMMUG00000048735__Macaca_mulatta),ENSMFAG00000020846__Macaca_fascicularis),ENSCATG00000015096__Cercocebus_atys),ENSCANG00000017507__Colobus_angolensis_palliatus),ENSCJAG00000044847__Callithrix_jacchus);

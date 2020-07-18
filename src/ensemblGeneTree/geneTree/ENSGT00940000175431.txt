@@ -1,0 +1,1 @@
+(ENSPCOG00000017789__Propithecus_coquereli,ENSCSEG00000006716__Cynoglossus_semilaevis);

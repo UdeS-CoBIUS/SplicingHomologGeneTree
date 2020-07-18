@@ -1,0 +1,5 @@
+PTEROPUSVAMPYRUS	pteropus_vampyrus
+PONGOABELII	pongo_abelii
+CHOLOEPUSHOFFMANNI	choloepus_hoffmanni
+OCHOTONAPRINCEPS	ochotona_princeps
+PROCAVIACAPENSIS	procavia_capensis

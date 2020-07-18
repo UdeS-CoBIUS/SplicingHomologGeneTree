@@ -1,0 +1,1 @@
+((ENSACLG00000002983__Astatotilapia_calliptera,ENSMZEG00005008977__Maylandia_zebra),ENSSMAG00000017770__Scophthalmus_maximus);

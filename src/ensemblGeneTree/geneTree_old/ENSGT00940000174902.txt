@@ -1,1 +1,0 @@
-((ENSLACG00000000156__Latimeria_chalumnae,ENSXETG00000031768__Xenopus_tropicalis),ENSPNAG00000026863__Pygocentrus_nattereri);

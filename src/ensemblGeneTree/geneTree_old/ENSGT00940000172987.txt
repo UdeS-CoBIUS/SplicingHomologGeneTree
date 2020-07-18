@@ -1,1 +1,0 @@
-(ENSRBIG00000015529__Rhinopithecus_bieti,ENSNLEG00000035411__Nomascus_leucogenys);

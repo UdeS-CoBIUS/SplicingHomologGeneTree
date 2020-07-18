@@ -1,0 +1,1 @@
+(((ENSPNAG00000024354__Pygocentrus_nattereri,ENSIPUG00000021589__Ictalurus_punctatus),ENSDARG00000103956__Danio_rerio),ENSPKIG00000005558__Paramormyrops_kingsleyae);

@@ -1,0 +1,24 @@
+>0
+K08H2.4.1: ['exon skipping', 0, 0]
+K08H2.3.1: ['5event', ['internal gap >= 30', 100, 114], 299, 0]
+K08H2.2.1: ['3event', 309, 0]
+>1
+K08H2.4.1: ['5event', 44, 0]
+K08H2.3.1: ['exon skipping', 0, 0]
+K08H2.2.1: ['exon skipping', 0, 0]
+>2
+K08H2.4.1: ['no event', 83, 0]
+K08H2.3.1: ['exon skipping', 0, 0]
+K08H2.2.1: ['exon skipping', 0, 0]
+>3
+K08H2.4.1: ['no event', 89, 0]
+K08H2.3.1: ['exon skipping', 0, 0]
+K08H2.2.1: ['exon skipping', 0, 0]
+>4
+K08H2.4.1: ['exon skipping', 0, 0]
+K08H2.3.1: ['5event', 305, 0]
+K08H2.2.1: ['exon skipping', 0, 0]
+>5
+K08H2.4.1: ['3event', '5event', 210, 0]
+K08H2.3.1: [['internal gap >= 30', 170, 96], 198, 0]
+K08H2.2.1: ['5event', 293, 0]

@@ -1,0 +1,1 @@
+(ENSMFAG00000001690__Macaca_fascicularis,ENSG00000204571__Homo_sapiens);

@@ -1,0 +1,1 @@
+(((ENSCAFG00020000975__Canis_lupus_dingo,ENSCAFG00000042061__Canis_lupus_familiaris),ENSFCAG00000052869__Felis_catus),(ENSCGRG00015027105__Cricetulus_griseus_CriGri-PICR,ENSUPAG00010013639__Urocitellus_parryii));

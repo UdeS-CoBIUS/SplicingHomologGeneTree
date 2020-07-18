@@ -1,0 +1,7 @@
+PANTROGLODYTES	pan_troglodytes
+PANPANISCUS	pan_paniscus
+GORILLAGORILLA	gorilla_gorilla
+NOMASCUSLEUCOGENYS	nomascus_leucogenys
+RHINOPITHECUSBIETI	rhinopithecus_bieti
+RHINOPITHECUSROXELLANA	rhinopithecus_roxellana
+MACACANEMESTRINA	macaca_nemestrina

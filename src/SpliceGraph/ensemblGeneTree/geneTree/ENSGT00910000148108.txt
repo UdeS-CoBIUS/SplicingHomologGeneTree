@@ -1,0 +1,1 @@
+(((ENSRBIG00000034901__Rhinopithecus_bieti,ENSPTEG00000019206__Piliocolobus_tephrosceles),ENSCANG00000035471__Colobus_angolensis_palliatus),ENSANAG00000025874__Aotus_nancymaae);

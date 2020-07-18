@@ -1,0 +1,1 @@
+((((ENSABRG00000009593__Anser_brachyrhynchus,ENSNMEG00000017065__Numida_meleagris),ENSUMAG00000025230__Ursus_maritimus),ENSIPUG00000014507__Ictalurus_punctatus),ENSEBUG00000005828__Eptatretus_burgeri);

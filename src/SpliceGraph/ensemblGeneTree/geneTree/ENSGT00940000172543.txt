@@ -1,0 +1,1 @@
+((((ENSUPAG00010012504__Urocitellus_parryii,ENSNVIG00000018934__Neovison_vison),ENSETEG00000018910__Echinops_telfairi),ENSMODG00000006432__Monodelphis_domestica),ENSSMRG00000014296__Salvator_merianae);

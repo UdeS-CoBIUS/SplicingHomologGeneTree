@@ -1,0 +1,1 @@
+(((((ENSLCOG00000009059__Lepidothrix_coronata,ENSMVIG00005011200__Manacus_vitellinus),ENSCPUG00000004748__Calidris_pugnax),ENSCJPG00005017591__Coturnix_japonica),ENSCPBG00000003998__Chrysemys_picta_bellii),ENSPVIG00000019407__Pogona_vitticeps);

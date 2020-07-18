@@ -1,0 +1,1 @@
+(((ENSGMOG00000005427__Gadus_morhua,ENSSPAG00000014335__Stegastes_partitus),((((ENSABRG00000009217__Anser_brachyrhynchus,ENSAPLG00000018383__Anas_platyrhynchos_platyrhynchos),ENSAOWG00000004082__Apteryx_owenii),ENSNSUG00000001746__Notechis_scutatus),ENSMEUG00000015097__Notamacropus_eugenii)),FBgn0035059__Drosophila_melanogaster);

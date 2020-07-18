@@ -1,1 +1,0 @@
-((ENSUAMG00000028133__Ursus_americanus,ENSSCAG00000008536__Serinus_canaria),(((ENSSLDG00000002645__Seriola_lalandi_dorsalis,ENSNBRG00000022487__Neolamprologus_brichardi),ENSPLAG00000020506__Poecilia_latipinna),ENSPMGG00000023478__Periophthalmus_magnuspinnatus));

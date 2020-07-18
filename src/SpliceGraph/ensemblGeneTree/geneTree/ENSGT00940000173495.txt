@@ -1,0 +1,1 @@
+((ENSCING00000019752__Ciona_intestinalis,ENSCSAVG00000011759__Ciona_savignyi),YPR191W__Saccharomyces_cerevisiae_strain_S288C);

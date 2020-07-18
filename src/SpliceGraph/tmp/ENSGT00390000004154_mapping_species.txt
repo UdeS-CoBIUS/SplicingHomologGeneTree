@@ -1,0 +1,4 @@
+CIONASAVIGNYI	ciona_savignyi
+CIONAINTESTINALIS	ciona_intestinalis
+CIONASAVIGNYI	ciona_savignyi
+CIONAINTESTINALIS	ciona_intestinalis

@@ -1,0 +1,6 @@
+PANTROGLODYTES	pan_troglodytes
+PANPANISCUS	pan_paniscus
+HOMOSAPIENS	homo_sapiens
+GORILLAGORILLA	gorilla_gorilla
+PONGOABELII	pongo_abelii
+AOTUSNANCYMAAE	aotus_nancymaae

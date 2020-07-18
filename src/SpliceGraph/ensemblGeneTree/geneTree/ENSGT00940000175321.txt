@@ -1,0 +1,1 @@
+(((ENSDARG00000043238__Danio_rerio,ENSIPUG00000020047__Ictalurus_punctatus),ENSPNYG00000009854__Pundamilia_nyererei),ENSSPUG00000018923__Sphenodon_punctatus);

@@ -1,0 +1,1 @@
+(ENSMPUG00000002674__Mustela_putorius_furo,ENSMAMG00000001317__Mastacembelus_armatus);

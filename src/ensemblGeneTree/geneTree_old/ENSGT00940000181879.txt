@@ -1,1 +1,0 @@
-(ENSORLG00020003192__Oryzias_latipes_ASM223471v1,ENSCVAG00000008381__Cyprinodon_variegatus);

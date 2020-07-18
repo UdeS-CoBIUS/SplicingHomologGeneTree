@@ -1,1 +1,0 @@
-((((ENSAOCG00000015721__Amphiprion_ocellaris,ENSAPEG00000014203__Amphiprion_percula),ENSACIG00000014048__Amphilophus_citrinellus),(ENSOMEG00000018074__Oryzias_melastigma,ENSCVAG00000010210__Cyprinodon_variegatus)),ENSSLDG00000021771__Seriola_lalandi_dorsalis);

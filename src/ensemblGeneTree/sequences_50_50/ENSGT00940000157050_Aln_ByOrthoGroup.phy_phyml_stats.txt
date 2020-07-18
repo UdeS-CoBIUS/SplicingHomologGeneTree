@@ -21,10 +21,10 @@
   - Gamma shape parameter: 		0.230
 
 . Run ID:				none
-. Random seed:				1580961082
+. Random seed:				1595005290
 . Subtree patterns aliasing:		no
 . Version:				20120412
-. Time used:				0h0m2s (2 seconds)
+. Time used:				0h0m0s (0 seconds)
 
  oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
  Suggested citations:
@@ -44,19 +44,19 @@
 . Initial tree: 			user tree (ensemblGeneTree/trees_50_50/ENSGT00940000157050.nw)
 . Model of amino acids substitution: 	LG
 . Number of taxa: 			9
-. Log-likelihood: 			-3942.19108
+. Log-likelihood: 			-3844.23314
 . Unconstrained likelihood: 		-3035.12773
-. Parsimony: 				335
-. Tree size: 				0.71746
+. Parsimony: 				302
+. Tree size: 				0.55441
 . Discrete gamma model: 		Yes
   - Number of categories: 		4
-  - Gamma shape parameter: 		0.166
+  - Gamma shape parameter: 		0.230
 
 . Run ID:				none
-. Random seed:				1580961082
+. Random seed:				1595005290
 . Subtree patterns aliasing:		no
 . Version:				20120412
-. Time used:				0h0m2s (2 seconds)
+. Time used:				0h0m1s (1 seconds)
 
  oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
  Suggested citations:
@@ -79,16 +79,16 @@
 . Log-likelihood: 			-3844.23314
 . Unconstrained likelihood: 		-3035.12773
 . Parsimony: 				302
-. Tree size: 				0.55441
+. Tree size: 				0.55447
 . Discrete gamma model: 		Yes
   - Number of categories: 		4
   - Gamma shape parameter: 		0.230
 
 . Run ID:				none
-. Random seed:				1580961082
+. Random seed:				1595005290
 . Subtree patterns aliasing:		no
 . Version:				20120412
-. Time used:				0h0m2s (2 seconds)
+. Time used:				0h0m1s (1 seconds)
 
  oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
  Suggested citations:
@@ -117,10 +117,10 @@
   - Gamma shape parameter: 		0.230
 
 . Run ID:				none
-. Random seed:				1580961082
+. Random seed:				1595005290
 . Subtree patterns aliasing:		no
 . Version:				20120412
-. Time used:				0h0m2s (2 seconds)
+. Time used:				0h0m1s (1 seconds)
 
  oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
  Suggested citations:

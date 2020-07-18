@@ -1,0 +1,2 @@
+CYANISTESCAERULEUS	cyanistes_caeruleus
+PARUSMAJOR	parus_major

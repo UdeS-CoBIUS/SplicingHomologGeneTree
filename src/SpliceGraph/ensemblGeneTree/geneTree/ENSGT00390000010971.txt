@@ -1,0 +1,1 @@
+((ENSOANG00000020180__Ornithorhynchus_anatinus,ENSOANG00000020179__Ornithorhynchus_anatinus),(ENSMODG00000014580__Monodelphis_domestica,ENSMODG00000023886__Monodelphis_domestica));

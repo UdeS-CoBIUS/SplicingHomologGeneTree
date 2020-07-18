@@ -1,0 +1,1 @@
+((ENSPMGG00000005056__Periophthalmus_magnuspinnatus,ENSPMGG00000022054__Periophthalmus_magnuspinnatus),ENSLOCG00000008314__Lepisosteus_oculatus);

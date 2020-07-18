@@ -1,0 +1,1 @@
+((((ENSMSIG00000019154__Mus_spicilegus,ENSECAG00000028617__Equus_caballus),ENSCABG00000001271__Chelonoidis_abingdonii),(ENSECRG00000020582__Erpetoichthys_calabaricus,ENSCVAG00000010154__Cyprinodon_variegatus)),ENSEBUG00000006522__Eptatretus_burgeri);

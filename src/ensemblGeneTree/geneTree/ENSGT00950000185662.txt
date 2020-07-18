@@ -1,0 +1,1 @@
+((((((ENSAOWG00000016407__Apteryx_owenii,ENSAHAG00000000471__Apteryx_haastii),ENSARWG00000003915__Apteryx_rowi),ENSNPEG00000005849__Nothoprocta_perdicaria),ENSDNVG00000001676__Dromaius_novaehollandiae),ENSCPUG00000008167__Calidris_pugnax),((ENSGAGG00000010636__Gopherus_agassizii,ENSCABG00000005522__Chelonoidis_abingdonii),ENSCPBG00000010620__Chrysemys_picta_bellii));

@@ -1,0 +1,1 @@
+(ENSOCUG00000029176__Oryctolagus_cuniculus,ENSMPUG00000018433__Mustela_putorius_furo);

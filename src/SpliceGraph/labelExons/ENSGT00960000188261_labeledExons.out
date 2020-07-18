@@ -1,0 +1,9 @@
+>0
+ENSPNAT00000006054: ['no event', 9, 0]
+ENSPNAT00000022289: ['exon skipping', 0, 0]
+>1
+ENSPNAT00000006054: ['exon skipping', 0, 0]
+ENSPNAT00000022289: ['5event', 63, 0]
+>2
+ENSPNAT00000006054: ['5event', 121, 1]
+ENSPNAT00000022289: ['no event', 122, 1]

@@ -1,0 +1,1 @@
+(((ENSFALG00000000546__Ficedula_albicollis,ENSTGUG00000001552__Taeniopygia_guttata),ENSCJPG00005015097__Coturnix_japonica),ENSGAGG00000004251__Gopherus_agassizii);

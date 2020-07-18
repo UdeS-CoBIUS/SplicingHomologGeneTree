@@ -1,1 +1,0 @@
-((ENSAPOG00000005492__Acanthochromis_polyacanthus,ENSAPEG00000000018__Amphiprion_percula),(ENSOMEG00000013330__Oryzias_melastigma,ENSOMEG00000013702__Oryzias_melastigma));

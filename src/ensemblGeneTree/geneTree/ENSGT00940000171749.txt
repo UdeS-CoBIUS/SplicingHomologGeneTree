@@ -1,0 +1,1 @@
+((ENSFHEG00000014547__Fundulus_heteroclitus,ENSELUG00000022780__Esox_lucius),(((((ENSACAG00000029325__Anolis_carolinensis,ENSPVIG00000024421__Pogona_vitticeps),ENSNSUG00000005514__Notechis_scutatus),ENSSMRG00000007857__Salvator_merianae),ENSLACG00000008891__Latimeria_chalumnae),ENSPTEG00000011750__Piliocolobus_tephrosceles));

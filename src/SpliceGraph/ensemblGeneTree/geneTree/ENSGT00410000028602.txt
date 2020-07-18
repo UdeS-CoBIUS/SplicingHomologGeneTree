@@ -1,0 +1,1 @@
+((((ENSTTRG00000001103__Tursiops_truncatus,ENSVPAG00000003393__Vicugna_pacos),ENSEEUG00000006719__Erinaceus_europaeus),ENSPPYG00000016564__Pongo_abelii),ENSETEG00000012207__Echinops_telfairi);

@@ -1,1 +1,0 @@
-((((ENSUAMG00000004252__Ursus_americanus,ENSUAMG00000000170__Ursus_americanus),(ENSBTAG00000053655__Bos_taurus,ENSBMUG00000007525__Bos_mutus)),ENSPSMG00000001241__Prolemur_simus),((ENSAPLG00000017361__Anas_platyrhynchos_platyrhynchos,ENSABRG00000000056__Anser_brachyrhynchus),ENSJHYG00000015247__Junco_hyemalis));

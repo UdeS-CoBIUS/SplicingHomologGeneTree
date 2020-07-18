@@ -1,0 +1,1 @@
+((((ENSCLAG00000012437__Chinchilla_lanigera,ENSODEG00000014431__Octodon_degus),ENSCPOG00000037234__Cavia_porcellus),ENSFDAG00000009423__Fukomys_damarensis),ENSMAUG00000015016__Mesocricetus_auratus);

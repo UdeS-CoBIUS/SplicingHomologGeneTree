@@ -1,0 +1,1 @@
+(((ENSXETG00000007704__Xenopus_tropicalis,ENSXETG00000020284__Xenopus_tropicalis),ENSSCAG00000012688__Serinus_canaria),(FBgn0031854__Drosophila_melanogaster,FBgn0031853__Drosophila_melanogaster));

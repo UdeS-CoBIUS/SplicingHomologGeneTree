@@ -1,0 +1,1 @@
+(ENSSPUG00000014821__Sphenodon_punctatus,ENSTGUG00000013200__Taeniopygia_guttata);

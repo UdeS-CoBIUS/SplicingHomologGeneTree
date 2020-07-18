@@ -1,0 +1,5 @@
+KRYPTOLEBIASMARMORATUS	kryptolebias_marmoratus
+POECILIALATIPINNA	poecilia_latipinna
+PERIOPHTHALMUSMAGNUSPINNATUS	periophthalmus_magnuspinnatus
+ELECTROPHORUSELECTRICUS	electrophorus_electricus
+LEPISOSTEUSOCULATUS	lepisosteus_oculatus

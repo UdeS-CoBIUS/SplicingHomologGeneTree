@@ -1,1 +1,0 @@
-((ENSCJAG00000046188__Callithrix_jacchus,ENSCJAG00000045562__Callithrix_jacchus),ENSNVIG00000012188__Neovison_vison);

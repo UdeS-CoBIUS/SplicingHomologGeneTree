@@ -1,1 +1,0 @@
-((ENSSFOG00015013672__Scleropages_formosus,ENSLBEG00000000221__Labrus_bergylta),ENSAPLG00000028570__Anas_platyrhynchos_platyrhynchos);

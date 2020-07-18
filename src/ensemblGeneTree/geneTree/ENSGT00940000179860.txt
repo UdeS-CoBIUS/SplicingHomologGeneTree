@@ -1,0 +1,1 @@
+(((ENSHCOG00000020587__Hippocampus_comes,ENSMALG00000007122__Monopterus_albus),ENSPNAG00000008603__Pygocentrus_nattereri),ENSUPAG00010018823__Urocitellus_parryii);

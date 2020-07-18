@@ -1,0 +1,1 @@
+((ENSNPEG00000001899__Nothoprocta_perdicaria,ENSDNVG00000001472__Dromaius_novaehollandiae),(ENSFHEG00000018852__Fundulus_heteroclitus,ENSXMAG00000028150__Xiphophorus_maculatus));

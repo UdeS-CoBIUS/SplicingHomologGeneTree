@@ -1,0 +1,1 @@
+(((((ENSCVAG00000005758__Cyprinodon_variegatus,ENSCVAG00000006749__Cyprinodon_variegatus),ENSCVAG00000013857__Cyprinodon_variegatus),ENSCVAG00000019800__Cyprinodon_variegatus),ENSCVAG00000021259__Cyprinodon_variegatus),ENSPMAG00000008088__Petromyzon_marinus);

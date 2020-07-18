@@ -1,0 +1,5 @@
+PANPANISCUS	pan_paniscus
+PANTROGLODYTES	pan_troglodytes
+NOMASCUSLEUCOGENYS	nomascus_leucogenys
+MACACAMULATTA	macaca_mulatta
+MANDRILLUSLEUCOPHAEUS	mandrillus_leucophaeus

@@ -1,0 +1,1 @@
+(((ENSCAPG00000006539__Cavia_aperea,ENSMOCG00000001089__Microtus_ochrogaster),ENSCAFG00020006952__Canis_lupus_dingo),ENSLAFG00000005839__Loxodonta_africana);

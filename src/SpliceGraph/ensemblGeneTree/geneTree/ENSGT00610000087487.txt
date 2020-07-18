@@ -1,0 +1,1 @@
+((((ENSMAMG00000023102__Mastacembelus_armatus,ENSCSEG00000014746__Cynoglossus_semilaevis),(ENSMMOG00000003425__Mola_mola,ENSTNIG00000004025__Tetraodon_nigroviridis)),ENSFHEG00000008947__Fundulus_heteroclitus),ENSSFOG00015014515__Scleropages_formosus);

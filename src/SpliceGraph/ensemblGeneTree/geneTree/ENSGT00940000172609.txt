@@ -1,0 +1,1 @@
+(ENSGMOG00000014894__Gadus_morhua,ENSOPRG00000004229__Ochotona_princeps);

@@ -1,0 +1,4 @@
+URSUSAMERICANUS	ursus_americanus
+URSUSAMERICANUS	ursus_americanus
+CALLITHRIXJACCHUS	callithrix_jacchus
+CALLITHRIXJACCHUS	callithrix_jacchus

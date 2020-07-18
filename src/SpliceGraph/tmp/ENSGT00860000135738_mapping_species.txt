@@ -1,0 +1,9 @@
+GORILLAGORILLA	gorilla_gorilla
+PANTROGLODYTES	pan_troglodytes
+CERCOCEBUSATYS	cercocebus_atys
+CERCOCEBUSATYS	cercocebus_atys
+MACACAFASCICULARIS	macaca_fascicularis
+MACACAMULATTA	macaca_mulatta
+PANPANISCUS	pan_paniscus
+SAIMIRIBOLIVIENSISBOLIVIENSIS	saimiri_boliviensis_boliviensis
+CARLITOSYRICHTA	carlito_syrichta

@@ -1,0 +1,1 @@
+(((((ENSCATG00000043339__Cercocebus_atys,ENSMFAG00000040246__Macaca_fascicularis),ENSPANG00000032377__Papio_anubis),ENSTGEG00000002348__Theropithecus_gelada),(ENSTGEG00000004864__Theropithecus_gelada,ENSMFAG00000030497__Macaca_fascicularis)),(ENSRBIG00000033873__Rhinopithecus_bieti,ENSCANG00000040103__Colobus_angolensis_palliatus));

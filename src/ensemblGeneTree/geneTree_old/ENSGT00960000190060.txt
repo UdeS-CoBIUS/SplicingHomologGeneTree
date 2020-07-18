@@ -1,1 +1,0 @@
-(((ENSPMJG00000006508__Parus_major,ENSLSDG00000012814__Lonchura_striata_domestica),ENSLCOG00000013009__Lepidothrix_coronata),ENSNMEG00000015124__Numida_meleagris);

@@ -1,1 +1,0 @@
-((ENSCABG00000003390__Chelonoidis_abingdonii,ENSCPBG00000024678__Chrysemys_picta_bellii),ENSLOCG00000008638__Lepisosteus_oculatus);

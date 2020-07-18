@@ -1,1 +1,0 @@
-(((ENSSDUG00000018711__Seriola_dumerili,ENSSMAG00000002918__Scophthalmus_maximus),((ENSAOCG00000008292__Amphiprion_ocellaris,ENSAPEG00000007740__Amphiprion_percula),ENSAPOG00000022392__Acanthochromis_polyacanthus)),ENSMMOG00000002103__Mola_mola);

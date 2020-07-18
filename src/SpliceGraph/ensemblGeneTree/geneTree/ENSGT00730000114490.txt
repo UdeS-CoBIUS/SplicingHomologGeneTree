@@ -1,0 +1,1 @@
+(((ENSNMEG00000012280__Numida_meleagris,ENSGALG00000052833__Gallus_gallus),ENSAPLG00000025126__Anas_platyrhynchos_platyrhynchos),(ENSFALG00000015096__Ficedula_albicollis,ENSTGUG00000000371__Taeniopygia_guttata));

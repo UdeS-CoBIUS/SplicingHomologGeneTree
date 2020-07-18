@@ -1,1 +1,0 @@
-((ENSMMUG00000046190__Macaca_mulatta,ENSCATG00000033105__Cercocebus_atys),ENSGGOG00000042871__Gorilla_gorilla);

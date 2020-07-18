@@ -1,0 +1,7 @@
+MACACAFASCICULARIS	macaca_fascicularis
+MACACANEMESTRINA	macaca_nemestrina
+MACACAMULATTA	macaca_mulatta
+MANDRILLUSLEUCOPHAEUS	mandrillus_leucophaeus
+RHINOPITHECUSBIETI	rhinopithecus_bieti
+RHINOPITHECUSROXELLANA	rhinopithecus_roxellana
+COLOBUSANGOLENSISPALLIATUS	colobus_angolensis_palliatus

@@ -1,1 +1,0 @@
-((ENSZALG00000003120__Zonotrichia_albicollis,ENSFALG00000014493__Ficedula_albicollis),ENSAHAG00000001654__Apteryx_haastii);

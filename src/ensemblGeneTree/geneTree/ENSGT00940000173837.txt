@@ -1,0 +1,1 @@
+(((((ENSVPAG00000000299__Vicugna_pacos,ENSOARG00000006502__Ovis_aries),(ENSEASG00005005155__Equus_asinus_asinus,ENSECAG00000034599__Equus_caballus)),(ENSCAFG00020009395__Canis_lupus_dingo,ENSCAFG00000023750__Canis_lupus_familiaris)),ENSPVAG00000003908__Pteropus_vampyrus),ENSCCNG00000009293__Castor_canadensis);

@@ -1,0 +1,2 @@
+YPR169W-A_mRNA	YPR169W-A	Saccharomyces_cerevisiae_strain_S288C
+YPR170W-B_mRNA	YPR170W-B	Saccharomyces_cerevisiae_strain_S288C

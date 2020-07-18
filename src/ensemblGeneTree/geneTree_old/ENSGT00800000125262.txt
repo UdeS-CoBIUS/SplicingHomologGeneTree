@@ -1,1 +1,0 @@
-(((ENSDARG00000104350__Danio_rerio,ENSDARG00000099247__Danio_rerio),ENSDARG00000078206__Danio_rerio),(((ENSATEG00000005835__Anabas_testudineus,ENSMALG00000017298__Monopterus_albus),(ENSSDUG00000002062__Seriola_dumerili,ENSSLDG00000020678__Seriola_lalandi_dorsalis)),ENSAPEG00000000750__Amphiprion_percula));

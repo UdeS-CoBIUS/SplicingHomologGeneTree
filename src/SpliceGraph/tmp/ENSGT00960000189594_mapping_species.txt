@@ -1,0 +1,6 @@
+PARUSMAJOR	parus_major
+CYANISTESCAERULEUS	cyanistes_caeruleus
+LEPIDOTHRIXCORONATA	lepidothrix_coronata
+MANACUSVITELLINUS	manacus_vitellinus
+LONCHURASTRIATADOMESTICA	lonchura_striata_domestica
+APTERYXOWENII	apteryx_owenii

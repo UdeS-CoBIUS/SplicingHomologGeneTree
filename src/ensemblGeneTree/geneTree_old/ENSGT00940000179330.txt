@@ -1,1 +1,0 @@
-((ENSAMXG00000043287__Astyanax_mexicanus,ENSSMAG00000010201__Scophthalmus_maximus),ENSPMAG00000006110__Petromyzon_marinus);

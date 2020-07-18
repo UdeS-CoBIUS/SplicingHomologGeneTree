@@ -1,0 +1,30 @@
+>0
+ENSPCOT00000026346: ['3event', 936, 0]
+ENSPSMT00000038427: ['3event', 954, 0]
+ENSOGAT00000027946: ['3event', 931, 0]
+ENSSTOT00000022682: [['internal gap < 30', 932, 11], 946, 0]
+ENSSDAT00000017664: ['3event', 954, 0]
+>1
+ENSPCOT00000026346: ['exon skipping', 0, 0]
+ENSPSMT00000038427: ['exon skipping', 0, 0]
+ENSOGAT00000027946: ['exon skipping', 0, 0]
+ENSSTOT00000022682: ['exon skipping', 0, 0]
+ENSSDAT00000017664: ['5event', 29, 0]
+>2
+ENSPCOT00000026346: ['exon skipping', 0, 0]
+ENSPSMT00000038427: ['exon skipping', 0, 0]
+ENSOGAT00000027946: ['only gap', 0, 1]
+ENSSTOT00000022682: ['exon skipping', 0, 0]
+ENSSDAT00000017664: ['exon skipping', 0, 0]
+>3
+ENSPCOT00000026346: ['5event', 35, 0]
+ENSPSMT00000038427: ['5event', 35, 0]
+ENSOGAT00000027946: ['5event', ['internal gap < 30', 10, 10], 27, 2]
+ENSSTOT00000022682: ['exon skipping', 0, 0]
+ENSSDAT00000017664: ['exon skipping', 0, 0]
+>4
+ENSPCOT00000026346: ['exon skipping', 0, 0]
+ENSPSMT00000038427: ['exon skipping', 0, 0]
+ENSOGAT00000027946: ['exon skipping', 0, 0]
+ENSSTOT00000022682: ['5event', 6, 2]
+ENSSDAT00000017664: ['exon skipping', 0, 0]

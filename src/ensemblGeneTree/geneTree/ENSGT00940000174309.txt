@@ -1,0 +1,1 @@
+((ENSLOCG00000014650__Lepisosteus_oculatus,ENSTGUG00000015258__Taeniopygia_guttata),YIL046W__Saccharomyces_cerevisiae_strain_S288C);

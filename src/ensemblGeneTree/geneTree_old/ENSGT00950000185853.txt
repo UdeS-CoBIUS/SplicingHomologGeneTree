@@ -1,1 +1,0 @@
-((ENSUAMG00000012835__Ursus_americanus,ENSUMAG00000011939__Ursus_maritimus),ENSNVIG00000019319__Neovison_vison);

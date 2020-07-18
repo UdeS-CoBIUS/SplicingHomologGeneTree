@@ -1,0 +1,1 @@
+(((ENSCCNG00000009025__Castor_canadensis,ENSMMMG00000011072__Marmota_marmota_marmota),((ENSCJPG00005006408__Coturnix_japonica,ENSPMJG00000006704__Parus_major),ENSCPBG00000021213__Chrysemys_picta_bellii)),(ENSPKIG00000006734__Paramormyrops_kingsleyae,ENSAPEG00000023256__Amphiprion_percula));

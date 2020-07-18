@@ -1,0 +1,1 @@
+(ENSSDAG00000021474__Spermophilus_dauricus,ENSSLDG00000004760__Seriola_lalandi_dorsalis);

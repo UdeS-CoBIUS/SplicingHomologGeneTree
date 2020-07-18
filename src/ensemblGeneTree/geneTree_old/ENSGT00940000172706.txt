@@ -1,1 +1,0 @@
-(ENSOANG00000030115__Ornithorhynchus_anatinus,ENSMGAG00000012191__Meleagris_gallopavo);

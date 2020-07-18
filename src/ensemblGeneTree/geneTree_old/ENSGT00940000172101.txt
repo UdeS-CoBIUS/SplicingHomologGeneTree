@@ -1,1 +1,0 @@
-(((ENSMUNG00000005553__Melopsittacus_undulatus,ENSGALG00000052560__Gallus_gallus),ENSPMJG00000006782__Parus_major),ENSACAG00000026010__Anolis_carolinensis);

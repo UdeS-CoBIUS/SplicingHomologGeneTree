@@ -1,0 +1,3 @@
+OVISARIES	ovis_aries
+VULPESVULPES	vulpes_vulpes
+MANDRILLUSLEUCOPHAEUS	mandrillus_leucophaeus

@@ -1,0 +1,21 @@
+>0
+ENSNVIT00000023178: ['no event', 74, 0]
+ENSNVIT00000023183: ['no event', 74, 0]
+>1
+ENSNVIT00000023178: ['no event', 42, 0]
+ENSNVIT00000023183: ['no event', 42, 0]
+>2
+ENSNVIT00000023178: ['no event', 196, 1]
+ENSNVIT00000023183: ['no event', 196, 1]
+>3
+ENSNVIT00000023178: ['no event', 76, 0]
+ENSNVIT00000023183: ['no event', 76, 0]
+>4
+ENSNVIT00000023178: ['no event', 29, 2]
+ENSNVIT00000023183: ['no event', 29, 2]
+>5
+ENSNVIT00000023178: ['no event', 62, 2]
+ENSNVIT00000023183: ['exon skipping', 0, 0]
+>6
+ENSNVIT00000023178: ['no event', 33, 2]
+ENSNVIT00000023183: ['5event', 27, 2]

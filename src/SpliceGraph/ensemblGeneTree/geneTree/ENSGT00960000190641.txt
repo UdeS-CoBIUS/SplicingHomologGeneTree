@@ -1,0 +1,1 @@
+((ENSABRG00000012781__Anser_brachyrhynchus,ENSAPLG00000022595__Anas_platyrhynchos_platyrhynchos),ENSLCOG00000002953__Lepidothrix_coronata);

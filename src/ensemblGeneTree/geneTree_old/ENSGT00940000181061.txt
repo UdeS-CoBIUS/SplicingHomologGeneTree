@@ -1,1 +1,0 @@
-(ENSPLAG00000003898__Poecilia_latipinna,ENSPMEG00000017675__Poecilia_mexicana);

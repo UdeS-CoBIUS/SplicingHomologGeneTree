@@ -1,0 +1,16 @@
+>0
+ENSPNAT00000033644: ['no event', 110, 0]
+ENSPNAT00000033601: ['no event', 110, 0]
+ENSLBET00000009470: ['exon skipping', 0, 0]
+>1
+ENSPNAT00000033644: ['exon skipping', 0, 0]
+ENSPNAT00000033601: ['exon skipping', 0, 0]
+ENSLBET00000009470: ['5event', 28, 0]
+>2
+ENSPNAT00000033644: ['5event', 44, 0]
+ENSPNAT00000033601: ['5event', 44, 0]
+ENSLBET00000009470: ['exon skipping', 0, 0]
+>3
+ENSPNAT00000033644: ['exon skipping', 0, 0]
+ENSPNAT00000033601: ['exon skipping', 0, 0]
+ENSLBET00000009470: ['5event', 162, 2]

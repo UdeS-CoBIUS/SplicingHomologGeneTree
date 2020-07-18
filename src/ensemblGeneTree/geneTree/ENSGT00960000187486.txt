@@ -1,0 +1,1 @@
+(((ENSCGOG00000020278__Cottoperca_gobio,ENSCGOG00000020261__Cottoperca_gobio),(((ENSORLG00000028060__Oryzias_latipes_ASM223467v1,ENSOMEG00000018488__Oryzias_melastigma),ENSSFOG00015007419__Scleropages_formosus),ENSBIXG00005005175__Bos_indicus_x_Bos_taurus_UOA_Brahman_1)),ENSCSAVG00000003639__Ciona_savignyi);

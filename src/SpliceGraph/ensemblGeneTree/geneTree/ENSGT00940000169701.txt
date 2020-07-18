@@ -1,0 +1,1 @@
+((ENSLACG00000006016__Latimeria_chalumnae,ENSLOCG00000011293__Lepisosteus_oculatus),ENSPMAG00000007283__Petromyzon_marinus);

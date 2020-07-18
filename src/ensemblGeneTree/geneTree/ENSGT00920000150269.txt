@@ -1,0 +1,1 @@
+((((ENSFALG00000010913__Ficedula_albicollis,ENSFALG00000005739__Ficedula_albicollis),ENSFALG00000014106__Ficedula_albicollis),ENSAPLG00000028107__Anas_platyrhynchos_platyrhynchos),ENSNPEG00000002719__Nothoprocta_perdicaria);

@@ -1,1 +1,0 @@
-((ENSOMEG00000016080__Oryzias_melastigma,ENSMMOG00000013283__Mola_mola),ENSSFOG00015004058__Scleropages_formosus);

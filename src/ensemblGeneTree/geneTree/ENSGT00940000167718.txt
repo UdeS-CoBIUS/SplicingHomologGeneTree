@@ -1,0 +1,1 @@
+(((ENSPSIG00000000395__Pelodiscus_sinensis,ENSLACG00000008841__Latimeria_chalumnae),((ENSMODG00000029260__Monodelphis_domestica,ENSPSIG00000001303__Pelodiscus_sinensis),ENSLACG00000007062__Latimeria_chalumnae)),ENSLOCG00000009398__Lepisosteus_oculatus);

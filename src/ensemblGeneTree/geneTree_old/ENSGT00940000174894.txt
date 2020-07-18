@@ -1,1 +1,0 @@
-(((ENSNBRG00000009187__Neolamprologus_brichardi,ENSPMGG00000015823__Periophthalmus_magnuspinnatus),ENSGAFG00000006624__Gambusia_affinis),(((ENSCPRG00005011327__Crocodylus_porosus,ENSNPEG00000009080__Nothoprocta_perdicaria),ENSCCNG00000000914__Castor_canadensis),ENSLACG00000014755__Latimeria_chalumnae));

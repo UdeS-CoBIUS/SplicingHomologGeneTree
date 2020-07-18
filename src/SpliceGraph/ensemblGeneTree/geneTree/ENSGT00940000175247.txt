@@ -1,0 +1,1 @@
+((((((ENSSPAG00000007402__Stegastes_partitus,ENSAPOG00000024526__Acanthochromis_polyacanthus),(ENSGAFG00000014400__Gambusia_affinis,ENSPLAG00000001917__Poecilia_latipinna)),ENSMALG00000012738__Monopterus_albus),ENSSMAG00000001008__Scophthalmus_maximus),ENSSPUG00000002424__Sphenodon_punctatus),ENSEBUG00000009340__Eptatretus_burgeri);

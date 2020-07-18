@@ -1,0 +1,1 @@
+((((ENSCCEG00000016434__Cyanistes_caeruleus,ENSPMJG00000016104__Parus_major),ENSSCAG00000010997__Serinus_canaria),ENSPVIG00000011534__Pogona_vitticeps),FBgn0029873__Drosophila_melanogaster);

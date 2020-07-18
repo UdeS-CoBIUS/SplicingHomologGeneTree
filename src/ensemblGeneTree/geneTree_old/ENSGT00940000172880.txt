@@ -1,1 +1,0 @@
-(ENSCANG00000031613__Colobus_angolensis_palliatus,ENSMGAG00000007060__Meleagris_gallopavo);

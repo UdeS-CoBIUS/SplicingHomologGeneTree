@@ -1,0 +1,1 @@
+(((((ENSMVIG00005017478__Manacus_vitellinus,ENSLSDG00000007127__Lonchura_striata_domestica),ENSCJPG00005010967__Coturnix_japonica),ENSCPRG00005000766__Crocodylus_porosus),ENSCABG00000008751__Chelonoidis_abingdonii),ENSSMRG00000021430__Salvator_merianae);

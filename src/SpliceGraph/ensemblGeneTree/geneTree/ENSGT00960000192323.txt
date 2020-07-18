@@ -1,0 +1,1 @@
+(ENSMAUG00000017089__Mesocricetus_auratus,ENSNVIG00000018166__Neovison_vison);

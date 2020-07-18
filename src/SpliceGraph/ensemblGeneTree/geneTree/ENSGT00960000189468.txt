@@ -1,0 +1,1 @@
+(((((ENSLCOG00000001171__Lepidothrix_coronata,ENSMUNG00000006579__Melopsittacus_undulatus),ENSNPEG00000004845__Nothoprocta_perdicaria),ENSCPRG00005009991__Crocodylus_porosus),ENSNSUG00000003519__Notechis_scutatus),((ENSCGRG00015006001__Cricetulus_griseus_CriGri-PICR,ENSMUGG00000009411__Meriones_unguiculatus),ENSFCAG00000037876__Felis_catus));

@@ -1,0 +1,1 @@
+(((ENSPMJG00000003843__Parus_major,ENSNSUG00000012983__Notechis_scutatus),(((ENSCGRG00000005740__Cricetulus_griseus_CriGri_1.0,ENSDORG00000025630__Dipodomys_ordii),(ENSOPRG00000002369__Ochotona_princeps,ENSTBEG00000002555__Tupaia_belangeri)),(ENSUAMG00000017188__Ursus_americanus,ENSNVIG00000024270__Neovison_vison))),ENSPMAG00000002260__Petromyzon_marinus);

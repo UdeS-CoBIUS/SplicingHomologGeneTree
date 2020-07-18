@@ -1,0 +1,1 @@
+(ENSCSEG00000007376__Cynoglossus_semilaevis,ENSTNIG00000005181__Tetraodon_nigroviridis);

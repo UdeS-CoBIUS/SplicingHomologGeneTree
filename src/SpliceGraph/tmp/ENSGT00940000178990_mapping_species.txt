@@ -1,0 +1,5 @@
+GAMBUSIAAFFINIS	gambusia_affinis
+PUNDAMILIANYEREREI	pundamilia_nyererei
+CYNOGLOSSUSSEMILAEVIS	cynoglossus_semilaevis
+LABRUSBERGYLTA	labrus_bergylta
+HUCHOHUCHO	hucho_hucho

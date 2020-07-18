@@ -1,1 +1,0 @@
-((ENSGACG00000006825__Gasterosteus_aculeatus,ENSGACG00000009425__Gasterosteus_aculeatus),ENSGACG00000018801__Gasterosteus_aculeatus);

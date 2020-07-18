@@ -1,1 +1,0 @@
-((((ENSGAFG00000020156__Gambusia_affinis,ENSXMAG00000014859__Xiphophorus_maculatus),ENSPLAG00000016290__Poecilia_latipinna),ENSSPAG00000006541__Stegastes_partitus),(ENSTNIG00000001054__Tetraodon_nigroviridis,ENSTRUG00000007508__Takifugu_rubripes));

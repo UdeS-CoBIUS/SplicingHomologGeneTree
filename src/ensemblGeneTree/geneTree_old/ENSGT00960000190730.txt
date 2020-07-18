@@ -1,1 +1,0 @@
-((ENSPTEG00000022224__Piliocolobus_tephrosceles,ENSCANG00000034504__Colobus_angolensis_palliatus),ENSTGEG00000021989__Theropithecus_gelada);

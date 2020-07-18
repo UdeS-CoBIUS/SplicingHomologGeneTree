@@ -1,1 +1,0 @@
-((((ENSEEUG00000004109__Erinaceus_europaeus,ENSEEUG00000005123__Erinaceus_europaeus),ENSEEUG00000001862__Erinaceus_europaeus),ENSSARG00000013251__Sorex_araneus),ENSCCNG00000029050__Castor_canadensis);

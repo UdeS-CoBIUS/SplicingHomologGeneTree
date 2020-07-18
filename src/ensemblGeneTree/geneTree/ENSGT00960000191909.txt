@@ -1,0 +1,1 @@
+(ENSAMEG00000001734__Ailuropoda_melanoleuca,ENSBMUG00000017743__Bos_mutus);

@@ -1,0 +1,1 @@
+(ENSSDAG00000011169__Spermophilus_dauricus,ENSUPAG00010019133__Urocitellus_parryii);

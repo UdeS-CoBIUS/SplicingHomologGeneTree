@@ -1,0 +1,1 @@
+((ENSUPAG00010001345__Urocitellus_parryii,ENSCGRG00015011896__Cricetulus_griseus_CriGri-PICR),(ENSNVIG00000003668__Neovison_vison,ENSMPUG00000002125__Mustela_putorius_furo));

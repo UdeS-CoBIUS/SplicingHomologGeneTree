@@ -1,0 +1,1 @@
+((ENSMPUG00000014528__Mustela_putorius_furo,ENSCAFG00000029325__Canis_lupus_familiaris),ENSAMEG00000000472__Ailuropoda_melanoleuca);

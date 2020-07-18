@@ -1,0 +1,1 @@
+((ENSPREG00000022174__Poecilia_reticulata,ENSORLG00020020727__Oryzias_latipes_ASM223471v1),(ENSACIG00000019486__Amphilophus_citrinellus,ENSPNYG00000020760__Pundamilia_nyererei));

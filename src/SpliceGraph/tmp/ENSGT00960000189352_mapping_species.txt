@@ -1,0 +1,13 @@
+APTERYXHAASTII	apteryx_haastii
+APTERYXOWENII	apteryx_owenii
+APTERYXROWI	apteryx_rowi
+DROMAIUSNOVAEHOLLANDIAE	dromaius_novaehollandiae
+PARUSMAJOR	parus_major
+CYANISTESCAERULEUS	cyanistes_caeruleus
+MANACUSVITELLINUS	manacus_vitellinus
+MELOPSITTACUSUNDULATUS	melopsittacus_undulatus
+CALIDRISPUGNAX	calidris_pugnax
+ANSERBRACHYRHYNCHUS	anser_brachyrhynchus
+COTURNIXJAPONICA	coturnix_japonica
+CROCODYLUSPOROSUS	crocodylus_porosus
+CHRYSEMYSPICTABELLII	chrysemys_picta_bellii

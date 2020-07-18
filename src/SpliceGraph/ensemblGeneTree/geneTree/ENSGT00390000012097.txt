@@ -1,0 +1,1 @@
+(((ENSFCAG00000041280__Felis_catus,ENSCAFG00000030708__Canis_lupus_familiaris),ENSPPYG00000017518__Pongo_abelii),ENSETEG00000005550__Echinops_telfairi);

@@ -1,0 +1,1 @@
+(((((((ENSAPOG00000024389__Acanthochromis_polyacanthus,ENSACLG00000017877__Astatotilapia_calliptera),ENSSMAG00000000898__Scophthalmus_maximus),ENSELUG00000019881__Esox_lucius),ENSPKIG00000021426__Paramormyrops_kingsleyae),ENSLOCG00000002123__Lepisosteus_oculatus),ENSPVIG00000002732__Pogona_vitticeps),FBgn0038385__Drosophila_melanogaster);

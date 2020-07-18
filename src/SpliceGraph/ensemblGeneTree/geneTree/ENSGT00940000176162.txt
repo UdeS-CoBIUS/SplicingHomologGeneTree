@@ -1,0 +1,1 @@
+((ENSAPOG00000012854__Acanthochromis_polyacanthus,ENSPREG00000013662__Poecilia_reticulata),(ENSSMAG00000007274__Scophthalmus_maximus,ENSGACG00000004752__Gasterosteus_aculeatus));

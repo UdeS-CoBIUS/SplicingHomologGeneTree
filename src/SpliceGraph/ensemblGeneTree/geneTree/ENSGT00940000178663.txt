@@ -1,0 +1,1 @@
+((((ENSSLDG00000009666__Seriola_lalandi_dorsalis,ENSSLDG00000010050__Seriola_lalandi_dorsalis),ENSSLDG00000002712__Seriola_lalandi_dorsalis),ENSSLDG00000007018__Seriola_lalandi_dorsalis),ENSAPOG00000016589__Acanthochromis_polyacanthus);

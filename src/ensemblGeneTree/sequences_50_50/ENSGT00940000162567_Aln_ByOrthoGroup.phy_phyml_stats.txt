@@ -21,7 +21,7 @@
   - Gamma shape parameter: 		132.417
 
 . Run ID:				none
-. Random seed:				1580966333
+. Random seed:				1594997960
 . Subtree patterns aliasing:		no
 . Version:				20120412
 . Time used:				0h0m0s (0 seconds)
@@ -53,7 +53,7 @@
   - Gamma shape parameter: 		132.417
 
 . Run ID:				none
-. Random seed:				1580966333
+. Random seed:				1594997960
 . Subtree patterns aliasing:		no
 . Version:				20120412
 . Time used:				0h0m0s (0 seconds)
@@ -85,7 +85,7 @@
   - Gamma shape parameter: 		132.417
 
 . Run ID:				none
-. Random seed:				1580966333
+. Random seed:				1594997960
 . Subtree patterns aliasing:		no
 . Version:				20120412
 . Time used:				0h0m0s (0 seconds)
@@ -117,10 +117,10 @@
   - Gamma shape parameter: 		132.417
 
 . Run ID:				none
-. Random seed:				1580966333
+. Random seed:				1594997960
 . Subtree patterns aliasing:		no
 . Version:				20120412
-. Time used:				0h0m0s (0 seconds)
+. Time used:				0h0m1s (1 seconds)
 
  oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
  Suggested citations:

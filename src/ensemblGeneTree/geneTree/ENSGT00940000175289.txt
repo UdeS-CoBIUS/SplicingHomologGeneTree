@@ -1,0 +1,1 @@
+(((((ENSLBEG00000005956__Labrus_bergylta,ENSLBEG00000005880__Labrus_bergylta),ENSMMOG00000016167__Mola_mola),(ENSACIG00000008921__Amphilophus_citrinellus,ENSNBRG00000000077__Neolamprologus_brichardi)),ENSSDUG00000019057__Seriola_dumerili),ENSSSCG00000036836__Sus_scrofa);

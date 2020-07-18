@@ -1,0 +1,1 @@
+(ENSCING00000021898__Ciona_intestinalis,ENSAPEG00000007511__Amphiprion_percula);

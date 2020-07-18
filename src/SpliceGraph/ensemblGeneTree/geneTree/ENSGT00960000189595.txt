@@ -1,0 +1,1 @@
+(((ENSCPGG00000019326__Calidris_pygmaea,ENSMUNG00000006584__Melopsittacus_undulatus),ENSABRG00000001608__Anser_brachyrhynchus),((ENSAOWG00000008828__Apteryx_owenii,ENSDNVG00000009305__Dromaius_novaehollandiae),ENSNPEG00000004821__Nothoprocta_perdicaria));

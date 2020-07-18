@@ -1,0 +1,1 @@
+((((ENSNGAG00000021273__Nannospalax_galili,ENSDORG00000002286__Dipodomys_ordii),(((ENSAOWG00000004080__Apteryx_owenii,ENSDNVG00000011816__Dromaius_novaehollandiae),ENSCJPG00005011609__Coturnix_japonica),ENSCPRG00005015746__Crocodylus_porosus)),ENSTNIG00000019803__Tetraodon_nigroviridis),(ENSCING00000018814__Ciona_intestinalis,ENSCSAVG00000001165__Ciona_savignyi));

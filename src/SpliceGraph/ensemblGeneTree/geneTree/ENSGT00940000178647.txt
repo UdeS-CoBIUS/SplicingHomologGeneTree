@@ -1,0 +1,1 @@
+(((ENSPMEG00000010199__Poecilia_mexicana,ENSPLAG00000015327__Poecilia_latipinna),ENSACIG00000009830__Amphilophus_citrinellus),(ENSSLDG00000016173__Seriola_lalandi_dorsalis,ENSMAMG00000017549__Mastacembelus_armatus));

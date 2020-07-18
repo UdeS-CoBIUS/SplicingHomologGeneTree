@@ -1,0 +1,4 @@
+PANPANISCUS	pan_paniscus
+PANTROGLODYTES	pan_troglodytes
+GORILLAGORILLA	gorilla_gorilla
+SUSSCROFA	sus_scrofa

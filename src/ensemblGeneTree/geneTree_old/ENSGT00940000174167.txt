@@ -1,1 +1,0 @@
-((ENSPPYG00000017292__Pongo_abelii,ENSDNOG00000034500__Dasypus_novemcinctus),ENSAMXG00000035390__Astyanax_mexicanus);

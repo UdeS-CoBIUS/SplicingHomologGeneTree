@@ -1,0 +1,1 @@
+(((ENSGALG00000051290__Gallus_gallus,ENSLSDG00000007348__Lonchura_striata_domestica),(((ENSAHAG00000017468__Apteryx_haastii,ENSAOWG00000016567__Apteryx_owenii),ENSARWG00000000641__Apteryx_rowi),ENSDNVG00000007525__Dromaius_novaehollandiae)),ENSHCOG00000016217__Hippocampus_comes);

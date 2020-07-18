@@ -1,1 +1,0 @@
-((ENSACAG00000023648__Anolis_carolinensis,ENSACAG00000025720__Anolis_carolinensis),(ENSACAG00000025060__Anolis_carolinensis,ENSACAG00000007858__Anolis_carolinensis));

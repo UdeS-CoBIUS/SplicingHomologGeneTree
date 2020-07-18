@@ -1,0 +1,1 @@
+((ENSSFOG00015021012__Scleropages_formosus,ENSPKIG00000015731__Paramormyrops_kingsleyae),ENSIPUG00000008916__Ictalurus_punctatus);

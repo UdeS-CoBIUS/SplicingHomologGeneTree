@@ -1,0 +1,1 @@
+((ENSMEUG00000008982__Notamacropus_eugenii,ENSPCIG00000001854__Phascolarctos_cinereus),ENSMODG00000025765__Monodelphis_domestica);

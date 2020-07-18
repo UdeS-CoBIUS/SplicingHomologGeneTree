@@ -1,0 +1,1 @@
+((((ENSGACG00000017777__Gasterosteus_aculeatus,ENSPFOG00000002713__Poecilia_formosa),ENSGMOG00000020116__Gadus_morhua),ENSDARG00000105590__Danio_rerio),ENSSFOG00015012174__Scleropages_formosus);

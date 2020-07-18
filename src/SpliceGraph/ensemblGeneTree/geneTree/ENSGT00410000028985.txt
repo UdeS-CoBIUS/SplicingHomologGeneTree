@@ -1,0 +1,1 @@
+((((ENSPFOG00000020386__Poecilia_formosa,ENSPFOG00000020218__Poecilia_formosa),(ENSPFOG00000000728__Poecilia_formosa,ENSPFOG00000023094__Poecilia_formosa)),(((ENSPFOG00000022111__Poecilia_formosa,ENSPFOG00000022950__Poecilia_formosa),ENSPFOG00000000649__Poecilia_formosa),ENSPFOG00000000755__Poecilia_formosa)),ENSPNYG00000019634__Pundamilia_nyererei);

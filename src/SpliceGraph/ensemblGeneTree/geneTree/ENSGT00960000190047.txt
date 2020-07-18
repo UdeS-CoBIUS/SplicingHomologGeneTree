@@ -1,0 +1,1 @@
+(((ENSCCEG00000014568__Cyanistes_caeruleus,ENSCCEG00000001359__Cyanistes_caeruleus),ENSPMJG00000019550__Parus_major),ENSCPUG00000017172__Calidris_pugnax);

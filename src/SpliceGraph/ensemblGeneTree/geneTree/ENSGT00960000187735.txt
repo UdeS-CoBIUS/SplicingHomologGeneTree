@@ -1,0 +1,1 @@
+((ENSATEG00000013878__Anabas_testudineus,ENSMAMG00000016309__Mastacembelus_armatus),ENSSMAG00000011569__Scophthalmus_maximus);

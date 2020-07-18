@@ -1,0 +1,5 @@
+PARUSMAJOR	parus_major
+SERINUSCANARIA	serinus_canaria
+GALLUSGALLUS	gallus_gallus
+PELODISCUSSINENSIS	pelodiscus_sinensis
+XENOPUSTROPICALIS	xenopus_tropicalis

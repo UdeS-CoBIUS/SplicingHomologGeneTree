@@ -1,0 +1,1 @@
+(ENSPVAG00000009801__Pteropus_vampyrus,ENSPVAG00000011433__Pteropus_vampyrus);

@@ -1,1 +1,0 @@
-(ENSXMAG00000022801__Xiphophorus_maculatus,ENSXMAG00000026211__Xiphophorus_maculatus);

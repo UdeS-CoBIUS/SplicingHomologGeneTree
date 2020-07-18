@@ -1,0 +1,1 @@
+(((ENSBBBG00000024817__Bison_bison_bison,ENSBMUG00000026078__Bos_mutus),ENSVPAG00000007051__Vicugna_pacos),ENSCAFG00000030283__Canis_lupus_familiaris);

@@ -1,0 +1,1 @@
+(ENSSDAG00000023979__Spermophilus_dauricus,ENSMPUG00000009621__Mustela_putorius_furo);

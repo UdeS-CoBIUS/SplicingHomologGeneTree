@@ -1,0 +1,1 @@
+(((((ENSMUGG00000025866__Meriones_unguiculatus,ENSPANG00000035392__Papio_anubis),(ENSVVUG00000013863__Vulpes_vulpes,ENSCAFG00020026354__Canis_lupus_dingo)),ENSPCIG00000029274__Phascolarctos_cinereus),ENSPNAG00000000096__Pygocentrus_nattereri),ENSEBUG00000010903__Eptatretus_burgeri);

@@ -1,0 +1,1 @@
+((((ENSFCAG00000033621__Felis_catus,ENSPPRG00000014591__Panthera_pardus),ENSNVIG00000008731__Neovison_vison),(ENSPTEG00000016795__Piliocolobus_tephrosceles,ENSMUGG00000014727__Meriones_unguiculatus)),(ENSAPEG00000001249__Amphiprion_percula,ENSXCOG00000001577__Xiphophorus_couchianus));

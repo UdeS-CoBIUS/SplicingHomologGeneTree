@@ -1,0 +1,1 @@
+(((ENSORLG00000027936__Oryzias_latipes_ASM223467v1,ENSORLG00015008713__Oryzias_latipes_ASM223469v1),ENSHBUG00000021376__Haplochromis_burtoni),ENSLCOG00000003343__Lepidothrix_coronata);

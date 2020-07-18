@@ -1,0 +1,1 @@
+((((ENSMZEG00005010417__Maylandia_zebra,ENSACLG00000004837__Astatotilapia_calliptera),(ENSGACG00000018286__Gasterosteus_aculeatus,ENSKMAG00000019997__Kryptolebias_marmoratus)),ENSACIG00000007604__Amphilophus_citrinellus),ENSMALG00000007731__Monopterus_albus);

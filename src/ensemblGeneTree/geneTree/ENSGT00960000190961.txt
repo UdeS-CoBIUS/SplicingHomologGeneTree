@@ -1,0 +1,1 @@
+((ENSMMMG00000008440__Marmota_marmota_marmota,ENSMMMG00000017136__Marmota_marmota_marmota),ENSMMMG00000023102__Marmota_marmota_marmota);

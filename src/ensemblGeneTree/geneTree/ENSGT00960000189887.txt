@@ -1,0 +1,1 @@
+(((ENSLSDG00000007786__Lonchura_striata_domestica,ENSCPGG00000002433__Calidris_pygmaea),ENSCABG00000022414__Chelonoidis_abingdonii),ENSPVIG00000000981__Pogona_vitticeps);

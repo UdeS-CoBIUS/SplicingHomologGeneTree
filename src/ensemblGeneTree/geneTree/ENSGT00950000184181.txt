@@ -1,0 +1,1 @@
+(((ENSVVUG00000000980__Vulpes_vulpes,ENSCAFG00020004855__Canis_lupus_dingo),(ENSCHIG00000011893__Capra_hircus,ENSOARG00000020168__Ovis_aries)),ENSOPRG00000008123__Ochotona_princeps);

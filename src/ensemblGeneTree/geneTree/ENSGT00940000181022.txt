@@ -1,0 +1,1 @@
+(ENSSMAG00000000678__Scophthalmus_maximus,ENSSLDG00000003199__Seriola_lalandi_dorsalis);

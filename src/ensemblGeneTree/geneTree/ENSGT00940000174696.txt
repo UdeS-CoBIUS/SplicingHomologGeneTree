@@ -1,0 +1,1 @@
+((WBGene00004767__Caenorhabditis_elegans_strain_N2,ENSMZEG00005009598__Maylandia_zebra),(YFL009W__Saccharomyces_cerevisiae_strain_S288C,YER066W__Saccharomyces_cerevisiae_strain_S288C));

@@ -1,0 +1,1 @@
+((ENSLCOG00000013267__Lepidothrix_coronata,ENSJHYG00000008226__Junco_hyemalis),ENSNPEG00000003598__Nothoprocta_perdicaria);

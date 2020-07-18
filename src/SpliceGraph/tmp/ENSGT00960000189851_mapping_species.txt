@@ -1,0 +1,4 @@
+SERINUSCANARIA	serinus_canaria
+CYANISTESCAERULEUS	cyanistes_caeruleus
+POGONAVITTICEPS	pogona_vitticeps
+SARCOPHILUSHARRISII	sarcophilus_harrisii

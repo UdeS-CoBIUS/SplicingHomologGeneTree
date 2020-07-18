@@ -1,1 +1,0 @@
-((ENSPCIG00000001696__Phascolarctos_cinereus,ENSPCIG00000037185__Phascolarctos_cinereus),ENSSHAG00000003301__Sarcophilus_harrisii);

@@ -1,0 +1,1 @@
+((ENSCAFG00000023176__Canis_lupus_familiaris,ENSDNOG00000007932__Dasypus_novemcinctus),(ENSDNOG00000042346__Dasypus_novemcinctus,ENSCSAG00000002788__Chlorocebus_sabaeus));

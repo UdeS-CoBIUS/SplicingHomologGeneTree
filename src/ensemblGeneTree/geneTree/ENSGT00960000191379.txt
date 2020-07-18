@@ -1,0 +1,1 @@
+(ENSARWG00000017049__Apteryx_rowi,ENSAHAG00000010552__Apteryx_haastii);

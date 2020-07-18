@@ -1,0 +1,1 @@
+(((ENSCING00000004166__Ciona_intestinalis,ENSCSAVG00000010987__Ciona_savignyi),FBgn0039261__Drosophila_melanogaster),YDR374C__Saccharomyces_cerevisiae_strain_S288C);

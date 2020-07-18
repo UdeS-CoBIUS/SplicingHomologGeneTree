@@ -1,1 +1,0 @@
-((ENSOMEG00000011878__Oryzias_melastigma,ENSGMOG00000020577__Gadus_morhua),ENSEBUG00000004466__Eptatretus_burgeri);

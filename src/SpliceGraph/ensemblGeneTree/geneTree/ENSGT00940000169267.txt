@@ -1,0 +1,1 @@
+(((ENSMLUG00000025505__Myotis_lucifugus,ENSAMEG00000019490__Ailuropoda_melanoleuca),ENSSHAG00000001154__Sarcophilus_harrisii),ENSLACG00000004837__Latimeria_chalumnae);

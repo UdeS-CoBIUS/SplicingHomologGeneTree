@@ -1,0 +1,1 @@
+((((((ENSORLG00015009373__Oryzias_latipes_ASM223469v1,ENSORLG00000000286__Oryzias_latipes_ASM223467v1),ENSOMEG00000005732__Oryzias_melastigma),ENSCVAG00000018677__Cyprinodon_variegatus),ENSGWIG00000004175__Gouania_willdenowi),ENSHCOG00000000071__Hippocampus_comes),ENSDARG00000078164__Danio_rerio);

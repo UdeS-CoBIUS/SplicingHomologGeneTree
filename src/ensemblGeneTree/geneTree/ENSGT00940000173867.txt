@@ -1,0 +1,1 @@
+(((ENSNGAG00000024323__Nannospalax_galili,ENSMAUG00000008476__Mesocricetus_auratus),ENSJJAG00000016776__Jaculus_jaculus),ENSHGLG00000012049__Heterocephalus_glaber_HetGla_female_1.0);

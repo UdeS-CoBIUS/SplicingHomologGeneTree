@@ -1,0 +1,1 @@
+(((ENSCSAVG00000010660__Ciona_savignyi,ENSCING00000001558__Ciona_intestinalis),ENSPNAG00000024292__Pygocentrus_nattereri),((YJR159W__Saccharomyces_cerevisiae_strain_S288C,YDL246C__Saccharomyces_cerevisiae_strain_S288C),YLR070C__Saccharomyces_cerevisiae_strain_S288C));

@@ -1,0 +1,1 @@
+((ENSBBBG00000023147__Bison_bison_bison,ENSBMUG00000003910__Bos_mutus),ENSPTEG00000007655__Piliocolobus_tephrosceles);

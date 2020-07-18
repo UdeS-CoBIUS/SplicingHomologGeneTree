@@ -1,1 +1,0 @@
-((ENSLSDG00000006033__Lonchura_striata_domestica,ENSSCAG00000002525__Serinus_canaria),ENSMVIG00005002250__Manacus_vitellinus);

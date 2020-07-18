@@ -1,0 +1,1 @@
+((((ENSPPAG00000042983__Pan_paniscus,ENSNLEG00000029654__Nomascus_leucogenys),ENSCCAG00000035476__Cebus_capucinus_imitator),ENSOARG00000007886__Ovis_aries),ENSSPUG00000003914__Sphenodon_punctatus);

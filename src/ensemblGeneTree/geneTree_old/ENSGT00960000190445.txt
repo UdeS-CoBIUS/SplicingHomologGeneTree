@@ -1,1 +1,0 @@
-((ENSLSDG00000011341__Lonchura_striata_domestica,ENSCPUG00000017289__Calidris_pugnax),ENSCABG00000008833__Chelonoidis_abingdonii);

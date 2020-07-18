@@ -1,0 +1,1 @@
+((((ENSXCOG00000016362__Xiphophorus_couchianus,ENSXMAG00000028487__Xiphophorus_maculatus),ENSGAFG00000002480__Gambusia_affinis),ENSFHEG00000018576__Fundulus_heteroclitus),((ENSCSEG00000013969__Cynoglossus_semilaevis,ENSSLDG00000009046__Seriola_lalandi_dorsalis),ENSMMOG00000009477__Mola_mola));

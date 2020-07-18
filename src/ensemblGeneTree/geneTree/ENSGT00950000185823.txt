@@ -1,0 +1,1 @@
+((((ENSUMAG00000005999__Ursus_maritimus,ENSSDAG00000006720__Spermophilus_dauricus),ENSBBBG00000018815__Bison_bison_bison),ENSLCOG00000001524__Lepidothrix_coronata),ENSPMAG00000008511__Petromyzon_marinus);

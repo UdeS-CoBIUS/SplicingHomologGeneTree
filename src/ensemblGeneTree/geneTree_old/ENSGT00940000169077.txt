@@ -1,1 +1,0 @@
-(((ENSCPRG00005016444__Crocodylus_porosus,ENSGAGG00000022486__Gopherus_agassizii),ENSNSUG00000006705__Notechis_scutatus),(((ENSMLUG00000015256__Myotis_lucifugus,ENSANAG00000022774__Aotus_nancymaae),ENSCHOG00000000433__Choloepus_hoffmanni),ENSMODG00000029047__Monodelphis_domestica));

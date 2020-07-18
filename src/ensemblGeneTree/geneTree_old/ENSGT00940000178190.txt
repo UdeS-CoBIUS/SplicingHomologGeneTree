@@ -1,1 +1,0 @@
-((ENSSFOG00015015339__Scleropages_formosus,ENSSFOG00015010180__Scleropages_formosus),(((ENSMZEG00005022660__Maylandia_zebra,ENSACLG00000013977__Astatotilapia_calliptera),ENSHBUG00000014846__Haplochromis_burtoni),ENSNBRG00000018522__Neolamprologus_brichardi));

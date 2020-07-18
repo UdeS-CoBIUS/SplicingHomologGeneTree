@@ -1,0 +1,1 @@
+((((ENSGACG00000012904__Gasterosteus_aculeatus,ENSTNIG00000019012__Tetraodon_nigroviridis),ENSPFOG00000015651__Poecilia_formosa),(((ENSTNIG00000000719__Tetraodon_nigroviridis,ENSMMOG00000018663__Mola_mola),ENSGACG00000020664__Gasterosteus_aculeatus),ENSPFOG00000019238__Poecilia_formosa)),ENSGMOG00000018476__Gadus_morhua);

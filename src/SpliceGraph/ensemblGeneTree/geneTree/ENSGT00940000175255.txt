@@ -1,0 +1,1 @@
+((ENSPMJG00000001237__Parus_major,ENSLACG00000022346__Latimeria_chalumnae),(((ENSNBRG00000011022__Neolamprologus_brichardi,ENSPMGG00000004937__Periophthalmus_magnuspinnatus),ENSATEG00000000962__Anabas_testudineus),ENSPKIG00000008064__Paramormyrops_kingsleyae));

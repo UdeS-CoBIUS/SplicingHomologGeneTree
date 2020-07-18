@@ -1,0 +1,1 @@
+((((ENSUPAG00010003118__Urocitellus_parryii,ENSCLAG00000006970__Chinchilla_lanigera),(ENSCJPG00005016250__Coturnix_japonica,ENSCJPG00005016248__Coturnix_japonica)),ENSACAG00000022351__Anolis_carolinensis),ENSKMAG00000021629__Kryptolebias_marmoratus);

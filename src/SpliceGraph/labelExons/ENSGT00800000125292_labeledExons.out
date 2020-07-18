@@ -1,0 +1,24 @@
+>0
+MGP_CAROLIEiJ_T0064291: ['no event', 35, 0]
+MGP_PahariEiJ_T0079385: ['no event', 35, 0]
+ENSRNOT00000084182: ['no event', 35, 0]
+>1
+MGP_CAROLIEiJ_T0064291: ['no event', 34, 0]
+MGP_PahariEiJ_T0079385: ['no event', 34, 0]
+ENSRNOT00000084182: [['internal gap < 30', 1, 3], 31, 0]
+>2
+MGP_CAROLIEiJ_T0064291: ['exon skipping', 0, 0]
+MGP_PahariEiJ_T0079385: ['exon skipping', 0, 0]
+ENSRNOT00000084182: ['no event', 9, 2]
+>3
+MGP_CAROLIEiJ_T0064291: ['5event', 348, 2]
+MGP_PahariEiJ_T0079385: ['3event', '5event', 24, 2]
+ENSRNOT00000084182: ['exon skipping', 0, 0]
+>4
+MGP_CAROLIEiJ_T0064291: ['exon skipping', 0, 0]
+MGP_PahariEiJ_T0079385: ['5event', 50, 2]
+ENSRNOT00000084182: ['exon skipping', 0, 0]
+>5
+MGP_CAROLIEiJ_T0064291: ['exon skipping', 0, 0]
+MGP_PahariEiJ_T0079385: [['internal gap >= 30', 1, 62], 276, 2]
+ENSRNOT00000084182: ['5event', ['internal gap < 30', 217, 6], 332, 0]

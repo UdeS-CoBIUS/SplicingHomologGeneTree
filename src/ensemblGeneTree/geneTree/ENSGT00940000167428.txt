@@ -1,0 +1,1 @@
+(((((((ENSTSYG00000031833__Carlito_syrichta,ENSOGAG00000028829__Otolemur_garnettii),ENSMLUG00000008591__Myotis_lucifugus),ENSCGRG00015010740__Cricetulus_griseus_CriGri-PICR),ENSOARG00000007253__Ovis_aries),ENSACAG00000003641__Anolis_carolinensis),(ENSACIG00000008894__Amphilophus_citrinellus,ENSPLAG00000002630__Poecilia_latipinna)),ENSCSAVG00000005548__Ciona_savignyi);

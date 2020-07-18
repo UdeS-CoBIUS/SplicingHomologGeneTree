@@ -1,1 +1,0 @@
-(ENSXCOG00000014492__Xiphophorus_couchianus,ENSPNYG00000010166__Pundamilia_nyererei);

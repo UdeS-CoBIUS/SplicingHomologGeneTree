@@ -1,0 +1,1 @@
+((ENSXCOG00000018809__Xiphophorus_couchianus,ENSPREG00000008578__Poecilia_reticulata),ENSPMGG00000010477__Periophthalmus_magnuspinnatus);

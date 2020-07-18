@@ -1,0 +1,1 @@
+((ENSPSIG00000001209__Pelodiscus_sinensis,ENSPSIG00000000872__Pelodiscus_sinensis),ENSSDAG00000014074__Spermophilus_dauricus);

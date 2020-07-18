@@ -1,0 +1,1 @@
+((ENSTBEG00000000195__Tupaia_belangeri,ENSTBEG00000007947__Tupaia_belangeri),ENSMUGG00000022018__Meriones_unguiculatus);

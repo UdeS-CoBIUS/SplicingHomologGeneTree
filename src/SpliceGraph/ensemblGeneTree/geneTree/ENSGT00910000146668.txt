@@ -1,0 +1,1 @@
+((((ENSPTRG00000052803__Pan_troglodytes,ENSPTRG00000050507__Pan_troglodytes),ENSGGOG00000042235__Gorilla_gorilla),(((ENSPTRG00000039681__Pan_troglodytes,ENSPTRG00000052292__Pan_troglodytes),ENSPTRG00000048509__Pan_troglodytes),ENSGGOG00000036851__Gorilla_gorilla)),(ENSPPYG00000017529__Pongo_abelii,ENSPPYG00000018258__Pongo_abelii));

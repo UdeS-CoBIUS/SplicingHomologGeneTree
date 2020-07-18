@@ -1,0 +1,1 @@
+(((ENSZALG00000008561__Zonotrichia_albicollis,ENSSCAG00000005351__Serinus_canaria),(((ENSANAG00000027272__Aotus_nancymaae,ENSTSYG00000037243__Carlito_syrichta),ENSSDAG00000004537__Spermophilus_dauricus),ENSBBBG00000003903__Bison_bison_bison)),(ENSSPAG00000020282__Stegastes_partitus,ENSAPOG00000018069__Acanthochromis_polyacanthus));

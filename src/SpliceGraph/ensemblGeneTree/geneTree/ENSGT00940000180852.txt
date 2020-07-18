@@ -1,0 +1,1 @@
+((ENSCHAG00000002829__Clupea_harengus,ENSCHAG00000011685__Clupea_harengus),(ENSXCOG00000012237__Xiphophorus_couchianus,ENSXMAG00000025643__Xiphophorus_maculatus));

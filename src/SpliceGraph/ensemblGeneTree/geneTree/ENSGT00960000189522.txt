@@ -1,0 +1,1 @@
+((((((ENSAHAG00000016165__Apteryx_haastii,ENSARWG00000018615__Apteryx_rowi),ENSAOWG00000010738__Apteryx_owenii),ENSDNVG00000019123__Dromaius_novaehollandiae),ENSNPEG00000004305__Nothoprocta_perdicaria),ENSCPGG00000003474__Calidris_pygmaea),ENSCCNG00000001392__Castor_canadensis);

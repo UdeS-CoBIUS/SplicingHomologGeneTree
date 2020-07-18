@@ -1,0 +1,1 @@
+(((((ENSCSEG00000013529__Cynoglossus_semilaevis,ENSSMAG00000014620__Scophthalmus_maximus),(ENSAOCG00000015034__Amphiprion_ocellaris,ENSAPEG00000020601__Amphiprion_percula)),ENSMALG00000016071__Monopterus_albus),(ENSELUG00000001741__Esox_lucius,ENSELUG00000004209__Esox_lucius)),ENSIPUG00000022353__Ictalurus_punctatus);

@@ -1,0 +1,2 @@
+CYPRINODONVARIEGATUS	cyprinodon_variegatus
+POECILIARETICULATA	poecilia_reticulata

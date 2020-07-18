@@ -1,0 +1,1 @@
+((ENSDNOG00000035961__Dasypus_novemcinctus,ENSSHAG00000017106__Sarcophilus_harrisii),((ENSAPLG00000025522__Anas_platyrhynchos_platyrhynchos,ENSAPLG00000029844__Anas_platyrhynchos_platyrhynchos),ENSCCEG00000001526__Cyanistes_caeruleus));

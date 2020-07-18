@@ -1,0 +1,1 @@
+(((ENSPTEG00000018961__Piliocolobus_tephrosceles,ENSTGEG00000004735__Theropithecus_gelada),((ENSPPAG00000031805__Pan_paniscus,ENSPPYG00000000655__Pongo_abelii),ENSMICG00000026470__Microcebus_murinus)),(ENSUMAG00000001588__Ursus_maritimus,ENSEASG00005003280__Equus_asinus_asinus));

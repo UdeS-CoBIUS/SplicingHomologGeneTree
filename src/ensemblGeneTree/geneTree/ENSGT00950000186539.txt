@@ -1,0 +1,1 @@
+(((((ENSG00000184032__Homo_sapiens,ENSPTRG00000013841__Pan_troglodytes),ENSNLEG00000003437__Nomascus_leucogenys),(ENSTGEG00000027639__Theropithecus_gelada,ENSPTEG00000014230__Piliocolobus_tephrosceles)),ENSPSMG00000009950__Prolemur_simus),ENSPCIG00000032079__Phascolarctos_cinereus);

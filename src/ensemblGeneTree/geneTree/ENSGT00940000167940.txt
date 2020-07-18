@@ -1,0 +1,1 @@
+((((ENSOCUG00000011134__Oryctolagus_cuniculus,ENSNGAG00000020813__Nannospalax_galili),ENSLAFG00000000255__Loxodonta_africana),ENSGALG00000005775__Gallus_gallus),(ENSCING00000000307__Ciona_intestinalis,ENSCSAVG00000009313__Ciona_savignyi));

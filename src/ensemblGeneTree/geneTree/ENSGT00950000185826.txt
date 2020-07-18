@@ -1,0 +1,1 @@
+(((ENSFALG00000006108__Ficedula_albicollis,ENSLCOG00000012020__Lepidothrix_coronata),ENSNMEG00000019623__Numida_meleagris),(ENSCABG00000009542__Chelonoidis_abingdonii,ENSCPBG00000013528__Chrysemys_picta_bellii));

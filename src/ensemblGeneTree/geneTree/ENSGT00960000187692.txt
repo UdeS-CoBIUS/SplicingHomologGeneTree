@@ -1,0 +1,1 @@
+((((ENSBMUG00000026663__Bos_mutus,ENSUAMG00000001554__Ursus_americanus),ENSNLEG00000031005__Nomascus_leucogenys),ENSCABG00000004861__Chelonoidis_abingdonii),(ENSORLG00015007308__Oryzias_latipes_ASM223469v1,ENSHBUG00000020830__Haplochromis_burtoni));

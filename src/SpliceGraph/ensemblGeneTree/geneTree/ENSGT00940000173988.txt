@@ -1,0 +1,1 @@
+(ENSOANG00000031864__Ornithorhynchus_anatinus,ENSETEG00000001585__Echinops_telfairi);

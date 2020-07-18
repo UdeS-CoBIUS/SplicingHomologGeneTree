@@ -1,0 +1,1 @@
+(((((ENSPNAG00000022636__Pygocentrus_nattereri,ENSPNAG00000022668__Pygocentrus_nattereri),ENSIPUG00000005529__Ictalurus_punctatus),(ENSMAMG00000004529__Mastacembelus_armatus,ENSXMAG00000020975__Xiphophorus_maculatus)),ENSPSIG00000018216__Pelodiscus_sinensis),ENSEBUG00000014403__Eptatretus_burgeri);

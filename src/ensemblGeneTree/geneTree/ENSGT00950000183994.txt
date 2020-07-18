@@ -1,0 +1,1 @@
+(((ENSPTIG00000006792__Panthera_tigris_altaica,ENSPPRG00000002223__Panthera_pardus),ENSPPRG00000010964__Panthera_pardus),ENSNGAG00000023612__Nannospalax_galili);

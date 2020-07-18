@@ -1,0 +1,1 @@
+((((ENSTGEG00000016983__Theropithecus_gelada,ENSPTEG00000034835__Piliocolobus_tephrosceles),ENSSARG00000006995__Sorex_araneus),ENSPCIG00000010289__Phascolarctos_cinereus),(ENSLCOG00000009450__Lepidothrix_coronata,ENSCPBG00000017718__Chrysemys_picta_bellii));

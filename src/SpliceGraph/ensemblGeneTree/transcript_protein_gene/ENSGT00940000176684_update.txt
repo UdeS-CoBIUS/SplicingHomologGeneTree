@@ -1,0 +1,2 @@
+YDR417C_mRNA	YDR417C	Saccharomyces_cerevisiae_strain_S288C
+YEL053W-A_mRNA	YEL053W-A	Saccharomyces_cerevisiae_strain_S288C

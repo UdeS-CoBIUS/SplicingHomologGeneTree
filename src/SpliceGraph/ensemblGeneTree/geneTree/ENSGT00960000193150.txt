@@ -1,0 +1,1 @@
+(ENSAPLG00000018296__Anas_platyrhynchos_platyrhynchos,ENSAOWG00000007118__Apteryx_owenii);

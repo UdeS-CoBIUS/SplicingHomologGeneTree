@@ -1,1 +1,0 @@
-(ENSMZEG00005005100__Maylandia_zebra,ENSAPEG00000015697__Amphiprion_percula);

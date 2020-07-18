@@ -1,0 +1,1 @@
+(ENSSDAG00000011029__Spermophilus_dauricus,ENSMMMG00000023822__Marmota_marmota_marmota);

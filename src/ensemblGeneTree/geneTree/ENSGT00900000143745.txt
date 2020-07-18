@@ -1,0 +1,1 @@
+((((ENSCJAG00000044060__Callithrix_jacchus,ENSSBOG00000032320__Saimiri_boliviensis_boliviensis),((ENSPPAG00000029523__Pan_paniscus,ENSPTRG00000052538__Pan_troglodytes),(ENSMMUG00000030920__Macaca_mulatta,ENSCATG00000037321__Cercocebus_atys))),ENSTSYG00000028509__Carlito_syrichta),ENSSSCG00000038406__Sus_scrofa);

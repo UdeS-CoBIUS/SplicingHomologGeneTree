@@ -1,1 +1,0 @@
-((((((ENSXMAG00000029584__Xiphophorus_maculatus,ENSXMAG00000026632__Xiphophorus_maculatus),ENSXMAG00000022211__Xiphophorus_maculatus),ENSGAFG00000020975__Gambusia_affinis),ENSPMGG00000015189__Periophthalmus_magnuspinnatus),ENSCPUG00000003831__Calidris_pugnax),ENSEBUG00000011069__Eptatretus_burgeri);

@@ -1,1 +1,0 @@
-(ENSCPGG00000016759__Calidris_pygmaea,ENSPKIG00000007883__Paramormyrops_kingsleyae);

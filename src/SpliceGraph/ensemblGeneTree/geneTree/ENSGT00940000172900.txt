@@ -1,0 +1,1 @@
+(((ENSRBIG00000034152__Rhinopithecus_bieti,ENSRROG00000038619__Rhinopithecus_roxellana),ENSCABG00000001674__Chelonoidis_abingdonii),ENSPRNG00000024620__Parambassis_ranga);

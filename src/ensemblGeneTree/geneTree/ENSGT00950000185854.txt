@@ -1,0 +1,1 @@
+((((ENSPSMG00000002274__Prolemur_simus,ENSSBOG00000036101__Saimiri_boliviensis_boliviensis),ENSPSMG00000003250__Prolemur_simus),(ENSMMMG00000011273__Marmota_marmota_marmota,ENSCGRG00015015978__Cricetulus_griseus_CriGri-PICR)),ENSNVIG00000017324__Neovison_vison);

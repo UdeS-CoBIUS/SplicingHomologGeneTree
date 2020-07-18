@@ -1,0 +1,2 @@
+URSUSAMERICANUS	ursus_americanus
+URSUSMARITIMUS	ursus_maritimus

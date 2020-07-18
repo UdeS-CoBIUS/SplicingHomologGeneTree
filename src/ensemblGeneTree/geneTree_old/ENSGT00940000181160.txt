@@ -1,1 +1,0 @@
-(ENSAMXG00000039665__Astyanax_mexicanus,ENSMZEG00005022155__Maylandia_zebra);

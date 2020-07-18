@@ -1,0 +1,1 @@
+((((ENSTGUG00000014709__Taeniopygia_guttata,ENSTGUG00000007562__Taeniopygia_guttata),ENSCPUG00000001300__Calidris_pugnax),((ENSAOWG00000018389__Apteryx_owenii,ENSARWG00000018060__Apteryx_rowi),ENSAOWG00000018117__Apteryx_owenii)),ENSSMRG00000013670__Salvator_merianae);

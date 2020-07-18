@@ -1,0 +1,4 @@
+FBpp0303146	FBgn0039875	Drosophila_melanogaster	FBtr0330113
+F55A11.3.1	WBGene00004768	Caenorhabditis_elegans_strain_N2	F55A11.3.1
+ENSPTEP00000017149	ENSPTEG00000018693	Piliocolobus_tephrosceles
+YOL013C_mRNA	YOL013C	Saccharomyces_cerevisiae_strain_S288C

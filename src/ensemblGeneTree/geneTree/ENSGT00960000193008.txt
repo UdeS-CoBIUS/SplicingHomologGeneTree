@@ -1,0 +1,1 @@
+(ENSGAGG00000018353__Gopherus_agassizii,ENSAPLG00000026910__Anas_platyrhynchos_platyrhynchos);

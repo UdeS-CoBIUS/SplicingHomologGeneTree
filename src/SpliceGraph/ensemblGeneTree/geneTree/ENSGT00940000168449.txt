@@ -1,0 +1,1 @@
+(((ENSTSYG00000004589__Carlito_syrichta,ENSMMUG00000007474__Macaca_mulatta),(ENSEEUG00000010710__Erinaceus_europaeus,ENSSARG00000010986__Sorex_araneus)),(ENSCHOG00000007062__Choloepus_hoffmanni,ENSPCAG00000003410__Procavia_capensis));

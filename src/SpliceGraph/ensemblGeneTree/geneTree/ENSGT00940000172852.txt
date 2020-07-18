@@ -1,0 +1,1 @@
+(((ENSGACG00000009998__Gasterosteus_aculeatus,ENSSDUG00000013494__Seriola_dumerili),ENSGMOG00000011537__Gadus_morhua),ENSOANG00000030003__Ornithorhynchus_anatinus);

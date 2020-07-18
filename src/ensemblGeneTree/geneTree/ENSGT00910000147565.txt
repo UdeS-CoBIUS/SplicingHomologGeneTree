@@ -1,0 +1,1 @@
+((((ENSPTRG00000043188__Pan_troglodytes,ENSPTRG00000047785__Pan_troglodytes),ENSNLEG00000035637__Nomascus_leucogenys),(((ENSRROG00000033348__Rhinopithecus_roxellana,ENSRBIG00000028915__Rhinopithecus_bieti),ENSRROG00000036007__Rhinopithecus_roxellana),ENSPTEG00000005443__Piliocolobus_tephrosceles)),ENSMSIG00000032217__Mus_spicilegus);

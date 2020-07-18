@@ -1,0 +1,1 @@
+(((((ENSOANG00000031148__Ornithorhynchus_anatinus,ENSOANG00000030522__Ornithorhynchus_anatinus),(ENSSARG00000014226__Sorex_araneus,ENSCSAG00000009690__Chlorocebus_sabaeus)),ENSOANG00000031274__Ornithorhynchus_anatinus),ENSTGUG00000016985__Taeniopygia_guttata),ENSHHUG00000026901__Hucho_hucho);

@@ -1,0 +1,32 @@
+>0
+T22H9.3.1: ['3event', '5event', 118, 0]
+Y49F6A.1.1: [['internal gap >= 30', 45, 66], 129, 0]
+C16C10.3.1: ['3event', 109, 0]
+>1
+T22H9.3.1: ['5event', ['internal gap < 30', 17, 13], 204, 1]
+Y49F6A.1.1: [['internal gap < 30', 170, 3], 214, 1]
+C16C10.3.1: ['5event', ['internal gap < 30', 5, 7], 210, 1]
+>2
+T22H9.3.1: [['internal gap >= 30', 734, 179], 833, 2]
+Y49F6A.1.1: ['3event', 734, 2]
+C16C10.3.1: [['internal gap >= 30', 911, 59], 953, 2]
+>3
+T22H9.3.1: ['exon skipping', 0, 0]
+Y49F6A.1.1: ['5event', 2, 0]
+C16C10.3.1: ['exon skipping', 0, 0]
+>4
+T22H9.3.1: ['5event', ['internal gap >= 30', 490, 64], 518, 2]
+Y49F6A.1.1: ['3event', 522, 0]
+C16C10.3.1: ['5event', ['internal gap >= 30', 496, 58], 524, 2]
+>5
+T22H9.3.1: [['internal gap >= 30', 835, 64], 946, 2]
+Y49F6A.1.1: ['5event', ['internal gap >= 30', 597, 62], 948, 2]
+C16C10.3.1: [['internal gap >= 30', 838, 61], 949, 2]
+>6
+T22H9.3.1: ['3event', 192, 0]
+Y49F6A.1.1: [['internal gap < 30', 182, 3], 190, 0]
+C16C10.3.1: ['3event', 192, 0]
+>7
+T22H9.3.1: ['5event', ['internal gap < 30', 38, 9], 159, 2]
+Y49F6A.1.1: [['internal gap < 30', 2, 7], 161, 2]
+C16C10.3.1: ['5event', ['internal gap < 30', 38, 9], 159, 2]

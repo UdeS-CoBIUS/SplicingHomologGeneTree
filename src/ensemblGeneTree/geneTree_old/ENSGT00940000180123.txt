@@ -1,1 +1,0 @@
-((((ENSPLAG00000012059__Poecilia_latipinna,ENSPREG00000013792__Poecilia_reticulata),ENSPMGG00000008044__Periophthalmus_magnuspinnatus),ENSELUG00000006214__Esox_lucius),(((ENSCABG00000001797__Chelonoidis_abingdonii,ENSGAGG00000015940__Gopherus_agassizii),ENSCPBG00000006756__Chrysemys_picta_bellii),ENSSMRG00000021737__Salvator_merianae));

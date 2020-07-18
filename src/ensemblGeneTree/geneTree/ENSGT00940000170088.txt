@@ -1,0 +1,1 @@
+(((((ENSCGRG00000013637__Cricetulus_griseus_CriGri_1.0,ENSCGRG00001004122__Cricetulus_griseus_CHOK1GS_HDv1),ENSPEMG00000023376__Peromyscus_maniculatus_bairdii),ENSCCNG00000018960__Castor_canadensis),ENSOCUG00000017296__Oryctolagus_cuniculus),ENSECAG00000029873__Equus_caballus);

@@ -1,1 +1,0 @@
-((((ENSXMAG00000024527__Xiphophorus_maculatus,ENSXMAG00000026432__Xiphophorus_maculatus),ENSPREG00000020543__Poecilia_reticulata),ENSSLDG00000020572__Seriola_lalandi_dorsalis),(ENSCPUG00000005186__Calidris_pugnax,ENSCCEG00000024138__Cyanistes_caeruleus));

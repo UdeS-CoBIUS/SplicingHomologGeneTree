@@ -1,0 +1,1 @@
+((ENSUAMG00000003105__Ursus_americanus,ENSMAUG00000018211__Mesocricetus_auratus),(ENSIPUG00000001819__Ictalurus_punctatus,ENSIPUG00000001809__Ictalurus_punctatus));

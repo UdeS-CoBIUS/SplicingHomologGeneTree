@@ -1,0 +1,12 @@
+>0
+ENSTGET00000026193: ['exon skipping', 0, 0]
+ENSTGET00000008325: ['exon skipping', 0, 0]
+ENSTGET00000009014: ['exon skipping', 0, 0]
+ENSTGET00000030394: ['exon skipping', 0, 0]
+ENSECAT00000055249: ['no event', 19, 0]
+>1
+ENSTGET00000026193: ['3event', '5event', 348, 0]
+ENSTGET00000008325: ['3event', '5event', 348, 0]
+ENSTGET00000009014: ['3event', '5event', 348, 0]
+ENSTGET00000030394: ['3event', '5event', 348, 0]
+ENSECAT00000055249: [['internal gap < 30', 1, 17], 342, 2]

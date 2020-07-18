@@ -1,0 +1,1 @@
+(((ENSTBEG00000004924__Tupaia_belangeri,ENSEEUG00000005884__Erinaceus_europaeus),ENSOPRG00000010648__Ochotona_princeps),ENSMEUG00000008380__Notamacropus_eugenii);

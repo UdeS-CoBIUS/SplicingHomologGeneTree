@@ -1,0 +1,1 @@
+((((ENSMSIG00000006500__Mus_spicilegus,ENSMUGG00000008884__Meriones_unguiculatus),(ENSTGEG00000027073__Theropithecus_gelada,ENSPTEG00000021791__Piliocolobus_tephrosceles)),((ENSPPRG00000022893__Panthera_pardus,ENSECAG00000036360__Equus_caballus),ENSCHIG00000010413__Capra_hircus)),ENSIPUG00000008725__Ictalurus_punctatus);

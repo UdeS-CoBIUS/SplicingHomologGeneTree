@@ -1,0 +1,1 @@
+(((ENSECAG00000027923__Equus_caballus,ENSSSCG00000035312__Sus_scrofa),ENSCAFG00020008659__Canis_lupus_dingo),(ENSSDAG00000020690__Spermophilus_dauricus,ENSSDAG00000016035__Spermophilus_dauricus));

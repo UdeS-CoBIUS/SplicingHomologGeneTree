@@ -1,0 +1,1 @@
+((MGP_CAROLIEiJ_G0021691__Mus_caroli_strain_CAROLI_EIJ,MGP_SPRETEiJ_G0022603__Mus_spretus_strain_SPRET/EiJ),ENSMAUG00000014668__Mesocricetus_auratus);

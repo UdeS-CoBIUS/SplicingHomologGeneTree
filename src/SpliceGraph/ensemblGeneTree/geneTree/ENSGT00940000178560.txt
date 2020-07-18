@@ -1,0 +1,1 @@
+(((ENSHBUG00000018328__Haplochromis_burtoni,ENSXCOG00000003634__Xiphophorus_couchianus),(ENSSDUG00000010436__Seriola_dumerili,ENSTNIG00000001237__Tetraodon_nigroviridis)),ENSELUG00000019022__Esox_lucius);

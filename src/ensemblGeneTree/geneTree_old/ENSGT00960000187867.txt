@@ -1,1 +1,0 @@
-((ENSCPOG00000000214__Cavia_porcellus,ENSCLAG00000004994__Chinchilla_lanigera),ENSSTOG00000032240__Ictidomys_tridecemlineatus);

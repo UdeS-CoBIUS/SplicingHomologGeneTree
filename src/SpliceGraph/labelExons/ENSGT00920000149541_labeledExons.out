@@ -1,0 +1,18 @@
+>0
+ENSLACT00000016236: ['no event', 161, 0]
+ENSLACT00000001626: ['exon skipping', 0, 0]
+>1
+ENSLACT00000016236: ['exon skipping', 0, 0]
+ENSLACT00000001626: ['5event', 203, 0]
+>2
+ENSLACT00000016236: ['5event', 201, 0]
+ENSLACT00000001626: ['exon skipping', 0, 0]
+>3
+ENSLACT00000016236: ['3event', 218, 1]
+ENSLACT00000001626: ['5event', ['internal gap < 30', 84, 4], 614, 0]
+>4
+ENSLACT00000016236: ['5event', 162, 2]
+ENSLACT00000001626: ['exon skipping', 0, 0]
+>5
+ENSLACT00000016236: ['no event', 119, 0]
+ENSLACT00000001626: ['exon skipping', 0, 0]

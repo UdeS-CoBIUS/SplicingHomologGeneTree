@@ -1,0 +1,1 @@
+((ENSLOCG00000017809__Lepisosteus_oculatus,ENSPFOG00000024561__Poecilia_formosa),ENSMODG00000027871__Monodelphis_domestica);

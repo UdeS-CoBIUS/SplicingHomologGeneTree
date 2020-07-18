@@ -1,0 +1,1 @@
+(((ENSMNEG00000030984__Macaca_nemestrina,ENSMFAG00000038721__Macaca_fascicularis),(ENSUMAG00000014974__Ursus_maritimus,ENSAMEG00000008546__Ailuropoda_melanoleuca)),ENSSHAG00000001722__Sarcophilus_harrisii);

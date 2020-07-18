@@ -1,0 +1,1 @@
+(((ENSHCOG00000020018__Hippocampus_comes,ENSHCOG00000010013__Hippocampus_comes),ENSCVAG00000008308__Cyprinodon_variegatus),ENSAMXG00005001559__Astyanax_mexicanus_Astyanax_mexicanus-1.0.2);

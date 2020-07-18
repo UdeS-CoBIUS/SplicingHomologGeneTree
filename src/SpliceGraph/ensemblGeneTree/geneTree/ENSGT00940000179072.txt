@@ -1,0 +1,1 @@
+((((ENSXCOG00000002927__Xiphophorus_couchianus,ENSPLAG00000002593__Poecilia_latipinna),ENSCVAG00000020522__Cyprinodon_variegatus),ENSLBEG00000001175__Labrus_bergylta),ENSCAFG00020000730__Canis_lupus_dingo);

@@ -1,0 +1,1 @@
+((((((ENSPTIG00000006655__Panthera_tigris_altaica,ENSPPRG00000006722__Panthera_pardus),ENSCAFG00020002799__Canis_lupus_dingo),ENSEEUG00000014805__Erinaceus_europaeus),(ENSJJAG00000020177__Jaculus_jaculus,ENSCCNG00000000245__Castor_canadensis)),(ENSVURG00010006590__Vombatus_ursinus,ENSPCIG00000012220__Phascolarctos_cinereus)),ENSPRNG00000011683__Parambassis_ranga);

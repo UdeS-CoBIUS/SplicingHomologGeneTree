@@ -1,0 +1,1 @@
+(((ENSPTEG00000011450__Piliocolobus_tephrosceles,ENSPTEG00000011407__Piliocolobus_tephrosceles),ENSPTEG00000007417__Piliocolobus_tephrosceles),ENSTSYG00000035667__Carlito_syrichta);

@@ -1,0 +1,1 @@
+(((((ENSUAMG00000016954__Ursus_americanus,ENSOARG00000002604__Ovis_aries),ENSCCAG00000033695__Cebus_capucinus_imitator),ENSMSIG00000017407__Mus_spicilegus),ENSNSUG00000018383__Notechis_scutatus),(ENSFHEG00000004473__Fundulus_heteroclitus,ENSNBRG00000000178__Neolamprologus_brichardi));

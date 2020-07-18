@@ -1,0 +1,1 @@
+((ENSMPUG00000017231__Mustela_putorius_furo,ENSMPUG00000017230__Mustela_putorius_furo),ENSCPOG00000013549__Cavia_porcellus);

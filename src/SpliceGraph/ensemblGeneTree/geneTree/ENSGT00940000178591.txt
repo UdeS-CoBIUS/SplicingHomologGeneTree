@@ -1,0 +1,1 @@
+((((ENSLBEG00000022107__Labrus_bergylta,ENSLBEG00000015535__Labrus_bergylta),ENSLBEG00000007856__Labrus_bergylta),ENSLBEG00000010352__Labrus_bergylta),ENSPKIG00000014987__Paramormyrops_kingsleyae);

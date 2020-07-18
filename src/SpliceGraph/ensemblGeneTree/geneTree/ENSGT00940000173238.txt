@@ -1,0 +1,1 @@
+(((ENSCCEG00000000569__Cyanistes_caeruleus,ENSMUNG00000001552__Melopsittacus_undulatus),ENSMGAG00000007313__Meleagris_gallopavo),(ENSAOWG00000002521__Apteryx_owenii,ENSAHAG00000012679__Apteryx_haastii));

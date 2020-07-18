@@ -1,0 +1,1 @@
+(((ENSECAG00000035305__Equus_caballus,ENSEASG00005003598__Equus_asinus_asinus),ENSPTIG00000010803__Panthera_tigris_altaica),((((ENSPTRG00000049826__Pan_troglodytes,ENSPPAG00000022234__Pan_paniscus),ENSPPYG00000003065__Pongo_abelii),ENSNLEG00000033509__Nomascus_leucogenys),ENSCJAG00000047435__Callithrix_jacchus));

@@ -1,0 +1,10 @@
+>0
+ENSLOCT00000018341: ['5event', 339, 0]
+ENSDCDT00000011141: ['5event', ['internal gap < 30', 39, 6], 336, 0]
+ENSCHAT00000030937: ['5event', ['internal gap < 30', 39, 6], 336, 0]
+ENSAMXT00000056729: [['internal gap < 30', 42, 3], 339, 0]
+>1
+ENSLOCT00000018341: [['internal gap < 30', 841, 19], 931, 1]
+ENSDCDT00000011141: [['internal gap >= 30', 635, 55], 895, 1]
+ENSCHAT00000030937: [['internal gap >= 30', 638, 52], 898, 1]
+ENSAMXT00000056729: [['internal gap >= 30', 593, 49], 901, 1]

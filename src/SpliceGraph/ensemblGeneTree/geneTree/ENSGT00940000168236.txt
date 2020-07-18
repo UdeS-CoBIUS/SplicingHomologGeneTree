@@ -1,0 +1,1 @@
+((((ENSPFOG00000022770__Poecilia_formosa,ENSPFOG00000023417__Poecilia_formosa),ENSPFOG00000022273__Poecilia_formosa),(ENSPFOG00000022404__Poecilia_formosa,ENSONIG00000020515__Oreochromis_niloticus)),ENSAPEG00000000240__Amphiprion_percula);

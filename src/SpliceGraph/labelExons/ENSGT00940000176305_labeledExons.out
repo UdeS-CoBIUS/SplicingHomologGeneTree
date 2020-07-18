@@ -1,0 +1,18 @@
+>0
+YHL040C_mRNA: ['5event', ['internal gap >= 30', 1865, 69], 1883, 0]
+YHL047C_mRNA: [['internal gap >= 30', 1845, 90], 1862, 0]
+YCL073C_mRNA: ['5event', ['internal gap >= 30', 1826, 114], 1838, 0]
+YKR106W_mRNA: ['5event', ['internal gap >= 30', 1826, 114], 1838, 0]
+YEL065W_mRNA: ['5event', ['internal gap >= 30', 1839, 82], 1870, 0]
+>1
+YHL040C_mRNA: ['exon skipping', 0, 0]
+YHL047C_mRNA: ['exon skipping', 0, 0]
+YCL073C_mRNA: ['exon skipping', 0, 0]
+YKR106W_mRNA: ['exon skipping', 0, 0]
+YEL065W_mRNA: ['no event', 6, 2]
+>2
+YHL040C_mRNA: ['exon skipping', 0, 0]
+YHL047C_mRNA: ['exon skipping', 0, 0]
+YCL073C_mRNA: ['5event', 8, 0]
+YKR106W_mRNA: ['5event', 8, 0]
+YEL065W_mRNA: ['no event', 10, 0]

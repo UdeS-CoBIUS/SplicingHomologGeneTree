@@ -1,0 +1,1 @@
+((ENSPREG00000014991__Poecilia_reticulata,ENSPNAG00000002933__Pygocentrus_nattereri),(ENSMVIG00005016243__Manacus_vitellinus,ENSMPUG00000005046__Mustela_putorius_furo));

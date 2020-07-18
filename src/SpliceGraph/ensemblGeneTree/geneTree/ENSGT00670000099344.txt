@@ -1,0 +1,1 @@
+(((ENSSPAG00000006235__Stegastes_partitus,ENSONIG00000004679__Oreochromis_niloticus),ENSMAMG00000022159__Mastacembelus_armatus),ENSGACG00000010045__Gasterosteus_aculeatus);

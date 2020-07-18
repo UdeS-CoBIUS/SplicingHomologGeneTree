@@ -1,0 +1,1 @@
+(((ENSLCOG00000005158__Lepidothrix_coronata,ENSCPGG00000016526__Calidris_pygmaea),(ENSCPBG00000005603__Chrysemys_picta_bellii,ENSGAGG00000013464__Gopherus_agassizii)),ENSNSUG00000013931__Notechis_scutatus);

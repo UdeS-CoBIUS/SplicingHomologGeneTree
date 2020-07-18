@@ -1,0 +1,68 @@
+>0
+ENSCSAVT00000015959: [['internal gap >= 30', 387, 66], 461, 0]
+ENSCINT00000019381: ['exon skipping', 0, 0]
+ENSCINT00000023985: ['no event', 527, 0]
+>1
+ENSCSAVT00000015959: ['exon skipping', 0, 0]
+ENSCINT00000019381: ['exon skipping', 0, 0]
+ENSCINT00000023985: ['no event', 2, 0]
+>2
+ENSCSAVT00000015959: ['5event', ['internal gap < 30', 3, 8], 81, 0]
+ENSCINT00000019381: ['exon skipping', 0, 0]
+ENSCINT00000023985: [['internal gap < 30', 52, 3], 86, 0]
+>3
+ENSCSAVT00000015959: ['no event', 65, 1]
+ENSCINT00000019381: ['5event', 2, 0]
+ENSCINT00000023985: [['internal gap < 30', 1, 3], 62, 1]
+>4
+ENSCSAVT00000015959: ['no event', 41, 0]
+ENSCINT00000019381: ['no event', 41, 0]
+ENSCINT00000023985: ['no event', 41, 0]
+>5
+ENSCSAVT00000015959: ['no event', 100, 0]
+ENSCINT00000019381: ['no event', 100, 0]
+ENSCINT00000023985: ['no event', 100, 0]
+>6
+ENSCSAVT00000015959: ['no event', 105, 2]
+ENSCINT00000019381: ['no event', 105, 2]
+ENSCINT00000023985: ['no event', 105, 2]
+>7
+ENSCSAVT00000015959: ['no event', 80, 0]
+ENSCINT00000019381: ['no event', 80, 0]
+ENSCINT00000023985: ['no event', 80, 0]
+>8
+ENSCSAVT00000015959: [['internal gap < 30', 19, 3], 132, 0]
+ENSCINT00000019381: ['no event', 135, 0]
+ENSCINT00000023985: ['no event', 135, 0]
+>9
+ENSCSAVT00000015959: ['no event', 11, 1]
+ENSCINT00000019381: ['exon skipping', 0, 0]
+ENSCINT00000023985: ['exon skipping', 0, 0]
+>10
+ENSCSAVT00000015959: [['internal gap < 30', 109, 12], 275, 1]
+ENSCINT00000019381: ['5event', 280, 1]
+ENSCINT00000023985: ['5event', 280, 1]
+>11
+ENSCSAVT00000015959: ['no event', 101, 0]
+ENSCINT00000019381: [['internal gap < 30', 86, 3], 98, 0]
+ENSCINT00000023985: [['internal gap < 30', 86, 3], 98, 0]
+>12
+ENSCSAVT00000015959: ['no event', 2, 0]
+ENSCINT00000019381: ['exon skipping', 0, 0]
+ENSCINT00000023985: ['exon skipping', 0, 0]
+>13
+ENSCSAVT00000015959: [['internal gap < 30', 18, 3], 95, 0]
+ENSCINT00000019381: ['5event', 95, 0]
+ENSCINT00000023985: ['5event', 95, 0]
+>14
+ENSCSAVT00000015959: [['internal gap < 30', 36, 7], 74, 0]
+ENSCINT00000019381: [['internal gap < 30', 1, 10], 71, 0]
+ENSCINT00000023985: [['internal gap < 30', 1, 10], 71, 0]
+>15
+ENSCSAVT00000015959: ['no event', 160, 0]
+ENSCINT00000019381: ['no event', 160, 0]
+ENSCINT00000023985: ['no event', 160, 0]
+>16
+ENSCSAVT00000015959: ['no event', 54, 2]
+ENSCINT00000019381: ['no event', 54, 2]
+ENSCINT00000023985: ['no event', 54, 2]

@@ -1,0 +1,1 @@
+((((ENSCPUG00000014359__Calidris_pugnax,ENSMUNG00000001478__Melopsittacus_undulatus),(((ENSCCEG00000003431__Cyanistes_caeruleus,ENSPMJG00000014716__Parus_major),ENSTGUG00000010954__Taeniopygia_guttata),ENSFALG00000014190__Ficedula_albicollis)),ENSCJPG00005014455__Coturnix_japonica),ENSPSIG00000000920__Pelodiscus_sinensis);

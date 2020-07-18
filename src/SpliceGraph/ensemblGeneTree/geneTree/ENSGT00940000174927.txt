@@ -1,0 +1,1 @@
+((ENSPREG00000005078__Poecilia_reticulata,ENSGACG00000019205__Gasterosteus_aculeatus),ENSPKIG00000013348__Paramormyrops_kingsleyae);

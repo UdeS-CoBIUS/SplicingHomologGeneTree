@@ -1,0 +1,1 @@
+((ENSDNOG00000039553__Dasypus_novemcinctus,ENSOARG00000021080__Ovis_aries),ENSMODG00000018957__Monodelphis_domestica);

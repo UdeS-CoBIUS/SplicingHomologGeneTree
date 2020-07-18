@@ -1,0 +1,1 @@
+(((((ENSGAFG00000010960__Gambusia_affinis,ENSPFOG00000021780__Poecilia_formosa),ENSFHEG00000013430__Fundulus_heteroclitus),ENSSPAG00000014979__Stegastes_partitus),(ENSSLDG00000012673__Seriola_lalandi_dorsalis,ENSLBEG00000003003__Labrus_bergylta)),ENSPMGG00000011324__Periophthalmus_magnuspinnatus);

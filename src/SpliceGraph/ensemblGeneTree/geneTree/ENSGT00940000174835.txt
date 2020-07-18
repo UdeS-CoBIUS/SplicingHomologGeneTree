@@ -1,0 +1,1 @@
+(((ENSLBEG00000025199__Labrus_bergylta,ENSLBEG00000012823__Labrus_bergylta),ENSTRUG00000009051__Takifugu_rubripes),((ENSONIG00000001408__Oreochromis_niloticus,ENSSPAG00000010359__Stegastes_partitus),ENSCSEG00000019367__Cynoglossus_semilaevis));

@@ -1,1 +1,0 @@
-(ENSPSIG00000007087__Pelodiscus_sinensis,ENSSHAG00000016811__Sarcophilus_harrisii);

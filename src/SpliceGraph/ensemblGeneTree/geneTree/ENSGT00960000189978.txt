@@ -1,0 +1,1 @@
+((ENSARWG00000016291__Apteryx_rowi,ENSDNVG00000003405__Dromaius_novaehollandiae),(ENSBBBG00000016655__Bison_bison_bison,ENSCJAG00000042915__Callithrix_jacchus));

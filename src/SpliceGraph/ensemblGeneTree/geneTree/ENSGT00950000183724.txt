@@ -1,0 +1,1 @@
+(((ENSPNYG00000016217__Pundamilia_nyererei,ENSNBRG00000024307__Neolamprologus_brichardi),ENSSMAG00000017453__Scophthalmus_maximus),(ENSPKIG00000007626__Paramormyrops_kingsleyae,ENSPKIG00000007614__Paramormyrops_kingsleyae));

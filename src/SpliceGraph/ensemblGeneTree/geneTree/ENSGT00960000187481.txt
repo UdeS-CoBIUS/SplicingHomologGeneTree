@@ -1,0 +1,1 @@
+(((((ENSTGEG00000010200__Theropithecus_gelada,ENSMMUG00000043416__Macaca_mulatta),ENSPTEG00000018048__Piliocolobus_tephrosceles),(ENSPTRG00000049900__Pan_troglodytes,ENSPPAG00000021694__Pan_paniscus)),ENSHGLG00000010352__Heterocephalus_glaber_HetGla_female_1.0),ENSNVIG00000018581__Neovison_vison);

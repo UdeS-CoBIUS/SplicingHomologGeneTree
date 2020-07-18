@@ -1,0 +1,9 @@
+>0
+ENSORLT00000036094: ['no event', 334, 0]
+ENSORLT00000033779: ['no event', 334, 0]
+>1
+ENSORLT00000036094: [['internal gap < 30', 1, 4], 47, 2]
+ENSORLT00000033779: [['internal gap < 30', 38, 9], 42, 2]
+>2
+ENSORLT00000036094: ['no event', 24, 2]
+ENSORLT00000033779: ['exon skipping', 0, 0]

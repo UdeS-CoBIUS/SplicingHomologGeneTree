@@ -1,0 +1,1 @@
+(ENSAMXG00000043277__Astyanax_mexicanus,ENSDARG00000092421__Danio_rerio);

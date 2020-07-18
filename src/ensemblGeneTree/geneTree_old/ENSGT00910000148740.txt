@@ -1,1 +1,0 @@
-(ENSRROG00000043312__Rhinopithecus_roxellana,ENSMLEG00000028523__Mandrillus_leucophaeus);

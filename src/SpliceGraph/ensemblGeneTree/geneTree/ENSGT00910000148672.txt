@@ -1,0 +1,1 @@
+(((ENSABRG00000021060__Anser_brachyrhynchus,ENSCPUG00000013528__Calidris_pugnax),((ENSAOWG00000005795__Apteryx_owenii,ENSAHAG00000012330__Apteryx_haastii),ENSNPEG00000001050__Nothoprocta_perdicaria)),((ENSGGOG00000041833__Gorilla_gorilla,ENSGGOG00000036394__Gorilla_gorilla),(ENSPPAG00000038076__Pan_paniscus,ENSPTRG00000048981__Pan_troglodytes)));

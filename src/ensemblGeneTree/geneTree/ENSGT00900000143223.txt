@@ -1,0 +1,1 @@
+(((((ENSMAUG00000012726__Mesocricetus_auratus,ENSMAUG00000013692__Mesocricetus_auratus),ENSPEMG00000024707__Peromyscus_maniculatus_bairdii),ENSODEG00000007493__Octodon_degus),ENSSTOG00000032013__Ictidomys_tridecemlineatus),((ENSECAG00000007998__Equus_caballus,ENSEASG00005016908__Equus_asinus_asinus),(ENSBTAG00000054712__Bos_taurus,ENSBMUG00000008072__Bos_mutus)));

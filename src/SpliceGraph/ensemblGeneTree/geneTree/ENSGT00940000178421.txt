@@ -1,0 +1,1 @@
+((((ENSAOCG00000008206__Amphiprion_ocellaris,ENSAPOG00000006692__Acanthochromis_polyacanthus),ENSPNYG00000000548__Pundamilia_nyererei),ENSMMOG00000016781__Mola_mola),ENSSFOG00015011338__Scleropages_formosus);

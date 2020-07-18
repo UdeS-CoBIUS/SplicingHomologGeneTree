@@ -1,0 +1,1 @@
+((ENSPKIG00000005399__Paramormyrops_kingsleyae,ENSPKIG00000011369__Paramormyrops_kingsleyae),ENSCAFG00000030621__Canis_lupus_familiaris);

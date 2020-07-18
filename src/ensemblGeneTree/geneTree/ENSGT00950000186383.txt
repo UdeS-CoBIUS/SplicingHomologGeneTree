@@ -1,0 +1,1 @@
+(((((ENSAHAG00000000967__Apteryx_haastii,ENSAOWG00000015504__Apteryx_owenii),ENSDNVG00000018076__Dromaius_novaehollandiae),ENSSCAG00000017016__Serinus_canaria),ENSUMAG00000012157__Ursus_maritimus),ENSEBUG00000015610__Eptatretus_burgeri);

@@ -1,0 +1,1 @@
+(((ENSNVIG00000016199__Neovison_vison,ENSBBBG00000019990__Bison_bison_bison),((ENSMMUG00000007583__Macaca_mulatta,ENSMLEG00000035557__Mandrillus_leucophaeus),ENSNLEG00000028740__Nomascus_leucogenys)),ENSPCIG00000035684__Phascolarctos_cinereus);

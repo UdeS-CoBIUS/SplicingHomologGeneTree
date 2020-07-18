@@ -1,0 +1,60 @@
+>0
+ENSEEET00000036802: ['no event', 156, 0]
+ENSIPUT00000015164: ['no event', 156, 0]
+ENSIPUT00000015172: ['exon skipping', 0, 0]
+ENSAMXT00000000450: [['internal gap >= 30', 72, 30], 126, 0]
+>1
+ENSEEET00000036802: ['3event', 30, 1]
+ENSIPUT00000015164: [['internal gap < 30', 1, 9], 22, 1]
+ENSIPUT00000015172: ['exon skipping', 0, 0]
+ENSAMXT00000000450: ['exon skipping', 0, 0]
+>2
+ENSEEET00000036802: ['exon skipping', 0, 0]
+ENSIPUT00000015164: ['exon skipping', 0, 0]
+ENSIPUT00000015172: ['5event', 77, 0]
+ENSAMXT00000000450: ['exon skipping', 0, 0]
+>3
+ENSEEET00000036802: ['exon skipping', 0, 0]
+ENSIPUT00000015164: ['exon skipping', 0, 0]
+ENSIPUT00000015172: ['no event', 80, 0]
+ENSAMXT00000000450: ['exon skipping', 0, 0]
+>4
+ENSEEET00000036802: ['5event', 23, 0]
+ENSIPUT00000015164: ['exon skipping', 0, 0]
+ENSIPUT00000015172: ['exon skipping', 0, 0]
+ENSAMXT00000000450: ['exon skipping', 0, 0]
+>5
+ENSEEET00000036802: ['exon skipping', 0, 0]
+ENSIPUT00000015164: ['exon skipping', 0, 0]
+ENSIPUT00000015172: ['exon skipping', 0, 0]
+ENSAMXT00000000450: ['5event', 55, 1]
+>6
+ENSEEET00000036802: ['5event', 162, 0]
+ENSIPUT00000015164: ['5event', 162, 0]
+ENSIPUT00000015172: ['3event', '5event', 150, 0]
+ENSAMXT00000000450: ['no event', 163, 0]
+>7
+ENSEEET00000036802: ['exon skipping', 0, 0]
+ENSIPUT00000015164: ['exon skipping', 0, 0]
+ENSIPUT00000015172: ['exon skipping', 0, 0]
+ENSAMXT00000000450: ['no event', 12, 1]
+>8
+ENSEEET00000036802: ['exon skipping', 0, 0]
+ENSIPUT00000015164: ['exon skipping', 0, 0]
+ENSIPUT00000015172: ['5event', 92, 0]
+ENSAMXT00000000450: ['exon skipping', 0, 0]
+>9
+ENSEEET00000036802: ['5event', 67, 1]
+ENSIPUT00000015164: ['3event', '5event', 29, 1]
+ENSIPUT00000015172: ['exon skipping', 0, 0]
+ENSAMXT00000000450: ['5event', 72, 2]
+>10
+ENSEEET00000036802: ['exon skipping', 0, 0]
+ENSIPUT00000015164: ['5event', 8, 0]
+ENSIPUT00000015172: ['exon skipping', 0, 0]
+ENSAMXT00000000450: ['exon skipping', 0, 0]
+>11
+ENSEEET00000036802: ['5event', 104, 0]
+ENSIPUT00000015164: ['3event', 103, 0]
+ENSIPUT00000015172: ['3event', '5event', 102, 0]
+ENSAMXT00000000450: ['5event', 104, 0]

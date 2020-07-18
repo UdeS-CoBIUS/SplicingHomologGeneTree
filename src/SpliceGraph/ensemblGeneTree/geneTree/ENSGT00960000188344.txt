@@ -1,0 +1,1 @@
+((ENSELUG00000022139__Esox_lucius,ENSPNAG00000000193__Pygocentrus_nattereri),ENSARWG00000006306__Apteryx_rowi);

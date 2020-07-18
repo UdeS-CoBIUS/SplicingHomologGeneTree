@@ -1,0 +1,12 @@
+>0
+YNL331C_mRNA: ['no event', 1124, 0]
+YJR155W_mRNA: ['5event', 860, 0]
+YDL243C_mRNA: ['5event', 986, 0]
+YCR107W_mRNA: ['5event', ['internal gap >= 30', 1058, 33], 1091, 0]
+YOL165C_mRNA: ['5event', ['internal gap >= 30', 398, 693], 431, 0]
+>1
+YNL331C_mRNA: ['no event', 5, 0]
+YJR155W_mRNA: ['no event', 5, 0]
+YDL243C_mRNA: [['internal gap < 30', 1, 3], 2, 0]
+YCR107W_mRNA: ['exon skipping', 0, 0]
+YOL165C_mRNA: ['exon skipping', 0, 0]

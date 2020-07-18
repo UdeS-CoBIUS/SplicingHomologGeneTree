@@ -1,0 +1,1 @@
+(((ENSAMEG00000014565__Ailuropoda_melanoleuca,ENSCAFG00020003200__Canis_lupus_dingo),ENSBBBG00000001928__Bison_bison_bison),ENSCGRG00000006085__Cricetulus_griseus_CriGri_1.0);

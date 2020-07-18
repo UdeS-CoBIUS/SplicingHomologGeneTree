@@ -1,0 +1,9 @@
+>0
+ENSCINT00000007751: ['no event', 141, 0]
+ENSCSAVT00000001535: ['no event', 141, 0]
+>1
+ENSCINT00000007751: [['internal gap < 30', 76, 10], 82, 1]
+ENSCSAVT00000001535: [['internal gap < 30', 39, 3], 89, 1]
+>2
+ENSCINT00000007751: ['exon skipping', 0, 0]
+ENSCSAVT00000001535: ['no event', 4, 1]

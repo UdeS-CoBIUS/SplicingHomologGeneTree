@@ -1,0 +1,1 @@
+(ENSOANG00000020229__Ornithorhynchus_anatinus,ENSOARG00000008378__Ovis_aries);

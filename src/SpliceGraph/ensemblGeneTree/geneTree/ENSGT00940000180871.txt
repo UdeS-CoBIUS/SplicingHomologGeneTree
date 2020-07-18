@@ -1,0 +1,1 @@
+(ENSPREG00000012470__Poecilia_reticulata,ENSPLAG00000012580__Poecilia_latipinna);

@@ -1,0 +1,1 @@
+(((ENSNBRG00000009486__Neolamprologus_brichardi,ENSPNYG00000011898__Pundamilia_nyererei),ENSACIG00000009069__Amphilophus_citrinellus),ENSPMGG00000012275__Periophthalmus_magnuspinnatus);

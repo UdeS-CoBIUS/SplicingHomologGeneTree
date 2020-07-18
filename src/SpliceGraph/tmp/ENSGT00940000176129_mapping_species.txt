@@ -1,0 +1,2 @@
+GADUSMORHUA	gadus_morhua
+PERIOPHTHALMUSMAGNUSPINNATUS	periophthalmus_magnuspinnatus

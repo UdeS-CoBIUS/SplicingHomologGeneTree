@@ -1,0 +1,1 @@
+(((ENSBMUG00000013122__Bos_mutus,ENSBTAG00000054963__Bos_taurus),ENSBBBG00000010699__Bison_bison_bison),(ENSPMJG00000004518__Parus_major,ENSLSDG00000004539__Lonchura_striata_domestica));

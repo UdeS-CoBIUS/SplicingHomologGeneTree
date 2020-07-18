@@ -1,0 +1,1 @@
+((ENSDNVG00000006276__Dromaius_novaehollandiae,ENSNPEG00000011432__Nothoprocta_perdicaria),ENSJHYG00000015557__Junco_hyemalis);

@@ -1,0 +1,1 @@
+(ENSTGUG00000013216__Taeniopygia_guttata,ENSMGAG00000013708__Meleagris_gallopavo);

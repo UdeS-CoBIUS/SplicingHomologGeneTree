@@ -1,0 +1,1 @@
+(((ENSPTRG00000042788__Pan_troglodytes,ENSPPAG00000029020__Pan_paniscus),ENSTGEG00000019421__Theropithecus_gelada),ENSCHIG00000017218__Capra_hircus);

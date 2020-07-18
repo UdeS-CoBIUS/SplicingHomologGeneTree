@@ -1,0 +1,1 @@
+((((ENSCJPG00005006709__Coturnix_japonica,ENSNMEG00000012113__Numida_meleagris),ENSJHYG00000008742__Junco_hyemalis),ENSPSIG00000015386__Pelodiscus_sinensis),ENSRNOG00000024882__Rattus_norvegicus);

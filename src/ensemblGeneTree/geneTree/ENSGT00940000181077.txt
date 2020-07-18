@@ -1,0 +1,1 @@
+(ENSXCOG00000010306__Xiphophorus_couchianus,ENSORLG00020000670__Oryzias_latipes_ASM223471v1);

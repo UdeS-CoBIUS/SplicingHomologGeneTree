@@ -1,0 +1,1 @@
+(((ENSMSIG00000030529__Mus_spicilegus,MGP_PahariEiJ_G0019791__Mus_pahari_strain_PAHARI_EIJ),ENSMOCG00000020615__Microtus_ochrogaster),((ENSHGLG00000006607__Heterocephalus_glaber_HetGla_female_1.0,ENSHGLG00100009107__Heterocephalus_glaber_HetGla_1.0),ENSODEG00000011389__Octodon_degus));

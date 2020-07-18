@@ -1,0 +1,1 @@
+((ENSSCAG00000006845__Serinus_canaria,ENSLSDG00000011295__Lonchura_striata_domestica),ENSMSIG00000004449__Mus_spicilegus);

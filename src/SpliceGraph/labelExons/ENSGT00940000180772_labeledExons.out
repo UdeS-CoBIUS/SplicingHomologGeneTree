@@ -1,0 +1,12 @@
+>0
+ENSPRET00000002887: ['no event', 139, 0]
+ENSNBRT00000021902: ['exon skipping', 0, 0]
+>1
+ENSPRET00000002887: ['exon skipping', 0, 0]
+ENSNBRT00000021902: ['5event', 29, 0]
+>2
+ENSPRET00000002887: ['5event', 3, 2]
+ENSNBRT00000021902: ['exon skipping', 0, 0]
+>3
+ENSPRET00000002887: ['exon skipping', 0, 0]
+ENSNBRT00000021902: ['5event', 131, 0]

@@ -1,0 +1,1 @@
+(((ENSCCEG00000003994__Cyanistes_caeruleus,ENSZALG00000004472__Zonotrichia_albicollis),ENSLCOG00000009930__Lepidothrix_coronata),ENSAOWG00000004001__Apteryx_owenii);

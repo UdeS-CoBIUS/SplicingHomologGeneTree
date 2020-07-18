@@ -1,1 +1,0 @@
-(((ENSTRUG00000002217__Takifugu_rubripes,ENSGMOG00000013893__Gadus_morhua),((ENSSLDG00000015356__Seriola_lalandi_dorsalis,ENSGAFG00000014508__Gambusia_affinis),ENSGMOG00000009065__Gadus_morhua)),((ENSOARG00000025173__Ovis_aries,ENSCAPG00000014018__Cavia_aperea),ENSNSUG00000004643__Notechis_scutatus));

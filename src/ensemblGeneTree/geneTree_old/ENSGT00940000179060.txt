@@ -1,1 +1,0 @@
-(((ENSPVIG00000000687__Pogona_vitticeps,ENSNSUG00000002733__Notechis_scutatus),ENSPSMG00000002462__Prolemur_simus),((ENSXCOG00000016043__Xiphophorus_couchianus,ENSGAFG00000001067__Gambusia_affinis),(ENSMZEG00005022287__Maylandia_zebra,ENSPNYG00000003901__Pundamilia_nyererei)));

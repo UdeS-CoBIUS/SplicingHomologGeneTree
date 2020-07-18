@@ -1,0 +1,1 @@
+((((ENSJHYG00000006841__Junco_hyemalis,ENSZALG00000007112__Zonotrichia_albicollis),ENSSCAG00000014573__Serinus_canaria),ENSLSDG00000010827__Lonchura_striata_domestica),(ENSPMJG00000013044__Parus_major,ENSCCEG00000020914__Cyanistes_caeruleus));

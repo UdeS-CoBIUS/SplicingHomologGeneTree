@@ -1,0 +1,1 @@
+(ENSCPUG00000003563__Calidris_pugnax,ENSTGUG00000016710__Taeniopygia_guttata);

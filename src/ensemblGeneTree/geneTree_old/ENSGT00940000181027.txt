@@ -1,1 +1,0 @@
-(ENSSLDG00000008658__Seriola_lalandi_dorsalis,ENSMMOG00000014115__Mola_mola);

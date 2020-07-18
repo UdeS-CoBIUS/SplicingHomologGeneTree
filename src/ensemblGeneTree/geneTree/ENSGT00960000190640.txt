@@ -1,0 +1,1 @@
+((ENSCCEG00000000670__Cyanistes_caeruleus,ENSCCEG00000004318__Cyanistes_caeruleus),ENSPMJG00000010168__Parus_major);

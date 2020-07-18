@@ -1,0 +1,1 @@
+(((ENSPLAG00000023687__Poecilia_latipinna,ENSGAFG00000012532__Gambusia_affinis),ENSXMAG00000028157__Xiphophorus_maculatus),ENSATEG00000014955__Anabas_testudineus);

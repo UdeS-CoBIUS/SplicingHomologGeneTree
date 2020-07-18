@@ -1,0 +1,1 @@
+((((((ENSGGOG00000043907__Gorilla_gorilla,ENSGGOG00000043710__Gorilla_gorilla),ENSPTRG00000045390__Pan_troglodytes),(ENSMMUG00000047252__Macaca_mulatta,ENSCANG00000025408__Colobus_angolensis_palliatus)),(ENSSBOG00000028260__Saimiri_boliviensis_boliviensis,ENSANAG00000037649__Aotus_nancymaae)),ENSUPAG00010012027__Urocitellus_parryii),ENSCHIG00000012418__Capra_hircus);

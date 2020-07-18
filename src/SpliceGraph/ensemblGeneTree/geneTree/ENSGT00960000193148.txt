@@ -1,0 +1,1 @@
+(ENSTGEG00000023655__Theropithecus_gelada,ENSPCOG00000027736__Propithecus_coquereli);

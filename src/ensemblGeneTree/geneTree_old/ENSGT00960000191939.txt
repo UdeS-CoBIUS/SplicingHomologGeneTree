@@ -1,1 +1,0 @@
-(ENSCCNG00000028571__Castor_canadensis,ENSCCNG00000010578__Castor_canadensis);

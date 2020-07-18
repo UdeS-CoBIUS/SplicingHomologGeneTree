@@ -1,0 +1,1 @@
+(((((ENSMSIG00000000185__Mus_spicilegus,ENSMUSG00000071138__Mus_musculus_strain_reference_(CL57BL6)),ENSMSIG00000009068__Mus_spicilegus),MGP_CAROLIEiJ_G0030949__Mus_caroli_strain_CAROLI_EIJ),ENSRNOG00000038481__Rattus_norvegicus),ENSCGRG00015025553__Cricetulus_griseus_CriGri-PICR);

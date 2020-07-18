@@ -1,1 +1,0 @@
-(((ENSCAFG00000032485__Canis_lupus_familiaris,ENSMPUG00000019986__Mustela_putorius_furo),ENSOARG00000017902__Ovis_aries),ENSDNOG00000036096__Dasypus_novemcinctus);

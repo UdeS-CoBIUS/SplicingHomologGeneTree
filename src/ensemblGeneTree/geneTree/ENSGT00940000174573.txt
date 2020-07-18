@@ -1,0 +1,1 @@
+((((((ENSACLG00000009758__Astatotilapia_calliptera,ENSMZEG00005021188__Maylandia_zebra),ENSMZEG00005027799__Maylandia_zebra),ENSELUG00000003266__Esox_lucius),ENSGAGG00000006238__Gopherus_agassizii),WBGene00010406__Caenorhabditis_elegans_strain_N2),YFR010W__Saccharomyces_cerevisiae_strain_S288C);

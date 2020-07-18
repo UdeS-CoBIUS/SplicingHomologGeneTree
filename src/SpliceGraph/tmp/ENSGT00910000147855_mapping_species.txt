@@ -1,0 +1,4 @@
+MACACAMULATTA	macaca_mulatta
+CERCOCEBUSATYS	cercocebus_atys
+MANDRILLUSLEUCOPHAEUS	mandrillus_leucophaeus
+PAPIOANUBIS	papio_anubis

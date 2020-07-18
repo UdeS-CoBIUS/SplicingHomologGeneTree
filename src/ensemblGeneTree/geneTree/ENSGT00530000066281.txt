@@ -1,0 +1,1 @@
+(((ENSTGUG00000001886__Taeniopygia_guttata,ENSFALG00000002177__Ficedula_albicollis),ENSPSIG00000013453__Pelodiscus_sinensis),ENSLACG00000000570__Latimeria_chalumnae);

@@ -1,0 +1,18 @@
+>0
+MGP_SPRETEiJ_T0094794: ['no event', 21, 0]
+ENSMUST00000050434: ['no event', 21, 0]
+MGP_CAROLIEiJ_T0091047: ['no event', 21, 0]
+MGP_PahariEiJ_T0088690: ['no event', 21, 0]
+ENSRNOT00000013382: ['no event', 21, 0]
+>1
+MGP_SPRETEiJ_T0094794: ['no event', 1405, 1]
+ENSMUST00000050434: ['no event', 1405, 1]
+MGP_CAROLIEiJ_T0091047: ['no event', 1405, 1]
+MGP_PahariEiJ_T0088690: ['no event', 1405, 1]
+ENSRNOT00000013382: ['no event', 1405, 1]
+>2
+MGP_SPRETEiJ_T0094794: ['exon skipping', 0, 0]
+ENSMUST00000050434: ['no event', 2, 0]
+MGP_CAROLIEiJ_T0091047: ['exon skipping', 0, 0]
+MGP_PahariEiJ_T0088690: ['exon skipping', 0, 0]
+ENSRNOT00000013382: ['no event', 2, 0]

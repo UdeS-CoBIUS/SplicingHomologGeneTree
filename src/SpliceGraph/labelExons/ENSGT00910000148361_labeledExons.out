@@ -1,0 +1,8 @@
+>0
+ENSTGET00000035341: ['no event', 254, 0]
+ENSPPAT00000026750: ['no event', 254, 0]
+ENSANAT00000051750: ['3event', 142, 0]
+>1
+ENSTGET00000035341: ['exon skipping', 0, 0]
+ENSPPAT00000026750: ['exon skipping', 0, 0]
+ENSANAT00000051750: ['5event', 64, 1]

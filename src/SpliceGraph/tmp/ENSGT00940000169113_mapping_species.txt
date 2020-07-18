@@ -1,0 +1,4 @@
+SOREXARANEUS	sorex_araneus
+ERINACEUSEUROPAEUS	erinaceus_europaeus
+TUPAIABELANGERI	tupaia_belangeri
+ECHINOPSTELFAIRI	echinops_telfairi

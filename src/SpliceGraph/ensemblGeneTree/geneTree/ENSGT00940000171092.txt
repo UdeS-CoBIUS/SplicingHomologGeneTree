@@ -1,0 +1,1 @@
+((((ENSPTRG00000046837__Pan_troglodytes,ENSMMUG00000041678__Macaca_mulatta),ENSCJAG00000045530__Callithrix_jacchus),ENSCCNG00000024347__Castor_canadensis),(ENSECAG00000036348__Equus_caballus,ENSUMAG00000008144__Ursus_maritimus));

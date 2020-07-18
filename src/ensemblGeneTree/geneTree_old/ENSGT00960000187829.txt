@@ -1,1 +1,0 @@
-((((ENSGALG00000047587__Gallus_gallus,ENSGALG00000054633__Gallus_gallus),ENSGALG00000047581__Gallus_gallus),ENSNMEG00000002683__Numida_meleagris),(ENSCPUG00000014613__Calidris_pugnax,ENSCPUG00000001841__Calidris_pugnax));

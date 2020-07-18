@@ -1,0 +1,1 @@
+((ENSAPLG00000028701__Anas_platyrhynchos_platyrhynchos,ENSCPUG00000004912__Calidris_pugnax),ENSNPEG00000009381__Nothoprocta_perdicaria);

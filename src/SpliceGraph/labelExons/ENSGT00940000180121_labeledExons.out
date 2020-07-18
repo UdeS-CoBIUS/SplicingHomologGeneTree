@@ -1,0 +1,15 @@
+>0
+ENSNBRT00000031027: ['exon skipping', 0, 0]
+ENSOMET00000022891: ['no event', 70, 0]
+>1
+ENSNBRT00000031027: ['exon skipping', 0, 0]
+ENSOMET00000022891: ['no event', 122, 2]
+>2
+ENSNBRT00000031027: ['5event', 39, 0]
+ENSOMET00000022891: [['internal gap < 30', 2, 3], 38, 2]
+>3
+ENSNBRT00000031027: ['no event', 2, 1]
+ENSOMET00000022891: ['exon skipping', 0, 0]
+>4
+ENSNBRT00000031027: ['no event', 196, 1]
+ENSOMET00000022891: ['exon skipping', 0, 0]

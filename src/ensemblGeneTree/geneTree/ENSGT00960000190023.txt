@@ -1,0 +1,1 @@
+(((ENSAPLG00000024341__Anas_platyrhynchos_platyrhynchos,ENSAPLG00000016672__Anas_platyrhynchos_platyrhynchos),ENSJHYG00000015852__Junco_hyemalis),ENSGAGG00000011893__Gopherus_agassizii);

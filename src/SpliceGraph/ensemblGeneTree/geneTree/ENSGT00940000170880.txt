@@ -1,0 +1,1 @@
+((((ENSMPUG00000001774__Mustela_putorius_furo,ENSDNOG00000018400__Dasypus_novemcinctus),(ENSDNVG00000010439__Dromaius_novaehollandiae,ENSPVIG00000006701__Pogona_vitticeps)),ENSLACG00000008458__Latimeria_chalumnae),(ENSCSEG00000013876__Cynoglossus_semilaevis,ENSTRUG00000022897__Takifugu_rubripes));

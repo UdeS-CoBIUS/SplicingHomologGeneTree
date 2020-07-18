@@ -1,1 +1,0 @@
-(ENSMALG00000009304__Monopterus_albus,ENSMALG00000009296__Monopterus_albus);

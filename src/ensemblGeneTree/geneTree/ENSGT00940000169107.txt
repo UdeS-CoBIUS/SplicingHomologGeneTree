@@ -1,0 +1,1 @@
+(((ENSETEG00000016768__Echinops_telfairi,ENSETEG00000014101__Echinops_telfairi),ENSETEG00000015157__Echinops_telfairi),ENSETEG00000007939__Echinops_telfairi);

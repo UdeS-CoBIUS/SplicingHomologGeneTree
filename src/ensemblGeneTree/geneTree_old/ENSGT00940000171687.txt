@@ -1,1 +1,0 @@
-(ENSTNIG00000013220__Tetraodon_nigroviridis,ENSEBUG00000008710__Eptatretus_burgeri);

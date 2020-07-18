@@ -1,0 +1,1 @@
+((ENSSDAG00000019553__Spermophilus_dauricus,ENSSMRG00000006582__Salvator_merianae),((ENSHCOG00000007248__Hippocampus_comes,ENSPREG00000007290__Poecilia_reticulata),ENSELUG00000001717__Esox_lucius));

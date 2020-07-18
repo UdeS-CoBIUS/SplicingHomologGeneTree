@@ -1,0 +1,1 @@
+((ENSBTAG00000039946__Bos_taurus,ENSBMUG00000016332__Bos_mutus),((ENSPTIG00000019315__Panthera_tigris_altaica,ENSPPRG00000003919__Panthera_pardus),ENSNVIG00000013170__Neovison_vison));

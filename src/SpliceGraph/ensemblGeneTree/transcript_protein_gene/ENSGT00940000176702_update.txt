@@ -1,0 +1,2 @@
+YKL161C_mRNA	YKL161C	Saccharomyces_cerevisiae_strain_S288C
+YHR030C_mRNA	YHR030C	Saccharomyces_cerevisiae_strain_S288C

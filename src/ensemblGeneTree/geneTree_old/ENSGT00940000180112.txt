@@ -1,1 +1,0 @@
-((ENSXCOG00000013958__Xiphophorus_couchianus,ENSAOCG00000020030__Amphiprion_ocellaris),ENSATEG00000020681__Anabas_testudineus);

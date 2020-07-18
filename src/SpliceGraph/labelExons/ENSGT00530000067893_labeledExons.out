@@ -1,0 +1,40 @@
+>0
+ENSCSAVT00000017885: ['no event', 63, 0]
+ENSCSAVT00000017896: ['exon skipping', 0, 0]
+ENSCINT00000017677: ['no event', 63, 0]
+>1
+ENSCSAVT00000017885: ['no event', 144, 1]
+ENSCSAVT00000017896: ['exon skipping', 0, 0]
+ENSCINT00000017677: [['internal gap < 30', 125, 3], 141, 1]
+>2
+ENSCSAVT00000017885: [['internal gap < 30', 168, 12], 195, 2]
+ENSCSAVT00000017896: ['exon skipping', 0, 0]
+ENSCINT00000017677: [['internal gap < 30', 146, 15], 192, 2]
+>3
+ENSCSAVT00000017885: [['internal gap >= 30', 123, 35], 125, 0]
+ENSCSAVT00000017896: ['3event', '5event', 132, 0]
+ENSCINT00000017677: [['internal gap < 30', 37, 23], 137, 0]
+>4
+ENSCSAVT00000017885: ['no event', 56, 0]
+ENSCSAVT00000017896: ['exon skipping', 0, 0]
+ENSCINT00000017677: ['no event', 56, 0]
+>5
+ENSCSAVT00000017885: ['exon skipping', 0, 0]
+ENSCSAVT00000017896: ['exon skipping', 0, 0]
+ENSCINT00000017677: ['no event', 39, 0]
+>6
+ENSCSAVT00000017885: ['exon skipping', 0, 0]
+ENSCSAVT00000017896: ['exon skipping', 0, 0]
+ENSCINT00000017677: ['no event', 124, 1]
+>7
+ENSCSAVT00000017885: ['exon skipping', 0, 0]
+ENSCSAVT00000017896: ['5event', ['internal gap < 30', 6, 8], 129, 0]
+ENSCINT00000017677: [['internal gap < 30', 104, 10], 127, 0]
+>8
+ENSCSAVT00000017885: ['exon skipping', 0, 0]
+ENSCSAVT00000017896: [['internal gap >= 30', 380, 51], 547, 1]
+ENSCINT00000017677: [['internal gap >= 30', 511, 45], 553, 1]
+>9
+ENSCSAVT00000017885: ['exon skipping', 0, 0]
+ENSCSAVT00000017896: ['exon skipping', 0, 0]
+ENSCINT00000017677: ['no event', 50, 0]

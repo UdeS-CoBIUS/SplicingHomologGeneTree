@@ -1,0 +1,1 @@
+(((ENSPSMG00000019387__Prolemur_simus,ENSMFAG00000001567__Macaca_fascicularis),(ENSPPRG00000001321__Panthera_pardus,ENSPTIG00000020354__Panthera_tigris_altaica)),ENSAPLG00000028501__Anas_platyrhynchos_platyrhynchos);

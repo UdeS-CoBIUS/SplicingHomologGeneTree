@@ -1,0 +1,9 @@
+MACACAMULATTA	macaca_mulatta
+MANDRILLUSLEUCOPHAEUS	mandrillus_leucophaeus
+PAPIOANUBIS	papio_anubis
+COLOBUSANGOLENSISPALLIATUS	colobus_angolensis_palliatus
+PILIOCOLOBUSTEPHROSCELES	piliocolobus_tephrosceles
+PANTROGLODYTES	pan_troglodytes
+PANPANISCUS	pan_paniscus
+NOMASCUSLEUCOGENYS	nomascus_leucogenys
+AOTUSNANCYMAAE	aotus_nancymaae

@@ -1,0 +1,1 @@
+(ENSSMRG00000013741__Salvator_merianae,ENSGALG00000047343__Gallus_gallus);

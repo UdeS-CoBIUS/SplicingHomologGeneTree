@@ -1,0 +1,1 @@
+(((ENSACLG00000025343__Astatotilapia_calliptera,ENSPNAG00000025346__Pygocentrus_nattereri),ENSDNVG00000013193__Dromaius_novaehollandiae),((ENSNMEG00000000453__Numida_meleagris,ENSCJPG00005001530__Coturnix_japonica),ENSPNAG00000018664__Pygocentrus_nattereri));

@@ -1,0 +1,1 @@
+((((ENSGACG00000018183__Gasterosteus_aculeatus,ENSNBRG00000017698__Neolamprologus_brichardi),ENSGMOG00000020064__Gadus_morhua),((ENSLCOG00000012620__Lepidothrix_coronata,ENSLSDG00000002954__Lonchura_striata_domestica),ENSMAUG00000019133__Mesocricetus_auratus)),ENSEBUG00000007745__Eptatretus_burgeri);

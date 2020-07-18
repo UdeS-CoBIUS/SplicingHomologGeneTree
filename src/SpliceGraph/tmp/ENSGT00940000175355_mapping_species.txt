@@ -1,0 +1,6 @@
+CROCODYLUSPOROSUS	crocodylus_porosus
+POGONAVITTICEPS	pogona_vitticeps
+CARLITOSYRICHTA	carlito_syrichta
+PROLEMURSIMUS	prolemur_simus
+BISONBISONBISON	bison_bison_bison
+PUNDAMILIANYEREREI	pundamilia_nyererei

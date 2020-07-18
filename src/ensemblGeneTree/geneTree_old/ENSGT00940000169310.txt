@@ -1,1 +1,0 @@
-((((ENSPTIG00000009402__Panthera_tigris_altaica,ENSPPRG00000022928__Panthera_pardus),ENSFCAG00000024747__Felis_catus),ENSVVUG00000017431__Vulpes_vulpes),((ENSPTEG00000012844__Piliocolobus_tephrosceles,ENSSBOG00000024305__Saimiri_boliviensis_boliviensis),ENSMSIG00000007379__Mus_spicilegus));

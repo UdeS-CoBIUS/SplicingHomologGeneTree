@@ -1,0 +1,1 @@
+((ENSSCAG00000004432__Serinus_canaria,ENSLSDG00000004059__Lonchura_striata_domestica),ENSCAFG00020002987__Canis_lupus_dingo);

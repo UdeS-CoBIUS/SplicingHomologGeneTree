@@ -1,0 +1,1 @@
+(((ENSSLDG00000007217__Seriola_lalandi_dorsalis,ENSSLDG00000006606__Seriola_lalandi_dorsalis),ENSSLDG00000007175__Seriola_lalandi_dorsalis),ENSPNYG00000002746__Pundamilia_nyererei);

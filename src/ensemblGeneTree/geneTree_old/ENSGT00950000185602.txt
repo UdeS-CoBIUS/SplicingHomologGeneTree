@@ -1,1 +1,0 @@
-(((ENSAPLG00000018427__Anas_platyrhynchos_platyrhynchos,ENSMUNG00000013635__Melopsittacus_undulatus),ENSNPEG00000010346__Nothoprocta_perdicaria),((ENSGAGG00000001035__Gopherus_agassizii,ENSCABG00000002521__Chelonoidis_abingdonii),ENSCPBG00000010952__Chrysemys_picta_bellii));

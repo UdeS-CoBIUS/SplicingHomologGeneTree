@@ -1,0 +1,1 @@
+((ENSCVAG00000013290__Cyprinodon_variegatus,ENSTRUG00000017875__Takifugu_rubripes),(((ENSSCAG00000003790__Serinus_canaria,ENSAPLG00000019448__Anas_platyrhynchos_platyrhynchos),ENSGAGG00000004264__Gopherus_agassizii),ENSEASG00005016232__Equus_asinus_asinus));

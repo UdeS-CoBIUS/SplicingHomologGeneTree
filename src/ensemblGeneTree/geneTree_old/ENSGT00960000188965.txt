@@ -1,1 +1,0 @@
-(((ENSPCOG00000000965__Propithecus_coquereli,ENSPCOG00000025651__Propithecus_coquereli),ENSPSMG00000010214__Prolemur_simus),ENSMFAG00000030148__Macaca_fascicularis);

@@ -1,0 +1,1 @@
+((((ENSUAMG00000004304__Ursus_americanus,ENSBTAG00000052377__Bos_taurus),ENSDORG00000025169__Dipodomys_ordii),ENSZALG00000015566__Zonotrichia_albicollis),ENSHCOG00000020809__Hippocampus_comes);

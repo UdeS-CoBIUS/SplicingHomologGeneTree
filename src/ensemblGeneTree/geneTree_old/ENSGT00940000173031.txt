@@ -1,1 +1,0 @@
-(((ENSCCAG00000022656__Cebus_capucinus_imitator,ENSPCAG00000005273__Procavia_capensis),ENSNPEG00000009272__Nothoprocta_perdicaria),(ENSGAFG00000014500__Gambusia_affinis,ENSNBRG00000000217__Neolamprologus_brichardi));

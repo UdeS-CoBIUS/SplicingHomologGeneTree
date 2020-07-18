@@ -1,0 +1,1 @@
+((((ENSMLUG00000025518__Myotis_lucifugus,ENSMLUG00000024260__Myotis_lucifugus),ENSDNOG00000042256__Dasypus_novemcinctus),ENSETEG00000014443__Echinops_telfairi),ENSSHAG00000001267__Sarcophilus_harrisii);

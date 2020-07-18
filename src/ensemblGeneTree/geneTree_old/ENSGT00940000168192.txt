@@ -1,1 +1,0 @@
-(((((ENSG00000222014__Homo_sapiens,ENSG00000233087__Homo_sapiens),ENSPPAG00000036086__Pan_paniscus),(ENSNLEG00000035158__Nomascus_leucogenys,ENSNLEG00000032571__Nomascus_leucogenys)),ENSUAMG00000011316__Ursus_americanus),ENSNMEG00000011007__Numida_meleagris);

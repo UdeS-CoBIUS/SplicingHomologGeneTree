@@ -1,0 +1,1 @@
+((((ENSFALG00000004688__Ficedula_albicollis,ENSTGUG00000013300__Taeniopygia_guttata),ENSMUNG00000001908__Melopsittacus_undulatus),(ENSABRG00000012516__Anser_brachyrhynchus,ENSCJPG00005016754__Coturnix_japonica)),ENSCPRG00005005596__Crocodylus_porosus);

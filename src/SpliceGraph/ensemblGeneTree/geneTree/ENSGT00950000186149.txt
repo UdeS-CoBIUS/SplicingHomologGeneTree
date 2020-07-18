@@ -1,0 +1,1 @@
+(((ENSEASG00005008096__Equus_asinus_asinus,ENSECAG00000030335__Equus_caballus),ENSNVIG00000021410__Neovison_vison),((ENSAOWG00000016813__Apteryx_owenii,ENSARWG00000017808__Apteryx_rowi),ENSMUNG00000005420__Melopsittacus_undulatus));

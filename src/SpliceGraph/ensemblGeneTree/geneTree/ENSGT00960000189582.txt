@@ -1,0 +1,1 @@
+(((ENSJHYG00000004771__Junco_hyemalis,ENSLSDG00000013407__Lonchura_striata_domestica),(ENSCCEG00000018009__Cyanistes_caeruleus,ENSPMJG00000014875__Parus_major)),(ENSMVIG00005006864__Manacus_vitellinus,ENSLCOG00000006828__Lepidothrix_coronata));

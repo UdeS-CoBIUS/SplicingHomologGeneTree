@@ -1,0 +1,1 @@
+((ENSFDAG00000015991__Fukomys_damarensis,ENSFDAG00000013375__Fukomys_damarensis),ENSHGLG00100001687__Heterocephalus_glaber_HetGla_1.0);

@@ -1,0 +1,1 @@
+(((ENSJHYG00000010933__Junco_hyemalis,ENSGALG00000048899__Gallus_gallus),ENSSPUG00000018541__Sphenodon_punctatus),(ENSLAFG00000026950__Loxodonta_africana,ENSMLUG00000029765__Myotis_lucifugus));

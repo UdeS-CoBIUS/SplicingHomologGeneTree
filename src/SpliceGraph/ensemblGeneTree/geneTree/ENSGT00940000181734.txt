@@ -1,0 +1,1 @@
+(ENSSDUG00000023731__Seriola_dumerili,ENSTRUG00000023670__Takifugu_rubripes);

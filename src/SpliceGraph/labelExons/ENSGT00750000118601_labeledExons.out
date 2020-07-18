@@ -1,0 +1,20 @@
+>0
+R07B1.10.1: ['no event', 20, 0]
+R07B1.10.2: ['no event', 20, 0]
+R07B1.2.1: ['no event', 20, 0]
+R07B1.2.2: ['no event', 20, 0]
+>1
+R07B1.10.1: ['exon skipping', 0, 0]
+R07B1.10.2: ['exon skipping', 0, 0]
+R07B1.2.1: ['no event', 88, 0]
+R07B1.2.2: ['no event', 88, 0]
+>2
+R07B1.10.1: ['5event', 281, 0]
+R07B1.10.2: ['5event', 281, 0]
+R07B1.2.1: [['internal gap >= 30', 2, 89], 194, 2]
+R07B1.2.2: [['internal gap >= 30', 2, 89], 194, 2]
+>3
+R07B1.10.1: [['internal gap < 30', 211, 9], 239, 0]
+R07B1.10.2: [['internal gap < 30', 211, 9], 239, 0]
+R07B1.2.1: ['3event', 238, 0]
+R07B1.2.2: ['3event', 238, 0]

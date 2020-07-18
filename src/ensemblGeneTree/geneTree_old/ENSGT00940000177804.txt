@@ -1,1 +1,0 @@
-(((((ENSATEG00000017044__Anabas_testudineus,ENSMALG00000012869__Monopterus_albus),(ENSTRUG00000024406__Takifugu_rubripes,ENSTRUG00000023036__Takifugu_rubripes)),ENSELUG00000012504__Esox_lucius),((ENSSLDG00000017514__Seriola_lalandi_dorsalis,ENSSDUG00000010047__Seriola_dumerili),ENSSFOG00015014513__Scleropages_formosus)),ENSPVIG00000025213__Pogona_vitticeps);

@@ -1,1 +1,0 @@
-(FBgn0039431__Drosophila_melanogaster,ENSXETG00000006647__Xenopus_tropicalis);

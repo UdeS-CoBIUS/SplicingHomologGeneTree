@@ -1,0 +1,1 @@
+(ENSBTAG00000016714__Bos_taurus,ENSNVIG00000005232__Neovison_vison);

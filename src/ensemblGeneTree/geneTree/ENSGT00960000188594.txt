@@ -1,0 +1,1 @@
+((ENSORLG00000021939__Oryzias_latipes_ASM223467v1,ENSORLG00015016959__Oryzias_latipes_ASM223469v1),ENSLSDG00000015284__Lonchura_striata_domestica);

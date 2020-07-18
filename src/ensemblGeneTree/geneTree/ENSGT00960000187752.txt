@@ -1,0 +1,1 @@
+((ENSETEG00000013190__Echinops_telfairi,ENSOANG00000007705__Ornithorhynchus_anatinus),ENSLOCG00000013804__Lepisosteus_oculatus);

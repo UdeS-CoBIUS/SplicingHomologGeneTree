@@ -1,0 +1,18 @@
+>0
+YKL015W_mRNA: ['5event', ['internal gap >= 30', 2835, 1736], 2887, 0]
+YLR278C_mRNA: ['3event', '5event', 4011, 0]
+YNR063W_mRNA: ['3event', '5event', 1824, 0]
+YOL089C_mRNA: [['internal gap >= 30', 3082, 1531], 3092, 0]
+YBR150C_mRNA: ['5event', ['internal gap >= 30', 3268, 1347], 3276, 0]
+>1
+YKL015W_mRNA: ['no event', 21, 2]
+YLR278C_mRNA: ['5event', 14, 0]
+YNR063W_mRNA: ['exon skipping', 0, 0]
+YOL089C_mRNA: ['exon skipping', 0, 0]
+YBR150C_mRNA: [['internal gap < 30', 1, 13], 8, 1]
+>2
+YKL015W_mRNA: ['no event', 30, 2]
+YLR278C_mRNA: ['exon skipping', 0, 0]
+YNR063W_mRNA: ['exon skipping', 0, 0]
+YOL089C_mRNA: ['exon skipping', 0, 0]
+YBR150C_mRNA: ['exon skipping', 0, 0]

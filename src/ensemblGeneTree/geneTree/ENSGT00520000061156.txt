@@ -1,0 +1,1 @@
+((((((ENSSDAG00000011120__Spermophilus_dauricus,ENSSDAG00000011113__Spermophilus_dauricus),ENSPSMG00000024417__Prolemur_simus),ENSMLUG00000023755__Myotis_lucifugus),ENSOANG00000014758__Ornithorhynchus_anatinus),ENSCCEG00000018358__Cyanistes_caeruleus),ENSLACG00000010672__Latimeria_chalumnae);

@@ -1,0 +1,1 @@
+(((WBGene00016879__Caenorhabditis_elegans_strain_N2,WBGene00016343__Caenorhabditis_elegans_strain_N2),FBgn0262124__Drosophila_melanogaster),ENSCING00000002711__Ciona_intestinalis);

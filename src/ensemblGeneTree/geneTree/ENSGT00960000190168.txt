@@ -1,0 +1,1 @@
+((ENSMLEG00000023408__Mandrillus_leucophaeus,ENSMNEG00000012290__Macaca_nemestrina),ENSPTEG00000010260__Piliocolobus_tephrosceles);

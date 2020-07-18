@@ -1,0 +1,2 @@
+KRYPTOLEBIASMARMORATUS	kryptolebias_marmoratus
+PERIOPHTHALMUSMAGNUSPINNATUS	periophthalmus_magnuspinnatus

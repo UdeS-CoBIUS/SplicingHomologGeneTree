@@ -1,0 +1,3 @@
+MONODELPHISDOMESTICA	monodelphis_domestica
+PILIOCOLOBUSTEPHROSCELES	piliocolobus_tephrosceles
+ESOXLUCIUS	esox_lucius

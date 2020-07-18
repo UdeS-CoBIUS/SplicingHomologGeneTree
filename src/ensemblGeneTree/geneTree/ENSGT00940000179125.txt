@@ -1,0 +1,1 @@
+(((ENSPNAG00000006099__Pygocentrus_nattereri,ENSDCDG00000004879__Denticeps_clupeoides),ENSTRUG00000024624__Takifugu_rubripes),(ENSSFOG00015017034__Scleropages_formosus,ENSPKIG00000001626__Paramormyrops_kingsleyae));

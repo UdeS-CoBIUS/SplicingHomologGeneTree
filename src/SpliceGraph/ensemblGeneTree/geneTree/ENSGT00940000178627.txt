@@ -1,0 +1,1 @@
+((((ENSATEG00000018048__Anabas_testudineus,ENSATEG00000018197__Anabas_testudineus),ENSMAMG00000017280__Mastacembelus_armatus),ENSACIG00000003965__Amphilophus_citrinellus),ENSAMXG00000038343__Astyanax_mexicanus);

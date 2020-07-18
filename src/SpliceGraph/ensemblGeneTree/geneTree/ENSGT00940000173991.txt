@@ -1,0 +1,1 @@
+(((ENSOANG00000032262__Ornithorhynchus_anatinus,ENSOANG00000030153__Ornithorhynchus_anatinus),ENSOANG00000030267__Ornithorhynchus_anatinus),ENSCING00000022263__Ciona_intestinalis);

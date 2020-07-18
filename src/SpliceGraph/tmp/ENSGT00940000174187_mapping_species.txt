@@ -1,0 +1,3 @@
+PHASCOLARCTOSCINEREUS	phascolarctos_cinereus
+SARCOPHILUSHARRISII	sarcophilus_harrisii
+MONODELPHISDOMESTICA	monodelphis_domestica

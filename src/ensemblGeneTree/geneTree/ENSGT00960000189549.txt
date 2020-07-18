@@ -1,0 +1,1 @@
+((((ENSSCAG00000016531__Serinus_canaria,ENSLSDG00000005312__Lonchura_striata_domestica),(ENSZALG00000006753__Zonotrichia_albicollis,ENSJHYG00000002083__Junco_hyemalis)),ENSCPGG00000003684__Calidris_pygmaea),ENSNPEG00000010241__Nothoprocta_perdicaria);

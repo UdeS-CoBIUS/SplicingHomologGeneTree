@@ -1,0 +1,1 @@
+(((ENSSDAG00000015424__Spermophilus_dauricus,ENSCCNG00000022833__Castor_canadensis),(ENSNLEG00000036043__Nomascus_leucogenys,ENSRROG00000000059__Rhinopithecus_roxellana)),ENSUAMG00000002496__Ursus_americanus);

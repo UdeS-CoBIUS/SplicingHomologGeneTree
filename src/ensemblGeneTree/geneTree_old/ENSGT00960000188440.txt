@@ -1,1 +1,0 @@
-((ENSCCEG00000013263__Cyanistes_caeruleus,ENSDNOG00000037932__Dasypus_novemcinctus),ENSPMGG00000019994__Periophthalmus_magnuspinnatus);

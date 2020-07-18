@@ -1,0 +1,1 @@
+(((ENSGACG00000002054__Gasterosteus_aculeatus,ENSGACG00000000256__Gasterosteus_aculeatus),(ENSTRUG00000024796__Takifugu_rubripes,ENSTNIG00000006305__Tetraodon_nigroviridis)),((ENSATEG00000001149__Anabas_testudineus,ENSATEG00000001122__Anabas_testudineus),ENSACLG00000012675__Astatotilapia_calliptera));

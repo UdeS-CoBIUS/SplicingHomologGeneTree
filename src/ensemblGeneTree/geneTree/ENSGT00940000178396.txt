@@ -1,0 +1,1 @@
+((ENSSFOG00015017115__Scleropages_formosus,ENSPKIG00000015299__Paramormyrops_kingsleyae),((ENSPNAG00000028197__Pygocentrus_nattereri,ENSAMXG00000040943__Astyanax_mexicanus),ENSIPUG00000005636__Ictalurus_punctatus));

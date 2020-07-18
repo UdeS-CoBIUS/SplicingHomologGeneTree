@@ -1,0 +1,1 @@
+((((ENSTSYG00000032970__Carlito_syrichta,ENSTSYG00000034608__Carlito_syrichta),ENSTSYG00000028811__Carlito_syrichta),ENSTSYG00000031806__Carlito_syrichta),ENSMUNG00000016280__Melopsittacus_undulatus);

@@ -1,0 +1,1 @@
+(((((ENSCPGG00000009654__Calidris_pygmaea,ENSCPUG00000016462__Calidris_pugnax),ENSJHYG00000005690__Junco_hyemalis),ENSGAGG00000006931__Gopherus_agassizii),ENSPVIG00000021714__Pogona_vitticeps),(ENSPSMG00000009203__Prolemur_simus,ENSCCNG00000027779__Castor_canadensis));

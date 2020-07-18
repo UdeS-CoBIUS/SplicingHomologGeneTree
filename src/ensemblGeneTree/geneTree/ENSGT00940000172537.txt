@@ -1,0 +1,1 @@
+((ENSCSEG00000006393__Cynoglossus_semilaevis,ENSNBRG00000019191__Neolamprologus_brichardi),(ENSTBEG00000012461__Tupaia_belangeri,ENSEEUG00000000417__Erinaceus_europaeus));

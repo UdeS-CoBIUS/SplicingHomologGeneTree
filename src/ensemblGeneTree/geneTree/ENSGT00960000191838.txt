@@ -1,0 +1,1 @@
+(ENSDNVG00000006676__Dromaius_novaehollandiae,ENSLCOG00000011600__Lepidothrix_coronata);

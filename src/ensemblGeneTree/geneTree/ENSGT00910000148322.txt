@@ -1,0 +1,1 @@
+((((ENSMFAG00000014781__Macaca_fascicularis,ENSGGOG00000043280__Gorilla_gorilla),ENSMSIG00000005931__Mus_spicilegus),(ENSBMUG00000017060__Bos_mutus,ENSBTAG00000049686__Bos_taurus)),ENSPCIG00000013272__Phascolarctos_cinereus);

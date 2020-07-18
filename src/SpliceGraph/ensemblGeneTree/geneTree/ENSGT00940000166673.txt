@@ -1,0 +1,1 @@
+(((((((ENSRNOG00000030580__Rattus_norvegicus,ENSRNOG00000000053__Rattus_norvegicus),ENSRNOG00000053229__Rattus_norvegicus),ENSRNOG00000055846__Rattus_norvegicus),ENSRNOG00000037452__Rattus_norvegicus),(ENSMPUG00000018012__Mustela_putorius_furo,ENSEASG00005015691__Equus_asinus_asinus)),ENSACAG00000007283__Anolis_carolinensis),ENSPNAG00000026877__Pygocentrus_nattereri);

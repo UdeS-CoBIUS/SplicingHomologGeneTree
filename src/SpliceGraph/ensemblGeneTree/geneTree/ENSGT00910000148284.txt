@@ -1,0 +1,1 @@
+(((ENSMLEG00000044281__Mandrillus_leucophaeus,ENSPANG00000022503__Papio_anubis),ENSPPAG00000039528__Pan_paniscus),ENSPMGG00000013174__Periophthalmus_magnuspinnatus);

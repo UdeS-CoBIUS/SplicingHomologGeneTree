@@ -1,0 +1,4 @@
+F17E5.2.1	WBGene00008924	Caenorhabditis_elegans_strain_N2	F17E5.2.1
+F55A11.4a.1	WBGene00010077	Caenorhabditis_elegans_strain_N2	F55A11.4a.1
+FBpp0304400	FBgn0052103	Drosophila_melanogaster
+YNL083W_mRNA	YNL083W	Saccharomyces_cerevisiae_strain_S288C

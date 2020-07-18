@@ -1,0 +1,2 @@
+GASTEROSTEUSACULEATUS	gasterosteus_aculeatus
+GADUSMORHUA	gadus_morhua

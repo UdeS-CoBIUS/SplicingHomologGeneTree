@@ -1,0 +1,1 @@
+((ENSSPUG00000009532__Sphenodon_punctatus,ENSMGAG00000016356__Meleagris_gallopavo),(((ENSPPYG00000029763__Pongo_abelii,ENSOGAG00000028929__Otolemur_garnettii),ENSMUGG00000018883__Meriones_unguiculatus),ENSMEUG00000010410__Notamacropus_eugenii));

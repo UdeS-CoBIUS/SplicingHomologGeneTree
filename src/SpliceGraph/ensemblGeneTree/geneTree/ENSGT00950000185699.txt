@@ -1,0 +1,1 @@
+(((ENSBTAG00000050657__Bos_taurus,ENSBMUG00000015690__Bos_mutus),ENSBBBG00000002749__Bison_bison_bison),ENSTSYG00000029999__Carlito_syrichta);

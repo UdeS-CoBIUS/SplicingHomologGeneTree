@@ -1,0 +1,1 @@
+((ENSMEUG00000013438__Notamacropus_eugenii,ENSPCIG00000021126__Phascolarctos_cinereus),ENSCPOG00000008472__Cavia_porcellus);

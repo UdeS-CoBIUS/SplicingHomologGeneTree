@@ -1,0 +1,1 @@
+((((ENSXCOG00000000280__Xiphophorus_couchianus,ENSMMUG00000047343__Macaca_mulatta),ENSLACG00000014907__Latimeria_chalumnae),ENSGALG00000053973__Gallus_gallus),ENSEBUG00000007180__Eptatretus_burgeri);

@@ -1,1 +1,0 @@
-((((ENSPTRG00000042685__Pan_troglodytes,ENSPPAG00000028244__Pan_paniscus),ENSG00000272398__Homo_sapiens),((ENSCATG00000031493__Cercocebus_atys,ENSMLEG00000034658__Mandrillus_leucophaeus),ENSTGEG00000023583__Theropithecus_gelada)),(ENSCJAG00000044688__Callithrix_jacchus,ENSSBOG00000034823__Saimiri_boliviensis_boliviensis));

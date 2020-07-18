@@ -1,0 +1,1 @@
+(((ENSMALG00000014094__Monopterus_albus,ENSHCOG00000009100__Hippocampus_comes),ENSAPOG00000006310__Acanthochromis_polyacanthus),(ENSEEUG00000013760__Erinaceus_europaeus,ENSSARG00000008711__Sorex_araneus));

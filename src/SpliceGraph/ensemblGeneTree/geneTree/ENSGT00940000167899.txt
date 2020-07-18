@@ -1,0 +1,1 @@
+((((ENSACAG00000012103__Anolis_carolinensis,ENSOANG00000030468__Ornithorhynchus_anatinus),ENSAMXG00000029322__Astyanax_mexicanus),ENSEBUG00000014094__Eptatretus_burgeri),((ENSCING00000014543__Ciona_intestinalis,ENSCSAVG00000006391__Ciona_savignyi),ENSCING00000014586__Ciona_intestinalis));

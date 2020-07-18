@@ -1,1 +1,0 @@
-(((ENSGACG00000014829__Gasterosteus_aculeatus,ENSXCOG00000018198__Xiphophorus_couchianus),((ENSTNIG00000001811__Tetraodon_nigroviridis,ENSXCOG00000018240__Xiphophorus_couchianus),ENSCSEG00000016941__Cynoglossus_semilaevis)),ENSGMOG00000004185__Gadus_morhua);

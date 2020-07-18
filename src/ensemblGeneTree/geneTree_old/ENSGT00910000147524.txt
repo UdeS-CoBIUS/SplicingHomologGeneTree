@@ -1,1 +1,0 @@
-((ENSCHIG00000025171__Capra_hircus,ENSSSCG00000039385__Sus_scrofa),((((ENSPTRG00000045797__Pan_troglodytes,ENSPPAG00000043310__Pan_paniscus),ENSGGOG00000042496__Gorilla_gorilla),ENSNLEG00000027453__Nomascus_leucogenys),((ENSTGEG00000007949__Theropithecus_gelada,ENSMLEG00000001002__Mandrillus_leucophaeus),ENSPTEG00000032898__Piliocolobus_tephrosceles)));

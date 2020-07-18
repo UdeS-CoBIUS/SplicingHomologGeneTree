@@ -1,0 +1,6 @@
+POECILIAFORMOSA	poecilia_formosa
+FUNDULUSHETEROCLITUS	fundulus_heteroclitus
+OREOCHROMISNILOTICUS	oreochromis_niloticus
+GASTEROSTEUSACULEATUS	gasterosteus_aculeatus
+GADUSMORHUA	gadus_morhua
+ESOXLUCIUS	esox_lucius

@@ -1,0 +1,1 @@
+((((ENSLBEG00000014572__Labrus_bergylta,ENSLBEG00000008939__Labrus_bergylta),(ENSLBEG00000009687__Labrus_bergylta,ENSLBEG00000026919__Labrus_bergylta)),((ENSRNOG00000042164__Rattus_norvegicus,ENSCGRG00015027235__Cricetulus_griseus_CriGri-PICR),ENSMODG00000014025__Monodelphis_domestica)),ENSPMAG00000006289__Petromyzon_marinus);

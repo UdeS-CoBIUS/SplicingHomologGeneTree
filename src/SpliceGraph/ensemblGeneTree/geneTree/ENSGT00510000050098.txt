@@ -1,0 +1,1 @@
+((ENSPCAG00000009549__Procavia_capensis,ENSETEG00000020386__Echinops_telfairi),((ENSOPRG00000006868__Ochotona_princeps,ENSRBIG00000041896__Rhinopithecus_bieti),(ENSPVAG00000009633__Pteropus_vampyrus,ENSTTRG00000002659__Tursiops_truncatus)));

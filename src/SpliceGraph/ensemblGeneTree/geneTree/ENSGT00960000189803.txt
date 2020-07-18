@@ -1,0 +1,1 @@
+((ENSCABG00000003914__Chelonoidis_abingdonii,ENSLSDG00000007109__Lonchura_striata_domestica),(ENSCCNG00000024058__Castor_canadensis,ENSMSIG00000001243__Mus_spicilegus));

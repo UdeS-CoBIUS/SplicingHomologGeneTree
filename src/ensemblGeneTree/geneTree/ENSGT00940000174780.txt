@@ -1,0 +1,1 @@
+((ENSSFOG00015003875__Scleropages_formosus,ENSPKIG00000006177__Paramormyrops_kingsleyae),ENSGMOG00000015250__Gadus_morhua);

@@ -1,0 +1,1 @@
+(((ENSSARG00000000908__Sorex_araneus,ENSVVUG00000028974__Vulpes_vulpes),(ENSTBEG00000017141__Tupaia_belangeri,ENSTBEG00000004656__Tupaia_belangeri)),ENSDNOG00000040653__Dasypus_novemcinctus);

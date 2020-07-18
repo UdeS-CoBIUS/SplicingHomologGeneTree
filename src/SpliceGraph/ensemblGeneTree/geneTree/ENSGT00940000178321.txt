@@ -1,0 +1,1 @@
+(((ENSAPEG00000017180__Amphiprion_percula,ENSSPAG00000012731__Stegastes_partitus),ENSHBUG00000017771__Haplochromis_burtoni),((ENSLBEG00000002151__Labrus_bergylta,ENSLBEG00000014321__Labrus_bergylta),ENSMAMG00000011777__Mastacembelus_armatus));

@@ -1,0 +1,1 @@
+((((((ENSMPUG00000005435__Mustela_putorius_furo,ENSAMEG00000007313__Ailuropoda_melanoleuca),ENSOARG00000008419__Ovis_aries),ENSDNOG00000048929__Dasypus_novemcinctus),ENSSHAG00000007097__Sarcophilus_harrisii),ENSPSIG00000014788__Pelodiscus_sinensis),(ENSLOCG00000012907__Lepisosteus_oculatus,ENSPFOG00000023095__Poecilia_formosa));

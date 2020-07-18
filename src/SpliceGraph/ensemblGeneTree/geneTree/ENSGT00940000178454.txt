@@ -1,0 +1,1 @@
+(((((ENSAPEG00000001229__Amphiprion_percula,ENSAPEG00000001290__Amphiprion_percula),ENSAPOG00000009761__Acanthochromis_polyacanthus),ENSPMGG00000024082__Periophthalmus_magnuspinnatus),ENSAMXG00000040318__Astyanax_mexicanus_Astyanax_mexicanus-2.0),ENSMUNG00000000618__Melopsittacus_undulatus);

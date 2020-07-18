@@ -1,0 +1,1 @@
+(((ENSBBBG00000017493__Bison_bison_bison,ENSBBBG00000017051__Bison_bison_bison),ENSBBBG00000006641__Bison_bison_bison),ENSBBBG00000004206__Bison_bison_bison);

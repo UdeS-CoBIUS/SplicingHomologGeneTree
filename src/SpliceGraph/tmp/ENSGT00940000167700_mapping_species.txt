@@ -1,0 +1,9 @@
+HOMOSAPIENS	homo_sapiens
+HOMOSAPIENS	homo_sapiens
+GORILLAGORILLA	gorilla_gorilla
+PANTROGLODYTES	pan_troglodytes
+PANTROGLODYTES	pan_troglodytes
+PONGOABELII	pongo_abelii
+NOMASCUSLEUCOGENYS	nomascus_leucogenys
+SPERMOPHILUSDAURICUS	spermophilus_dauricus
+NEOVISONVISON	neovison_vison

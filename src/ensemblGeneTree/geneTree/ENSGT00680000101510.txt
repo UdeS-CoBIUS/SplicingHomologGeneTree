@@ -1,0 +1,1 @@
+(((ENSSTOG00000030632__Ictidomys_tridecemlineatus,ENSMUGG00000013332__Meriones_unguiculatus),ENSCAFG00000030446__Canis_lupus_familiaris),ENSPCIG00000013129__Phascolarctos_cinereus);

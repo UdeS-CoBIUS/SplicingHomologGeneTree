@@ -1,1 +1,0 @@
-(ENSBMUG00000001812__Bos_mutus,ENSMSIG00000008370__Mus_spicilegus);

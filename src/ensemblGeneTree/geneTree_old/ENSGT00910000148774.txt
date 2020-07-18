@@ -1,1 +1,0 @@
-(ENSANAG00000029841__Aotus_nancymaae,ENSMLEG00000030106__Mandrillus_leucophaeus);

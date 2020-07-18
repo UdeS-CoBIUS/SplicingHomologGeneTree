@@ -1,1 +1,0 @@
-(ENSOCUG00000024287__Oryctolagus_cuniculus,ENSOCUG00000024674__Oryctolagus_cuniculus);

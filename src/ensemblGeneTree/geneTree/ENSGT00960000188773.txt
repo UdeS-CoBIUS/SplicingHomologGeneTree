@@ -1,0 +1,1 @@
+((ENSMVIG00005002167__Manacus_vitellinus,ENSMVIG00005003359__Manacus_vitellinus),ENSORLG00020019261__Oryzias_latipes_ASM223471v1);

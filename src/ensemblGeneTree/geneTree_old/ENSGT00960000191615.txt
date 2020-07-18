@@ -1,1 +1,0 @@
-(ENSBMUG00000014339__Bos_mutus,ENSCJAG00000043412__Callithrix_jacchus);

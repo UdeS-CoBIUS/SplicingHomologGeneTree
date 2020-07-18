@@ -1,0 +1,1 @@
+((((ENSTGUG00000013972__Taeniopygia_guttata,ENSSCAG00000008422__Serinus_canaria),ENSCCEG00000022648__Cyanistes_caeruleus),ENSEEUG00000009004__Erinaceus_europaeus),ENSPMAG00000004393__Petromyzon_marinus);

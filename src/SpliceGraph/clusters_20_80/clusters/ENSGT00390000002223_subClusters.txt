@@ -1,0 +1,4 @@
+>cluster_0
+FBtr0072208	T06D8.5.1
+>cluster_1
+ENSPVIT00000022265

@@ -1,0 +1,1 @@
+(((ENSCPBG00000021976__Chrysemys_picta_bellii,ENSPSIG00000009580__Pelodiscus_sinensis),((ENSCPUG00000018111__Calidris_pugnax,ENSPMJG00000006078__Parus_major),ENSARWG00000014334__Apteryx_rowi)),ENSMODG00000044923__Monodelphis_domestica);

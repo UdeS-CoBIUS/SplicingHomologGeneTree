@@ -1,0 +1,1 @@
+((ENSSTOG00000032933__Ictidomys_tridecemlineatus,ENSVVUG00000019482__Vulpes_vulpes),ENSNPEG00000015007__Nothoprocta_perdicaria);

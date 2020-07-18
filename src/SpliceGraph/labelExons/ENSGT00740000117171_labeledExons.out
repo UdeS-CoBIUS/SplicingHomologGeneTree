@@ -1,0 +1,18 @@
+>0
+ENSBSLT00000055894: ['no event', 62, 0]
+ENSLCAT00010022365: ['exon skipping', 0, 0]
+>1
+ENSBSLT00000055894: ['exon skipping', 0, 0]
+ENSLCAT00010022365: ['5event', 151, 0]
+>2
+ENSBSLT00000055894: ['5event', 59, 0]
+ENSLCAT00010022365: ['exon skipping', 0, 0]
+>3
+ENSBSLT00000055894: ['exon skipping', 0, 0]
+ENSLCAT00010022365: ['5event', 9, 2]
+>4
+ENSBSLT00000055894: ['5event', 161, 0]
+ENSLCAT00010022365: ['3event', 139, 0]
+>5
+ENSBSLT00000055894: ['exon skipping', 0, 0]
+ENSLCAT00010022365: ['5event', 44, 0]

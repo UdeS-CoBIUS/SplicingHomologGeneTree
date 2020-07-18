@@ -1,0 +1,1 @@
+((ENSCSEG00000021033__Cynoglossus_semilaevis,ENSSDUG00000003454__Seriola_dumerili),(((ENSPMEG00000015779__Poecilia_mexicana,ENSPREG00000006267__Poecilia_reticulata),ENSPFOG00000024417__Poecilia_formosa),ENSMMOG00000014873__Mola_mola));

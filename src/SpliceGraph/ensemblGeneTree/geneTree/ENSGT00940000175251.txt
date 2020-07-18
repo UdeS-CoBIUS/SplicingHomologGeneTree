@@ -1,0 +1,1 @@
+(((((ENSXMAG00000027804__Xiphophorus_maculatus,ENSPFOG00000024149__Poecilia_formosa),ENSGAFG00000020382__Gambusia_affinis),ENSKMAG00000005122__Kryptolebias_marmoratus),(ENSSPAG00000001568__Stegastes_partitus,ENSSPAG00000001699__Stegastes_partitus)),((ENSLBEG00000013680__Labrus_bergylta,ENSLBEG00000013711__Labrus_bergylta),ENSCSEG00000005278__Cynoglossus_semilaevis));

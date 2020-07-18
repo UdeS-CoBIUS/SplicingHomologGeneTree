@@ -1,1 +1,0 @@
-((ENSTNIG00000006184__Tetraodon_nigroviridis,ENSPFOG00000023736__Poecilia_formosa),ENSPNAG00000008088__Pygocentrus_nattereri);

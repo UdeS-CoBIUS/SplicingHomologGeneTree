@@ -1,0 +1,1 @@
+((ENSLCOG00000003246__Lepidothrix_coronata,ENSNPEG00000007401__Nothoprocta_perdicaria),ENSOANG00000022557__Ornithorhynchus_anatinus);

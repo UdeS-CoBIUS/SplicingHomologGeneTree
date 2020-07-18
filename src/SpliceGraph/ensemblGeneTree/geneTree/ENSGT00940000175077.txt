@@ -1,0 +1,1 @@
+((((ENSAPLG00000027296__Anas_platyrhynchos_platyrhynchos,ENSLCOG00000003236__Lepidothrix_coronata),ENSNSUG00000000825__Notechis_scutatus),ENSTSYG00000029868__Carlito_syrichta),ENSSLDG00000007429__Seriola_lalandi_dorsalis);

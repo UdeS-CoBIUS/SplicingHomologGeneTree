@@ -1,0 +1,1 @@
+((ENSTGUG00000005157__Taeniopygia_guttata,ENSCPUG00000009368__Calidris_pugnax),ENSTNIG00000010814__Tetraodon_nigroviridis);

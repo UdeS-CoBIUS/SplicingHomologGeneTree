@@ -1,0 +1,1 @@
+(((ENSAPLG00000019748__Anas_platyrhynchos_platyrhynchos,ENSABRG00000015237__Anser_brachyrhynchus),ENSLSDG00000010165__Lonchura_striata_domestica),ENSDNVG00000016106__Dromaius_novaehollandiae);

@@ -1,0 +1,1 @@
+(((ENSUPAG00010018124__Urocitellus_parryii,ENSSDAG00000021274__Spermophilus_dauricus),ENSMFAG00000035884__Macaca_fascicularis),ENSCAFG00020026346__Canis_lupus_dingo);

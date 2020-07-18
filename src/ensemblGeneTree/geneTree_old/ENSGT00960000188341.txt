@@ -1,1 +1,0 @@
-((ENSORLG00015012943__Oryzias_latipes_ASM223469v1,ENSTRUG00000024333__Takifugu_rubripes),ENSMVIG00005017480__Manacus_vitellinus);

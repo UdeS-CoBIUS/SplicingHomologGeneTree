@@ -1,1 +1,0 @@
-(((((((ENSMMOG00000016947__Mola_mola,ENSTRUG00000024206__Takifugu_rubripes),ENSLBEG00000004592__Labrus_bergylta),ENSSMAG00000009281__Scophthalmus_maximus),(ENSFHEG00000023311__Fundulus_heteroclitus,ENSCVAG00000011241__Cyprinodon_variegatus)),ENSHCOG00000003431__Hippocampus_comes),ENSELUG00000020675__Esox_lucius),ENSSFOG00015016544__Scleropages_formosus);

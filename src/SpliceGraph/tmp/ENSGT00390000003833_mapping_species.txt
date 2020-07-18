@@ -1,0 +1,6 @@
+PANPANISCUS	pan_paniscus
+PANTROGLODYTES	pan_troglodytes
+GORILLAGORILLA	gorilla_gorilla
+PONGOABELII	pongo_abelii
+PILIOCOLOBUSTEPHROSCELES	piliocolobus_tephrosceles
+CALLITHRIXJACCHUS	callithrix_jacchus

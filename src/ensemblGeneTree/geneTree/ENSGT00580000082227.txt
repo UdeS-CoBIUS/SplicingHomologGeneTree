@@ -1,0 +1,1 @@
+((((((ENSCJAG00000040203__Callithrix_jacchus,ENSMPUG00000008671__Mustela_putorius_furo),ENSGALG00000041408__Gallus_gallus),ENSLACG00000003137__Latimeria_chalumnae),ENSLOCG00000000856__Lepisosteus_oculatus),(ENSPFOG00000017502__Poecilia_formosa,ENSXCOG00000011699__Xiphophorus_couchianus)),(ENSCSAVG00000011804__Ciona_savignyi,ENSCING00000022141__Ciona_intestinalis));

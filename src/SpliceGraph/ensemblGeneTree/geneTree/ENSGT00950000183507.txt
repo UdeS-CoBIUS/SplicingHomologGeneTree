@@ -1,0 +1,1 @@
+(((((ENSPLAG00000018838__Poecilia_latipinna,ENSPFOG00000018994__Poecilia_formosa),ENSPREG00000004591__Poecilia_reticulata),ENSGAFG00000020518__Gambusia_affinis),(ENSXCOG00000000402__Xiphophorus_couchianus,ENSXMAG00000011234__Xiphophorus_maculatus)),(ENSCVAG00000018180__Cyprinodon_variegatus,ENSFHEG00000015758__Fundulus_heteroclitus));

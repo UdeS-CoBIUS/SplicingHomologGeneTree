@@ -1,1 +1,0 @@
-(FBgn0051151__Drosophila_melanogaster,ENSCSAVG00000007953__Ciona_savignyi);

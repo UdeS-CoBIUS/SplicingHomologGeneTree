@@ -1,1 +1,0 @@
-((ENSPKIG00000010008__Paramormyrops_kingsleyae,ENSPKIG00000001601__Paramormyrops_kingsleyae),ENSPMEG00000002818__Poecilia_mexicana);

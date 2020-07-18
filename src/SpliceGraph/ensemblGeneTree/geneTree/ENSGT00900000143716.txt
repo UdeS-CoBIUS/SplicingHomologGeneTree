@@ -1,0 +1,1 @@
+((ENSCAFG00020025439__Canis_lupus_dingo,ENSCAFG00020006711__Canis_lupus_dingo),(((ENSMSIG00000027198__Mus_spicilegus,ENSCGRG00015019401__Cricetulus_griseus_CriGri-PICR),ENSHGLG00000018013__Heterocephalus_glaber_HetGla_female_1.0),ENSOCUG00000029633__Oryctolagus_cuniculus));

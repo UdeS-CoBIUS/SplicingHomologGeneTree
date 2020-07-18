@@ -1,1 +1,0 @@
-(ENSSTOG00000033233__Ictidomys_tridecemlineatus,ENSNSUG00000002310__Notechis_scutatus);

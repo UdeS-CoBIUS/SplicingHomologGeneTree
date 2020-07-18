@@ -1,0 +1,1 @@
+((ENSMAUG00000021705__Mesocricetus_auratus,ENSCGRG00000008615__Cricetulus_griseus_CriGri_1.0),(ENSHGLG00100006141__Heterocephalus_glaber_HetGla_1.0,ENSHGLG00000010082__Heterocephalus_glaber_HetGla_female_1.0));

@@ -1,0 +1,1 @@
+(((ENSSPUG00000000639__Sphenodon_punctatus,ENSFALG00000012749__Ficedula_albicollis),ENSBTAG00000001807__Bos_taurus),ENSAMXG00000034985__Astyanax_mexicanus);

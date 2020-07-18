@@ -1,0 +1,4 @@
+LABRUSBERGYLTA	labrus_bergylta
+LABRUSBERGYLTA	labrus_bergylta
+HUCHOHUCHO	hucho_hucho
+MYOTISLUCIFUGUS	myotis_lucifugus

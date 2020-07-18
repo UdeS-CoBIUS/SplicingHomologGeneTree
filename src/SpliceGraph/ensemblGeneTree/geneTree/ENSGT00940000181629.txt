@@ -1,0 +1,1 @@
+(ENSSFOG00015021841__Scleropages_formosus,ENSGALG00000049851__Gallus_gallus);

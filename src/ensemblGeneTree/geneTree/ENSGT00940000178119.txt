@@ -1,0 +1,1 @@
+(((((ENSGAFG00000002360__Gambusia_affinis,ENSPLAG00000023480__Poecilia_latipinna),ENSSPAG00000013211__Stegastes_partitus),ENSHCOG00000011808__Hippocampus_comes),ENSSLDG00000007932__Seriola_lalandi_dorsalis),ENSPMGG00000022754__Periophthalmus_magnuspinnatus);

@@ -1,0 +1,1 @@
+(((((((ENSPTRG00000024251__Pan_troglodytes,ENSPPAG00000039130__Pan_paniscus),ENSG00000196600__Homo_sapiens),ENSGGOG00000007793__Gorilla_gorilla),ENSPPYG00000003135__Pongo_abelii),ENSNLEG00000004474__Nomascus_leucogenys),ENSSBOG00000026216__Saimiri_boliviensis_boliviensis),ENSFCAG00000018565__Felis_catus);

@@ -1,0 +1,1 @@
+(((ENSTBEG00000015815__Tupaia_belangeri,ENSOPRG00000001851__Ochotona_princeps),(((ENSPPAG00000042555__Pan_paniscus,ENSPTRG00000047636__Pan_troglodytes),ENSPPYG00000002920__Pongo_abelii),ENSPTEG00000014507__Piliocolobus_tephrosceles)),(ENSTTRG00000009287__Tursiops_truncatus,ENSPVAG00000000334__Pteropus_vampyrus));

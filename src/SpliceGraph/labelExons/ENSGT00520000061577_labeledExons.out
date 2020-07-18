@@ -1,0 +1,21 @@
+>0
+ENSMSIT00000021984: ['5event', ['internal gap >= 30', 396, 114], 455, 0]
+MGP_SPRETEiJ_T0066777: ['exon skipping', 0, 0]
+MGP_CAROLIEiJ_T0064280: ['exon skipping', 0, 0]
+MGP_PahariEiJ_T0079374: ['exon skipping', 0, 0]
+ENSMUGT00000008088: ['3event', '5event', 15, 0]
+ENSMSIT00000021994: [['internal gap < 30', 468, 6], 563, 0]
+>1
+ENSMSIT00000021984: [['internal gap < 30', 600, 24], 705, 0]
+MGP_SPRETEiJ_T0066777: ['5event', ['internal gap < 30', 599, 25], 704, 0]
+MGP_CAROLIEiJ_T0064280: ['5event', ['internal gap < 30', 599, 25], 704, 0]
+MGP_PahariEiJ_T0079374: ['5event', ['internal gap < 30', 599, 25], 704, 0]
+ENSMUGT00000008088: ['3event', '5event', 690, 0]
+ENSMSIT00000021994: ['3event', 685, 0]
+>2
+ENSMSIT00000021984: ['no event', 2, 0]
+MGP_SPRETEiJ_T0066777: ['exon skipping', 0, 0]
+MGP_CAROLIEiJ_T0064280: ['exon skipping', 0, 0]
+MGP_PahariEiJ_T0079374: ['exon skipping', 0, 0]
+ENSMUGT00000008088: ['exon skipping', 0, 0]
+ENSMSIT00000021994: ['exon skipping', 0, 0]

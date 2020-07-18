@@ -1,0 +1,1 @@
+((ENSEASG00005018345__Equus_asinus_asinus,ENSECAG00000031974__Equus_caballus),(ENSETEG00000013640__Echinops_telfairi,ENSETEG00000006717__Echinops_telfairi));

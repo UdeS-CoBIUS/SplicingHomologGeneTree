@@ -1,0 +1,1 @@
+((ENSSLDG00000016385__Seriola_lalandi_dorsalis,ENSSDUG00000002960__Seriola_dumerili),ENSPREG00000012030__Poecilia_reticulata);

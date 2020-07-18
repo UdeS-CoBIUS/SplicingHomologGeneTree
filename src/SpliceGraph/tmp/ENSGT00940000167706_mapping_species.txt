@@ -1,0 +1,11 @@
+LABRUSBERGYLTA	labrus_bergylta
+GASTEROSTEUSACULEATUS	gasterosteus_aculeatus
+FUNDULUSHETEROCLITUS	fundulus_heteroclitus
+POECILIAFORMOSA	poecilia_formosa
+OREOCHROMISNILOTICUS	oreochromis_niloticus
+CYNOGLOSSUSSEMILAEVIS	cynoglossus_semilaevis
+HIPPOCAMPUSCOMES	hippocampus_comes
+GADUSMORHUA	gadus_morhua
+ASTYANAXMEXICANUS	astyanax_mexicanus
+ICTALURUSPUNCTATUS	ictalurus_punctatus
+LEPISOSTEUSOCULATUS	lepisosteus_oculatus

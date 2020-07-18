@@ -1,0 +1,10 @@
+PANTROGLODYTES	pan_troglodytes
+PANPANISCUS	pan_paniscus
+GORILLAGORILLA	gorilla_gorilla
+RHINOPITHECUSBIETI	rhinopithecus_bieti
+RHINOPITHECUSROXELLANA	rhinopithecus_roxellana
+COLOBUSANGOLENSIS	colobus_angolensis
+CERCOCEBUSATYS	cercocebus_atys
+THEROPITHECUSGELADA	theropithecus_gelada
+MANDRILLUSLEUCOPHAEUS	mandrillus_leucophaeus
+AOTUSNANCYMAAE	aotus_nancymaae

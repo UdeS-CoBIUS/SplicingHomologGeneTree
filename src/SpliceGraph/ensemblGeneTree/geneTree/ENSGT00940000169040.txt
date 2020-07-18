@@ -1,0 +1,1 @@
+((((ENSACAG00000026695__Anolis_carolinensis,ENSPVIG00000021927__Pogona_vitticeps),ENSSMRG00000009516__Salvator_merianae),ENSOANG00000015465__Ornithorhynchus_anatinus),(ENSCSAVG00000005476__Ciona_savignyi,ENSCING00000022055__Ciona_intestinalis));

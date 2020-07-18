@@ -1,1 +1,0 @@
-((ENSMPUG00000004527__Mustela_putorius_furo,ENSRNOG00000055786__Rattus_norvegicus),ENSDNOG00000036537__Dasypus_novemcinctus);

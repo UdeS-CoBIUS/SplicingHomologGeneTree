@@ -1,0 +1,1 @@
+(ENSMAMG00000016353__Mastacembelus_armatus,ENSORLG00020016663__Oryzias_latipes_ASM223471v1);

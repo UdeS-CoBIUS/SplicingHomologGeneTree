@@ -1,0 +1,1 @@
+(((ENSMUSG00000044820__Mus_musculus_strain_reference_(CL57BL6),MGP_SPRETEiJ_G0033377__Mus_spretus_strain_SPRET/EiJ),MGP_CAROLIEiJ_G0032237__Mus_caroli_strain_CAROLI_EIJ),ENSMOCG00000005458__Microtus_ochrogaster);

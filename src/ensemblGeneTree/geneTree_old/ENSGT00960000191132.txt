@@ -1,1 +1,0 @@
-((ENSMGAG00000016512__Meleagris_gallopavo,ENSZALG00000008628__Zonotrichia_albicollis),ENSNPEG00000009503__Nothoprocta_perdicaria);

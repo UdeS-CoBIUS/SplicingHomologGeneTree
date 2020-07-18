@@ -1,1 +1,0 @@
-((((ENSDORG00000026980__Dipodomys_ordii,ENSDORG00000028548__Dipodomys_ordii),ENSPTIG00000007850__Panthera_tigris_altaica),ENSGAGG00000012067__Gopherus_agassizii),ENSFHEG00000004265__Fundulus_heteroclitus);

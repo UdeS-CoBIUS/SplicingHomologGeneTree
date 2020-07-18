@@ -1,1 +1,0 @@
-(((ENSCSAVG00000011232__Ciona_savignyi,ENSCING00000012483__Ciona_intestinalis),(ENSACAG00000016404__Anolis_carolinensis,ENSSBOG00000034770__Saimiri_boliviensis_boliviensis)),WBGene00017098__Caenorhabditis_elegans_strain_N2);

@@ -1,0 +1,1 @@
+((((ENSAOWG00000005295__Apteryx_owenii,ENSAHAG00000015530__Apteryx_haastii),ENSDNVG00000014881__Dromaius_novaehollandiae),ENSARWG00000000842__Apteryx_rowi),(ENSNMEG00000013585__Numida_meleagris,ENSCJPG00005019738__Coturnix_japonica));

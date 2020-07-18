@@ -1,0 +1,1 @@
+(((((ENSLBEG00000016556__Labrus_bergylta,ENSLBEG00000013057__Labrus_bergylta),ENSLBEG00000019501__Labrus_bergylta),ENSTRUG00000024402__Takifugu_rubripes),(ENSLCAG00010012361__Lates_calcarifer,ENSCSEG00000007985__Cynoglossus_semilaevis)),ENSMALG00000001630__Monopterus_albus);

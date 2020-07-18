@@ -1,0 +1,1 @@
+(((ENSACIG00000003680__Amphilophus_citrinellus,ENSSDUG00000005635__Seriola_dumerili),ENSTNIG00000019497__Tetraodon_nigroviridis),ENSCPGG00000010777__Calidris_pygmaea);

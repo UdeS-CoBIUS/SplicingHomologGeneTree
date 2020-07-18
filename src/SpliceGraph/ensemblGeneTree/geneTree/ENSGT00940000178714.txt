@@ -1,0 +1,1 @@
+((ENSPKIG00000010932__Paramormyrops_kingsleyae,ENSPKIG00000010429__Paramormyrops_kingsleyae),(ENSPNAG00000014902__Pygocentrus_nattereri,ENSAPOG00000012258__Acanthochromis_polyacanthus));

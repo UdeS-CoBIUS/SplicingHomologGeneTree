@@ -1,0 +1,6 @@
+>completeCluster_0
+F14B8.1b.1	FBtr0299908
+>completeCluster_1
+F14B8.1a.1	FBtr0299910
+>completeCluster_2
+FBtr0334173	F14B8.1a.2

@@ -1,0 +1,1 @@
+((ENSBBBG00000001848__Bison_bison_bison,ENSTBEG00000008654__Tupaia_belangeri),ENSETEG00000012924__Echinops_telfairi);

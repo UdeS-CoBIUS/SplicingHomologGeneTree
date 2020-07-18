@@ -1,0 +1,1 @@
+(((ENSCABG00000006186__Chelonoidis_abingdonii,ENSGAGG00000007983__Gopherus_agassizii),ENSUMAG00000006998__Ursus_maritimus),ENSSPAG00000017814__Stegastes_partitus);

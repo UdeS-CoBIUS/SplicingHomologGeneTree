@@ -1,0 +1,1 @@
+((ENSPCOG00000021067__Propithecus_coquereli,ENSPSMG00000008449__Prolemur_simus),ENSCANG00000035202__Colobus_angolensis_palliatus);

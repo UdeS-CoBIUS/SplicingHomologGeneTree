@@ -1,0 +1,1 @@
+((ENSCJPG00005015972__Coturnix_japonica,ENSLSDG00000014029__Lonchura_striata_domestica),ENSAHAG00000003764__Apteryx_haastii);

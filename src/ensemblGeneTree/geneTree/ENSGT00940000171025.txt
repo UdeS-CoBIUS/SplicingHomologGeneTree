@@ -1,0 +1,1 @@
+((ENSAMEG00000016661__Ailuropoda_melanoleuca,ENSOARG00000008671__Ovis_aries),ENSDNOG00000040403__Dasypus_novemcinctus);

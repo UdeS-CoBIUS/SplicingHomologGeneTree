@@ -1,0 +1,1 @@
+(((ENSUAMG00000008129__Ursus_americanus,ENSVVUG00000009586__Vulpes_vulpes),((ENSCGRG00015003074__Cricetulus_griseus_CriGri-PICR,ENSCGRG00015009156__Cricetulus_griseus_CriGri-PICR),ENSMSIG00000002750__Mus_spicilegus)),ENSACAG00000014962__Anolis_carolinensis);

@@ -1,0 +1,1 @@
+(((ENSELUG00000013267__Esox_lucius,ENSDARG00000103034__Danio_rerio),ENSPVIG00000001813__Pogona_vitticeps),((YKR013W__Saccharomyces_cerevisiae_strain_S288C,YJL079C__Saccharomyces_cerevisiae_strain_S288C),YJL078C__Saccharomyces_cerevisiae_strain_S288C));

@@ -1,0 +1,4 @@
+CAPRAHIRCUS	capra_hircus
+OVISARIES	ovis_aries
+BOSTAURUS	bos_taurus
+BOSMUTUS	bos_mutus

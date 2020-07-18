@@ -1,1 +1,0 @@
-(ENSORLG00020009521__Oryzias_latipes_ASM223471v1,ENSSDUG00000020414__Seriola_dumerili);

@@ -1,1 +1,0 @@
-((ENSMUNG00000007743__Melopsittacus_undulatus,ENSDNVG00000004906__Dromaius_novaehollandiae),ENSMMUG00000042043__Macaca_mulatta);

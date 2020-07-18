@@ -1,0 +1,9 @@
+PANPANISCUS	pan_paniscus
+PANTROGLODYTES	pan_troglodytes
+PONGOABELII	pongo_abelii
+MACACAMULATTA	macaca_mulatta
+MACACAFASCICULARIS	macaca_fascicularis
+CERCOCEBUSATYS	cercocebus_atys
+MANDRILLUSLEUCOPHAEUS	mandrillus_leucophaeus
+RHINOPITHECUSROXELLANA	rhinopithecus_roxellana
+COLOBUSANGOLENSISPALLIATUS	colobus_angolensis_palliatus

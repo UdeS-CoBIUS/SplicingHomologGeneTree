@@ -1,0 +1,8 @@
+>0
+ENSAPET00000002210: ['no event', 32, 0]
+ENSAOCT00000010525: ['no event', 32, 0]
+ENSAPOT00000029277: ['exon skipping', 0, 0]
+>1
+ENSAPET00000002210: ['no event', 231, 0]
+ENSAOCT00000010525: ['no event', 231, 0]
+ENSAPOT00000029277: ['5event', 227, 0]

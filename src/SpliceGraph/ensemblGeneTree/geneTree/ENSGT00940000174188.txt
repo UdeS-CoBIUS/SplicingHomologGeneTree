@@ -1,0 +1,1 @@
+((FBgn0032797__Drosophila_melanogaster,FBgn0001083__Drosophila_melanogaster),ENSTRUG00000023813__Takifugu_rubripes);

@@ -1,0 +1,1 @@
+(((ENSMMMG00000010488__Marmota_marmota_marmota,ENSSDAG00000019526__Spermophilus_dauricus),ENSPCOG00000013902__Propithecus_coquereli),ENSUAMG00000027257__Ursus_americanus);

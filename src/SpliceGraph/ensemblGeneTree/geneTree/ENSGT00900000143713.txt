@@ -1,0 +1,1 @@
+(ENSDORG00000023432__Dipodomys_ordii,ENSOANG00000032146__Ornithorhynchus_anatinus);

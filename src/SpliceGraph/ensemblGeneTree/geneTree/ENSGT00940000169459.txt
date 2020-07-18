@@ -1,0 +1,1 @@
+(((ENSCGRG00000006347__Cricetulus_griseus_CriGri_1.0,ENSMOCG00000022620__Microtus_ochrogaster),ENSJJAG00000020557__Jaculus_jaculus),ENSDORG00000025512__Dipodomys_ordii);

@@ -1,1 +1,0 @@
-(ENSAMXG00000039265__Astyanax_mexicanus,ENSFHEG00000010639__Fundulus_heteroclitus);

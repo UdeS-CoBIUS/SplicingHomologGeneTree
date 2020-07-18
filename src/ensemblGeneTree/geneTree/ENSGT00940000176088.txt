@@ -1,0 +1,1 @@
+(((WBGene00007135__Caenorhabditis_elegans_strain_N2,ENSSLDG00000001944__Seriola_lalandi_dorsalis),(ENSPTEG00000009045__Piliocolobus_tephrosceles,ENSPTEG00000015078__Piliocolobus_tephrosceles)),YKL139W__Saccharomyces_cerevisiae_strain_S288C);

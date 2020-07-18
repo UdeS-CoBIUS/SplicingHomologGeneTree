@@ -1,0 +1,1 @@
+((((ENSMVIG00005002095__Manacus_vitellinus,ENSMVIG00005004774__Manacus_vitellinus),(ENSMVIG00005003846__Manacus_vitellinus,ENSMVIG00005007987__Manacus_vitellinus)),(ENSLSDG00000017565__Lonchura_striata_domestica,ENSCCEG00000018187__Cyanistes_caeruleus)),ENSARWG00000005115__Apteryx_rowi);

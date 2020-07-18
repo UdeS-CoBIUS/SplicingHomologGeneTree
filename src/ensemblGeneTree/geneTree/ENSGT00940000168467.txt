@@ -1,0 +1,1 @@
+((((ENSZALG00000005339__Zonotrichia_albicollis,ENSFALG00000004247__Ficedula_albicollis),ENSMUNG00000001435__Melopsittacus_undulatus),ENSDNVG00000008929__Dromaius_novaehollandiae),((ENSAMEG00000015677__Ailuropoda_melanoleuca,ENSCAFG00000031934__Canis_lupus_familiaris),ENSANAG00000036469__Aotus_nancymaae));

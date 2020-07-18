@@ -1,0 +1,1 @@
+((ENSNPEG00000003258__Nothoprocta_perdicaria,ENSCPUG00000007380__Calidris_pugnax),(ENSCABG00000008401__Chelonoidis_abingdonii,ENSGAGG00000005924__Gopherus_agassizii));

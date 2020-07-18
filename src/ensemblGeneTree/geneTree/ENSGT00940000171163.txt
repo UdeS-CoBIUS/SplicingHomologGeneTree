@@ -1,0 +1,1 @@
+((ENSMOCG00000015698__Microtus_ochrogaster,ENSCGRG00001010191__Cricetulus_griseus_CHOK1GS_HDv1),ENSOPRG00000018959__Ochotona_princeps);

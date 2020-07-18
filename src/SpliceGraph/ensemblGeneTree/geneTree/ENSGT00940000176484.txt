@@ -1,0 +1,1 @@
+(((((ENSSPAG00000001218__Stegastes_partitus,ENSPRNG00000026685__Parambassis_ranga),ENSCGOG00000023223__Cottoperca_gobio),ENSHHUG00000019463__Hucho_hucho),(ENSPTEG00000005892__Piliocolobus_tephrosceles,ENSPTEG00000009611__Piliocolobus_tephrosceles)),YNL007C__Saccharomyces_cerevisiae_strain_S288C);

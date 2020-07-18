@@ -1,0 +1,1 @@
+((ENSPNAG00000001301__Pygocentrus_nattereri,ENSAMXG00000041314__Astyanax_mexicanus),ENSLACG00000006203__Latimeria_chalumnae);

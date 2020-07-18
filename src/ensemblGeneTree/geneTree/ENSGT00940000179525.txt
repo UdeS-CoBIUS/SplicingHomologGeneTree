@@ -1,0 +1,1 @@
+((ENSPMGG00000007793__Periophthalmus_magnuspinnatus,ENSATEG00000014227__Anabas_testudineus),ENSSDAG00000007926__Spermophilus_dauricus);

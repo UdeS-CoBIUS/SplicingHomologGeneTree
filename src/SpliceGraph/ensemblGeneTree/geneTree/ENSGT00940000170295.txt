@@ -1,0 +1,1 @@
+((ENSSMAG00000006503__Scophthalmus_maximus,ENSEBUG00000013098__Eptatretus_burgeri),(WBGene00010134__Caenorhabditis_elegans_strain_N2,FBgn0000463__Drosophila_melanogaster));

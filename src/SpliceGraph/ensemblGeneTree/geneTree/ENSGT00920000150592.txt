@@ -1,0 +1,1 @@
+(ENSMPUG00000001271__Mustela_putorius_furo,ENSMUSG00000101725__Mus_musculus_strain_reference_(CL57BL6));

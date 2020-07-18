@@ -1,0 +1,1 @@
+(((ENSABRG00000001917__Anser_brachyrhynchus,ENSAPLG00000028752__Anas_platyrhynchos_platyrhynchos),ENSLCOG00000014293__Lepidothrix_coronata),ENSPNAG00000006060__Pygocentrus_nattereri);

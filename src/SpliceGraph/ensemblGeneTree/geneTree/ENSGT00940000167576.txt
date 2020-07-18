@@ -1,0 +1,1 @@
+(((((ENSCATG00000029603__Cercocebus_atys,ENSPANG00000025296__Papio_anubis),ENSGGOG00000016528__Gorilla_gorilla),ENSMSIG00000007019__Mus_spicilegus),ENSVVUG00000021116__Vulpes_vulpes),ENSLAFG00000003149__Loxodonta_africana);

@@ -1,0 +1,1 @@
+((((ENSLBEG00000016537__Labrus_bergylta,ENSMMOG00000002309__Mola_mola),ENSGACG00000008777__Gasterosteus_aculeatus),(ENSPFOG00000004836__Poecilia_formosa,ENSPFOG00000023049__Poecilia_formosa)),ENSGMOG00000016575__Gadus_morhua);

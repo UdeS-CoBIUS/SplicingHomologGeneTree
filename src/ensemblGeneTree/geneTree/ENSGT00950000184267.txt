@@ -1,0 +1,1 @@
+((ENSACIG00000013137__Amphilophus_citrinellus,ENSSLDG00000003047__Seriola_lalandi_dorsalis),(ENSPKIG00000013443__Paramormyrops_kingsleyae,ENSSFOG00015010447__Scleropages_formosus));

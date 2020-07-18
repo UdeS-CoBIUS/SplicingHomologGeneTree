@@ -1,0 +1,1 @@
+((ENSGAFG00000012516__Gambusia_affinis,ENSPFOG00000024313__Poecilia_formosa),(ENSXCOG00000005645__Xiphophorus_couchianus,ENSXMAG00000022243__Xiphophorus_maculatus));

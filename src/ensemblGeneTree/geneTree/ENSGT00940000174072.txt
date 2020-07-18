@@ -1,0 +1,1 @@
+(ENSRNOG00000057494__Rattus_norvegicus,ENSAMEG00000018838__Ailuropoda_melanoleuca);

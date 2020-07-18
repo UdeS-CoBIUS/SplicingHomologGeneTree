@@ -1,0 +1,1 @@
+((ENSOGAG00000007786__Otolemur_garnettii,ENSFHEG00000020409__Fundulus_heteroclitus),((((FBgn0037553__Drosophila_melanogaster,FBgn0037552__Drosophila_melanogaster),FBgn0038865__Drosophila_melanogaster),FBgn0036494__Drosophila_melanogaster),FBgn0268063__Drosophila_melanogaster));

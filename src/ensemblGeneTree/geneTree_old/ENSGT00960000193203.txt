@@ -1,1 +1,0 @@
-(ENSSCAG00000005331__Serinus_canaria,ENSEBUG00000011467__Eptatretus_burgeri);

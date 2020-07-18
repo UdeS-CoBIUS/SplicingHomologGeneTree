@@ -1,0 +1,1 @@
+(((((ENSACIG00000002322__Amphilophus_citrinellus,ENSSDUG00000002260__Seriola_dumerili),ENSLBEG00000027379__Labrus_bergylta),ENSORLG00000007540__Oryzias_latipes_ASM223467v1),ENSELUG00000010000__Esox_lucius),ENSLSDG00000007571__Lonchura_striata_domestica);

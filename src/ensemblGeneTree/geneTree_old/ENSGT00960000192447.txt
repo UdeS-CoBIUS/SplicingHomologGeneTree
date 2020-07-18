@@ -1,1 +1,0 @@
-(ENSSPUG00000002175__Sphenodon_punctatus,ENSSCAG00000012456__Serinus_canaria);

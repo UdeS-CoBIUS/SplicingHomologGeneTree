@@ -1,1 +1,0 @@
-(((ENSODEG00000010952__Octodon_degus,ENSPPAG00000038890__Pan_paniscus),ENSSHAG00000002335__Sarcophilus_harrisii),ENSPSIG00000011033__Pelodiscus_sinensis);

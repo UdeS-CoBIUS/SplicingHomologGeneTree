@@ -1,1 +1,0 @@
-(((ENSJHYG00000006867__Junco_hyemalis,ENSSCAG00000016093__Serinus_canaria),ENSCJPG00005002891__Coturnix_japonica),(ENSZALG00000000467__Zonotrichia_albicollis,ENSGALG00000054634__Gallus_gallus));

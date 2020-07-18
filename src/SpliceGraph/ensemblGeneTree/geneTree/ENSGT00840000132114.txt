@@ -1,0 +1,1 @@
+((ENSGAGG00000010242__Gopherus_agassizii,ENSOANG00000015199__Ornithorhynchus_anatinus),ENSPMGG00000004713__Periophthalmus_magnuspinnatus);

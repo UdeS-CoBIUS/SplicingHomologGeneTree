@@ -1,0 +1,1 @@
+((((ENSMAUG00000011117__Mesocricetus_auratus,ENSOCUG00000006610__Oryctolagus_cuniculus),ENSNSUG00000013016__Notechis_scutatus),ENSCSEG00000006617__Cynoglossus_semilaevis),ENSCING00000018900__Ciona_intestinalis);

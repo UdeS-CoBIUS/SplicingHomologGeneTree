@@ -1,0 +1,1 @@
+((((ENSONIG00000009580__Oreochromis_niloticus,ENSMZEG00005003806__Maylandia_zebra),ENSMALG00000016147__Monopterus_albus),ENSTNIG00000005812__Tetraodon_nigroviridis),ENSELUG00000009742__Esox_lucius);

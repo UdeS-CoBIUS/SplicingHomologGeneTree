@@ -1,0 +1,1 @@
+((((ENSCCAG00000022505__Cebus_capucinus_imitator,ENSUMAG00000020760__Ursus_maritimus),ENSDNOG00000049018__Dasypus_novemcinctus),(ENSPVIG00000023424__Pogona_vitticeps,ENSAOWG00000008527__Apteryx_owenii)),(ENSMZEG00005025223__Maylandia_zebra,ENSELUG00000024121__Esox_lucius));

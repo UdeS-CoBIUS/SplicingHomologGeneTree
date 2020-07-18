@@ -1,0 +1,6 @@
+>cluster_0
+YDR533C_mRNA
+>cluster_1
+YMR322C_mRNA	YOR391C_mRNA
+>cluster_2
+YPL280W_mRNA

@@ -1,0 +1,1 @@
+(ENSCANG00000011353__Colobus_angolensis_palliatus,ENSCATG00000016948__Cercocebus_atys);

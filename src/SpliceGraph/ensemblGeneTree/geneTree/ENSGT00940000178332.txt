@@ -1,0 +1,1 @@
+((((ENSSPAG00000014725__Stegastes_partitus,ENSAOCG00000006284__Amphiprion_ocellaris),ENSAPEG00000007107__Amphiprion_percula),ENSPNYG00000018126__Pundamilia_nyererei),(ENSLBEG00000008587__Labrus_bergylta,ENSLBEG00000009788__Labrus_bergylta));

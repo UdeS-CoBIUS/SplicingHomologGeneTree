@@ -1,0 +1,1 @@
+((ENSAOWG00000001971__Apteryx_owenii,ENSLSDG00000003103__Lonchura_striata_domestica),ENSORLG00020021562__Oryzias_latipes_ASM223471v1);

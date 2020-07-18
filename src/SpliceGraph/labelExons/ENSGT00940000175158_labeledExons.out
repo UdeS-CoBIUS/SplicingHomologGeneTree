@@ -1,0 +1,12 @@
+>0
+ENSPLAT00000016273: ['no event', 30, 0]
+ENSPCOT00000015448: ['5event', 27, 0]
+>1
+ENSPLAT00000016273: ['no event', 92, 1]
+ENSPCOT00000015448: ['no event', 92, 1]
+>2
+ENSPLAT00000016273: ['exon skipping', 0, 0]
+ENSPCOT00000015448: ['no event', 22, 1]
+>3
+ENSPLAT00000016273: ['5event', 97, 1]
+ENSPCOT00000015448: ['exon skipping', 0, 0]

@@ -1,0 +1,1 @@
+(((((ENSCPOG00000008209__Cavia_porcellus,ENSCAPG00000009842__Cavia_aperea),ENSCLAG00000000680__Chinchilla_lanigera),ENSODEG00000009476__Octodon_degus),ENSDORG00000024050__Dipodomys_ordii),(ENSNGAG00000007282__Nannospalax_galili,ENSCGRG00000012503__Cricetulus_griseus_CriGri_1.0));

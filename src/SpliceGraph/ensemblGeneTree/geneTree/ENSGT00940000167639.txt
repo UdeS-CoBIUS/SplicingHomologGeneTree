@@ -1,0 +1,1 @@
+(((((ENSCAPG00000016487__Cavia_aperea,ENSCPOG00000030766__Cavia_porcellus),ENSODEG00000000475__Octodon_degus),ENSHGLG00000019139__Heterocephalus_glaber_HetGla_female_1.0),ENSDORG00000024371__Dipodomys_ordii),ENSMOCG00000002371__Microtus_ochrogaster);

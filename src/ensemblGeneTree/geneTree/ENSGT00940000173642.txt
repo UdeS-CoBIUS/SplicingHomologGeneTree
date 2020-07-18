@@ -1,0 +1,1 @@
+((ENSJHYG00000014832__Junco_hyemalis,ENSRROG00000030137__Rhinopithecus_roxellana),(((ENSMMOG00000021770__Mola_mola,ENSLBEG00000013615__Labrus_bergylta),ENSACIG00000019550__Amphilophus_citrinellus),(ENSHCOG00000005362__Hippocampus_comes,ENSHCOG00000005370__Hippocampus_comes)));

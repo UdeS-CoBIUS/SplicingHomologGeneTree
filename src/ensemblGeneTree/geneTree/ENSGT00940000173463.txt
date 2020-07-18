@@ -1,0 +1,1 @@
+(ENSPVAG00000008143__Pteropus_vampyrus,ENSMMUG00000039566__Macaca_mulatta);

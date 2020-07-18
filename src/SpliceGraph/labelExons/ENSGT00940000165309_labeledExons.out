@@ -1,0 +1,90 @@
+>0
+ENSSPUT00000016960: ['exon skipping', 0, 0]
+ENSACAT00000029942: ['exon skipping', 0, 0]
+ENSGAGT00000035206: ['no event', 4, 0]
+ENSABRT00000027698: ['exon skipping', 0, 0]
+>1
+ENSSPUT00000016960: ['exon skipping', 0, 0]
+ENSACAT00000029942: ['5event', 15, 0]
+ENSGAGT00000035206: ['exon skipping', 0, 0]
+ENSABRT00000027698: ['exon skipping', 0, 0]
+>2
+ENSSPUT00000016960: ['exon skipping', 0, 0]
+ENSACAT00000029942: ['exon skipping', 0, 0]
+ENSGAGT00000035206: ['exon skipping', 0, 0]
+ENSABRT00000027698: ['5event', 60, 0]
+>3
+ENSSPUT00000016960: ['exon skipping', 0, 0]
+ENSACAT00000029942: ['exon skipping', 0, 0]
+ENSGAGT00000035206: ['exon skipping', 0, 0]
+ENSABRT00000027698: ['no event', 146, 1]
+>4
+ENSSPUT00000016960: ['exon skipping', 0, 0]
+ENSACAT00000029942: ['5event', 159, 1]
+ENSGAGT00000035206: ['exon skipping', 0, 0]
+ENSABRT00000027698: ['no event', 161, 1]
+>5
+ENSSPUT00000016960: ['exon skipping', 0, 0]
+ENSACAT00000029942: ['no event', 91, 2]
+ENSGAGT00000035206: ['exon skipping', 0, 0]
+ENSABRT00000027698: ['no event', 91, 2]
+>6
+ENSSPUT00000016960: ['5event', 169, 0]
+ENSACAT00000029942: ['exon skipping', 0, 0]
+ENSGAGT00000035206: ['exon skipping', 0, 0]
+ENSABRT00000027698: ['exon skipping', 0, 0]
+>7
+ENSSPUT00000016960: [['internal gap >= 30', 1, 40], 193, 2]
+ENSACAT00000029942: ['5event', 232, 1]
+ENSGAGT00000035206: ['exon skipping', 0, 0]
+ENSABRT00000027698: ['5event', 232, 1]
+>8
+ENSSPUT00000016960: ['no event', 236, 0]
+ENSACAT00000029942: ['no event', 236, 0]
+ENSGAGT00000035206: ['exon skipping', 0, 0]
+ENSABRT00000027698: ['no event', 236, 0]
+>9
+ENSSPUT00000016960: ['exon skipping', 0, 0]
+ENSACAT00000029942: ['exon skipping', 0, 0]
+ENSGAGT00000035206: ['5event', 129, 2]
+ENSABRT00000027698: ['exon skipping', 0, 0]
+>10
+ENSSPUT00000016960: ['3event', '5event', 57, 0]
+ENSACAT00000029942: ['5event', ['internal gap < 30', 59, 3], 77, 0]
+ENSGAGT00000035206: ['exon skipping', 0, 0]
+ENSABRT00000027698: ['5event', ['internal gap < 30', 42, 3], 77, 0]
+>11
+ENSSPUT00000016960: ['exon skipping', 0, 0]
+ENSACAT00000029942: ['exon skipping', 0, 0]
+ENSGAGT00000035206: ['5event', 41, 0]
+ENSABRT00000027698: ['exon skipping', 0, 0]
+>12
+ENSSPUT00000016960: ['5event', 216, 0]
+ENSACAT00000029942: ['5event', 213, 0]
+ENSGAGT00000035206: ['exon skipping', 0, 0]
+ENSABRT00000027698: ['5event', 216, 0]
+>13
+ENSSPUT00000016960: ['no event', 208, 1]
+ENSACAT00000029942: ['no event', 208, 1]
+ENSGAGT00000035206: ['exon skipping', 0, 0]
+ENSABRT00000027698: ['no event', 208, 1]
+>14
+ENSSPUT00000016960: ['no event', 72, 0]
+ENSACAT00000029942: ['no event', 72, 0]
+ENSGAGT00000035206: ['exon skipping', 0, 0]
+ENSABRT00000027698: ['no event', 72, 0]
+>15
+ENSSPUT00000016960: ['no event', 117, 1]
+ENSACAT00000029942: ['no event', 117, 1]
+ENSGAGT00000035206: ['exon skipping', 0, 0]
+ENSABRT00000027698: ['no event', 117, 1]
+>16
+ENSSPUT00000016960: ['exon skipping', 0, 0]
+ENSACAT00000029942: ['no event', 195, 2]
+ENSGAGT00000035206: ['exon skipping', 0, 0]
+ENSABRT00000027698: ['no event', 195, 2]
+>17
+ENSSPUT00000016960: ['5event', 48, 2]
+ENSACAT00000029942: ['exon skipping', 0, 0]
+ENSGAGT00000035206: ['exon skipping', 0, 0]
+ENSABRT00000027698: ['exon skipping', 0, 0]

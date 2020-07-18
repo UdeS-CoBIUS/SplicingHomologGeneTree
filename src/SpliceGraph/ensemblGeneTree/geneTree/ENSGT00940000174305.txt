@@ -1,0 +1,1 @@
+(((ENSGACG00000002443__Gasterosteus_aculeatus,ENSORLG00015019972__Oryzias_latipes_ASM223469v1),ENSCSEG00000008203__Cynoglossus_semilaevis),ENSGMOG00000002092__Gadus_morhua);

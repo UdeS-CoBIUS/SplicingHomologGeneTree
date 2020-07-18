@@ -1,0 +1,1 @@
+(((ENSMMOG00000005096__Mola_mola,ENSORLG00015007917__Oryzias_latipes_ASM223469v1),ENSGMOG00000019140__Gadus_morhua),ENSPKIG00000005461__Paramormyrops_kingsleyae);

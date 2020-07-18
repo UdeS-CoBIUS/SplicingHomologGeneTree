@@ -1,1 +1,0 @@
-((ENSMSIG00000005645__Mus_spicilegus,ENSMUGG00000004156__Meriones_unguiculatus),ENSPEMG00000026029__Peromyscus_maniculatus_bairdii);

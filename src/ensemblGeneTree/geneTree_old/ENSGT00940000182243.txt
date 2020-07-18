@@ -1,1 +1,0 @@
-(ENSHBUG00000022893__Haplochromis_burtoni,ENSNBRG00000008916__Neolamprologus_brichardi);

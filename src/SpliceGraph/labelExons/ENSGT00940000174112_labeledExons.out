@@ -1,0 +1,18 @@
+>0
+ENSEBUT00000020289: ['5event', 30, 0]
+ENSEBUT00000017181: ['no event', 204, 0]
+>1
+ENSEBUT00000020289: ['no event', 116, 1]
+ENSEBUT00000017181: [['internal gap < 30', 37, 3], 113, 1]
+>2
+ENSEBUT00000020289: [['internal gap < 30', 110, 6], 185, 1]
+ENSEBUT00000017181: ['no event', 191, 1]
+>3
+ENSEBUT00000020289: ['no event', 71, 1]
+ENSEBUT00000017181: [['internal gap < 30', 3, 6], 65, 1]
+>4
+ENSEBUT00000020289: ['no event', 169, 1]
+ENSEBUT00000017181: ['exon skipping', 0, 0]
+>5
+ENSEBUT00000020289: ['exon skipping', 0, 0]
+ENSEBUT00000017181: ['5event', 28, 1]

@@ -1,0 +1,3 @@
+CALIDRISPUGNAX	calidris_pugnax
+NOTHOPROCTAPERDICARIA	nothoprocta_perdicaria
+SUSSCROFA	sus_scrofa

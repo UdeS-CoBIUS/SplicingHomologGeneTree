@@ -1,0 +1,3 @@
+COTURNIXJAPONICA	coturnix_japonica
+COTURNIXJAPONICA	coturnix_japonica
+GALLUSGALLUS	gallus_gallus

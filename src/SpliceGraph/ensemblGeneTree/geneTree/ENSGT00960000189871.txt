@@ -1,0 +1,1 @@
+(((ENSSDAG00000007265__Spermophilus_dauricus,ENSUPAG00010006847__Urocitellus_parryii),ENSSDAG00000010364__Spermophilus_dauricus),ENSJHYG00000013865__Junco_hyemalis);

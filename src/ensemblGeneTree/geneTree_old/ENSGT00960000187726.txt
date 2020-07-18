@@ -1,1 +1,0 @@
-(((ENSMUGG00000006454__Meriones_unguiculatus,ENSCGRG00015025044__Cricetulus_griseus_CriGri-PICR),((ENSECAG00000036395__Equus_caballus,ENSEASG00005005041__Equus_asinus_asinus),ENSVPAG00000001122__Vicugna_pacos)),ENSCPGG00000000736__Calidris_pygmaea);

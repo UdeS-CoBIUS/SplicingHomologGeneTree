@@ -1,0 +1,1 @@
+(((ENSXMAG00000025334__Xiphophorus_maculatus,ENSPLAG00000016272__Poecilia_latipinna),(ENSNBRG00000012213__Neolamprologus_brichardi,ENSAPOG00000006018__Acanthochromis_polyacanthus)),(ENSCSEG00000008190__Cynoglossus_semilaevis,ENSCSEG00000019189__Cynoglossus_semilaevis));

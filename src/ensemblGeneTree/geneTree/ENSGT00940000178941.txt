@@ -1,0 +1,1 @@
+(((ENSACIG00000012184__Amphilophus_citrinellus,ENSNBRG00000023546__Neolamprologus_brichardi),ENSCVAG00000012064__Cyprinodon_variegatus),ENSLBEG00000009503__Labrus_bergylta);

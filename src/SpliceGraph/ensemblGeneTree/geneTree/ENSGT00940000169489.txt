@@ -1,0 +1,1 @@
+((((ENSCCAG00000027746__Cebus_capucinus_imitator,ENSPTRG00000050327__Pan_troglodytes),ENSEEUG00000013494__Erinaceus_europaeus),(ENSSCAG00000001939__Serinus_canaria,ENSGALG00000054180__Gallus_gallus)),ENSTNIG00000005910__Tetraodon_nigroviridis);

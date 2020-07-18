@@ -1,0 +1,15 @@
+>0
+ENSMSIT00000009982: [['internal gap < 30', 40, 1], 242, 0]
+ENSMSIT00000036137: [['internal gap < 30', 40, 1], 242, 0]
+ENSMSIT00000010077: [['internal gap < 30', 98, 7], 236, 0]
+ENSCJAT00000110120: ['3event', '5event', 186, 0]
+>1
+ENSMSIT00000009982: ['exon skipping', 0, 0]
+ENSMSIT00000036137: ['exon skipping', 0, 0]
+ENSMSIT00000010077: ['exon skipping', 0, 0]
+ENSCJAT00000110120: ['5event', 14, 0]
+>2
+ENSMSIT00000009982: ['exon skipping', 0, 0]
+ENSMSIT00000036137: ['exon skipping', 0, 0]
+ENSMSIT00000010077: ['5event', 83, 0]
+ENSCJAT00000110120: ['exon skipping', 0, 0]

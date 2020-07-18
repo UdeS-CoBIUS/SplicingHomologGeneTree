@@ -1,0 +1,1 @@
+((((((ENSMVIG00005007752__Manacus_vitellinus,ENSMVIG00005004152__Manacus_vitellinus),(ENSMVIG00005002269__Manacus_vitellinus,ENSMVIG00005010970__Manacus_vitellinus)),ENSMVIG00005007403__Manacus_vitellinus),ENSMVIG00005007176__Manacus_vitellinus),ENSMVIG00005016224__Manacus_vitellinus),ENSSDUG00000019105__Seriola_dumerili);

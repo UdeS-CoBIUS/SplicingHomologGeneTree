@@ -1,1 +1,0 @@
-((ENSMVIG00005001936__Manacus_vitellinus,ENSFALG00000015048__Ficedula_albicollis),ENSORLG00015005868__Oryzias_latipes_ASM223469v1);

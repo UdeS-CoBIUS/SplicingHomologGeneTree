@@ -1,0 +1,1 @@
+((((ENSACLG00000011623__Astatotilapia_calliptera,ENSHBUG00000012479__Haplochromis_burtoni),ENSMZEG00005025685__Maylandia_zebra),ENSNBRG00000018487__Neolamprologus_brichardi),((ENSXMAG00000020384__Xiphophorus_maculatus,ENSXCOG00000006561__Xiphophorus_couchianus),ENSPMEG00000001357__Poecilia_mexicana));

@@ -1,1 +1,0 @@
-((((ENSAPEG00000018927__Amphiprion_percula,ENSAOCG00000005423__Amphiprion_ocellaris),ENSACIG00000005173__Amphilophus_citrinellus),ENSLBEG00000002867__Labrus_bergylta),ENSCSEG00000001374__Cynoglossus_semilaevis);

@@ -1,0 +1,1 @@
+(ENSNVIG00000013480__Neovison_vison,ENSMSIG00000028777__Mus_spicilegus);

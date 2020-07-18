@@ -1,0 +1,1 @@
+((ENSMPUG00000008872__Mustela_putorius_furo,ENSOCUG00000023865__Oryctolagus_cuniculus),ENSPMAG00000004716__Petromyzon_marinus);

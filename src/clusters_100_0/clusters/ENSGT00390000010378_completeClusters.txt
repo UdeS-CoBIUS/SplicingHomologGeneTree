@@ -1,0 +1,4 @@
+>completeCluster_0
+T09A12.1.1	C17E4.1a.1	F33D11.2.1	T04B2.7.1
+>completeCluster_1
+F33D11.2.2	C17E4.1b.1	T04B2.7.1	T09A12.1.1

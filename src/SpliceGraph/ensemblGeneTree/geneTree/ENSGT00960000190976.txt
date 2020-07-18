@@ -1,0 +1,1 @@
+((ENSSDAG00000003337__Spermophilus_dauricus,ENSSDAG00000015011__Spermophilus_dauricus),ENSTGEG00000026306__Theropithecus_gelada);

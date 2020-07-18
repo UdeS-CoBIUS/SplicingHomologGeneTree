@@ -1,0 +1,1 @@
+(((((ENSNPEG00000004542__Nothoprocta_perdicaria,ENSARWG00000000376__Apteryx_rowi),ENSAPLG00000026279__Anas_platyrhynchos_platyrhynchos),ENSACAG00000024409__Anolis_carolinensis),WBGene00009798__Caenorhabditis_elegans_strain_N2),YJR107W__Saccharomyces_cerevisiae_strain_S288C);

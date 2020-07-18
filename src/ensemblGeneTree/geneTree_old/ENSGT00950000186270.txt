@@ -1,1 +1,0 @@
-((((ENSCCEG00000002884__Cyanistes_caeruleus,ENSGALG00000053228__Gallus_gallus),ENSNSUG00000000458__Notechis_scutatus),(ENSPTEG00000012275__Piliocolobus_tephrosceles,ENSPCIG00000032514__Phascolarctos_cinereus)),ENSPMGG00000011511__Periophthalmus_magnuspinnatus);

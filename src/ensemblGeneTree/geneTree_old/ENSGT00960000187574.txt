@@ -1,1 +1,0 @@
-(((((ENSCPRG00005014851__Crocodylus_porosus,ENSCPBG00000007447__Chrysemys_picta_bellii),ENSCJPG00005003614__Coturnix_japonica),(ENSSMRG00000020695__Salvator_merianae,ENSNSUG00000011056__Notechis_scutatus)),ENSSMRG00000000641__Salvator_merianae),(ENSMMOG00000011194__Mola_mola,ENSACIG00000021298__Amphilophus_citrinellus));

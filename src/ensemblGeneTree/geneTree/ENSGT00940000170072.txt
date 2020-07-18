@@ -1,0 +1,1 @@
+(((ENSCAFG00000023425__Canis_lupus_familiaris,ENSMPUG00000016970__Mustela_putorius_furo),ENSMODG00000016474__Monodelphis_domestica),ENSZALG00000004644__Zonotrichia_albicollis);

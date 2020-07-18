@@ -1,0 +1,3 @@
+RHINOPITHECUSROXELLANA	rhinopithecus_roxellana
+RHINOPITHECUSBIETI	rhinopithecus_bieti
+THEROPITHECUSGELADA	theropithecus_gelada

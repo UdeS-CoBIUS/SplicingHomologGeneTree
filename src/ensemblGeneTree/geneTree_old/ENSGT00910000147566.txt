@@ -1,1 +1,0 @@
-((((ENSRROG00000035492__Rhinopithecus_roxellana,ENSRBIG00000044801__Rhinopithecus_bieti),ENSCANG00000027780__Colobus_angolensis_palliatus),ENSG00000273734__Homo_sapiens),ENSANAG00000024844__Aotus_nancymaae);

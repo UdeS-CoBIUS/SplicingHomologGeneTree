@@ -1,0 +1,1 @@
+((((ENSXCOG00000002478__Xiphophorus_couchianus,ENSTRUG00000023939__Takifugu_rubripes),ENSMALG00000020578__Monopterus_albus),ENSPKIG00000011219__Paramormyrops_kingsleyae),ENSSPUG00000014650__Sphenodon_punctatus);

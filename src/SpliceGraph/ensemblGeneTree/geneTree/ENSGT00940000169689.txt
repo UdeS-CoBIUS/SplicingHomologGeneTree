@@ -1,0 +1,1 @@
+((ENSCAPG00000013122__Cavia_aperea,ENSCPOG00000001819__Cavia_porcellus),ENSCLAG00000014366__Chinchilla_lanigera);

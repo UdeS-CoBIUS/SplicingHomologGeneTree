@@ -1,0 +1,1 @@
+((((((ENSLBEG00000021802__Labrus_bergylta,ENSLBEG00000027189__Labrus_bergylta),ENSELUG00000005690__Esox_lucius),ENSTRUG00000024362__Takifugu_rubripes),ENSPKIG00000017721__Paramormyrops_kingsleyae),ENSCCEG00000006522__Cyanistes_caeruleus),ENSEBUG00000007056__Eptatretus_burgeri);

@@ -1,0 +1,1 @@
+((((ENSETEG00000012873__Echinops_telfairi,ENSEEUG00000000542__Erinaceus_europaeus),(ENSAPOG00000011011__Acanthochromis_polyacanthus,ENSAPOG00000013848__Acanthochromis_polyacanthus)),ENSPTEG00000001610__Piliocolobus_tephrosceles),(ENSCSAVG00000007117__Ciona_savignyi,ENSCING00000020585__Ciona_intestinalis));

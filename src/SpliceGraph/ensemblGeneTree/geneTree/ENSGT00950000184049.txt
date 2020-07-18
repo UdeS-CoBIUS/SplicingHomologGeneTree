@@ -1,0 +1,1 @@
+(((ENSTGUG00000004324__Taeniopygia_guttata,ENSFALG00000001730__Ficedula_albicollis),ENSABRG00000008961__Anser_brachyrhynchus),((ENSAHAG00000011551__Apteryx_haastii,ENSARWG00000013278__Apteryx_rowi),ENSDNVG00000004563__Dromaius_novaehollandiae));

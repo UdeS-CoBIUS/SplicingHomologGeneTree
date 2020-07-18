@@ -1,0 +1,1 @@
+(((ENSAOCG00000007503__Amphiprion_ocellaris,ENSCGOG00000005148__Cottoperca_gobio),ENSPMGG00000017577__Periophthalmus_magnuspinnatus),(ENSELUG00000016685__Esox_lucius,ENSELUG00000016703__Esox_lucius));

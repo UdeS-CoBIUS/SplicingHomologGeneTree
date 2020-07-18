@@ -1,0 +1,1 @@
+((MGP_SPRETEiJ_G0020511__Mus_spretus_strain_SPRET/EiJ,MGP_CAROLIEiJ_G0019614__Mus_caroli_strain_CAROLI_EIJ),ENSMOCG00000002020__Microtus_ochrogaster);

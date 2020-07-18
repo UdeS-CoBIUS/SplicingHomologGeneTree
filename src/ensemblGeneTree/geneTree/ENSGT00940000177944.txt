@@ -1,0 +1,1 @@
+(((((ENSPNAG00000014793__Pygocentrus_nattereri,ENSPNAG00000023603__Pygocentrus_nattereri),ENSPNAG00000011189__Pygocentrus_nattereri),ENSPNAG00000014775__Pygocentrus_nattereri),ENSIPUG00000017945__Ictalurus_punctatus),(ENSMMOG00000010406__Mola_mola,ENSMMOG00000011932__Mola_mola));

@@ -1,1 +1,0 @@
-((ENSCJAG00000045455__Callithrix_jacchus,ENSSBOG00000031947__Saimiri_boliviensis_boliviensis),ENSANAG00000021549__Aotus_nancymaae);

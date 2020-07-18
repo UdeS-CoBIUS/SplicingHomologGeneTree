@@ -1,0 +1,1 @@
+((ENSGMOG00000020008__Gadus_morhua,ENSHBUG00000001858__Haplochromis_burtoni),ENSPKIG00000015155__Paramormyrops_kingsleyae);

@@ -1,0 +1,1 @@
+(((((ENSMMUG00000029992__Macaca_mulatta,ENSPTEG00000013415__Piliocolobus_tephrosceles),ENSPPYG00000029395__Pongo_abelii),ENSPTEG00000003966__Piliocolobus_tephrosceles),ENSANAG00000020448__Aotus_nancymaae),ENSGAGG00000002178__Gopherus_agassizii);

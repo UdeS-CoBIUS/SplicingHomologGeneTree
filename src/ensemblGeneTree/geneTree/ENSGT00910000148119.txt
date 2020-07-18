@@ -1,0 +1,1 @@
+(((ENSRBIG00000024369__Rhinopithecus_bieti,ENSPTEG00000022438__Piliocolobus_tephrosceles),((ENSMNEG00000022181__Macaca_nemestrina,ENSTGEG00000003632__Theropithecus_gelada),ENSPANG00000033316__Papio_anubis)),ENSPTRG00000048732__Pan_troglodytes);

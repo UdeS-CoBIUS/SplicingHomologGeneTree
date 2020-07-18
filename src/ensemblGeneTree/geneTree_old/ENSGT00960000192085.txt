@@ -1,1 +1,0 @@
-(ENSAHAG00000017113__Apteryx_haastii,ENSMMUG00000045426__Macaca_mulatta);

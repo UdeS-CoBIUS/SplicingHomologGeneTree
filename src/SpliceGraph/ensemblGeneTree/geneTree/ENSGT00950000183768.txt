@@ -1,0 +1,1 @@
+(((ENSCGRG00000009019__Cricetulus_griseus_CriGri_1.0,ENSCGRG00001003389__Cricetulus_griseus_CHOK1GS_HDv1),ENSMOCG00000005186__Microtus_ochrogaster),(ENSMUSG00000071398__Mus_musculus_strain_reference_(CL57BL6),MGP_SPRETEiJ_G0018474__Mus_spretus_strain_SPRET/EiJ));

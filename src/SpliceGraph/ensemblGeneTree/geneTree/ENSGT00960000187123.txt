@@ -1,0 +1,1 @@
+((((ENSMMMG00000015340__Marmota_marmota_marmota,ENSOPRG00000018988__Ochotona_princeps),ENSMEUG00000007445__Notamacropus_eugenii),(((ENSFALG00000008009__Ficedula_albicollis,ENSZALG00000006097__Zonotrichia_albicollis),ENSTGUG00000017344__Taeniopygia_guttata),ENSGALG00000047463__Gallus_gallus)),ENSEBUG00000013859__Eptatretus_burgeri);

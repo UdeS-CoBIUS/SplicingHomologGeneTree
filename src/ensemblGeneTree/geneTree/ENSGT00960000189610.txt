@@ -1,0 +1,1 @@
+(((ENSMMMG00000016327__Marmota_marmota_marmota,ENSMMMG00000001799__Marmota_marmota_marmota),ENSUPAG00010010321__Urocitellus_parryii),((ENSBMUG00000020646__Bos_mutus,ENSBBBG00000020825__Bison_bison_bison),ENSBTAG00000054087__Bos_taurus));

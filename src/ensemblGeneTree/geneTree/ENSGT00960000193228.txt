@@ -1,0 +1,1 @@
+(ENSXMAG00000023375__Xiphophorus_maculatus,ENSLSDG00000006364__Lonchura_striata_domestica);

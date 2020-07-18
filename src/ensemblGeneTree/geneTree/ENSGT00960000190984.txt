@@ -1,0 +1,1 @@
+((ENSMMMG00000024362__Marmota_marmota_marmota,ENSSDAG00000005579__Spermophilus_dauricus),ENSSTOG00000030608__Ictidomys_tridecemlineatus);

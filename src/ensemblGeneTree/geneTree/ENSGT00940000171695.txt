@@ -1,0 +1,1 @@
+((((ENSSARG00000000470__Sorex_araneus,ENSEEUG00000006363__Erinaceus_europaeus),((ENSECAG00000031994__Equus_caballus,ENSEASG00005018686__Equus_asinus_asinus),ENSUAMG00000014735__Ursus_americanus)),ENSBMUG00000006955__Bos_mutus),ENSPEMG00000031352__Peromyscus_maniculatus_bairdii);

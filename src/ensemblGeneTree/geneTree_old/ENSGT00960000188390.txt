@@ -1,1 +1,0 @@
-((ENSPMGG00000006559__Periophthalmus_magnuspinnatus,ENSEBUG00000014638__Eptatretus_burgeri),ENSCSAVG00000005573__Ciona_savignyi);

@@ -1,0 +1,1 @@
+(((ENSPCOG00000001221__Propithecus_coquereli,ENSMMMG00000001518__Marmota_marmota_marmota),ENSBBBG00000007635__Bison_bison_bison),ENSMZEG00005025712__Maylandia_zebra);

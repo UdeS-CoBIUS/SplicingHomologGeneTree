@@ -1,0 +1,1 @@
+((((ENSMSIG00000011157__Mus_spicilegus,ENSMUGG00000003013__Meriones_unguiculatus),ENSUPAG00010010710__Urocitellus_parryii),((ENSPSMG00000011792__Prolemur_simus,ENSPSMG00000021414__Prolemur_simus),ENSCCAG00000035954__Cebus_capucinus_imitator)),((ENSUMAG00000017537__Ursus_maritimus,ENSCAFG00020005182__Canis_lupus_dingo),ENSSSCG00000031922__Sus_scrofa));

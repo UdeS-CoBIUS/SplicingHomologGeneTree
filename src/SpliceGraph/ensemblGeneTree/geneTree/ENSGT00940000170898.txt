@@ -1,0 +1,1 @@
+(((ENSPCAG00000001653__Procavia_capensis,ENSMSIG00000029763__Mus_spicilegus),ENSSARG00000004706__Sorex_araneus),ENSOANG00000029870__Ornithorhynchus_anatinus);

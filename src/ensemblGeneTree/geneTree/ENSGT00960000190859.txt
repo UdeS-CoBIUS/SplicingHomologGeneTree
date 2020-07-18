@@ -1,0 +1,1 @@
+((ENSPTEG00000031049__Piliocolobus_tephrosceles,ENSPTEG00000021012__Piliocolobus_tephrosceles),ENSPPYG00000017712__Pongo_abelii);

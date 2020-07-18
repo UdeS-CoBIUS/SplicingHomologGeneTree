@@ -1,0 +1,1 @@
+((((ENSMMOG00000005098__Mola_mola,ENSGACG00000020258__Gasterosteus_aculeatus),ENSPFOG00000018651__Poecilia_formosa),(ENSPSIG00000018104__Pelodiscus_sinensis,ENSMPUG00000002984__Mustela_putorius_furo)),ENSCING00000020377__Ciona_intestinalis);

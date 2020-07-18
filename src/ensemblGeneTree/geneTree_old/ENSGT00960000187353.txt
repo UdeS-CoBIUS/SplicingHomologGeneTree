@@ -1,1 +1,0 @@
-((ENSEBUG00000015188__Eptatretus_burgeri,ENSGALG00000051461__Gallus_gallus),((((ENSCGRG00015019516__Cricetulus_griseus_CriGri-PICR,ENSEBUG00000006131__Eptatretus_burgeri),ENSEBUG00000000966__Eptatretus_burgeri),ENSCGRG00015013771__Cricetulus_griseus_CriGri-PICR),ENSMODG00000027626__Monodelphis_domestica));

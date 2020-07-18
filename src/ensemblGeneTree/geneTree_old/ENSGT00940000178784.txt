@@ -1,1 +1,0 @@
-(((ENSNBRG00000001633__Neolamprologus_brichardi,ENSMMOG00000014683__Mola_mola),ENSMALG00000017140__Monopterus_albus),ENSPMGG00000021221__Periophthalmus_magnuspinnatus);

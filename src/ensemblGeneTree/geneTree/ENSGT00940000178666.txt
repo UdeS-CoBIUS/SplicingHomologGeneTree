@@ -1,0 +1,1 @@
+((ENSXCOG00000017781__Xiphophorus_couchianus,ENSXMAG00000028186__Xiphophorus_maculatus),(ENSPMEG00000001227__Poecilia_mexicana,ENSPLAG00000011646__Poecilia_latipinna));

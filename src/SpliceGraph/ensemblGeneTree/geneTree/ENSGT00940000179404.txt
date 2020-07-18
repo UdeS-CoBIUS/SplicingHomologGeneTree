@@ -1,0 +1,1 @@
+(ENSAMXG00000039604__Astyanax_mexicanus,ENSPMGG00000004782__Periophthalmus_magnuspinnatus);

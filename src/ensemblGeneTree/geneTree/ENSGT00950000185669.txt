@@ -1,0 +1,1 @@
+(((ENSGAGG00000006354__Gopherus_agassizii,ENSCPGG00000006668__Calidris_pygmaea),(ENSNSUG00000003832__Notechis_scutatus,ENSSMRG00000006541__Salvator_merianae)),ENSUAMG00000012933__Ursus_americanus);

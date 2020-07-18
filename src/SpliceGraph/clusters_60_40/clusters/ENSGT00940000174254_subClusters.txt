@@ -1,0 +1,6 @@
+>cluster_0
+C26D10.1.1	FBtr0077075
+>cluster_1
+YGL097W_mRNA	FBtr0077074
+>cluster_2
+FBtr0077076

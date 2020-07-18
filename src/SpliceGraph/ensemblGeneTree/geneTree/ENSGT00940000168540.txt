@@ -1,0 +1,1 @@
+((((ENSDNOG00000037524__Dasypus_novemcinctus,ENSDNOG00000031985__Dasypus_novemcinctus),(ENSDNOG00000048627__Dasypus_novemcinctus,ENSDNOG00000038615__Dasypus_novemcinctus)),(ENSDNOG00000004578__Dasypus_novemcinctus,ENSDNOG00000024362__Dasypus_novemcinctus)),ENSEEUG00000001913__Erinaceus_europaeus);

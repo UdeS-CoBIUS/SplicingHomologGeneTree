@@ -1,0 +1,1 @@
+((((ENSCGRG00015004270__Cricetulus_griseus_CriGri-PICR,ENSCGRG00015001293__Cricetulus_griseus_CriGri-PICR),ENSCGRG00015001289__Cricetulus_griseus_CriGri-PICR),ENSBIXG00005006831__Bos_indicus_x_Bos_taurus_UOA_Brahman_1),ENSXCOG00000000570__Xiphophorus_couchianus);

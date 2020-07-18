@@ -1,1 +1,0 @@
-((((ENSUPAG00010013827__Urocitellus_parryii,ENSMMMG00000017708__Marmota_marmota_marmota),ENSSDAG00000000972__Spermophilus_dauricus),ENSTTRG00000016162__Tursiops_truncatus),ENSPCAG00000016727__Procavia_capensis);

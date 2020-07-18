@@ -1,0 +1,1 @@
+(((((ENSPPAG00000006869__Pan_paniscus,ENSPTRG00000028313__Pan_troglodytes),ENSG00000184735__Homo_sapiens),ENSPPYG00000020185__Pongo_abelii),((ENSCSAG00000019540__Chlorocebus_sabaeus,ENSTGEG00000022655__Theropithecus_gelada),ENSPTEG00000011534__Piliocolobus_tephrosceles)),(ENSCCAG00000021534__Cebus_capucinus_imitator,ENSCCAG00000024171__Cebus_capucinus_imitator));

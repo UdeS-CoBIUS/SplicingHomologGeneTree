@@ -1,0 +1,1 @@
+((ENSFHEG00000016105__Fundulus_heteroclitus,ENSPMGG00000018376__Periophthalmus_magnuspinnatus),ENSTRUG00000024216__Takifugu_rubripes);

@@ -1,1 +1,0 @@
-((ENSPKIG00000002062__Paramormyrops_kingsleyae,ENSPKIG00000005457__Paramormyrops_kingsleyae),ENSKMAG00000009389__Kryptolebias_marmoratus);

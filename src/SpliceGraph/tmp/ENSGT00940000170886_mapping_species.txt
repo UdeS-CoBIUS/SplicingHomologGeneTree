@@ -1,0 +1,4 @@
+DROSOPHILAMELANOGASTER	drosophila_melanogaster
+DROSOPHILAMELANOGASTER	drosophila_melanogaster
+CIONAINTESTINALIS	ciona_intestinalis
+CIONASAVIGNYI	ciona_savignyi

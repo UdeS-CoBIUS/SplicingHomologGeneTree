@@ -1,0 +1,1 @@
+((ENSPTEG00000022383__Piliocolobus_tephrosceles,ENSTGEG00000003191__Theropithecus_gelada),ENSUPAG00010013541__Urocitellus_parryii);

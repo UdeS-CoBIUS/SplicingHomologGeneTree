@@ -1,0 +1,1 @@
+((((ENSRROG00000035001__Rhinopithecus_roxellana,ENSRBIG00000040827__Rhinopithecus_bieti),ENSCANG00000002590__Colobus_angolensis_palliatus),ENSTGEG00000001578__Theropithecus_gelada),ENSPSMG00000024714__Prolemur_simus);

@@ -1,0 +1,1 @@
+((ENSPCIG00000017740__Phascolarctos_cinereus,ENSPCIG00000007348__Phascolarctos_cinereus),ENSMEUG00000003486__Notamacropus_eugenii);

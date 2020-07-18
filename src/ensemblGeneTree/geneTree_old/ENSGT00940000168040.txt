@@ -1,1 +1,0 @@
-(((((ENSUAMG00000016296__Ursus_americanus,ENSAMEG00000019055__Ailuropoda_melanoleuca),ENSPPRG00000023281__Panthera_pardus),(ENSBBBG00000006895__Bison_bison_bison,ENSVPAG00000005536__Vicugna_pacos)),ENSPCIG00000033470__Phascolarctos_cinereus),ENSPVIG00000025391__Pogona_vitticeps);

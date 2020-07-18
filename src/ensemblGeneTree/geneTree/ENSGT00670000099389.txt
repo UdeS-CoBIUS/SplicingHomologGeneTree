@@ -1,0 +1,1 @@
+((ENSONIG00000001531__Oreochromis_niloticus,ENSONIG00000001533__Oreochromis_niloticus),((((ENSMZEG00005009083__Maylandia_zebra,ENSACLG00000003049__Astatotilapia_calliptera),ENSHBUG00000017101__Haplochromis_burtoni),ENSPNYG00000011276__Pundamilia_nyererei),ENSNBRG00000012241__Neolamprologus_brichardi));

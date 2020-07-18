@@ -1,0 +1,1 @@
+((((ENSCCEG00000013818__Cyanistes_caeruleus,ENSCCEG00000013816__Cyanistes_caeruleus),ENSPMJG00000014744__Parus_major),ENSSCAG00000012046__Serinus_canaria),ENSGALG00000030724__Gallus_gallus);

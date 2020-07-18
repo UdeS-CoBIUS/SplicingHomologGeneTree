@@ -1,1 +1,0 @@
-(ENSTGEG00000014901__Theropithecus_gelada,ENSMFAG00000035175__Macaca_fascicularis);

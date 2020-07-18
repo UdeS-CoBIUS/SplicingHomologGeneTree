@@ -1,0 +1,1 @@
+(ENSABRG00000007344__Anser_brachyrhynchus,ENSGMOG00000006892__Gadus_morhua);

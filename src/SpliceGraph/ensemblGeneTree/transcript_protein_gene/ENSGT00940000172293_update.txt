@@ -1,0 +1,2 @@
+C36F7.4e.1	WBGene00004372	Caenorhabditis_elegans_strain_N2	C36F7.4e.1
+FBpp0289176	FBgn0259245	Drosophila_melanogaster	FBtr0299898

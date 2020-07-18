@@ -1,1 +1,0 @@
-((ENSECAG00000034125__Equus_caballus,ENSUMAG00000020361__Ursus_maritimus),((((ENSPTRG00000043037__Pan_troglodytes,ENSPPAG00000038816__Pan_paniscus),ENSGGOG00000042400__Gorilla_gorilla),ENSNLEG00000028986__Nomascus_leucogenys),(ENSPTEG00000020452__Piliocolobus_tephrosceles,ENSTGEG00000009640__Theropithecus_gelada)));

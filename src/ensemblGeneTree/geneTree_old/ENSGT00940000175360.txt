@@ -1,1 +1,0 @@
-(ENSGAFG00000010435__Gambusia_affinis,ENSLOCG00000017762__Lepisosteus_oculatus);

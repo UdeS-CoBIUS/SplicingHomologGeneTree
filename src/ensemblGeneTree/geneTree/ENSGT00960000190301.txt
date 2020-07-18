@@ -1,0 +1,1 @@
+((ENSDNVG00000000969__Dromaius_novaehollandiae,ENSNPEG00000001751__Nothoprocta_perdicaria),ENSPKIG00000018693__Paramormyrops_kingsleyae);

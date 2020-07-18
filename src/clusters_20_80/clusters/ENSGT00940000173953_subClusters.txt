@@ -1,0 +1,8 @@
+>cluster_0
+FBtr0302611	FBtr0302724
+>cluster_1
+FBtr0087011	FBtr0335519
+>cluster_2
+FBtr0302727	FBtr0300958
+>cluster_3
+FBtr0087010	FBtr0303165

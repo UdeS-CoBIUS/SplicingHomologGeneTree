@@ -1,0 +1,1 @@
+((((ENSTBEG00000007464__Tupaia_belangeri,ENSMOCG00000000846__Microtus_ochrogaster),(ENSMLUG00000024342__Myotis_lucifugus,ENSUMAG00000017832__Ursus_maritimus)),ENSETEG00000013346__Echinops_telfairi),ENSCSEG00000004413__Cynoglossus_semilaevis);

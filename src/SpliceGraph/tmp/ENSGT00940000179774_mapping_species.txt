@@ -1,0 +1,3 @@
+STEGASTESPARTITUS	stegastes_partitus
+POECILIALATIPINNA	poecilia_latipinna
+PERIOPHTHALMUSMAGNUSPINNATUS	periophthalmus_magnuspinnatus

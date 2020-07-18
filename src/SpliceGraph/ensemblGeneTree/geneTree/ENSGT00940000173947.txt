@@ -1,0 +1,1 @@
+((ENSPTIG00000011881__Panthera_tigris_altaica,ENSCAFG00000019987__Canis_lupus_familiaris),ENSPSMG00000019528__Prolemur_simus);

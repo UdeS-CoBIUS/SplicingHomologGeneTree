@@ -1,0 +1,1 @@
+(ENSDNOG00000041832__Dasypus_novemcinctus,ENSAPLG00000022529__Anas_platyrhynchos_platyrhynchos);

@@ -1,0 +1,1 @@
+((ENSGMOG00000020124__Gadus_morhua,ENSPMGG00000023800__Periophthalmus_magnuspinnatus),ENSDARG00000074098__Danio_rerio);

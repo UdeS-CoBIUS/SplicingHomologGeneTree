@@ -1,1 +1,0 @@
-((ENSNVIG00000012729__Neovison_vison,ENSBMUG00000022057__Bos_mutus),ENSSDAG00000004470__Spermophilus_dauricus);

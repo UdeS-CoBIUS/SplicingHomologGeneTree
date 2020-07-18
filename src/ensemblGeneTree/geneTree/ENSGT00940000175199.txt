@@ -1,0 +1,1 @@
+((((ENSMMMG00000012981__Marmota_marmota_marmota,ENSPEMG00000009860__Peromyscus_maniculatus_bairdii),ENSIPUG00000003109__Ictalurus_punctatus),WBGene00004266__Caenorhabditis_elegans_strain_N2),YFL038C__Saccharomyces_cerevisiae_strain_S288C);

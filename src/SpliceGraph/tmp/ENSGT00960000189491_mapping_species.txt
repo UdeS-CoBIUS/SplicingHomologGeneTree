@@ -1,0 +1,7 @@
+MESOCRICETUSAURATUS	mesocricetus_auratus
+UROCITELLUSPARRYII	urocitellus_parryii
+CASTORCANADENSIS	castor_canadensis
+PILIOCOLOBUSTEPHROSCELES	piliocolobus_tephrosceles
+PILIOCOLOBUSTEPHROSCELES	piliocolobus_tephrosceles
+THEROPITHECUSGELADA	theropithecus_gelada
+PROLEMURSIMUS	prolemur_simus

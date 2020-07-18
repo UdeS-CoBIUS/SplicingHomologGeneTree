@@ -1,0 +1,1 @@
+((((ENSPMJG00000007269__Parus_major,ENSLSDG00000012174__Lonchura_striata_domestica),ENSAHAG00000013129__Apteryx_haastii),ENSACAG00000011842__Anolis_carolinensis),ENSOANG00000012471__Ornithorhynchus_anatinus);

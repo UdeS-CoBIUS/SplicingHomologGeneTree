@@ -1,0 +1,1 @@
+((ENSEASG00005012934__Equus_asinus_asinus,ENSVVUG00000026831__Vulpes_vulpes),((ENSTGEG00000009010__Theropithecus_gelada,ENSPTEG00000010783__Piliocolobus_tephrosceles),((ENSGGOG00000025931__Gorilla_gorilla,ENSPTRG00000043905__Pan_troglodytes),ENSPPYG00000013463__Pongo_abelii)));

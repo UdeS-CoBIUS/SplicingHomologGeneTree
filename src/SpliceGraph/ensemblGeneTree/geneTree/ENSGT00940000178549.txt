@@ -1,0 +1,1 @@
+((ENSMMOG00000018886__Mola_mola,ENSPMGG00000013180__Periophthalmus_magnuspinnatus),((ENSSMAG00000010081__Scophthalmus_maximus,ENSCSEG00000009997__Cynoglossus_semilaevis),ENSACIG00000008609__Amphilophus_citrinellus));

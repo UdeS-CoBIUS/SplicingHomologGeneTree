@@ -1,0 +1,1 @@
+((((ENSOMEG00000023665__Oryzias_melastigma,ENSPRNG00000025688__Parambassis_ranga),ENSBSLG00000022166__Betta_splendens),ENSPMGG00000011889__Periophthalmus_magnuspinnatus),(ENSCHAG00000022968__Clupea_harengus,ENSCHAG00000022948__Clupea_harengus));

@@ -1,0 +1,6 @@
+MACACAMULATTA	macaca_mulatta
+PILIOCOLOBUSTEPHROSCELES	piliocolobus_tephrosceles
+PANPANISCUS	pan_paniscus
+PANTROGLODYTES	pan_troglodytes
+GORILLAGORILLA	gorilla_gorilla
+PONGOABELII	pongo_abelii

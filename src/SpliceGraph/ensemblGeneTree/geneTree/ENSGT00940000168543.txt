@@ -1,0 +1,1 @@
+(((((ENSATEG00000002247__Anabas_testudineus,ENSSLDG00000004735__Seriola_lalandi_dorsalis),ENSLBEG00000026551__Labrus_bergylta),((ENSDARG00000114460__Danio_rerio,ENSDARG00000109649__Danio_rerio),(ENSDARG00000110662__Danio_rerio,ENSDARG00000115516__Danio_rerio))),ENSAMXG00000036920__Astyanax_mexicanus),ENSEBUG00000002911__Eptatretus_burgeri);

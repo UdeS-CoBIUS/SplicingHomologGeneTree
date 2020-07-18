@@ -1,1 +1,0 @@
-(((ENSAOWG00000014216__Apteryx_owenii,ENSAHAG00000001353__Apteryx_haastii),ENSARWG00000017794__Apteryx_rowi),ENSFHEG00000019351__Fundulus_heteroclitus);

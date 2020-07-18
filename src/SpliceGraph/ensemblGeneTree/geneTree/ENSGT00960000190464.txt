@@ -1,0 +1,1 @@
+((ENSMUGG00000026974__Meriones_unguiculatus,ENSMSIG00000016793__Mus_spicilegus),ENSSPAG00000002482__Stegastes_partitus);

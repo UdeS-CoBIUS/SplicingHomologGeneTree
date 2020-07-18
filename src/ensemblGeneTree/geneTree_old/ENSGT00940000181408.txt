@@ -1,1 +1,0 @@
-(ENSPMGG00000000312__Periophthalmus_magnuspinnatus,ENSSFOG00015008873__Scleropages_formosus);

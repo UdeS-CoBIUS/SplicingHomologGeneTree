@@ -1,0 +1,1 @@
+(ENSMPUG00000009840__Mustela_putorius_furo,ENSCSAG00000006746__Chlorocebus_sabaeus);

@@ -1,0 +1,1 @@
+(((((ENSKMAG00000021773__Kryptolebias_marmoratus,ENSXMAG00000014115__Xiphophorus_maculatus),(ENSSPAG00000020364__Stegastes_partitus,ENSPRNG00000008469__Parambassis_ranga)),ENSGMOG00000000516__Gadus_morhua),ENSHHUG00000039422__Hucho_hucho),((ENSPSIG00000008708__Pelodiscus_sinensis,ENSNPEG00000007330__Nothoprocta_perdicaria),ENSOARG00000012525__Ovis_aries));

@@ -1,1 +1,0 @@
-(((ENSSFOG00015000332__Scleropages_formosus,ENSACAG00000026428__Anolis_carolinensis),ENSAPEG00000018158__Amphiprion_percula),ENSCING00000022956__Ciona_intestinalis);

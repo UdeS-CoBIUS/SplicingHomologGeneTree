@@ -1,1 +1,0 @@
-(((ENSSDAG00000011318__Spermophilus_dauricus,ENSMMMG00000022058__Marmota_marmota_marmota),ENSPEMG00000030566__Peromyscus_maniculatus_bairdii),((ENSBBBG00000018379__Bison_bison_bison,ENSBTAG00000053620__Bos_taurus),ENSBMUG00000005589__Bos_mutus));

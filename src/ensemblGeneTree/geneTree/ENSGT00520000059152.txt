@@ -1,0 +1,1 @@
+((ENSTBEG00000011487__Tupaia_belangeri,ENSEEUG00000001487__Erinaceus_europaeus),ENSETEG00000016321__Echinops_telfairi);

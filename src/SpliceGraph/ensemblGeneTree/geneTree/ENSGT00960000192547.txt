@@ -1,0 +1,1 @@
+(ENSCCNG00000001888__Castor_canadensis,ENSCGRG00015015790__Cricetulus_griseus_CriGri-PICR);

@@ -1,0 +1,1 @@
+(((ENSCAFG00020024758__Canis_lupus_dingo,ENSUMAG00000001727__Ursus_maritimus),ENSPPRG00000012378__Panthera_pardus),((ENSGGOG00000038539__Gorilla_gorilla,ENSGGOG00000037025__Gorilla_gorilla),((ENSCATG00000033483__Cercocebus_atys,ENSPANG00000035949__Papio_anubis),ENSMLEG00000027303__Mandrillus_leucophaeus)));

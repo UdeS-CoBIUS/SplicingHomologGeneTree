@@ -1,0 +1,1 @@
+(((ENSHGLG00100015398__Heterocephalus_glaber_HetGla_1.0,ENSHGLG00000013682__Heterocephalus_glaber_HetGla_female_1.0),ENSOPRG00000011963__Ochotona_princeps),ENSPTIG00000017263__Panthera_tigris_altaica);

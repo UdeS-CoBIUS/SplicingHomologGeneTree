@@ -1,0 +1,1 @@
+(((ENSNLEG00000027537__Nomascus_leucogenys,ENSPPAG00000040010__Pan_paniscus),((ENSTGEG00000029312__Theropithecus_gelada,ENSMLEG00000000039__Mandrillus_leucophaeus),ENSCANG00000034282__Colobus_angolensis_palliatus)),ENSPTIG00000021940__Panthera_tigris_altaica);

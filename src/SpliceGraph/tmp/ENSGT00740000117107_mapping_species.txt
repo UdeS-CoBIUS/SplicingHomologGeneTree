@@ -1,0 +1,3 @@
+ASTYANAXMEXICANUS	astyanax_mexicanus
+PYGOCENTRUSNATTERERI	pygocentrus_nattereri
+DANIORERIO	danio_rerio

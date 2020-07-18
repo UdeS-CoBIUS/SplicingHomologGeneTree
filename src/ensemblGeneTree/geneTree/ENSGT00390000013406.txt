@@ -1,0 +1,1 @@
+((((ENSCAFG00000008271__Canis_lupus_familiaris,ENSMLUG00000022918__Myotis_lucifugus),((ENSOGAG00000032134__Otolemur_garnettii,ENSCJAG00000047610__Callithrix_jacchus),ENSOCUG00000022895__Oryctolagus_cuniculus)),((ENSAMEG00000014511__Ailuropoda_melanoleuca,ENSOARG00000015938__Ovis_aries),ENSDNOG00000039272__Dasypus_novemcinctus)),ENSLAFG00000025567__Loxodonta_africana);

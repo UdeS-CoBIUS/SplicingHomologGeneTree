@@ -1,0 +1,1 @@
+((ENSAMXG00005023982__Astyanax_mexicanus_Astyanax_mexicanus-1.0.2,ENSAMXG00000033358__Astyanax_mexicanus_Astyanax_mexicanus-2.0),ENSCPBG00000012348__Chrysemys_picta_bellii);

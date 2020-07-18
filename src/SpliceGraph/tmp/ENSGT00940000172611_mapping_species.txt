@@ -1,0 +1,6 @@
+POGONAVITTICEPS	pogona_vitticeps
+PROPITHECUSCOQUERELI	propithecus_coquereli
+COTURNIXJAPONICA	coturnix_japonica
+TAKIFUGURUBRIPES	takifugu_rubripes
+MOLAMOLA	mola_mola
+CALLORHINCHUSMILII	callorhinchus_milii

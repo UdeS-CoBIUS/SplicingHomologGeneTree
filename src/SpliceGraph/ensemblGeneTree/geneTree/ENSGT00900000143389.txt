@@ -1,0 +1,1 @@
+(((ENSHGLG00100007680__Heterocephalus_glaber_HetGla_1.0,ENSHGLG00000000632__Heterocephalus_glaber_HetGla_female_1.0),ENSFDAG00000018880__Fukomys_damarensis),ENSMOCG00000008283__Microtus_ochrogaster);

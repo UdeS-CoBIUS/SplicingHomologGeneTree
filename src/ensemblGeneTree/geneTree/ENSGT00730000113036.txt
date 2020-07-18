@@ -1,0 +1,1 @@
+((ENSMODG00000029394__Monodelphis_domestica,ENSMODG00000027523__Monodelphis_domestica),ENSMODG00000029549__Monodelphis_domestica);

@@ -1,0 +1,1 @@
+(ENSGMOG00000019239__Gadus_morhua,ENSPMGG00000001334__Periophthalmus_magnuspinnatus);

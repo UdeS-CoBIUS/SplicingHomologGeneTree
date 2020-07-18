@@ -1,0 +1,1 @@
+(ENSSSCG00000040222__Sus_scrofa,ENSUAMG00000013774__Ursus_americanus);

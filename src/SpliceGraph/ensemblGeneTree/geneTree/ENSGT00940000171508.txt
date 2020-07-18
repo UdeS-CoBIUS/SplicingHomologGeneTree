@@ -1,0 +1,1 @@
+((ENSMNEG00000043571__Macaca_nemestrina,ENSPCOG00000026914__Propithecus_coquereli),ENSDNVG00000018909__Dromaius_novaehollandiae);

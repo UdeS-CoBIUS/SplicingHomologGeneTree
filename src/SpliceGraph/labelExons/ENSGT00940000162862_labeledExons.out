@@ -1,0 +1,16 @@
+>0
+ENSUAMT00000032767: ['exon skipping', 0, 0]
+ENSUMAT00000027168: ['no event', 353, 0]
+ENSAMET00000000752: ['exon skipping', 0, 0]
+>1
+ENSUAMT00000032767: ['exon skipping', 0, 0]
+ENSUMAT00000027168: ['exon skipping', 0, 0]
+ENSAMET00000000752: ['5event', 111, 0]
+>2
+ENSUAMT00000032767: ['5event', 1247, 0]
+ENSUMAT00000027168: ['5event', 764, 0]
+ENSAMET00000000752: ['3event', 55, 1]
+>3
+ENSUAMT00000032767: ['exon skipping', 0, 0]
+ENSUMAT00000027168: ['exon skipping', 0, 0]
+ENSAMET00000000752: ['5event', 634, 1]

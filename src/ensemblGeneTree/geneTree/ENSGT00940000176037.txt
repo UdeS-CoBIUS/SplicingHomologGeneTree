@@ -1,0 +1,1 @@
+(((((ENSGALG00000031518__Gallus_gallus,ENSCJPG00005004551__Coturnix_japonica),ENSAPLG00000001411__Anas_platyrhynchos_platyrhynchos),ENSLSDG00000002859__Lonchura_striata_domestica),ENSCPGG00000015774__Calidris_pygmaea),(ENSAOWG00000007640__Apteryx_owenii,ENSAHAG00000003061__Apteryx_haastii));

@@ -1,0 +1,1 @@
+((((ENSPTEG00000009567__Piliocolobus_tephrosceles,ENSPTEG00000003377__Piliocolobus_tephrosceles),ENSPTEG00000017779__Piliocolobus_tephrosceles),ENSHHUG00000012889__Hucho_hucho),YER015W__Saccharomyces_cerevisiae_strain_S288C);

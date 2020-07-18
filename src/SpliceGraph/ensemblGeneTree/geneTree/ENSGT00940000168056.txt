@@ -1,0 +1,1 @@
+((ENSEBUG00000004994__Eptatretus_burgeri,ENSEBUG00000015209__Eptatretus_burgeri),((ENSGACG00000002335__Gasterosteus_aculeatus,ENSGMOG00000000033__Gadus_morhua),ENSLACG00000003247__Latimeria_chalumnae));

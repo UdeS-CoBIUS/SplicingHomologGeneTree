@@ -1,0 +1,1 @@
+(((((ENSZALG00000012253__Zonotrichia_albicollis,ENSJHYG00000007353__Junco_hyemalis),ENSSCAG00000005080__Serinus_canaria),ENSPMJG00000006049__Parus_major),ENSCPGG00000014437__Calidris_pygmaea),ENSNPEG00000009335__Nothoprocta_perdicaria);

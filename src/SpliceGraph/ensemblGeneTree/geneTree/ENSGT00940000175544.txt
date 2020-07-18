@@ -1,0 +1,1 @@
+(((((ENSACLG00000005582__Astatotilapia_calliptera,ENSACLG00000005652__Astatotilapia_calliptera),ENSHBUG00000013304__Haplochromis_burtoni),ENSNBRG00000002967__Neolamprologus_brichardi),ENSFHEG00000011783__Fundulus_heteroclitus),ENSAMXG00000010127__Astyanax_mexicanus);

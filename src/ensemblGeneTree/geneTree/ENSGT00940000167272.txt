@@ -1,0 +1,1 @@
+(((ENSECAG00000028232__Equus_caballus,ENSBMUG00000021100__Bos_mutus),(ENSPPRG00000013159__Panthera_pardus,ENSPTIG00000007545__Panthera_tigris_altaica)),((((ENSANAG00000036049__Aotus_nancymaae,ENSCCAG00000000022__Cebus_capucinus_imitator),ENSMMUG00000012046__Macaca_mulatta),ENSTSYG00000032171__Carlito_syrichta),ENSPCOG00000001436__Propithecus_coquereli));

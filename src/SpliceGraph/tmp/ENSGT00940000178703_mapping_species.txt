@@ -1,0 +1,4 @@
+ASTYANAXMEXICANUS	astyanax_mexicanus
+ASTYANAXMEXICANUS	astyanax_mexicanus
+AMPHIPRIONPERCULA	amphiprion_percula
+AMPHIPRIONPERCULA	amphiprion_percula

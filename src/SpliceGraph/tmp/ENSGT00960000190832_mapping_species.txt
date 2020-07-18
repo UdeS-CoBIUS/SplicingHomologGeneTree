@@ -1,0 +1,3 @@
+MUSSPICILEGUS	mus_spicilegus
+GORILLAGORILLA	gorilla_gorilla
+NEOVISONVISON	neovison_vison

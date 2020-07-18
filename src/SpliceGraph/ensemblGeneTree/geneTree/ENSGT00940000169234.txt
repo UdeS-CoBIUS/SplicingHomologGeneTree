@@ -1,0 +1,1 @@
+((ENSMAUG00000020314__Mesocricetus_auratus,ENSMOCG00000023023__Microtus_ochrogaster),MGP_CAROLIEiJ_G0026132__Mus_caroli_strain_CAROLI_EIJ);

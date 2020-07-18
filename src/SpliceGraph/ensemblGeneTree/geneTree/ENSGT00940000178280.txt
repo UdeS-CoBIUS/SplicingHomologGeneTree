@@ -1,0 +1,1 @@
+((((ENSPMEG00000018729__Poecilia_mexicana,ENSPLAG00000018258__Poecilia_latipinna),ENSGAFG00000012771__Gambusia_affinis),(ENSAPOG00000007413__Acanthochromis_polyacanthus,ENSLBEG00000000017__Labrus_bergylta)),ENSPMGG00000017359__Periophthalmus_magnuspinnatus);

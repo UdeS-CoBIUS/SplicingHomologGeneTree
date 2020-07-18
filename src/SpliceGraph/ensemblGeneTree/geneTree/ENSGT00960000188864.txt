@@ -1,0 +1,1 @@
+(ENSAMEG00000010597__Ailuropoda_melanoleuca,ENSPCIG00000032589__Phascolarctos_cinereus);

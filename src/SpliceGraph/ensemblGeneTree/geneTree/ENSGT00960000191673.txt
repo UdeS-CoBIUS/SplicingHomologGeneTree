@@ -1,0 +1,1 @@
+(ENSEEUG00000008121__Erinaceus_europaeus,ENSUPAG00010006859__Urocitellus_parryii);

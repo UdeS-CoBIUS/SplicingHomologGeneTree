@@ -1,0 +1,1 @@
+(((ENSPNYG00000011010__Pundamilia_nyererei,ENSOMEG00000000658__Oryzias_melastigma),ENSGACG00000007008__Gasterosteus_aculeatus),ENSGMOG00000008968__Gadus_morhua);

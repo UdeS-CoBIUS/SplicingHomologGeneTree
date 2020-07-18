@@ -1,0 +1,12 @@
+>0
+F14B6.3.1: ['no event', 55, 0]
+F14B6.1.1: ['no event', 55, 0]
+>1
+F14B6.3.1: ['3event', 197, 2]
+F14B6.1.1: ['no event', 228, 2]
+>2
+F14B6.3.1: ['5event', 848, 0]
+F14B6.1.1: ['exon skipping', 0, 0]
+>3
+F14B6.3.1: ['exon skipping', 0, 0]
+F14B6.1.1: ['5event', 443, 0]

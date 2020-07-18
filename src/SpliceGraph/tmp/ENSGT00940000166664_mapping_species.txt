@@ -1,0 +1,9 @@
+TURSIOPSTRUNCATUS	tursiops_truncatus
+VICUGNAPACOS	vicugna_pacos
+URSUSAMERICANUS	ursus_americanus
+PANTHERATIGRISALTAICA	panthera_tigris_altaica
+ERINACEUSEUROPAEUS	erinaceus_europaeus
+SOREXARANEUS	sorex_araneus
+OCHOTONAPRINCEPS	ochotona_princeps
+CHOLOEPUSHOFFMANNI	choloepus_hoffmanni
+ECHINOPSTELFAIRI	echinops_telfairi

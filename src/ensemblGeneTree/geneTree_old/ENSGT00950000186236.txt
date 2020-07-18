@@ -1,1 +1,0 @@
-((((ENSCCNG00000028918__Castor_canadensis,ENSSDAG00000010629__Spermophilus_dauricus),ENSPSMG00000015586__Prolemur_simus),ENSUAMG00000008947__Ursus_americanus),(ENSNSUG00000006346__Notechis_scutatus,ENSLCOG00000014119__Lepidothrix_coronata));

@@ -1,0 +1,1 @@
+(((ENSMPUG00000013934__Mustela_putorius_furo,ENSPPYG00000012944__Pongo_abelii),(ENSLAFG00000026096__Loxodonta_africana,ENSOCUG00000022725__Oryctolagus_cuniculus)),ENSMEUG00000012815__Notamacropus_eugenii);

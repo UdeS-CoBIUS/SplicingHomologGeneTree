@@ -1,0 +1,1 @@
+((ENSPMGG00000012839__Periophthalmus_magnuspinnatus,ENSHCOG00000002075__Hippocampus_comes),((((ENSHGLG00000011745__Heterocephalus_glaber_HetGla_female_1.0,ENSHGLG00100001592__Heterocephalus_glaber_HetGla_1.0),ENSSSCG00000037082__Sus_scrofa),ENSNSUG00000007421__Notechis_scutatus),(ENSODEG00000010201__Octodon_degus,ENSCAPG00000014343__Cavia_aperea)));

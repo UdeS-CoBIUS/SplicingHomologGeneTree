@@ -1,0 +1,1 @@
+(ENSDARG00000057010__Danio_rerio,ENSLACG00000001251__Latimeria_chalumnae);

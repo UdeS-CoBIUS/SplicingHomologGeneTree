@@ -1,0 +1,6 @@
+>0
+ENSPKIT00000020874: ['3event', 135, 0]
+ENSHHUT00000025300: [['internal gap >= 30', 49, 57], 104, 0]
+>1
+ENSPKIT00000020874: ['5event', 200, 0]
+ENSHHUT00000025300: [['internal gap < 30', 1, 21], 180, 0]

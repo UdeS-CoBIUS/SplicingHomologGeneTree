@@ -1,0 +1,1 @@
+((ENSBMUG00000022218__Bos_mutus,ENSBTAG00000051573__Bos_taurus),ENSPEMG00000028821__Peromyscus_maniculatus_bairdii);

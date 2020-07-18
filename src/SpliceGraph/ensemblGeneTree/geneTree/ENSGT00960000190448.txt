@@ -1,0 +1,1 @@
+((ENSCGRG00015010389__Cricetulus_griseus_CriGri-PICR,ENSMUGG00000004108__Meriones_unguiculatus),ENSMFAG00000022957__Macaca_fascicularis);

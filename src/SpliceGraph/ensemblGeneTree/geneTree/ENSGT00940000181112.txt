@@ -1,0 +1,1 @@
+((ENSCVAG00000008968__Cyprinodon_variegatus,ENSCSEG00000007791__Cynoglossus_semilaevis),ENSAPLG00000025123__Anas_platyrhynchos_platyrhynchos);

@@ -1,0 +1,1 @@
+((ENSCPGG00000003215__Calidris_pygmaea,ENSNMEG00000002678__Numida_meleagris),((ENSSCAG00000011510__Serinus_canaria,ENSJHYG00000004984__Junco_hyemalis),ENSFALG00000015195__Ficedula_albicollis));

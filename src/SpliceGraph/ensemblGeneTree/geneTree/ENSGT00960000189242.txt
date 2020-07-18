@@ -1,0 +1,1 @@
+(ENSIPUG00000022951__Ictalurus_punctatus,ENSAPLG00000022299__Anas_platyrhynchos_platyrhynchos);

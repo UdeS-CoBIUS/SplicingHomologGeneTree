@@ -1,0 +1,1 @@
+(ENSCGRG00000016233__Cricetulus_griseus_CriGri_1.0,ENSECAG00000035135__Equus_caballus);

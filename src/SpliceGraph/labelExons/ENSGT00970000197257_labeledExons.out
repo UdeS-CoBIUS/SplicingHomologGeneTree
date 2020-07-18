@@ -1,0 +1,8 @@
+>0
+ENSVURT00010033775: [['internal gap < 30', 243, 27], 278, 0]
+ENSVURT00010033778: [['internal gap < 30', 243, 27], 278, 0]
+ENSMUGT00000023503: [['internal gap < 30', 274, 18], 287, 0]
+>1
+ENSVURT00010033775: ['exon skipping', 0, 0]
+ENSVURT00010033778: ['exon skipping', 0, 0]
+ENSMUGT00000023503: ['no event', 8, 0]

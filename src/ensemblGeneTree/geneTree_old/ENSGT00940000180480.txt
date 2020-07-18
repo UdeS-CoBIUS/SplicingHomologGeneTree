@@ -1,1 +1,0 @@
-((ENSSLDG00000020042__Seriola_lalandi_dorsalis,ENSHBUG00000021385__Haplochromis_burtoni),ENSPNAG00000007261__Pygocentrus_nattereri);

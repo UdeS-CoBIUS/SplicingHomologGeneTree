@@ -1,1 +1,0 @@
-(((ENSMMUG00000045431__Macaca_mulatta,ENSMFAG00000028837__Macaca_fascicularis),ENSMNEG00000006121__Macaca_nemestrina),ENSPPAG00000042214__Pan_paniscus);

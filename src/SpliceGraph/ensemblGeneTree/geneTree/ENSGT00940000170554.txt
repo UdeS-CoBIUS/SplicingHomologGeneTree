@@ -1,0 +1,1 @@
+((((ENSPVIG00000012991__Pogona_vitticeps,ENSACAG00000015762__Anolis_carolinensis),ENSLACG00000008493__Latimeria_chalumnae),((ENSPMGG00000014039__Periophthalmus_magnuspinnatus,ENSELUG00000022398__Esox_lucius),ENSSFOG00015010199__Scleropages_formosus)),ENSEBUG00000016945__Eptatretus_burgeri);

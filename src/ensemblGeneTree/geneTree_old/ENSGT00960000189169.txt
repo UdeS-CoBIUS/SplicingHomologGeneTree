@@ -1,1 +1,0 @@
-(((((ENSCPGG00000009895__Calidris_pygmaea,ENSCPUG00000019724__Calidris_pugnax),ENSABRG00000020415__Anser_brachyrhynchus),ENSCPRG00005003009__Crocodylus_porosus),ENSNSUG00000014014__Notechis_scutatus),(ENSCAFG00020023622__Canis_lupus_dingo,ENSMSIG00000022121__Mus_spicilegus));

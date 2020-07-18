@@ -1,0 +1,1 @@
+(((ENSMLUG00000007412__Myotis_lucifugus,ENSETEG00000001102__Echinops_telfairi),ENSPCIG00000014857__Phascolarctos_cinereus),ENSNPEG00000008609__Nothoprocta_perdicaria);

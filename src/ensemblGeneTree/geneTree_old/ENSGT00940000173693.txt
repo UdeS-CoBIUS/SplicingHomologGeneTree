@@ -1,1 +1,0 @@
-(((ENSACLG00000002432__Astatotilapia_calliptera,ENSHBUG00000017094__Haplochromis_burtoni),ENSSTOG00000002289__Ictidomys_tridecemlineatus),ENSCING00000004848__Ciona_intestinalis);

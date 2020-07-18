@@ -1,0 +1,1 @@
+((((ENSACLG00000003426__Astatotilapia_calliptera,ENSPNYG00000021478__Pundamilia_nyererei),ENSMZEG00005010737__Maylandia_zebra),ENSNBRG00000019174__Neolamprologus_brichardi),ENSACIG00000003332__Amphilophus_citrinellus);

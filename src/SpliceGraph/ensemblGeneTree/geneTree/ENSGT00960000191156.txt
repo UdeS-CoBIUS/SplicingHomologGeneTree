@@ -1,0 +1,1 @@
+(ENSMMUG00000039667__Macaca_mulatta,ENSAPLG00000022008__Anas_platyrhynchos_platyrhynchos);

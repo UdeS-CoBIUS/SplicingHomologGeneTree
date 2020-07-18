@@ -1,0 +1,1 @@
+(((((ENSHBUG00000005760__Haplochromis_burtoni,ENSPNYG00000022233__Pundamilia_nyererei),ENSNBRG00000021828__Neolamprologus_brichardi),ENSKMAG00000007910__Kryptolebias_marmoratus),ENSSPAG00000017655__Stegastes_partitus),((ENSSMAG00000004521__Scophthalmus_maximus,ENSSLDG00000009402__Seriola_lalandi_dorsalis),ENSMMOG00000014477__Mola_mola));

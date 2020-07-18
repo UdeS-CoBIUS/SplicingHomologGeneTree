@@ -1,0 +1,1 @@
+((ENSCJPG00005007945__Coturnix_japonica,ENSMUNG00000003590__Melopsittacus_undulatus),(ENSAOWG00000004590__Apteryx_owenii,ENSAHAG00000000736__Apteryx_haastii));

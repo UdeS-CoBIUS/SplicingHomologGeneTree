@@ -1,0 +1,6 @@
+MACACAFASCICULARIS	macaca_fascicularis
+MACACAMULATTA	macaca_mulatta
+PAPIOANUBIS	papio_anubis
+CERCOCEBUSATYS	cercocebus_atys
+RHINOPITHECUSBIETI	rhinopithecus_bieti
+COLOBUSANGOLENSISPALLIATUS	colobus_angolensis_palliatus

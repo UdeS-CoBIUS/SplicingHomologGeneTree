@@ -1,0 +1,1 @@
+(ENSDNVG00000002543__Dromaius_novaehollandiae,ENSCPBG00000014536__Chrysemys_picta_bellii);

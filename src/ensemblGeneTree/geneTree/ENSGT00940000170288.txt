@@ -1,0 +1,1 @@
+((((ENSFCAG00000039151__Felis_catus,ENSFCAG00000038831__Felis_catus),ENSUAMG00000017377__Ursus_americanus),ENSSSCG00000036923__Sus_scrofa),ENSSBOG00000016040__Saimiri_boliviensis_boliviensis);

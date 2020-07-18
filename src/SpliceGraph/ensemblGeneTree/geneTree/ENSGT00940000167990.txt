@@ -1,0 +1,1 @@
+(((((ENSGGOG00000037073__Gorilla_gorilla,ENSPPAG00000015612__Pan_paniscus),ENSNLEG00000011810__Nomascus_leucogenys),ENSPTEG00000031486__Piliocolobus_tephrosceles),ENSMSIG00000029259__Mus_spicilegus),(ENSPVAG00000017740__Pteropus_vampyrus,ENSSSCG00000038297__Sus_scrofa));

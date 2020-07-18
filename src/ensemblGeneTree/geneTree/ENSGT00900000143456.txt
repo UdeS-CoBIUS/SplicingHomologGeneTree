@@ -1,0 +1,1 @@
+(ENSMAUG00000018907__Mesocricetus_auratus,MGP_SPRETEiJ_G0024327__Mus_spretus_strain_SPRET/EiJ);

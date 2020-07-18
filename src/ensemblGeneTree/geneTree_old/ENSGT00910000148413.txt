@@ -1,1 +1,0 @@
-((ENSRROG00000033307__Rhinopithecus_roxellana,ENSRBIG00000036834__Rhinopithecus_bieti),ENSPANG00000031873__Papio_anubis);

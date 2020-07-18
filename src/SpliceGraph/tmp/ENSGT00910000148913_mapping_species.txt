@@ -1,0 +1,2 @@
+PANPANISCUS	pan_paniscus
+PANTROGLODYTES	pan_troglodytes

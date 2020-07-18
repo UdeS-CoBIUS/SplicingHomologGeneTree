@@ -1,0 +1,1 @@
+((((ENSSMAG00000008875__Scophthalmus_maximus,ENSXMAG00000020998__Xiphophorus_maculatus),ENSAMXG00000031434__Astyanax_mexicanus),(ENSSLDG00000021963__Seriola_lalandi_dorsalis,ENSCJPG00005001843__Coturnix_japonica)),ENSEBUG00000012358__Eptatretus_burgeri);

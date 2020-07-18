@@ -1,0 +1,1 @@
+(((((ENSPFOG00000023013__Poecilia_formosa,ENSPMEG00000013683__Poecilia_mexicana),(ENSPLAG00000007565__Poecilia_latipinna,ENSPREG00000020362__Poecilia_reticulata)),ENSPFOG00000024605__Poecilia_formosa),ENSFHEG00000021716__Fundulus_heteroclitus),ENSCVAG00000017443__Cyprinodon_variegatus);

@@ -1,0 +1,12 @@
+>0
+ENSPTET00000028806: ['no event', 108, 0]
+ENSPTET00000005722: ['no event', 108, 0]
+ENSPTET00000020964: ['exon skipping', 0, 0]
+>1
+ENSPTET00000028806: ['no event', 598, 1]
+ENSPTET00000005722: ['no event', 598, 1]
+ENSPTET00000020964: ['3event', '5event', 256, 0]
+>2
+ENSPTET00000028806: ['exon skipping', 0, 0]
+ENSPTET00000005722: ['exon skipping', 0, 0]
+ENSPTET00000020964: ['5event', 151, 1]

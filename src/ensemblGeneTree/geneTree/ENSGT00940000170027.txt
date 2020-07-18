@@ -1,0 +1,1 @@
+(((ENSCCEG00000005367__Cyanistes_caeruleus,ENSCPGG00000007693__Calidris_pygmaea),ENSMLUG00000028871__Myotis_lucifugus),ENSLOCG00000005642__Lepisosteus_oculatus);

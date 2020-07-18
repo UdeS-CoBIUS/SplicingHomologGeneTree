@@ -1,0 +1,1 @@
+(((ENSUAMG00000019307__Ursus_americanus,ENSBMUG00000018316__Bos_mutus),ENSOANG00000028274__Ornithorhynchus_anatinus),(ENSAOCG00000006433__Amphiprion_ocellaris,ENSFHEG00000004693__Fundulus_heteroclitus));

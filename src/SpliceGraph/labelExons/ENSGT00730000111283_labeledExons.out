@@ -1,0 +1,24 @@
+>0
+ENSCPRT00005004331: ['no event', 80, 0]
+ENSCPRT00005004334: ['no event', 80, 0]
+>1
+ENSCPRT00005004331: ['no event', 60, 0]
+ENSCPRT00005004334: ['no event', 60, 0]
+>2
+ENSCPRT00005004331: ['no event', 22, 1]
+ENSCPRT00005004334: ['no event', 22, 1]
+>3
+ENSCPRT00005004331: ['no event', 75, 0]
+ENSCPRT00005004334: ['no event', 75, 0]
+>4
+ENSCPRT00005004331: ['no event', 164, 1]
+ENSCPRT00005004334: ['no event', 164, 1]
+>5
+ENSCPRT00005004331: ['no event', 71, 1]
+ENSCPRT00005004334: ['exon skipping', 0, 0]
+>6
+ENSCPRT00005004331: ['no event', 155, 1]
+ENSCPRT00005004334: ['5event', 149, 1]
+>7
+ENSCPRT00005004331: ['no event', 103, 1]
+ENSCPRT00005004334: ['no event', 103, 1]

@@ -1,0 +1,1 @@
+(((ENSACLG00000027633__Astatotilapia_calliptera,ENSAMXG00000033101__Astyanax_mexicanus),ENSAMXG00000043811__Astyanax_mexicanus),ENSPKIG00000018018__Paramormyrops_kingsleyae);

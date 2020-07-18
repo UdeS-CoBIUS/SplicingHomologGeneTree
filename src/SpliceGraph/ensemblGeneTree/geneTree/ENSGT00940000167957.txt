@@ -1,0 +1,1 @@
+(((ENSPSIG00000000698__Pelodiscus_sinensis,ENSACAG00000015351__Anolis_carolinensis),(ENSOARG00000014757__Ovis_aries,ENSMLUG00000028625__Myotis_lucifugus)),ENSXETG00000032750__Xenopus_tropicalis);

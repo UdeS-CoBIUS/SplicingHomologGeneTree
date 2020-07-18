@@ -1,0 +1,2 @@
+XIPHOPHORUSCOUCHIANUS	xiphophorus_couchianus
+CYPRINODONVARIEGATUS	cyprinodon_variegatus

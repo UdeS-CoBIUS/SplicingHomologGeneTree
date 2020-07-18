@@ -1,0 +1,1 @@
+(((ENSDNOG00000033194__Dasypus_novemcinctus,ENSUAMG00000004514__Ursus_americanus),ENSCPBG00000027125__Chrysemys_picta_bellii),(ENSSLDG00000004361__Seriola_lalandi_dorsalis,ENSSLDG00000003815__Seriola_lalandi_dorsalis));

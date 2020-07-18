@@ -1,0 +1,1 @@
+((((ENSACLG00000005898__Astatotilapia_calliptera,ENSPNYG00000003652__Pundamilia_nyererei),ENSNBRG00000011447__Neolamprologus_brichardi),(ENSPNYG00000005025__Pundamilia_nyererei,ENSACLG00000011844__Astatotilapia_calliptera)),ENSACIG00000020562__Amphilophus_citrinellus);

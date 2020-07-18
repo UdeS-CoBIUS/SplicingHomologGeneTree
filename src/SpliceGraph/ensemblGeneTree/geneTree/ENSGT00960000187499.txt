@@ -1,0 +1,1 @@
+((ENSCANG00000031727__Colobus_angolensis_palliatus,ENSCPOG00000039816__Cavia_porcellus),(ENSEASG00005010993__Equus_asinus_asinus,ENSPPRG00000016133__Panthera_pardus));

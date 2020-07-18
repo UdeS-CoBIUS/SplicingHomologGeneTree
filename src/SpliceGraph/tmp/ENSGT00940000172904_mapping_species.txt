@@ -1,0 +1,4 @@
+PUNDAMILIANYEREREI	pundamilia_nyererei
+ORYZIASMELASTIGMA	oryzias_melastigma
+GASTEROSTEUSACULEATUS	gasterosteus_aculeatus
+GADUSMORHUA	gadus_morhua

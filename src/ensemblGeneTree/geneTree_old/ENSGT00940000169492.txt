@@ -1,1 +1,0 @@
-((((ENSMFAG00000028347__Macaca_fascicularis,ENSMNEG00000013225__Macaca_nemestrina),ENSMMUG00000045114__Macaca_mulatta),ENSCATG00000021766__Cercocebus_atys),ENSPTEG00000018946__Piliocolobus_tephrosceles);

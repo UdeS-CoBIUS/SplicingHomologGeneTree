@@ -1,0 +1,1 @@
+(ENSMMUG00000042801__Macaca_mulatta,ENSBMUG00000001314__Bos_mutus);

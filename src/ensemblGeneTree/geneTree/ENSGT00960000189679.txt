@@ -1,0 +1,1 @@
+(((ENSBMUG00000003655__Bos_mutus,ENSBBBG00000011315__Bison_bison_bison),ENSNVIG00000002739__Neovison_vison),(ENSPTEG00000021237__Piliocolobus_tephrosceles,ENSANAG00000031658__Aotus_nancymaae));

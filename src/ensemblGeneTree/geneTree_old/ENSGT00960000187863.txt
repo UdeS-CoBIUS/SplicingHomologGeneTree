@@ -1,1 +1,0 @@
-((ENSPMGG00000015124__Periophthalmus_magnuspinnatus,ENSTRUG00000024711__Takifugu_rubripes),(ENSAHAG00000006132__Apteryx_haastii,ENSGAGG00000000480__Gopherus_agassizii));

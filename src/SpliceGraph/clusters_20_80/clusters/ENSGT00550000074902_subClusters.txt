@@ -1,0 +1,6 @@
+>cluster_0
+FBtr0304800	FBtr0082334	C42C1.10.2
+>cluster_1
+C42C1.10.1
+>cluster_2
+FBtr0082333

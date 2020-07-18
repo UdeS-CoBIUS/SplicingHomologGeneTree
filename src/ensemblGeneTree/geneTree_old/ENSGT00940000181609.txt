@@ -1,1 +1,0 @@
-(ENSHCOG00000012006__Hippocampus_comes,ENSFHEG00000004044__Fundulus_heteroclitus);

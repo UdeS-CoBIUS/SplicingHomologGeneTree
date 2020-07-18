@@ -1,0 +1,1 @@
+(((ENSSMAG00000010108__Scophthalmus_maximus,ENSHHUG00000036210__Hucho_hucho),((ENSMEUG00000006830__Notamacropus_eugenii,ENSPVAG00000008273__Pteropus_vampyrus),ENSMGAG00000004372__Meleagris_gallopavo)),ENSCSAVG00000001706__Ciona_savignyi);

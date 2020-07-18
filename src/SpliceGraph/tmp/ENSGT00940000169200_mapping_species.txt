@@ -1,0 +1,11 @@
+LABRUSBERGYLTA	labrus_bergylta
+GASTEROSTEUSACULEATUS	gasterosteus_aculeatus
+SERIOLALALANDIDORSALIS	seriola_lalandi_dorsalis
+ANABASTESTUDINEUS	anabas_testudineus
+HIPPOCAMPUSCOMES	hippocampus_comes
+GAMBUSIAAFFINIS	gambusia_affinis
+POECILIAMEXICANA	poecilia_mexicana
+ORYZIASLATIPES	oryzias_latipes
+GADUSMORHUA	gadus_morhua
+ASTYANAXMEXICANUS	astyanax_mexicanus
+EPTATRETUSBURGERI	eptatretus_burgeri

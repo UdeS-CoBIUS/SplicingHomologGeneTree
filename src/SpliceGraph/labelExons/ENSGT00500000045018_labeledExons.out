@@ -1,0 +1,12 @@
+>0
+ENSEBUT00000016852: ['no event', 598, 0]
+ENSCMIT00000007011: ['exon skipping', 0, 0]
+>1
+ENSEBUT00000016852: ['exon skipping', 0, 0]
+ENSCMIT00000007011: ['5event', 419, 0]
+>2
+ENSEBUT00000016852: ['5event', ['internal gap >= 30', 654, 324], 677, 2]
+ENSCMIT00000007011: [['internal gap < 30', 792, 17], 984, 0]
+>3
+ENSEBUT00000016852: ['no event', 6, 2]
+ENSCMIT00000007011: ['exon skipping', 0, 0]

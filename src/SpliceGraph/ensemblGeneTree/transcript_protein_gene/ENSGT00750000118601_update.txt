@@ -1,0 +1,2 @@
+R07B1.2.1	WBGene00002270	Caenorhabditis_elegans_strain_N2	R07B1.2.1
+R07B1.10.2	WBGene00002271	Caenorhabditis_elegans_strain_N2	R07B1.10.2

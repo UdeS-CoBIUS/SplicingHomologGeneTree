@@ -1,0 +1,1 @@
+((ENSRROG00000045347__Rhinopithecus_roxellana,ENSPTEG00000026982__Piliocolobus_tephrosceles),((ENSTGEG00000008958__Theropithecus_gelada,ENSPANG00000033671__Papio_anubis),(ENSMNEG00000009115__Macaca_nemestrina,ENSMFAG00000020718__Macaca_fascicularis)));

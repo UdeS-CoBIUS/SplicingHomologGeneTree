@@ -1,0 +1,1 @@
+((((ENSPMGG00000016760__Periophthalmus_magnuspinnatus,ENSSMAG00000011732__Scophthalmus_maximus),ENSGMOG00000020244__Gadus_morhua),ENSELUG00000014127__Esox_lucius),ENSPNAG00000006781__Pygocentrus_nattereri);

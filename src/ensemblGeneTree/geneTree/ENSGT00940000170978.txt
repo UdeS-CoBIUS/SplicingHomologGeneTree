@@ -1,0 +1,1 @@
+((((ENSCLAG00000011017__Chinchilla_lanigera,ENSMEUG00000005958__Notamacropus_eugenii),ENSPNAG00000010379__Pygocentrus_nattereri),FBgn0013432__Drosophila_melanogaster),YER048W-A__Saccharomyces_cerevisiae_strain_S288C);

@@ -1,0 +1,1 @@
+((ENSOARG00000010403__Ovis_aries,ENSLSDG00000005012__Lonchura_striata_domestica),ENSORLG00000020840__Oryzias_latipes_ASM223467v1);

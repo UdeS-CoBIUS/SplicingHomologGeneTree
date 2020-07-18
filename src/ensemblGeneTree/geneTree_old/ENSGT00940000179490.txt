@@ -1,1 +1,0 @@
-((ENSPNAG00000022414__Pygocentrus_nattereri,ENSAMXG00000036385__Astyanax_mexicanus),ENSIPUG00000004982__Ictalurus_punctatus);

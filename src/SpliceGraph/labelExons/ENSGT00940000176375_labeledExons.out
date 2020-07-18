@@ -1,0 +1,30 @@
+>0
+ENSPNAT00000020600: ['no event', 68, 0]
+YKL021C_mRNA: ['exon skipping', 0, 0]
+>1
+ENSPNAT00000020600: ['no event', 120, 0]
+YKL021C_mRNA: ['exon skipping', 0, 0]
+>2
+ENSPNAT00000020600: ['no event', 116, 1]
+YKL021C_mRNA: ['exon skipping', 0, 0]
+>3
+ENSPNAT00000020600: ['no event', 97, 1]
+YKL021C_mRNA: ['exon skipping', 0, 0]
+>4
+ENSPNAT00000020600: ['no event', 80, 0]
+YKL021C_mRNA: ['exon skipping', 0, 0]
+>5
+ENSPNAT00000020600: [['internal gap >= 30', 119, 1141], 127, 0]
+YKL021C_mRNA: ['5event', 1263, 0]
+>6
+ENSPNAT00000020600: ['no event', 152, 0]
+YKL021C_mRNA: ['exon skipping', 0, 0]
+>7
+ENSPNAT00000020600: ['no event', 47, 0]
+YKL021C_mRNA: ['exon skipping', 0, 0]
+>8
+ENSPNAT00000020600: ['no event', 236, 0]
+YKL021C_mRNA: ['exon skipping', 0, 0]
+>9
+ENSPNAT00000020600: ['exon skipping', 0, 0]
+YKL021C_mRNA: ['5event', 142, 1]

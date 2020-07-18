@@ -1,0 +1,1 @@
+(((ENSSPAG00000015074__Stegastes_partitus,ENSSPAG00000020811__Stegastes_partitus),ENSAPEG00000016473__Amphiprion_percula),ENSTRUG00000025860__Takifugu_rubripes);

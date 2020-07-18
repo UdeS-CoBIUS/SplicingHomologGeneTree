@@ -1,0 +1,1 @@
+((((((ENSUPAG00010014593__Urocitellus_parryii,ENSUPAG00010020677__Urocitellus_parryii),ENSCCNG00000008391__Castor_canadensis),ENSTSYG00000035707__Carlito_syrichta),ENSUAMG00000001858__Ursus_americanus),ENSOGAG00000027642__Otolemur_garnettii),ENSCABG00000019028__Chelonoidis_abingdonii);

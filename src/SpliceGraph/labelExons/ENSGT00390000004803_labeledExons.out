@@ -1,0 +1,50 @@
+>0
+FBtr0083577: ['exon skipping', 0, 0]
+C09G9.2a.1: ['no event', 122, 0]
+C09G9.2b.1: ['exon skipping', 0, 0]
+C09G9.2b.2: ['exon skipping', 0, 0]
+>1
+FBtr0083577: ['exon skipping', 0, 0]
+C09G9.2a.1: ['no event', 148, 0]
+C09G9.2b.1: ['exon skipping', 0, 0]
+C09G9.2b.2: ['exon skipping', 0, 0]
+>2
+FBtr0083577: ['exon skipping', 0, 0]
+C09G9.2a.1: ['no event', 86, 2]
+C09G9.2b.1: ['5event', 80, 0]
+C09G9.2b.2: ['5event', 80, 0]
+>3
+FBtr0083577: ['exon skipping', 0, 0]
+C09G9.2a.1: ['no event', 73, 0]
+C09G9.2b.1: ['no event', 73, 0]
+C09G9.2b.2: ['no event', 73, 0]
+>4
+FBtr0083577: ['exon skipping', 0, 0]
+C09G9.2a.1: ['no event', 66, 2]
+C09G9.2b.1: ['no event', 66, 2]
+C09G9.2b.2: ['no event', 66, 2]
+>5
+FBtr0083577: ['exon skipping', 0, 0]
+C09G9.2a.1: ['no event', 111, 0]
+C09G9.2b.1: ['no event', 111, 0]
+C09G9.2b.2: ['no event', 111, 0]
+>6
+FBtr0083577: ['5event', 26, 0]
+C09G9.2a.1: ['exon skipping', 0, 0]
+C09G9.2b.1: ['exon skipping', 0, 0]
+C09G9.2b.2: ['exon skipping', 0, 0]
+>7
+FBtr0083577: ['3event', 257, 0]
+C09G9.2a.1: ['5event', ['internal gap >= 30', 75, 40], 291, 1]
+C09G9.2b.1: ['5event', ['internal gap >= 30', 75, 40], 291, 1]
+C09G9.2b.2: ['5event', ['internal gap >= 30', 75, 40], 291, 1]
+>8
+FBtr0083577: ['exon skipping', 0, 0]
+C09G9.2a.1: ['no event', 213, 2]
+C09G9.2b.1: ['no event', 213, 2]
+C09G9.2b.2: ['no event', 213, 2]
+>9
+FBtr0083577: ['5event', 790, 1]
+C09G9.2a.1: ['exon skipping', 0, 0]
+C09G9.2b.1: ['exon skipping', 0, 0]
+C09G9.2b.2: ['exon skipping', 0, 0]

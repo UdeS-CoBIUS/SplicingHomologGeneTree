@@ -1,0 +1,10 @@
+MACACAMULATTA	macaca_mulatta
+MACACANEMESTRINA	macaca_nemestrina
+MACACAFASCICULARIS	macaca_fascicularis
+CERCOCEBUSATYS	cercocebus_atys
+THEROPITHECUSGELADA	theropithecus_gelada
+PAPIOANUBIS	papio_anubis
+MANDRILLUSLEUCOPHAEUS	mandrillus_leucophaeus
+PILIOCOLOBUSTEPHROSCELES	piliocolobus_tephrosceles
+COLOBUSANGOLENSISPALLIATUS	colobus_angolensis_palliatus
+CEBUSCAPUCINUS	cebus_capucinus

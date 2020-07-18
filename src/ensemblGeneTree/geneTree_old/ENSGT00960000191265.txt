@@ -1,1 +1,0 @@
-(ENSAHAG00000009922__Apteryx_haastii,ENSCCEG00000021847__Cyanistes_caeruleus);

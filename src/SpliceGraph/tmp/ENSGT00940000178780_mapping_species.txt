@@ -1,0 +1,4 @@
+NEOLAMPROLOGUSBRICHARDI	neolamprologus_brichardi
+PUNDAMILIANYEREREI	pundamilia_nyererei
+AMPHILOPHUSCITRINELLUS	amphilophus_citrinellus
+PERIOPHTHALMUSMAGNUSPINNATUS	periophthalmus_magnuspinnatus

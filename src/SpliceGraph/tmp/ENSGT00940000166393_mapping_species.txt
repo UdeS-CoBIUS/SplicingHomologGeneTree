@@ -1,0 +1,14 @@
+PANTROGLODYTES	pan_troglodytes
+PANPANISCUS	pan_paniscus
+HOMOSAPIENS	homo_sapiens
+GORILLAGORILLA	gorilla_gorilla
+PONGOABELII	pongo_abelii
+CHLOROCEBUSSABAEUS	chlorocebus_sabaeus
+THEROPITHECUSGELADA	theropithecus_gelada
+COLOBUSANGOLENSISPALLIATUS	colobus_angolensis_palliatus
+PILIOCOLOBUSTEPHROSCELES	piliocolobus_tephrosceles
+AOTUSNANCYMAAE	aotus_nancymaae
+CALLITHRIXJACCHUS	callithrix_jacchus
+PROLEMURSIMUS	prolemur_simus
+PANTHERATIGRISALTAICA	panthera_tigris_altaica
+NEOVISONVISON	neovison_vison

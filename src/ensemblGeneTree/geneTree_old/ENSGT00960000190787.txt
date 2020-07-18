@@ -1,1 +1,0 @@
-((ENSNSUG00000005008__Notechis_scutatus,ENSLCOG00000015672__Lepidothrix_coronata),ENSBMUG00000019893__Bos_mutus);

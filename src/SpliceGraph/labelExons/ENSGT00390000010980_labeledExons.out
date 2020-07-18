@@ -1,0 +1,40 @@
+>0
+ENSCHAT00000045072: ['exon skipping', 0, 0]
+ENSDCDT00000045784: ['exon skipping', 0, 0]
+ENSEEET00000023086: ['no event', 104, 0]
+ENSIPUT00000032645: ['exon skipping', 0, 0]
+>1
+ENSCHAT00000045072: ['5event', 96, 0]
+ENSDCDT00000045784: ['5event', 96, 0]
+ENSEEET00000023086: ['no event', 106, 0]
+ENSIPUT00000032645: ['5event', 93, 0]
+>2
+ENSCHAT00000045072: ['no event', 219, 1]
+ENSDCDT00000045784: ['no event', 219, 1]
+ENSEEET00000023086: ['no event', 219, 1]
+ENSIPUT00000032645: ['no event', 219, 1]
+>3
+ENSCHAT00000045072: ['no event', 137, 2]
+ENSDCDT00000045784: ['no event', 137, 2]
+ENSEEET00000023086: ['no event', 137, 2]
+ENSIPUT00000032645: ['no event', 137, 2]
+>4
+ENSCHAT00000045072: ['no event', 75, 2]
+ENSDCDT00000045784: ['no event', 75, 2]
+ENSEEET00000023086: ['no event', 75, 2]
+ENSIPUT00000032645: ['no event', 75, 2]
+>5
+ENSCHAT00000045072: ['no event', 182, 0]
+ENSDCDT00000045784: [['internal gap < 30', 114, 3], 179, 0]
+ENSEEET00000023086: ['no event', 182, 0]
+ENSIPUT00000032645: ['no event', 182, 0]
+>6
+ENSCHAT00000045072: [['internal gap < 30', 81, 6], 172, 0]
+ENSDCDT00000045784: [['internal gap < 30', 86, 12], 166, 0]
+ENSEEET00000023086: [['internal gap < 30', 81, 6], 172, 0]
+ENSIPUT00000032645: ['no event', 178, 0]
+>7
+ENSCHAT00000045072: [['internal gap < 30', 49, 2], 57, 2]
+ENSDCDT00000045784: ['3event', 58, 2]
+ENSEEET00000023086: ['3event', 58, 2]
+ENSIPUT00000032645: ['3event', 58, 2]

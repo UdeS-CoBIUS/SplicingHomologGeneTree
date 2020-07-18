@@ -1,0 +1,1 @@
+((((ENSACIG00000019817__Amphilophus_citrinellus,ENSACIG00000019670__Amphilophus_citrinellus),ENSPNYG00000013787__Pundamilia_nyererei),ENSAPOG00000001577__Acanthochromis_polyacanthus),(ENSMAMG00000024081__Mastacembelus_armatus,ENSATEG00000024425__Anabas_testudineus));

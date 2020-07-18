@@ -1,0 +1,5 @@
+CIONASAVIGNYI	ciona_savignyi
+CIONAINTESTINALIS	ciona_intestinalis
+DANIORERIO	danio_rerio
+NEOLAMPROLOGUSBRICHARDI	neolamprologus_brichardi
+DROSOPHILAMELANOGASTER	drosophila_melanogaster

@@ -1,0 +1,64 @@
+>0
+ENSLACT00000005849: ['5event', ['internal gap < 30', 81, 11], 139, 0]
+ENSXETT00000002838: [['internal gap < 30', 26, 8], 142, 0]
+ENSPVIT00000021446: [['internal gap < 30', 79, 8], 142, 0]
+>1
+ENSLACT00000005849: [['internal gap < 30', 36, 6], 123, 2]
+ENSXETT00000002838: [['internal gap < 30', 55, 3], 126, 2]
+ENSPVIT00000021446: [['internal gap < 30', 47, 3], 126, 2]
+>2
+ENSLACT00000005849: ['3event', 132, 0]
+ENSXETT00000002838: ['no event', 134, 0]
+ENSPVIT00000021446: ['no event', 134, 0]
+>3
+ENSLACT00000005849: ['exon skipping', 0, 0]
+ENSXETT00000002838: ['no event', 4, 0]
+ENSPVIT00000021446: ['exon skipping', 0, 0]
+>4
+ENSLACT00000005849: ['5event', 1, 1]
+ENSXETT00000002838: ['no event', 38, 2]
+ENSPVIT00000021446: ['exon skipping', 0, 0]
+>5
+ENSLACT00000005849: ['exon skipping', 0, 0]
+ENSXETT00000002838: ['no event', 1, 1]
+ENSPVIT00000021446: ['exon skipping', 0, 0]
+>6
+ENSLACT00000005849: ['5event', 139, 0]
+ENSXETT00000002838: ['no event', 141, 0]
+ENSPVIT00000021446: ['3event', '5event', 99, 0]
+>7
+ENSLACT00000005849: ['no event', 69, 2]
+ENSXETT00000002838: ['no event', 69, 2]
+ENSPVIT00000021446: ['exon skipping', 0, 0]
+>8
+ENSLACT00000005849: ['no event', 178, 0]
+ENSXETT00000002838: ['no event', 178, 0]
+ENSPVIT00000021446: ['5event', 176, 0]
+>9
+ENSLACT00000005849: [['internal gap < 30', 60, 3], 84, 0]
+ENSXETT00000002838: [['internal gap < 30', 60, 3], 84, 0]
+ENSPVIT00000021446: ['no event', 87, 0]
+>10
+ENSLACT00000005849: ['no event', 75, 1]
+ENSXETT00000002838: ['no event', 75, 1]
+ENSPVIT00000021446: ['no event', 75, 1]
+>11
+ENSLACT00000005849: ['no event', 135, 2]
+ENSXETT00000002838: ['no event', 135, 2]
+ENSPVIT00000021446: ['no event', 135, 2]
+>12
+ENSLACT00000005849: [['internal gap < 30', 120, 22], 132, 0]
+ENSXETT00000002838: ['exon skipping', 0, 0]
+ENSPVIT00000021446: ['no event', 154, 0]
+>13
+ENSLACT00000005849: ['exon skipping', 0, 0]
+ENSXETT00000002838: ['5event', 44, 0]
+ENSPVIT00000021446: ['exon skipping', 0, 0]
+>14
+ENSLACT00000005849: ['exon skipping', 0, 0]
+ENSXETT00000002838: ['exon skipping', 0, 0]
+ENSPVIT00000021446: ['5event', 18, 2]
+>15
+ENSLACT00000005849: ['5event', 34, 1]
+ENSXETT00000002838: ['exon skipping', 0, 0]
+ENSPVIT00000021446: ['exon skipping', 0, 0]

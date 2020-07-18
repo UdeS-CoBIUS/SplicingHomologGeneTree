@@ -1,0 +1,1 @@
+((ENSFDAG00000013234__Fukomys_damarensis,ENSHGLG00000017488__Heterocephalus_glaber_HetGla_female_1.0),ENSODEG00000016326__Octodon_degus);

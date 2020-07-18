@@ -1,0 +1,1 @@
+((((ENSTNIG00000014367__Tetraodon_nigroviridis,ENSGACG00000005256__Gasterosteus_aculeatus),ENSCSEG00000004976__Cynoglossus_semilaevis),(ENSTNIG00000011751__Tetraodon_nigroviridis,ENSSDUG00000010625__Seriola_dumerili)),ENSGMOG00000019976__Gadus_morhua);

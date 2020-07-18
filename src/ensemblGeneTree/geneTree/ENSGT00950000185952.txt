@@ -1,0 +1,1 @@
+(ENSPFOG00000023681__Poecilia_formosa,ENSGALG00000048226__Gallus_gallus);

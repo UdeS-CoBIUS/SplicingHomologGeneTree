@@ -1,0 +1,1 @@
+(((ENSMUNG00000002337__Melopsittacus_undulatus,ENSZALG00000009815__Zonotrichia_albicollis),ENSNPEG00000013017__Nothoprocta_perdicaria),((ENSNVIG00000014271__Neovison_vison,ENSUAMG00000016069__Ursus_americanus),ENSSSCG00000031415__Sus_scrofa_strain_reference));

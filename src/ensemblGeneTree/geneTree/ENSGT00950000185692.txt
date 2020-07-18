@@ -1,0 +1,1 @@
+(ENSUAMG00000019636__Ursus_americanus,ENSVVUG00000009841__Vulpes_vulpes);

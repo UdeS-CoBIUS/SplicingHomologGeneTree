@@ -1,1 +1,0 @@
-(((ENSPPRG00000024980__Panthera_pardus,ENSFCAG00000036902__Felis_catus),ENSPCIG00000024458__Phascolarctos_cinereus),ENSCSEG00000015736__Cynoglossus_semilaevis);

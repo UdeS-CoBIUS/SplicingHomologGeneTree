@@ -1,0 +1,1 @@
+(((ENSPTIG00000018539__Panthera_tigris_altaica,ENSPPRG00000002231__Panthera_pardus),ENSFCAG00000045451__Felis_catus),ENSPTEG00000036898__Piliocolobus_tephrosceles);

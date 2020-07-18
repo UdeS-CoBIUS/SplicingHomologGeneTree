@@ -1,0 +1,1 @@
+((((ENSTGEG00000021929__Theropithecus_gelada,ENSMLEG00000041159__Mandrillus_leucophaeus),ENSRBIG00000028886__Rhinopithecus_bieti),(ENSG00000267140__Homo_sapiens,ENSCCNG00000024609__Castor_canadensis)),(ENSUAMG00000025763__Ursus_americanus,ENSNVIG00000022251__Neovison_vison));

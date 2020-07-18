@@ -1,0 +1,2 @@
+YNL335W_mRNA	YNL335W	Saccharomyces_cerevisiae_strain_S288C
+YFL061W_mRNA	YFL061W	Saccharomyces_cerevisiae_strain_S288C

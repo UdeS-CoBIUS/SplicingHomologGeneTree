@@ -1,1 +1,0 @@
-((((ENSNSUG00000004295__Notechis_scutatus,ENSCPRG00005017553__Crocodylus_porosus),((ENSNSUG00000001888__Notechis_scutatus,ENSNSUG00000003582__Notechis_scutatus),ENSZALG00000014500__Zonotrichia_albicollis)),ENSCCNG00000014462__Castor_canadensis),(ENSNBRG00000022544__Neolamprologus_brichardi,ENSDARG00000102208__Danio_rerio));

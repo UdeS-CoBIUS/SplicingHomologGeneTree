@@ -1,0 +1,1 @@
+(ENSDARG00000092873__Danio_rerio,ENSMAMG00000001330__Mastacembelus_armatus);

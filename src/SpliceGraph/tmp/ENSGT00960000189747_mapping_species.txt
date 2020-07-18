@@ -1,0 +1,5 @@
+THEROPITHECUSGELADA	theropithecus_gelada
+PILIOCOLOBUSTEPHROSCELES	piliocolobus_tephrosceles
+THEROPITHECUSGELADA	theropithecus_gelada
+PAPIOANUBIS	papio_anubis
+PILIOCOLOBUSTEPHROSCELES	piliocolobus_tephrosceles

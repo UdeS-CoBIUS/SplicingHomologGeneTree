@@ -1,0 +1,1 @@
+(ENSSPUG00000004857__Sphenodon_punctatus,ENSOANG00000028770__Ornithorhynchus_anatinus);

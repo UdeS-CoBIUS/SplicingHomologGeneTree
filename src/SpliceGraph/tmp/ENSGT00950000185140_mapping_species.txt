@@ -1,0 +1,6 @@
+URSUSAMERICANUS	ursus_americanus
+URSUSMARITIMUS	ursus_maritimus
+CANISLUPUS	canis_lupus
+EQUUSASINUS	equus_asinus
+ORYCTOLAGUSCUNICULUS	oryctolagus_cuniculus
+MERIONESUNGUICULATUS	meriones_unguiculatus

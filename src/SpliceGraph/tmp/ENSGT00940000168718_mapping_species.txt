@@ -1,0 +1,12 @@
+URSUSMARITIMUS	ursus_maritimus
+NEOVISONVISON	neovison_vison
+NEOVISONVISON	neovison_vison
+PANTHERAPARDUS	panthera_pardus
+FELISCATUS	felis_catus
+MERIONESUNGUICULATUS	meriones_unguiculatus
+CRICETULUSGRISEUSCRIGRIPICR	cricetulus_griseus_crigri-picr
+MANACUSVITELLINUS	manacus_vitellinus
+MANACUSVITELLINUS	manacus_vitellinus
+HAPLOCHROMISBURTONI	haplochromis_burtoni
+PUNDAMILIANYEREREI	pundamilia_nyererei
+GADUSMORHUA	gadus_morhua

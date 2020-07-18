@@ -1,0 +1,1 @@
+((FBgn0038877__Drosophila_melanogaster,WBGene00000795__Caenorhabditis_elegans_strain_N2),ENSHHUG00000014251__Hucho_hucho);

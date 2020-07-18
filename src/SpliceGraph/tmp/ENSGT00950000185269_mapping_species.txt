@@ -1,0 +1,9 @@
+VULPESVULPES	vulpes_vulpes
+CANISLUPUSDINGO	canis_lupus_dingo
+EQUUSCABALLUS	equus_caballus
+THEROPITHECUSGELADA	theropithecus_gelada
+PILIOCOLOBUSTEPHROSCELES	piliocolobus_tephrosceles
+THEROPITHECUSGELADA	theropithecus_gelada
+THEROPITHECUSGELADA	theropithecus_gelada
+THEROPITHECUSGELADA	theropithecus_gelada
+THEROPITHECUSGELADA	theropithecus_gelada

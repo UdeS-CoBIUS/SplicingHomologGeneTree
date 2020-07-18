@@ -1,0 +1,1 @@
+((((ENSCAPG00000013762__Cavia_aperea,ENSCGRG00015014984__Cricetulus_griseus_CriGri-PICR),ENSTSYG00000013006__Carlito_syrichta),ENSUMAG00000018379__Ursus_maritimus),(ENSNPEG00000002937__Nothoprocta_perdicaria,ENSCCEG00000012297__Cyanistes_caeruleus));

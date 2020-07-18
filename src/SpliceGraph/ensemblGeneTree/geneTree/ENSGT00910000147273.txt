@@ -1,0 +1,1 @@
+((((((ENSMNEG00000035312__Macaca_nemestrina,ENSMMUG00000014807__Macaca_mulatta),ENSPANG00000035140__Papio_anubis),ENSTGEG00000014746__Theropithecus_gelada),ENSPTEG00000012801__Piliocolobus_tephrosceles),ENSPPAG00000018008__Pan_paniscus),(ENSANAG00000033493__Aotus_nancymaae,ENSCCAG00000022553__Cebus_capucinus_imitator));

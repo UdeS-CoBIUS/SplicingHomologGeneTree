@@ -1,0 +1,1 @@
+(((ENSMUGG00000018240__Meriones_unguiculatus,ENSMUGG00000017853__Meriones_unguiculatus),ENSMUGG00000002334__Meriones_unguiculatus),ENSCGRG00015010052__Cricetulus_griseus_CriGri-PICR);

@@ -1,0 +1,2 @@
+YGR092W_mRNA	YGR092W	Saccharomyces_cerevisiae_strain_S288C
+YPR111W_mRNA	YPR111W	Saccharomyces_cerevisiae_strain_S288C

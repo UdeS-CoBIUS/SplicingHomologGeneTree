@@ -1,1 +1,0 @@
-((ENSGACG00000019088__Gasterosteus_aculeatus,ENSTRUG00000020850__Takifugu_rubripes),ENSONIG00000012941__Oreochromis_niloticus);

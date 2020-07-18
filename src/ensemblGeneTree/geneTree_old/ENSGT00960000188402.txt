@@ -1,1 +1,0 @@
-(((ENSSMAG00000013569__Scophthalmus_maximus,ENSSMAG00000011968__Scophthalmus_maximus),ENSIPUG00000011917__Ictalurus_punctatus),((ENSCCEG00000008256__Cyanistes_caeruleus,ENSPMJG00000012339__Parus_major),ENSLSDG00000017003__Lonchura_striata_domestica));

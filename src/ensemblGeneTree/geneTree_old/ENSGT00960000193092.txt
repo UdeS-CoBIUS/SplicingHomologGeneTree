@@ -1,1 +1,0 @@
-(ENSPCIG00000036740__Phascolarctos_cinereus,ENSNSUG00000002279__Notechis_scutatus);

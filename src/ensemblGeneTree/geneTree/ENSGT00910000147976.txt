@@ -1,0 +1,1 @@
+((ENSCATG00000042300__Cercocebus_atys,ENSMLEG00000028733__Mandrillus_leucophaeus),ENSMMUG00000045551__Macaca_mulatta);

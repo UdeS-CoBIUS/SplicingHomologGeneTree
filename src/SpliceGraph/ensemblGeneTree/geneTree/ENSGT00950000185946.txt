@@ -1,0 +1,1 @@
+(ENSOGAG00000024129__Otolemur_garnettii,ENSGALG00000049870__Gallus_gallus);

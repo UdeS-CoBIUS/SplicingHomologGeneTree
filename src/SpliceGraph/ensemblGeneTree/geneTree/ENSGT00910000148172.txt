@@ -1,0 +1,1 @@
+((((ENSRBIG00000030762__Rhinopithecus_bieti,ENSRROG00000039795__Rhinopithecus_roxellana),ENSCANG00000028020__Colobus_angolensis_palliatus),ENSPTEG00000032298__Piliocolobus_tephrosceles),(ENSPTRG00000050304__Pan_troglodytes,ENSPPAG00000041942__Pan_paniscus));

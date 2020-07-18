@@ -1,0 +1,6 @@
+>0
+ENSNMET00000039530: ['no event', 140, 0]
+ENSCJPT00005034813: ['3event', 130, 0]
+>1
+ENSNMET00000039530: ['exon skipping', 0, 0]
+ENSCJPT00005034813: ['5event', 61, 1]

@@ -1,0 +1,4 @@
+THEROPITHECUSGELADA	theropithecus_gelada
+MACACANEMESTRINA	macaca_nemestrina
+PILIOCOLOBUSTEPHROSCELES	piliocolobus_tephrosceles
+PROLEMURSIMUS	prolemur_simus

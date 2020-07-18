@@ -1,1 +1,0 @@
-((ENSCABG00000010978__Chelonoidis_abingdonii,ENSDNOG00000038124__Dasypus_novemcinctus),ENSXCOG00000008519__Xiphophorus_couchianus);

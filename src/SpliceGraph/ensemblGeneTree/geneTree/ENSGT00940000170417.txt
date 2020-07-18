@@ -1,0 +1,1 @@
+((((ENSMNEG00000032848__Macaca_nemestrina,ENSTGEG00000011442__Theropithecus_gelada),(ENSPPAG00000035949__Pan_paniscus,ENSPTRG00000046616__Pan_troglodytes)),ENSSDAG00000015344__Spermophilus_dauricus),ENSCCEG00000003436__Cyanistes_caeruleus);

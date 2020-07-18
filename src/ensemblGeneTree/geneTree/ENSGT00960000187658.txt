@@ -1,0 +1,1 @@
+(((ENSGAGG00000006578__Gopherus_agassizii,ENSCPBG00000013166__Chrysemys_picta_bellii),ENSLCOG00000005872__Lepidothrix_coronata),((ENSUPAG00010012690__Urocitellus_parryii,ENSCJAG00000043454__Callithrix_jacchus),ENSCHOG00000005783__Choloepus_hoffmanni));

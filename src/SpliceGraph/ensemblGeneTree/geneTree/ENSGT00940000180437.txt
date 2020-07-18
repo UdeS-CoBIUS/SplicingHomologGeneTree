@@ -1,0 +1,1 @@
+((((ENSUAMG00000018583__Ursus_americanus,ENSBMUG00000012818__Bos_mutus),ENSMUGG00000012339__Meriones_unguiculatus),ENSCABG00000000383__Chelonoidis_abingdonii),((ENSAPEG00000004991__Amphiprion_percula,ENSCSEG00000013775__Cynoglossus_semilaevis),ENSIPUG00000018536__Ictalurus_punctatus));

@@ -1,0 +1,1 @@
+((ENSCING00000002965__Ciona_intestinalis,ENSPTEG00000006207__Piliocolobus_tephrosceles),((WBGene00004402__Caenorhabditis_elegans_strain_N2,WBGene00004403__Caenorhabditis_elegans_strain_N2),FBgn0041723__Drosophila_melanogaster));

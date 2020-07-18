@@ -1,1 +1,0 @@
-((ENSAOCG00000012970__Amphiprion_ocellaris,ENSPKIG00000023425__Paramormyrops_kingsleyae),ENSOARG00000010193__Ovis_aries);

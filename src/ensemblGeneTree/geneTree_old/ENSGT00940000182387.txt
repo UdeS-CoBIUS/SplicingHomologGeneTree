@@ -1,1 +1,0 @@
-(ENSPREG00000018916__Poecilia_reticulata,ENSGAFG00000002800__Gambusia_affinis);

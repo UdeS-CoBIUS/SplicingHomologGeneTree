@@ -1,0 +1,6 @@
+>cluster_0
+YCR033W_mRNA	C14B9.6a.2
+>cluster_1
+C14B9.6a.1
+>cluster_2
+C14B9.6a.3

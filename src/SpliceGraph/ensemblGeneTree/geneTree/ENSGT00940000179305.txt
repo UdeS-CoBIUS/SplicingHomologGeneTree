@@ -1,0 +1,1 @@
+((ENSORLG00020004594__Oryzias_latipes_ASM223471v1,ENSOMEG00000000266__Oryzias_melastigma),(ENSTRUG00000024328__Takifugu_rubripes,ENSMAMG00000010068__Mastacembelus_armatus));

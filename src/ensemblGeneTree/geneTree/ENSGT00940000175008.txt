@@ -1,0 +1,1 @@
+((((ENSPREG00000017945__Poecilia_reticulata,ENSKMAG00000014983__Kryptolebias_marmoratus),ENSPNYG00000008869__Pundamilia_nyererei),ENSAMXG00000032592__Astyanax_mexicanus),ENSCING00000014101__Ciona_intestinalis);

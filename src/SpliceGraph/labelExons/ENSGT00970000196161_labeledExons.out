@@ -1,0 +1,24 @@
+>0
+C26D10.5a.1: ['no event', 156, 0]
+C26D10.5b.1: ['no event', 156, 0]
+>1
+C26D10.5a.1: ['no event', 187, 1]
+C26D10.5b.1: ['no event', 187, 1]
+>2
+C26D10.5a.1: ['no event', 238, 0]
+C26D10.5b.1: ['no event', 238, 0]
+>3
+C26D10.5a.1: ['no event', 302, 2]
+C26D10.5b.1: ['no event', 302, 2]
+>4
+C26D10.5a.1: ['no event', 147, 2]
+C26D10.5b.1: ['no event', 147, 2]
+>5
+C26D10.5a.1: ['no event', 138, 0]
+C26D10.5b.1: ['no event', 138, 0]
+>6
+C26D10.5a.1: ['no event', 681, 1]
+C26D10.5b.1: ['3event', 581, 1]
+>7
+C26D10.5a.1: ['no event', 120, 2]
+C26D10.5b.1: ['3event', '5event', 42, 0]

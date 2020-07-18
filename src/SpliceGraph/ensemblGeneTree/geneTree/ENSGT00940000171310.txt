@@ -1,0 +1,1 @@
+(ENSMGAG00000017148__Meleagris_gallopavo,ENSSARG00000003500__Sorex_araneus);

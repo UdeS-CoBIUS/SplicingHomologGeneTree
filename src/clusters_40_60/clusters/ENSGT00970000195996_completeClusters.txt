@@ -1,0 +1,2 @@
+>completeCluster_0
+C47A10.1.1	K08E7.9.1	T21E8.1b.2	T21E8.2.1	T21E8.3.1

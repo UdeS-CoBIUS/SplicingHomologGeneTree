@@ -1,1 +1,0 @@
-(ENSPCAG00000006896__Procavia_capensis,ENSMEUG00000014176__Notamacropus_eugenii);

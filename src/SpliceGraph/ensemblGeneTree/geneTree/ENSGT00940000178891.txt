@@ -1,0 +1,1 @@
+((((ENSPMGG00000011526__Periophthalmus_magnuspinnatus,ENSPMGG00000016314__Periophthalmus_magnuspinnatus),ENSPMEG00000011248__Poecilia_mexicana),ENSLBEG00000010989__Labrus_bergylta),ENSCPRG00005011476__Crocodylus_porosus);

@@ -1,0 +1,4 @@
+>completeCluster_0
+FBtr0079188	C07H6.2.1	FBtr0302971
+>completeCluster_1
+FBtr0302971	FBtr0343122	C07H6.2.1

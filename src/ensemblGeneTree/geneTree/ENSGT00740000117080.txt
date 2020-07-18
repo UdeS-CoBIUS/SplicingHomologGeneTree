@@ -1,0 +1,1 @@
+(((ENSAMXG00000040717__Astyanax_mexicanus,ENSDARG00000101774__Danio_rerio),(ENSONIG00000009072__Oreochromis_niloticus,ENSPFOG00000023152__Poecilia_formosa)),ENSLOCG00000009771__Lepisosteus_oculatus);

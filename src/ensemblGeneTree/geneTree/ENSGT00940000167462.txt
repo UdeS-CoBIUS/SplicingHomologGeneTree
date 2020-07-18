@@ -1,0 +1,1 @@
+((((ENSETEG00000006974__Echinops_telfairi,ENSETEG00000010082__Echinops_telfairi),ENSETEG00000000617__Echinops_telfairi),ENSCHOG00000013643__Choloepus_hoffmanni),((ENSCCNG00000004160__Castor_canadensis,ENSUPAG00010007848__Urocitellus_parryii),ENSPVAG00000002010__Pteropus_vampyrus));

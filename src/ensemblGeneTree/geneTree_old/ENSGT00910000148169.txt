@@ -1,1 +1,0 @@
-((((ENSSSCG00000035692__Sus_scrofa,ENSUAMG00000003194__Ursus_americanus),ENSEASG00005016230__Equus_asinus_asinus),((ENSPTRG00000050169__Pan_troglodytes,ENSPPAG00000027252__Pan_paniscus),ENSGGOG00000041758__Gorilla_gorilla)),(ENSGAGG00000021595__Gopherus_agassizii,ENSARWG00000011293__Apteryx_rowi));

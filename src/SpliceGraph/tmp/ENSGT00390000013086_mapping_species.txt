@@ -1,0 +1,3 @@
+VICUGNAPACOS	vicugna_pacos
+PTEROPUSVAMPYRUS	pteropus_vampyrus
+PONGOABELII	pongo_abelii

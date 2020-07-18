@@ -1,0 +1,1 @@
+(((ENSCPBG00000017215__Chrysemys_picta_bellii,ENSMSIG00000031278__Mus_spicilegus),ENSPCIG00000028451__Phascolarctos_cinereus),ENSCVAG00000016071__Cyprinodon_variegatus);

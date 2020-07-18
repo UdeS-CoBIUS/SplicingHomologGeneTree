@@ -1,0 +1,1 @@
+(((((ENSHBUG00000011392__Haplochromis_burtoni,ENSPNYG00000014461__Pundamilia_nyererei),(ENSPLAG00000016916__Poecilia_latipinna,ENSAOCG00000009022__Amphiprion_ocellaris)),ENSGACG00000020801__Gasterosteus_aculeatus),ENSGACG00000020802__Gasterosteus_aculeatus),ENSGMOG00000019965__Gadus_morhua);

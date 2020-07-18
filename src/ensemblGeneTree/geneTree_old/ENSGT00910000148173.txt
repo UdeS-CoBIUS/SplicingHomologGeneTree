@@ -1,1 +1,0 @@
-(((ENSMMUG00000047896__Macaca_mulatta,ENSMLEG00000010314__Mandrillus_leucophaeus),ENSPTEG00000036745__Piliocolobus_tephrosceles),ENSANAG00000020067__Aotus_nancymaae);

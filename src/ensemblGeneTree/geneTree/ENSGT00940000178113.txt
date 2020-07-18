@@ -1,0 +1,1 @@
+((((((ENSSLDG00000021380__Seriola_lalandi_dorsalis,ENSSLDG00000021432__Seriola_lalandi_dorsalis),ENSMAMG00000024199__Mastacembelus_armatus),ENSLBEG00000006520__Labrus_bergylta),ENSSDUG00000007166__Seriola_dumerili),ENSAPOG00000016665__Acanthochromis_polyacanthus),ENSMSIG00000010904__Mus_spicilegus);

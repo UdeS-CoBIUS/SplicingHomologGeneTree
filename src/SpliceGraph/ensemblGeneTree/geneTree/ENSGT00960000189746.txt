@@ -1,0 +1,1 @@
+((((ENSABRG00000010504__Anser_brachyrhynchus,ENSAPLG00000030957__Anas_platyrhynchos_platyrhynchos),ENSMVIG00005007952__Manacus_vitellinus),ENSAOWG00000004963__Apteryx_owenii),ENSCPRG00005011766__Crocodylus_porosus);

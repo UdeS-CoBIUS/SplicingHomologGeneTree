@@ -1,0 +1,1 @@
+((((ENSCCEG00000008904__Cyanistes_caeruleus,ENSLSDG00000007679__Lonchura_striata_domestica),ENSNPEG00000014460__Nothoprocta_perdicaria),ENSCABG00000006161__Chelonoidis_abingdonii),ENSNBRG00000007083__Neolamprologus_brichardi);

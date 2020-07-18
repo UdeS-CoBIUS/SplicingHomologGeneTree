@@ -1,0 +1,1 @@
+((ENSLACG00000012007__Latimeria_chalumnae,ENSLACG00000009663__Latimeria_chalumnae),(ENSLOCG00000013392__Lepisosteus_oculatus,ENSSFOG00015006656__Scleropages_formosus));

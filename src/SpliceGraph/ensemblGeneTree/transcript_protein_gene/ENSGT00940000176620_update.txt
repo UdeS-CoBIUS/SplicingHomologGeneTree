@@ -1,0 +1,2 @@
+YGR177C_mRNA	YGR177C	Saccharomyces_cerevisiae_strain_S288C
+YOR377W_mRNA	YOR377W	Saccharomyces_cerevisiae_strain_S288C

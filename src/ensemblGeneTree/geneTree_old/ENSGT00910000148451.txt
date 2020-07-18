@@ -1,1 +1,0 @@
-((((ENSTGEG00000014513__Theropithecus_gelada,ENSTGEG00000014498__Theropithecus_gelada),ENSMNEG00000028179__Macaca_nemestrina),ENSPANG00000034503__Papio_anubis),ENSPTRG00000048318__Pan_troglodytes);

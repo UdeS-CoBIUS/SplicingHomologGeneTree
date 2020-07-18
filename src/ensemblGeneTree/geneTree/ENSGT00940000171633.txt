@@ -1,0 +1,1 @@
+(ENSGMOG00000000821__Gadus_morhua,ENSLACG00000022531__Latimeria_chalumnae);

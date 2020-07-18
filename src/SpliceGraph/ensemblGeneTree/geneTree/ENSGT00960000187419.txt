@@ -1,0 +1,1 @@
+(((ENSAPEG00000002004__Amphiprion_percula,ENSOMEG00000008342__Oryzias_melastigma),ENSTRUG00000024452__Takifugu_rubripes),ENSEBUG00000001347__Eptatretus_burgeri);

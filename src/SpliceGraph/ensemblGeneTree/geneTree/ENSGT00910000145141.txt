@@ -1,0 +1,1 @@
+(((ENSODEG00000016785__Octodon_degus,ENSTSYG00000001235__Carlito_syrichta),ENSBTAG00000001595__Bos_taurus),((ENSETEG00000002818__Echinops_telfairi,ENSETEG00000000745__Echinops_telfairi),ENSPCAG00000000543__Procavia_capensis));

@@ -1,0 +1,1 @@
+(((ENSGACG00000016564__Gasterosteus_aculeatus,ENSPFOG00000010439__Poecilia_formosa),ENSGMOG00000003836__Gadus_morhua),ENSLACG00000015090__Latimeria_chalumnae);

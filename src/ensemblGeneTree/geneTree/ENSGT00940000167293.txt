@@ -1,0 +1,1 @@
+((((ENSSTOG00000030229__Ictidomys_tridecemlineatus,ENSMMMG00000006338__Marmota_marmota_marmota),(((ENSMMUG00000018480__Macaca_mulatta,ENSMFAG00000005860__Macaca_fascicularis),ENSMLEG00000043704__Mandrillus_leucophaeus),ENSPANG00000034061__Papio_anubis)),ENSVPAG00000006203__Vicugna_pacos),ENSCHOG00000006819__Choloepus_hoffmanni);

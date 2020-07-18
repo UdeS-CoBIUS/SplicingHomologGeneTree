@@ -1,0 +1,1 @@
+((((ENSPVIG00000022945__Pogona_vitticeps,ENSPVIG00000022946__Pogona_vitticeps),(ENSNSUG00000017019__Notechis_scutatus,ENSNSUG00000003454__Notechis_scutatus)),ENSSMRG00000000339__Salvator_merianae),(((ENSNSUG00000017016__Notechis_scutatus,ENSNSUG00000017018__Notechis_scutatus),ENSPVIG00000022948__Pogona_vitticeps),ENSSMRG00000000371__Salvator_merianae));

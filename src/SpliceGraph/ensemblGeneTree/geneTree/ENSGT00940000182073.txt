@@ -1,0 +1,1 @@
+(ENSORLG00020019321__Oryzias_latipes_ASM223471v1,ENSIPUG00000008032__Ictalurus_punctatus);

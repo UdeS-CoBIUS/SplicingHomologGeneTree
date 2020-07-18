@@ -1,1 +1,0 @@
-((((ENSGACG00000000811__Gasterosteus_aculeatus,ENSPFOG00000022642__Poecilia_formosa),ENSGMOG00000007405__Gadus_morhua),ENSACIG00000016179__Amphilophus_citrinellus),((ENSPNAG00000002679__Pygocentrus_nattereri,ENSIPUG00000018240__Ictalurus_punctatus),ENSDARG00000104840__Danio_rerio));

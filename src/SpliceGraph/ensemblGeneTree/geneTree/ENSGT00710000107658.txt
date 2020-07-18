@@ -1,0 +1,1 @@
+((ENSTGUG00000014236__Taeniopygia_guttata,ENSTGUG00000010504__Taeniopygia_guttata),ENSEEUG00000001678__Erinaceus_europaeus);

@@ -1,0 +1,1 @@
+((ENSCCNG00000004762__Castor_canadensis,ENSUPAG00010016585__Urocitellus_parryii),(((ENSMSIG00000012500__Mus_spicilegus,ENSMUSG00000046203__Mus_musculus_strain_reference_(CL57BL6)),MGP_CAROLIEiJ_G0008951__Mus_caroli_strain_CAROLI_EIJ),ENSPEMG00000008123__Peromyscus_maniculatus_bairdii));

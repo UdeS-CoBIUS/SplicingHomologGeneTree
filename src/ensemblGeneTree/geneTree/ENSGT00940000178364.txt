@@ -1,0 +1,1 @@
+(((ENSMMOG00000017227__Mola_mola,ENSMMOG00000017230__Mola_mola),ENSFHEG00000014182__Fundulus_heteroclitus),((ENSPMGG00000010500__Periophthalmus_magnuspinnatus,ENSPMGG00000010502__Periophthalmus_magnuspinnatus),ENSPMGG00000015079__Periophthalmus_magnuspinnatus));

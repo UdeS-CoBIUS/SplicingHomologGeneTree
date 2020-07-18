@@ -1,0 +1,9 @@
+>0
+F07C6.6.1: ['no event', 73, 0]
+F07C6.2.1: ['no event', 73, 0]
+>1
+F07C6.6.1: [['internal gap < 30', 215, 26], 228, 2]
+F07C6.2.1: ['no event', 254, 2]
+>2
+F07C6.6.1: ['exon skipping', 0, 0]
+F07C6.2.1: ['no event', 18, 2]

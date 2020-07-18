@@ -1,0 +1,1 @@
+(((ENSCAFG00020024708__Canis_lupus_dingo,ENSVVUG00000013772__Vulpes_vulpes),ENSFCAG00000038938__Felis_catus),(ENSSDAG00000015625__Spermophilus_dauricus,ENSSDAG00000020152__Spermophilus_dauricus));

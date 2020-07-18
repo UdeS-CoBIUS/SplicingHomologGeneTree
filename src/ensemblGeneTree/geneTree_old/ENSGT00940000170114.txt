@@ -1,1 +1,0 @@
-(((ENSORLG00020005218__Oryzias_latipes_ASM223471v1,ENSXCOG00000002471__Xiphophorus_couchianus),(((ENSPSMG00000001435__Prolemur_simus,ENSPSMG00000001427__Prolemur_simus),ENSTGUG00000000043__Taeniopygia_guttata),ENSPMAG00000010168__Petromyzon_marinus)),ENSCSAVG00000000444__Ciona_savignyi);

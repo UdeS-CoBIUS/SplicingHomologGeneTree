@@ -1,0 +1,15 @@
+>0
+ENSHHUT00000004769: ['no event', 92, 0]
+ENSPNAT00000032333: ['exon skipping', 0, 0]
+>1
+ENSHHUT00000004769: ['exon skipping', 0, 0]
+ENSPNAT00000032333: ['5event', 254, 0]
+>2
+ENSHHUT00000004769: ['5event', 26, 0]
+ENSPNAT00000032333: ['exon skipping', 0, 0]
+>3
+ENSHHUT00000004769: ['no event', 106, 0]
+ENSPNAT00000032333: ['exon skipping', 0, 0]
+>4
+ENSHHUT00000004769: ['no event', 48, 2]
+ENSPNAT00000032333: ['exon skipping', 0, 0]

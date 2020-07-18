@@ -1,0 +1,1 @@
+(((ENSLOCG00000005984__Lepisosteus_oculatus,ENSDARG00000089200__Danio_rerio),ENSCAPG00000013783__Cavia_aperea),(ENSACAG00000028498__Anolis_carolinensis,ENSLOCG00000002272__Lepisosteus_oculatus));

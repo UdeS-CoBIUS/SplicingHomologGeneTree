@@ -1,0 +1,1 @@
+((((((ENSOMEG00000011155__Oryzias_melastigma,ENSOMEG00000016703__Oryzias_melastigma),ENSOMEG00000006145__Oryzias_melastigma),ENSORLG00000023805__Oryzias_latipes_ASM223467v1),ENSAMXG00000043980__Astyanax_mexicanus),ENSLOCG00000012119__Lepisosteus_oculatus),ENSFALG00000009122__Ficedula_albicollis);

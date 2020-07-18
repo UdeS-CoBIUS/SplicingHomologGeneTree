@@ -1,0 +1,1 @@
+((((ENSACIG00000011295__Amphilophus_citrinellus,ENSHBUG00000015933__Haplochromis_burtoni),ENSKMAG00000007601__Kryptolebias_marmoratus),ENSCSEG00000008153__Cynoglossus_semilaevis),ENSAMXG00000032713__Astyanax_mexicanus_Astyanax_mexicanus-2.0);

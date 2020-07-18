@@ -1,0 +1,1 @@
+(ENSJHYG00000001465__Junco_hyemalis,YDL125C__Saccharomyces_cerevisiae_strain_S288C);

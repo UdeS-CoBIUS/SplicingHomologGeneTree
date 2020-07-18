@@ -1,0 +1,1 @@
+((ENSTGUG00000002504__Taeniopygia_guttata,ENSLSDG00000005465__Lonchura_striata_domestica),ENSLOCG00000011359__Lepisosteus_oculatus);

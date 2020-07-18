@@ -1,0 +1,1 @@
+((((ENSSARG00000001457__Sorex_araneus,ENSEEUG00000012341__Erinaceus_europaeus),ENSMPUG00000007435__Mustela_putorius_furo),ENSPVAG00000017193__Pteropus_vampyrus),ENSCPOG00000011769__Cavia_porcellus);

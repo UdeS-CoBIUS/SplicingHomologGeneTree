@@ -1,0 +1,1 @@
+((((((ENSPCAG00000014419__Procavia_capensis,ENSMSIG00000004083__Mus_spicilegus),ENSTSYG00000030075__Carlito_syrichta),ENSUMAG00000016497__Ursus_maritimus),ENSOANG00000001573__Ornithorhynchus_anatinus),ENSAPLG00000018032__Anas_platyrhynchos_platyrhynchos),(ENSCING00000012925__Ciona_intestinalis,ENSCSAVG00000009728__Ciona_savignyi));

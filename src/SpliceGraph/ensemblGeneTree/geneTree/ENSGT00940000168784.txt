@@ -1,0 +1,1 @@
+(((((ENSPTRG00000045979__Pan_troglodytes,ENSPCOG00000027630__Propithecus_coquereli),ENSSDAG00000014436__Spermophilus_dauricus),ENSCAFG00020025962__Canis_lupus_dingo),ENSSHAG00000004261__Sarcophilus_harrisii),(((ENSHCOG00000005701__Hippocampus_comes,ENSHCOG00000005704__Hippocampus_comes),ENSHCOG00000010615__Hippocampus_comes),ENSHCOG00000005718__Hippocampus_comes));

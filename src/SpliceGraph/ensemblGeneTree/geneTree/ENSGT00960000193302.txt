@@ -1,0 +1,1 @@
+((ENSMUSG00000078276__Mus_musculus_strain_reference_(CL57BL6),ENSMSIG00000025798__Mus_spicilegus),ENSCCNG00000023682__Castor_canadensis);

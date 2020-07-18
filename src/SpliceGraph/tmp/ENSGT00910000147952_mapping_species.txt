@@ -1,0 +1,12 @@
+THEROPITHECUSGELADA	theropithecus_gelada
+PAPIOANUBIS	papio_anubis
+MACACAMULATTA	macaca_mulatta
+PILIOCOLOBUSTEPHROSCELES	piliocolobus_tephrosceles
+PANPANISCUS	pan_paniscus
+CALLITHRIXJACCHUS	callithrix_jacchus
+PEROMYSCUSMANICULATUSBAIRDII	peromyscus_maniculatus_bairdii
+MARMOTAMARMOTAMARMOTA	marmota_marmota_marmota
+EQUUSASINUSASINUS	equus_asinus_asinus
+EQUUSCABALLUS	equus_caballus
+CANISLUPUSDINGO	canis_lupus_dingo
+VULPESVULPES	vulpes_vulpes

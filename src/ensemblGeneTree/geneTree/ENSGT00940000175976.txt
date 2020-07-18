@@ -1,0 +1,1 @@
+(((ENSLSDG00000014291__Lonchura_striata_domestica,ENSCCEG00000019674__Cyanistes_caeruleus),ENSCSEG00000000277__Cynoglossus_semilaevis),ENSCING00000002419__Ciona_intestinalis);

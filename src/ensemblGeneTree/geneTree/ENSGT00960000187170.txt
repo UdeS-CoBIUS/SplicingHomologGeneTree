@@ -1,0 +1,1 @@
+((((ENSSPUG00000006101__Sphenodon_punctatus,ENSPVIG00000005976__Pogona_vitticeps),(ENSCPBG00000011739__Chrysemys_picta_bellii,ENSCABG00000015326__Chelonoidis_abingdonii)),ENSPMJG00000002445__Parus_major),(((ENSAMXG00000043992__Astyanax_mexicanus,ENSPNAG00000018525__Pygocentrus_nattereri),ENSIPUG00000010903__Ictalurus_punctatus),ENSELUG00000021049__Esox_lucius));

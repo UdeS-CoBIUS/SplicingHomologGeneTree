@@ -1,0 +1,1 @@
+(((ENSCAFG00020003618__Canis_lupus_dingo,ENSCAFG00000031310__Canis_lupus_familiaris),ENSMODG00000004131__Monodelphis_domestica),ENSOANG00000031720__Ornithorhynchus_anatinus);

@@ -1,0 +1,1 @@
+((((ENSZALG00000005100__Zonotrichia_albicollis,ENSZALG00000005093__Zonotrichia_albicollis),ENSLCOG00000001409__Lepidothrix_coronata),ENSAPLG00000030200__Anas_platyrhynchos_platyrhynchos),ENSUAMG00000009915__Ursus_americanus);

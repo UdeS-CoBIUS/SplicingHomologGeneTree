@@ -1,0 +1,1 @@
+((((MGP_SPRETEiJ_G0025775__Mus_spretus_strain_SPRET/EiJ,ENSMUSG00000103392__Mus_musculus_strain_reference_(CL57BL6)),MGP_CAROLIEiJ_G0024845__Mus_caroli_strain_CAROLI_EIJ),MGP_PahariEiJ_G0026293__Mus_pahari_strain_PAHARI_EIJ),ENSTTRG00000002764__Tursiops_truncatus);

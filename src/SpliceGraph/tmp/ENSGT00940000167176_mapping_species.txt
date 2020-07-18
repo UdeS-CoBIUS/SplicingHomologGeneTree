@@ -1,0 +1,17 @@
+GALLUSGALLUS	gallus_gallus
+COTURNIXJAPONICA	coturnix_japonica
+NUMIDAMELEAGRIS	numida_meleagris
+ANSERBRACHYRHYNCHUS	anser_brachyrhynchus
+FICEDULAALBICOLLIS	ficedula_albicollis
+TAENIOPYGIAGUTTATA	taeniopygia_guttata
+CYANISTESCAERULEUS	cyanistes_caeruleus
+PARUSMAJOR	parus_major
+APTERYXOWENII	apteryx_owenii
+APTERYXHAASTII	apteryx_haastii
+APTERYXROWI	apteryx_rowi
+DROMAIUSNOVAEHOLLANDIAE	dromaius_novaehollandiae
+GOPHERUSAGASSIZII	gopherus_agassizii
+POGONAVITTICEPS	pogona_vitticeps
+POECILIAFORMOSA	poecilia_formosa
+CIONAINTESTINALIS	ciona_intestinalis
+CIONASAVIGNYI	ciona_savignyi

@@ -1,0 +1,1 @@
+((((ENSSPAG00000003906__Stegastes_partitus,ENSAPOG00000007141__Acanthochromis_polyacanthus),ENSKMAG00000013754__Kryptolebias_marmoratus),ENSMALG00000016266__Monopterus_albus),ENSPMGG00000008628__Periophthalmus_magnuspinnatus);

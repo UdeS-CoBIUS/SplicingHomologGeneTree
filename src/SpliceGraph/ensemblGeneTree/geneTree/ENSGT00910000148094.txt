@@ -1,0 +1,1 @@
+((ENSCCAG00000030028__Cebus_capucinus_imitator,ENSSBOG00000030592__Saimiri_boliviensis_boliviensis),ENSMMUG00000022002__Macaca_mulatta);

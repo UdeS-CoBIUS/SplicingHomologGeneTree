@@ -21,10 +21,10 @@
   - Gamma shape parameter: 		0.175
 
 . Run ID:				none
-. Random seed:				1580963931
+. Random seed:				1594994792
 . Subtree patterns aliasing:		no
 . Version:				20120412
-. Time used:				0h0m0s (0 seconds)
+. Time used:				0h0m1s (1 seconds)
 
  oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
  Suggested citations:
@@ -44,16 +44,16 @@
 . Initial tree: 			user tree (ensemblGeneTree/trees_60_40/ENSGT00940000178277.nw)
 . Model of amino acids substitution: 	LG
 . Number of taxa: 			4
-. Log-likelihood: 			-720.05297
+. Log-likelihood: 			-720.05298
 . Unconstrained likelihood: 		-659.26828
 . Parsimony: 				26
-. Tree size: 				0.20217
+. Tree size: 				0.20216
 . Discrete gamma model: 		Yes
   - Number of categories: 		4
   - Gamma shape parameter: 		0.175
 
 . Run ID:				none
-. Random seed:				1580963931
+. Random seed:				1594994792
 . Subtree patterns aliasing:		no
 . Version:				20120412
 . Time used:				0h0m0s (0 seconds)
@@ -76,19 +76,19 @@
 . Initial tree: 			user tree (ensemblGeneTree/trees_60_40/ENSGT00940000178277.nw)
 . Model of amino acids substitution: 	LG
 . Number of taxa: 			4
-. Log-likelihood: 			-720.05298
+. Log-likelihood: 			-720.05297
 . Unconstrained likelihood: 		-659.26828
 . Parsimony: 				26
-. Tree size: 				0.20216
+. Tree size: 				0.20218
 . Discrete gamma model: 		Yes
   - Number of categories: 		4
   - Gamma shape parameter: 		0.175
 
 . Run ID:				none
-. Random seed:				1580963931
+. Random seed:				1594994792
 . Subtree patterns aliasing:		no
 . Version:				20120412
-. Time used:				0h0m1s (1 seconds)
+. Time used:				0h0m0s (0 seconds)
 
  oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
  Suggested citations:
@@ -117,10 +117,10 @@
   - Gamma shape parameter: 		0.175
 
 . Run ID:				none
-. Random seed:				1580963931
+. Random seed:				1594994792
 . Subtree patterns aliasing:		no
 . Version:				20120412
-. Time used:				0h0m0s (0 seconds)
+. Time used:				0h0m1s (1 seconds)
 
  oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
  Suggested citations:

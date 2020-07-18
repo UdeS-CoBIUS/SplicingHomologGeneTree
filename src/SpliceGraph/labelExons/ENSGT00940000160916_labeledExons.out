@@ -1,0 +1,30 @@
+>0
+ENSXETT00000048208: ['no event', 31, 0]
+ENSXETT00000048217: ['exon skipping', 0, 0]
+>1
+ENSXETT00000048208: [['internal gap >= 30', 62, 122], 248, 2]
+ENSXETT00000048217: ['5event', ['internal gap < 30', 159, 25], 345, 0]
+>2
+ENSXETT00000048208: ['no event', 107, 1]
+ENSXETT00000048217: ['3event', 42, 1]
+>3
+ENSXETT00000048208: [['internal gap >= 30', 2, 82], 143, 1]
+ENSXETT00000048217: ['5event', 223, 0]
+>4
+ENSXETT00000048208: ['no event', 786, 2]
+ENSXETT00000048217: ['3event', 781, 2]
+>5
+ENSXETT00000048208: ['exon skipping', 0, 0]
+ENSXETT00000048217: ['5event', 171, 2]
+>6
+ENSXETT00000048208: ['exon skipping', 0, 0]
+ENSXETT00000048217: ['no event', 126, 0]
+>7
+ENSXETT00000048208: ['exon skipping', 0, 0]
+ENSXETT00000048217: ['no event', 165, 1]
+>8
+ENSXETT00000048208: ['exon skipping', 0, 0]
+ENSXETT00000048217: ['no event', 15, 2]
+>9
+ENSXETT00000048208: ['exon skipping', 0, 0]
+ENSXETT00000048217: ['no event', 137, 0]

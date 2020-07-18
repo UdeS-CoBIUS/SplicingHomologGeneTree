@@ -1,0 +1,1 @@
+((((ENSFCAG00000053464__Felis_catus,ENSCAFG00000048679__Canis_lupus_familiaris),ENSOARG00000015823__Ovis_aries),(ENSCAFG00000044166__Canis_lupus_familiaris,ENSCAFG00020008481__Canis_lupus_dingo)),ENSDNOG00000047308__Dasypus_novemcinctus);

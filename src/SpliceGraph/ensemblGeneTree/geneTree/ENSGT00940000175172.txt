@@ -1,0 +1,1 @@
+((((ENSCJAG00000034456__Callithrix_jacchus,ENSMUGG00000003867__Meriones_unguiculatus),(ENSNPEG00000013952__Nothoprocta_perdicaria,ENSCPRG00005010876__Crocodylus_porosus)),ENSBBBG00000024672__Bison_bison_bison),(ENSTRUG00000025753__Takifugu_rubripes,ENSLBEG00000007104__Labrus_bergylta));

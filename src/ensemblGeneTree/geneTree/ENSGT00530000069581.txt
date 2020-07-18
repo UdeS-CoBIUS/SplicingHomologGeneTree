@@ -1,0 +1,1 @@
+(((((ENSAOWG00000006811__Apteryx_owenii,ENSARWG00000008352__Apteryx_rowi),ENSAHAG00000016675__Apteryx_haastii),(ENSTGUG00000003080__Taeniopygia_guttata,ENSFALG00000009366__Ficedula_albicollis)),ENSPVIG00000022901__Pogona_vitticeps),ENSSHAG00000010406__Sarcophilus_harrisii);

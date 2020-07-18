@@ -1,0 +1,1 @@
+((((ENSPMGG00000007220__Periophthalmus_magnuspinnatus,ENSAPOG00000020229__Acanthochromis_polyacanthus),ENSTRUG00000020438__Takifugu_rubripes),(ENSCSAVG00000005955__Ciona_savignyi,ENSCING00000009313__Ciona_intestinalis)),(FBgn0000229__Drosophila_melanogaster,WBGene00002178__Caenorhabditis_elegans_strain_N2));

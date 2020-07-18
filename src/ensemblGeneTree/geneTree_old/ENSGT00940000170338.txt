@@ -1,1 +1,0 @@
-((ENSCSAVG00000009084__Ciona_savignyi,ENSCING00000024473__Ciona_intestinalis),ENSXETG00000023859__Xenopus_tropicalis);

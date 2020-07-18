@@ -1,1 +1,0 @@
-(((ENSIPUG00000002825__Ictalurus_punctatus,ENSIPUG00000023569__Ictalurus_punctatus),ENSIPUG00000013947__Ictalurus_punctatus),(ENSMZEG00005024727__Maylandia_zebra,ENSACLG00000005161__Astatotilapia_calliptera));

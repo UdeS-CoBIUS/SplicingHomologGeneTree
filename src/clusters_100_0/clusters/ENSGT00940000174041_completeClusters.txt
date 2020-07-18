@@ -1,0 +1,8 @@
+>completeCluster_0
+FBtr0302039	T01G1.1d.3
+>completeCluster_1
+FBtr0331642	T01G1.1d.4
+>completeCluster_2
+T01G1.1a.1	FBtr0080018
+>completeCluster_3
+FBtr0302038	T01G1.1c.1

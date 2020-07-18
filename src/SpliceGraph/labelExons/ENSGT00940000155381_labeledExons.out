@@ -1,0 +1,60 @@
+>0
+ENSPTET00000015664: ['exon skipping', 0, 0]
+ENSAMXT00000030240: ['exon skipping', 0, 0]
+ENSAMXT00000008031: ['no event', 7, 0]
+>1
+ENSPTET00000015664: ['exon skipping', 0, 0]
+ENSAMXT00000030240: ['5event', ['internal gap >= 30', 23, 38], 160, 0]
+ENSAMXT00000008031: ['3event', 141, 2]
+>2
+ENSPTET00000015664: ['exon skipping', 0, 0]
+ENSAMXT00000030240: ['exon skipping', 0, 0]
+ENSAMXT00000008031: ['5event', 86, 1]
+>3
+ENSPTET00000015664: ['exon skipping', 0, 0]
+ENSAMXT00000030240: ['exon skipping', 0, 0]
+ENSAMXT00000008031: ['no event', 102, 1]
+>4
+ENSPTET00000015664: ['exon skipping', 0, 0]
+ENSAMXT00000030240: ['exon skipping', 0, 0]
+ENSAMXT00000008031: ['no event', 183, 2]
+>5
+ENSPTET00000015664: ['exon skipping', 0, 0]
+ENSAMXT00000030240: ['exon skipping', 0, 0]
+ENSAMXT00000008031: ['no event', 167, 0]
+>6
+ENSPTET00000015664: ['exon skipping', 0, 0]
+ENSAMXT00000030240: ['5event', ['internal gap < 30', 79, 19], 100, 2]
+ENSAMXT00000008031: ['3event', 102, 0]
+>7
+ENSPTET00000015664: ['exon skipping', 0, 0]
+ENSAMXT00000030240: ['exon skipping', 0, 0]
+ENSAMXT00000008031: ['5event', 99, 2]
+>8
+ENSPTET00000015664: ['5event', 30, 0]
+ENSAMXT00000030240: ['exon skipping', 0, 0]
+ENSAMXT00000008031: ['exon skipping', 0, 0]
+>9
+ENSPTET00000015664: ['exon skipping', 0, 0]
+ENSAMXT00000030240: ['5event', 169, 1]
+ENSAMXT00000008031: ['exon skipping', 0, 0]
+>10
+ENSPTET00000015664: ['exon skipping', 0, 0]
+ENSAMXT00000030240: ['exon skipping', 0, 0]
+ENSAMXT00000008031: ['5event', 84, 0]
+>11
+ENSPTET00000015664: ['5event', 1634, 1]
+ENSAMXT00000030240: ['5event', ['internal gap >= 30', 118, 1492], 143, 0]
+ENSAMXT00000008031: ['3event', 154, 1]
+>12
+ENSPTET00000015664: ['exon skipping', 0, 0]
+ENSAMXT00000030240: ['exon skipping', 0, 0]
+ENSAMXT00000008031: ['5event', 204, 1]
+>13
+ENSPTET00000015664: ['5event', 193, 1]
+ENSAMXT00000030240: ['exon skipping', 0, 0]
+ENSAMXT00000008031: ['exon skipping', 0, 0]
+>14
+ENSPTET00000015664: ['exon skipping', 0, 0]
+ENSAMXT00000030240: ['exon skipping', 0, 0]
+ENSAMXT00000008031: ['5event', 729, 2]

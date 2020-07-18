@@ -1,0 +1,1 @@
+(((ENSGALG00000047993__Gallus_gallus,ENSSCAG00000002407__Serinus_canaria),(ENSCPUG00000013108__Calidris_pugnax,ENSCPUG00000013105__Calidris_pugnax)),ENSPVIG00000006309__Pogona_vitticeps);

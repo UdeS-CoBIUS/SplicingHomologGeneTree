@@ -1,0 +1,1 @@
+((ENSBTAG00000053929__Bos_taurus,ENSEASG00005019640__Equus_asinus_asinus),(((ENSNLEG00000028680__Nomascus_leucogenys,ENSNLEG00000034692__Nomascus_leucogenys),ENSPTEG00000004387__Piliocolobus_tephrosceles),ENSPSMG00000025814__Prolemur_simus));

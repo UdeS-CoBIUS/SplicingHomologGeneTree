@@ -1,0 +1,1 @@
+(((ENSTGEG00000025474__Theropithecus_gelada,ENSPTEG00000010896__Piliocolobus_tephrosceles),ENSPSMG00000017816__Prolemur_simus),((ENSBBBG00000017571__Bison_bison_bison,ENSBMUG00000017551__Bos_mutus),ENSNVIG00000018337__Neovison_vison));

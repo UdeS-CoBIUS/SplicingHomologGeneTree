@@ -1,0 +1,1 @@
+(((ENSCJPG00005015806__Coturnix_japonica,ENSPSIG00000000189__Pelodiscus_sinensis),(ENSTRUG00000023316__Takifugu_rubripes,ENSPNAG00000019198__Pygocentrus_nattereri)),(((ENSPMJG00000013831__Parus_major,ENSCCEG00000006244__Cyanistes_caeruleus),ENSMUNG00000002029__Melopsittacus_undulatus),(ENSTRUG00000023353__Takifugu_rubripes,ENSLBEG00000018373__Labrus_bergylta)));

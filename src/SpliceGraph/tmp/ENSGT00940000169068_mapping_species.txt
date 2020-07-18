@@ -1,0 +1,7 @@
+GASTEROSTEUSACULEATUS	gasterosteus_aculeatus
+GASTEROSTEUSACULEATUS	gasterosteus_aculeatus
+TAKIFUGURUBRIPES	takifugu_rubripes
+TETRAODONNIGROVIRIDIS	tetraodon_nigroviridis
+ANABASTESTUDINEUS	anabas_testudineus
+ANABASTESTUDINEUS	anabas_testudineus
+ASTATOTILAPIACALLIPTERA	astatotilapia_calliptera

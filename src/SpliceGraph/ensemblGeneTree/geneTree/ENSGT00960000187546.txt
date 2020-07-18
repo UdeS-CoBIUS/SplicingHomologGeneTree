@@ -1,0 +1,1 @@
+((((ENSPSIG00000001923__Pelodiscus_sinensis,ENSPSIG00000001934__Pelodiscus_sinensis),ENSPSIG00000004426__Pelodiscus_sinensis),(ENSCABG00000022551__Chelonoidis_abingdonii,ENSCPBG00000025445__Chrysemys_picta_bellii)),(ENSCPRG00005013647__Crocodylus_porosus,ENSCPRG00005013644__Crocodylus_porosus));

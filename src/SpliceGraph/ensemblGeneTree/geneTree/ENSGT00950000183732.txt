@@ -1,0 +1,1 @@
+((((ENSPSIG00000003103__Pelodiscus_sinensis,ENSCAFG00000029857__Canis_lupus_familiaris),ENSGALG00000051052__Gallus_gallus),(ENSORLG00000025973__Oryzias_latipes_ASM223467v1,ENSATEG00000011263__Anabas_testudineus)),ENSEBUG00000014731__Eptatretus_burgeri);

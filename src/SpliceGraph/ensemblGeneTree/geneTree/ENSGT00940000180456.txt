@@ -1,0 +1,1 @@
+((ENSIPUG00000006359__Ictalurus_punctatus,ENSIPUG00000014008__Ictalurus_punctatus),ENSACIG00000010656__Amphilophus_citrinellus);

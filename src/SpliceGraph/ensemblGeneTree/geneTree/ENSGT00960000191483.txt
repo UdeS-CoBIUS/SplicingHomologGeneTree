@@ -1,0 +1,1 @@
+(ENSMPUG00000014795__Mustela_putorius_furo,ENSNVIG00000017856__Neovison_vison);

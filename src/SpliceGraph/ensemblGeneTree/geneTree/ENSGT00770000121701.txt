@@ -1,0 +1,1 @@
+(((ENSNBRG00000022578__Neolamprologus_brichardi,ENSACIG00000012647__Amphilophus_citrinellus),((ENSPFOG00000020292__Poecilia_formosa,ENSPFOG00000024106__Poecilia_formosa),ENSPFOG00000021827__Poecilia_formosa)),ENSATEG00000020925__Anabas_testudineus);

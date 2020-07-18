@@ -1,0 +1,1 @@
+(((ENSECAG00000029795__Equus_caballus,ENSEASG00005004620__Equus_asinus_asinus),ENSSSCG00000040988__Sus_scrofa),ENSCCNG00000006782__Castor_canadensis);

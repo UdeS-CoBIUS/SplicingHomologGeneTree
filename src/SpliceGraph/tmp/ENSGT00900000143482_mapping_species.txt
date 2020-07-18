@@ -1,0 +1,16 @@
+PILIOCOLOBUSTEPHROSCELES	piliocolobus_tephrosceles
+THEROPITHECUSGELADA	theropithecus_gelada
+PANTROGLODYTES	pan_troglodytes
+PANPANISCUS	pan_paniscus
+HOMOSAPIENS	homo_sapiens
+GORILLAGORILLA	gorilla_gorilla
+PROLEMURSIMUS	prolemur_simus
+PEROMYSCUSMANICULATUS	peromyscus_maniculatus
+CRICETULUSGRISEUS	cricetulus_griseus
+MUSSPICILEGUS	mus_spicilegus
+MUSMUSCULUS	mus_musculus
+CASTORCANADENSIS	castor_canadensis
+UROCITELLUSPARRYII	urocitellus_parryii
+BOSMUTUS	bos_mutus
+BISONBISON	bison_bison
+NEOVISONVISON	neovison_vison

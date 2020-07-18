@@ -1,0 +1,1 @@
+(((ENSPCAG00000010343__Procavia_capensis,ENSTBEG00000012204__Tupaia_belangeri),ENSMODG00000027567__Monodelphis_domestica),ENSCABG00000013056__Chelonoidis_abingdonii);

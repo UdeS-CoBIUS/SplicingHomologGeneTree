@@ -1,0 +1,1 @@
+(((ENSLCOG00000016022__Lepidothrix_coronata,ENSCABG00000000387__Chelonoidis_abingdonii),ENSPVIG00000004506__Pogona_vitticeps),(ENSCAFG00020015877__Canis_lupus_dingo,ENSCPOG00000039817__Cavia_porcellus));

@@ -1,1 +1,0 @@
-(ENSZALG00000010939__Zonotrichia_albicollis,ENSJHYG00000016654__Junco_hyemalis);

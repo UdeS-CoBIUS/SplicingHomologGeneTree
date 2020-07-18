@@ -1,0 +1,3 @@
+APTERYXHAASTII	apteryx_haastii
+NOTHOPROCTAPERDICARIA	nothoprocta_perdicaria
+SPERMOPHILUSDAURICUS	spermophilus_dauricus

@@ -1,0 +1,1 @@
+(((((ENSMUNG00000001393__Melopsittacus_undulatus,ENSCJPG00005002763__Coturnix_japonica),ENSNPEG00000014372__Nothoprocta_perdicaria),ENSPVIG00000000643__Pogona_vitticeps),((ENSUAMG00000004944__Ursus_americanus,ENSVVUG00000009395__Vulpes_vulpes),(ENSDORG00000026362__Dipodomys_ordii,ENSTSYG00000032194__Carlito_syrichta))),ENSFHEG00000014841__Fundulus_heteroclitus);

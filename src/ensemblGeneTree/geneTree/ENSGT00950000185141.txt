@@ -1,0 +1,1 @@
+(((((ENSCPGG00000009885__Calidris_pygmaea,ENSAHAG00000012674__Apteryx_haastii),ENSCABG00000009758__Chelonoidis_abingdonii),ENSGAGG00000018926__Gopherus_agassizii),ENSSPUG00000002894__Sphenodon_punctatus),(ENSUAMG00000000883__Ursus_americanus,ENSTSYG00000032033__Carlito_syrichta));

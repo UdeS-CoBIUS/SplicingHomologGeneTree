@@ -1,0 +1,1 @@
+(((((ENSOMEG00000006773__Oryzias_melastigma,ENSXMAG00000022752__Xiphophorus_maculatus),ENSSPAG00000006211__Stegastes_partitus),(ENSHBUG00000008086__Haplochromis_burtoni,ENSMZEG00005021839__Maylandia_zebra)),ENSMALG00000003974__Monopterus_albus),ENSGAGG00000000218__Gopherus_agassizii);

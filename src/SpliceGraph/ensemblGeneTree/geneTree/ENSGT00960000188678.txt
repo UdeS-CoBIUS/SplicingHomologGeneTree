@@ -1,0 +1,1 @@
+((ENSMAMG00000002451__Mastacembelus_armatus,ENSPKIG00000001999__Paramormyrops_kingsleyae),(((ENSNMEG00000002608__Numida_meleagris,ENSNMEG00000003243__Numida_meleagris),ENSAPLG00000017431__Anas_platyrhynchos_platyrhynchos),ENSNPEG00000001676__Nothoprocta_perdicaria));

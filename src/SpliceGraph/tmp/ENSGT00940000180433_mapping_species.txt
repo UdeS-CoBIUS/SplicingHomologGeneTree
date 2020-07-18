@@ -1,0 +1,3 @@
+SCLEROPAGESFORMOSUS	scleropages_formosus
+PARAMORMYROPSKINGSLEYAE	paramormyrops_kingsleyae
+ICTALURUSPUNCTATUS	ictalurus_punctatus

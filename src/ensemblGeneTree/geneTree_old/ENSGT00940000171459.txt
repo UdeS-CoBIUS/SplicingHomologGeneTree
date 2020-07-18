@@ -1,1 +1,0 @@
-(ENSTGUG00000009559__Taeniopygia_guttata,ENSCING00000000579__Ciona_intestinalis);

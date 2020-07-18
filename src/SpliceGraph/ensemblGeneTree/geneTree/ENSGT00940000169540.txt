@@ -1,0 +1,1 @@
+(((ENSMGAG00000017010__Meleagris_gallopavo,ENSSHAG00000000766__Sarcophilus_harrisii),ENSETEG00000015826__Echinops_telfairi),ENSPKIG00000006921__Paramormyrops_kingsleyae);

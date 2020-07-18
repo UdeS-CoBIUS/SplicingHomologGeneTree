@@ -1,1 +1,0 @@
-((ENSAPOG00000008956__Acanthochromis_polyacanthus,ENSAPOG00000008972__Acanthochromis_polyacanthus),(ENSNBRG00000018610__Neolamprologus_brichardi,ENSACIG00000005435__Amphilophus_citrinellus));

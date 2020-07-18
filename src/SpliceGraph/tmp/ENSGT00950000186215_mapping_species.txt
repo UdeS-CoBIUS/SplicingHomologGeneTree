@@ -1,0 +1,5 @@
+URSUSMARITIMUS	ursus_maritimus
+ERINACEUSEUROPAEUS	erinaceus_europaeus
+SPERMOPHILUSDAURICUS	spermophilus_dauricus
+SPERMOPHILUSDAURICUS	spermophilus_dauricus
+ECHINOPSTELFAIRI	echinops_telfairi

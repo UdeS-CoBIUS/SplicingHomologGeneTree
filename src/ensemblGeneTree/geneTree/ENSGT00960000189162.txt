@@ -1,0 +1,1 @@
+((ENSHGLG00100014960__Heterocephalus_glaber_HetGla_1.0,ENSSDAG00000006536__Spermophilus_dauricus),ENSARWG00000006967__Apteryx_rowi);

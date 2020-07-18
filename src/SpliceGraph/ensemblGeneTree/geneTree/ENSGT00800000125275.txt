@@ -1,0 +1,1 @@
+(((((ENSMSIG00000021281__Mus_spicilegus,MGP_SPRETEiJ_G0034274__Mus_spretus_strain_SPRET/EiJ),ENSMUSG00000025288__Mus_musculus_strain_reference_(CL57BL6)),MGP_CAROLIEiJ_G0033120__Mus_caroli_strain_CAROLI_EIJ),MGP_PahariEiJ_G0031662__Mus_pahari_strain_PAHARI_EIJ),ENSRNOG00000051726__Rattus_norvegicus);

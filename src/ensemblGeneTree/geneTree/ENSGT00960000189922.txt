@@ -1,0 +1,1 @@
+(((ENSCCEG00000007210__Cyanistes_caeruleus,ENSOANG00000007769__Ornithorhynchus_anatinus),ENSPVIG00000003826__Pogona_vitticeps),ENSLACG00000008559__Latimeria_chalumnae);

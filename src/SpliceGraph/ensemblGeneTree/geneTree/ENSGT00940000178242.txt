@@ -1,0 +1,1 @@
+(((((ENSSPAG00000002778__Stegastes_partitus,ENSNBRG00000021298__Neolamprologus_brichardi),ENSMMOG00000002733__Mola_mola),ENSSLDG00000002553__Seriola_lalandi_dorsalis),ENSPMGG00000004144__Periophthalmus_magnuspinnatus),ENSPNAG00000004093__Pygocentrus_nattereri);

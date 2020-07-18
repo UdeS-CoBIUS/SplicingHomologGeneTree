@@ -1,1 +1,0 @@
-(ENSSARG00000001688__Sorex_araneus,ENSCCAG00000026163__Cebus_capucinus_imitator);

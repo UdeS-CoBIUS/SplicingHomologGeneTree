@@ -1,1 +1,0 @@
-((ENSCCNG00000005175__Castor_canadensis,ENSCGRG00015027497__Cricetulus_griseus_CriGri-PICR),(ENSNVIG00000001612__Neovison_vison,ENSFCAG00000039506__Felis_catus));

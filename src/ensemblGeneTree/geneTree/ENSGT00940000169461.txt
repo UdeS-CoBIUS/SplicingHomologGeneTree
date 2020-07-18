@@ -1,0 +1,1 @@
+((((ENSACAG00000025359__Anolis_carolinensis,ENSNSUG00000009167__Notechis_scutatus),ENSAOWG00000016034__Apteryx_owenii),(ENSCAPG00000004993__Cavia_aperea,ENSCHOG00000007377__Choloepus_hoffmanni)),ENSLACG00000002861__Latimeria_chalumnae);

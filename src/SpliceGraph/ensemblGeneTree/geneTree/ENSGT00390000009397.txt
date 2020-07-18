@@ -1,0 +1,1 @@
+(((ENSTTRG00000003389__Tursiops_truncatus,ENSSARG00000012212__Sorex_araneus),((ENSPPYG00000015494__Pongo_abelii,ENSCSAG00000016031__Chlorocebus_sabaeus),ENSOPRG00000001395__Ochotona_princeps)),ENSCHOG00000009318__Choloepus_hoffmanni);

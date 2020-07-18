@@ -1,0 +1,1 @@
+(((ENSCSAVG00000010203__Ciona_savignyi,ENSCING00000002394__Ciona_intestinalis),(ENSLOCG00000015332__Lepisosteus_oculatus,ENSPNAG00000016386__Pygocentrus_nattereri)),(FBgn0003429__Drosophila_melanogaster,WBGene00004830__Caenorhabditis_elegans_strain_N2));

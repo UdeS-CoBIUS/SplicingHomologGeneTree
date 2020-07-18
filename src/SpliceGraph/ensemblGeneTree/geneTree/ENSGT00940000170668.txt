@@ -1,0 +1,1 @@
+(((ENSAMEG00000019043__Ailuropoda_melanoleuca,ENSMLUG00000004314__Myotis_lucifugus),ENSDORG00000016744__Dipodomys_ordii),(ENSVURG00010005091__Vombatus_ursinus,ENSPCIG00000008303__Phascolarctos_cinereus));

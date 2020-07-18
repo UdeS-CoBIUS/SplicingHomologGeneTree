@@ -1,0 +1,1 @@
+(((((ENSMZEG00005021047__Maylandia_zebra,ENSMZEG00005026353__Maylandia_zebra),ENSACLG00000002383__Astatotilapia_calliptera),ENSACLG00000015994__Astatotilapia_calliptera),ENSORLG00015022057__Oryzias_latipes_ASM223469v1),ENSLSDG00000012683__Lonchura_striata_domestica);

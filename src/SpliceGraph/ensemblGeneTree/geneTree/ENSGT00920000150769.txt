@@ -1,0 +1,1 @@
+((((ENSPTEG00000014233__Piliocolobus_tephrosceles,ENSCCNG00000030522__Castor_canadensis),((ENSVVUG00000002672__Vulpes_vulpes,ENSCAFG00020017404__Canis_lupus_dingo),(ENSEASG00005000405__Equus_asinus_asinus,ENSECAG00000039118__Equus_caballus))),ENSMSIG00000007400__Mus_spicilegus),ENSDARG00000110492__Danio_rerio);

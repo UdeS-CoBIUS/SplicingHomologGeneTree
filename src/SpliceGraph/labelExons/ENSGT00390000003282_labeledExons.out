@@ -1,0 +1,50 @@
+>0
+ENSEBUT00000015511: ['no event', 18, 0]
+ENSEBUT00000003370: ['exon skipping', 0, 0]
+ENSEBUT00000003380: ['exon skipping', 0, 0]
+ENSPKIT00000021327: ['exon skipping', 0, 0]
+>1
+ENSEBUT00000015511: ['exon skipping', 0, 0]
+ENSEBUT00000003370: ['5event', 63, 0]
+ENSEBUT00000003380: ['exon skipping', 0, 0]
+ENSPKIT00000021327: ['exon skipping', 0, 0]
+>2
+ENSEBUT00000015511: ['exon skipping', 0, 0]
+ENSEBUT00000003370: ['exon skipping', 0, 0]
+ENSEBUT00000003380: ['5event', ['internal gap < 30', 37, 24], 63, 0]
+ENSPKIT00000021327: ['3event', '5event', 82, 0]
+>3
+ENSEBUT00000015511: ['5event', ['internal gap >= 30', 80, 45], 156, 1]
+ENSEBUT00000003370: ['exon skipping', 0, 0]
+ENSEBUT00000003380: ['exon skipping', 0, 0]
+ENSPKIT00000021327: ['3event', '5event', 175, 1]
+>4
+ENSEBUT00000015511: ['exon skipping', 0, 0]
+ENSEBUT00000003370: ['5event', 282, 1]
+ENSEBUT00000003380: ['5event', 282, 1]
+ENSPKIT00000021327: ['exon skipping', 0, 0]
+>5
+ENSEBUT00000015511: ['5event', ['internal gap >= 30', 140, 107], 216, 2]
+ENSEBUT00000003370: [['internal gap >= 30', 264, 31], 292, 2]
+ENSEBUT00000003380: [['internal gap >= 30', 264, 31], 292, 2]
+ENSPKIT00000021327: ['3event', '5event', 223, 2]
+>6
+ENSEBUT00000015511: ['3event', 133, 0]
+ENSEBUT00000003370: ['3event', 116, 0]
+ENSEBUT00000003380: ['3event', 116, 0]
+ENSPKIT00000021327: ['5event', ['internal gap >= 30', 53, 32], 111, 0]
+>7
+ENSEBUT00000015511: ['only gap', 0, 0]
+ENSEBUT00000003370: ['exon skipping', 0, 0]
+ENSEBUT00000003380: ['exon skipping', 0, 0]
+ENSPKIT00000021327: ['exon skipping', 0, 0]
+>8
+ENSEBUT00000015511: ['5event', 2, 1]
+ENSEBUT00000003370: ['exon skipping', 0, 0]
+ENSEBUT00000003380: ['exon skipping', 0, 0]
+ENSPKIT00000021327: ['exon skipping', 0, 0]
+>9
+ENSEBUT00000015511: [['internal gap >= 30', 242, 31], 273, 1]
+ENSEBUT00000003370: ['5event', ['internal gap >= 30', 218, 36], 268, 1]
+ENSEBUT00000003380: ['5event', ['internal gap >= 30', 218, 36], 268, 1]
+ENSPKIT00000021327: ['5event', ['internal gap >= 30', 211, 63], 241, 1]

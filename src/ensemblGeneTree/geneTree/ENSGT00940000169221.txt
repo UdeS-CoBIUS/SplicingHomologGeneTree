@@ -1,0 +1,1 @@
+(((((ENSVVUG00000017007__Vulpes_vulpes,ENSUAMG00000023602__Ursus_americanus),ENSVPAG00000005566__Vicugna_pacos),ENSMEUG00000012724__Notamacropus_eugenii),ENSOANG00000029505__Ornithorhynchus_anatinus),((ENSPSIG00000014775__Pelodiscus_sinensis,ENSCPRG00005004428__Crocodylus_porosus),ENSNSUG00000001083__Notechis_scutatus));

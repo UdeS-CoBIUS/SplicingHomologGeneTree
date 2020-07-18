@@ -1,0 +1,1 @@
+((ENSLSDG00000002259__Lonchura_striata_domestica,ENSCCEG00000012395__Cyanistes_caeruleus),ENSPKIG00000011250__Paramormyrops_kingsleyae);

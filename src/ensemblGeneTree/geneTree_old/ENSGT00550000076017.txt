@@ -1,1 +1,0 @@
-(ENSPPYG00000019901__Pongo_abelii,ENSPPYG00000008941__Pongo_abelii);

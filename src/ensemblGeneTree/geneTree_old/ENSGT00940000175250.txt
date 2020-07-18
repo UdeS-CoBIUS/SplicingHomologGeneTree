@@ -1,1 +1,0 @@
-(ENSCSAG00000012407__Chlorocebus_sabaeus,ENSSLDG00000005539__Seriola_lalandi_dorsalis);

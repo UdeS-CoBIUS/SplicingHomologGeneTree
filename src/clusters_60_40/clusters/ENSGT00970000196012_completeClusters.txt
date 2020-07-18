@@ -1,0 +1,4 @@
+>completeCluster_0
+B0222.11.1	T16H12.9.1	Y95B8A.6a.2	F39D8.3d.1	F25B3.2.1
+>completeCluster_1
+F25B3.2.1	F39D8.3b.1	Y95B8A.6a.1	T16H12.9.1	B0222.11.1

@@ -1,0 +1,1 @@
+(((ENSIPUG00000014987__Ictalurus_punctatus,ENSPNAG00000022394__Pygocentrus_nattereri),ENSPMEG00000018683__Poecilia_mexicana),(ENSCPRG00005014921__Crocodylus_porosus,ENSGAGG00000024875__Gopherus_agassizii));

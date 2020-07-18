@@ -1,0 +1,1 @@
+(((ENSAPLG00000026258__Anas_platyrhynchos_platyrhynchos,ENSAPLG00000030879__Anas_platyrhynchos_platyrhynchos),ENSSCAG00000002054__Serinus_canaria),ENSNPEG00000008966__Nothoprocta_perdicaria);

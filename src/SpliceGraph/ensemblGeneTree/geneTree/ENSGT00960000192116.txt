@@ -1,0 +1,1 @@
+((ENSOARG00000004607__Ovis_aries,ENSSSCG00000046348__Sus_scrofa_strain_reference),ENSCCNG00000022275__Castor_canadensis);

@@ -1,0 +1,1 @@
+(((ENSNBRG00000005983__Neolamprologus_brichardi,ENSFHEG00000007048__Fundulus_heteroclitus),ENSHCOG00000009857__Hippocampus_comes),((ENSRBIG00000035036__Rhinopithecus_bieti,ENSMMMG00000000118__Marmota_marmota_marmota),ENSAPLG00000029104__Anas_platyrhynchos_platyrhynchos));

@@ -1,1 +1,0 @@
-(ENSAHAG00000015065__Apteryx_haastii,ENSCPGG00000007252__Calidris_pygmaea);

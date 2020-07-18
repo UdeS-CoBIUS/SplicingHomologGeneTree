@@ -1,0 +1,1 @@
+(ENSEEUG00000008348__Erinaceus_europaeus,ENSVPAG00000011528__Vicugna_pacos);

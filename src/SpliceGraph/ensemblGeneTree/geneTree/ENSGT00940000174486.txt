@@ -1,0 +1,1 @@
+((((ENSBMUG00000016741__Bos_mutus,ENSBTAG00000052690__Bos_taurus),ENSVVUG00000013836__Vulpes_vulpes),ENSDNOG00000037303__Dasypus_novemcinctus),((ENSGAFG00000003386__Gambusia_affinis,ENSPREG00000022120__Poecilia_reticulata),ENSXMAG00000029212__Xiphophorus_maculatus));

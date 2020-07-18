@@ -1,1 +1,0 @@
-(ENSCABG00000022650__Chelonoidis_abingdonii,ENSGAGG00000009052__Gopherus_agassizii);

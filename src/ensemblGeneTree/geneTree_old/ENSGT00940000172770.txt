@@ -1,1 +1,0 @@
-(((ENSKMAG00000006824__Kryptolebias_marmoratus,ENSXCOG00000007719__Xiphophorus_couchianus),ENSGACG00000016346__Gasterosteus_aculeatus),((ENSAMXG00000038816__Astyanax_mexicanus,ENSAMXG00000035983__Astyanax_mexicanus),ENSPNAG00000010388__Pygocentrus_nattereri));

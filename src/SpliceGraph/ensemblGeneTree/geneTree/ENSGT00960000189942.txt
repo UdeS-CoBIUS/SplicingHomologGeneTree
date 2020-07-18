@@ -1,0 +1,1 @@
+(((ENSCCEG00000007336__Cyanistes_caeruleus,ENSPMJG00000008640__Parus_major),ENSLSDG00000018085__Lonchura_striata_domestica),ENSCPUG00000014030__Calidris_pugnax);

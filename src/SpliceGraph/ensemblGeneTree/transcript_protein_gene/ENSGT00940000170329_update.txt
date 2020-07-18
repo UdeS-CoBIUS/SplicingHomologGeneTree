@@ -1,0 +1,4 @@
+FBpp0312228	FBgn0023528	Drosophila_melanogaster
+F25H2.8.2	WBGene00006720	Caenorhabditis_elegans_strain_N2
+ENSCVAP00000006705	ENSCVAG00000008295	Cyprinodon_variegatus
+ENSCINP00000017699	ENSCING00000008673	Ciona_intestinalis

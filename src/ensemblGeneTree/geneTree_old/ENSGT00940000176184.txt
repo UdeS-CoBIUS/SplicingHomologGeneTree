@@ -1,1 +1,0 @@
-(((ENSSLDG00000008650__Seriola_lalandi_dorsalis,ENSAPOG00000018817__Acanthochromis_polyacanthus),ENSIPUG00000013288__Ictalurus_punctatus),ENSMAUG00000000866__Mesocricetus_auratus);

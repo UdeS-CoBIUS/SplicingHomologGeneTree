@@ -1,0 +1,1 @@
+(((ENSPEMG00000030286__Peromyscus_maniculatus_bairdii,ENSMSIG00000003995__Mus_spicilegus),ENSPSMG00000015080__Prolemur_simus),(ENSUAMG00000025440__Ursus_americanus,ENSUMAG00000018160__Ursus_maritimus));

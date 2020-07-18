@@ -1,1 +1,0 @@
-(ENSCAFG00020017549__Canis_lupus_dingo,ENSPPRG00000007888__Panthera_pardus);

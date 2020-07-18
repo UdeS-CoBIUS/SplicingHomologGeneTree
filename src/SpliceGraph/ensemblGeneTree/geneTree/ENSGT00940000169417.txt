@@ -1,0 +1,1 @@
+((((ENSTBEG00000010067__Tupaia_belangeri,ENSTSYG00000028217__Carlito_syrichta),(ENSEEUG00000007366__Erinaceus_europaeus,ENSPVAG00000001670__Pteropus_vampyrus)),ENSMUNG00000014286__Melopsittacus_undulatus),ENSSFOG00015018734__Scleropages_formosus);

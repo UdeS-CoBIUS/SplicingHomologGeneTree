@@ -1,0 +1,1 @@
+((ENSPMGG00000022049__Periophthalmus_magnuspinnatus,ENSFHEG00000006052__Fundulus_heteroclitus),ENSABRG00000006061__Anser_brachyrhynchus);

@@ -1,0 +1,12 @@
+>0
+ENSGAGT00000015987: ['no event', 345, 0]
+ENSGAGT00000015989: ['no event', 345, 0]
+ENSCABT00000007966: ['no event', 345, 0]
+>1
+ENSGAGT00000015987: ['no event', 407, 1]
+ENSGAGT00000015989: [['internal gap >= 30', 149, 33], 374, 1]
+ENSCABT00000007966: [['internal gap >= 30', 149, 33], 374, 1]
+>2
+ENSGAGT00000015987: ['no event', 394, 1]
+ENSGAGT00000015989: ['no event', 394, 1]
+ENSCABT00000007966: ['no event', 394, 1]

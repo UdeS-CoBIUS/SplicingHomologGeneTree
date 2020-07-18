@@ -1,0 +1,2 @@
+YDR178W_mRNA	YDR178W	Saccharomyces_cerevisiae_strain_S288C
+YLR164W_mRNA	YLR164W	Saccharomyces_cerevisiae_strain_S288C

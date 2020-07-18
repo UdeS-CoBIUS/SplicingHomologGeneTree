@@ -1,0 +1,1 @@
+((((ENSOANG00000011550__Ornithorhynchus_anatinus,ENSSHAG00000004609__Sarcophilus_harrisii),ENSMPUG00000001079__Mustela_putorius_furo),(ENSMGAG00000017319__Meleagris_gallopavo,ENSTGUG00000000253__Taeniopygia_guttata)),ENSCMIG00000009058__Callorhinchus_milii);

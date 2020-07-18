@@ -1,0 +1,15 @@
+>0
+ENSTSYT00000027302: ['no event', 276, 0]
+ENSPSMT00000006741: ['3event', 270, 0]
+ENSCCNT00000024861: ['no event', 276, 0]
+ENSCCNT00000017632: ['3event', 258, 0]
+>1
+ENSTSYT00000027302: ['no event', 79, 1]
+ENSPSMT00000006741: ['exon skipping', 0, 0]
+ENSCCNT00000024861: ['exon skipping', 0, 0]
+ENSCCNT00000017632: ['exon skipping', 0, 0]
+>2
+ENSTSYT00000027302: ['exon skipping', 0, 0]
+ENSPSMT00000006741: ['5event', 17, 0]
+ENSCCNT00000024861: ['3event', '5event', 26, 1]
+ENSCCNT00000017632: ['exon skipping', 0, 0]

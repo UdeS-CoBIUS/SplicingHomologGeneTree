@@ -1,0 +1,5 @@
+FBpp0111980	FBgn0033639	Drosophila_melanogaster	FBtr0113067
+FBpp0303279	FBgn0033337	Drosophila_melanogaster	FBtr0330246
+C02F5.7b.3	WBGene00015350	Caenorhabditis_elegans_strain_N2	C02F5.7b.3
+ENSMALP00000009774	ENSMALG00000006960	Monopterus_albus	ENSMALT00000009979
+YJR090C_mRNA	YJR090C	Saccharomyces_cerevisiae_strain_S288C

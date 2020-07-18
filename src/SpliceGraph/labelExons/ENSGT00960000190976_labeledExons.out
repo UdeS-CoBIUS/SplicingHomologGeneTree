@@ -1,0 +1,8 @@
+>0
+ENSSDAT00000004041: [['internal gap < 30', 101, 2], 227, 0]
+ENSSDAT00000018837: [['internal gap < 30', 101, 2], 227, 0]
+ENSTGET00000039090: ['3event', 140, 0]
+>1
+ENSSDAT00000004041: ['exon skipping', 0, 0]
+ENSSDAT00000018837: ['exon skipping', 0, 0]
+ENSTGET00000039090: ['5event', 9, 2]

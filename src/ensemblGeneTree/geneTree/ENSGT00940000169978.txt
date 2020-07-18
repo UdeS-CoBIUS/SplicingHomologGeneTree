@@ -1,0 +1,1 @@
+((ENSEBUG00000007051__Eptatretus_burgeri,ENSEBUG00000006429__Eptatretus_burgeri),FBgn0039889__Drosophila_melanogaster);

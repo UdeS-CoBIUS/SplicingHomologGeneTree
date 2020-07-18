@@ -1,0 +1,1 @@
+(((ENSTSYG00000034684__Carlito_syrichta,ENSUAMG00000026341__Ursus_americanus),(((ENSRNOG00000060879__Rattus_norvegicus,ENSSDAG00000022032__Spermophilus_dauricus),ENSRROG00000027566__Rhinopithecus_roxellana),((ENSUMAG00000017535__Ursus_maritimus,ENSCAFG00020005179__Canis_lupus_dingo),ENSNVIG00000011042__Neovison_vison))),ENSDNOG00000048749__Dasypus_novemcinctus);

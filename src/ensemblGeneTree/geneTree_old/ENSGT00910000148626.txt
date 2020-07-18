@@ -1,1 +1,0 @@
-(ENSGGOG00000040230__Gorilla_gorilla,ENSNLEG00000027166__Nomascus_leucogenys);

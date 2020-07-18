@@ -1,0 +1,4 @@
+SPHENODONPUNCTATUS	sphenodon_punctatus
+CHELONOIDISABINGDONII	chelonoidis_abingdonii
+CARLITOSYRICHTA	carlito_syrichta
+AOTUSNANCYMAAE	aotus_nancymaae

@@ -1,0 +1,1 @@
+((ENSLCOG00000016098__Lepidothrix_coronata,ENSMVIG00005015775__Manacus_vitellinus),ENSCPUG00000014713__Calidris_pugnax);

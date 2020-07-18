@@ -1,0 +1,1 @@
+(((ENSBMUG00000012195__Bos_mutus,ENSBBBG00000008924__Bison_bison_bison),(ENSPTEG00000014075__Piliocolobus_tephrosceles,ENSPTEG00000020487__Piliocolobus_tephrosceles)),(ENSDNVG00000004035__Dromaius_novaehollandiae,ENSCABG00000009887__Chelonoidis_abingdonii));

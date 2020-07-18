@@ -1,0 +1,1 @@
+(((((ENSPTRG00000052709__Pan_troglodytes,ENSPPAG00000011200__Pan_paniscus),ENSGGOG00000039732__Gorilla_gorilla),(ENSNLEG00000034595__Nomascus_leucogenys,ENSMMUG00000040608__Macaca_mulatta)),((ENSCCAG00000033531__Cebus_capucinus_imitator,ENSSBOG00000034883__Saimiri_boliviensis_boliviensis),ENSANAG00000018433__Aotus_nancymaae)),ENSTSYG00000030482__Carlito_syrichta);

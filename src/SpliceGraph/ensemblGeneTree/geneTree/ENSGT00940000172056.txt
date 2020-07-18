@@ -1,0 +1,1 @@
+((((ENSUAMG00000018747__Ursus_americanus,ENSCJAG00000038807__Callithrix_jacchus),ENSMAUG00000002861__Mesocricetus_auratus),((ENSLSDG00000001636__Lonchura_striata_domestica,ENSJHYG00000017524__Junco_hyemalis),ENSLCOG00000006455__Lepidothrix_coronata)),((ENSMAMG00000018909__Mastacembelus_armatus,ENSMALG00000018528__Monopterus_albus),ENSMMOG00000004083__Mola_mola));

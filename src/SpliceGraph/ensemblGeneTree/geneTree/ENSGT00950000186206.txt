@@ -1,0 +1,1 @@
+(ENSVVUG00000005476__Vulpes_vulpes,ENSCHIG00000017310__Capra_hircus);

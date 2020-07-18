@@ -1,0 +1,1 @@
+(((((ENSAMEG00000019693__Ailuropoda_melanoleuca,ENSMLUG00000030106__Myotis_lucifugus),(ENSOARG00000001364__Ovis_aries,ENSOARG00000017665__Ovis_aries)),ENSLAFG00000030055__Loxodonta_africana),ENSSHAG00000015361__Sarcophilus_harrisii),ENSHHUG00000030880__Hucho_hucho);

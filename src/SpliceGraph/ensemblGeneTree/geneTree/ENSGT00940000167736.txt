@@ -1,0 +1,1 @@
+((((ENSMAUG00000002781__Mesocricetus_auratus,ENSMOCG00000000809__Microtus_ochrogaster),ENSNGAG00000007575__Nannospalax_galili),ENSDORG00000028939__Dipodomys_ordii),(ENSODEG00000002940__Octodon_degus,ENSCAPG00000008011__Cavia_aperea));

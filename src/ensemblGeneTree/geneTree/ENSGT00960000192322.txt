@@ -1,0 +1,1 @@
+(ENSNMEG00000019555__Numida_meleagris,ENSATEG00000004031__Anabas_testudineus);

@@ -1,0 +1,1 @@
+((((ENSFALG00000011561__Ficedula_albicollis,ENSFALG00000001157__Ficedula_albicollis),ENSNMEG00000002140__Numida_meleagris),ENSDNVG00000004898__Dromaius_novaehollandiae),ENSCSEG00000018775__Cynoglossus_semilaevis);

@@ -1,1 +1,0 @@
-((ENSGMOG00000017967__Gadus_morhua,ENSPMGG00000015506__Periophthalmus_magnuspinnatus),ENSELUG00000002513__Esox_lucius);

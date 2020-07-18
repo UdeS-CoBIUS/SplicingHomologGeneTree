@@ -1,0 +1,1 @@
+(((ENSABRG00000004296__Anser_brachyrhynchus,ENSMGAG00000010786__Meleagris_gallopavo),ENSJHYG00000003107__Junco_hyemalis),ENSAHAG00000011656__Apteryx_haastii);

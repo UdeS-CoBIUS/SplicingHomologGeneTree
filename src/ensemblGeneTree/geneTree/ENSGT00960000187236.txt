@@ -1,0 +1,1 @@
+((ENSAMXG00000030523__Astyanax_mexicanus,ENSPNAG00000026873__Pygocentrus_nattereri),((ENSSPAG00000007711__Stegastes_partitus,ENSAPOG00000015987__Acanthochromis_polyacanthus),ENSMMOG00000011149__Mola_mola));

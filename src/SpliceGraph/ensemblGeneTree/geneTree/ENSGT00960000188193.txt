@@ -1,0 +1,1 @@
+(((ENSSDAG00000023866__Spermophilus_dauricus,ENSSDAG00000023867__Spermophilus_dauricus),ENSPPAG00000041947__Pan_paniscus),ENSUMAG00000019912__Ursus_maritimus);

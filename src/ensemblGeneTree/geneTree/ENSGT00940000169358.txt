@@ -1,0 +1,1 @@
+((ENSTBEG00000013035__Tupaia_belangeri,ENSSFOG00015023828__Scleropages_formosus),((FBgn0030120__Drosophila_melanogaster,FBgn0030121__Drosophila_melanogaster),WBGene00009924__Caenorhabditis_elegans_strain_N2));

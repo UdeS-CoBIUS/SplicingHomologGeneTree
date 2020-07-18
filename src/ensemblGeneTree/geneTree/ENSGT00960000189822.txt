@@ -1,0 +1,1 @@
+(((ENSCGRG00015000093__Cricetulus_griseus_CriGri-PICR,ENSCGRG00015000595__Cricetulus_griseus_CriGri-PICR),ENSPEMG00000028588__Peromyscus_maniculatus_bairdii),ENSMMMG00000002288__Marmota_marmota_marmota);

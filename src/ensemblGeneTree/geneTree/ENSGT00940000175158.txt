@@ -1,0 +1,1 @@
+(ENSPLAG00000001369__Poecilia_latipinna,ENSPCOG00000013378__Propithecus_coquereli);

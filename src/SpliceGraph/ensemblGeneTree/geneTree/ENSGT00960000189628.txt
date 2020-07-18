@@ -1,0 +1,1 @@
+((((ENSMMMG00000018486__Marmota_marmota_marmota,ENSUPAG00010020379__Urocitellus_parryii),ENSTSYG00000000088__Carlito_syrichta),ENSPCIG00000030912__Phascolarctos_cinereus),(ENSNPEG00000014997__Nothoprocta_perdicaria,ENSLCOG00000000299__Lepidothrix_coronata));

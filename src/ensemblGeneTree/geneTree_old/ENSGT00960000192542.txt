@@ -1,1 +1,0 @@
-(ENSMALG00000019333__Monopterus_albus,ENSCJPG00005016701__Coturnix_japonica);

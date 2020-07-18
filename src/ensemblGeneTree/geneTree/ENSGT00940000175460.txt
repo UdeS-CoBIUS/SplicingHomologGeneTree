@@ -1,0 +1,1 @@
+((ENSMALG00000009234__Monopterus_albus,ENSAMXG00000040884__Astyanax_mexicanus),(ENSLACG00000000607__Latimeria_chalumnae,ENSSPUG00000004647__Sphenodon_punctatus));

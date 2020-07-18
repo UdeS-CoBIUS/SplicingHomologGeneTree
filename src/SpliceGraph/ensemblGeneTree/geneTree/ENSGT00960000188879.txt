@@ -1,0 +1,1 @@
+(((ENSSDAG00000008160__Spermophilus_dauricus,ENSUPAG00010011402__Urocitellus_parryii),ENSMMMG00000013936__Marmota_marmota_marmota),((ENSBMUG00000019142__Bos_mutus,ENSBTAG00000050128__Bos_taurus),ENSNVIG00000020584__Neovison_vison));

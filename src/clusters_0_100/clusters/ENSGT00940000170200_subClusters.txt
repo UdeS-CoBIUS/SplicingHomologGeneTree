@@ -1,0 +1,10 @@
+>cluster_0
+FBtr0333347
+>cluster_1
+YDR456W_mRNA	FBtr0333348
+>cluster_2
+FBtr0273250
+>cluster_3
+ENSCINT00000019440	FBtr0273247	F57C7.2a.1
+>cluster_4
+F57C7.2b.1	FBtr0300327

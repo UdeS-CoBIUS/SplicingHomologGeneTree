@@ -1,0 +1,1 @@
+(ENSAMXG00000030278__Astyanax_mexicanus,ENSAMXG00000036455__Astyanax_mexicanus);

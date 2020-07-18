@@ -1,0 +1,1 @@
+((((ENSIPUG00000015355__Ictalurus_punctatus,ENSDARG00000114191__Danio_rerio),(((ENSPFOG00000023498__Poecilia_formosa,ENSORLG00000027313__Oryzias_latipes_ASM223467v1),ENSHBUG00000006024__Haplochromis_burtoni),ENSMAMG00000004139__Mastacembelus_armatus)),ENSELUG00000000325__Esox_lucius),ENSSFOG00015001719__Scleropages_formosus);

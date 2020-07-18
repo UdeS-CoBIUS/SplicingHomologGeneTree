@@ -1,1 +1,0 @@
-(((ENSCPBG00000009044__Chrysemys_picta_bellii,ENSNPEG00000009581__Nothoprocta_perdicaria),ENSTBEG00000013584__Tupaia_belangeri),ENSFHEG00000002442__Fundulus_heteroclitus);

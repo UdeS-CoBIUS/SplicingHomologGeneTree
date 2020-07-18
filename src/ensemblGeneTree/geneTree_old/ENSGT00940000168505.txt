@@ -1,1 +1,0 @@
-((((ENSCAFG00000032093__Canis_lupus_familiaris,ENSVVUG00000002012__Vulpes_vulpes),ENSAMEG00000011365__Ailuropoda_melanoleuca),(ENSOARG00000004325__Ovis_aries,ENSBTAG00000054459__Bos_taurus)),ENSOCUG00000008978__Oryctolagus_cuniculus);

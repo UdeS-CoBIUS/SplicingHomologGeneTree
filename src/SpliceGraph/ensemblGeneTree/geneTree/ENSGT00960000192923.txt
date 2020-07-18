@@ -1,0 +1,1 @@
+(ENSDNVG00000005910__Dromaius_novaehollandiae,ENSPSIG00000006079__Pelodiscus_sinensis);

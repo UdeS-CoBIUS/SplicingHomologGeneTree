@@ -1,0 +1,1 @@
+(((ENSDNVG00000006545__Dromaius_novaehollandiae,ENSGALG00000052929__Gallus_gallus),ENSACAG00000023218__Anolis_carolinensis),ENSOANG00000014688__Ornithorhynchus_anatinus);

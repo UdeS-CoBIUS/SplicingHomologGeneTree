@@ -1,0 +1,1 @@
+(((((ENSAMXG00000000768__Astyanax_mexicanus,ENSAMXG00000040208__Astyanax_mexicanus),ENSPNAG00000027169__Pygocentrus_nattereri),(ENSPNAG00000004834__Pygocentrus_nattereri,ENSPNAG00000017970__Pygocentrus_nattereri)),ENSDARG00000087148__Danio_rerio),(ENSELUG00000019333__Esox_lucius,ENSELUG00000019362__Esox_lucius));

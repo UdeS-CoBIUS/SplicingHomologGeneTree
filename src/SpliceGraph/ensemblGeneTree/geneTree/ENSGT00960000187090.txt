@@ -1,0 +1,1 @@
+((((ENSAPEG00000012964__Amphiprion_percula,ENSXCOG00000008548__Xiphophorus_couchianus),(ENSSDUG00000019610__Seriola_dumerili,ENSSLDG00000019064__Seriola_lalandi_dorsalis)),ENSTRUG00000020520__Takifugu_rubripes),ENSPMGG00000023715__Periophthalmus_magnuspinnatus);

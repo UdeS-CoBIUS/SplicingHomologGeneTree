@@ -1,0 +1,1 @@
+(ENSPMGG00000007944__Periophthalmus_magnuspinnatus,FBgn0052230__Drosophila_melanogaster);

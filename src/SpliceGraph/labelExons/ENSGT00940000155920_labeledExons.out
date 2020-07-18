@@ -1,0 +1,15 @@
+>0
+ENSLACT00000024886: ['no event', 136, 0]
+ENSECRT00000016522: ['no event', 136, 0]
+>1
+ENSLACT00000024886: ['no event', 63, 2]
+ENSECRT00000016522: ['no event', 63, 2]
+>2
+ENSLACT00000024886: ['no event', 119, 0]
+ENSECRT00000016522: ['no event', 119, 0]
+>3
+ENSLACT00000024886: ['no event', 27, 0]
+ENSECRT00000016522: ['exon skipping', 0, 0]
+>4
+ENSLACT00000024886: ['no event', 25, 1]
+ENSECRT00000016522: ['exon skipping', 0, 0]

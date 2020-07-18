@@ -1,1 +1,0 @@
-(ENSIPUG00000017293__Ictalurus_punctatus,ENSOMEG00000021991__Oryzias_melastigma);

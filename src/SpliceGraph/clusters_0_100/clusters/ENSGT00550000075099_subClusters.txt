@@ -1,0 +1,4 @@
+>cluster_0
+Y56A3A.13.1	ENSPVIT00000031586
+>cluster_1
+FBtr0072483

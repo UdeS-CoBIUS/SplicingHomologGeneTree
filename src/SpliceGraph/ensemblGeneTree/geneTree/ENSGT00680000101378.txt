@@ -1,0 +1,1 @@
+(((ENSCAFG00000031839__Canis_lupus_familiaris,ENSCAFG00000030616__Canis_lupus_familiaris),ENSCAFG00000028460__Canis_lupus_familiaris),ENSCAFG00000031490__Canis_lupus_familiaris);

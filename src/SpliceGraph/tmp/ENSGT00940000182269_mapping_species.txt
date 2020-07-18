@@ -1,0 +1,2 @@
+ASTYANAXMEXICANUS	astyanax_mexicanus
+ESOXLUCIUS	esox_lucius

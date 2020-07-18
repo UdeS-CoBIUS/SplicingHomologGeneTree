@@ -1,0 +1,1 @@
+(((ENSXCOG00000014611__Xiphophorus_couchianus,ENSXMAG00000026101__Xiphophorus_maculatus),(ENSFHEG00000015069__Fundulus_heteroclitus,ENSFHEG00000015098__Fundulus_heteroclitus)),ENSMAMG00000017895__Mastacembelus_armatus);

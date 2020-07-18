@@ -1,0 +1,1 @@
+((((((ENSPMEG00000022134__Poecilia_mexicana,ENSPLAG00000012679__Poecilia_latipinna),ENSPFOG00000012709__Poecilia_formosa),ENSPREG00000009753__Poecilia_reticulata),ENSFHEG00000000799__Fundulus_heteroclitus),ENSOMEG00000014018__Oryzias_melastigma),(ENSMAMG00000006535__Mastacembelus_armatus,ENSSDUG00000009096__Seriola_dumerili));

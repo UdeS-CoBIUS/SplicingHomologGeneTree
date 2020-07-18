@@ -1,0 +1,1 @@
+((((ENSAOCG00000008457__Amphiprion_ocellaris,ENSACIG00000009481__Amphilophus_citrinellus),ENSCSEG00000004040__Cynoglossus_semilaevis),ENSHCOG00000020121__Hippocampus_comes),ENSPMGG00000013697__Periophthalmus_magnuspinnatus);

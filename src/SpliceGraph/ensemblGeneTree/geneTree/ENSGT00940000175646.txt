@@ -1,0 +1,1 @@
+((ENSHHUG00000048045__Hucho_hucho,ENSELUG00000016562__Esox_lucius),(ENSAMXG00005018101__Astyanax_mexicanus_Astyanax_mexicanus-1.0.2,ENSAMXG00000014638__Astyanax_mexicanus_Astyanax_mexicanus-2.0));

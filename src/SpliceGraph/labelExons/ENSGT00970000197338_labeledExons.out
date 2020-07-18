@@ -1,0 +1,9 @@
+>0
+ENSHHUT00000028410: ['no event', 354, 0]
+ENSSPUT00000002705: ['5event', ['internal gap >= 30', 56, 147], 207, 0]
+>1
+ENSHHUT00000028410: ['no event', 91, 1]
+ENSSPUT00000002705: ['no event', 91, 1]
+>2
+ENSHHUT00000028410: ['no event', 35, 0]
+ENSSPUT00000002705: ['exon skipping', 0, 0]

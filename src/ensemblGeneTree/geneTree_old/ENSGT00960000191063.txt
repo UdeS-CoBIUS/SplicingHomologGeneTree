@@ -1,1 +1,0 @@
-((ENSSDAG00000014834__Spermophilus_dauricus,ENSSDAG00000013935__Spermophilus_dauricus),ENSSDAG00000014210__Spermophilus_dauricus);

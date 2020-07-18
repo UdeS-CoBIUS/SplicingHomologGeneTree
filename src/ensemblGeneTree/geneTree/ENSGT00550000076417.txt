@@ -1,0 +1,1 @@
+(((ENSMLEG00000031905__Mandrillus_leucophaeus,ENSCATG00000034922__Cercocebus_atys),ENSRROG00000005908__Rhinopithecus_roxellana),((((ENSPTRG00000051980__Pan_troglodytes,ENSPTRG00000050167__Pan_troglodytes),ENSPPAG00000016253__Pan_paniscus),ENSPPYG00000000579__Pongo_abelii),ENSNLEG00000019162__Nomascus_leucogenys));

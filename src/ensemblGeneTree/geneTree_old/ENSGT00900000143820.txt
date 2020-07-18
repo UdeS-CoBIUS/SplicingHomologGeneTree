@@ -1,1 +1,0 @@
-(((((ENSMMMG00000009862__Marmota_marmota_marmota,ENSSDAG00000008235__Spermophilus_dauricus),(ENSNGAG00000022505__Nannospalax_galili,ENSJJAG00000012512__Jaculus_jaculus)),ENSCJAG00000042899__Callithrix_jacchus),ENSTGEG00000013345__Theropithecus_gelada),ENSPCIG00000035792__Phascolarctos_cinereus);

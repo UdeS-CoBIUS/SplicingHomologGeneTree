@@ -1,0 +1,1 @@
+(((((ENSVURG00010018336__Vombatus_ursinus,ENSPCIG00000035600__Phascolarctos_cinereus),ENSSHAG00000011841__Sarcophilus_harrisii),ENSMODG00000047827__Monodelphis_domestica),ENSOANG00000009280__Ornithorhynchus_anatinus),ENSAHAG00000012729__Apteryx_haastii);

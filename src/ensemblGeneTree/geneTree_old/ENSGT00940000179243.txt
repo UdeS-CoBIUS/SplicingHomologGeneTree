@@ -1,1 +1,0 @@
-((ENSAPOG00000020409__Acanthochromis_polyacanthus,ENSATEG00000006825__Anabas_testudineus),ENSTNIG00000019723__Tetraodon_nigroviridis);

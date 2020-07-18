@@ -1,1 +1,0 @@
-((((ENSLSDG00000013366__Lonchura_striata_domestica,ENSTGUG00000008451__Taeniopygia_guttata),ENSZALG00000013026__Zonotrichia_albicollis),ENSFALG00000005001__Ficedula_albicollis),ENSMUNG00000004762__Melopsittacus_undulatus);

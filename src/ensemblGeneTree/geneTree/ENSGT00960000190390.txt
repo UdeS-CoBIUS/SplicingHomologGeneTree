@@ -1,0 +1,1 @@
+((ENSLSDG00000011484__Lonchura_striata_domestica,ENSLSDG00000002996__Lonchura_striata_domestica),ENSZALG00000005335__Zonotrichia_albicollis);

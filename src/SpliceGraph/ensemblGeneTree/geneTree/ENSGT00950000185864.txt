@@ -1,0 +1,1 @@
+(ENSEEUG00000001285__Erinaceus_europaeus,ENSTBEG00000011192__Tupaia_belangeri);

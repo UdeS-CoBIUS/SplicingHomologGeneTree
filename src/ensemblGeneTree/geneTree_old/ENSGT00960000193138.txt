@@ -1,1 +1,0 @@
-(ENSCABG00000007790__Chelonoidis_abingdonii,ENSNPEG00000007288__Nothoprocta_perdicaria);

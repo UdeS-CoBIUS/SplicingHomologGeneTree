@@ -1,0 +1,1 @@
+(((((ENSLACG00000009993__Latimeria_chalumnae,ENSLACG00000009981__Latimeria_chalumnae),ENSLACG00000006768__Latimeria_chalumnae),ENSLACG00000008216__Latimeria_chalumnae),((ENSLACG00000000881__Latimeria_chalumnae,ENSLACG00000006875__Latimeria_chalumnae),ENSLACG00000010619__Latimeria_chalumnae)),ENSPKIG00000023860__Paramormyrops_kingsleyae);

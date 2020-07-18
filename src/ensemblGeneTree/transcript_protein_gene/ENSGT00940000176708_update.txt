@@ -1,0 +1,2 @@
+YCL037C_mRNA	YCL037C	Saccharomyces_cerevisiae_strain_S288C
+YDR515W_mRNA	YDR515W	Saccharomyces_cerevisiae_strain_S288C

@@ -1,0 +1,9 @@
+>0
+ENSSDAT00000024627: ['no event', 120, 0]
+ENSUPAT00010023036: ['no event', 120, 0]
+>1
+ENSSDAT00000024627: [['internal gap >= 30', 23, 34], 51, 1]
+ENSUPAT00010023036: ['no event', 85, 1]
+>2
+ENSSDAT00000024627: ['no event', 45, 2]
+ENSUPAT00010023036: ['exon skipping', 0, 0]

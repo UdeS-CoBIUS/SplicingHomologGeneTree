@@ -1,0 +1,1 @@
+((ENSETEG00000005487__Echinops_telfairi,ENSETEG00000000786__Echinops_telfairi),ENSCGRG00000003106__Cricetulus_griseus_CriGri_1.0);

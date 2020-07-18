@@ -1,0 +1,1 @@
+(ENSIPUG00000002422__Ictalurus_punctatus,ENSATEG00000020718__Anabas_testudineus);

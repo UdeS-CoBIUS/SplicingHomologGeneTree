@@ -1,0 +1,24 @@
+>0
+Y43F8B.14.1: [['internal gap >= 30', 633, 640], 1326, 0]
+M04C3.2a.1: [['internal gap >= 30', 865, 631], 1335, 0]
+M04C3.2b.1: [['internal gap >= 30', 865, 631], 1335, 0]
+M04C3.2b.2: [['internal gap >= 30', 865, 631], 1335, 0]
+Y43F8B.15.1: ['3event', 592, 0]
+>1
+Y43F8B.14.1: ['exon skipping', 0, 0]
+M04C3.2a.1: ['exon skipping', 0, 0]
+M04C3.2b.1: ['exon skipping', 0, 0]
+M04C3.2b.2: ['exon skipping', 0, 0]
+Y43F8B.15.1: ['5event', 1, 1]
+>2
+Y43F8B.14.1: ['3event', '5event', 424, 1]
+M04C3.2a.1: ['3event', '5event', 397, 1]
+M04C3.2b.1: ['3event', '5event', 401, 1]
+M04C3.2b.2: ['3event', '5event', 401, 1]
+Y43F8B.15.1: [['internal gap >= 30', 363, 42], 398, 0]
+>3
+Y43F8B.14.1: ['5event', 30, 2]
+M04C3.2a.1: ['5event', 30, 2]
+M04C3.2b.1: ['exon skipping', 0, 0]
+M04C3.2b.2: ['exon skipping', 0, 0]
+Y43F8B.15.1: ['exon skipping', 0, 0]

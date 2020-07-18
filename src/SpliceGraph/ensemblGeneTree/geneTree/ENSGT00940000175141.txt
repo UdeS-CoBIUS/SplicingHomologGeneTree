@@ -1,0 +1,1 @@
+((ENSABRG00000001062__Anser_brachyrhynchus,ENSMODG00000027468__Monodelphis_domestica),ENSXCOG00000017898__Xiphophorus_couchianus);

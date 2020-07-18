@@ -1,0 +1,1 @@
+(((((ENSAOWG00000017269__Apteryx_owenii,ENSARWG00000010889__Apteryx_rowi),ENSNPEG00000007353__Nothoprocta_perdicaria),((ENSABRG00000008948__Anser_brachyrhynchus,ENSCJPG00005019096__Coturnix_japonica),ENSCPUG00000001997__Calidris_pugnax)),ENSCPRG00005003961__Crocodylus_porosus),ENSCABG00000022667__Chelonoidis_abingdonii);

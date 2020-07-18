@@ -1,0 +1,1 @@
+((ENSACLG00000004870__Astatotilapia_calliptera,ENSELUG00000005847__Esox_lucius),ENSLSDG00000014209__Lonchura_striata_domestica);

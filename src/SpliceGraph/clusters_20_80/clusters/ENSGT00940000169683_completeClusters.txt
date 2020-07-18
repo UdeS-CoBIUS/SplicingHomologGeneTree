@@ -1,0 +1,6 @@
+>completeCluster_0
+F22A3.5.1	FBtr0087942	FBtr0087944
+>completeCluster_1
+FBtr0339635	FBtr0087945	F22A3.5.1
+>completeCluster_2
+FBtr0087943	FBtr0087944	F22A3.5.1

@@ -1,0 +1,4 @@
+NEOLAMPROLOGUSBRICHARDI	neolamprologus_brichardi
+MOLAMOLA	mola_mola
+MONOPTERUSALBUS	monopterus_albus
+PERIOPHTHALMUSMAGNUSPINNATUS	periophthalmus_magnuspinnatus

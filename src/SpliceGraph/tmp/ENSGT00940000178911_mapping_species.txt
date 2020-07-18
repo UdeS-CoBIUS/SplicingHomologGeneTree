@@ -1,0 +1,5 @@
+PYGOCENTRUSNATTERERI	pygocentrus_nattereri
+ASTYANAXMEXICANUS	astyanax_mexicanus
+ICTALURUSPUNCTATUS	ictalurus_punctatus
+ELECTROPHORUSELECTRICUS	electrophorus_electricus
+LABRUSBERGYLTA	labrus_bergylta

@@ -1,0 +1,1 @@
+((((ENSCVAG00000004134__Cyprinodon_variegatus,ENSCVAG00000011458__Cyprinodon_variegatus),(ENSCVAG00000004783__Cyprinodon_variegatus,ENSCVAG00000017962__Cyprinodon_variegatus)),ENSCVAG00000006569__Cyprinodon_variegatus),ENSFHEG00000017049__Fundulus_heteroclitus);

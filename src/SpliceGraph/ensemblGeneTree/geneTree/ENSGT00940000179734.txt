@@ -1,0 +1,1 @@
+((ENSFHEG00000008335__Fundulus_heteroclitus,ENSCVAG00000009674__Cyprinodon_variegatus),ENSLACG00000000223__Latimeria_chalumnae);

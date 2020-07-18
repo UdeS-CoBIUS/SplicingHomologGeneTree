@@ -1,0 +1,1 @@
+(((ENSACIG00000008943__Amphilophus_citrinellus,ENSSDUG00000012697__Seriola_dumerili),(((ENSAPEG00000004748__Amphiprion_percula,ENSAPOG00000010336__Acanthochromis_polyacanthus),(ENSMMOG00000011073__Mola_mola,ENSSDUG00000012651__Seriola_dumerili)),ENSMALG00000004871__Monopterus_albus)),ENSAMXG00000037493__Astyanax_mexicanus);

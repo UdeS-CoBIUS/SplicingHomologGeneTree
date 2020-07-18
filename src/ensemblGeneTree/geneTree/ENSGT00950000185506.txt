@@ -1,0 +1,1 @@
+(((ENSAHAG00000004246__Apteryx_haastii,ENSAOWG00000000559__Apteryx_owenii),ENSCJPG00005013180__Coturnix_japonica),(ENSDNOG00000037331__Dasypus_novemcinctus,ENSBTAG00000048600__Bos_taurus));

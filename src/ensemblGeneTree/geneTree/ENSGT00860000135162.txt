@@ -1,0 +1,1 @@
+(((ENSPMAG00000010264__Petromyzon_marinus,ENSPMAG00000010107__Petromyzon_marinus),ENSPMAG00000003596__Petromyzon_marinus),(ENSPMAG00000010403__Petromyzon_marinus,ENSPMAG00000010092__Petromyzon_marinus));

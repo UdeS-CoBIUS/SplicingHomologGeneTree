@@ -1,0 +1,1 @@
+((((ENSHBUG00000019001__Haplochromis_burtoni,ENSPLAG00000006282__Poecilia_latipinna),ENSSLDG00000002774__Seriola_lalandi_dorsalis),((ENSLBEG00000013242__Labrus_bergylta,ENSLBEG00000018056__Labrus_bergylta),ENSTRUG00000024782__Takifugu_rubripes)),ENSGMOG00000018363__Gadus_morhua);

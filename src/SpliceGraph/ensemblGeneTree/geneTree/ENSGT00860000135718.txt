@@ -1,0 +1,1 @@
+(((ENSMSIG00000024991__Mus_spicilegus,MGP_SPRETEiJ_G0026621__Mus_spretus_strain_SPRET/EiJ),MGP_PahariEiJ_G0027115__Mus_pahari_strain_PAHARI_EIJ),ENSMOCG00000020706__Microtus_ochrogaster);

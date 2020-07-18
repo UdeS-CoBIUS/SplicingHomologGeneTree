@@ -1,1 +1,0 @@
-(ENSCPBG00000010263__Chrysemys_picta_bellii,ENSPNAG00000029180__Pygocentrus_nattereri);

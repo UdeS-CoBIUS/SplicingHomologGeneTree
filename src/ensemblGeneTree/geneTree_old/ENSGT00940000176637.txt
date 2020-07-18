@@ -1,1 +1,0 @@
-(YNR064C__Saccharomyces_cerevisiae_strain_S288C,ENSPNAG00000016766__Pygocentrus_nattereri);

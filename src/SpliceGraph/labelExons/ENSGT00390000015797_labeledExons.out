@@ -1,0 +1,30 @@
+>0
+FBtr0086947: ['3event', 18, 0]
+E04A4.8.1: ['no event', 23, 0]
+ENSLOCT00000020427: ['5event', 17, 0]
+ENSECRT00000003887: ['5event', 17, 0]
+>1
+FBtr0086947: ['exon skipping', 0, 0]
+E04A4.8.1: ['no event', 2, 0]
+ENSLOCT00000020427: ['exon skipping', 0, 0]
+ENSECRT00000003887: ['exon skipping', 0, 0]
+>2
+FBtr0086947: ['5event', 179, 0]
+E04A4.8.1: ['no event', 181, 0]
+ENSLOCT00000020427: ['5event', 179, 0]
+ENSECRT00000003887: ['5event', 179, 0]
+>3
+FBtr0086947: ['no event', 129, 0]
+E04A4.8.1: ['no event', 129, 0]
+ENSLOCT00000020427: ['no event', 129, 0]
+ENSECRT00000003887: ['no event', 129, 0]
+>4
+FBtr0086947: [['internal gap >= 30', 112, 2511], 202, 1]
+E04A4.8.1: [['internal gap >= 30', 112, 2511], 202, 1]
+ENSLOCT00000020427: [['internal gap >= 30', 112, 2511], 202, 1]
+ENSECRT00000003887: [['internal gap >= 30', 112, 2511], 202, 1]
+>5
+FBtr0086947: ['exon skipping', 0, 0]
+E04A4.8.1: ['no event', 2, 0]
+ENSLOCT00000020427: ['exon skipping', 0, 0]
+ENSECRT00000003887: ['exon skipping', 0, 0]

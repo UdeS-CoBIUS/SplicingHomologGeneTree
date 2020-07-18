@@ -1,0 +1,1 @@
+((((ENSABRG00000000963__Anser_brachyrhynchus,ENSNMEG00000011068__Numida_meleagris),ENSLSDG00000002069__Lonchura_striata_domestica),ENSCABG00000004876__Chelonoidis_abingdonii),(ENSKMAG00000015269__Kryptolebias_marmoratus,ENSKMAG00000005165__Kryptolebias_marmoratus));

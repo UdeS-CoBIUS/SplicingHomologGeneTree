@@ -1,0 +1,2 @@
+YOL039W_mRNA	YOL039W	Saccharomyces_cerevisiae_strain_S288C
+YDR382W_mRNA	YDR382W	Saccharomyces_cerevisiae_strain_S288C

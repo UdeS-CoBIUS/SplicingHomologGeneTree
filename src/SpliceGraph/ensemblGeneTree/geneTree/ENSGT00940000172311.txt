@@ -1,0 +1,1 @@
+((((ENSSLDG00000002676__Seriola_lalandi_dorsalis,ENSSDUG00000014249__Seriola_dumerili),ENSXMAG00000021243__Xiphophorus_maculatus),ENSCSAVG00000004692__Ciona_savignyi),FBgn0040334__Drosophila_melanogaster);

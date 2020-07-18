@@ -1,0 +1,1 @@
+(((ENSNGAG00000020659__Nannospalax_galili,ENSSTOG00000029488__Ictidomys_tridecemlineatus),((ENSFDAG00000013561__Fukomys_damarensis,ENSHGLG00000009460__Heterocephalus_glaber_HetGla_female_1.0),ENSODEG00000014104__Octodon_degus)),ENSCANG00000028425__Colobus_angolensis_palliatus);

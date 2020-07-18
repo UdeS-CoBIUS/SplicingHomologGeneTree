@@ -1,0 +1,1 @@
+((ENSTGEG00000016228__Theropithecus_gelada,ENSMMUG00000037821__Macaca_mulatta),ENSOANG00000028319__Ornithorhynchus_anatinus);

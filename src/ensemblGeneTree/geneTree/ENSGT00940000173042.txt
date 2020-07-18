@@ -1,0 +1,1 @@
+((ENSMSIG00000019954__Mus_spicilegus,MGP_CAROLIEiJ_G0027421__Mus_caroli_strain_CAROLI_EIJ),ENSOANG00000028309__Ornithorhynchus_anatinus);

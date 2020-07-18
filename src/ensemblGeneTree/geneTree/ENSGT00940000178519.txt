@@ -1,0 +1,1 @@
+(((ENSACLG00000010717__Astatotilapia_calliptera,ENSMZEG00005006296__Maylandia_zebra),ENSHBUG00000022030__Haplochromis_burtoni),ENSFHEG00000021473__Fundulus_heteroclitus);

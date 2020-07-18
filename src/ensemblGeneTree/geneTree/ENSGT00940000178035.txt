@@ -1,0 +1,1 @@
+((((ENSAOCG00000001736__Amphiprion_ocellaris,ENSAPEG00000000948__Amphiprion_percula),ENSAPOG00000005302__Acanthochromis_polyacanthus),(ENSSDUG00000008172__Seriola_dumerili,ENSSLDG00000020051__Seriola_lalandi_dorsalis)),ENSAMXG00000030537__Astyanax_mexicanus);

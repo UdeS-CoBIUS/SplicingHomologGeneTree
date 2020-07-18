@@ -1,0 +1,1 @@
+((((((ENSJHYG00000001853__Junco_hyemalis,ENSZALG00000001683__Zonotrichia_albicollis),ENSSCAG00000000965__Serinus_canaria),ENSGAGG00000003390__Gopherus_agassizii),ENSSPUG00000018627__Sphenodon_punctatus),ENSPSMG00000020779__Prolemur_simus),(ENSSLDG00000011742__Seriola_lalandi_dorsalis,ENSSLDG00000011721__Seriola_lalandi_dorsalis));

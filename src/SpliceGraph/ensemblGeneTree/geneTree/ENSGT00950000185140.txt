@@ -1,0 +1,1 @@
+((((ENSUAMG00000017319__Ursus_americanus,ENSUMAG00000005352__Ursus_maritimus),ENSCAFG00020027453__Canis_lupus_dingo),ENSEASG00005023322__Equus_asinus_asinus),(ENSOCUG00000030282__Oryctolagus_cuniculus,ENSMUGG00000010422__Meriones_unguiculatus));

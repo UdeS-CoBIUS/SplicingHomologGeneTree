@@ -1,0 +1,1 @@
+((ENSPMEG00000021631__Poecilia_mexicana,ENSPLAG00000001611__Poecilia_latipinna),ENSTRUG00000024922__Takifugu_rubripes);

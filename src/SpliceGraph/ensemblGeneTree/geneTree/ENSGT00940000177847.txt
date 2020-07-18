@@ -1,0 +1,1 @@
+((((ENSHCOG00000003073__Hippocampus_comes,ENSHCOG00000009727__Hippocampus_comes),ENSHCOG00000020459__Hippocampus_comes),((((ENSMZEG00005016978__Maylandia_zebra,ENSPLAG00000005645__Poecilia_latipinna),ENSMAMG00000009187__Mastacembelus_armatus),ENSCSEG00000017552__Cynoglossus_semilaevis),ENSMMOG00000021310__Mola_mola)),ENSSPUG00000004181__Sphenodon_punctatus);

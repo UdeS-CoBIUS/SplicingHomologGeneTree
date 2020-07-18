@@ -1,0 +1,1 @@
+(ENSDARG00000069978__Danio_rerio,ENSDARG00000078193__Danio_rerio);

@@ -1,0 +1,1 @@
+((ENSLSDG00000014605__Lonchura_striata_domestica,ENSZALG00000005265__Zonotrichia_albicollis),ENSPMGG00000008907__Periophthalmus_magnuspinnatus);

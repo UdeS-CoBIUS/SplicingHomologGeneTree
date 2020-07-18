@@ -1,0 +1,1 @@
+((((ENSMMMG00000002635__Marmota_marmota_marmota,ENSSDAG00000017549__Spermophilus_dauricus),ENSMOCG00000022021__Microtus_ochrogaster),(ENSCAFG00020020391__Canis_lupus_dingo,ENSSSCG00000033252__Sus_scrofa)),ENSAPOG00000019858__Acanthochromis_polyacanthus);

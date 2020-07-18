@@ -1,1 +1,0 @@
-(ENSEBUG00000015830__Eptatretus_burgeri,ENSIPUG00000001261__Ictalurus_punctatus);

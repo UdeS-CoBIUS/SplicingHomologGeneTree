@@ -1,0 +1,1 @@
+(((((ENSLBEG00000010002__Labrus_bergylta,ENSLBEG00000001786__Labrus_bergylta),(ENSLBEG00000023758__Labrus_bergylta,ENSLBEG00000028351__Labrus_bergylta)),ENSLBEG00000017164__Labrus_bergylta),ENSPNAG00000025000__Pygocentrus_nattereri),((ENSLBEG00000009956__Labrus_bergylta,ENSMZEG00005015495__Maylandia_zebra),ENSPNAG00000021446__Pygocentrus_nattereri));

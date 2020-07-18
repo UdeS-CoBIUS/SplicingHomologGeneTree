@@ -1,0 +1,1 @@
+(((ENSCCEG00000020915__Cyanistes_caeruleus,ENSPMJG00000013043__Parus_major),ENSJHYG00000006840__Junco_hyemalis),ENSLSDG00000010825__Lonchura_striata_domestica);

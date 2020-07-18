@@ -1,0 +1,1 @@
+(((ENSMALG00000001338__Monopterus_albus,ENSACIG00000014025__Amphilophus_citrinellus),(ENSMAMG00000004569__Mastacembelus_armatus,ENSATEG00000010248__Anabas_testudineus)),(ENSMMOG00000001863__Mola_mola,ENSMMOG00000001853__Mola_mola));

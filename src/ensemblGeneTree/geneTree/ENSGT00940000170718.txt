@@ -1,0 +1,1 @@
+(((ENSDORG00000026924__Dipodomys_ordii,ENSHGLG00100014893__Heterocephalus_glaber_HetGla_1.0),ENSTGUG00000015135__Taeniopygia_guttata),ENSCSEG00000015839__Cynoglossus_semilaevis);

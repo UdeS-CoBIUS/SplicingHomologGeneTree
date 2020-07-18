@@ -1,0 +1,1 @@
+(((((ENSPANG00000034522__Papio_anubis,ENSTGEG00000005162__Theropithecus_gelada),ENSMLEG00000005825__Mandrillus_leucophaeus),ENSNLEG00000028128__Nomascus_leucogenys),ENSCCAG00000022252__Cebus_capucinus_imitator),ENSSSCG00000038386__Sus_scrofa);

@@ -1,1 +1,0 @@
-((((ENSZALG00000012785__Zonotrichia_albicollis,ENSPMJG00000014120__Parus_major),ENSLCOG00000015476__Lepidothrix_coronata),ENSNMEG00000013096__Numida_meleagris),ENSSFOG00015010955__Scleropages_formosus);

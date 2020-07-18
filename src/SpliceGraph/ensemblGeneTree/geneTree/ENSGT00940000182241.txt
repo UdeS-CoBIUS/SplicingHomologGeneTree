@@ -1,0 +1,1 @@
+(((ENSPTRG00000051343__Pan_troglodytes,ENSPTRG00000049094__Pan_troglodytes),ENSUPAG00010001518__Urocitellus_parryii),(ENSBBBG00000018294__Bison_bison_bison,ENSBMUG00000018350__Bos_mutus));

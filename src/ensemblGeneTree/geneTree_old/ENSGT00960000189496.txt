@@ -1,1 +1,0 @@
-((((ENSLSDG00000003080__Lonchura_striata_domestica,ENSSCAG00000003425__Serinus_canaria),ENSLCOG00000014158__Lepidothrix_coronata),ENSNMEG00000009382__Numida_meleagris),((ENSMMMG00000012851__Marmota_marmota_marmota,ENSMSIG00000020105__Mus_spicilegus),ENSCAFG00020024836__Canis_lupus_dingo));

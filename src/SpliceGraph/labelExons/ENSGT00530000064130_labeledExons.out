@@ -1,0 +1,6 @@
+>0
+ENSPMAT00000006966: ['no event', 131, 0]
+ENSEBUT00000017960: [['internal gap < 30', 21, 3], 128, 0]
+>1
+ENSPMAT00000006966: [['internal gap >= 30', 321, 59], 335, 0]
+ENSEBUT00000017960: [['internal gap < 30', 242, 14], 380, 0]

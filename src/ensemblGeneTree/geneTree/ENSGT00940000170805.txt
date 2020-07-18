@@ -1,0 +1,1 @@
+((ENSPCOG00000027985__Propithecus_coquereli,ENSCANG00000039038__Colobus_angolensis_palliatus),ENSHGLG00000017367__Heterocephalus_glaber_HetGla_female_1.0);

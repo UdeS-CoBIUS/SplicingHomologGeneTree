@@ -1,0 +1,1 @@
+((((ENSTBEG00000014816__Tupaia_belangeri,ENSOPRG00000001200__Ochotona_princeps),(ENSCHOG00000009242__Choloepus_hoffmanni,ENSPCAG00000010869__Procavia_capensis)),ENSOANG00000002510__Ornithorhynchus_anatinus),ENSACAG00000005291__Anolis_carolinensis);

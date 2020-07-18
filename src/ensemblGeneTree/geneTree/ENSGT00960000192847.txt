@@ -1,0 +1,1 @@
+(ENSCCEG00000007753__Cyanistes_caeruleus,ENSSDAG00000003090__Spermophilus_dauricus);

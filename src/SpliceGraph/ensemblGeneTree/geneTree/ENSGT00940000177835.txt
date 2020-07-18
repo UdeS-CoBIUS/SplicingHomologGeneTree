@@ -1,0 +1,1 @@
+((((((ENSTRUG00000023163__Takifugu_rubripes,ENSTRUG00000022707__Takifugu_rubripes),ENSTRUG00000022653__Takifugu_rubripes),ENSTRUG00000020778__Takifugu_rubripes),ENSTRUG00000023466__Takifugu_rubripes),ENSTRUG00000019763__Takifugu_rubripes),(ENSTRUG00000020767__Takifugu_rubripes,ENSTRUG00000020283__Takifugu_rubripes));

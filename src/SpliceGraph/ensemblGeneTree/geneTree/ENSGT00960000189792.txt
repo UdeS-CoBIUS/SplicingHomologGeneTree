@@ -1,0 +1,1 @@
+((ENSCCNG00000000941__Castor_canadensis,ENSMUGG00000012056__Meriones_unguiculatus),((ENSARWG00000006426__Apteryx_rowi,ENSAOWG00000012889__Apteryx_owenii),ENSAHAG00000019136__Apteryx_haastii));

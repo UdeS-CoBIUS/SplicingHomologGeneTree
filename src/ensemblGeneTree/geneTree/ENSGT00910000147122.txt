@@ -1,0 +1,1 @@
+((((ENSANAG00000033618__Aotus_nancymaae,ENSCCAG00000034775__Cebus_capucinus_imitator),((ENSCANG00000032449__Colobus_angolensis_palliatus,ENSMFAG00000044475__Macaca_fascicularis),((ENSPTRG00000051105__Pan_troglodytes,ENSPTRG00000043008__Pan_troglodytes),ENSNLEG00000030060__Nomascus_leucogenys))),ENSCCNG00000028931__Castor_canadensis),ENSSSCG00000034310__Sus_scrofa);

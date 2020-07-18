@@ -1,0 +1,1 @@
+(ENSGAGG00000003143__Gopherus_agassizii,ENSDNVG00000010555__Dromaius_novaehollandiae);

@@ -1,0 +1,5 @@
+CYANISTESCAERULEUS	cyanistes_caeruleus
+MELOPSITTACUSUNDULATUS	melopsittacus_undulatus
+MELEAGRISGALLOPAVO	meleagris_gallopavo
+APTERYXOWENII	apteryx_owenii
+APTERYXHAASTII	apteryx_haastii

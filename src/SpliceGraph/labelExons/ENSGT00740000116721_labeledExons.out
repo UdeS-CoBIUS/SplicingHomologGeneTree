@@ -1,0 +1,18 @@
+>0
+ENSPNAT00000012046: ['no event', 20, 0]
+ENSDART00000139999: ['no event', 20, 0]
+>1
+ENSPNAT00000012046: ['exon skipping', 0, 0]
+ENSDART00000139999: ['only gap', 0, 0]
+>2
+ENSPNAT00000012046: ['exon skipping', 0, 0]
+ENSDART00000139999: ['no event', 1, 1]
+>3
+ENSPNAT00000012046: ['5event', 245, 0]
+ENSDART00000139999: ['no event', 248, 0]
+>4
+ENSPNAT00000012046: ['exon skipping', 0, 0]
+ENSDART00000139999: ['only gap', 0, 0]
+>5
+ENSPNAT00000012046: [['internal gap < 30', 42, 12], 2840, 0]
+ENSDART00000139999: ['no event', 2852, 1]

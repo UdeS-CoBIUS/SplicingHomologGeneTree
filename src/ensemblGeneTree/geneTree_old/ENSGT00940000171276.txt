@@ -1,1 +1,0 @@
-(((ENSCABG00000014831__Chelonoidis_abingdonii,ENSNPEG00000012374__Nothoprocta_perdicaria),((ENSPCOG00000001854__Propithecus_coquereli,ENSJJAG00000022551__Jaculus_jaculus),(ENSCHIG00000008146__Capra_hircus,ENSBMUG00000010166__Bos_mutus))),ENSSLDG00000006750__Seriola_lalandi_dorsalis);

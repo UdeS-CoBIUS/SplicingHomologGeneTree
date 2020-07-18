@@ -1,0 +1,104 @@
+>0
+Y54G2A.13.1: ['no event', 6, 0]
+Y69A2AR.12.1: ['exon skipping', 0, 0]
+T28F12.1.1: ['exon skipping', 0, 0]
+>1
+Y54G2A.13.1: ['no event', 104, 1]
+Y69A2AR.12.1: ['exon skipping', 0, 0]
+T28F12.1.1: ['exon skipping', 0, 0]
+>2
+Y54G2A.13.1: [['internal gap < 30', 2, 13], 93, 1]
+Y69A2AR.12.1: ['5event', ['internal gap >= 30', 47, 34], 72, 0]
+T28F12.1.1: ['5event', ['internal gap < 30', 73, 12], 94, 0]
+>3
+Y54G2A.13.1: ['exon skipping', 0, 0]
+Y69A2AR.12.1: ['no event', 176, 1]
+T28F12.1.1: ['exon skipping', 0, 0]
+>4
+Y54G2A.13.1: ['exon skipping', 0, 0]
+Y69A2AR.12.1: ['no event', 53, 1]
+T28F12.1.1: ['exon skipping', 0, 0]
+>5
+Y54G2A.13.1: ['5event', 6, 0]
+Y69A2AR.12.1: ['exon skipping', 0, 0]
+T28F12.1.1: ['3event', '5event', 5, 2]
+>6
+Y54G2A.13.1: [['internal gap >= 30', 18, 46], 68, 1]
+Y69A2AR.12.1: ['5event', ['internal gap >= 30', 24, 52], 62, 1]
+T28F12.1.1: ['5event', 113, 1]
+>7
+Y54G2A.13.1: ['no event', 21, 0]
+Y69A2AR.12.1: ['exon skipping', 0, 0]
+T28F12.1.1: ['exon skipping', 0, 0]
+>8
+Y54G2A.13.1: [['internal gap < 30', 20, 1], 64, 1]
+Y69A2AR.12.1: ['5event', ['internal gap < 30', 28, 14], 51, 1]
+T28F12.1.1: ['exon skipping', 0, 0]
+>9
+Y54G2A.13.1: ['exon skipping', 0, 0]
+Y69A2AR.12.1: ['no event', 22, 2]
+T28F12.1.1: ['exon skipping', 0, 0]
+>10
+Y54G2A.13.1: ['exon skipping', 0, 0]
+Y69A2AR.12.1: ['no event', 44, 1]
+T28F12.1.1: ['exon skipping', 0, 0]
+>11
+Y54G2A.13.1: ['exon skipping', 0, 0]
+Y69A2AR.12.1: ['no event', 80, 1]
+T28F12.1.1: ['exon skipping', 0, 0]
+>12
+Y54G2A.13.1: ['5event', ['internal gap < 30', 93, 28], 100, 1]
+Y69A2AR.12.1: [['internal gap >= 30', 30, 35], 93, 1]
+T28F12.1.1: ['exon skipping', 0, 0]
+>13
+Y54G2A.13.1: ['exon skipping', 0, 0]
+Y69A2AR.12.1: ['no event', 56, 1]
+T28F12.1.1: ['exon skipping', 0, 0]
+>14
+Y54G2A.13.1: ['exon skipping', 0, 0]
+Y69A2AR.12.1: ['no event', 68, 1]
+T28F12.1.1: ['exon skipping', 0, 0]
+>15
+Y54G2A.13.1: ['exon skipping', 0, 0]
+Y69A2AR.12.1: ['no event', 44, 1]
+T28F12.1.1: ['exon skipping', 0, 0]
+>16
+Y54G2A.13.1: ['exon skipping', 0, 0]
+Y69A2AR.12.1: ['no event', 58, 1]
+T28F12.1.1: ['exon skipping', 0, 0]
+>17
+Y54G2A.13.1: ['5event', 569, 0]
+Y69A2AR.12.1: ['exon skipping', 0, 0]
+T28F12.1.1: ['exon skipping', 0, 0]
+>18
+Y54G2A.13.1: ['exon skipping', 0, 0]
+Y69A2AR.12.1: ['5event', ['internal gap < 30', 14, 2], 98, 0]
+T28F12.1.1: ['5event', ['internal gap < 30', 44, 18], 82, 0]
+>19
+Y54G2A.13.1: ['exon skipping', 0, 0]
+Y69A2AR.12.1: ['no event', 5, 0]
+T28F12.1.1: ['exon skipping', 0, 0]
+>20
+Y54G2A.13.1: ['3event', '5event', 252, 0]
+Y69A2AR.12.1: [['internal gap >= 30', 138, 126], 215, 0]
+T28F12.1.1: ['3event', '5event', 241, 2]
+>21
+Y54G2A.13.1: ['5event', 8, 0]
+Y69A2AR.12.1: ['exon skipping', 0, 0]
+T28F12.1.1: ['exon skipping', 0, 0]
+>22
+Y54G2A.13.1: ['no event', 8, 0]
+Y69A2AR.12.1: ['exon skipping', 0, 0]
+T28F12.1.1: ['exon skipping', 0, 0]
+>23
+Y54G2A.13.1: [['internal gap < 30', 24, 1], 205, 0]
+Y69A2AR.12.1: ['5event', ['internal gap < 30', 22, 3], 203, 0]
+T28F12.1.1: ['5event', ['internal gap < 30', 86, 6], 200, 0]
+>24
+Y54G2A.13.1: [['internal gap >= 30', 297, 76], 321, 0]
+Y69A2AR.12.1: [['internal gap >= 30', 156, 221], 176, 0]
+T28F12.1.1: [['internal gap < 30', 195, 7], 390, 0]
+>25
+Y54G2A.13.1: [['internal gap < 30', 2, 9], 4, 1]
+Y69A2AR.12.1: ['exon skipping', 0, 0]
+T28F12.1.1: ['no event', 13, 1]

@@ -1,0 +1,33 @@
+>0
+ENSETET00000011723: ['no event', 2, 0]
+ENSETET00000014206: ['no event', 2, 0]
+>1
+ENSETET00000011723: ['3event', 13, 0]
+ENSETET00000014206: ['no event', 22, 0]
+>2
+ENSETET00000011723: ['5event', 21, 0]
+ENSETET00000014206: ['exon skipping', 0, 0]
+>3
+ENSETET00000011723: ['no event', 4, 1]
+ENSETET00000014206: ['exon skipping', 0, 0]
+>4
+ENSETET00000011723: ['no event', 23, 0]
+ENSETET00000014206: ['5event', 19, 2]
+>5
+ENSETET00000011723: ['exon skipping', 0, 0]
+ENSETET00000014206: ['5event', 59, 0]
+>6
+ENSETET00000011723: ['exon skipping', 0, 0]
+ENSETET00000014206: ['no event', 5, 0]
+>7
+ENSETET00000011723: ['exon skipping', 0, 0]
+ENSETET00000014206: ['no event', 2, 0]
+>8
+ENSETET00000011723: ['exon skipping', 0, 0]
+ENSETET00000014206: ['no event', 2, 0]
+>9
+ENSETET00000011723: ['5event', ['internal gap < 30', 69, 16], 119, 0]
+ENSETET00000014206: ['3event', 127, 0]
+>10
+ENSETET00000011723: ['no event', 11, 0]
+ENSETET00000014206: ['exon skipping', 0, 0]

@@ -1,0 +1,1 @@
+(((ENSLSDG00000008287__Lonchura_striata_domestica,ENSDNVG00000006583__Dromaius_novaehollandiae),ENSCCNG00000021653__Castor_canadensis),((ENSTRUG00000020963__Takifugu_rubripes,ENSTRUG00000024477__Takifugu_rubripes),ENSDARG00000088885__Danio_rerio));

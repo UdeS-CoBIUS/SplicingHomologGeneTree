@@ -1,1 +1,0 @@
-(ENSRROG00000032293__Rhinopithecus_roxellana,ENSMFAG00000038235__Macaca_fascicularis);

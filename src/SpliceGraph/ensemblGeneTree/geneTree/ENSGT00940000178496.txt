@@ -1,0 +1,1 @@
+((((ENSAPEG00000003162__Amphiprion_percula,ENSGAFG00000012551__Gambusia_affinis),ENSSDUG00000015022__Seriola_dumerili),ENSLBEG00000026164__Labrus_bergylta),ENSMAMG00000018707__Mastacembelus_armatus);

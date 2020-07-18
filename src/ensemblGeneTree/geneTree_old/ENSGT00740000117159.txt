@@ -1,1 +1,0 @@
-(ENSMPUG00000004007__Mustela_putorius_furo,ENSDNOG00000040563__Dasypus_novemcinctus);

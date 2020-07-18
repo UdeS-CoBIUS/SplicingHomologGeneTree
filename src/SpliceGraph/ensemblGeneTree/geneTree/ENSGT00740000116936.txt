@@ -1,0 +1,1 @@
+(((((ENSGACG00000018719__Gasterosteus_aculeatus,ENSLBEG00000014810__Labrus_bergylta),ENSAPEG00000006093__Amphiprion_percula),ENSELUG00000022665__Esox_lucius),ENSDARG00000097026__Danio_rerio),ENSLOCG00000018256__Lepisosteus_oculatus);

@@ -1,0 +1,1 @@
+(ENSPTEG00000033527__Piliocolobus_tephrosceles,ENSUAMG00000003285__Ursus_americanus);

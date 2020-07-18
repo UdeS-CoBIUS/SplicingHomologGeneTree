@@ -1,1 +1,0 @@
-(ENSORLG00015007787__Oryzias_latipes_ASM223469v1,ENSOMEG00000015007__Oryzias_melastigma);

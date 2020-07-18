@@ -1,0 +1,1 @@
+((ENSBMUG00000010185__Bos_mutus,ENSMLUG00000005142__Myotis_lucifugus),(ENSRROG00000029418__Rhinopithecus_roxellana,ENSRBIG00000025879__Rhinopithecus_bieti));

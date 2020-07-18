@@ -1,0 +1,1 @@
+(((ENSTBEG00000014883__Tupaia_belangeri,ENSMLEG00000038130__Mandrillus_leucophaeus),ENSCJPG00005001983__Coturnix_japonica),(ENSNBRG00000001657__Neolamprologus_brichardi,ENSPMEG00000007332__Poecilia_mexicana));

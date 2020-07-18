@@ -1,0 +1,6 @@
+>0
+YNL087W_mRNA: ['5event', ['internal gap >= 30', 3498, 46], 3536, 0]
+YOR086C_mRNA: [['internal gap >= 30', 3435, 30], 3552, 0]
+>1
+YNL087W_mRNA: ['exon skipping', 0, 0]
+YOR086C_mRNA: ['no event', 7, 1]

@@ -1,0 +1,1 @@
+(((((ENSELUG00000008525__Esox_lucius,ENSHHUG00000002480__Hucho_hucho),ENSPKIG00000024037__Paramormyrops_kingsleyae),ENSARWG00000004959__Apteryx_rowi),ENSTRUG00000024196__Takifugu_rubripes),ENSPMAG00000001000__Petromyzon_marinus);

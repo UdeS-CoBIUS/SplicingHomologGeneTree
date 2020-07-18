@@ -1,0 +1,6 @@
+SCLEROPAGESFORMOSUS	scleropages_formosus
+PARAMORMYROPSKINGSLEYAE	paramormyrops_kingsleyae
+AMPHIPRIONPERCULA	amphiprion_percula
+CYNOGLOSSUSSEMILAEVIS	cynoglossus_semilaevis
+LEPISOSTEUSOCULATUS	lepisosteus_oculatus
+LATIMERIACHALUMNAE	latimeria_chalumnae

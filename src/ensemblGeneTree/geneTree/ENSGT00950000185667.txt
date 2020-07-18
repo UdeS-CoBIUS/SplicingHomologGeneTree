@@ -1,0 +1,1 @@
+(((ENSBBBG00000000265__Bison_bison_bison,ENSUAMG00000012424__Ursus_americanus),ENSRBIG00000041948__Rhinopithecus_bieti),ENSCPGG00000004359__Calidris_pygmaea);

@@ -1,0 +1,1 @@
+((ENSATEG00000016265__Anabas_testudineus,ENSMAMG00000008643__Mastacembelus_armatus),(((ENSXCOG00000006378__Xiphophorus_couchianus,ENSPMEG00000009852__Poecilia_mexicana),ENSKMAG00000007143__Kryptolebias_marmoratus),ENSAOCG00000004710__Amphiprion_ocellaris));

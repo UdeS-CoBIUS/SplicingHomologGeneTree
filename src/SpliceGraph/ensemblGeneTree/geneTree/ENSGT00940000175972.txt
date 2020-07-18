@@ -1,0 +1,1 @@
+((ENSPSIG00000018070__Pelodiscus_sinensis,ENSCPUG00000011449__Calidris_pugnax),((ENSTRUG00000020083__Takifugu_rubripes,ENSLBEG00000013847__Labrus_bergylta),ENSHCOG00000018885__Hippocampus_comes));

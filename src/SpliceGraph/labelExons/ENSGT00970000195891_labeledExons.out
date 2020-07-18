@@ -1,0 +1,24 @@
+>0
+F15B9.2.1: ['exon skipping', 0, 0]
+K01A2.2a.1: ['no event', 33, 0]
+K01A2.2b.1: ['exon skipping', 0, 0]
+>1
+F15B9.2.1: ['exon skipping', 0, 0]
+K01A2.2a.1: ['no event', 70, 1]
+K01A2.2b.1: ['exon skipping', 0, 0]
+>2
+F15B9.2.1: ['5event', 385, 0]
+K01A2.2a.1: [['internal gap >= 30', 141, 227], 160, 0]
+K01A2.2b.1: ['5event', ['internal gap >= 30', 100, 268], 119, 0]
+>3
+F15B9.2.1: ['no event', 32, 2]
+K01A2.2a.1: ['exon skipping', 0, 0]
+K01A2.2b.1: ['exon skipping', 0, 0]
+>4
+F15B9.2.1: [['internal gap < 30', 110, 9], 180, 2]
+K01A2.2a.1: ['5event', ['internal gap >= 30', 68, 37], 152, 0]
+K01A2.2b.1: ['5event', ['internal gap >= 30', 68, 37], 152, 0]
+>5
+F15B9.2.1: ['no event', 19, 1]
+K01A2.2a.1: ['exon skipping', 0, 0]
+K01A2.2b.1: ['exon skipping', 0, 0]

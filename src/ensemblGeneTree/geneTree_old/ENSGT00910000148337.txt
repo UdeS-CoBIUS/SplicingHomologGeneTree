@@ -1,1 +1,0 @@
-(ENSNLEG00000032073__Nomascus_leucogenys,ENSRROG00000031284__Rhinopithecus_roxellana);

@@ -1,0 +1,1 @@
+((ENSCGOG00000019286__Cottoperca_gobio,ENSAPEG00000007977__Amphiprion_percula),ENSOANG00000001272__Ornithorhynchus_anatinus);

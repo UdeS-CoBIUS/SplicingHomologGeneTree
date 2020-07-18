@@ -1,0 +1,15 @@
+>0
+ENSDART00000147253: ['no event', 48, 0]
+ENSDART00000147523: ['exon skipping', 0, 0]
+>1
+ENSDART00000147253: ['exon skipping', 0, 0]
+ENSDART00000147523: ['5event', 137, 0]
+>2
+ENSDART00000147253: ['5event', 319, 1]
+ENSDART00000147523: ['exon skipping', 0, 0]
+>3
+ENSDART00000147253: ['exon skipping', 0, 0]
+ENSDART00000147523: ['5event', 99, 0]
+>4
+ENSDART00000147253: ['exon skipping', 0, 0]
+ENSDART00000147523: ['no event', 10, 1]

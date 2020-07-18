@@ -1,0 +1,1 @@
+(((ENSFDAG00000005789__Fukomys_damarensis,ENSFDAG00000006080__Fukomys_damarensis),ENSCPOG00000019656__Cavia_porcellus),((MGP_PahariEiJ_G0029068__Mus_pahari_strain_PAHARI_EIJ,MGP_CAROLIEiJ_G0026737__Mus_caroli_strain_CAROLI_EIJ),ENSCGRG00000008479__Cricetulus_griseus_CriGri_1.0));

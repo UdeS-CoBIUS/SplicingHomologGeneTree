@@ -1,0 +1,1 @@
+(((((ENSMNEG00000043547__Macaca_nemestrina,ENSPANG00000035019__Papio_anubis),ENSRROG00000005300__Rhinopithecus_roxellana),ENSPSMG00000019418__Prolemur_simus),ENSCCNG00000018759__Castor_canadensis),ENSECAG00000033663__Equus_caballus);

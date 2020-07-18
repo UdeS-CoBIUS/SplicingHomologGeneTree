@@ -1,0 +1,1 @@
+(ENSLOCG00000002585__Lepisosteus_oculatus,ENSMPUG00000007860__Mustela_putorius_furo);

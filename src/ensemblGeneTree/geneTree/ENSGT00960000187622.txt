@@ -1,0 +1,1 @@
+(((ENSSCAG00000011873__Serinus_canaria,ENSSHAG00000005949__Sarcophilus_harrisii),((ENSZALG00000000304__Zonotrichia_albicollis,ENSAPLG00000021453__Anas_platyrhynchos_platyrhynchos),ENSTRUG00000020373__Takifugu_rubripes)),ENSPMAG00000004033__Petromyzon_marinus);

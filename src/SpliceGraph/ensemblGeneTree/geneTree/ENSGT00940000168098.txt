@@ -1,0 +1,1 @@
+(((((ENSSMAG00000021360__Scophthalmus_maximus,ENSPNYG00000005267__Pundamilia_nyererei),ENSPFOG00000005021__Poecilia_formosa),(ENSGACG00000015469__Gasterosteus_aculeatus,ENSTNIG00000005751__Tetraodon_nigroviridis)),ENSGMOG00000012862__Gadus_morhua),ENSLOCG00000004480__Lepisosteus_oculatus);

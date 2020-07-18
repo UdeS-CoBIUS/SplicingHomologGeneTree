@@ -1,0 +1,1 @@
+(ENSUMAG00000010914__Ursus_maritimus,ENSSDAG00000010531__Spermophilus_dauricus);

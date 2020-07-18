@@ -1,0 +1,8 @@
+>0
+ENSPTET00000020808: ['no event', 183, 0]
+ENSPTET00000020810: ['no event', 183, 0]
+YBR114W_mRNA: ['exon skipping', 0, 0]
+>1
+ENSPTET00000020808: [['internal gap < 30', 4622, 15], 4642, 1]
+ENSPTET00000020810: [['internal gap < 30', 4622, 15], 4642, 1]
+YBR114W_mRNA: ['5event', ['internal gap >= 30', 1802, 2284], 2373, 0]

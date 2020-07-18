@@ -1,1 +1,0 @@
-(ENSGALG00000047063__Gallus_gallus,ENSLSDG00000003913__Lonchura_striata_domestica);

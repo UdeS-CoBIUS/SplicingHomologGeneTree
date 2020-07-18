@@ -1,0 +1,5 @@
+SERINUSCANARIA	serinus_canaria
+FICEDULAALBICOLLIS	ficedula_albicollis
+ZONOTRICHIAALBICOLLIS	zonotrichia_albicollis
+COTURNIXJAPONICA	coturnix_japonica
+PELODISCUSSINENSIS	pelodiscus_sinensis

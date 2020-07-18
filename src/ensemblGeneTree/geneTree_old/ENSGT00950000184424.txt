@@ -1,1 +1,0 @@
-((ENSXMAG00000026794__Xiphophorus_maculatus,ENSXCOG00000015058__Xiphophorus_couchianus),ENSPMGG00000008449__Periophthalmus_magnuspinnatus);

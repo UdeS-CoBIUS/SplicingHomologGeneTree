@@ -1,0 +1,1 @@
+(((ENSCLAG00000017720__Chinchilla_lanigera,ENSCPOG00000037823__Cavia_porcellus),((ENSFCAG00000042835__Felis_catus,ENSPPRG00000011664__Panthera_pardus),(ENSBBBG00000015952__Bison_bison_bison,ENSBMUG00000000794__Bos_mutus))),ENSPCIG00000035436__Phascolarctos_cinereus);

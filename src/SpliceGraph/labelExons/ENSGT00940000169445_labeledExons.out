@@ -1,0 +1,15 @@
+>0
+ENSPTRT00000091147: ['no event', 173, 0]
+ENSPPAT00000048195: ['no event', 173, 0]
+ENSGGOT00000062273: ['no event', 173, 0]
+ENSNLET00000037483: ['no event', 173, 0]
+>1
+ENSPTRT00000091147: ['no event', 135, 0]
+ENSPPAT00000048195: ['no event', 135, 0]
+ENSGGOT00000062273: [['internal gap < 30', 121, 1], 134, 0]
+ENSNLET00000037483: [['internal gap < 30', 121, 1], 134, 0]
+>2
+ENSPTRT00000091147: ['no event', 43, 1]
+ENSPPAT00000048195: ['no event', 43, 1]
+ENSGGOT00000062273: ['exon skipping', 0, 0]
+ENSNLET00000037483: ['exon skipping', 0, 0]

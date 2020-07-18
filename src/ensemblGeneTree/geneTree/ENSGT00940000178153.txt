@@ -1,0 +1,1 @@
+((((ENSPMEG00000015442__Poecilia_mexicana,ENSPMEG00000005223__Poecilia_mexicana),(ENSPLAG00000017927__Poecilia_latipinna,ENSPLAG00000004457__Poecilia_latipinna)),ENSXCOG00000016105__Xiphophorus_couchianus),ENSCVAG00000021522__Cyprinodon_variegatus);

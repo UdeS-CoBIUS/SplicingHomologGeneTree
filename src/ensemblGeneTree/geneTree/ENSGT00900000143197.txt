@@ -1,0 +1,1 @@
+((ENSMSIG00000015968__Mus_spicilegus,ENSNGAG00000018918__Nannospalax_galili),((ENSMAUG00000020516__Mesocricetus_auratus,ENSCGRG00001000984__Cricetulus_griseus_CHOK1GS_HDv1),ENSMOCG00000005109__Microtus_ochrogaster));

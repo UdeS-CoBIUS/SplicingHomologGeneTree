@@ -1,0 +1,1 @@
+((((ENSUPAG00010023539__Urocitellus_parryii,ENSMUGG00000011475__Meriones_unguiculatus),ENSPTEG00000024326__Piliocolobus_tephrosceles),ENSNVIG00000024037__Neovison_vison),ENSOANG00000007460__Ornithorhynchus_anatinus);

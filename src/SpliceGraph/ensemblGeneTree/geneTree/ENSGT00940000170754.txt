@@ -1,0 +1,1 @@
+(((ENSRBIG00000032771__Rhinopithecus_bieti,ENSMLEG00000039040__Mandrillus_leucophaeus),(ENSPTIG00000015354__Panthera_tigris_altaica,ENSBMUG00000009469__Bos_mutus)),ENSDARG00000114509__Danio_rerio);

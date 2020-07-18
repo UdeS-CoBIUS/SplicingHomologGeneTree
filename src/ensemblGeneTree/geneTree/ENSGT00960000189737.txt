@@ -1,0 +1,1 @@
+(((ENSZALG00000005785__Zonotrichia_albicollis,ENSJHYG00000014032__Junco_hyemalis),ENSLCOG00000005555__Lepidothrix_coronata),(ENSCPGG00000018214__Calidris_pygmaea,ENSCPUG00000001109__Calidris_pugnax));

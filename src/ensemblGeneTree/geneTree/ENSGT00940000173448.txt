@@ -1,0 +1,1 @@
+(((((ENSLBEG00000013867__Labrus_bergylta,ENSLBEG00000018963__Labrus_bergylta),ENSAPEG00000021540__Amphiprion_percula),(ENSGAFG00000007070__Gambusia_affinis,ENSAPOG00000016263__Acanthochromis_polyacanthus)),ENSAMXG00000037750__Astyanax_mexicanus),((ENSMODG00000028635__Monodelphis_domestica,ENSGALG00000049376__Gallus_gallus),ENSNGAG00000017847__Nannospalax_galili));

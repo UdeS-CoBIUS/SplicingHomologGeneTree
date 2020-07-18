@@ -1,0 +1,1 @@
+(ENSCPUG00000006593__Calidris_pugnax,ENSMGAG00000016791__Meleagris_gallopavo);

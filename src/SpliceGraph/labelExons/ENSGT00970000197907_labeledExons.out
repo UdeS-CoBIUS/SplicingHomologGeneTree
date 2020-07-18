@@ -1,0 +1,36 @@
+>0
+F47G9.6.1: ['no event', 174, 0]
+F40H6.2.1: ['exon skipping', 0, 0]
+>1
+F47G9.6.1: [['internal gap < 30', 178, 7], 264, 1]
+F40H6.2.1: ['5event', ['internal gap >= 30', 156, 49], 222, 0]
+>2
+F47G9.6.1: ['no event', 144, 1]
+F40H6.2.1: ['no event', 144, 1]
+>3
+F47G9.6.1: [['internal gap < 30', 404, 25], 431, 2]
+F40H6.2.1: [['internal gap >= 30', 349, 42], 414, 2]
+>4
+F47G9.6.1: ['no event', 3, 2]
+F40H6.2.1: ['exon skipping', 0, 0]
+>5
+F47G9.6.1: ['exon skipping', 0, 0]
+F40H6.2.1: ['5event', 485, 0]
+>6
+F47G9.6.1: ['exon skipping', 0, 0]
+F40H6.2.1: ['no event', 515, 0]
+>7
+F47G9.6.1: ['exon skipping', 0, 0]
+F40H6.2.1: ['no event', 554, 0]
+>8
+F47G9.6.1: ['exon skipping', 0, 0]
+F40H6.2.1: ['no event', 530, 0]
+>9
+F47G9.6.1: ['exon skipping', 0, 0]
+F40H6.2.1: ['no event', 183, 0]
+>10
+F47G9.6.1: ['exon skipping', 0, 0]
+F40H6.2.1: ['no event', 78, 1]
+>11
+F47G9.6.1: ['exon skipping', 0, 0]
+F40H6.2.1: ['no event', 240, 2]

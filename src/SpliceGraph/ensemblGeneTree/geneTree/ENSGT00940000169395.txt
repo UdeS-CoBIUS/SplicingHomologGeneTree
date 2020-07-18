@@ -1,0 +1,1 @@
+((((((ENSCING00000006139__Ciona_intestinalis,ENSCSAVG00000010245__Ciona_savignyi),ENSCING00000009535__Ciona_intestinalis),ENSCMIG00000012036__Callorhinchus_milii),ENSGACG00000016372__Gasterosteus_aculeatus),ENSMMMG00000008165__Marmota_marmota_marmota),YFL005W__Saccharomyces_cerevisiae_strain_S288C);

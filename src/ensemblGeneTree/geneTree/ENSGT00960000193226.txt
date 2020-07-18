@@ -1,0 +1,1 @@
+(ENSMUGG00000012152__Meriones_unguiculatus,ENSBTAG00000009073__Bos_taurus);

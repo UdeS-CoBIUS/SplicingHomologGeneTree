@@ -1,0 +1,1 @@
+(((((ENSNPEG00000005284__Nothoprocta_perdicaria,ENSDNVG00000004549__Dromaius_novaehollandiae),ENSJHYG00000006466__Junco_hyemalis),ENSLCOG00000012539__Lepidothrix_coronata),ENSSPUG00000005664__Sphenodon_punctatus),(ENSPFOG00000023074__Poecilia_formosa,ENSPLAG00000004202__Poecilia_latipinna));

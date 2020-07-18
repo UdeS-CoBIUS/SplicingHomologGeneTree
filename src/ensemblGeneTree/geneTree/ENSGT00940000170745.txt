@@ -1,0 +1,1 @@
+((ENSEEUG00000011757__Erinaceus_europaeus,ENSPVAG00000012527__Pteropus_vampyrus),ENSCSAG00000005663__Chlorocebus_sabaeus);

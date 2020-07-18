@@ -1,1 +1,0 @@
-((((ENSSARG00000009058__Sorex_araneus,ENSBBBG00000003868__Bison_bison_bison),ENSCAFG00020010190__Canis_lupus_dingo),ENSECAG00000017882__Equus_caballus),ENSDNOG00000018781__Dasypus_novemcinctus);

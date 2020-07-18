@@ -1,0 +1,1 @@
+((((ENSSLDG00000008450__Seriola_lalandi_dorsalis,ENSPMGG00000004610__Periophthalmus_magnuspinnatus),ENSSLDG00000005705__Seriola_lalandi_dorsalis),ENSMMOG00000009719__Mola_mola),ENSGAFG00000020636__Gambusia_affinis);

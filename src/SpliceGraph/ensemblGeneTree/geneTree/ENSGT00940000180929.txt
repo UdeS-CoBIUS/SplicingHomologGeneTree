@@ -1,0 +1,1 @@
+((ENSXCOG00000012897__Xiphophorus_couchianus,ENSGAFG00000019258__Gambusia_affinis),ENSBTAG00000049029__Bos_taurus);

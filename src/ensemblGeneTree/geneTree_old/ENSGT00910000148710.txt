@@ -1,1 +1,0 @@
-(ENSRBIG00000038489__Rhinopithecus_bieti,ENSSBOG00000033106__Saimiri_boliviensis_boliviensis);

@@ -1,1 +1,0 @@
-((ENSMUNG00000003422__Melopsittacus_undulatus,ENSCCEG00000011465__Cyanistes_caeruleus),ENSMSIG00000002456__Mus_spicilegus);

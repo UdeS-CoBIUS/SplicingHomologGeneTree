@@ -1,1 +1,0 @@
-(((WBGene00019588__Caenorhabditis_elegans_strain_N2,WBGene00018842__Caenorhabditis_elegans_strain_N2),WBGene00012237__Caenorhabditis_elegans_strain_N2),ENSLACG00000009998__Latimeria_chalumnae);

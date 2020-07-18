@@ -1,1 +1,0 @@
-((ENSPMJG00000019693__Parus_major,ENSSMRG00000013218__Salvator_merianae),ENSSARG00000006313__Sorex_araneus);

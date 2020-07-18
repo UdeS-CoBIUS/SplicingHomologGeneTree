@@ -1,0 +1,1 @@
+(((ENSSPAG00000017104__Stegastes_partitus,ENSACIG00000023797__Amphilophus_citrinellus),ENSGAFG00000001134__Gambusia_affinis),ENSHCOG00000008466__Hippocampus_comes);

@@ -1,0 +1,1 @@
+(((ENSLOCG00000005715__Lepisosteus_oculatus,ENSPNAG00000012140__Pygocentrus_nattereri),ENSLACG00000022099__Latimeria_chalumnae),(ENSCSAVG00000006722__Ciona_savignyi,ENSCING00000003911__Ciona_intestinalis));

@@ -1,0 +1,1 @@
+(ENSOANG00000002518__Ornithorhynchus_anatinus,ENSSHAG00000006712__Sarcophilus_harrisii);

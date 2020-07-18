@@ -1,0 +1,1 @@
+((ENSLBEG00000000998__Labrus_bergylta,ENSMAMG00000000332__Mastacembelus_armatus),ENSORLG00015016007__Oryzias_latipes_ASM223469v1);

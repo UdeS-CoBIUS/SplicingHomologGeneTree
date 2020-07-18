@@ -1,0 +1,1 @@
+((ENSTSYG00000029228__Carlito_syrichta,ENSPPRG00000009177__Panthera_pardus),(ENSAPOG00000003699__Acanthochromis_polyacanthus,ENSAPOG00000011808__Acanthochromis_polyacanthus));

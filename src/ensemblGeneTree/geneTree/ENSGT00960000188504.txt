@@ -1,0 +1,1 @@
+((ENSTGUG00000003889__Taeniopygia_guttata,ENSFALG00000011687__Ficedula_albicollis),ENSCPUG00000000704__Calidris_pugnax);

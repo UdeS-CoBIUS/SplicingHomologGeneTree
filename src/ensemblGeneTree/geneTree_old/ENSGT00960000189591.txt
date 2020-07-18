@@ -1,1 +1,0 @@
-((((ENSCCEG00000009139__Cyanistes_caeruleus,ENSCCEG00000009566__Cyanistes_caeruleus),ENSCCEG00000020223__Cyanistes_caeruleus),ENSJHYG00000007339__Junco_hyemalis),(ENSDNVG00000014598__Dromaius_novaehollandiae,ENSAOWG00000012384__Apteryx_owenii));

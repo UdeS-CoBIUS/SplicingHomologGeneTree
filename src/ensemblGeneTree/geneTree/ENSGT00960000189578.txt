@@ -1,0 +1,1 @@
+((((ENSDNVG00000004675__Dromaius_novaehollandiae,ENSNPEG00000016198__Nothoprocta_perdicaria),ENSJHYG00000001732__Junco_hyemalis),ENSCABG00000014478__Chelonoidis_abingdonii),(ENSUAMG00000013770__Ursus_americanus,ENSCCNG00000007036__Castor_canadensis));

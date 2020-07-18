@@ -1,0 +1,1 @@
+(ENSPREG00000020615__Poecilia_reticulata,ENSTRUG00000021714__Takifugu_rubripes);

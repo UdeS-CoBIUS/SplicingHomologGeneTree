@@ -1,0 +1,1 @@
+(((((ENSMFAG00000032900__Macaca_fascicularis,ENSPTEG00000016859__Piliocolobus_tephrosceles),ENSNLEG00000033425__Nomascus_leucogenys),ENSCCAG00000005419__Cebus_capucinus_imitator),ENSUMAG00000020315__Ursus_maritimus),ENSEBUG00000017013__Eptatretus_burgeri);

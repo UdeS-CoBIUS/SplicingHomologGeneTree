@@ -1,0 +1,1 @@
+(((ENSMEUG00000009109__Notamacropus_eugenii,ENSMEUG00000000697__Notamacropus_eugenii),ENSMEUG00000008828__Notamacropus_eugenii),ENSMMMG00000010854__Marmota_marmota_marmota);

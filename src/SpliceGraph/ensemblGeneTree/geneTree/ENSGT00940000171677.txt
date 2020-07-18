@@ -1,0 +1,1 @@
+(((((ENSMMOG00000012202__Mola_mola,ENSAOCG00000024224__Amphiprion_ocellaris),ENSLCAG00010016612__Lates_calcarifer),ENSLCRG00005021042__Larimichthys_crocea),ENSCING00000005353__Ciona_intestinalis),WBGene00006621__Caenorhabditis_elegans_strain_N2);

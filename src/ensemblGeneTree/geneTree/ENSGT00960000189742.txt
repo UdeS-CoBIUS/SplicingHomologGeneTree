@@ -1,0 +1,1 @@
+((((ENSCPUG00000014386__Calidris_pugnax,ENSLCOG00000000542__Lepidothrix_coronata),ENSNPEG00000011717__Nothoprocta_perdicaria),ENSCPBG00000027476__Chrysemys_picta_bellii),ENSNSUG00000008710__Notechis_scutatus);

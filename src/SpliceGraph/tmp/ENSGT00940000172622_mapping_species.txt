@@ -1,0 +1,2 @@
+PAPIOANUBIS	papio_anubis
+NOMASCUSLEUCOGENYS	nomascus_leucogenys

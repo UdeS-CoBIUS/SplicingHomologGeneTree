@@ -1,1 +1,0 @@
-(((ENSATEG00000000556__Anabas_testudineus,ENSXCOG00000016383__Xiphophorus_couchianus),ENSSFOG00015000530__Scleropages_formosus),ENSEBUG00000001566__Eptatretus_burgeri);

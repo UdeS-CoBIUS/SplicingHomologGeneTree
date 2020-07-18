@@ -1,0 +1,1 @@
+((ENSSFOG00015013711__Scleropages_formosus,ENSPKIG00000014737__Paramormyrops_kingsleyae),(ENSSFOG00015013701__Scleropages_formosus,ENSPKIG00000014757__Paramormyrops_kingsleyae));

@@ -1,1 +1,0 @@
-(ENSELUG00000022104__Esox_lucius,ENSAOWG00000002386__Apteryx_owenii);

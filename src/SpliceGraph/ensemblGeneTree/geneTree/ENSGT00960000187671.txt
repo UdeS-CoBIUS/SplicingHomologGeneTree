@@ -1,0 +1,1 @@
+((((ENSSCAG00000015347__Serinus_canaria,ENSZALG00000014182__Zonotrichia_albicollis),ENSMUNG00000009226__Melopsittacus_undulatus),(ENSGAGG00000016396__Gopherus_agassizii,ENSCPBG00000023650__Chrysemys_picta_bellii)),ENSLBEG00000013940__Labrus_bergylta);

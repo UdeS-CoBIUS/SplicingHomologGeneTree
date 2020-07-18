@@ -1,0 +1,1 @@
+(ENSAPOG00000022246__Acanthochromis_polyacanthus,ENSGMOG00000015895__Gadus_morhua);

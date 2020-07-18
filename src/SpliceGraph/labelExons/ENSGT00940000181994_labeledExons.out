@@ -1,0 +1,9 @@
+>0
+ENSNBRT00000031293: ['no event', 112, 0]
+ENSPNYT00000022302: ['no event', 112, 0]
+>1
+ENSNBRT00000031293: ['no event', 36, 2]
+ENSPNYT00000022302: ['no event', 36, 2]
+>2
+ENSNBRT00000031293: ['exon skipping', 0, 0]
+ENSPNYT00000022302: ['no event', 17, 0]

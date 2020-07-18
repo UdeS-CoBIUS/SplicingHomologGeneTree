@@ -1,0 +1,1 @@
+((((ENSFALG00000009717__Ficedula_albicollis,ENSTGUG00000001813__Taeniopygia_guttata),ENSOANG00000031695__Ornithorhynchus_anatinus),ENSIPUG00000015610__Ictalurus_punctatus),(ENSCSAVG00000003012__Ciona_savignyi,ENSCSAVG00000003025__Ciona_savignyi));

@@ -1,0 +1,1 @@
+(ENSTRUG00000019908__Takifugu_rubripes,ENSMLUG00000028585__Myotis_lucifugus);

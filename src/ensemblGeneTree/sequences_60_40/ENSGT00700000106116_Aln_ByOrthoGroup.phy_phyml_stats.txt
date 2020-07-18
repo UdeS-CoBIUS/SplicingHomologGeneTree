@@ -21,10 +21,10 @@
   - Gamma shape parameter: 		119.350
 
 . Run ID:				none
-. Random seed:				1580963141
+. Random seed:				1594994733
 . Subtree patterns aliasing:		no
 . Version:				20120412
-. Time used:				0h0m0s (0 seconds)
+. Time used:				0h0m1s (1 seconds)
 
  oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
  Suggested citations:
@@ -44,7 +44,7 @@
 . Initial tree: 			user tree (ensemblGeneTree/trees_60_40/ENSGT00700000106116.nw)
 . Model of amino acids substitution: 	LG
 . Number of taxa: 			4
-. Log-likelihood: 			-318.99756
+. Log-likelihood: 			-318.99760
 . Unconstrained likelihood: 		-275.91949
 . Parsimony: 				8
 . Tree size: 				0.08838
@@ -53,7 +53,7 @@
   - Gamma shape parameter: 		119.350
 
 . Run ID:				none
-. Random seed:				1580963141
+. Random seed:				1594994733
 . Subtree patterns aliasing:		no
 . Version:				20120412
 . Time used:				0h0m0s (0 seconds)
@@ -85,7 +85,7 @@
   - Gamma shape parameter: 		119.350
 
 . Run ID:				none
-. Random seed:				1580963141
+. Random seed:				1594994733
 . Subtree patterns aliasing:		no
 . Version:				20120412
 . Time used:				0h0m0s (0 seconds)
@@ -117,10 +117,10 @@
   - Gamma shape parameter: 		119.350
 
 . Run ID:				none
-. Random seed:				1580963141
+. Random seed:				1594994733
 . Subtree patterns aliasing:		no
 . Version:				20120412
-. Time used:				0h0m1s (1 seconds)
+. Time used:				0h0m0s (0 seconds)
 
  oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
  Suggested citations:

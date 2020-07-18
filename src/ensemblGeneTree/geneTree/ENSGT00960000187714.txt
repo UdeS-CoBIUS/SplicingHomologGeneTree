@@ -1,0 +1,1 @@
+((ENSSTOG00000033550__Ictidomys_tridecemlineatus,ENSDORG00000029968__Dipodomys_ordii),ENSNGAG00000020473__Nannospalax_galili);

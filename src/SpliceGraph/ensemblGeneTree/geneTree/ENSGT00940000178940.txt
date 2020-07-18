@@ -1,0 +1,1 @@
+(((ENSFHEG00000013361__Fundulus_heteroclitus,ENSKMAG00000020946__Kryptolebias_marmoratus),ENSTRUG00000022651__Takifugu_rubripes),ENSPKIG00000015685__Paramormyrops_kingsleyae);

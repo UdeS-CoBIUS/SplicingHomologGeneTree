@@ -1,0 +1,1 @@
+(ENSAPOG00000014594__Acanthochromis_polyacanthus,WBGene00006532__Caenorhabditis_elegans_strain_N2);

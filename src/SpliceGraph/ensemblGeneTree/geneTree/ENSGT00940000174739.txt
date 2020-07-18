@@ -1,0 +1,1 @@
+((ENSTBEG00000006233__Tupaia_belangeri,ENSOPRG00000014355__Ochotona_princeps),ENSUMAG00000018404__Ursus_maritimus);

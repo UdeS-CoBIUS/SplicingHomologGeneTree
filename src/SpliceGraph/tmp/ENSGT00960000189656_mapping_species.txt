@@ -1,0 +1,5 @@
+NOTECHISSCUTATUS	notechis_scutatus
+POGONAVITTICEPS	pogona_vitticeps
+NOTECHISSCUTATUS	notechis_scutatus
+NOTECHISSCUTATUS	notechis_scutatus
+POGONAVITTICEPS	pogona_vitticeps

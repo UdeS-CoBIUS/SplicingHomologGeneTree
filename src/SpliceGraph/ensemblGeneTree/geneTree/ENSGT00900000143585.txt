@@ -1,0 +1,1 @@
+(ENSODEG00000017117__Octodon_degus,ENSMOCG00000019278__Microtus_ochrogaster);

@@ -1,0 +1,1 @@
+((((ENSLBEG00000027447__Labrus_bergylta,ENSTRUG00000025325__Takifugu_rubripes),ENSORLG00015016822__Oryzias_latipes_ASM223469v1),ENSELUG00000018931__Esox_lucius),ENSPMAG00000004386__Petromyzon_marinus);

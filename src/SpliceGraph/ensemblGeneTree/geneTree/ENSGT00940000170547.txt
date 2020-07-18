@@ -1,0 +1,1 @@
+(((ENSLSDG00000007566__Lonchura_striata_domestica,ENSCPUG00000013683__Calidris_pugnax),ENSMODG00000021278__Monodelphis_domestica),((ENSGACG00000017493__Gasterosteus_aculeatus,ENSMMOG00000004127__Mola_mola),ENSSPAG00000001569__Stegastes_partitus));

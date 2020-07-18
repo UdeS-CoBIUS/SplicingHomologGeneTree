@@ -1,0 +1,7 @@
+SPHENODONPUNCTATUS	sphenodon_punctatus
+NOTHOPROCTAPERDICARIA	nothoprocta_perdicaria
+CAPRAHIRCUS	capra_hircus
+EQUUSASINUSASINUS	equus_asinus_asinus
+MESOCRICETUSAURATUS	mesocricetus_auratus
+NOMASCUSLEUCOGENYS	nomascus_leucogenys
+AMPHILOPHUSCITRINELLUS	amphilophus_citrinellus

@@ -1,1 +1,0 @@
-(ENSPMJG00000006646__Parus_major,ENSCCEG00000000548__Cyanistes_caeruleus);

@@ -1,0 +1,6 @@
+>completeCluster_0
+Y71F9B.6e.1	FBtr0087678
+>completeCluster_1
+FBtr0330617	Y71F9B.6d.1
+>completeCluster_2
+Y71F9B.6c.1	FBtr0330618

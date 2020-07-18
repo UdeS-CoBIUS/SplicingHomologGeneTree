@@ -1,0 +1,1 @@
+((ENSVVUG00000014428__Vulpes_vulpes,ENSOPRG00000015663__Ochotona_princeps),((ENSPSIG00000012547__Pelodiscus_sinensis,ENSAOWG00000004130__Apteryx_owenii),ENSACAG00000015724__Anolis_carolinensis));

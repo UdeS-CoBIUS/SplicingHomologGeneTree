@@ -1,0 +1,1 @@
+((ENSCANG00000020610__Colobus_angolensis_palliatus,ENSVVUG00000023378__Vulpes_vulpes),ENSSFOG00015007556__Scleropages_formosus);

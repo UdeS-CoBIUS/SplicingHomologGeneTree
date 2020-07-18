@@ -1,0 +1,1 @@
+(((((ENSXCOG00000019701__Xiphophorus_couchianus,ENSGAFG00000014198__Gambusia_affinis),ENSFHEG00000015034__Fundulus_heteroclitus),ENSOMEG00000022756__Oryzias_melastigma),ENSSPAG00000016459__Stegastes_partitus),ENSLBEG00000016651__Labrus_bergylta);

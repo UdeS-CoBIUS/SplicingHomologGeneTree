@@ -1,0 +1,1 @@
+(((ENSLSDG00000007062__Lonchura_striata_domestica,ENSSCAG00000017064__Serinus_canaria),ENSLCOG00000014740__Lepidothrix_coronata),ENSSPUG00000018469__Sphenodon_punctatus);

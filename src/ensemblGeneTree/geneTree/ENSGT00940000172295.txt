@@ -1,0 +1,1 @@
+(ENSONIG00000017393__Oreochromis_niloticus,ENSONIG00000007003__Oreochromis_niloticus);

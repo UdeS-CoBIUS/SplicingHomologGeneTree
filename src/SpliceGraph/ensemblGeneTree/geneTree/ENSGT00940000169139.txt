@@ -1,0 +1,1 @@
+((((ENSFALG00000007780__Ficedula_albicollis,ENSTGUG00000012933__Taeniopygia_guttata),ENSNMEG00000019749__Numida_meleagris),ENSGMOG00000002587__Gadus_morhua),ENSEBUG00000007097__Eptatretus_burgeri);

@@ -1,0 +1,1 @@
+((((ENSLBEG00000017293__Labrus_bergylta,ENSLBEG00000029083__Labrus_bergylta),ENSLBEG00000017274__Labrus_bergylta),ENSORLG00015004624__Oryzias_latipes_ASM223469v1),ENSPSIG00000001149__Pelodiscus_sinensis);

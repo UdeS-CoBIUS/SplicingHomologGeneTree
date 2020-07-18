@@ -1,0 +1,1 @@
+(ENSIPUG00000001507__Ictalurus_punctatus,ENSXCOG00000008203__Xiphophorus_couchianus);

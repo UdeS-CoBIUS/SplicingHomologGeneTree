@@ -1,0 +1,1 @@
+(((ENSAHAG00000009074__Apteryx_haastii,ENSABRG00000020495__Anser_brachyrhynchus),ENSACAG00000016447__Anolis_carolinensis),((ENSPPAG00000031742__Pan_paniscus,ENSPCOG00000028619__Propithecus_coquereli),ENSCAPG00000009989__Cavia_aperea));

@@ -1,0 +1,1 @@
+((ENSSMAG00000006025__Scophthalmus_maximus,ENSCSEG00000013191__Cynoglossus_semilaevis),((ENSMAMG00000000064__Mastacembelus_armatus,ENSMALG00000021565__Monopterus_albus),ENSMMOG00000014770__Mola_mola));

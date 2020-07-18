@@ -1,0 +1,1 @@
+(((ENSEASG00005008873__Equus_asinus_asinus,ENSEASG00005008908__Equus_asinus_asinus),((ENSBTAG00000053653__Bos_taurus,ENSBTAG00000050034__Bos_taurus),ENSBTAG00000052230__Bos_taurus)),((ENSPTEG00000014190__Piliocolobus_tephrosceles,ENSPTEG00000014228__Piliocolobus_tephrosceles),ENSPTEG00000014270__Piliocolobus_tephrosceles));

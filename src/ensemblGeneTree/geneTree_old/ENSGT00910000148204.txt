@@ -1,1 +1,0 @@
-((ENSCCAG00000000036__Cebus_capucinus_imitator,ENSG00000266728__Homo_sapiens),ENSMICG00000047378__Microcebus_murinus);

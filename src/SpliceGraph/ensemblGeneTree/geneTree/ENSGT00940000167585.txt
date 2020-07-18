@@ -1,0 +1,1 @@
+((((ENSOCUG00000006899__Oryctolagus_cuniculus,ENSOPRG00000016368__Ochotona_princeps),(ENSPPYG00000008317__Pongo_abelii,ENSNLEG00000005145__Nomascus_leucogenys)),(ENSNVIG00000022779__Neovison_vison,ENSEEUG00000007443__Erinaceus_europaeus)),ENSETEG00000005692__Echinops_telfairi);

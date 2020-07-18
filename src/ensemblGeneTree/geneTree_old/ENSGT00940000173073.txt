@@ -1,1 +1,0 @@
-((ENSTGUG00000014126__Taeniopygia_guttata,ENSLSDG00000003991__Lonchura_striata_domestica),ENSFALG00000014819__Ficedula_albicollis);

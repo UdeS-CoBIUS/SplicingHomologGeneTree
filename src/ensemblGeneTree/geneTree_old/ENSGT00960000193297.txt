@@ -1,1 +1,0 @@
-(ENSDNVG00000012433__Dromaius_novaehollandiae,ENSMUNG00000002814__Melopsittacus_undulatus);

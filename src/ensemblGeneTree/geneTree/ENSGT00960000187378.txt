@@ -1,0 +1,1 @@
+(((ENSELUG00000002172__Esox_lucius,ENSLBEG00000008816__Labrus_bergylta),ENSDARG00000105080__Danio_rerio),((ENSABRG00000021421__Anser_brachyrhynchus,ENSAPLG00000026792__Anas_platyrhynchos_platyrhynchos),(ENSGALG00000046685__Gallus_gallus,ENSCPGG00000015466__Calidris_pygmaea)));

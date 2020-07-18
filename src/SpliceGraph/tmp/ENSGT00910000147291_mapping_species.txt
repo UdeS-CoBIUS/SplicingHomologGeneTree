@@ -1,0 +1,10 @@
+RHINOPITHECUSROXELLANA	rhinopithecus_roxellana
+RHINOPITHECUSBIETI	rhinopithecus_bieti
+PILIOCOLOBUSTEPHROSCELES	piliocolobus_tephrosceles
+MACACAFASCICULARIS	macaca_fascicularis
+MACACAMULATTA	macaca_mulatta
+MACACANEMESTRINA	macaca_nemestrina
+THEROPITHECUSGELADA	theropithecus_gelada
+PANPANISCUS	pan_paniscus
+PANTROGLODYTES	pan_troglodytes
+GORILLAGORILLA	gorilla_gorilla

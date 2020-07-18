@@ -1,0 +1,1 @@
+(((ENSSDUG00000010058__Seriola_dumerili,ENSOMEG00000023587__Oryzias_melastigma),ENSSDUG00000009209__Seriola_dumerili),ENSMALG00000007192__Monopterus_albus);

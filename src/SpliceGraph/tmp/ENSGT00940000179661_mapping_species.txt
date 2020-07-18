@@ -1,0 +1,3 @@
+ACANTHOCHROMISPOLYACANTHUS	acanthochromis_polyacanthus
+ACANTHOCHROMISPOLYACANTHUS	acanthochromis_polyacanthus
+ICTALURUSPUNCTATUS	ictalurus_punctatus

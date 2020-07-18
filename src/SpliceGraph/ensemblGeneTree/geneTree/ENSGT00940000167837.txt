@@ -1,0 +1,1 @@
+((ENSBTAG00000049015__Bos_taurus,ENSBMUG00000020172__Bos_mutus),((((((ENSPPAG00000011730__Pan_paniscus,ENSPTRG00000044466__Pan_troglodytes),ENSGGOG00000043550__Gorilla_gorilla),ENSNLEG00000027991__Nomascus_leucogenys),ENSSBOG00000020338__Saimiri_boliviensis_boliviensis),ENSCCNG00000023165__Castor_canadensis),ENSUPAG00010016265__Urocitellus_parryii));

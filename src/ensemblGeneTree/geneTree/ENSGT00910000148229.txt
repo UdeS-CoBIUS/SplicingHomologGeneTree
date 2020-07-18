@@ -1,0 +1,1 @@
+((ENSCANG00000030066__Colobus_angolensis_palliatus,ENSMNEG00000042221__Macaca_nemestrina),ENSNLEG00000029889__Nomascus_leucogenys);

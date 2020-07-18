@@ -1,0 +1,2 @@
+SACCHAROMYCESCEREVISIAE	saccharomyces_cerevisiae
+CAENORHABDITISELEGANSSTRAINN2	caenorhabditis_elegans_strain_n2

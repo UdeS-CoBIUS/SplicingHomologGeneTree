@@ -1,0 +1,1 @@
+(((((FBgn0003486__Drosophila_melanogaster,FBgn0086917__Drosophila_melanogaster),FBgn0036910__Drosophila_melanogaster),WBGene00016092__Caenorhabditis_elegans_strain_N2),ENSCSAVG00000009221__Ciona_savignyi),((ENSPNAG00000006019__Pygocentrus_nattereri,ENSEBUG00000013851__Eptatretus_burgeri),FBgn0004959__Drosophila_melanogaster));

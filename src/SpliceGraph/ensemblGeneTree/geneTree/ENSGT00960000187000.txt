@@ -1,0 +1,1 @@
+((((ENSPREG00000014590__Poecilia_reticulata,ENSPLAG00000000894__Poecilia_latipinna),ENSCVAG00000000876__Cyprinodon_variegatus),ENSAPEG00000019830__Amphiprion_percula),(((ENSATEG00000003591__Anabas_testudineus,ENSATEG00000003153__Anabas_testudineus),ENSSLDG00000005837__Seriola_lalandi_dorsalis),ENSMALG00000007169__Monopterus_albus));

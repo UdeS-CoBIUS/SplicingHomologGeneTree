@@ -1,1 +1,0 @@
-((ENSSPAG00000000792__Stegastes_partitus,ENSHBUG00000014582__Haplochromis_burtoni),ENSCANG00000029678__Colobus_angolensis_palliatus);

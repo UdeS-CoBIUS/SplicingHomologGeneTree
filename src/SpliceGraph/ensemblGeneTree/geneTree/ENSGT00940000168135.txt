@@ -1,0 +1,1 @@
+(((((ENSFALG00000001981__Ficedula_albicollis,ENSTGUG00000005778__Taeniopygia_guttata),ENSXETG00000012999__Xenopus_tropicalis),ENSCAFG00020007871__Canis_lupus_dingo),(ENSFHEG00000019041__Fundulus_heteroclitus,ENSPNAG00000021183__Pygocentrus_nattereri)),ENSPMAG00000005834__Petromyzon_marinus);

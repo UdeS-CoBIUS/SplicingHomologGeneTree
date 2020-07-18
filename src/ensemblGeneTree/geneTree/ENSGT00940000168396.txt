@@ -1,0 +1,1 @@
+(((ENSAPLG00000030229__Anas_platyrhynchos_platyrhynchos,ENSCJPG00005016694__Coturnix_japonica),ENSARWG00000012594__Apteryx_rowi),((((ENSRROG00000032020__Rhinopithecus_roxellana,ENSRBIG00000036183__Rhinopithecus_bieti),ENSGGOG00000043073__Gorilla_gorilla),ENSANAG00000022478__Aotus_nancymaae),ENSTSYG00000036888__Carlito_syrichta));

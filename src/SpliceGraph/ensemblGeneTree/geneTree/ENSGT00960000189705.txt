@@ -1,0 +1,1 @@
+(((ENSZALG00000004173__Zonotrichia_albicollis,ENSMVIG00005004173__Manacus_vitellinus),ENSDNVG00000015356__Dromaius_novaehollandiae),(ENSACAG00000029211__Anolis_carolinensis,ENSNSUG00000002873__Notechis_scutatus));

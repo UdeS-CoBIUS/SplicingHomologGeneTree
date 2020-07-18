@@ -1,0 +1,1 @@
+((((ENSPPRG00000025035__Panthera_pardus,ENSPTIG00000013883__Panthera_tigris_altaica),ENSFCAG00000037640__Felis_catus),ENSSSCG00000034033__Sus_scrofa),(ENSCJAG00000047959__Callithrix_jacchus,ENSPTEG00000004179__Piliocolobus_tephrosceles));

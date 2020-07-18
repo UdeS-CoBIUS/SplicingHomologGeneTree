@@ -1,1 +1,0 @@
-((((ENSCCEG00000004588__Cyanistes_caeruleus,ENSCCEG00000014114__Cyanistes_caeruleus),(ENSPMJG00000012703__Parus_major,ENSPMJG00000011439__Parus_major)),ENSPMJG00000004170__Parus_major),(((ENSSCAG00000001750__Serinus_canaria,ENSSCAG00000002097__Serinus_canaria),ENSSCAG00000012621__Serinus_canaria),ENSLSDG00000000622__Lonchura_striata_domestica));

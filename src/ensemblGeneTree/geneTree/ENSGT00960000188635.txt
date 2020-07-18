@@ -1,0 +1,1 @@
+((((ENSCPBG00000018646__Chrysemys_picta_bellii,ENSGAGG00000008993__Gopherus_agassizii),(ENSCABG00000010801__Chelonoidis_abingdonii,ENSCABG00000010796__Chelonoidis_abingdonii)),ENSSMRG00000020510__Salvator_merianae),ENSMMOG00000005515__Mola_mola);

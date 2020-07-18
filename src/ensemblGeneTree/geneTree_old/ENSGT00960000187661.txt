@@ -1,1 +1,0 @@
-((ENSGMOG00000020542__Gadus_morhua,ENSPKIG00000020467__Paramormyrops_kingsleyae),ENSMLUG00000029161__Myotis_lucifugus);

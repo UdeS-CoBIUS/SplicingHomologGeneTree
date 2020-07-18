@@ -1,0 +1,1 @@
+(((ENSPTEG00000034888__Piliocolobus_tephrosceles,ENSCANG00000033769__Colobus_angolensis_palliatus),ENSRBIG00000034813__Rhinopithecus_bieti),(((ENSTGEG00000001666__Theropithecus_gelada,ENSCATG00000017309__Cercocebus_atys),ENSPANG00000032322__Papio_anubis),(ENSMFAG00000030801__Macaca_fascicularis,ENSMNEG00000038223__Macaca_nemestrina)));

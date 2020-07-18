@@ -1,0 +1,1 @@
+(((ENSTBEG00000001858__Tupaia_belangeri,ENSSDAG00000000795__Spermophilus_dauricus),ENSPVAG00000000350__Pteropus_vampyrus),((ENSDNOG00000045131__Dasypus_novemcinctus,ENSDNOG00000044706__Dasypus_novemcinctus),ENSETEG00000017023__Echinops_telfairi));

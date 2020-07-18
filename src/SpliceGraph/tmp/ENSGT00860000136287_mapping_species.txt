@@ -1,0 +1,12 @@
+PANPANISCUS	pan_paniscus
+PANTROGLODYTES	pan_troglodytes
+PANPANISCUS	pan_paniscus
+PANTROGLODYTES	pan_troglodytes
+PONGOABELII	pongo_abelii
+GORILLAGORILLA	gorilla_gorilla
+PANTROGLODYTES	pan_troglodytes
+NOMASCUSLEUCOGENYS	nomascus_leucogenys
+RHINOPITHECUSBIETI	rhinopithecus_bieti
+RHINOPITHECUSROXELLANA	rhinopithecus_roxellana
+COLOBUSANGOLENSISPALLIATUS	colobus_angolensis_palliatus
+MACACAMULATTA	macaca_mulatta

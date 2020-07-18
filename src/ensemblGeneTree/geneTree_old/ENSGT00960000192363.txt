@@ -1,1 +1,0 @@
-(ENSPCOG00000017937__Propithecus_coquereli,ENSPSMG00000025234__Prolemur_simus);

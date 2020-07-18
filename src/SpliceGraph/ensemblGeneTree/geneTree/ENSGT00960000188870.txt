@@ -1,0 +1,1 @@
+(ENSDORG00000024725__Dipodomys_ordii,ENSBMUG00000009305__Bos_mutus);

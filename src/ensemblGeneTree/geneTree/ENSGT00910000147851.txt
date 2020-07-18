@@ -1,0 +1,1 @@
+((((ENSPANG00000032823__Papio_anubis,ENSRBIG00000036408__Rhinopithecus_bieti),ENSANAG00000005062__Aotus_nancymaae),(ENSPSMG00000003935__Prolemur_simus,ENSMICG00000043244__Microcebus_murinus)),(ENSCHIG00000013002__Capra_hircus,ENSNVIG00000013156__Neovison_vison));

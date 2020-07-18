@@ -1,0 +1,6 @@
+SERIOLALALANDIDORSALIS	seriola_lalandi_dorsalis
+SERIOLADUMERILI	seriola_dumerili
+MONOPTERUSALBUS	monopterus_albus
+LABRUSBERGYLTA	labrus_bergylta
+PUNDAMILIANYEREREI	pundamilia_nyererei
+AMPHILOPHUSCITRINELLUS	amphilophus_citrinellus

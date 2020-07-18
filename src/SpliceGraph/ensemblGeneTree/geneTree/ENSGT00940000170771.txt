@@ -1,0 +1,1 @@
+(((((ENSCAPG00000010441__Cavia_aperea,ENSPTEG00000033163__Piliocolobus_tephrosceles),ENSCHOG00000003469__Choloepus_hoffmanni),ENSCPUG00000011366__Calidris_pugnax),ENSAOCG00000022828__Amphiprion_ocellaris),ENSEBUG00000009144__Eptatretus_burgeri);

@@ -1,0 +1,1 @@
+((((ENSAOCG00000023443__Amphiprion_ocellaris,ENSAPOG00000000534__Acanthochromis_polyacanthus),ENSOMEG00000017348__Oryzias_melastigma),(ENSSLDG00000011325__Seriola_lalandi_dorsalis,ENSSLDG00000009363__Seriola_lalandi_dorsalis)),ENSSCAG00000002188__Serinus_canaria);

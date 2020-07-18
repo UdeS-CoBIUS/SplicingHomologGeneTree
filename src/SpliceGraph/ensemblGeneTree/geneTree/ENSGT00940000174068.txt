@@ -1,0 +1,1 @@
+((ENSCING00000019472__Ciona_intestinalis,ENSCING00000004317__Ciona_intestinalis),ENSPKIG00000009010__Paramormyrops_kingsleyae);

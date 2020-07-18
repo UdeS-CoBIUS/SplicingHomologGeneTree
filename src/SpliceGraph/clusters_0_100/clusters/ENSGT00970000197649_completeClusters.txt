@@ -1,0 +1,2 @@
+>completeCluster_0
+T23E1.3a.1	F28A10.4.1

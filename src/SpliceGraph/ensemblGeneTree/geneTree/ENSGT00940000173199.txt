@@ -1,0 +1,1 @@
+(ENSOANG00000005685__Ornithorhynchus_anatinus,ENSCAFG00000024802__Canis_lupus_familiaris);

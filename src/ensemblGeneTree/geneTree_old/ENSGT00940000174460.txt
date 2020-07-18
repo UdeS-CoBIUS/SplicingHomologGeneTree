@@ -1,1 +1,0 @@
-(ENSAMEG00000007346__Ailuropoda_melanoleuca,ENSPMAG00000000738__Petromyzon_marinus);

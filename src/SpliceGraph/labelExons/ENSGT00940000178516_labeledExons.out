@@ -1,0 +1,32 @@
+>0
+ENSLCRT00005061601: ['no event', 142, 0]
+ENSLCRT00005061602: ['exon skipping', 0, 0]
+ENSLCRT00005061603: ['exon skipping', 0, 0]
+>1
+ENSLCRT00005061601: ['exon skipping', 0, 0]
+ENSLCRT00005061602: ['5event', 40, 0]
+ENSLCRT00005061603: ['exon skipping', 0, 0]
+>2
+ENSLCRT00005061601: ['5event', 336, 2]
+ENSLCRT00005061602: ['no event', 337, 2]
+ENSLCRT00005061603: ['5event', 296, 0]
+>3
+ENSLCRT00005061601: ['no event', 148, 0]
+ENSLCRT00005061602: ['no event', 148, 0]
+ENSLCRT00005061603: ['no event', 148, 0]
+>4
+ENSLCRT00005061601: ['no event', 159, 2]
+ENSLCRT00005061602: ['no event', 159, 2]
+ENSLCRT00005061603: ['no event', 159, 2]
+>5
+ENSLCRT00005061601: ['no event', 108, 0]
+ENSLCRT00005061602: ['no event', 108, 0]
+ENSLCRT00005061603: ['no event', 108, 0]
+>6
+ENSLCRT00005061601: ['exon skipping', 0, 0]
+ENSLCRT00005061602: ['exon skipping', 0, 0]
+ENSLCRT00005061603: ['no event', 55, 1]
+>7
+ENSLCRT00005061601: ['5event', 28, 1]
+ENSLCRT00005061602: ['5event', 28, 1]
+ENSLCRT00005061603: ['exon skipping', 0, 0]

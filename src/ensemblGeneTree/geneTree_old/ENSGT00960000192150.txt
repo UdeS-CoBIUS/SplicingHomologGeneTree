@@ -1,1 +1,0 @@
-(ENSSPUG00000012084__Sphenodon_punctatus,ENSSMRG00000000700__Salvator_merianae);

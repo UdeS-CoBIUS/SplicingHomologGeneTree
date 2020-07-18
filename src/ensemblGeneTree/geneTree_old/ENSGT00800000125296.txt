@@ -1,1 +1,0 @@
-(ENSPFOG00000023879__Poecilia_formosa,ENSDARG00000099538__Danio_rerio);

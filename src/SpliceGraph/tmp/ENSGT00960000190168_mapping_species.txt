@@ -1,0 +1,3 @@
+MANDRILLUSLEUCOPHAEUS	mandrillus_leucophaeus
+MACACANEMESTRINA	macaca_nemestrina
+PILIOCOLOBUSTEPHROSCELES	piliocolobus_tephrosceles

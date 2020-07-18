@@ -1,0 +1,13 @@
+MACACANEMESTRINA	macaca_nemestrina
+THEROPITHECUSGELADA	theropithecus_gelada
+CHLOROCEBUSSABAEUS	chlorocebus_sabaeus
+PANTROGLODYTES	pan_troglodytes
+PANPANISCUS	pan_paniscus
+HOMOSAPIENS	homo_sapiens
+PONGOABELII	pongo_abelii
+PONGOABELII	pongo_abelii
+COLOBUSANGOLENSISPALLIATUS	colobus_angolensis_palliatus
+THEROPITHECUSGELADA	theropithecus_gelada
+HOMOSAPIENS	homo_sapiens
+CEBUSCAPUCINUS	cebus_capucinus
+ORYCTOLAGUSCUNICULUS	oryctolagus_cuniculus

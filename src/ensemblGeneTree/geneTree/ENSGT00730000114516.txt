@@ -1,0 +1,1 @@
+((ENSTGUG00000003799__Taeniopygia_guttata,ENSFALG00000004423__Ficedula_albicollis),(ENSGALG00000053574__Gallus_gallus,ENSCJPG00005016906__Coturnix_japonica));

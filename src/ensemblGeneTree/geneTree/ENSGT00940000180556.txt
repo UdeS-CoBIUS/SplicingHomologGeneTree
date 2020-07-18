@@ -1,0 +1,1 @@
+((ENSAPOG00000000785__Acanthochromis_polyacanthus,ENSPMGG00000019221__Periophthalmus_magnuspinnatus),(((ENSTGEG00000016494__Theropithecus_gelada,ENSPTEG00000037781__Piliocolobus_tephrosceles),ENSSDAG00000004164__Spermophilus_dauricus),ENSNSUG00000000631__Notechis_scutatus));

@@ -1,0 +1,5 @@
+PAPIOANUBIS	papio_anubis
+MANDRILLUSLEUCOPHAEUS	mandrillus_leucophaeus
+PILIOCOLOBUSTEPHROSCELES	piliocolobus_tephrosceles
+PANPANISCUS	pan_paniscus
+PANTROGLODYTES	pan_troglodytes

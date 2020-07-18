@@ -1,0 +1,1 @@
+((((WBGene00001030__Caenorhabditis_elegans_strain_N2,FBgn0038145__Drosophila_melanogaster),ENSCING00000008988__Ciona_intestinalis),ENSTRUG00000019571__Takifugu_rubripes),YNL077W__Saccharomyces_cerevisiae_strain_S288C);

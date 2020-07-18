@@ -1,1 +1,0 @@
-((ENSHCOG00000019000__Hippocampus_comes,ENSHCOG00000016645__Hippocampus_comes),ENSXCOG00000019370__Xiphophorus_couchianus);

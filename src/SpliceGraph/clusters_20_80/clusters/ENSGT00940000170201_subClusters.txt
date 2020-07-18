@@ -1,0 +1,12 @@
+>cluster_0
+FBtr0075823
+>cluster_1
+FBtr0331535
+>cluster_2
+FBtr0075821
+>cluster_3
+FBtr0075820
+>cluster_4
+ENSCSAVT00000020301	FBtr0345364
+>cluster_5
+ENSCINT00000034425	FBtr0075822

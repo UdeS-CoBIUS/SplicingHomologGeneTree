@@ -1,0 +1,1 @@
+(((ENSAMEG00000005205__Ailuropoda_melanoleuca,ENSEEUG00000005494__Erinaceus_europaeus),ENSSHAG00000008222__Sarcophilus_harrisii),ENSSPUG00000005797__Sphenodon_punctatus);

@@ -1,0 +1,1 @@
+((ENSNGAG00000023693__Nannospalax_galili,ENSJJAG00000010323__Jaculus_jaculus),(ENSSTOG00000000896__Ictidomys_tridecemlineatus,ENSCLAG00000009751__Chinchilla_lanigera));

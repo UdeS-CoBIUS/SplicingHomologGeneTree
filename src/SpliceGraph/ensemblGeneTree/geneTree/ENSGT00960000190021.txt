@@ -1,0 +1,1 @@
+((ENSUPAG00010022270__Urocitellus_parryii,ENSMMMG00000015489__Marmota_marmota_marmota),(ENSPEMG00000029248__Peromyscus_maniculatus_bairdii,ENSMUGG00000020475__Meriones_unguiculatus));

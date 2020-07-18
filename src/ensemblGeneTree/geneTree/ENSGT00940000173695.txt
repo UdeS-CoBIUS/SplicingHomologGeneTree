@@ -1,0 +1,1 @@
+(((ENSUAMG00000001308__Ursus_americanus,ENSUMAG00000022856__Ursus_maritimus),(ENSAMEG00000003371__Ailuropoda_melanoleuca,ENSMPUG00000011986__Mustela_putorius_furo)),ENSCAFG00020001347__Canis_lupus_dingo);

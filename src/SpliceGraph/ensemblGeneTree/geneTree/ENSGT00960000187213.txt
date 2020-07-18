@@ -1,0 +1,1 @@
+((ENSPCAG00000012342__Procavia_capensis,ENSCHOG00000009434__Choloepus_hoffmanni),(((ENSCSAG00000000276__Chlorocebus_sabaeus,ENSRBIG00000037770__Rhinopithecus_bieti),ENSG00000212933__Homo_sapiens),ENSANAG00000027010__Aotus_nancymaae));

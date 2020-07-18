@@ -1,0 +1,1 @@
+((ENSPTEG00000010883__Piliocolobus_tephrosceles,ENSPTEG00000004159__Piliocolobus_tephrosceles),(WBGene00002224__Caenorhabditis_elegans_strain_N2,FBgn0038205__Drosophila_melanogaster));

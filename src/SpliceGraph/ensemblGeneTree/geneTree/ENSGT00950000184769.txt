@@ -1,0 +1,1 @@
+(ENSAMEG00000002399__Ailuropoda_melanoleuca,ENSSMAG00000014483__Scophthalmus_maximus);

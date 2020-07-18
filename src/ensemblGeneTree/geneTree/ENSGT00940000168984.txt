@@ -1,0 +1,1 @@
+(((WBGene00004735__Caenorhabditis_elegans_strain_N2,FBgn0261283__Drosophila_melanogaster),(ENSEBUG00000014951__Eptatretus_burgeri,ENSPMAG00000009384__Petromyzon_marinus)),YOR032C__Saccharomyces_cerevisiae_strain_S288C);

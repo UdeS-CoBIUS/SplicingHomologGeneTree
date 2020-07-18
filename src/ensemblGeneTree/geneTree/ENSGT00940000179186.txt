@@ -1,0 +1,1 @@
+((((ENSAMXG00000039551__Astyanax_mexicanus_Astyanax_mexicanus-2.0,ENSAMXG00005015135__Astyanax_mexicanus_Astyanax_mexicanus-1.0.2),ENSPNAG00000001309__Pygocentrus_nattereri),ENSDARG00000087178__Danio_rerio),ENSDCDG00000004780__Denticeps_clupeoides);

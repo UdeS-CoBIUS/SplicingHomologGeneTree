@@ -1,0 +1,1 @@
+((ENSCSEG00000002089__Cynoglossus_semilaevis,ENSPMGG00000009191__Periophthalmus_magnuspinnatus),ENSHCOG00000016695__Hippocampus_comes);

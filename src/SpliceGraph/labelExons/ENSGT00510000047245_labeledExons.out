@@ -1,0 +1,36 @@
+>0
+F40F8.11a.1: ['no event', 98, 0]
+F40F8.11a.2: ['no event', 98, 0]
+F40F8.11b.1: ['exon skipping', 0, 0]
+F40F8.11b.2: ['exon skipping', 0, 0]
+F40F8.11b.3: ['exon skipping', 0, 0]
+>1
+F40F8.11a.1: ['no event', 62, 0]
+F40F8.11a.2: ['no event', 62, 0]
+F40F8.11b.1: ['exon skipping', 0, 0]
+F40F8.11b.2: ['exon skipping', 0, 0]
+F40F8.11b.3: ['exon skipping', 0, 0]
+>2
+F40F8.11a.1: ['no event', 249, 0]
+F40F8.11a.2: ['no event', 249, 0]
+F40F8.11b.1: ['exon skipping', 0, 0]
+F40F8.11b.2: ['exon skipping', 0, 0]
+F40F8.11b.3: ['exon skipping', 0, 0]
+>3
+F40F8.11a.1: ['no event', 319, 1]
+F40F8.11a.2: ['no event', 319, 1]
+F40F8.11b.1: ['5event', 290, 0]
+F40F8.11b.2: ['5event', 290, 0]
+F40F8.11b.3: ['5event', 290, 0]
+>4
+F40F8.11a.1: ['no event', 644, 0]
+F40F8.11a.2: ['no event', 644, 0]
+F40F8.11b.1: ['no event', 644, 0]
+F40F8.11b.2: ['no event', 644, 0]
+F40F8.11b.3: ['no event', 644, 0]
+>5
+F40F8.11a.1: ['no event', 44, 0]
+F40F8.11a.2: ['no event', 44, 0]
+F40F8.11b.1: ['no event', 44, 0]
+F40F8.11b.2: ['no event', 44, 0]
+F40F8.11b.3: ['no event', 44, 0]

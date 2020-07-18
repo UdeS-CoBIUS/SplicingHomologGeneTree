@@ -1,0 +1,4 @@
+PYGOCENTRUSNATTERERI	pygocentrus_nattereri
+ASTYANAXMEXICANUS	astyanax_mexicanus
+DANIORERIO	danio_rerio
+SCLEROPAGESFORMOSUS	scleropages_formosus

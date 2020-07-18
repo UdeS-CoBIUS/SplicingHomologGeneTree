@@ -1,0 +1,1 @@
+(ENSLOCG00000016967__Lepisosteus_oculatus,ENSTNIG00000005159__Tetraodon_nigroviridis);

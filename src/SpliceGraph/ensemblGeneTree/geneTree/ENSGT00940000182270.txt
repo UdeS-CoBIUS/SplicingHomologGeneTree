@@ -1,0 +1,1 @@
+(ENSCSEG00000020641__Cynoglossus_semilaevis,ENSHCOG00000013580__Hippocampus_comes);

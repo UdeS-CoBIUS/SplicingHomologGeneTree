@@ -1,0 +1,1 @@
+(((((ENSATEG00000000556__Anabas_testudineus,ENSXCOG00000016383__Xiphophorus_couchianus),ENSHHUG00000051175__Hucho_hucho),ENSAMXG00005018881__Astyanax_mexicanus_Astyanax_mexicanus-1.0.2),ENSSFOG00015000530__Scleropages_formosus),ENSEBUG00000001566__Eptatretus_burgeri);

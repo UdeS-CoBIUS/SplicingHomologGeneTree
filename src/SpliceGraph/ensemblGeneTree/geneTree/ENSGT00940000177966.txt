@@ -1,0 +1,1 @@
+((ENSSDUG00000017636__Seriola_dumerili,ENSHCOG00000000591__Hippocampus_comes),((((ENSMAMG00000003189__Mastacembelus_armatus,ENSMAMG00000003183__Mastacembelus_armatus),ENSMAMG00000017616__Mastacembelus_armatus),ENSMAMG00000023268__Mastacembelus_armatus),ENSMAMG00000001240__Mastacembelus_armatus));

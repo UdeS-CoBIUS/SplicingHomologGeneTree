@@ -1,0 +1,1 @@
+(((ENSSDUG00000003173__Seriola_dumerili,ENSSLDG00000010947__Seriola_lalandi_dorsalis),(((ENSCVAG00000010078__Cyprinodon_variegatus,ENSACLG00000008007__Astatotilapia_calliptera),ENSTRUG00000024398__Takifugu_rubripes),ENSCVAG00000013651__Cyprinodon_variegatus)),ENSLSDG00000016657__Lonchura_striata_domestica);

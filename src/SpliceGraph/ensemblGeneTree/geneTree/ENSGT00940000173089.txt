@@ -1,0 +1,1 @@
+((ENSGMOG00000017404__Gadus_morhua,ENSGMOG00000001045__Gadus_morhua),(ENSSPAG00000009629__Stegastes_partitus,ENSSMAG00000016538__Scophthalmus_maximus));

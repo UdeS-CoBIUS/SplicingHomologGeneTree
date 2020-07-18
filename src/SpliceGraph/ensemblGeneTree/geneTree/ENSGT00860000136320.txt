@@ -1,0 +1,1 @@
+(((((MGP_SPRETEiJ_G0027149__Mus_spretus_strain_SPRET/EiJ,ENSMUSG00000048747__Mus_musculus_strain_reference_(CL57BL6)),ENSMSIG00000018081__Mus_spicilegus),MGP_CAROLIEiJ_G0026181__Mus_caroli_strain_CAROLI_EIJ),MGP_PahariEiJ_G0028518__Mus_pahari_strain_PAHARI_EIJ),ENSNGAG00000016606__Nannospalax_galili);

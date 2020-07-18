@@ -1,1 +1,0 @@
-((ENSGMOG00000020400__Gadus_morhua,ENSPREG00000000156__Poecilia_reticulata),(ENSOANG00000008878__Ornithorhynchus_anatinus,ENSNSUG00000002270__Notechis_scutatus));

@@ -1,0 +1,1 @@
+((((ENSTRUG00000021358__Takifugu_rubripes,ENSTRUG00000020415__Takifugu_rubripes),ENSCSEG00000019280__Cynoglossus_semilaevis),(ENSTRUG00000019884__Takifugu_rubripes,ENSLBEG00000012398__Labrus_bergylta)),(ENSSCAG00000006755__Serinus_canaria,ENSCABG00000010116__Chelonoidis_abingdonii));

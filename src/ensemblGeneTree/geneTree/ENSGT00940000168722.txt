@@ -1,0 +1,1 @@
+((ENSLACG00000015251__Latimeria_chalumnae,ENSLACG00000001301__Latimeria_chalumnae),(ENSLACG00000005101__Latimeria_chalumnae,ENSLACG00000008899__Latimeria_chalumnae));

@@ -1,0 +1,1 @@
+(((ENSLBEG00000004838__Labrus_bergylta,ENSNBRG00000007315__Neolamprologus_brichardi),ENSPKIG00000017509__Paramormyrops_kingsleyae),((ENSACAG00000006223__Anolis_carolinensis,ENSMGAG00000013472__Meleagris_gallopavo),ENSHGLG00000003337__Heterocephalus_glaber_HetGla_female_1.0));

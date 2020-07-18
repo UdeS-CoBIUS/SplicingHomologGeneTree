@@ -1,0 +1,4 @@
+>completeCluster_0
+FBtr0085194	FBtr0074732	D1007.6.1
+>completeCluster_1
+D1007.6.1	FBtr0074731	FBtr0085194

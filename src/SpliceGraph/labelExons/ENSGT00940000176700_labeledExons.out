@@ -1,0 +1,6 @@
+>0
+YIL056W_mRNA: ['5event', ['internal gap >= 30', 574, 136], 1885, 0]
+YER064C_mRNA: [['internal gap >= 30', 1507, 504], 1517, 0]
+>1
+YIL056W_mRNA: ['no event', 36, 2]
+YER064C_mRNA: ['exon skipping', 0, 0]

@@ -1,0 +1,1 @@
+((((ENSFALG00000008068__Ficedula_albicollis,ENSFALG00000007515__Ficedula_albicollis),(ENSCCEG00000004193__Cyanistes_caeruleus,ENSCCEG00000005744__Cyanistes_caeruleus)),ENSLSDG00000011014__Lonchura_striata_domestica),ENSORLG00020017103__Oryzias_latipes_ASM223471v1);

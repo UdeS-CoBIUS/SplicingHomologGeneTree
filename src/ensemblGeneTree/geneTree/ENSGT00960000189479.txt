@@ -1,0 +1,1 @@
+((((ENSSCAG00000015597__Serinus_canaria,ENSJHYG00000016945__Junco_hyemalis),ENSLSDG00000005545__Lonchura_striata_domestica),(ENSPMJG00000017570__Parus_major,ENSCCEG00000004125__Cyanistes_caeruleus)),(ENSMVIG00005017110__Manacus_vitellinus,ENSMVIG00005016632__Manacus_vitellinus));

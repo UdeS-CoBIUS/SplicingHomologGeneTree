@@ -1,0 +1,1 @@
+(((ENSAMEG00000008007__Ailuropoda_melanoleuca,ENSCAFG00000031770__Canis_lupus_familiaris),ENSOARG00000008202__Ovis_aries),ENSLAFG00000028802__Loxodonta_africana);

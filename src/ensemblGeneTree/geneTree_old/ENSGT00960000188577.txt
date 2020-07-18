@@ -1,1 +1,0 @@
-(ENSTSYG00000029419__Carlito_syrichta,ENSMLUG00000023885__Myotis_lucifugus);

@@ -1,0 +1,10 @@
+>0
+ENSPVAT00000016900: ['3event', '5event', 327, 0]
+ENSMLUT00000027586: ['3event', '5event', 330, 0]
+ENSTTRT00000013943: ['3event', '5event', 339, 0]
+ENSOANT00000004029: [['internal gap >= 30', 149, 95], 383, 0]
+>1
+ENSPVAT00000016900: ['3event', '5event', 33, 0]
+ENSMLUT00000027586: ['5event', 32, 0]
+ENSTTRT00000013943: ['3event', '5event', 36, 0]
+ENSOANT00000004029: ['exon skipping', 0, 0]

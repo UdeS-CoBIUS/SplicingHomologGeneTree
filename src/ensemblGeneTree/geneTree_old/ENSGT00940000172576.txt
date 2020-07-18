@@ -1,1 +1,0 @@
-(((ENSACAG00000013373__Anolis_carolinensis,ENSNSUG00000004139__Notechis_scutatus),((ENSNPEG00000013683__Nothoprocta_perdicaria,ENSLCOG00000013503__Lepidothrix_coronata),ENSCPRG00005006540__Crocodylus_porosus)),(ENSPPYG00000019711__Pongo_abelii,ENSBMUG00000003674__Bos_mutus));

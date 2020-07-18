@@ -1,0 +1,1 @@
+((((ENSEASG00005018719__Equus_asinus_asinus,ENSECAG00000039128__Equus_caballus),ENSPSMG00000022283__Prolemur_simus),(ENSPCIG00000007142__Phascolarctos_cinereus,ENSPCIG00000021633__Phascolarctos_cinereus)),ENSXCOG00000020618__Xiphophorus_couchianus);

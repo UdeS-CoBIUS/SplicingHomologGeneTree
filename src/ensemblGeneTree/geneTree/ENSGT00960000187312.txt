@@ -1,0 +1,1 @@
+((((ENSAOCG00000016454__Amphiprion_ocellaris,ENSAPEG00000024355__Amphiprion_percula),ENSSPAG00000016349__Stegastes_partitus),ENSOMEG00000019428__Oryzias_melastigma),ENSPMGG00000010033__Periophthalmus_magnuspinnatus);

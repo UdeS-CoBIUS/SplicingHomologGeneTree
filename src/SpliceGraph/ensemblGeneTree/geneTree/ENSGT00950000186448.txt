@@ -1,0 +1,1 @@
+(((ENSBBBG00000010639__Bison_bison_bison,ENSBMUG00000010608__Bos_mutus),ENSUAMG00000028174__Ursus_americanus),(ENSMLEG00000030488__Mandrillus_leucophaeus,ENSPTEG00000002960__Piliocolobus_tephrosceles));

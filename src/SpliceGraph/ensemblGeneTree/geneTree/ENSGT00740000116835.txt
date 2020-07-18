@@ -1,0 +1,1 @@
+(((ENSPKIG00000003767__Paramormyrops_kingsleyae,ENSPKIG00000005152__Paramormyrops_kingsleyae),(ENSIPUG00000013057__Ictalurus_punctatus,ENSGACG00000012859__Gasterosteus_aculeatus)),(ENSLOCG00000002545__Lepisosteus_oculatus,ENSLOCG00000002574__Lepisosteus_oculatus));

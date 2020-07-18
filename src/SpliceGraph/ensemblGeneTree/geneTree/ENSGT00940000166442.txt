@@ -1,0 +1,1 @@
+((((ENSRROG00000043338__Rhinopithecus_roxellana,ENSRBIG00000032539__Rhinopithecus_bieti),ENSOGAG00000024320__Otolemur_garnettii),ENSFDAG00000013574__Fukomys_damarensis),(((ENSDNOG00000048543__Dasypus_novemcinctus,ENSDNOG00000035574__Dasypus_novemcinctus),ENSDNOG00000045090__Dasypus_novemcinctus),ENSCHOG00000009253__Choloepus_hoffmanni));

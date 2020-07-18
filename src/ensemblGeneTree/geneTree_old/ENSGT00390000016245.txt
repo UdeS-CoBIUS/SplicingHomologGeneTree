@@ -1,1 +1,0 @@
-(ENSCSAG00000007491__Chlorocebus_sabaeus,ENSPPYG00000011512__Pongo_abelii);

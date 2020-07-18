@@ -1,0 +1,1 @@
+((((ENSRROG00000041707__Rhinopithecus_roxellana,ENSPCIG00000012075__Phascolarctos_cinereus),ENSSPUG00000001828__Sphenodon_punctatus),ENSCJPG00005002781__Coturnix_japonica),ENSEBUG00000006040__Eptatretus_burgeri);

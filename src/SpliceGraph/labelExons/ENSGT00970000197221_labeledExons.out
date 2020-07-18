@@ -1,0 +1,20 @@
+>0
+Y102A5C.40.1: ['5event', ['internal gap >= 30', 109, 117], 201, 0]
+Y102A5C.27.1: ['5event', ['internal gap >= 30', 70, 96], 222, 0]
+Y68A4B.3.1: [['internal gap < 30', 217, 9], 309, 0]
+>1
+Y102A5C.40.1: ['exon skipping', 0, 0]
+Y102A5C.27.1: ['exon skipping', 0, 0]
+Y68A4B.3.1: ['no event', 5, 1]
+>2
+Y102A5C.40.1: ['5event', 175, 1]
+Y102A5C.27.1: ['3event', '5event', 140, 1]
+Y68A4B.3.1: [['internal gap < 30', 164, 6], 171, 1]
+>3
+Y102A5C.40.1: ['3event', 124, 0]
+Y102A5C.27.1: ['exon skipping', 0, 0]
+Y68A4B.3.1: [['internal gap < 30', 99, 10], 124, 0]
+>4
+Y102A5C.40.1: ['exon skipping', 0, 0]
+Y102A5C.27.1: ['exon skipping', 0, 0]
+Y68A4B.3.1: ['no event', 42, 2]

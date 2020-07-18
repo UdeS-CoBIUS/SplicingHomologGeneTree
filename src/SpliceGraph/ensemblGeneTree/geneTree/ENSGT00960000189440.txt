@@ -1,0 +1,1 @@
+(((ENSCPBG00000001246__Chrysemys_picta_bellii,ENSCABG00000007323__Chelonoidis_abingdonii),(((ENSJHYG00000002609__Junco_hyemalis,ENSSCAG00000013163__Serinus_canaria),ENSABRG00000016784__Anser_brachyrhynchus),((ENSARWG00000005056__Apteryx_rowi,ENSAHAG00000000551__Apteryx_haastii),ENSNPEG00000004943__Nothoprocta_perdicaria))),ENSSPUG00000006714__Sphenodon_punctatus);

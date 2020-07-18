@@ -1,0 +1,1 @@
+(ENSPVAG00000014970__Pteropus_vampyrus,ENSECAG00000011883__Equus_caballus);

@@ -1,0 +1,1 @@
+(((ENSTBEG00000013225__Tupaia_belangeri,ENSSARG00000013560__Sorex_araneus),ENSPEMG00000024704__Peromyscus_maniculatus_bairdii),(ENSZALG00000007283__Zonotrichia_albicollis,ENSCPGG00000013870__Calidris_pygmaea));

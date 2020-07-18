@@ -1,0 +1,1 @@
+(ENSBMUG00000002260__Bos_mutus,ENSCGRG00015028046__Cricetulus_griseus_CriGri-PICR);

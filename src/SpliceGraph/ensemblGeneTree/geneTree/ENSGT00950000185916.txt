@@ -1,0 +1,1 @@
+(((ENSEASG00005020467__Equus_asinus_asinus,ENSBBBG00000006413__Bison_bison_bison),ENSUMAG00000020887__Ursus_maritimus),(ENSCCNG00000005851__Castor_canadensis,ENSMSIG00000027166__Mus_spicilegus));

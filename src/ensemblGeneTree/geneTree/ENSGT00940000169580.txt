@@ -1,0 +1,1 @@
+(((ENSCANG00000015661__Colobus_angolensis_palliatus,ENSPSMG00000022990__Prolemur_simus),((ENSCGRG00000011047__Cricetulus_griseus_CriGri_1.0,ENSCGRG00001013309__Cricetulus_griseus_CHOK1GS_HDv1),ENSMMMG00000022343__Marmota_marmota_marmota)),ENSAHAG00000018121__Apteryx_haastii);

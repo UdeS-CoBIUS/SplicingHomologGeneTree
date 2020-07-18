@@ -1,0 +1,8 @@
+>cluster_0
+x2	x6	x10	x12
+>cluster_1
+x9	x5
+>cluster_2
+x1	x11
+>cluster_3
+x3	x4	x7	x8

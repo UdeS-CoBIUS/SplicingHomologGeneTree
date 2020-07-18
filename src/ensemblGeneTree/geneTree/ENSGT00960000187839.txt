@@ -1,0 +1,1 @@
+((ENSPTIG00000021019__Panthera_tigris_altaica,ENSLAFG00000028227__Loxodonta_africana),WBGene00004410__Caenorhabditis_elegans_strain_N2);

@@ -1,0 +1,1 @@
+((((ENSMLEG00000016809__Mandrillus_leucophaeus,ENSMNEG00000026531__Macaca_nemestrina),ENSCATG00000000908__Cercocebus_atys),(ENSGGOG00000041129__Gorilla_gorilla,ENSG00000285938__Homo_sapiens)),ENSCCAG00000019603__Cebus_capucinus_imitator);

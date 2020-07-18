@@ -1,0 +1,1 @@
+(ENSSTOG00000003318__Ictidomys_tridecemlineatus,ENSSDAG00000008084__Spermophilus_dauricus);

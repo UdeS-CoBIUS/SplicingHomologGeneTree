@@ -1,1 +1,0 @@
-(((ENSUAMG00000008770__Ursus_americanus,ENSVVUG00000009392__Vulpes_vulpes),ENSOANG00000013602__Ornithorhynchus_anatinus),((ENSPMJG00000011724__Parus_major,ENSLSDG00000011167__Lonchura_striata_domestica),ENSNSUG00000016856__Notechis_scutatus));

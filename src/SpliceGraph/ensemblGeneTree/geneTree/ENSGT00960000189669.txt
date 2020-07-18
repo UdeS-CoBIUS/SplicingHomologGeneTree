@@ -1,0 +1,1 @@
+(((ENSCPBG00000000165__Chrysemys_picta_bellii,ENSCABG00000017527__Chelonoidis_abingdonii),(ENSCCEG00000023893__Cyanistes_caeruleus,ENSDNVG00000010733__Dromaius_novaehollandiae)),ENSNSUG00000006521__Notechis_scutatus);

@@ -1,0 +1,1 @@
+(((ENSPKIG00000016400__Paramormyrops_kingsleyae,ENSPKIG00000016414__Paramormyrops_kingsleyae),(ENSPKIG00000003727__Paramormyrops_kingsleyae,ENSPKIG00000003710__Paramormyrops_kingsleyae)),(ENSATEG00000002211__Anabas_testudineus,ENSSMAG00000009548__Scophthalmus_maximus));

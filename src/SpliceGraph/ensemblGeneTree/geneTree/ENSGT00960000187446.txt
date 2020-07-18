@@ -1,0 +1,1 @@
+(((ENSLBEG00000000006__Labrus_bergylta,ENSLBEG00000014395__Labrus_bergylta),ENSMMOG00000007203__Mola_mola),ENSOMEG00000003410__Oryzias_melastigma);

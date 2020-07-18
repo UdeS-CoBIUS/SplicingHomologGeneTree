@@ -1,1 +1,0 @@
-(ENSCVAG00000004967__Cyprinodon_variegatus,ENSNSUG00000019970__Notechis_scutatus);

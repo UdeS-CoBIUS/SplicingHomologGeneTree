@@ -1,0 +1,1 @@
+((((ENSCABG00000022078__Chelonoidis_abingdonii,ENSGAGG00000002237__Gopherus_agassizii),((ENSTGUG00000013453__Taeniopygia_guttata,ENSJHYG00000015739__Junco_hyemalis),ENSAOWG00000006053__Apteryx_owenii)),ENSSPUG00000018557__Sphenodon_punctatus),(ENSMODG00000007196__Monodelphis_domestica,ENSMEUG00000006958__Notamacropus_eugenii));

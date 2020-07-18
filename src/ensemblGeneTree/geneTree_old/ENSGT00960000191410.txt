@@ -1,1 +1,0 @@
-(ENSPVIG00000018207__Pogona_vitticeps,ENSNSUG00000006638__Notechis_scutatus);

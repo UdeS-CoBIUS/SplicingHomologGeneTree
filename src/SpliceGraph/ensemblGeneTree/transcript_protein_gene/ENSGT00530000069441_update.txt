@@ -1,0 +1,2 @@
+C09F12.1.1	WBGene00000522	Caenorhabditis_elegans_strain_N2	C09F12.1.1
+T05A10.2.1	WBGene00000525	Caenorhabditis_elegans_strain_N2	T05A10.2.1

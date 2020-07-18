@@ -1,0 +1,10 @@
+THEROPITHECUSGELADA	theropithecus_gelada
+PAPIOANUBIS	papio_anubis
+CERCOCEBUSATYS	cercocebus_atys
+MANDRILLUSLEUCOPHAEUS	mandrillus_leucophaeus
+MACACANEMESTRINA	macaca_nemestrina
+MACACAFASCICULARIS	macaca_fascicularis
+MACACAMULATTA	macaca_mulatta
+PANTROGLODYTES	pan_troglodytes
+PANPANISCUS	pan_paniscus
+GORILLAGORILLA	gorilla_gorilla

@@ -1,0 +1,4 @@
+AMPHIPRIONPERCULA	amphiprion_percula
+AMPHIPRIONOCELLARIS	amphiprion_ocellaris
+ACANTHOCHROMISPOLYACANTHUS	acanthochromis_polyacanthus
+SERIOLALALANDIDORSALIS	seriola_lalandi_dorsalis

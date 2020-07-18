@@ -1,1 +1,0 @@
-((ENSRBIG00000025561__Rhinopithecus_bieti,ENSPTEG00000029994__Piliocolobus_tephrosceles),ENSPSMG00000021700__Prolemur_simus);

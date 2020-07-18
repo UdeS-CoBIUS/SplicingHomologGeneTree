@@ -1,0 +1,1 @@
+(ENSFDAG00000008982__Fukomys_damarensis,ENSETEG00000003811__Echinops_telfairi);

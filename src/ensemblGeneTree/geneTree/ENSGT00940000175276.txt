@@ -1,0 +1,1 @@
+((ENSXMAG00000020820__Xiphophorus_maculatus,ENSGAFG00000012906__Gambusia_affinis),ENSOANG00000020190__Ornithorhynchus_anatinus);

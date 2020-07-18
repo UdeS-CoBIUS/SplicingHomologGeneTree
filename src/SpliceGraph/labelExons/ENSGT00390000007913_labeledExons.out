@@ -1,0 +1,16 @@
+>0
+ENSAMXT00000054399: ['5event', 48, 0]
+ENSPNAT00000029359: ['5event', 48, 0]
+ENSEEET00000029650: ['no event', 102, 0]
+>1
+ENSAMXT00000054399: [['internal gap < 30', 36, 6], 159, 1]
+ENSPNAT00000029359: ['no event', 165, 1]
+ENSEEET00000029650: [['internal gap < 30', 36, 6], 159, 1]
+>2
+ENSAMXT00000054399: ['no event', 93, 2]
+ENSPNAT00000029359: ['no event', 93, 2]
+ENSEEET00000029650: ['no event', 93, 2]
+>3
+ENSAMXT00000054399: ['exon skipping', 0, 0]
+ENSPNAT00000029359: ['no event', 2, 0]
+ENSEEET00000029650: ['exon skipping', 0, 0]

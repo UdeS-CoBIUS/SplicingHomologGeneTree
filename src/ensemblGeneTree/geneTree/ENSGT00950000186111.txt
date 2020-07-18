@@ -1,0 +1,1 @@
+(ENSBTAG00000046939__Bos_taurus,ENSMNEG00000031134__Macaca_nemestrina);

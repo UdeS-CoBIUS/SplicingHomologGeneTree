@@ -1,0 +1,1 @@
+((((((ENSHBUG00000017725__Haplochromis_burtoni,ENSPNYG00000013120__Pundamilia_nyererei),ENSNBRG00000011495__Neolamprologus_brichardi),ENSACIG00000001100__Amphilophus_citrinellus),ENSSPAG00000018251__Stegastes_partitus),ENSHCOG00000015006__Hippocampus_comes),ENSSFOG00015019765__Scleropages_formosus);

@@ -1,0 +1,1 @@
+((ENSPFOG00000022467__Poecilia_formosa,ENSPFOG00000024492__Poecilia_formosa),(((ENSSHAG00000012492__Sarcophilus_harrisii,ENSSHAG00000012365__Sarcophilus_harrisii),ENSMODG00000024500__Monodelphis_domestica),ENSXETG00000007188__Xenopus_tropicalis));

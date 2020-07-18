@@ -1,0 +1,1 @@
+(((((ENSSFOG00015003358__Scleropages_formosus,ENSPKIG00000012389__Paramormyrops_kingsleyae),((ENSIPUG00000003142__Ictalurus_punctatus,ENSPNAG00000008725__Pygocentrus_nattereri),ENSDARG00000101848__Danio_rerio)),ENSSDUG00000012193__Seriola_dumerili),ENSXETG00000003539__Xenopus_tropicalis),(ENSCING00000006207__Ciona_intestinalis,ENSCSAVG00000004739__Ciona_savignyi));

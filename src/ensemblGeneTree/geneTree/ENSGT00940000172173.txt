@@ -1,0 +1,1 @@
+(ENSPMAG00000000169__Petromyzon_marinus,WBGene00016735__Caenorhabditis_elegans_strain_N2);

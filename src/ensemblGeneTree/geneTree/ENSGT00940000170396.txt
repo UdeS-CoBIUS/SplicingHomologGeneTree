@@ -1,0 +1,1 @@
+(((ENSPTRG00000041872__Pan_troglodytes,ENSPPAG00000032947__Pan_paniscus),ENSG00000256222__Homo_sapiens),(ENSCSAG00000018740__Chlorocebus_sabaeus,ENSPTEG00000009122__Piliocolobus_tephrosceles));

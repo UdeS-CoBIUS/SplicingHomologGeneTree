@@ -1,0 +1,1 @@
+(((ENSUAMG00000011986__Ursus_americanus,ENSUMAG00000004575__Ursus_maritimus),(ENSCCNG00000026671__Castor_canadensis,ENSNLEG00000013862__Nomascus_leucogenys)),(((ENSNBRG00000009178__Neolamprologus_brichardi,ENSHBUG00000001213__Haplochromis_burtoni),ENSACIG00000018679__Amphilophus_citrinellus),ENSSLDG00000012478__Seriola_lalandi_dorsalis));

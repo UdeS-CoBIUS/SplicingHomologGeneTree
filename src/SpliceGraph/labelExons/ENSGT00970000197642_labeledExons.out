@@ -1,0 +1,9 @@
+>0
+ENSLCAT00010030164: [['internal gap < 30', 309, 3], 520, 0]
+ENSPFOT00000021001: [['internal gap < 30', 191, 18], 505, 0]
+>1
+ENSLCAT00010030164: ['no event', 48, 2]
+ENSPFOT00000021001: ['no event', 48, 2]
+>2
+ENSLCAT00010030164: ['no event', 197, 0]
+ENSPFOT00000021001: ['exon skipping', 0, 0]

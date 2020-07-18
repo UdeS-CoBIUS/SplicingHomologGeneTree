@@ -1,0 +1,9 @@
+>0
+ENSOPRT00000014643: ['no event', 152, 0]
+ENSSDAT00000002990: ['no event', 152, 0]
+>1
+ENSOPRT00000014643: ['exon skipping', 0, 0]
+ENSSDAT00000002990: ['no event', 28, 0]
+>2
+ENSOPRT00000014643: ['exon skipping', 0, 0]
+ENSSDAT00000002990: ['no event', 96, 2]

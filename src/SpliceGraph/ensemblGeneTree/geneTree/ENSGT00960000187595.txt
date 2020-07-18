@@ -1,0 +1,1 @@
+(((((ENSZALG00000003876__Zonotrichia_albicollis,ENSMVIG00005000550__Manacus_vitellinus),ENSMUNG00000013914__Melopsittacus_undulatus),ENSDNVG00000001871__Dromaius_novaehollandiae),ENSGAGG00000024394__Gopherus_agassizii),(ENSAPOG00000013036__Acanthochromis_polyacanthus,ENSHCOG00000003253__Hippocampus_comes));

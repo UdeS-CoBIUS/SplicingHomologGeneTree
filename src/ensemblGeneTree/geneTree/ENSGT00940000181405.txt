@@ -1,0 +1,1 @@
+(ENSSMAG00000008699__Scophthalmus_maximus,ENSPKIG00000022349__Paramormyrops_kingsleyae);

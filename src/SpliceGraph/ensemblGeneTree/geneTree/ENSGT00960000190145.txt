@@ -1,0 +1,1 @@
+((ENSSDAG00000013379__Spermophilus_dauricus,ENSMICG00000043092__Microcebus_murinus),ENSLCOG00000007332__Lepidothrix_coronata);

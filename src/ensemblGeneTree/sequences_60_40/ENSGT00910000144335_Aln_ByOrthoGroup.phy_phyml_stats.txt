@@ -21,10 +21,10 @@
   - Gamma shape parameter: 		0.024
 
 . Run ID:				none
-. Random seed:				1580961779
+. Random seed:				1594961007
 . Subtree patterns aliasing:		no
 . Version:				20120412
-. Time used:				0h0m2s (2 seconds)
+. Time used:				0h0m1s (1 seconds)
 
  oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
  Suggested citations:
@@ -44,19 +44,19 @@
 . Initial tree: 			user tree (ensemblGeneTree/trees_60_40/ENSGT00910000144335.nw)
 . Model of amino acids substitution: 	LG
 . Number of taxa: 			11
-. Log-likelihood: 			-1391.46627
+. Log-likelihood: 			-1316.08352
 . Unconstrained likelihood: 		-1348.16080
-. Parsimony: 				58
-. Tree size: 				0.30271
+. Parsimony: 				38
+. Tree size: 				0.12262
 . Discrete gamma model: 		Yes
   - Number of categories: 		4
-  - Gamma shape parameter: 		0.017
+  - Gamma shape parameter: 		0.024
 
 . Run ID:				none
-. Random seed:				1580961779
+. Random seed:				1594961007
 . Subtree patterns aliasing:		no
 . Version:				20120412
-. Time used:				0h0m1s (1 seconds)
+. Time used:				0h0m2s (2 seconds)
 
  oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
  Suggested citations:
@@ -76,19 +76,19 @@
 . Initial tree: 			user tree (ensemblGeneTree/trees_60_40/ENSGT00910000144335.nw)
 . Model of amino acids substitution: 	LG
 . Number of taxa: 			11
-. Log-likelihood: 			-1316.08352
+. Log-likelihood: 			-1321.51530
 . Unconstrained likelihood: 		-1348.16080
-. Parsimony: 				38
-. Tree size: 				0.12262
+. Parsimony: 				40
+. Tree size: 				0.13466
 . Discrete gamma model: 		Yes
   - Number of categories: 		4
   - Gamma shape parameter: 		0.024
 
 . Run ID:				none
-. Random seed:				1580961779
+. Random seed:				1594961007
 . Subtree patterns aliasing:		no
 . Version:				20120412
-. Time used:				0h0m1s (1 seconds)
+. Time used:				0h0m2s (2 seconds)
 
  oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
  Suggested citations:
@@ -117,7 +117,7 @@
   - Gamma shape parameter: 		0.024
 
 . Run ID:				none
-. Random seed:				1580961779
+. Random seed:				1594961007
 . Subtree patterns aliasing:		no
 . Version:				20120412
 . Time used:				0h0m2s (2 seconds)

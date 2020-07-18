@@ -1,0 +1,1 @@
+(ENSNSUG00000006364__Notechis_scutatus,ENSAPLG00000025914__Anas_platyrhynchos_platyrhynchos);

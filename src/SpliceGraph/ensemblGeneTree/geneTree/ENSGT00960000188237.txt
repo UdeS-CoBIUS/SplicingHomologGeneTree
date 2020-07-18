@@ -1,0 +1,1 @@
+((((ENSFALG00000014680__Ficedula_albicollis,ENSJHYG00000012260__Junco_hyemalis),ENSCPUG00000016250__Calidris_pugnax),ENSMUNG00000002932__Melopsittacus_undulatus),((ENSMGAG00000002989__Meleagris_gallopavo,ENSGALG00000027490__Gallus_gallus),ENSNMEG00000005326__Numida_meleagris));

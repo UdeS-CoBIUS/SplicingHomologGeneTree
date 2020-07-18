@@ -1,0 +1,1 @@
+(((ENSMFAG00000001956__Macaca_fascicularis,ENSMMUG00000043902__Macaca_mulatta),(((ENSMNEG00000015357__Macaca_nemestrina,ENSMMUG00000045912__Macaca_mulatta),ENSTGEG00000005195__Theropithecus_gelada),ENSCATG00000014123__Cercocebus_atys)),(ENSPTEG00000027729__Piliocolobus_tephrosceles,ENSCANG00000030964__Colobus_angolensis_palliatus));

@@ -1,0 +1,1 @@
+(((ENSTGEG00000020048__Theropithecus_gelada,ENSCATG00000002488__Cercocebus_atys),(ENSMNEG00000034652__Macaca_nemestrina,ENSMMUG00000011422__Macaca_mulatta)),(ENSSBOG00000014497__Saimiri_boliviensis_boliviensis,ENSCJAG00000047072__Callithrix_jacchus));

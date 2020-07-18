@@ -1,0 +1,1 @@
+(((((ENSXMAG00000027859__Xiphophorus_maculatus,ENSXCOG00000007840__Xiphophorus_couchianus),ENSMZEG00005012192__Maylandia_zebra),ENSSLDG00000001438__Seriola_lalandi_dorsalis),ENSELUG00000004567__Esox_lucius),ENSCJPG00005000042__Coturnix_japonica);

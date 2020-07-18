@@ -1,1 +1,0 @@
-((((ENSMLEG00000040497__Mandrillus_leucophaeus,ENSCANG00000001807__Colobus_angolensis_palliatus),ENSPTEG00000031111__Piliocolobus_tephrosceles),((ENSPPAG00000033994__Pan_paniscus,ENSPTRG00000046700__Pan_troglodytes),ENSGGOG00000039051__Gorilla_gorilla)),ENSSBOG00000015796__Saimiri_boliviensis_boliviensis);

@@ -1,0 +1,8 @@
+>cluster_0
+FBtr0070618
+>cluster_1
+FBtr0070617
+>cluster_2
+FBtr0076683	YER120W_mRNA	YBL091C-A_mRNA	FBtr0070616
+>cluster_3
+F54H5.3.1	FBtr0342739

@@ -1,0 +1,9 @@
+POECILIAFORMOSA	poecilia_formosa
+GASTEROSTEUSACULEATUS	gasterosteus_aculeatus
+DANIORERIO	danio_rerio
+LEPISOSTEUSOCULATUS	lepisosteus_oculatus
+CIONAINTESTINALIS	ciona_intestinalis
+CIONASAVIGNYI	ciona_savignyi
+CIONAINTESTINALIS	ciona_intestinalis
+CIONAINTESTINALIS	ciona_intestinalis
+LEPISOSTEUSOCULATUS	lepisosteus_oculatus

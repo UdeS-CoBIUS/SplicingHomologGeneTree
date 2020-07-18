@@ -1,1 +1,0 @@
-(ENSMSIG00000010968__Mus_spicilegus,ENSPEMG00000027700__Peromyscus_maniculatus_bairdii);

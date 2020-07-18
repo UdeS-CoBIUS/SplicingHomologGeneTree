@@ -1,1 +1,0 @@
-(ENSACAG00000010206__Anolis_carolinensis,WBGene00003173__Caenorhabditis_elegans_strain_N2);

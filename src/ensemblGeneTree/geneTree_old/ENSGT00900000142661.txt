@@ -1,1 +1,0 @@
-((ENSSPUG00000019294__Sphenodon_punctatus,ENSOANG00000029659__Ornithorhynchus_anatinus),ENSCSAVG00000006394__Ciona_savignyi);

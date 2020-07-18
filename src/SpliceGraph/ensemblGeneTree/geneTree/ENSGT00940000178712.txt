@@ -1,0 +1,1 @@
+((ENSFHEG00000017482__Fundulus_heteroclitus,ENSOMEG00000011527__Oryzias_melastigma),(ENSSLDG00000003133__Seriola_lalandi_dorsalis,ENSLBEG00000018723__Labrus_bergylta));

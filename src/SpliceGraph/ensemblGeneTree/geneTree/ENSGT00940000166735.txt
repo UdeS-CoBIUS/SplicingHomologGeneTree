@@ -1,0 +1,1 @@
+(((((ENSAMEG00000008019__Ailuropoda_melanoleuca,ENSCAFG00000031476__Canis_lupus_familiaris),(ENSOARG00000010767__Ovis_aries,ENSBMUG00000022124__Bos_mutus)),ENSOCUG00000027052__Oryctolagus_cuniculus),ENSDNOG00000041755__Dasypus_novemcinctus),(ENSMODG00000005311__Monodelphis_domestica,ENSSHAG00000006266__Sarcophilus_harrisii));

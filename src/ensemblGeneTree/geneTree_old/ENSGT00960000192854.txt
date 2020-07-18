@@ -1,1 +1,0 @@
-(ENSPVIG00000021935__Pogona_vitticeps,ENSSDUG00000018870__Seriola_dumerili);

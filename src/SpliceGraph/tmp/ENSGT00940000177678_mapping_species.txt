@@ -1,0 +1,9 @@
+SERIOLALALANDIDORSALIS	seriola_lalandi_dorsalis
+KRYPTOLEBIASMARMORATUS	kryptolebias_marmoratus
+ANABASTESTUDINEUS	anabas_testudineus
+AMPHILOPHUSCITRINELLUS	amphilophus_citrinellus
+AMPHILOPHUSCITRINELLUS	amphilophus_citrinellus
+PUNDAMILIANYEREREI	pundamilia_nyererei
+MOLAMOLA	mola_mola
+MONOPTERUSALBUS	monopterus_albus
+ICTALURUSPUNCTATUS	ictalurus_punctatus

@@ -1,0 +1,1 @@
+((((ENSPMEG00000011072__Poecilia_mexicana,ENSPLAG00000010507__Poecilia_latipinna),ENSPREG00000000363__Poecilia_reticulata),((ENSPREG00000000361__Poecilia_reticulata,ENSPLAG00000010462__Poecilia_latipinna),ENSPLAG00000000236__Poecilia_latipinna)),(ENSPNYG00000005229__Pundamilia_nyererei,ENSACLG00000021769__Astatotilapia_calliptera));

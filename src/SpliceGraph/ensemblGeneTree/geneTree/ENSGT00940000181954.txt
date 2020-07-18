@@ -1,0 +1,1 @@
+((((ENSAPLG00000023899__Anas_platyrhynchos_platyrhynchos,ENSABRG00000022853__Anser_brachyrhynchus),ENSCPUG00000017385__Calidris_pugnax),ENSMLEG00000043620__Mandrillus_leucophaeus),ENSSFOG00015021317__Scleropages_formosus);

@@ -1,0 +1,1 @@
+(ENSLOCG00000005614__Lepisosteus_oculatus,ENSSFOG00015008827__Scleropages_formosus);

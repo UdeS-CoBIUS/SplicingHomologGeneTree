@@ -1,0 +1,1 @@
+((((ENSPPRG00000011608__Panthera_pardus,ENSPPRG00000011312__Panthera_pardus),ENSFCAG00000037191__Felis_catus),ENSFCAG00000034017__Felis_catus),((((ENSPANG00000033769__Papio_anubis,ENSTGEG00000024777__Theropithecus_gelada),ENSPTEG00000008290__Piliocolobus_tephrosceles),ENSCJAG00000045678__Callithrix_jacchus),ENSCCNG00000029133__Castor_canadensis));

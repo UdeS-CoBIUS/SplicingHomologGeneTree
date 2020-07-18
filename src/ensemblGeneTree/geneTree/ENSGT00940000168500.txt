@@ -1,0 +1,1 @@
+((((ENSRBIG00000038361__Rhinopithecus_bieti,ENSRROG00000042265__Rhinopithecus_roxellana),ENSPSMG00000002727__Prolemur_simus),((ENSPTIG00000013831__Panthera_tigris_altaica,ENSPPRG00000001623__Panthera_pardus),ENSFCAG00000042941__Felis_catus)),ENSNPEG00000006969__Nothoprocta_perdicaria);

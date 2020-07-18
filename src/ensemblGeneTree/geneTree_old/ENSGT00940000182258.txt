@@ -1,1 +1,0 @@
-(ENSSDUG00000019627__Seriola_dumerili,ENSSDUG00000022722__Seriola_dumerili);

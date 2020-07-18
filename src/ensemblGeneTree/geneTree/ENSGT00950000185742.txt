@@ -1,0 +1,1 @@
+((ENSGALG00000047129__Gallus_gallus,ENSLSDG00000005860__Lonchura_striata_domestica),ENSGAGG00000012371__Gopherus_agassizii);

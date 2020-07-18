@@ -1,0 +1,1 @@
+((((ENSJJAG00000012690__Jaculus_jaculus,ENSJJAG00000020382__Jaculus_jaculus),ENSDORG00000026088__Dipodomys_ordii),ENSSSCG00000015078__Sus_scrofa),ENSLAFG00000020704__Loxodonta_africana);

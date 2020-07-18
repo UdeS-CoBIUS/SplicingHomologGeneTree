@@ -1,0 +1,1 @@
+((((ENSMMMG00000004358__Marmota_marmota_marmota,ENSUPAG00010017815__Urocitellus_parryii),ENSSDAG00000003832__Spermophilus_dauricus),((ENSCGRG00015023312__Cricetulus_griseus_CriGri-PICR,ENSPEMG00000029230__Peromyscus_maniculatus_bairdii),ENSMUGG00000007632__Meriones_unguiculatus)),ENSUAMG00000018314__Ursus_americanus);

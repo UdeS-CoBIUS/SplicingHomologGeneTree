@@ -1,0 +1,1 @@
+(((ENSG00000267545__Homo_sapiens,ENSGGOG00000028003__Gorilla_gorilla),ENSSBOG00000032180__Saimiri_boliviensis_boliviensis),ENSAMEG00000019691__Ailuropoda_melanoleuca);

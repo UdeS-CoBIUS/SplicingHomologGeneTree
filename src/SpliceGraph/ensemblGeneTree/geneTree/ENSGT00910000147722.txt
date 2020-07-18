@@ -1,0 +1,1 @@
+(((ENSGGOG00000043364__Gorilla_gorilla,ENSNLEG00000032933__Nomascus_leucogenys),(ENSTGEG00000023679__Theropithecus_gelada,ENSRBIG00000029937__Rhinopithecus_bieti)),ENSANAG00000029629__Aotus_nancymaae);

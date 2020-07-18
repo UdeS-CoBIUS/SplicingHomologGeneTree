@@ -1,0 +1,4 @@
+FBpp0271755	FBgn0028703	Drosophila_melanogaster	FBtr0273247
+F57C7.2a.1	WBGene00003733	Caenorhabditis_elegans_strain_N2	F57C7.2a.1
+ENSCINP00000019440	ENSCING00000018056	Ciona_intestinalis	ENSCINT00000019440
+YDR456W_mRNA	YDR456W	Saccharomyces_cerevisiae_strain_S288C

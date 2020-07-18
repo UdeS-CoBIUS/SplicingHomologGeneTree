@@ -1,0 +1,1 @@
+(((ENSAOWG00000019505__Apteryx_owenii,ENSAHAG00000012096__Apteryx_haastii),ENSARWG00000001780__Apteryx_rowi),ENSUAMG00000002047__Ursus_americanus);

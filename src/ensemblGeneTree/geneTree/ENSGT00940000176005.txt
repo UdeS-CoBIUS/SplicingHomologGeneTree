@@ -1,0 +1,1 @@
+(((((((ENSFHEG00000002721__Fundulus_heteroclitus,ENSCVAG00000017667__Cyprinodon_variegatus),ENSGAFG00000017490__Gambusia_affinis),ENSOMEG00000003468__Oryzias_melastigma),ENSAOCG00000002347__Amphiprion_ocellaris),ENSMMOG00000014083__Mola_mola),ENSXMAG00000013713__Xiphophorus_maculatus),(ENSMALG00000012428__Monopterus_albus,ENSHCOG00000010313__Hippocampus_comes));

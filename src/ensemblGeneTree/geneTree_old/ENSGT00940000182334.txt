@@ -1,1 +1,0 @@
-(ENSCVAG00000007493__Cyprinodon_variegatus,ENSPREG00000005844__Poecilia_reticulata);

@@ -1,0 +1,13 @@
+PANTROGLODYTES	pan_troglodytes
+HOMOSAPIENS	homo_sapiens
+PILIOCOLOBUSTEPHROSCELES	piliocolobus_tephrosceles
+THEROPITHECUSGELADA	theropithecus_gelada
+PANPANISCUS	pan_paniscus
+PANTROGLODYTES	pan_troglodytes
+GORILLAGORILLA	gorilla_gorilla
+HOMOSAPIENS	homo_sapiens
+CHLOROCEBUSSABAEUS	chlorocebus_sabaeus
+THEROPITHECUSGELADA	theropithecus_gelada
+PILIOCOLOBUSTEPHROSCELES	piliocolobus_tephrosceles
+BOSINDICUS	bos_indicus
+MONODELPHISDOMESTICA	monodelphis_domestica

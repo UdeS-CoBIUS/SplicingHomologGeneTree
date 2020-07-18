@@ -1,0 +1,16 @@
+>0
+ENSGWIT00000022916: ['no event', 4, 0]
+ENSGWIT00000017114: ['exon skipping', 0, 0]
+ENSGWIT00000022919: ['exon skipping', 0, 0]
+>1
+ENSGWIT00000022916: [['internal gap < 30', 227, 7], 253, 2]
+ENSGWIT00000017114: ['3event', '5event', 154, 0]
+ENSGWIT00000022919: ['5event', ['internal gap < 30', 210, 24], 236, 0]
+>2
+ENSGWIT00000022916: ['exon skipping', 0, 0]
+ENSGWIT00000017114: ['5event', 97, 1]
+ENSGWIT00000022919: ['exon skipping', 0, 0]
+>3
+ENSGWIT00000022916: ['5event', ['internal gap >= 30', 1953, 548], 2141, 0]
+ENSGWIT00000017114: [['internal gap >= 30', 1861, 640], 2049, 0]
+ENSGWIT00000022919: ['3event', '5event', 1935, 0]

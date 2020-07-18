@@ -1,0 +1,1 @@
+(((ENSNMEG00000007430__Numida_meleagris,ENSCPUG00000013559__Calidris_pugnax),(ENSMUNG00000016597__Melopsittacus_undulatus,ENSMUNG00000015543__Melopsittacus_undulatus)),ENSNPEG00000015887__Nothoprocta_perdicaria);

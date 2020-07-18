@@ -1,0 +1,1 @@
+(((((ENSCPUG00000018235__Calidris_pugnax,ENSCPGG00000014542__Calidris_pygmaea),ENSMUNG00000000586__Melopsittacus_undulatus),(((ENSGALG00000031444__Gallus_gallus,ENSCJPG00005000894__Coturnix_japonica),ENSNMEG00000007400__Numida_meleagris),ENSABRG00000020320__Anser_brachyrhynchus)),ENSNPEG00000009304__Nothoprocta_perdicaria),ENSCABG00000018806__Chelonoidis_abingdonii);

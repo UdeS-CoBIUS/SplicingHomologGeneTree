@@ -1,0 +1,2 @@
+ORYCTOLAGUSCUNICULUS	oryctolagus_cuniculus
+OVISARIES	ovis_aries

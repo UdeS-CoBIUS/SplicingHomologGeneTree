@@ -1,1 +1,0 @@
-(((((ENSMMMG00000013877__Marmota_marmota_marmota,ENSMMMG00000014726__Marmota_marmota_marmota),ENSUPAG00010011365__Urocitellus_parryii),ENSMSIG00000016133__Mus_spicilegus),(ENSPANG00000033387__Papio_anubis,ENSCATG00000031133__Cercocebus_atys)),(ENSVVUG00000019779__Vulpes_vulpes,ENSCAFG00020007839__Canis_lupus_dingo));

@@ -1,0 +1,1 @@
+(((ENSCABG00000003364__Chelonoidis_abingdonii,ENSCPGG00000002447__Calidris_pygmaea),ENSACAG00000006271__Anolis_carolinensis),((ENSUAMG00000014922__Ursus_americanus,ENSSARG00000009712__Sorex_araneus),ENSSDAG00000021125__Spermophilus_dauricus));

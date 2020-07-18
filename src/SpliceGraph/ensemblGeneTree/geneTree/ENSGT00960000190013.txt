@@ -1,0 +1,1 @@
+(((ENSJHYG00000014757__Junco_hyemalis,ENSLSDG00000012927__Lonchura_striata_domestica),ENSAPLG00000028864__Anas_platyrhynchos_platyrhynchos),ENSNBRG00000003418__Neolamprologus_brichardi);

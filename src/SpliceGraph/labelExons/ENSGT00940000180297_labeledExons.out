@@ -1,0 +1,8 @@
+>0
+ENSAPET00000004217: ['no event', 14, 0]
+ENSAOCT00000007179: ['no event', 14, 0]
+ENSSPAT00000007000: ['no event', 14, 0]
+>1
+ENSAPET00000004217: [['internal gap < 30', 22, 12], 167, 0]
+ENSAOCT00000007179: [['internal gap < 30', 22, 12], 167, 0]
+ENSSPAT00000007000: ['no event', 179, 0]

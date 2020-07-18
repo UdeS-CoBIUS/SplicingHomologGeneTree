@@ -1,0 +1,1 @@
+(((((ENSCABG00000011802__Chelonoidis_abingdonii,ENSCABG00000008347__Chelonoidis_abingdonii),ENSCABG00000013279__Chelonoidis_abingdonii),ENSPSIG00000012739__Pelodiscus_sinensis),(ENSPSIG00000013614__Pelodiscus_sinensis,ENSCABG00000018967__Chelonoidis_abingdonii)),ENSNSUG00000007377__Notechis_scutatus);

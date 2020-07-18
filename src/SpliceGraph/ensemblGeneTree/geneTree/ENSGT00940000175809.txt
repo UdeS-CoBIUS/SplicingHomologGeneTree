@@ -1,0 +1,1 @@
+(((ENSTNIG00000001734__Tetraodon_nigroviridis,ENSLBEG00000008786__Labrus_bergylta),ENSCVAG00000009218__Cyprinodon_variegatus),ENSPKIG00000008394__Paramormyrops_kingsleyae);

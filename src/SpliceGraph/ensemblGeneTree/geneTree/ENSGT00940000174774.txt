@@ -1,0 +1,1 @@
+((((ENSMZEG00005015985__Maylandia_zebra,ENSACLG00000002573__Astatotilapia_calliptera),ENSACLG00000000587__Astatotilapia_calliptera),ENSACLG00000018438__Astatotilapia_calliptera),ENSONIG00000011326__Oreochromis_niloticus);

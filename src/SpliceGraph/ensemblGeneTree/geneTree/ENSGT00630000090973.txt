@@ -1,0 +1,1 @@
+((ENSFALG00000000680__Ficedula_albicollis,ENSTGUG00000007462__Taeniopygia_guttata),ENSMLUG00000006067__Myotis_lucifugus);

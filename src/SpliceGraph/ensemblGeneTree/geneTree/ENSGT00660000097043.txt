@@ -1,0 +1,1 @@
+((((((ENSMPUG00000007388__Mustela_putorius_furo,ENSOARG00000007198__Ovis_aries),ENSDNOG00000033511__Dasypus_novemcinctus),ENSMODG00000028748__Monodelphis_domestica),ENSGALG00000046863__Gallus_gallus),ENSLACG00000015793__Latimeria_chalumnae),((ENSPFOG00000023506__Poecilia_formosa,ENSPFOG00000021704__Poecilia_formosa),ENSLOCG00000007701__Lepisosteus_oculatus));

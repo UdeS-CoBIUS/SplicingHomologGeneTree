@@ -1,0 +1,125 @@
+>0
+ENSXETT00000012349: ['exon skipping', 0, 0]
+ENSXETT00000012357: ['exon skipping', 0, 0]
+ENSXETT00000012370: ['exon skipping', 0, 0]
+ENSXETT00000012408: ['no event', 83, 0]
+>1
+ENSXETT00000012349: ['exon skipping', 0, 0]
+ENSXETT00000012357: ['exon skipping', 0, 0]
+ENSXETT00000012370: ['exon skipping', 0, 0]
+ENSXETT00000012408: ['no event', 43, 0]
+>2
+ENSXETT00000012349: ['exon skipping', 0, 0]
+ENSXETT00000012357: ['exon skipping', 0, 0]
+ENSXETT00000012370: ['exon skipping', 0, 0]
+ENSXETT00000012408: ['no event', 109, 2]
+>3
+ENSXETT00000012349: ['exon skipping', 0, 0]
+ENSXETT00000012357: ['exon skipping', 0, 0]
+ENSXETT00000012370: ['exon skipping', 0, 0]
+ENSXETT00000012408: ['no event', 62, 1]
+>4
+ENSXETT00000012349: ['exon skipping', 0, 0]
+ENSXETT00000012357: ['5event', 353, 0]
+ENSXETT00000012370: ['5event', 353, 0]
+ENSXETT00000012408: ['no event', 482, 1]
+>5
+ENSXETT00000012349: ['5event', 53, 0]
+ENSXETT00000012357: ['exon skipping', 0, 0]
+ENSXETT00000012370: ['exon skipping', 0, 0]
+ENSXETT00000012408: ['exon skipping', 0, 0]
+>6
+ENSXETT00000012349: ['exon skipping', 0, 0]
+ENSXETT00000012357: ['5event', ['internal gap < 30', 47, 2], 59, 0]
+ENSXETT00000012370: ['5event', ['internal gap < 30', 47, 2], 59, 0]
+ENSXETT00000012408: ['5event', ['internal gap < 30', 47, 2], 59, 0]
+>7
+ENSXETT00000012349: ['5event', 110, 0]
+ENSXETT00000012357: ['no event', 111, 0]
+ENSXETT00000012370: ['no event', 111, 0]
+ENSXETT00000012408: ['no event', 111, 0]
+>8
+ENSXETT00000012349: ['no event', 97, 0]
+ENSXETT00000012357: ['no event', 97, 0]
+ENSXETT00000012370: ['no event', 97, 0]
+ENSXETT00000012408: ['no event', 97, 0]
+>9
+ENSXETT00000012349: ['no event', 63, 2]
+ENSXETT00000012357: ['no event', 63, 2]
+ENSXETT00000012370: ['no event', 63, 2]
+ENSXETT00000012408: ['no event', 63, 2]
+>10
+ENSXETT00000012349: ['no event', 143, 0]
+ENSXETT00000012357: ['no event', 143, 0]
+ENSXETT00000012370: ['no event', 143, 0]
+ENSXETT00000012408: ['no event', 143, 0]
+>11
+ENSXETT00000012349: ['no event', 109, 0]
+ENSXETT00000012357: ['no event', 109, 0]
+ENSXETT00000012370: ['no event', 109, 0]
+ENSXETT00000012408: ['no event', 109, 0]
+>12
+ENSXETT00000012349: ['no event', 165, 2]
+ENSXETT00000012357: ['no event', 165, 2]
+ENSXETT00000012370: ['no event', 165, 2]
+ENSXETT00000012408: ['3event', 156, 2]
+>13
+ENSXETT00000012349: ['exon skipping', 0, 0]
+ENSXETT00000012357: ['exon skipping', 0, 0]
+ENSXETT00000012370: ['exon skipping', 0, 0]
+ENSXETT00000012408: ['5event', 20, 0]
+>14
+ENSXETT00000012349: ['5event', 448, 0]
+ENSXETT00000012357: ['5event', 448, 0]
+ENSXETT00000012370: ['5event', 448, 0]
+ENSXETT00000012408: ['no event', 449, 0]
+>15
+ENSXETT00000012349: ['no event', 154, 2]
+ENSXETT00000012357: ['no event', 154, 2]
+ENSXETT00000012370: ['no event', 154, 2]
+ENSXETT00000012408: ['no event', 154, 2]
+>16
+ENSXETT00000012349: ['no event', 112, 1]
+ENSXETT00000012357: ['no event', 112, 1]
+ENSXETT00000012370: ['no event', 112, 1]
+ENSXETT00000012408: ['3event', 73, 1]
+>17
+ENSXETT00000012349: ['no event', 122, 0]
+ENSXETT00000012357: ['3event', 111, 0]
+ENSXETT00000012370: ['no event', 122, 0]
+ENSXETT00000012408: ['5event', 119, 0]
+>18
+ENSXETT00000012349: ['exon skipping', 0, 0]
+ENSXETT00000012357: ['exon skipping', 0, 0]
+ENSXETT00000012370: ['exon skipping', 0, 0]
+ENSXETT00000012408: ['no event', 8, 0]
+>19
+ENSXETT00000012349: ['5event', 89, 0]
+ENSXETT00000012357: ['5event', 89, 0]
+ENSXETT00000012370: ['5event', 89, 0]
+ENSXETT00000012408: ['no event', 91, 0]
+>20
+ENSXETT00000012349: ['no event', 702, 0]
+ENSXETT00000012357: [['internal gap >= 30', 147, 33], 669, 0]
+ENSXETT00000012370: ['no event', 702, 0]
+ENSXETT00000012408: ['3event', 692, 0]
+>21
+ENSXETT00000012349: [['internal gap < 30', 2, 9], 174, 1]
+ENSXETT00000012357: [['internal gap < 30', 2, 9], 174, 1]
+ENSXETT00000012370: [['internal gap < 30', 2, 9], 174, 1]
+ENSXETT00000012408: ['5event', 181, 1]
+>22
+ENSXETT00000012349: ['no event', 155, 0]
+ENSXETT00000012357: ['no event', 155, 0]
+ENSXETT00000012370: ['no event', 155, 0]
+ENSXETT00000012408: ['no event', 155, 0]
+>23
+ENSXETT00000012349: ['no event', 57, 0]
+ENSXETT00000012357: ['no event', 57, 0]
+ENSXETT00000012370: ['no event', 57, 0]
+ENSXETT00000012408: ['no event', 57, 0]
+>24
+ENSXETT00000012349: ['no event', 700, 1]
+ENSXETT00000012357: ['no event', 700, 1]
+ENSXETT00000012370: ['no event', 700, 1]
+ENSXETT00000012408: ['no event', 700, 1]

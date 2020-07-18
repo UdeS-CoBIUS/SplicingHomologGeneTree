@@ -1,1 +1,0 @@
-(ENSMGAG00000004361__Meleagris_gallopavo,ENSSPUG00000011930__Sphenodon_punctatus);

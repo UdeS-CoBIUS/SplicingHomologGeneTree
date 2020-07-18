@@ -1,1 +1,0 @@
-(((ENSPMEG00000022774__Poecilia_mexicana,ENSXMAG00000019470__Xiphophorus_maculatus),ENSFHEG00000018320__Fundulus_heteroclitus),ENSNBRG00000013710__Neolamprologus_brichardi);

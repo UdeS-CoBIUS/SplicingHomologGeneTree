@@ -1,0 +1,1 @@
+((ENSMUGG00000006305__Meriones_unguiculatus,ENSCGRG00015027792__Cricetulus_griseus_CriGri-PICR),((ENSMLEG00000039806__Mandrillus_leucophaeus,ENSTGEG00000001560__Theropithecus_gelada),(ENSANAG00000024811__Aotus_nancymaae,ENSCCAG00000032122__Cebus_capucinus_imitator)));

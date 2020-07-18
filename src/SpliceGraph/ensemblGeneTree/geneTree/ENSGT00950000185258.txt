@@ -1,0 +1,1 @@
+((ENSEASG00005004398__Equus_asinus_asinus,ENSUAMG00000022866__Ursus_americanus),ENSCPBG00000006070__Chrysemys_picta_bellii);

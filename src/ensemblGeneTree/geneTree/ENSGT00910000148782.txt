@@ -1,0 +1,1 @@
+((ENSCANG00000016426__Colobus_angolensis_palliatus,ENSPTEG00000021752__Piliocolobus_tephrosceles),(ENSMLEG00000027691__Mandrillus_leucophaeus,ENSPANG00000036155__Papio_anubis));

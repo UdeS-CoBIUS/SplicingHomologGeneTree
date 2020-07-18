@@ -1,0 +1,1 @@
+((((ENSMGAG00000002975__Meleagris_gallopavo,ENSMGAG00000002969__Meleagris_gallopavo),ENSNMEG00000005322__Numida_meleagris),((ENSMUNG00000002907__Melopsittacus_undulatus,ENSMUNG00000007114__Melopsittacus_undulatus),ENSJHYG00000012265__Junco_hyemalis)),(ENSARWG00000012540__Apteryx_rowi,ENSDNVG00000007205__Dromaius_novaehollandiae));

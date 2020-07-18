@@ -1,1 +1,0 @@
-((ENSAPOG00000015717__Acanthochromis_polyacanthus,ENSAPOG00000017911__Acanthochromis_polyacanthus),ENSIPUG00000018283__Ictalurus_punctatus);

@@ -1,0 +1,1 @@
+(ENSPTRG00000042847__Pan_troglodytes,ENSPPAG00000004525__Pan_paniscus);

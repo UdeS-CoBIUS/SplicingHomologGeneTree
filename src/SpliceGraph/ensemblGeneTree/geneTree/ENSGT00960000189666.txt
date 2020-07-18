@@ -1,0 +1,1 @@
+((((ENSAPLG00000019003__Anas_platyrhynchos_platyrhynchos,ENSABRG00000010633__Anser_brachyrhynchus),ENSCJPG00005017898__Coturnix_japonica),ENSLSDG00000002964__Lonchura_striata_domestica),ENSNPEG00000002384__Nothoprocta_perdicaria);

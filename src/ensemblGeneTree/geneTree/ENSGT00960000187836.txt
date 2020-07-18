@@ -1,0 +1,1 @@
+(((ENSPPYG00000008085__Pongo_abelii,ENSPTEG00000039852__Piliocolobus_tephrosceles),((ENSMLEG00000032926__Mandrillus_leucophaeus,ENSTGEG00000000868__Theropithecus_gelada),ENSPPYG00000011294__Pongo_abelii)),ENSSCAG00000000561__Serinus_canaria);

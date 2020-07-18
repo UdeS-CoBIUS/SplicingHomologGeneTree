@@ -1,0 +1,1 @@
+(((ENSGACG00000018922__Gasterosteus_aculeatus,ENSTNIG00000007424__Tetraodon_nigroviridis),((ENSPFOG00000021812__Poecilia_formosa,ENSPFOG00000023591__Poecilia_formosa),ENSXMAG00000023551__Xiphophorus_maculatus)),((ENSLOCG00000002589__Lepisosteus_oculatus,ENSLOCG00000002651__Lepisosteus_oculatus),ENSLOCG00000002605__Lepisosteus_oculatus));

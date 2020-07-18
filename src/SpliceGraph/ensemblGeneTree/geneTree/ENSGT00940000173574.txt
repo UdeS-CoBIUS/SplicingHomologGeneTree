@@ -1,0 +1,1 @@
+((ENSPLAG00000003939__Poecilia_latipinna,ENSSLDG00000011041__Seriola_lalandi_dorsalis),(((ENSBBBG00000017456__Bison_bison_bison,ENSBMUG00000008075__Bos_mutus),ENSEEUG00000004545__Erinaceus_europaeus),ENSPCOG00000022556__Propithecus_coquereli));

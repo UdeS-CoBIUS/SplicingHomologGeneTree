@@ -1,0 +1,1 @@
+((ENSECAG00000034152__Equus_caballus,ENSEASG00005009474__Equus_asinus_asinus),ENSCLAG00000014687__Chinchilla_lanigera);

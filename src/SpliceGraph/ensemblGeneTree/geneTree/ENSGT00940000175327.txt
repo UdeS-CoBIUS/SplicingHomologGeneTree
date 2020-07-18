@@ -1,0 +1,1 @@
+((((((ENSPLAG00000006493__Poecilia_latipinna,ENSPMEG00000024336__Poecilia_mexicana),ENSPREG00000001428__Poecilia_reticulata),ENSXMAG00000025733__Xiphophorus_maculatus),ENSACIG00000007818__Amphilophus_citrinellus),ENSSLDG00000005834__Seriola_lalandi_dorsalis),ENSGMOG00000003098__Gadus_morhua);

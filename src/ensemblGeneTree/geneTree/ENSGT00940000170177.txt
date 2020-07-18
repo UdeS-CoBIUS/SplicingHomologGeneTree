@@ -1,0 +1,1 @@
+((((ENSMSIG00000020732__Mus_spicilegus,ENSCCNG00000017766__Castor_canadensis),(ENSRBIG00000037832__Rhinopithecus_bieti,ENSRROG00000037359__Rhinopithecus_roxellana)),ENSECAG00000038762__Equus_caballus),ENSPCAG00000003065__Procavia_capensis);

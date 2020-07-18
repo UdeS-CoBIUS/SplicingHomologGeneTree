@@ -1,1 +1,0 @@
-((ENSAMXG00000035325__Astyanax_mexicanus,ENSIPUG00000004385__Ictalurus_punctatus),ENSPVIG00000002592__Pogona_vitticeps);

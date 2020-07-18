@@ -1,1 +1,0 @@
-((ENSCSEG00000001297__Cynoglossus_semilaevis,ENSATEG00000001169__Anabas_testudineus),ENSZALG00000005887__Zonotrichia_albicollis);

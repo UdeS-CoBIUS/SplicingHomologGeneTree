@@ -1,0 +1,1 @@
+((((ENSATEG00000008271__Anabas_testudineus,ENSATEG00000021504__Anabas_testudineus),ENSATEG00000011314__Anabas_testudineus),ENSATEG00000016161__Anabas_testudineus),ENSCPUG00000000082__Calidris_pugnax);

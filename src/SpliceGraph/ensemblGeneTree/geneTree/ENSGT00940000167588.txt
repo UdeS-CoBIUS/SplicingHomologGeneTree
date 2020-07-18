@@ -1,0 +1,1 @@
+(((((ENSCPOG00000010184__Cavia_porcellus,ENSODEG00000003858__Octodon_degus),ENSDORG00000009775__Dipodomys_ordii),ENSJJAG00000013215__Jaculus_jaculus),ENSTBEG00000008480__Tupaia_belangeri),ENSCAFG00000023343__Canis_lupus_familiaris);

@@ -1,1 +1,0 @@
-(ENSMODG00000027676__Monodelphis_domestica,ENSPKIG00000022502__Paramormyrops_kingsleyae);

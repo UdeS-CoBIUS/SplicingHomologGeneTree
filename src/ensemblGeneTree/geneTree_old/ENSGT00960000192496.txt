@@ -1,1 +1,0 @@
-(ENSAOWG00000006663__Apteryx_owenii,ENSNPEG00000012719__Nothoprocta_perdicaria);

@@ -1,0 +1,1 @@
+(((ENSCABG00000016303__Chelonoidis_abingdonii,ENSCABG00000011080__Chelonoidis_abingdonii),ENSNSUG00000018402__Notechis_scutatus),(ENSMOCG00000016231__Microtus_ochrogaster,ENSTSYG00000027654__Carlito_syrichta));

@@ -1,1 +1,0 @@
-(((((ENSSLDG00000013237__Seriola_lalandi_dorsalis,ENSAPOG00000008549__Acanthochromis_polyacanthus),ENSTRUG00000022272__Takifugu_rubripes),ENSKMAG00000005469__Kryptolebias_marmoratus),ENSSFOG00015011859__Scleropages_formosus),ENSNSUG00000003055__Notechis_scutatus);

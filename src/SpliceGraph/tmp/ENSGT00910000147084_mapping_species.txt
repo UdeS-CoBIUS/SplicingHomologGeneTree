@@ -1,0 +1,10 @@
+GORILLAGORILLA	gorilla_gorilla
+PANTROGLODYTES	pan_troglodytes
+RHINOPITHECUSBIETI	rhinopithecus_bieti
+PILIOCOLOBUSTEPHROSCELES	piliocolobus_tephrosceles
+PAPIOANUBIS	papio_anubis
+THEROPITHECUSGELADA	theropithecus_gelada
+RHINOPITHECUSROXELLANA	rhinopithecus_roxellana
+COLOBUSANGOLENSIS	colobus_angolensis
+MACACAFASCICULARIS	macaca_fascicularis
+CEBUSCAPUCINUS	cebus_capucinus

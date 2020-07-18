@@ -1,0 +1,6 @@
+>cluster_0
+FBtr0088857
+>cluster_1
+ENSCSAVT00000009005	FBtr0088858
+>cluster_2
+FBtr0339122

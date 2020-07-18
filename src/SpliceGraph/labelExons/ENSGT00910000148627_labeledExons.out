@@ -1,0 +1,12 @@
+>0
+ENSPPAT00000004959: ['no event', 259, 0]
+ENSPTRT00000089157: ['no event', 259, 0]
+>1
+ENSPPAT00000004959: ['no event', 99, 2]
+ENSPTRT00000089157: ['no event', 99, 2]
+>2
+ENSPPAT00000004959: ['no event', 11, 0]
+ENSPTRT00000089157: ['exon skipping', 0, 0]
+>3
+ENSPPAT00000004959: ['no event', 170, 0]
+ENSPTRT00000089157: ['5event', 167, 0]

@@ -1,1 +1,0 @@
-(((ENSAPEG00000005266__Amphiprion_percula,ENSPMGG00000012379__Periophthalmus_magnuspinnatus),ENSMMOG00000016632__Mola_mola),(ENSPNAG00000002734__Pygocentrus_nattereri,ENSAMXG00000037972__Astyanax_mexicanus));

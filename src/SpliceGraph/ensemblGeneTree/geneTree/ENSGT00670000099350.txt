@@ -1,0 +1,1 @@
+((ENSLOCG00000013478__Lepisosteus_oculatus,ENSPNAG00000022128__Pygocentrus_nattereri),ENSLACG00000022140__Latimeria_chalumnae);

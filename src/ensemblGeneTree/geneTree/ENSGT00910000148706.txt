@@ -1,0 +1,1 @@
+((((ENSRROG00000021532__Rhinopithecus_roxellana,ENSRROG00000037232__Rhinopithecus_roxellana),ENSCANG00000036949__Colobus_angolensis_palliatus),(ENSMUGG00000001154__Meriones_unguiculatus,ENSMUGG00000001166__Meriones_unguiculatus)),ENSUAMG00000002056__Ursus_americanus);

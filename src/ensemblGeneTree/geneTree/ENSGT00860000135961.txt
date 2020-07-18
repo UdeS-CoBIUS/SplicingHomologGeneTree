@@ -1,0 +1,1 @@
+((ENSMUSG00000034493__Mus_musculus_strain_reference_(CL57BL6),ENSMSIG00000002859__Mus_spicilegus),MGP_SPRETEiJ_G0016861__Mus_spretus_strain_SPRET/EiJ);

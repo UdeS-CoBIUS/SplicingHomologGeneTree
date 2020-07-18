@@ -1,0 +1,6 @@
+>0
+ENSPTET00000018572: ['5event', ['internal gap >= 30', 1267, 670], 1277, 0]
+YKL135C_mRNA: [['internal gap < 30', 1660, 19], 1928, 0]
+>1
+ENSPTET00000018572: ['exon skipping', 0, 0]
+YKL135C_mRNA: ['no event', 251, 0]

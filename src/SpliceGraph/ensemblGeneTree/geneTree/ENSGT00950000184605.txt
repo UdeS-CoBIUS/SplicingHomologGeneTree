@@ -1,0 +1,1 @@
+(ENSCSEG00000004427__Cynoglossus_semilaevis,ENSTRUG00000020142__Takifugu_rubripes);

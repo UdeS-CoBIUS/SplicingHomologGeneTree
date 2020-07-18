@@ -1,0 +1,1 @@
+((((ENSCCEG00000000595__Cyanistes_caeruleus,ENSMUNG00000000677__Melopsittacus_undulatus),ENSOANG00000000454__Ornithorhynchus_anatinus),ENSLACG00000018532__Latimeria_chalumnae),ENSPMGG00000019656__Periophthalmus_magnuspinnatus);

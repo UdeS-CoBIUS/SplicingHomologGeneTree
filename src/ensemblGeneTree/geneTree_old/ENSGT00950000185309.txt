@@ -1,1 +1,0 @@
-((ENSSPUG00000001089__Sphenodon_punctatus,ENSSFOG00015017247__Scleropages_formosus),ENSEBUG00000002791__Eptatretus_burgeri);

@@ -1,1 +1,0 @@
-((ENSPFOG00000022310__Poecilia_formosa,ENSPFOG00000005015__Poecilia_formosa),ENSLOCG00000010110__Lepisosteus_oculatus);

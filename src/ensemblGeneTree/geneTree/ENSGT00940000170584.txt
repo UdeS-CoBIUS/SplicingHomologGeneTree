@@ -1,0 +1,1 @@
+((ENSHGLG00100006656__Heterocephalus_glaber_HetGla_1.0,ENSHGLG00000007106__Heterocephalus_glaber_HetGla_female_1.0),ENSIPUG00000006495__Ictalurus_punctatus);

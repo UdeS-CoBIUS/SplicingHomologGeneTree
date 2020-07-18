@@ -1,1 +1,0 @@
-((ENSSSCG00000036842__Sus_scrofa,ENSDNOG00000045197__Dasypus_novemcinctus),ENSACAG00000024343__Anolis_carolinensis);

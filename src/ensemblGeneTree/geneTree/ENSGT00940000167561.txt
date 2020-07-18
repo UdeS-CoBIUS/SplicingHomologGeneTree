@@ -1,0 +1,1 @@
+(((((FBgn0038919__Drosophila_melanogaster,FBgn0051413__Drosophila_melanogaster),FBgn0038918__Drosophila_melanogaster),FBgn0033814__Drosophila_melanogaster),WBGene00020426__Caenorhabditis_elegans_strain_N2),ENSCING00000014721__Ciona_intestinalis);

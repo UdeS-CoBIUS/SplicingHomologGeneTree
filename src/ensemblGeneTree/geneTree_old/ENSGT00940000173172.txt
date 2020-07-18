@@ -1,1 +1,0 @@
-(ENSFCAG00000022280__Felis_catus,ENSCATG00000032374__Cercocebus_atys);

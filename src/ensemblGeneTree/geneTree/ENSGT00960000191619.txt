@@ -1,0 +1,1 @@
+(ENSTGEG00000011452__Theropithecus_gelada,ENSMPUG00000013378__Mustela_putorius_furo);

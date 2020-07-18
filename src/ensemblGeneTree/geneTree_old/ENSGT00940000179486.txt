@@ -1,1 +1,0 @@
-((ENSSLDG00000005979__Seriola_lalandi_dorsalis,ENSSLDG00000017747__Seriola_lalandi_dorsalis),ENSPMGG00000016923__Periophthalmus_magnuspinnatus);

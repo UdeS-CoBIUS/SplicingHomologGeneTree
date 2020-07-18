@@ -1,0 +1,1 @@
+(((ENSPMGG00000002484__Periophthalmus_magnuspinnatus,ENSMAMG00000001182__Mastacembelus_armatus),ENSSMAG00000005919__Scophthalmus_maximus),ENSTRUG00000021743__Takifugu_rubripes);

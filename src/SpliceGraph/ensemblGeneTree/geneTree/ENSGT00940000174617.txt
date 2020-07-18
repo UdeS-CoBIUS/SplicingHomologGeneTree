@@ -1,0 +1,1 @@
+((((((ENSPLAG00000019776__Poecilia_latipinna,ENSHBUG00000005974__Haplochromis_burtoni),ENSAPOG00000011770__Acanthochromis_polyacanthus),ENSSMAG00000001752__Scophthalmus_maximus),ENSHCOG00000010988__Hippocampus_comes),ENSGMOG00000006008__Gadus_morhua),(ENSAMXG00000040290__Astyanax_mexicanus,ENSPNAG00000006032__Pygocentrus_nattereri));

@@ -21,10 +21,10 @@
   - Gamma shape parameter: 		0.657
 
 . Run ID:				none
-. Random seed:				1580967232
+. Random seed:				1594948977
 . Subtree patterns aliasing:		no
 . Version:				20120412
-. Time used:				0h0m0s (0 seconds)
+. Time used:				0h0m1s (1 seconds)
 
  oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
  Suggested citations:
@@ -44,16 +44,16 @@
 . Initial tree: 			user tree (ensemblGeneTree/trees_60_40/ENSGT00930000152750.nw)
 . Model of amino acids substitution: 	LG
 . Number of taxa: 			3
-. Log-likelihood: 			-2371.02484
+. Log-likelihood: 			-2371.02472
 . Unconstrained likelihood: 		-2355.70151
 . Parsimony: 				244
-. Tree size: 				2.88332
+. Tree size: 				2.88119
 . Discrete gamma model: 		Yes
   - Number of categories: 		4
   - Gamma shape parameter: 		0.658
 
 . Run ID:				none
-. Random seed:				1580967232
+. Random seed:				1594948977
 . Subtree patterns aliasing:		no
 . Version:				20120412
 . Time used:				0h0m0s (0 seconds)
@@ -76,16 +76,16 @@
 . Initial tree: 			user tree (ensemblGeneTree/trees_60_40/ENSGT00930000152750.nw)
 . Model of amino acids substitution: 	LG
 . Number of taxa: 			3
-. Log-likelihood: 			-2371.02472
+. Log-likelihood: 			-2371.02462
 . Unconstrained likelihood: 		-2355.70151
 . Parsimony: 				244
-. Tree size: 				2.88119
+. Tree size: 				2.88502
 . Discrete gamma model: 		Yes
   - Number of categories: 		4
-  - Gamma shape parameter: 		0.658
+  - Gamma shape parameter: 		0.657
 
 . Run ID:				none
-. Random seed:				1580967232
+. Random seed:				1594948977
 . Subtree patterns aliasing:		no
 . Version:				20120412
 . Time used:				0h0m0s (0 seconds)
@@ -117,10 +117,10 @@
   - Gamma shape parameter: 		0.657
 
 . Run ID:				none
-. Random seed:				1580967232
+. Random seed:				1594948977
 . Subtree patterns aliasing:		no
 . Version:				20120412
-. Time used:				0h0m0s (0 seconds)
+. Time used:				0h0m1s (1 seconds)
 
  oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
  Suggested citations:

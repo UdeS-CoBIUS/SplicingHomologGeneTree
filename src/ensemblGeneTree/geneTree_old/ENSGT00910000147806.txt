@@ -1,1 +1,0 @@
-((ENSGGOG00000038754__Gorilla_gorilla,ENSNLEG00000028284__Nomascus_leucogenys),((ENSPANG00000033788__Papio_anubis,ENSTGEG00000019324__Theropithecus_gelada),ENSPTEG00000026765__Piliocolobus_tephrosceles));

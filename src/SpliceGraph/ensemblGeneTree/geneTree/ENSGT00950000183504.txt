@@ -1,0 +1,1 @@
+((((ENSPTRG00000041340__Pan_troglodytes,ENSG00000255823__Homo_sapiens),((ENSPPAG00000016033__Pan_paniscus,ENSPTRG00000042327__Pan_troglodytes),ENSG00000269028__Homo_sapiens)),(ENSCSAG00000018539__Chlorocebus_sabaeus,ENSTGEG00000021398__Theropithecus_gelada)),(ENSFCAG00000042637__Felis_catus,ENSPTIG00000010403__Panthera_tigris_altaica));

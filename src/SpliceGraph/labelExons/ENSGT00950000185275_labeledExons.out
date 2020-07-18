@@ -1,0 +1,12 @@
+>0
+ENSTRUT00000054409: ['no event', 170, 0]
+ENSZALT00000008739: ['exon skipping', 0, 0]
+>1
+ENSTRUT00000054409: ['exon skipping', 0, 0]
+ENSZALT00000008739: ['5event', 114, 0]
+>2
+ENSTRUT00000054409: ['5event', 74, 0]
+ENSZALT00000008739: ['exon skipping', 0, 0]
+>3
+ENSTRUT00000054409: ['exon skipping', 0, 0]
+ENSZALT00000008739: ['5event', 70, 1]

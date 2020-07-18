@@ -1,0 +1,1 @@
+(((ENSBMUG00000010116__Bos_mutus,ENSBTAG00000054444__Bos_taurus),ENSBBBG00000001499__Bison_bison_bison),ENSSDAG00000004104__Spermophilus_dauricus);

@@ -1,0 +1,1 @@
+((ENSECAG00000028732__Equus_caballus,ENSOARG00000008404__Ovis_aries),ENSCAFG00000029652__Canis_lupus_familiaris);

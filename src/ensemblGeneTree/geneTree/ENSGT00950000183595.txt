@@ -1,0 +1,1 @@
+(((ENSAMXG00000034252__Astyanax_mexicanus,ENSATEG00000011283__Anabas_testudineus),((ENSORLG00015021020__Oryzias_latipes_ASM223469v1,ENSAMXG00000034705__Astyanax_mexicanus),ENSAMXG00000043211__Astyanax_mexicanus)),ENSPMAG00000001093__Petromyzon_marinus);

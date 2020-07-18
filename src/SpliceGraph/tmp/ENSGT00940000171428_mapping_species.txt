@@ -1,0 +1,3 @@
+VULPESVULPES	vulpes_vulpes
+NEOVISONVISON	neovison_vison
+OCTODONDEGUS	octodon_degus

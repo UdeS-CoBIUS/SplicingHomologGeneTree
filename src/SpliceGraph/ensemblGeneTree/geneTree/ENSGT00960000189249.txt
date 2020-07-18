@@ -1,0 +1,1 @@
+(ENSJHYG00000002098__Junco_hyemalis,WBGene00013690__Caenorhabditis_elegans_strain_N2);

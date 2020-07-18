@@ -1,0 +1,1 @@
+((ENSCJPG00005002106__Coturnix_japonica,ENSMSIG00000023766__Mus_spicilegus),((((ENSPREG00000012162__Poecilia_reticulata,ENSPREG00000011923__Poecilia_reticulata),ENSPLAG00000016417__Poecilia_latipinna),ENSACIG00000004541__Amphilophus_citrinellus),((ENSATEG00000005145__Anabas_testudineus,ENSMALG00000003022__Monopterus_albus),ENSLBEG00000019724__Labrus_bergylta)));

@@ -1,0 +1,1 @@
+((((ENSXCOG00000005389__Xiphophorus_couchianus,ENSACIG00000001839__Amphilophus_citrinellus),ENSMMOG00000011622__Mola_mola),ENSHCOG00000013480__Hippocampus_comes),ENSPMGG00000014103__Periophthalmus_magnuspinnatus);

@@ -1,0 +1,11 @@
+ORYZIASLATIPES	oryzias_latipes
+POECILIARETICULATA	poecilia_reticulata
+AMPHIPRIONPERCULA	amphiprion_percula
+SERIOLALALANDIDORSALIS	seriola_lalandi_dorsalis
+HIPPOCAMPUSCOMES	hippocampus_comes
+CALIDRISPYGMAEA	calidris_pygmaea
+CALIDRISPYGMAEA	calidris_pygmaea
+SALVATORMERIANAE	salvator_merianae
+CEBUSCAPUCINUS	cebus_capucinus
+PANTROGLODYTES	pan_troglodytes
+HETEROCEPHALUSGLABERMALE	heterocephalus_glaber_male

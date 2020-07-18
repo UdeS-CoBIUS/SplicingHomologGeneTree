@@ -1,0 +1,1 @@
+((ENSMUGG00000012648__Meriones_unguiculatus,ENSCGRG00015010445__Cricetulus_griseus_CriGri-PICR),ENSACIG00000017439__Amphilophus_citrinellus);

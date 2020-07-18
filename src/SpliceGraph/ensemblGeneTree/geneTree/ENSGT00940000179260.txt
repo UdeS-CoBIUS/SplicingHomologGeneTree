@@ -1,0 +1,1 @@
+((ENSKMAG00000013414__Kryptolebias_marmoratus,ENSPLAG00000022838__Poecilia_latipinna),ENSATEG00000018336__Anabas_testudineus);

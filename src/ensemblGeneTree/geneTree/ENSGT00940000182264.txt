@@ -1,0 +1,1 @@
+(((((ENSSCAG00000001892__Serinus_canaria,ENSCCEG00000000609__Cyanistes_caeruleus),ENSLCOG00000007201__Lepidothrix_coronata),ENSCPUG00000008379__Calidris_pugnax),ENSGAFG00000011157__Gambusia_affinis),ENSPMAG00000004024__Petromyzon_marinus);

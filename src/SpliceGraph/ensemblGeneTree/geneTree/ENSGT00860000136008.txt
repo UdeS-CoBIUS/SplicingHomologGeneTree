@@ -1,0 +1,1 @@
+(((((ENSMSIG00000017644__Mus_spicilegus,ENSMUSG00000091191__Mus_musculus_strain_reference_(CL57BL6)),MGP_SPRETEiJ_G0017191__Mus_spretus_strain_SPRET/EiJ),MGP_CAROLIEiJ_G0016347__Mus_caroli_strain_CAROLI_EIJ),MGP_PahariEiJ_G0017481__Mus_pahari_strain_PAHARI_EIJ),ENSMMMG00000015854__Marmota_marmota_marmota);

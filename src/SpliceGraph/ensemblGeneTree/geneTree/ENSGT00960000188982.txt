@@ -1,0 +1,1 @@
+(((ENSCCEG00000004291__Cyanistes_caeruleus,ENSMVIG00005004536__Manacus_vitellinus),ENSAPLG00000004272__Anas_platyrhynchos_platyrhynchos),(ENSCPBG00000026110__Chrysemys_picta_bellii,ENSCABG00000019914__Chelonoidis_abingdonii));

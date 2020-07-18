@@ -1,1 +1,0 @@
-((((ENSCPGG00000011120__Calidris_pygmaea,ENSMVIG00005004520__Manacus_vitellinus),(ENSNSUG00000014421__Notechis_scutatus,ENSGAGG00000009273__Gopherus_agassizii)),(((ENSEASG00005022735__Equus_asinus_asinus,ENSBBBG00000013654__Bison_bison_bison),ENSMPUG00000000788__Mustela_putorius_furo),ENSCCNG00000006355__Castor_canadensis)),ENSFHEG00000006418__Fundulus_heteroclitus);

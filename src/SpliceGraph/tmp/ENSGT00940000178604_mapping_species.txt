@@ -1,0 +1,5 @@
+XIPHOPHORUSCOUCHIANUS	xiphophorus_couchianus
+XIPHOPHORUSCOUCHIANUS	xiphophorus_couchianus
+XIPHOPHORUSMACULATUS	xiphophorus_maculatus
+FUNDULUSHETEROCLITUS	fundulus_heteroclitus
+ACANTHOCHROMISPOLYACANTHUS	acanthochromis_polyacanthus

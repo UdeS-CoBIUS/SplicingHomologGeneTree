@@ -1,0 +1,1 @@
+(((((ENSGMOG00000004131__Gadus_morhua,ENSSFOG00015001379__Scleropages_formosus),(ENSLOCG00000003655__Lepisosteus_oculatus,ENSXMAG00000017723__Xiphophorus_maculatus)),ENSPFOG00000001812__Poecilia_formosa),ENSLOCG00000009652__Lepisosteus_oculatus),(MGP_CAROLIEiJ_G0022913__Mus_caroli_strain_CAROLI_EIJ,ENSCAPG00000013392__Cavia_aperea));

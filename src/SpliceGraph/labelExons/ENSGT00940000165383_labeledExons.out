@@ -1,0 +1,20 @@
+>0
+ENSANAT00000056881: ['no event', 24, 0]
+ENSCCAT00000057953: ['no event', 24, 0]
+ENSCATT00000055086: ['no event', 24, 0]
+ENSMNET00000029520: ['no event', 24, 0]
+>1
+ENSANAT00000056881: ['no event', 48, 1]
+ENSCCAT00000057953: ['no event', 48, 1]
+ENSCATT00000055086: ['no event', 48, 1]
+ENSMNET00000029520: ['no event', 48, 1]
+>2
+ENSANAT00000056881: ['no event', 156, 2]
+ENSCCAT00000057953: ['no event', 156, 2]
+ENSCATT00000055086: ['no event', 156, 2]
+ENSMNET00000029520: ['no event', 156, 2]
+>3
+ENSANAT00000056881: [['internal gap < 30', 53, 15], 134, 0]
+ENSCCAT00000057953: [['internal gap < 30', 53, 15], 134, 0]
+ENSCATT00000055086: ['no event', 149, 0]
+ENSMNET00000029520: ['no event', 149, 0]

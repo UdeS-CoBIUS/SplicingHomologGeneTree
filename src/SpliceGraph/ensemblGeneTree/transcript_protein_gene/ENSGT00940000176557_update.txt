@@ -1,0 +1,2 @@
+YNL018C_mRNA	YNL018C	Saccharomyces_cerevisiae_strain_S288C
+YNL034W_mRNA	YNL034W	Saccharomyces_cerevisiae_strain_S288C

@@ -1,1 +1,0 @@
-(ENSVPAG00000012435__Vicugna_pacos,ENSVPAG00000005588__Vicugna_pacos);

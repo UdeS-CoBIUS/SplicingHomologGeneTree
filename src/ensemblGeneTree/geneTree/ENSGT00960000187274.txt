@@ -1,0 +1,1 @@
+(((ENSACLG00000010493__Astatotilapia_calliptera,ENSPNYG00000000561__Pundamilia_nyererei),ENSACIG00000023095__Amphilophus_citrinellus),(ENSPFOG00000023442__Poecilia_formosa,ENSPLAG00000021262__Poecilia_latipinna));

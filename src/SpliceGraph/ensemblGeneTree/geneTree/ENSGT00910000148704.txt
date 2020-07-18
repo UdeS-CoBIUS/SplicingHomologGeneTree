@@ -1,0 +1,1 @@
+(((((ENSMMMG00000000533__Marmota_marmota_marmota,ENSPEMG00000029513__Peromyscus_maniculatus_bairdii),ENSRBIG00000038798__Rhinopithecus_bieti),ENSCAFG00020002683__Canis_lupus_dingo),ENSMODG00000024438__Monodelphis_domestica),(ENSCJPG00005018462__Coturnix_japonica,ENSACAG00000026774__Anolis_carolinensis));

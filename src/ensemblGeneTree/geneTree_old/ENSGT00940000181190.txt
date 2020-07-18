@@ -1,1 +1,0 @@
-(ENSXCOG00000001277__Xiphophorus_couchianus,ENSXMAG00000023755__Xiphophorus_maculatus);

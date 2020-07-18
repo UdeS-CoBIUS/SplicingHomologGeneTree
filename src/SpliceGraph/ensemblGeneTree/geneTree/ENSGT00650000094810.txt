@@ -1,0 +1,1 @@
+(((ENSGACG00000015984__Gasterosteus_aculeatus,ENSGACG00000015986__Gasterosteus_aculeatus),ENSFHEG00000005327__Fundulus_heteroclitus),ENSGMOG00000005429__Gadus_morhua);

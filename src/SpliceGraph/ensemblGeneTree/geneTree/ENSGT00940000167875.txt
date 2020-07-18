@@ -1,0 +1,1 @@
+(((ENSCHIG00000012973__Capra_hircus,ENSAMEG00000012015__Ailuropoda_melanoleuca),((ENSOGAG00000033721__Otolemur_garnettii,ENSTSYG00000025954__Carlito_syrichta),ENSCCNG00000002273__Castor_canadensis)),(ENSSHAG00000010255__Sarcophilus_harrisii,ENSPCIG00000032810__Phascolarctos_cinereus));

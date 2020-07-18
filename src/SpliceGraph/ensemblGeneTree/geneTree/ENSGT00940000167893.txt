@@ -1,0 +1,1 @@
+(((((ENSMMOG00000002101__Mola_mola,ENSFHEG00000008350__Fundulus_heteroclitus),ENSAMXG00000012507__Astyanax_mexicanus),(ENSTTRG00000011431__Tursiops_truncatus,ENSPCAG00000000412__Procavia_capensis)),(ENSPMAG00000004357__Petromyzon_marinus,ENSEBUG00000013704__Eptatretus_burgeri)),FBgn0030694__Drosophila_melanogaster);

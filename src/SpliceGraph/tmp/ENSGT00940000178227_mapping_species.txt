@@ -1,0 +1,6 @@
+PYGOCENTRUSNATTERERI	pygocentrus_nattereri
+ASTYANAXMEXICANUS	astyanax_mexicanus
+ICTALURUSPUNCTATUS	ictalurus_punctatus
+ASTYANAXMEXICANUS	astyanax_mexicanus
+ESOXLUCIUS	esox_lucius
+PARAMORMYROPSKINGSLEYAE	paramormyrops_kingsleyae

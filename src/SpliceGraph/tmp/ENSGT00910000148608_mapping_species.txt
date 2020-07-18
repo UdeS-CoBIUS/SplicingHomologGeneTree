@@ -1,0 +1,5 @@
+CERCOCEBUSATYS	cercocebus_atys
+MACACANEMESTRINA	macaca_nemestrina
+MANDRILLUSLEUCOPHAEUS	mandrillus_leucophaeus
+THEROPITHECUSGELADA	theropithecus_gelada
+PILIOCOLOBUSTEPHROSCELES	piliocolobus_tephrosceles

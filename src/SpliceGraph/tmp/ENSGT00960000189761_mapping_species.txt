@@ -1,0 +1,5 @@
+CYANISTESCAERULEUS	cyanistes_caeruleus
+PARUSMAJOR	parus_major
+NOTHOPROCTAPERDICARIA	nothoprocta_perdicaria
+PEROMYSCUSMANICULATUSBAIRDII	peromyscus_maniculatus_bairdii
+CANISLUPUSDINGO	canis_lupus_dingo

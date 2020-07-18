@@ -1,0 +1,1 @@
+(ENSMAUG00000005660__Mesocricetus_auratus,MGP_PahariEiJ_G0017482__Mus_pahari_strain_PAHARI_EIJ);

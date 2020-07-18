@@ -1,0 +1,1 @@
+(ENSSDUG00000011529__Seriola_dumerili,ENSCSEG00000003598__Cynoglossus_semilaevis);

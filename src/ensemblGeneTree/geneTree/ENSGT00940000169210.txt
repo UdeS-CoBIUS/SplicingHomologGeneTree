@@ -1,0 +1,1 @@
+((ENSHHUG00000015546__Hucho_hucho,ENSHHUG00000005984__Hucho_hucho),((ENSTBEG00000000067__Tupaia_belangeri,ENSCCAG00000033428__Cebus_capucinus_imitator),ENSOPRG00000004286__Ochotona_princeps));

@@ -1,0 +1,9 @@
+URSUSMARITIMUS	ursus_maritimus
+URSUSAMERICANUS	ursus_americanus
+NEOVISONVISON	neovison_vison
+CAPRAHIRCUS	capra_hircus
+SAIMIRIBOLIVIENSIS	saimiri_boliviensis
+SAIMIRIBOLIVIENSIS	saimiri_boliviensis
+MARMOTAMARMOTA	marmota_marmota
+CHRYSEMYSPICTA	chrysemys_picta
+SPHENODONPUNCTATUS	sphenodon_punctatus

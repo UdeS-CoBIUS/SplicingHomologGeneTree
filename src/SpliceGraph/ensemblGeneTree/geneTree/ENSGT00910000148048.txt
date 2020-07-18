@@ -1,0 +1,1 @@
+((((ENSTGEG00000013161__Theropithecus_gelada,ENSPANG00000034003__Papio_anubis),ENSCATG00000017412__Cercocebus_atys),ENSMNEG00000023123__Macaca_nemestrina),ENSSBOG00000025730__Saimiri_boliviensis_boliviensis);

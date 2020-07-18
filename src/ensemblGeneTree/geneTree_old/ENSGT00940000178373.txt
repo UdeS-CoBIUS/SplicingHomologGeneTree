@@ -1,1 +1,0 @@
-((((ENSXCOG00000005337__Xiphophorus_couchianus,ENSCVAG00000003963__Cyprinodon_variegatus),ENSMAMG00000022112__Mastacembelus_armatus),(ENSPLAG00000002801__Poecilia_latipinna,ENSPMEG00000010449__Poecilia_mexicana)),ENSUAMG00000004080__Ursus_americanus);

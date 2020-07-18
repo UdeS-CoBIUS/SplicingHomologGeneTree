@@ -1,0 +1,1 @@
+((((ENSPNYG00000008086__Pundamilia_nyererei,ENSMZEG00005001884__Maylandia_zebra),(ENSMZEG00005010304__Maylandia_zebra,ENSACIG00000014567__Amphilophus_citrinellus)),ENSMAMG00000004462__Mastacembelus_armatus),ENSLSDG00000016961__Lonchura_striata_domestica);

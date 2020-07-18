@@ -1,1 +1,0 @@
-((ENSCING00000018188__Ciona_intestinalis,ENSCING00000024797__Ciona_intestinalis),ENSCSAVG00000011450__Ciona_savignyi);

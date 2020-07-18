@@ -1,0 +1,10 @@
+POGONAVITTICEPS	pogona_vitticeps
+POGONAVITTICEPS	pogona_vitticeps
+POGONAVITTICEPS	pogona_vitticeps
+ANOLISCAROLINENSIS	anolis_carolinensis
+SALVATORMERIANAE	salvator_merianae
+SALVATORMERIANAE	salvator_merianae
+SALVATORMERIANAE	salvator_merianae
+SALVATORMERIANAE	salvator_merianae
+SALVATORMERIANAE	salvator_merianae
+SALVATORMERIANAE	salvator_merianae

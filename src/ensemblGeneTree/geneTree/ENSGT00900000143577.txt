@@ -1,0 +1,1 @@
+(((ENSSSCG00000031371__Sus_scrofa,ENSSSCG00000037476__Sus_scrofa),(ENSPPRG00000008899__Panthera_pardus,ENSFCAG00000037385__Felis_catus)),((ENSANAG00000019816__Aotus_nancymaae,ENSANAG00000029098__Aotus_nancymaae),ENSCCAG00000029431__Cebus_capucinus_imitator));

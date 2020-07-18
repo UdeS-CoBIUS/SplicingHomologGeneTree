@@ -1,0 +1,1 @@
+((((ENSPCAG00000004597__Procavia_capensis,ENSETEG00000000189__Echinops_telfairi),ENSCHOG00000008692__Choloepus_hoffmanni),((ENSTBEG00000013223__Tupaia_belangeri,ENSTTRG00000000251__Tursiops_truncatus),ENSEEUG00000007259__Erinaceus_europaeus)),ENSMEUG00000015789__Notamacropus_eugenii);

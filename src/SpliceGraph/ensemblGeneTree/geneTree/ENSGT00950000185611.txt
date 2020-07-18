@@ -1,0 +1,1 @@
+(((ENSPTEG00000021271__Piliocolobus_tephrosceles,ENSPTEG00000021246__Piliocolobus_tephrosceles),ENSUPAG00010002961__Urocitellus_parryii),(ENSEASG00005019694__Equus_asinus_asinus,ENSECAG00000036320__Equus_caballus));

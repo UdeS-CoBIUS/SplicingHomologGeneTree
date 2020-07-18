@@ -1,0 +1,1 @@
+(ENSGALG00000054253__Gallus_gallus,ENSTGUG00000007868__Taeniopygia_guttata);

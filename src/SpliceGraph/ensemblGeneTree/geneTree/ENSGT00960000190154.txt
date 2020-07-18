@@ -1,0 +1,1 @@
+((ENSTGEG00000017149__Theropithecus_gelada,ENSMFAG00000019143__Macaca_fascicularis),ENSMMMG00000010952__Marmota_marmota_marmota);

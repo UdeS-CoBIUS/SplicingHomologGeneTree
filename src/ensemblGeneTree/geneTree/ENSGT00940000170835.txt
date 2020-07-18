@@ -1,0 +1,1 @@
+((ENSPCOG00000023132__Propithecus_coquereli,ENSMFAG00000045527__Macaca_fascicularis),ENSMOCG00000008310__Microtus_ochrogaster);

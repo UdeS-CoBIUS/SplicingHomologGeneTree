@@ -1,0 +1,4 @@
+PTEROPUSVAMPYRUS	pteropus_vampyrus
+TURSIOPSTRUNCATUS	tursiops_truncatus
+PONGOABELII	pongo_abelii
+CHOLOEPUSHOFFMANNI	choloepus_hoffmanni

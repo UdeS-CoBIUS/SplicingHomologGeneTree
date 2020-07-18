@@ -1,0 +1,2 @@
+>completeCluster_0
+C52E2.1.1	C52E2.7.1	C52E2.6.1	Y63D3A.9b.1	C16C4.6.1

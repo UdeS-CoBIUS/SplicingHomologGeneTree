@@ -1,0 +1,1 @@
+((ENSNMEG00000012946__Numida_meleagris,ENSNMEG00000021878__Numida_meleagris),ENSMVIG00005019186__Manacus_vitellinus);

@@ -1,0 +1,1 @@
+((ENSGALG00000035599__Gallus_gallus,ENSAHAG00000014050__Apteryx_haastii),ENSNSUG00000018094__Notechis_scutatus);

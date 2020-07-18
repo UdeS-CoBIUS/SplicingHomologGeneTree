@@ -1,0 +1,4 @@
+MACACANEMESTRINA	macaca_nemestrina
+MACACAFASCICULARIS	macaca_fascicularis
+THEROPITHECUSGELADA	theropithecus_gelada
+PANPANISCUS	pan_paniscus

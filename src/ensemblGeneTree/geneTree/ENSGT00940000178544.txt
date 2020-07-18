@@ -1,0 +1,1 @@
+((((ENSPMGG00000001570__Periophthalmus_magnuspinnatus,ENSHCOG00000010942__Hippocampus_comes),ENSACLG00000020824__Astatotilapia_calliptera),ENSMALG00000012151__Monopterus_albus),ENSAMXG00000037876__Astyanax_mexicanus);

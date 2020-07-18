@@ -1,1 +1,0 @@
-((((ENSPPAG00000043227__Pan_paniscus,ENSPTRG00000043931__Pan_troglodytes),ENSGGOG00000039160__Gorilla_gorilla),ENSNLEG00000029445__Nomascus_leucogenys),(ENSMLEG00000035688__Mandrillus_leucophaeus,ENSCATG00000012578__Cercocebus_atys));

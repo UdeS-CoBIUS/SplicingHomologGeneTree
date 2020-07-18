@@ -1,0 +1,1 @@
+((ENSMMUG00000022228__Macaca_mulatta,ENSTGEG00000016522__Theropithecus_gelada),ENSPCOG00000017213__Propithecus_coquereli);

@@ -1,0 +1,1 @@
+(((ENSUMAG00000014309__Ursus_maritimus,ENSOARG00000000741__Ovis_aries),ENSSARG00000003843__Sorex_araneus),ENSPCIG00000037354__Phascolarctos_cinereus);

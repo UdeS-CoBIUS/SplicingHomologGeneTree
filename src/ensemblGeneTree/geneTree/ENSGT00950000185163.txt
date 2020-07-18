@@ -1,0 +1,1 @@
+((((ENSNVIG00000013936__Neovison_vison,ENSUAMG00000014880__Ursus_americanus),((ENSCAFG00000042119__Canis_lupus_familiaris,ENSCAFG00020015513__Canis_lupus_dingo),ENSVVUG00000010627__Vulpes_vulpes)),ENSFCAG00000050318__Felis_catus),ENSMMMG00000021772__Marmota_marmota_marmota);

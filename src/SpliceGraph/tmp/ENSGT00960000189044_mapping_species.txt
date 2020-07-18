@@ -1,0 +1,7 @@
+DROMAIUSNOVAEHOLLANDIAE	dromaius_novaehollandiae
+NOTHOPROCTAPERDICARIA	nothoprocta_perdicaria
+NUMIDAMELEAGRIS	numida_meleagris
+COTURNIXJAPONICA	coturnix_japonica
+ANASPLATYRHYNCHOSPLATYRHYNCHOS	anas_platyrhynchos_platyrhynchos
+CYANISTESCAERULEUS	cyanistes_caeruleus
+NOTECHISSCUTATUS	notechis_scutatus

@@ -1,1 +1,0 @@
-((ENSOANG00000031886__Ornithorhynchus_anatinus,ENSCCNG00000016362__Castor_canadensis),(ENSSPUG00000011026__Sphenodon_punctatus,ENSMGAG00000017219__Meleagris_gallopavo));

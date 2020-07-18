@@ -1,0 +1,1 @@
+(((((ENSPSMG00000002897__Prolemur_simus,ENSPSMG00000001312__Prolemur_simus),ENSMICG00000045907__Microcebus_murinus),ENSPSMG00000005942__Prolemur_simus),ENSOGAG00000024643__Otolemur_garnettii),ENSHGLG00000000055__Heterocephalus_glaber_HetGla_female_1.0);

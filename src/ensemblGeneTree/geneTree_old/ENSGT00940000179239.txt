@@ -1,1 +1,0 @@
-((ENSPMEG00000006544__Poecilia_mexicana,ENSPLAG00000002663__Poecilia_latipinna),ENSGAFG00000005842__Gambusia_affinis);

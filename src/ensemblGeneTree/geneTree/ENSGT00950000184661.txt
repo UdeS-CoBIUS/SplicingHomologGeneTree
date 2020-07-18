@@ -1,0 +1,1 @@
+(((ENSKMAG00000010546__Kryptolebias_marmoratus,ENSORLG00000025436__Oryzias_latipes_ASM223467v1),ENSAOCG00000007635__Amphiprion_ocellaris),(ENSGALG00000046833__Gallus_gallus,ENSAHAG00000006445__Apteryx_haastii));

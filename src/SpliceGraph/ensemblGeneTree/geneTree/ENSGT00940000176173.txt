@@ -1,0 +1,1 @@
+((((ENSPFOG00000024012__Poecilia_formosa,ENSFHEG00000018585__Fundulus_heteroclitus),((ENSACIG00000024286__Amphilophus_citrinellus,ENSPNYG00000011229__Pundamilia_nyererei),ENSCVAG00000009482__Cyprinodon_variegatus)),ENSCSEG00000020194__Cynoglossus_semilaevis),ENSPNAG00000011837__Pygocentrus_nattereri);

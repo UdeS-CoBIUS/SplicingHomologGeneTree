@@ -1,0 +1,1 @@
+((ENSTTRG00000008816__Tursiops_truncatus,ENSPVAG00000012033__Pteropus_vampyrus),((ENSMMUG00000038267__Macaca_mulatta,ENSMNEG00000032976__Macaca_nemestrina),ENSG00000254440__Homo_sapiens));

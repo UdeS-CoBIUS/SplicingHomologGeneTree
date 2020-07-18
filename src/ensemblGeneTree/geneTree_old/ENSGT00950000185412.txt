@@ -1,1 +1,0 @@
-((((ENSNSUG00000017142__Notechis_scutatus,ENSSMRG00000017011__Salvator_merianae),ENSCPBG00000010110__Chrysemys_picta_bellii),ENSBTAG00000053325__Bos_taurus),ENSXETG00000027977__Xenopus_tropicalis);

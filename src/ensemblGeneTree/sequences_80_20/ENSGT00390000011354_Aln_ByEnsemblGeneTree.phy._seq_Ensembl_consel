@@ -1,0 +1,9 @@
+
+# reading ensemblGeneTree/sequences_80_20/ENSGT00390000011354_Aln_ByEnsemblGeneTree.phy_phyml_lk.pv
+#   0    1+     2      9     10  |     3      4      5      6      7      8 
+# rank item    obs     au     np |     bp     pp     kh     sh    wkh    wsh |
+#    1    1    0.0  0.549  0.513 |  0.513  0.333      0  0.661      0  0.661 |
+#    2    2    0.0  0.451  0.487 |  0.487  0.333  0.451  0.838  0.451  0.836 |
+#    3    3    0.0  0.549  0.513 |  0.513  0.333      0  0.661      0  0.661 |
+#    4    4   73.4  6e-05  7e-06 |      0  5e-33  2e-05  2e-05  2e-05  2e-05 |
+

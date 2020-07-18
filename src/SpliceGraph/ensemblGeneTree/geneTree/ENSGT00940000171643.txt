@@ -1,0 +1,1 @@
+((FBgn0033353__Drosophila_melanogaster,FBgn0050285__Drosophila_melanogaster),ENSMSIG00000029253__Mus_spicilegus);

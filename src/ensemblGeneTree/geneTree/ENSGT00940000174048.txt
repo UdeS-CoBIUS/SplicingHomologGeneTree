@@ -1,0 +1,1 @@
+(ENSOANG00000030157__Ornithorhynchus_anatinus,ENSLOCG00000016557__Lepisosteus_oculatus);

@@ -1,0 +1,1 @@
+(((ENSTBEG00000005527__Tupaia_belangeri,ENSOGAG00000009210__Otolemur_garnettii),((ENSVPAG00000006974__Vicugna_pacos,ENSTTRG00000016844__Tursiops_truncatus),ENSPVAG00000013740__Pteropus_vampyrus)),(ENSPCAG00000005464__Procavia_capensis,ENSETEG00000019069__Echinops_telfairi));

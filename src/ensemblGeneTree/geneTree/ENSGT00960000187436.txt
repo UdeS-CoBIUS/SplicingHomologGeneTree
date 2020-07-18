@@ -1,0 +1,1 @@
+(((((ENSAOWG00000005654__Apteryx_owenii,ENSAHAG00000016577__Apteryx_haastii),ENSAOWG00000001906__Apteryx_owenii),ENSGALG00000054778__Gallus_gallus),(((ENSCPUG00000005166__Calidris_pugnax,ENSPSIG00000000991__Pelodiscus_sinensis),ENSGAGG00000002585__Gopherus_agassizii),ENSNSUG00000007623__Notechis_scutatus)),ENSEASG00005020745__Equus_asinus_asinus);

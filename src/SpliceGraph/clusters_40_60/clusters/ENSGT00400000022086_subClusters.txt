@@ -1,0 +1,8 @@
+>cluster_0
+FBtr0087678	Y71F9B.6a.1
+>cluster_1
+Y71F9B.6e.1	FBtr0330617
+>cluster_2
+Y71F9B.6c.1
+>cluster_3
+FBtr0330618	Y71F9B.6d.1

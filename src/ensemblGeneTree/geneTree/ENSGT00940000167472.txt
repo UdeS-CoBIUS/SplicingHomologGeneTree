@@ -1,0 +1,1 @@
+(((((ENSMEUG00000003900__Notamacropus_eugenii,ENSMEUG00000009618__Notamacropus_eugenii),ENSMEUG00000009475__Notamacropus_eugenii),(((ENSVPAG00000006623__Vicugna_pacos,ENSSARG00000006473__Sorex_araneus),ENSOCUG00000031714__Oryctolagus_cuniculus),ENSETEG00000006524__Echinops_telfairi)),ENSNSUG00000004205__Notechis_scutatus),ENSAOCG00000018565__Amphiprion_ocellaris);

@@ -1,1 +1,0 @@
-((ENSPTEG00000009793__Piliocolobus_tephrosceles,ENSTGEG00000006659__Theropithecus_gelada),ENSMUGG00000021545__Meriones_unguiculatus);

@@ -1,0 +1,1 @@
+(ENSUMAG00000017157__Ursus_maritimus,ENSCPBG00000011899__Chrysemys_picta_bellii);

@@ -1,0 +1,1 @@
+((ENSOANG00000004565__Ornithorhynchus_anatinus,ENSBBBG00000014912__Bison_bison_bison),(ENSLSDG00000003745__Lonchura_striata_domestica,ENSSMRG00000021335__Salvator_merianae));

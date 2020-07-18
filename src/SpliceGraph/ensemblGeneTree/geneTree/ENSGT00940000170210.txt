@@ -1,0 +1,1 @@
+((ENSDNOG00000031322__Dasypus_novemcinctus,ENSTBEG00000004816__Tupaia_belangeri),ENSOANG00000029818__Ornithorhynchus_anatinus);

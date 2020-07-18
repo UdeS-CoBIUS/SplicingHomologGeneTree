@@ -1,0 +1,1 @@
+(ENSGAGG00000001017__Gopherus_agassizii,ENSCJPG00005015432__Coturnix_japonica);

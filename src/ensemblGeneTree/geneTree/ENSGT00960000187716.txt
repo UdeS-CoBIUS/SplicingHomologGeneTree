@@ -1,0 +1,1 @@
+((ENSJJAG00000022525__Jaculus_jaculus,ENSMAUG00000010321__Mesocricetus_auratus),ENSSTOG00000030767__Ictidomys_tridecemlineatus);

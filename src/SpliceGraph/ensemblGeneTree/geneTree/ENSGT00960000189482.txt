@@ -1,0 +1,1 @@
+((((((ENSAOWG00000005419__Apteryx_owenii,ENSAHAG00000005288__Apteryx_haastii),ENSARWG00000012253__Apteryx_rowi),ENSDNVG00000004921__Dromaius_novaehollandiae),ENSZALG00000006597__Zonotrichia_albicollis),ENSCGRG00015018635__Cricetulus_griseus_CriGri-PICR),ENSHCOG00000010701__Hippocampus_comes);

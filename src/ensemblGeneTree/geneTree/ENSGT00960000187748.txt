@@ -1,0 +1,1 @@
+(((ENSPMGG00000000953__Periophthalmus_magnuspinnatus,ENSMMOG00000009825__Mola_mola),ENSELUG00000017502__Esox_lucius),ENSAHAG00000005418__Apteryx_haastii);

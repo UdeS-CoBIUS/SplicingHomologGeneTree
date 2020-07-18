@@ -1,0 +1,1 @@
+((ENSMUGG00000001339__Meriones_unguiculatus,ENSMSIG00000027213__Mus_spicilegus),ENSSDAG00000011367__Spermophilus_dauricus);

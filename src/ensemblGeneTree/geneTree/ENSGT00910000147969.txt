@@ -1,0 +1,1 @@
+(((ENSCATG00000008502__Cercocebus_atys,ENSMLEG00000021109__Mandrillus_leucophaeus),ENSTGEG00000028882__Theropithecus_gelada),ENSRROG00000035275__Rhinopithecus_roxellana);

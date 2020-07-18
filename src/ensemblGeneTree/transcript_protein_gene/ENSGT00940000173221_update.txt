@@ -1,0 +1,4 @@
+YDL161W_mRNA	YDL161W	Saccharomyces_cerevisiae_strain_S288C
+T04C10.2b.1	WBGene00001329	Caenorhabditis_elegans_strain_N2	T04C10.2b.1
+FBpp0089151	FBgn0028582	Drosophila_melanogaster
+YLR206W_mRNA	YLR206W	Saccharomyces_cerevisiae_strain_S288C

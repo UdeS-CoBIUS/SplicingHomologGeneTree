@@ -1,0 +1,60 @@
+>0
+ENSPPYT00000001100: ['no event', 33, 0]
+ENSTBET00000011790: ['no event', 33, 0]
+ENSEEUT00000005124: ['no event', 33, 0]
+>1
+ENSPPYT00000001100: ['no event', 128, 1]
+ENSTBET00000011790: ['no event', 128, 1]
+ENSEEUT00000005124: ['no event', 128, 1]
+>2
+ENSPPYT00000001100: ['exon skipping', 0, 0]
+ENSTBET00000011790: [['internal gap >= 30', 2, 99], 443, 1]
+ENSEEUT00000005124: ['no event', 542, 1]
+>3
+ENSPPYT00000001100: ['exon skipping', 0, 0]
+ENSTBET00000011790: ['no event', 19, 1]
+ENSEEUT00000005124: ['exon skipping', 0, 0]
+>4
+ENSPPYT00000001100: ['exon skipping', 0, 0]
+ENSTBET00000011790: ['no event', 11, 0]
+ENSEEUT00000005124: ['exon skipping', 0, 0]
+>5
+ENSPPYT00000001100: ['exon skipping', 0, 0]
+ENSTBET00000011790: ['no event', 57, 0]
+ENSEEUT00000005124: ['exon skipping', 0, 0]
+>6
+ENSPPYT00000001100: ['5event', 206, 1]
+ENSTBET00000011790: ['no event', 212, 1]
+ENSEEUT00000005124: ['5event', 206, 1]
+>7
+ENSPPYT00000001100: ['no event', 173, 1]
+ENSTBET00000011790: ['no event', 173, 1]
+ENSEEUT00000005124: ['no event', 173, 1]
+>8
+ENSPPYT00000001100: ['exon skipping', 0, 0]
+ENSTBET00000011790: ['no event', 44, 1]
+ENSEEUT00000005124: ['exon skipping', 0, 0]
+>9
+ENSPPYT00000001100: ['exon skipping', 0, 0]
+ENSTBET00000011790: ['exon skipping', 0, 0]
+ENSEEUT00000005124: ['only gap', 0, 1]
+>10
+ENSPPYT00000001100: ['exon skipping', 0, 0]
+ENSTBET00000011790: [['internal gap < 30', 3, 1], 7, 1]
+ENSEEUT00000005124: ['exon skipping', 0, 0]
+>11
+ENSPPYT00000001100: ['exon skipping', 0, 0]
+ENSTBET00000011790: ['exon skipping', 0, 0]
+ENSEEUT00000005124: ['5event', 15, 2]
+>12
+ENSPPYT00000001100: ['5event', 187, 1]
+ENSTBET00000011790: ['exon skipping', 0, 0]
+ENSEEUT00000005124: [['internal gap < 30', 1, 17], 171, 0]
+>13
+ENSPPYT00000001100: ['exon skipping', 0, 0]
+ENSTBET00000011790: ['5event', 11, 0]
+ENSEEUT00000005124: ['exon skipping', 0, 0]
+>14
+ENSPPYT00000001100: ['exon skipping', 0, 0]
+ENSTBET00000011790: ['no event', 8, 0]
+ENSEEUT00000005124: ['exon skipping', 0, 0]

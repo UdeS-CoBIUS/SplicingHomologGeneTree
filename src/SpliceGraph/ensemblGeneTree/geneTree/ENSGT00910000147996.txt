@@ -1,0 +1,1 @@
+((((ENSPTRG00000043655__Pan_troglodytes,ENSPPAG00000020393__Pan_paniscus),ENSGGOG00000042686__Gorilla_gorilla),ENSPANG00000031624__Papio_anubis),ENSUAMG00000008873__Ursus_americanus);

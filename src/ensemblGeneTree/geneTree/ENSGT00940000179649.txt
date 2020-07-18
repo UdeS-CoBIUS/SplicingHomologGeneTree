@@ -1,0 +1,1 @@
+(((ENSAOCG00000012530__Amphiprion_ocellaris,ENSAOCG00000000659__Amphiprion_ocellaris),ENSAPOG00000007257__Acanthochromis_polyacanthus),(ENSGAGG00000017753__Gopherus_agassizii,ENSNMEG00000013062__Numida_meleagris));

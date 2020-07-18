@@ -1,1 +1,0 @@
-(ENSMSIG00000013964__Mus_spicilegus,ENSPTEG00000038046__Piliocolobus_tephrosceles);

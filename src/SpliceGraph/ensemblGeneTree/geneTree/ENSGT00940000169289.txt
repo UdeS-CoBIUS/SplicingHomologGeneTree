@@ -1,0 +1,1 @@
+(((((ENSCPRG00005013534__Crocodylus_porosus,ENSCCEG00000023387__Cyanistes_caeruleus),(ENSACAG00000017405__Anolis_carolinensis,ENSPVIG00000011880__Pogona_vitticeps)),(ENSSHAG00000013642__Sarcophilus_harrisii,ENSMUGG00000016810__Meriones_unguiculatus)),ENSXETG00000015049__Xenopus_tropicalis),ENSLOCG00000015776__Lepisosteus_oculatus);

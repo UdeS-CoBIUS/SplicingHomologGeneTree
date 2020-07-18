@@ -1,0 +1,1 @@
+(((ENSTBEG00000009806__Tupaia_belangeri,ENSETEG00000000045__Echinops_telfairi),ENSXETG00000030829__Xenopus_tropicalis),ENSLACG00000006826__Latimeria_chalumnae);

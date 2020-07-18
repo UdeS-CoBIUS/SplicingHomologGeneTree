@@ -1,0 +1,1 @@
+(ENSTNIG00000001664__Tetraodon_nigroviridis,ENSIPUG00000024483__Ictalurus_punctatus);

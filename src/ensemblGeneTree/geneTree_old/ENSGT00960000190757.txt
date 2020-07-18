@@ -1,1 +1,0 @@
-((ENSZALG00000002698__Zonotrichia_albicollis,ENSSCAG00000005249__Serinus_canaria),ENSNMEG00000022759__Numida_meleagris);

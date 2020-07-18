@@ -1,0 +1,1 @@
+((((ENSUMAG00000024917__Ursus_maritimus,ENSVVUG00000029642__Vulpes_vulpes),ENSMICG00000046233__Microcebus_murinus),ENSPCAG00000016515__Procavia_capensis),(ENSLSDG00000010919__Lonchura_striata_domestica,ENSCPGG00000014917__Calidris_pygmaea));

@@ -1,0 +1,1 @@
+((ENSLCOG00000009988__Lepidothrix_coronata,ENSMUNG00000005276__Melopsittacus_undulatus),ENSARWG00000010008__Apteryx_rowi);

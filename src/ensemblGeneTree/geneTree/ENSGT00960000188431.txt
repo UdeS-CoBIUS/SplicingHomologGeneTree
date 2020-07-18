@@ -1,0 +1,1 @@
+(ENSTSYG00000027602__Carlito_syrichta,ENSMAMG00000008907__Mastacembelus_armatus);

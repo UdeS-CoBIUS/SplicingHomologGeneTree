@@ -1,0 +1,8 @@
+>0
+ENSPMET00000004199: [['internal gap < 30', 206, 7], 224, 0]
+ENSPLAT00000001801: [['internal gap < 30', 206, 7], 224, 0]
+ENSORLT00000023948: ['no event', 231, 0]
+>1
+ENSPMET00000004199: ['exon skipping', 0, 0]
+ENSPLAT00000001801: ['exon skipping', 0, 0]
+ENSORLT00000023948: ['no event', 22, 1]

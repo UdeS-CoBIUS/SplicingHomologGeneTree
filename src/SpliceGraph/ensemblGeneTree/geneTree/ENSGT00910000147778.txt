@@ -1,0 +1,1 @@
+((ENSANAG00000024412__Aotus_nancymaae,ENSSBOG00000033269__Saimiri_boliviensis_boliviensis),(ENSMLEG00000027457__Mandrillus_leucophaeus,ENSMMUG00000040736__Macaca_mulatta));

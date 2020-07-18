@@ -1,1 +1,0 @@
-((ENSLBEG00000026482__Labrus_bergylta,ENSCVAG00000005554__Cyprinodon_variegatus),ENSEBUG00000008248__Eptatretus_burgeri);

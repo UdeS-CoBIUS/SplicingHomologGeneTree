@@ -1,0 +1,1 @@
+((ENSPMGG00000005103__Periophthalmus_magnuspinnatus,ENSPMGG00000022122__Periophthalmus_magnuspinnatus),ENSPMEG00000021193__Poecilia_mexicana);

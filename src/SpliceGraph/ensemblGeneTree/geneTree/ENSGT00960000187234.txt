@@ -1,0 +1,1 @@
+(((((ENSXMAG00000028950__Xiphophorus_maculatus,ENSPMGG00000000416__Periophthalmus_magnuspinnatus),ENSPLAG00000001455__Poecilia_latipinna),ENSTRUG00000023103__Takifugu_rubripes),ENSOMEG00000008756__Oryzias_melastigma),ENSLCOG00000003241__Lepidothrix_coronata);

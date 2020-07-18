@@ -1,0 +1,1 @@
+((ENSMOCG00000013608__Microtus_ochrogaster,ENSPTEG00000004071__Piliocolobus_tephrosceles),(ENSSPAG00000006466__Stegastes_partitus,ENSSPAG00000009716__Stegastes_partitus));

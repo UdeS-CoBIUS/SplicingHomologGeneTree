@@ -1,0 +1,1 @@
+((ENSFHEG00000022168__Fundulus_heteroclitus,ENSORLG00020013625__Oryzias_latipes_ASM223471v1),ENSBTAG00000050109__Bos_taurus);

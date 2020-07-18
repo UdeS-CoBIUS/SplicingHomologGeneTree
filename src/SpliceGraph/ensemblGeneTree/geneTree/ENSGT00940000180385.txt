@@ -1,0 +1,1 @@
+(((ENSCVAG00000007880__Cyprinodon_variegatus,ENSKMAG00000004807__Kryptolebias_marmoratus),ENSAPOG00000015783__Acanthochromis_polyacanthus),(ENSLSDG00000014290__Lonchura_striata_domestica,ENSGAGG00000012858__Gopherus_agassizii));

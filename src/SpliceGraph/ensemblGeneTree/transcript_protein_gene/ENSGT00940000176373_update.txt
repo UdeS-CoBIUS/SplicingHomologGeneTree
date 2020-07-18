@@ -1,0 +1,3 @@
+YOR137C_mRNA	YOR137C	Saccharomyces_cerevisiae_strain_S288C
+YNL010W_mRNA	YNL010W	Saccharomyces_cerevisiae_strain_S288C
+YLR361C_mRNA	YLR361C	Saccharomyces_cerevisiae_strain_S288C

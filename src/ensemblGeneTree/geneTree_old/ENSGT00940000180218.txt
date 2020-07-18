@@ -1,1 +1,0 @@
-((ENSSDUG00000005452__Seriola_dumerili,ENSSMAG00000003305__Scophthalmus_maximus),ENSAOCG00000004361__Amphiprion_ocellaris);

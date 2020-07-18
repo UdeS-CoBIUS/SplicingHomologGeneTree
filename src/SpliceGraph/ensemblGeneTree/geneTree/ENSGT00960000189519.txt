@@ -1,0 +1,1 @@
+((((ENSPMJG00000019467__Parus_major,ENSJHYG00000004103__Junco_hyemalis),ENSLCOG00000001228__Lepidothrix_coronata),ENSLSDG00000011623__Lonchura_striata_domestica),((ENSABRG00000018235__Anser_brachyrhynchus,ENSAPLG00000030011__Anas_platyrhynchos_platyrhynchos),ENSNMEG00000021243__Numida_meleagris));

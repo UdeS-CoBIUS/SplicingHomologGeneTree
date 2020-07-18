@@ -1,0 +1,1 @@
+((ENSSARG00000006454__Sorex_araneus,ENSSARG00000005681__Sorex_araneus),ENSSARG00000007553__Sorex_araneus);

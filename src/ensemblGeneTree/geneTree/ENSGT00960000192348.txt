@@ -1,0 +1,1 @@
+(ENSFDAG00000019248__Fukomys_damarensis,ENSMSIG00000009909__Mus_spicilegus);

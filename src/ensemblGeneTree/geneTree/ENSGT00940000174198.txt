@@ -1,0 +1,1 @@
+(((ENSPNYG00000010155__Pundamilia_nyererei,ENSHBUG00000000055__Haplochromis_burtoni),ENSGACG00000013852__Gasterosteus_aculeatus),ENSGMOG00000005874__Gadus_morhua);

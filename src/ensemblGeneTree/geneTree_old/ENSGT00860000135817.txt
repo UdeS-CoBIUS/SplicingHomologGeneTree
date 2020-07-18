@@ -1,1 +1,0 @@
-(((ENSMMUG00000037836__Macaca_mulatta,ENSMMMG00000005173__Marmota_marmota_marmota),ENSMICG00000030853__Microcebus_murinus),(ENSSSCG00000037737__Sus_scrofa,ENSCHIG00000012339__Capra_hircus));

@@ -1,1 +1,0 @@
-((ENSPEMG00000010926__Peromyscus_maniculatus_bairdii,ENSCPUG00000008585__Calidris_pugnax),ENSPKIG00000000124__Paramormyrops_kingsleyae);

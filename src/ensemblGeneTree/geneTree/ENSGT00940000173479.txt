@@ -1,0 +1,1 @@
+(ENSPVAG00000014188__Pteropus_vampyrus,ENSOARG00000013759__Ovis_aries);

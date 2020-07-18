@@ -1,0 +1,35 @@
+>0
+ENSBSLT00000050658: ['only gap', 0, 0]
+ENSLCRT00005011692: ['only gap', 0, 0]
+ENSLCRT00005011693: ['only gap', 0, 0]
+ENSLCRT00005011694: ['only gap', 0, 0]
+>1
+ENSBSLT00000050658: ['only gap', 0, 2]
+ENSLCRT00005011692: ['only gap', 0, 2]
+ENSLCRT00005011693: ['only gap', 0, 2]
+ENSLCRT00005011694: ['only gap', 0, 2]
+>2
+ENSBSLT00000050658: ['only gap', 0, 1]
+ENSLCRT00005011692: ['only gap', 0, 1]
+ENSLCRT00005011693: ['only gap', 0, 1]
+ENSLCRT00005011694: ['only gap', 0, 1]
+>3
+ENSBSLT00000050658: ['exon skipping', 0, 0]
+ENSLCRT00005011692: ['exon skipping', 0, 0]
+ENSLCRT00005011693: ['exon skipping', 0, 0]
+ENSLCRT00005011694: ['only gap', 0, 0]
+>4
+ENSBSLT00000050658: ['only gap', 0, 0]
+ENSLCRT00005011692: ['only gap', 0, 0]
+ENSLCRT00005011693: ['only gap', 0, 0]
+ENSLCRT00005011694: ['exon skipping', 0, 0]
+>5
+ENSBSLT00000050658: ['exon skipping', 0, 0]
+ENSLCRT00005011692: ['only gap', 0, 0]
+ENSLCRT00005011693: ['exon skipping', 0, 0]
+ENSLCRT00005011694: ['exon skipping', 0, 0]
+>6
+ENSBSLT00000050658: ['only gap', 0, 0]
+ENSLCRT00005011692: ['exon skipping', 0, 0]
+ENSLCRT00005011693: ['only gap', 0, 0]
+ENSLCRT00005011694: ['exon skipping', 0, 0]

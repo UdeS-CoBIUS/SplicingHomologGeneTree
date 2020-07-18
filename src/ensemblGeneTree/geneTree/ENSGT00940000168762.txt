@@ -1,0 +1,1 @@
+((ENSVPAG00000001233__Vicugna_pacos,ENSFCAG00000041423__Felis_catus),ENSLAFG00000010309__Loxodonta_africana);

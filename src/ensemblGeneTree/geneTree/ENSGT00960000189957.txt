@@ -1,0 +1,1 @@
+(((ENSPMJG00000013691__Parus_major,ENSPMJG00000013862__Parus_major),ENSLSDG00000008147__Lonchura_striata_domestica),ENSABRG00000013192__Anser_brachyrhynchus);

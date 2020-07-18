@@ -1,0 +1,1 @@
+(ENSTGUG00000001717__Taeniopygia_guttata,ENSMVIG00005013744__Manacus_vitellinus);

@@ -1,1 +1,0 @@
-(((((ENSSCAG00000015709__Serinus_canaria,ENSLCOG00000007767__Lepidothrix_coronata),(ENSSMRG00000015417__Salvator_merianae,ENSNSUG00000006141__Notechis_scutatus)),ENSEBUG00000014936__Eptatretus_burgeri),ENSPLAG00000000787__Poecilia_latipinna),(FBgn0052262__Drosophila_melanogaster,FBgn0052263__Drosophila_melanogaster));

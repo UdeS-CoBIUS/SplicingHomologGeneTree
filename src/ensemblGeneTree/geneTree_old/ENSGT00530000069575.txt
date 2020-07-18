@@ -1,1 +1,0 @@
-(((ENSHBUG00000000942__Haplochromis_burtoni,ENSPFOG00000022590__Poecilia_formosa),ENSTNIG00000008908__Tetraodon_nigroviridis),(((ENSSSCG00000035921__Sus_scrofa,ENSAMEG00000001241__Ailuropoda_melanoleuca),ENSDNOG00000039082__Dasypus_novemcinctus),ENSOANG00000014475__Ornithorhynchus_anatinus));

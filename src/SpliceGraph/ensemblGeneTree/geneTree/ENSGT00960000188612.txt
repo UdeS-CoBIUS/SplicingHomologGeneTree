@@ -1,0 +1,1 @@
+((((ENSCGRG00015010611__Cricetulus_griseus_CriGri-PICR,ENSPEMG00000029911__Peromyscus_maniculatus_bairdii),ENSMUGG00000005348__Meriones_unguiculatus),ENSPSMG00000000658__Prolemur_simus),(ENSSARG00000002063__Sorex_araneus,ENSPPRG00000011145__Panthera_pardus));

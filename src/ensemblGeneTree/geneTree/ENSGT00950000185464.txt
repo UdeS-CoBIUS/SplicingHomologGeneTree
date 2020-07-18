@@ -1,0 +1,1 @@
+(((ENSUAMG00000016516__Ursus_americanus,ENSVVUG00000011955__Vulpes_vulpes),ENSEASG00005021996__Equus_asinus_asinus),ENSNMEG00000009700__Numida_meleagris);

@@ -1,0 +1,1 @@
+(((ENSOGAG00000006102__Otolemur_garnettii,ENSOCUG00000028154__Oryctolagus_cuniculus),ENSSSCG00000038552__Sus_scrofa),ENSDNOG00000040101__Dasypus_novemcinctus);

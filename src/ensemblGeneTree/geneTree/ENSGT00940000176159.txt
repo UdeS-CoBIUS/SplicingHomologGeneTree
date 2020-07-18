@@ -1,0 +1,1 @@
+(((ENSMAMG00000005542__Mastacembelus_armatus,ENSMMOG00000021159__Mola_mola),ENSLBEG00000023064__Labrus_bergylta),((((ENSUMAG00000015184__Ursus_maritimus,ENSCAFG00020023941__Canis_lupus_dingo),ENSBBBG00000017851__Bison_bison_bison),ENSMMUG00000001028__Macaca_mulatta),ENSCABG00000015716__Chelonoidis_abingdonii));

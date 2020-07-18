@@ -1,1 +1,0 @@
-((ENSPPYG00000017935__Pongo_abelii,ENSCSAG00000010890__Chlorocebus_sabaeus),ENSPVAG00000002663__Pteropus_vampyrus);

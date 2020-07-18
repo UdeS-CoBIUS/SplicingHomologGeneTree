@@ -1,0 +1,1 @@
+(((ENSAHAG00000014848__Apteryx_haastii,ENSARWG00000001375__Apteryx_rowi),ENSAOWG00000006711__Apteryx_owenii),ENSCPUG00000010069__Calidris_pugnax);

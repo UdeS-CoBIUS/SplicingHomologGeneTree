@@ -1,0 +1,4 @@
+HIPPOCAMPUSCOMES	hippocampus_comes
+CYPRINODONVARIEGATUS	cyprinodon_variegatus
+HUCHOHUCHO	hucho_hucho
+ICTALURUSPUNCTATUS	ictalurus_punctatus

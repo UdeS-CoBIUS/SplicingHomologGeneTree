@@ -1,0 +1,1 @@
+(((ENSJHYG00000011332__Junco_hyemalis,ENSZALG00000012976__Zonotrichia_albicollis),ENSFALG00000010317__Ficedula_albicollis),ENSBBBG00000003823__Bison_bison_bison);

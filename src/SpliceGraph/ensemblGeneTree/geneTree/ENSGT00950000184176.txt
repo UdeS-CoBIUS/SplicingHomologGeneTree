@@ -1,0 +1,1 @@
+((ENSMAMG00000018606__Mastacembelus_armatus,ENSSLDG00000007384__Seriola_lalandi_dorsalis),(ENSPSIG00000011570__Pelodiscus_sinensis,ENSGAGG00000008708__Gopherus_agassizii));

@@ -1,0 +1,1 @@
+(((ENSHGLG00100017440__Heterocephalus_glaber_HetGla_1.0,ENSODEG00000010088__Octodon_degus),ENSDORG00000028722__Dipodomys_ordii),(((ENSMAUG00000018220__Mesocricetus_auratus,ENSMOCG00000014792__Microtus_ochrogaster),ENSNGAG00000013118__Nannospalax_galili),ENSJJAG00000022770__Jaculus_jaculus));

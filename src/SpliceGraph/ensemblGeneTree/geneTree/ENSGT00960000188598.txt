@@ -1,0 +1,1 @@
+((ENSOARG00000013522__Ovis_aries,ENSCJPG00005006412__Coturnix_japonica),ENSPKIG00000019483__Paramormyrops_kingsleyae);

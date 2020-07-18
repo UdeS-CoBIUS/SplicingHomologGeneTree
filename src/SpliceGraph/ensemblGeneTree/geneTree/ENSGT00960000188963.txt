@@ -1,0 +1,1 @@
+(ENSFDAG00000014785__Fukomys_damarensis,ENSSDAG00000012609__Spermophilus_dauricus);

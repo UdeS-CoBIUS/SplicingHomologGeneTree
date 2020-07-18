@@ -1,0 +1,1 @@
+(((ENSMZEG00005015330__Maylandia_zebra,ENSTNIG00000018610__Tetraodon_nigroviridis),ENSPMGG00000001713__Periophthalmus_magnuspinnatus),(ENSMUGG00000010483__Meriones_unguiculatus,ENSODEG00000011811__Octodon_degus));

@@ -1,0 +1,2 @@
+STEGASTESPARTITUS	stegastes_partitus
+MONOPTERUSALBUS	monopterus_albus

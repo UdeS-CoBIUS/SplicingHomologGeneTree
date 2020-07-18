@@ -1,0 +1,1 @@
+(((ENSPTEG00000005452__Piliocolobus_tephrosceles,ENSPTEG00000005408__Piliocolobus_tephrosceles),((ENSTGEG00000013971__Theropithecus_gelada,ENSTGEG00000013951__Theropithecus_gelada),ENSMFAG00000001903__Macaca_fascicularis)),ENSPPAG00000007066__Pan_paniscus);

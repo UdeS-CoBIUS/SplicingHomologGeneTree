@@ -1,0 +1,32 @@
+>0
+C09G9.7a.1: ['exon skipping', 0, 0]
+C09G9.7b.1: ['exon skipping', 0, 0]
+F21D12.5.1: ['no event', 74, 0]
+>1
+C09G9.7a.1: ['5event', 99, 0]
+C09G9.7b.1: ['exon skipping', 0, 0]
+F21D12.5.1: [['internal gap < 30', 51, 6], 94, 0]
+>2
+C09G9.7a.1: ['no event', 5, 1]
+C09G9.7b.1: ['exon skipping', 0, 0]
+F21D12.5.1: ['exon skipping', 0, 0]
+>3
+C09G9.7a.1: ['no event', 107, 1]
+C09G9.7b.1: ['exon skipping', 0, 0]
+F21D12.5.1: ['exon skipping', 0, 0]
+>4
+C09G9.7a.1: ['no event', 177, 1]
+C09G9.7b.1: ['exon skipping', 0, 0]
+F21D12.5.1: ['5event', ['internal gap < 30', 20, 15], 162, 1]
+>5
+C09G9.7a.1: [['internal gap < 30', 85, 21], 140, 2]
+C09G9.7b.1: ['exon skipping', 0, 0]
+F21D12.5.1: [['internal gap < 30', 38, 24], 137, 2]
+>6
+C09G9.7a.1: ['exon skipping', 0, 0]
+C09G9.7b.1: ['exon skipping', 0, 0]
+F21D12.5.1: ['no event', 60, 2]
+>7
+C09G9.7a.1: ['3event', '5event', 79, 2]
+C09G9.7b.1: ['5event', 125, 0]
+F21D12.5.1: ['exon skipping', 0, 0]

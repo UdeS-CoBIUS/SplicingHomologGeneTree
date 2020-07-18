@@ -1,0 +1,1 @@
+(((ENSMFAG00000030006__Macaca_fascicularis,ENSSBOG00000029916__Saimiri_boliviensis_boliviensis),ENSMMMG00000009663__Marmota_marmota_marmota),(ENSTTRG00000021427__Tursiops_truncatus,ENSPVAG00000024150__Pteropus_vampyrus));

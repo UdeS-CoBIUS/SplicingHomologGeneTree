@@ -1,0 +1,1 @@
+((((ENSCPUG00000005746__Calidris_pugnax,ENSCPUG00000005747__Calidris_pugnax),ENSCPGG00000002934__Calidris_pygmaea),ENSCJPG00005002764__Coturnix_japonica),(ENSEASG00005011369__Equus_asinus_asinus,ENSDORG00000029685__Dipodomys_ordii));

@@ -1,0 +1,1 @@
+(((ENSUMAG00000014621__Ursus_maritimus,ENSUAMG00000007213__Ursus_americanus),ENSBTAG00000048693__Bos_taurus),ENSCGRG00000005131__Cricetulus_griseus_CriGri_1.0);

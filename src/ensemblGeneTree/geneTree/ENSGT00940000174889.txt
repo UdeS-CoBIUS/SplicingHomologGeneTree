@@ -1,0 +1,1 @@
+(((ENSSDUG00000002113__Seriola_dumerili,ENSSLDG00000023272__Seriola_lalandi_dorsalis),ENSNBRG00000009267__Neolamprologus_brichardi),ENSOANG00000030638__Ornithorhynchus_anatinus);

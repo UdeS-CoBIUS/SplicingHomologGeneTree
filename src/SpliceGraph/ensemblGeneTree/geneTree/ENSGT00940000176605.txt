@@ -1,0 +1,1 @@
+((ENSACIG00000009175__Amphilophus_citrinellus,ENSJHYG00000010849__Junco_hyemalis),YKL170W__Saccharomyces_cerevisiae_strain_S288C);

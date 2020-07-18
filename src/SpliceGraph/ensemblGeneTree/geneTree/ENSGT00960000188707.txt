@@ -1,0 +1,1 @@
+((ENSCCNG00000011412__Castor_canadensis,ENSCCNG00000011513__Castor_canadensis),ENSTBEG00000007731__Tupaia_belangeri);

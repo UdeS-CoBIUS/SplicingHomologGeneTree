@@ -1,0 +1,1 @@
+(((ENSSLDG00000010065__Seriola_lalandi_dorsalis,ENSSLDG00000010087__Seriola_lalandi_dorsalis),ENSSLDG00000010097__Seriola_lalandi_dorsalis),ENSTRUG00000022759__Takifugu_rubripes);

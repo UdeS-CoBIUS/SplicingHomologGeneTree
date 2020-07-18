@@ -1,0 +1,1 @@
+((ENSANAG00000032215__Aotus_nancymaae,ENSCCAG00000024765__Cebus_capucinus_imitator),(((ENSPANG00000030910__Papio_anubis,ENSTGEG00000027399__Theropithecus_gelada),(ENSMFAG00000030814__Macaca_fascicularis,ENSMMUG00000038797__Macaca_mulatta)),ENSCANG00000037346__Colobus_angolensis_palliatus));

@@ -1,0 +1,1 @@
+(((ENSSCAG00000009804__Serinus_canaria,ENSCCEG00000022436__Cyanistes_caeruleus),ENSMVIG00005003012__Manacus_vitellinus),ENSZALG00000004385__Zonotrichia_albicollis);

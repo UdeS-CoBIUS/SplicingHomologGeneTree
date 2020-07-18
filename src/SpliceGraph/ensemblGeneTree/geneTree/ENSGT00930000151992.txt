@@ -1,0 +1,1 @@
+((((ENSUAMG00000016867__Ursus_americanus,ENSOARG00000002187__Ovis_aries),ENSDNOG00000047215__Dasypus_novemcinctus),ENSRNOG00000047740__Rattus_norvegicus),(((ENSLCOG00000012919__Lepidothrix_coronata,ENSSCAG00000003478__Serinus_canaria),ENSGALG00000047879__Gallus_gallus),ENSCABG00000016021__Chelonoidis_abingdonii));

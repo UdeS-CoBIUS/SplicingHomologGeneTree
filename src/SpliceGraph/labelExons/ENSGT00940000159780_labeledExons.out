@@ -1,0 +1,15 @@
+>0
+ENSCHAT00000052752: ['no event', 132, 0]
+ENSDCDT00000051330: ['no event', 132, 0]
+ENSPNAT00000038246: ['no event', 132, 0]
+ENSPNAT00000030558: ['no event', 132, 0]
+>1
+ENSCHAT00000052752: ['no event', 538, 1]
+ENSDCDT00000051330: ['no event', 538, 1]
+ENSPNAT00000038246: ['no event', 538, 1]
+ENSPNAT00000030558: ['no event', 538, 1]
+>2
+ENSCHAT00000052752: ['no event', 2, 0]
+ENSDCDT00000051330: ['no event', 2, 0]
+ENSPNAT00000038246: ['exon skipping', 0, 0]
+ENSPNAT00000030558: ['exon skipping', 0, 0]

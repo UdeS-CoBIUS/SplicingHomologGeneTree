@@ -1,1 +1,0 @@
-(((ENSAMXG00000035736__Astyanax_mexicanus,ENSAMXG00000025573__Astyanax_mexicanus),((ENSELUG00000017440__Esox_lucius,ENSELUG00000017433__Esox_lucius),ENSPMGG00000009519__Periophthalmus_magnuspinnatus)),ENSLOCG00000006921__Lepisosteus_oculatus);

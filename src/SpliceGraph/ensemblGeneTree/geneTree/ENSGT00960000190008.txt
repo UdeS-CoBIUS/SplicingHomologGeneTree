@@ -1,0 +1,1 @@
+(((ENSCPGG00000006029__Calidris_pygmaea,ENSCPUG00000005645__Calidris_pugnax),ENSCPBG00000026143__Chrysemys_picta_bellii),ENSPVIG00000012093__Pogona_vitticeps);

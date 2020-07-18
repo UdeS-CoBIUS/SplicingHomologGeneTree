@@ -1,1 +1,0 @@
-(ENSAOWG00000007651__Apteryx_owenii,ENSAHAG00000014474__Apteryx_haastii);

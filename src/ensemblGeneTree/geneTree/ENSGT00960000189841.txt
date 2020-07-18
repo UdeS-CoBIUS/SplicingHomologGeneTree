@@ -1,0 +1,1 @@
+(((ENSLSDG00000012209__Lonchura_striata_domestica,ENSJHYG00000000471__Junco_hyemalis),ENSCPGG00000001895__Calidris_pygmaea),ENSARWG00000007826__Apteryx_rowi);

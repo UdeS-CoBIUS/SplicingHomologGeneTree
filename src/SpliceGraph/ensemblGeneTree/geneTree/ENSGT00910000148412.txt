@@ -1,0 +1,1 @@
+((((ENSPPRG00000017175__Panthera_pardus,ENSPTIG00000020915__Panthera_tigris_altaica),ENSFCAG00000034076__Felis_catus),(((ENSBTAG00000048934__Bos_taurus,ENSBMUG00000014296__Bos_mutus),ENSBBBG00000006132__Bison_bison_bison),ENSCHIG00000014679__Capra_hircus)),((ENSPCOG00000016126__Propithecus_coquereli,ENSPSMG00000017637__Prolemur_simus),ENSCCNG00000024886__Castor_canadensis));

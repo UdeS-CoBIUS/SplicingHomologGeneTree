@@ -1,0 +1,18 @@
+>0
+K08D8.11.1: ['3event', 105, 0]
+K08D8.12a.1: ['no event', 164, 0]
+K08D8.12b.1: ['no event', 164, 0]
+K08D8.12c.1: ['no event', 164, 0]
+K08D8.1.1: ['no event', 164, 0]
+>1
+K08D8.11.1: ['exon skipping', 0, 0]
+K08D8.12a.1: ['no event', 95, 0]
+K08D8.12b.1: ['exon skipping', 0, 0]
+K08D8.12c.1: ['exon skipping', 0, 0]
+K08D8.1.1: ['exon skipping', 0, 0]
+>2
+K08D8.11.1: ['exon skipping', 0, 0]
+K08D8.12a.1: ['exon skipping', 0, 0]
+K08D8.12b.1: ['5event', ['internal gap < 30', 21, 14], 95, 0]
+K08D8.12c.1: ['3event', '5event', 9, 0]
+K08D8.1.1: ['3event', '5event', 96, 0]

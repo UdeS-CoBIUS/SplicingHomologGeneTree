@@ -1,0 +1,1 @@
+((((ENSPREG00000000231__Poecilia_reticulata,ENSXCOG00000014916__Xiphophorus_couchianus),ENSKMAG00000016730__Kryptolebias_marmoratus),ENSORLG00015005985__Oryzias_latipes_ASM223469v1),ENSAPOG00000018242__Acanthochromis_polyacanthus);

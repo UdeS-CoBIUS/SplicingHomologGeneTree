@@ -1,0 +1,1 @@
+((((((ENSCCEG00000006771__Cyanistes_caeruleus,ENSPMJG00000012695__Parus_major),ENSJHYG00000010162__Junco_hyemalis),(ENSSCAG00000007914__Serinus_canaria,ENSLSDG00000005691__Lonchura_striata_domestica)),ENSCJPG00005014524__Coturnix_japonica),ENSCABG00000011421__Chelonoidis_abingdonii),(ENSANAG00000034053__Aotus_nancymaae,ENSMMUG00000044712__Macaca_mulatta));

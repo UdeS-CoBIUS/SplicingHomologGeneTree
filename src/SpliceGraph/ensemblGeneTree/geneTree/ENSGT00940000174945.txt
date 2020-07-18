@@ -1,0 +1,1 @@
+(((ENSAMXG00000004990__Astyanax_mexicanus,ENSPNAG00000007289__Pygocentrus_nattereri),ENSPNAG00000002763__Pygocentrus_nattereri),ENSPMGG00000015879__Periophthalmus_magnuspinnatus);

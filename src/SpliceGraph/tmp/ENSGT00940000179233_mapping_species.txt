@@ -1,0 +1,3 @@
+ORYZIASLATIPES	oryzias_latipes
+AMPHIPRIONPERCULA	amphiprion_percula
+TAKIFUGURUBRIPES	takifugu_rubripes

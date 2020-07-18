@@ -1,0 +1,4 @@
+>cluster_0
+FBtr0085128
+>cluster_1
+F25D7.5.1	Y70G10A.2.1	FBtr0344121

@@ -1,0 +1,1 @@
+((((((ENSTBEG00000008825__Tupaia_belangeri,ENSTBEG00000001226__Tupaia_belangeri),ENSTBEG00000013692__Tupaia_belangeri),ENSTBEG00000007584__Tupaia_belangeri),ENSTBEG00000000604__Tupaia_belangeri),ENSCHOG00000011339__Choloepus_hoffmanni),ENSMEUG00000001009__Notamacropus_eugenii);

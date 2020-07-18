@@ -1,0 +1,1 @@
+(ENSDNOG00000042139__Dasypus_novemcinctus,MGP_CAROLIEiJ_G0002208__Mus_caroli_strain_CAROLI_EIJ);

@@ -1,0 +1,1 @@
+(((((ENSPNYG00000017192__Pundamilia_nyererei,ENSACIG00000000071__Amphilophus_citrinellus),ENSSPAG00000018820__Stegastes_partitus),ENSMAMG00000024193__Mastacembelus_armatus),ENSMMOG00000011627__Mola_mola),ENSHCOG00000007755__Hippocampus_comes);

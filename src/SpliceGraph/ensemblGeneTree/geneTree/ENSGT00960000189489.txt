@@ -1,0 +1,1 @@
+((ENSNSUG00000005559__Notechis_scutatus,ENSSMRG00000013572__Salvator_merianae),(((ENSJHYG00000009773__Junco_hyemalis,ENSLCOG00000001459__Lepidothrix_coronata),ENSLSDG00000012052__Lonchura_striata_domestica),(ENSABRG00000006200__Anser_brachyrhynchus,ENSNMEG00000007133__Numida_meleagris)));

@@ -1,0 +1,1 @@
+(ENSSDUG00000017256__Seriola_dumerili,ENSATEG00000020595__Anabas_testudineus);

@@ -1,0 +1,6 @@
+SERIOLADUMERILI	seriola_dumerili
+SCOPHTHALMUSMAXIMUS	scophthalmus_maximus
+AMPHIPRIONOCELLARIS	amphiprion_ocellaris
+AMPHIPRIONPERCULA	amphiprion_percula
+ACANTHOCHROMISPOLYACANTHUS	acanthochromis_polyacanthus
+MOLAMOLA	mola_mola

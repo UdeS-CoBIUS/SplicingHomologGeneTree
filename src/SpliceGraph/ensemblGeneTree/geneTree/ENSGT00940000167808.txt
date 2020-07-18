@@ -1,0 +1,1 @@
+(((ENSMLEG00000039649__Mandrillus_leucophaeus,ENSPTIG00000018438__Panthera_tigris_altaica),((ENSSARG00000011296__Sorex_araneus,ENSEEUG00000003958__Erinaceus_europaeus),ENSCANG00000042181__Colobus_angolensis_palliatus)),((ENSNMEG00000004344__Numida_meleagris,ENSCJPG00005002160__Coturnix_japonica),ENSAHAG00000000214__Apteryx_haastii));

@@ -1,0 +1,1 @@
+(((((ENSPTEG00000020669__Piliocolobus_tephrosceles,ENSMSIG00000022452__Mus_spicilegus),ENSOCUG00000000711__Oryctolagus_cuniculus),ENSAMEG00000019160__Ailuropoda_melanoleuca),ENSLAFG00000003332__Loxodonta_africana),(ENSPCIG00000022637__Phascolarctos_cinereus,ENSSHAG00000013307__Sarcophilus_harrisii));

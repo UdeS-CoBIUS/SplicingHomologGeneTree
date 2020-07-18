@@ -1,0 +1,1 @@
+((ENSPKIG00000004336__Paramormyrops_kingsleyae,ENSIPUG00000014704__Ictalurus_punctatus),(ENSNPEG00000008944__Nothoprocta_perdicaria,ENSUAMG00000000721__Ursus_americanus));

@@ -1,0 +1,1 @@
+(((ENSPPYG00000009812__Pongo_abelii,ENSPTEG00000023282__Piliocolobus_tephrosceles),(((ENSCSAG00000000546__Chlorocebus_sabaeus,ENSMMUG00000031952__Macaca_mulatta),ENSCANG00000034598__Colobus_angolensis_palliatus),ENSPPYG00000012802__Pongo_abelii)),ENSPSMG00000018444__Prolemur_simus);

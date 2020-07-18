@@ -1,0 +1,1 @@
+((((ENSCPBG00000027272__Chrysemys_picta_bellii,ENSGAGG00000000039__Gopherus_agassizii),ENSGAGG00000007721__Gopherus_agassizii),ENSPCIG00000014494__Phascolarctos_cinereus),(ENSCVAG00000018449__Cyprinodon_variegatus,ENSPREG00000007851__Poecilia_reticulata));

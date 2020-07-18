@@ -1,1 +1,0 @@
-((ENSSTOG00000034152__Ictidomys_tridecemlineatus,ENSMMMG00000004942__Marmota_marmota_marmota),ENSUPAG00010004668__Urocitellus_parryii);

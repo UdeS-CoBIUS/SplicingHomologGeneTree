@@ -1,0 +1,1 @@
+((((ENSAPEG00000022626__Amphiprion_percula,ENSAPEG00000022690__Amphiprion_percula),ENSXMAG00000026841__Xiphophorus_maculatus),(ENSABRG00000003879__Anser_brachyrhynchus,ENSELUG00000005676__Esox_lucius)),ENSEBUG00000002596__Eptatretus_burgeri);

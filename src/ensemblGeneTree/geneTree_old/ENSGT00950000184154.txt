@@ -1,1 +1,0 @@
-((ENSAPOG00000009663__Acanthochromis_polyacanthus,ENSATEG00000002701__Anabas_testudineus),(ENSMSIG00000009037__Mus_spicilegus,ENSMUSG00000091195__Mus_musculus_strain_reference_(CL57BL6)));

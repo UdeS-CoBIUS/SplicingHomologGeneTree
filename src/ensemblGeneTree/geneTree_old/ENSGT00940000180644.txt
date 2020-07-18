@@ -1,1 +1,0 @@
-(ENSAPOG00000024101__Acanthochromis_polyacanthus,ENSLBEG00000028144__Labrus_bergylta);

@@ -1,0 +1,1 @@
+(((((ENSMMMG00000022860__Marmota_marmota_marmota,ENSUPAG00010020964__Urocitellus_parryii),ENSCGRG00015007167__Cricetulus_griseus_CriGri-PICR),ENSCCNG00000015557__Castor_canadensis),ENSSSCG00000037003__Sus_scrofa),ENSPMAG00000001770__Petromyzon_marinus);

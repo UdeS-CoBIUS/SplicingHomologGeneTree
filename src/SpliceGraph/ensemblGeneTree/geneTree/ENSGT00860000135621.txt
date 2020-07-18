@@ -1,0 +1,1 @@
+((((ENSMUSG00000079170__Mus_musculus_strain_reference_(CL57BL6),MGP_SPRETEiJ_G0024969__Mus_spretus_strain_SPRET/EiJ),MGP_CAROLIEiJ_G0024056__Mus_caroli_strain_CAROLI_EIJ),MGP_PahariEiJ_G0025494__Mus_pahari_strain_PAHARI_EIJ),ENSCGRG00015007929__Cricetulus_griseus_CriGri-PICR);

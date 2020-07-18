@@ -1,1 +1,0 @@
-(((ENSGAGG00000011458__Gopherus_agassizii,ENSGAGG00000002664__Gopherus_agassizii),ENSCABG00000015760__Chelonoidis_abingdonii),ENSRBIG00000029570__Rhinopithecus_bieti);

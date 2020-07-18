@@ -1,0 +1,1 @@
+(((ENSUPAG00010019638__Urocitellus_parryii,ENSMSIG00000007536__Mus_spicilegus),(((ENSPEMG00000027044__Peromyscus_maniculatus_bairdii,ENSMUGG00000000954__Meriones_unguiculatus),ENSCCNG00000016353__Castor_canadensis),ENSPSMG00000022825__Prolemur_simus)),(ENSUAMG00000006156__Ursus_americanus,ENSVVUG00000006211__Vulpes_vulpes));

@@ -1,0 +1,1 @@
+(((ENSCCNG00000008529__Castor_canadensis,ENSPPRG00000007731__Panthera_pardus),((ENSSCAG00000009409__Serinus_canaria,ENSLSDG00000017227__Lonchura_striata_domestica),ENSGALG00000014719__Gallus_gallus)),ENSEBUG00000007918__Eptatretus_burgeri);

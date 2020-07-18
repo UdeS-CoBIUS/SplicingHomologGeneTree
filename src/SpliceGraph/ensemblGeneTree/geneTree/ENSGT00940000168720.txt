@@ -1,0 +1,1 @@
+((((ENSPLAG00000023505__Poecilia_latipinna,ENSPMEG00000008628__Poecilia_mexicana),ENSMALG00000006939__Monopterus_albus),ENSPMGG00000015632__Periophthalmus_magnuspinnatus),((((ENSVVUG00000009719__Vulpes_vulpes,ENSCAFG00000028996__Canis_lupus_familiaris),ENSSARG00000004542__Sorex_araneus),ENSCLAG00000004308__Chinchilla_lanigera),ENSPCAG00000001497__Procavia_capensis));

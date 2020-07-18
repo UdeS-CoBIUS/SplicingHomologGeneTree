@@ -1,0 +1,3 @@
+PILIOCOLOBUSTEPHROSCELES	piliocolobus_tephrosceles
+PAPIOANUBIS	papio_anubis
+NOMASCUSLEUCOGENYS	nomascus_leucogenys

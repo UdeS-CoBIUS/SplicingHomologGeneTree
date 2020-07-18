@@ -1,0 +1,1 @@
+(((ENSCSAG00000012596__Chlorocebus_sabaeus,ENSTGEG00000007565__Theropithecus_gelada),ENSPTEG00000004832__Piliocolobus_tephrosceles),(((ENSPPAG00000036278__Pan_paniscus,ENSPTRG00000030589__Pan_troglodytes),ENSGGOG00000012789__Gorilla_gorilla),ENSPPYG00000010908__Pongo_abelii));

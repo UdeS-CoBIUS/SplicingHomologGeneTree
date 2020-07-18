@@ -1,0 +1,16 @@
+>0
+YIL120W_mRNA: ['exon skipping', 0, 0]
+YNL065W_mRNA: ['no event', 9, 0]
+YIL121W_mRNA: ['exon skipping', 0, 0]
+>1
+YIL120W_mRNA: ['5event', ['internal gap >= 30', 1606, 141], 1684, 0]
+YNL065W_mRNA: [['internal gap >= 30', 1682, 103], 1722, 1]
+YIL121W_mRNA: ['5event', ['internal gap >= 30', 1606, 197], 1628, 0]
+>2
+YIL120W_mRNA: [['internal gap < 30', 1, 5], 6, 2]
+YNL065W_mRNA: ['no event', 11, 1]
+YIL121W_mRNA: ['exon skipping', 0, 0]
+>3
+YIL120W_mRNA: ['exon skipping', 0, 0]
+YNL065W_mRNA: ['no event', 16, 1]
+YIL121W_mRNA: ['exon skipping', 0, 0]

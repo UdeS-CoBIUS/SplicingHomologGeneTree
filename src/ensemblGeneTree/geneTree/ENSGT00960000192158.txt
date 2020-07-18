@@ -1,0 +1,1 @@
+(ENSXCOG00000013120__Xiphophorus_couchianus,ENSCJPG00005002286__Coturnix_japonica);

@@ -1,0 +1,5 @@
+MANDRILLUSLEUCOPHAEUS	mandrillus_leucophaeus
+MACACANEMESTRINA	macaca_nemestrina
+PANTROGLODYTES	pan_troglodytes
+PANPANISCUS	pan_paniscus
+GORILLAGORILLA	gorilla_gorilla

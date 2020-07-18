@@ -1,0 +1,1 @@
+((ENSCPOG00000033304__Cavia_porcellus,ENSCLAG00000017951__Chinchilla_lanigera),ENSHGLG00000021340__Heterocephalus_glaber_HetGla_female_1.0);

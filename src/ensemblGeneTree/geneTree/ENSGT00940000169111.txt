@@ -1,0 +1,1 @@
+(((((ENSPTRG00000052275__Pan_troglodytes,ENSPTRG00000046788__Pan_troglodytes),ENSGGOG00000038968__Gorilla_gorilla),ENSPSMG00000014599__Prolemur_simus),ENSSDAG00000014876__Spermophilus_dauricus),ENSMPUG00000005707__Mustela_putorius_furo);

@@ -1,1 +1,0 @@
-(ENSDORG00000026857__Dipodomys_ordii,ENSODEG00000016777__Octodon_degus);

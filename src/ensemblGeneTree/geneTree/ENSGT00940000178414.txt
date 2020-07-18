@@ -1,0 +1,1 @@
+((((ENSMZEG00005000595__Maylandia_zebra,ENSACLG00000003991__Astatotilapia_calliptera),ENSORLG00020016008__Oryzias_latipes_ASM223471v1),(ENSATEG00000016491__Anabas_testudineus,ENSMALG00000009756__Monopterus_albus)),ENSAHAG00000001529__Apteryx_haastii);

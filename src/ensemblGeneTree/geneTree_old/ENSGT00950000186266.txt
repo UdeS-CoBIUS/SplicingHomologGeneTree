@@ -1,1 +1,0 @@
-(((ENSCPGG00000014836__Calidris_pygmaea,ENSARWG00000012019__Apteryx_rowi),ENSGAGG00000007294__Gopherus_agassizii),ENSTRUG00000021254__Takifugu_rubripes);

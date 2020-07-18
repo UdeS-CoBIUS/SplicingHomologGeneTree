@@ -1,0 +1,11 @@
+NANNOSPALAXGALILI	nannospalax_galili
+PONGOABELII	pongo_abelii
+PILIOCOLOBUSTEPHROSCELES	piliocolobus_tephrosceles
+RHINOPITHECUSROXELLANA	rhinopithecus_roxellana
+MACACAMULATTA	macaca_mulatta
+PONGOABELII	pongo_abelii
+ANOLISCAROLINENSIS	anolis_carolinensis
+CHRYSEMYSPICTABELLII	chrysemys_picta_bellii
+GOPHERUSAGASSIZII	gopherus_agassizii
+PELODISCUSSINENSIS	pelodiscus_sinensis
+XENOPUSTROPICALIS	xenopus_tropicalis

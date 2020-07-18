@@ -1,0 +1,1 @@
+(((ENSPMJG00000004273__Parus_major,ENSJHYG00000000600__Junco_hyemalis),ENSMUNG00000009382__Melopsittacus_undulatus),ENSIPUG00000014656__Ictalurus_punctatus);

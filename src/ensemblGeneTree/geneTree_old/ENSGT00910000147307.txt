@@ -1,1 +1,0 @@
-(((ENSNLEG00000035669__Nomascus_leucogenys,ENSPPAG00000027198__Pan_paniscus),(ENSPANG00000031279__Papio_anubis,ENSCANG00000039120__Colobus_angolensis_palliatus)),(ENSANAG00000031622__Aotus_nancymaae,ENSCCAG00000030684__Cebus_capucinus_imitator));

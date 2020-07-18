@@ -1,0 +1,1 @@
+(ENSSDUG00000022460__Seriola_dumerili,ENSMALG00000000551__Monopterus_albus);

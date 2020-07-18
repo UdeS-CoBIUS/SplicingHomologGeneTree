@@ -1,0 +1,1 @@
+(ENSAPLG00000007625__Anas_platyrhynchos_platyrhynchos,ENSMGAG00000000923__Meleagris_gallopavo);

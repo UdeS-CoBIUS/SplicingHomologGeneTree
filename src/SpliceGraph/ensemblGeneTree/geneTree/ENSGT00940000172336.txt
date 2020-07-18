@@ -1,0 +1,1 @@
+((ENSPLAG00000003554__Poecilia_latipinna,ENSXMAG00000002987__Xiphophorus_maculatus),(ENSTNIG00000004089__Tetraodon_nigroviridis,ENSTRUG00000018145__Takifugu_rubripes));

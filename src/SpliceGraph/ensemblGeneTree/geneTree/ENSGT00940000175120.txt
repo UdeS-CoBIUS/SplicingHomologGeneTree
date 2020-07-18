@@ -1,0 +1,1 @@
+(((ENSCVAG00000018429__Cyprinodon_variegatus,ENSKMAG00000019739__Kryptolebias_marmoratus),ENSONIG00000016371__Oreochromis_niloticus),ENSMMOG00000018419__Mola_mola);

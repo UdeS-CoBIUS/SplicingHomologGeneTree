@@ -1,0 +1,1 @@
+((((ENSJJAG00000004047__Jaculus_jaculus,ENSJJAG00000019540__Jaculus_jaculus),ENSCAPG00000016001__Cavia_aperea),(ENSMFAG00000001643__Macaca_fascicularis,ENSPTRG00000049597__Pan_troglodytes)),ENSSSCG00000034296__Sus_scrofa);

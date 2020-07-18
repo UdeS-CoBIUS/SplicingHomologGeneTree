@@ -1,0 +1,1 @@
+(ENSCCAG00000033668__Cebus_capucinus_imitator,ENSBTAG00000051591__Bos_taurus);

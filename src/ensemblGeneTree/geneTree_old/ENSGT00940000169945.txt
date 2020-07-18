@@ -1,1 +1,0 @@
-((ENSMODG00000019674__Monodelphis_domestica,ENSOANG00000028290__Ornithorhynchus_anatinus),(((ENSAMXG00000032583__Astyanax_mexicanus,ENSPNAG00000024782__Pygocentrus_nattereri),ENSIPUG00000000786__Ictalurus_punctatus),ENSDARG00000033955__Danio_rerio));

@@ -1,0 +1,3 @@
+MONOPTERUSALBUS	monopterus_albus
+SCOPHTHALMUSMAXIMUS	scophthalmus_maximus
+ASTYANAXMEXICANUS	astyanax_mexicanus

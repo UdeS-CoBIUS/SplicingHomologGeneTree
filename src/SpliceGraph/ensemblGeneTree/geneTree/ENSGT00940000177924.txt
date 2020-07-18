@@ -1,0 +1,1 @@
+(((((ENSPMEG00000010543__Poecilia_mexicana,ENSPLAG00000011429__Poecilia_latipinna),ENSPREG00000012601__Poecilia_reticulata),ENSCVAG00000013472__Cyprinodon_variegatus),(ENSSDUG00000014536__Seriola_dumerili,ENSSLDG00000015622__Seriola_lalandi_dorsalis)),ENSHCOG00000003566__Hippocampus_comes);

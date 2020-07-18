@@ -1,0 +1,1 @@
+((ENSOPRG00000006246__Ochotona_princeps,ENSBBBG00000014688__Bison_bison_bison),ENSCABG00000013182__Chelonoidis_abingdonii);

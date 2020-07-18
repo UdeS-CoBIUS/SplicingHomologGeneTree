@@ -1,0 +1,1 @@
+(((ENSUPAG00010020098__Urocitellus_parryii,ENSMMMG00000015614__Marmota_marmota_marmota),ENSRNOG00000056896__Rattus_norvegicus),ENSFCAG00000046688__Felis_catus);

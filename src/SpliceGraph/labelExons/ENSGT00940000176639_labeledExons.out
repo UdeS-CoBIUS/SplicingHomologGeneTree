@@ -1,0 +1,6 @@
+>0
+YDR178W_mRNA: ['no event', 540, 0]
+YLR164W_mRNA: [['internal gap >= 30', 477, 34], 506, 0]
+>1
+YDR178W_mRNA: ['no event', 4, 1]
+YLR164W_mRNA: ['exon skipping', 0, 0]

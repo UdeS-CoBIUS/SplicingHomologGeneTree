@@ -1,0 +1,8 @@
+PAPIOANUBIS	papio_anubis
+MANDRILLUSLEUCOPHAEUS	mandrillus_leucophaeus
+THEROPITHECUSGELADA	theropithecus_gelada
+CERCOCEBUSATYS	cercocebus_atys
+MACACAFASCICULARIS	macaca_fascicularis
+MACACANEMESTRINA	macaca_nemestrina
+MACACAMULATTA	macaca_mulatta
+VULPESVULPES	vulpes_vulpes

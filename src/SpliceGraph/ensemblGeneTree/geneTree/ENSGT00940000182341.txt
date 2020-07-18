@@ -1,0 +1,1 @@
+(ENSPKIG00000002231__Paramormyrops_kingsleyae,ENSPLAG00000006351__Poecilia_latipinna);

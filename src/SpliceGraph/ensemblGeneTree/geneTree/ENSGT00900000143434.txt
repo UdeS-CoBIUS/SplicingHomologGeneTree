@@ -1,0 +1,1 @@
+((((((ENSMMUG00000045964__Macaca_mulatta,ENSMFAG00000038371__Macaca_fascicularis),ENSCATG00000006552__Cercocebus_atys),ENSRROG00000029511__Rhinopithecus_roxellana),(ENSSBOG00000033413__Saimiri_boliviensis_boliviensis,ENSCJAG00000044397__Callithrix_jacchus)),ENSMMMG00000017716__Marmota_marmota_marmota),ENSSSCG00000035208__Sus_scrofa);

@@ -1,0 +1,1 @@
+((((ENSSHAG00000016206__Sarcophilus_harrisii,ENSPTEG00000011498__Piliocolobus_tephrosceles),ENSEBUG00000011118__Eptatretus_burgeri),(ENSCSAVG00000004390__Ciona_savignyi,ENSCING00000007977__Ciona_intestinalis)),FBgn0037653__Drosophila_melanogaster);

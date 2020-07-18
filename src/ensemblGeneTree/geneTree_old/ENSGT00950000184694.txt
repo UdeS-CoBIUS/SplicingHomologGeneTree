@@ -1,1 +1,0 @@
-((ENSACAG00000021982__Anolis_carolinensis,ENSGAGG00000008393__Gopherus_agassizii),ENSOANG00000030652__Ornithorhynchus_anatinus);

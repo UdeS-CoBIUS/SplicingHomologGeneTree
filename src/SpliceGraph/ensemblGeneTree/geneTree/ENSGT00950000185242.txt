@@ -1,0 +1,1 @@
+((ENSEASG00005005232__Equus_asinus_asinus,ENSECAG00000033894__Equus_caballus),ENSCPBG00000009735__Chrysemys_picta_bellii);

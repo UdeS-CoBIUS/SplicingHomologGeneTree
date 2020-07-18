@@ -1,0 +1,1 @@
+((ENSLSDG00000018097__Lonchura_striata_domestica,ENSCJPG00005004803__Coturnix_japonica),ENSPKIG00000004493__Paramormyrops_kingsleyae);

@@ -1,0 +1,2 @@
+COTURNIXJAPONICA	coturnix_japonica
+CYANISTESCAERULEUS	cyanistes_caeruleus

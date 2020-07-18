@@ -1,0 +1,1 @@
+(ENSCANG00000034071__Colobus_angolensis_palliatus,ENSMFAG00000034974__Macaca_fascicularis);

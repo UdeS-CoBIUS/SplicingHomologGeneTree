@@ -1,0 +1,8 @@
+RHINOPITHECUSROXELLANA	rhinopithecus_roxellana
+RHINOPITHECUSBIETI	rhinopithecus_bieti
+MACACAFASCICULARIS	macaca_fascicularis
+MACACAMULATTA	macaca_mulatta
+MACACANEMESTRINA	macaca_nemestrina
+MANDRILLUSLEUCOPHAEUS	mandrillus_leucophaeus
+CERCOCEBUSATYS	cercocebus_atys
+NOMASCUSLEUCOGENYS	nomascus_leucogenys

@@ -1,4 +1,4 @@
 >cluster_0
-Y71G12B.4.1	FBtr0072202
->cluster_1
 FBtr0072203
+>cluster_1
+Y71G12B.4.1	FBtr0072202

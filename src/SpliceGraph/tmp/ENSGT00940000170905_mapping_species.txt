@@ -1,0 +1,11 @@
+PYGOCENTRUSNATTERERI	pygocentrus_nattereri
+DANIORERIO	danio_rerio
+DENTICEPSCLUPEOIDES	denticeps_clupeoides
+GASTEROSTEUSACULEATUS	gasterosteus_aculeatus
+TETRAODONNIGROVIRIDIS	tetraodon_nigroviridis
+LABRUSBERGYLTA	labrus_bergylta
+ORYZIASLATIPES	oryzias_latipes
+ORYZIASLATIPES	oryzias_latipes
+ORYZIASLATIPES	oryzias_latipes
+POECILIARETICULATA	poecilia_reticulata
+MASTACEMBELUSARMATUS	mastacembelus_armatus

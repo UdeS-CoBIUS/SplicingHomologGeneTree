@@ -1,0 +1,1 @@
+(ENSLACG00000015792__Latimeria_chalumnae,FBgn0038163__Drosophila_melanogaster);

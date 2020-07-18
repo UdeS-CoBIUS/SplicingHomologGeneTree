@@ -1,0 +1,1 @@
+(((ENSLBEG00000007029__Labrus_bergylta,ENSMAMG00000012686__Mastacembelus_armatus),(((ENSPNYG00000018821__Pundamilia_nyererei,ENSMZEG00005004918__Maylandia_zebra),ENSNBRG00000012908__Neolamprologus_brichardi),ENSACLG00000008122__Astatotilapia_calliptera)),ENSHHUG00000018392__Hucho_hucho);

@@ -1,0 +1,1 @@
+(((ENSHCOG00000009426__Hippocampus_comes,ENSOMEG00000001172__Oryzias_melastigma),ENSPMGG00000021971__Periophthalmus_magnuspinnatus),ENSDCDG00000030699__Denticeps_clupeoides);

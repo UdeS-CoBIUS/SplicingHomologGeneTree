@@ -1,0 +1,1 @@
+(((ENSXMAG00000005171__Xiphophorus_maculatus,ENSFHEG00000018991__Fundulus_heteroclitus),ENSAPOG00000009289__Acanthochromis_polyacanthus),((ENSLBEG00000018934__Labrus_bergylta,ENSTRUG00000022114__Takifugu_rubripes),ENSPMGG00000010973__Periophthalmus_magnuspinnatus));

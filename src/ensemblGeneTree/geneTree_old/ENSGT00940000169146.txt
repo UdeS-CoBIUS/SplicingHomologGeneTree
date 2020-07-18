@@ -1,1 +1,0 @@
-((((ENSVPAG00000003780__Vicugna_pacos,ENSOARG00000002266__Ovis_aries),(ENSECAG00000033778__Equus_caballus,ENSVVUG00000008450__Vulpes_vulpes)),ENSRROG00000043873__Rhinopithecus_roxellana),ENSETEG00000014326__Echinops_telfairi);

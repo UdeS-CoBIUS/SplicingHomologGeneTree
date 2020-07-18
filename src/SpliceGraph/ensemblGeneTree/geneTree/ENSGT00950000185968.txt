@@ -1,0 +1,1 @@
+((ENSAPLG00000001355__Anas_platyrhynchos_platyrhynchos,ENSDNVG00000012047__Dromaius_novaehollandiae),ENSCPBG00000007376__Chrysemys_picta_bellii);

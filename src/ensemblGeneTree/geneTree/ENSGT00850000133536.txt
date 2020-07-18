@@ -1,0 +1,1 @@
+((ENSOARG00000004336__Ovis_aries,ENSOARG00000014987__Ovis_aries),(ENSCGRG00015010599__Cricetulus_griseus_CriGri-PICR,ENSCGRG00015022624__Cricetulus_griseus_CriGri-PICR));

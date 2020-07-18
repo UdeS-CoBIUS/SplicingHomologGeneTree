@@ -1,0 +1,1 @@
+(((ENSSLDG00000003334__Seriola_lalandi_dorsalis,ENSSLDG00000010214__Seriola_lalandi_dorsalis),(ENSMZEG00005027158__Maylandia_zebra,ENSONIG00000012291__Oreochromis_niloticus)),ENSGMOG00000006829__Gadus_morhua);

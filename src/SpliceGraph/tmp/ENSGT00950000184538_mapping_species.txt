@@ -1,0 +1,3 @@
+NOTAMACROPUSEUGENII	notamacropus_eugenii
+PHASCOLARCTOSCINEREUS	phascolarctos_cinereus
+SARCOPHILUSHARRISII	sarcophilus_harrisii

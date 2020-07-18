@@ -1,0 +1,1 @@
+((ENSAMXG00000039894__Astyanax_mexicanus,ENSSLDG00000006995__Seriola_lalandi_dorsalis),(ENSJHYG00000012788__Junco_hyemalis,ENSCCEG00000001426__Cyanistes_caeruleus));

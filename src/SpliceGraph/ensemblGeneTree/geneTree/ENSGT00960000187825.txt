@@ -1,0 +1,1 @@
+(((ENSGALG00000048735__Gallus_gallus,ENSGALG00000052484__Gallus_gallus),ENSGALG00000051781__Gallus_gallus),ENSABRG00000005896__Anser_brachyrhynchus);

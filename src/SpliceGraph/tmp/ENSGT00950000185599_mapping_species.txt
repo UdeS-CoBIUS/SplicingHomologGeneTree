@@ -1,0 +1,2 @@
+ORNITHORHYNCHUSANATINUS	ornithorhynchus_anatinus
+SPHENODONPUNCTATUS	sphenodon_punctatus

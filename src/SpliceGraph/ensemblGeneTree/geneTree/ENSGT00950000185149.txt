@@ -1,0 +1,1 @@
+(((((ENSECAG00000034015__Equus_caballus,ENSCAFG00020023036__Canis_lupus_dingo),(ENSSSCG00000006317__Sus_scrofa,ENSBTAG00000050910__Bos_taurus)),ENSPSMG00000010520__Prolemur_simus),ENSMSIG00000012958__Mus_spicilegus),(ENSJHYG00000002988__Junco_hyemalis,ENSLSDG00000011090__Lonchura_striata_domestica));

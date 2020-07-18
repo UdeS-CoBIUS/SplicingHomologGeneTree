@@ -1,0 +1,3 @@
+GALLUSGALLUS	gallus_gallus
+MELEAGRISGALLOPAVO	meleagris_gallopavo
+FICEDULAALBICOLLIS	ficedula_albicollis

@@ -1,0 +1,2 @@
+>completeCluster_0
+ZC132.9.1	F47D2.11.1	ZK218.4.1

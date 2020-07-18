@@ -1,0 +1,1 @@
+((((((ENSPANG00000031724__Papio_anubis,ENSCATG00000036543__Cercocebus_atys),ENSMNEG00000030282__Macaca_nemestrina),ENSMLEG00000027848__Mandrillus_leucophaeus),ENSGGOG00000042471__Gorilla_gorilla),ENSCJAG00000046389__Callithrix_jacchus),ENSSSCG00000038612__Sus_scrofa);

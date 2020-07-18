@@ -1,0 +1,1 @@
+(((ENSKMAG00000001260__Kryptolebias_marmoratus,ENSGACG00000011738__Gasterosteus_aculeatus),ENSHHUG00000048629__Hucho_hucho),((((ENSDARG00000094192__Danio_rerio,ENSDARG00000094914__Danio_rerio),(ENSDARG00000094281__Danio_rerio,ENSDARG00000069103__Danio_rerio)),ENSDARG00000092973__Danio_rerio),ENSPNAG00000016404__Pygocentrus_nattereri));

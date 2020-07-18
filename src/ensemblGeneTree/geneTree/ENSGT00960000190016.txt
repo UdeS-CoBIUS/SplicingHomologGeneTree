@@ -1,0 +1,1 @@
+((ENSGGOG00000043418__Gorilla_gorilla,ENSPSMG00000014761__Prolemur_simus),(ENSBMUG00000010429__Bos_mutus,ENSBBBG00000018204__Bison_bison_bison));

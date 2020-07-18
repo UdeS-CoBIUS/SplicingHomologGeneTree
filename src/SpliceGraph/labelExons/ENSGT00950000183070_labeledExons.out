@@ -1,0 +1,10 @@
+>0
+FBtr0081164: [['internal gap < 30', 24, 15], 431, 0]
+FBtr0081165: [['internal gap < 30', 24, 15], 431, 0]
+FBtr0346428: [['internal gap < 30', 24, 15], 431, 0]
+Y37E3.9.1: ['3event', 402, 0]
+>1
+FBtr0081164: [['internal gap >= 30', 79, 88], 395, 0]
+FBtr0081165: [['internal gap >= 30', 79, 88], 395, 0]
+FBtr0346428: [['internal gap >= 30', 79, 88], 395, 0]
+Y37E3.9.1: ['3event', '5event', 426, 0]

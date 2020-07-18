@@ -1,1 +1,0 @@
-(ENSMUGG00000001870__Meriones_unguiculatus,ENSGAGG00000017071__Gopherus_agassizii);

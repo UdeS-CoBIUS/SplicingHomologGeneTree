@@ -1,0 +1,1 @@
+(ENSCCAG00000026743__Cebus_capucinus_imitator,ENSPANG00000034606__Papio_anubis);

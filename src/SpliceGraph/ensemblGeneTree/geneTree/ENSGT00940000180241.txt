@@ -1,0 +1,1 @@
+(((ENSMUGG00000024693__Meriones_unguiculatus,ENSVVUG00000021771__Vulpes_vulpes),(ENSNPEG00000008990__Nothoprocta_perdicaria,ENSAHAG00000006819__Apteryx_haastii)),((ENSMALG00000015666__Monopterus_albus,ENSMALG00000002215__Monopterus_albus),ENSSLDG00000007512__Seriola_lalandi_dorsalis));

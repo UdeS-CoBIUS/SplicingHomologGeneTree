@@ -1,0 +1,6 @@
+>cluster_0
+FBtr0333187	T28B4.1c.2
+>cluster_1
+T28B4.1c.1	FBtr0085427
+>cluster_2
+T28B4.1b.1	FBtr0085428

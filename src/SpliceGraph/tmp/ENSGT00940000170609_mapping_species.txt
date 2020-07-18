@@ -1,0 +1,3 @@
+FUKOMYSDAMARENSIS	fukomys_damarensis
+CHINCHILLALANIGERA	chinchilla_lanigera
+DIPODOMYSORDII	dipodomys_ordii

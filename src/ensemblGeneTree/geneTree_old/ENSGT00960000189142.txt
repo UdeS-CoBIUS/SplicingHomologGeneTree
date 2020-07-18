@@ -1,1 +1,0 @@
-(ENSNSUG00000018179__Notechis_scutatus,ENSEBUG00000008321__Eptatretus_burgeri);

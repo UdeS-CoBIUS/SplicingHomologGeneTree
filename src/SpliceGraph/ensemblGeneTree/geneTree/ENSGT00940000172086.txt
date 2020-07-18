@@ -1,0 +1,1 @@
+(((ENSACIG00000015849__Amphilophus_citrinellus,ENSGACG00000012158__Gasterosteus_aculeatus),ENSLOCG00000017607__Lepisosteus_oculatus),(((ENSCPGG00000014784__Calidris_pygmaea,ENSLCOG00000002980__Lepidothrix_coronata),ENSPSIG00000000859__Pelodiscus_sinensis),ENSACAG00000026804__Anolis_carolinensis));

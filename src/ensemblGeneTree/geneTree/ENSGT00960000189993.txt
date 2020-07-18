@@ -1,0 +1,1 @@
+(((ENSAPLG00000030008__Anas_platyrhynchos_platyrhynchos,ENSMVIG00005010333__Manacus_vitellinus),ENSARWG00000012241__Apteryx_rowi),ENSLBEG00000012687__Labrus_bergylta);

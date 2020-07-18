@@ -1,0 +1,1 @@
+((ENSECAG00000039216__Equus_caballus,ENSBMUG00000019950__Bos_mutus),ENSMFAG00000004045__Macaca_fascicularis);

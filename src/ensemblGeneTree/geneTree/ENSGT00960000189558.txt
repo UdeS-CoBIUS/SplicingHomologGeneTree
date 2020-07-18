@@ -1,0 +1,1 @@
+(((ENSPMJG00000007090__Parus_major,ENSCCEG00000016584__Cyanistes_caeruleus),ENSSCAG00000011300__Serinus_canaria),((ENSCPGG00000011821__Calidris_pygmaea,ENSCPUG00000013142__Calidris_pugnax),ENSCJPG00005005714__Coturnix_japonica));

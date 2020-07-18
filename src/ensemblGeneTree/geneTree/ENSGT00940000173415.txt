@@ -1,0 +1,1 @@
+((ENSACIG00000014838__Amphilophus_citrinellus,ENSLBEG00000001847__Labrus_bergylta),(ENSCHOG00000006717__Choloepus_hoffmanni,ENSMGAG00000008077__Meleagris_gallopavo));

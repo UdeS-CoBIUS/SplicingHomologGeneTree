@@ -1,0 +1,1 @@
+((ENSVVUG00000014789__Vulpes_vulpes,ENSDNOG00000041320__Dasypus_novemcinctus),(((((ENSCPUG00000019603__Calidris_pugnax,ENSSCAG00000007232__Serinus_canaria),ENSMUNG00000015085__Melopsittacus_undulatus),(ENSARWG00000018821__Apteryx_rowi,ENSNPEG00000003440__Nothoprocta_perdicaria)),ENSCABG00000018815__Chelonoidis_abingdonii),ENSPVIG00000012004__Pogona_vitticeps));

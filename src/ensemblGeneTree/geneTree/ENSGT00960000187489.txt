@@ -1,0 +1,1 @@
+(((ENSCGRG00001015023__Cricetulus_griseus_CHOK1GS_HDv1,ENSCGRG00000005068__Cricetulus_griseus_CriGri_1.0),ENSNGAG00000021541__Nannospalax_galili),ENSEBUG00000006401__Eptatretus_burgeri);

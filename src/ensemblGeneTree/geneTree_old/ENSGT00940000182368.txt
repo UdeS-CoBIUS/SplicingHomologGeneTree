@@ -1,1 +1,0 @@
-((((ENSODEG00000016678__Octodon_degus,ENSUPAG00010016970__Urocitellus_parryii),((ENSUAMG00000022920__Ursus_americanus,ENSUMAG00000012287__Ursus_maritimus),ENSCAFG00020008258__Canis_lupus_dingo)),ENSLCOG00000001811__Lepidothrix_coronata),ENSSLDG00000006226__Seriola_lalandi_dorsalis);

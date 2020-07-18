@@ -1,0 +1,1 @@
+(((ENSSMAG00000002354__Scophthalmus_maximus,ENSCSEG00000009770__Cynoglossus_semilaevis),(ENSSLDG00000002885__Seriola_lalandi_dorsalis,ENSSDUG00000015211__Seriola_dumerili)),(ENSORLG00015013014__Oryzias_latipes_ASM223469v1,ENSORLG00000024326__Oryzias_latipes_ASM223467v1));

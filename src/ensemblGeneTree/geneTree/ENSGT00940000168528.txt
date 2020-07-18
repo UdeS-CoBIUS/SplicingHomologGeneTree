@@ -1,0 +1,1 @@
+(((ENSOARG00000001840__Ovis_aries,ENSEEUG00000013071__Erinaceus_europaeus),ENSMFAG00000036722__Macaca_fascicularis),ENSDNOG00000030586__Dasypus_novemcinctus);

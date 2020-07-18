@@ -1,0 +1,4 @@
+NEOVISONVISON	neovison_vison
+URSUSAMERICANUS	ursus_americanus
+EQUUSCABALLUS	equus_caballus
+TUPAIABELANGERI	tupaia_belangeri

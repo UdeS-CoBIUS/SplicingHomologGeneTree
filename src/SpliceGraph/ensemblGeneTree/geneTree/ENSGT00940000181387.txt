@@ -1,0 +1,1 @@
+(ENSAMXG00000039431__Astyanax_mexicanus,ENSIPUG00000019994__Ictalurus_punctatus);

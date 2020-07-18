@@ -1,1 +1,0 @@
-((((ENSAPLG00000029859__Anas_platyrhynchos_platyrhynchos,ENSABRG00000006860__Anser_brachyrhynchus),ENSCJPG00005002681__Coturnix_japonica),ENSJHYG00000009297__Junco_hyemalis),(ENSAPOG00000015389__Acanthochromis_polyacanthus,ENSAPOG00000015182__Acanthochromis_polyacanthus));

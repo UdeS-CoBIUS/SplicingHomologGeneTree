@@ -1,0 +1,32 @@
+>0
+F13B6.1.1: ['3event', 194, 0]
+F13B6.1.2: ['3event', 194, 0]
+F13B6.2.1: [['internal gap >= 30', 169, 30], 190, 0]
+>1
+F13B6.1.1: ['5event', ['internal gap >= 30', 315, 49], 344, 2]
+F13B6.1.2: ['5event', ['internal gap >= 30', 315, 49], 344, 2]
+F13B6.2.1: [['internal gap < 30', 312, 24], 369, 2]
+>2
+F13B6.1.1: ['no event', 219, 2]
+F13B6.1.2: ['no event', 219, 2]
+F13B6.2.1: ['exon skipping', 0, 0]
+>3
+F13B6.1.1: ['exon skipping', 0, 0]
+F13B6.1.2: ['exon skipping', 0, 0]
+F13B6.2.1: ['5event', 94, 2]
+>4
+F13B6.1.1: ['exon skipping', 0, 0]
+F13B6.1.2: ['exon skipping', 0, 0]
+F13B6.2.1: ['no event', 124, 1]
+>5
+F13B6.1.1: ['exon skipping', 0, 0]
+F13B6.1.2: ['exon skipping', 0, 0]
+F13B6.2.1: ['no event', 76, 0]
+>6
+F13B6.1.1: ['5event', 287, 0]
+F13B6.1.2: ['5event', 287, 0]
+F13B6.2.1: ['exon skipping', 0, 0]
+>7
+F13B6.1.1: ['exon skipping', 0, 0]
+F13B6.1.2: ['exon skipping', 0, 0]
+F13B6.2.1: ['5event', 219, 2]

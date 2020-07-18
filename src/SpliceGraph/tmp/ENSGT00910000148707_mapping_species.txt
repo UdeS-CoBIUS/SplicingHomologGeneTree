@@ -1,0 +1,5 @@
+PAPIOANUBIS	papio_anubis
+THEROPITHECUSGELADA	theropithecus_gelada
+MANDRILLUSLEUCOPHAEUS	mandrillus_leucophaeus
+MACACAMULATTA	macaca_mulatta
+PILIOCOLOBUSTEPHROSCELES	piliocolobus_tephrosceles

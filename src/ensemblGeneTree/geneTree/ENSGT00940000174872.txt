@@ -1,0 +1,1 @@
+((((ENSPLAG00000015709__Poecilia_latipinna,ENSPLAG00000004180__Poecilia_latipinna),ENSXMAG00000026002__Xiphophorus_maculatus),((ENSPMEG00000005353__Poecilia_mexicana,ENSPMEG00000019753__Poecilia_mexicana),ENSXCOG00000006585__Xiphophorus_couchianus)),ENSGACG00000019055__Gasterosteus_aculeatus);

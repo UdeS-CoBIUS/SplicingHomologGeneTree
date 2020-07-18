@@ -1,1 +1,0 @@
-(((ENSEASG00005003268__Equus_asinus_asinus,ENSECAG00000031761__Equus_caballus),ENSFCAG00000043537__Felis_catus),ENSSDAG00000020812__Spermophilus_dauricus);

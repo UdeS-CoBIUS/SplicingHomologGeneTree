@@ -1,0 +1,1 @@
+(((ENSEASG00005004373__Equus_asinus_asinus,ENSEASG00005004393__Equus_asinus_asinus),ENSBBBG00000011541__Bison_bison_bison),ENSUPAG00010007802__Urocitellus_parryii);

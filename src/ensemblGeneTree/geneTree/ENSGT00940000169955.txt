@@ -1,0 +1,1 @@
+((ENSCAFG00000032085__Canis_lupus_familiaris,ENSMPUG00000011592__Mustela_putorius_furo),ENSOANG00000030428__Ornithorhynchus_anatinus);

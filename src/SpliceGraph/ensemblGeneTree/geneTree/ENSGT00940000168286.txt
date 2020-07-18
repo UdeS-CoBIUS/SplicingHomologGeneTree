@@ -1,0 +1,1 @@
+(((((ENSAMEG00000018587__Ailuropoda_melanoleuca,ENSCAFG00000003712__Canis_lupus_familiaris),ENSCHIG00000019877__Capra_hircus),ENSMLUG00000023262__Myotis_lucifugus),ENSRNOG00000028869__Rattus_norvegicus),ENSPKIG00000009723__Paramormyrops_kingsleyae);

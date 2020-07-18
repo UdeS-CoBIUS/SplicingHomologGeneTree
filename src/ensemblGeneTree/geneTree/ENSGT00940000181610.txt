@@ -1,0 +1,1 @@
+((ENSSDUG00000015209__Seriola_dumerili,ENSSLDG00000004643__Seriola_lalandi_dorsalis),ENSLCAG00010024379__Lates_calcarifer);

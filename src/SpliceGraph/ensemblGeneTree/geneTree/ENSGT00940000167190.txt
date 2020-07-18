@@ -1,0 +1,1 @@
+(((((ENSCSAVG00000002346__Ciona_savignyi,ENSCSAVG00000010005__Ciona_savignyi),(ENSCING00000011695__Ciona_intestinalis,ENSCING00000000958__Ciona_intestinalis)),ENSCING00000009016__Ciona_intestinalis),(ENSCING00000007102__Ciona_intestinalis,ENSCSAVG00000003082__Ciona_savignyi)),ENSPREG00000016925__Poecilia_reticulata);

@@ -1,0 +1,3 @@
+FBpp0085418	FBgn0033015	Drosophila_melanogaster	FBtr0086082
+FBpp0311947	FBgn0030502	Drosophila_melanogaster	FBtr0346118
+C28H8.9a.1	WBGene00016200	Caenorhabditis_elegans_strain_N2	C28H8.9a.1

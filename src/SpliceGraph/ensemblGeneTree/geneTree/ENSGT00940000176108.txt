@@ -1,0 +1,1 @@
+(((((ENSAPEG00000000367__Amphiprion_percula,ENSSPAG00000003820__Stegastes_partitus),ENSSMAG00000018579__Scophthalmus_maximus),ENSMAMG00000017069__Mastacembelus_armatus),ENSPMJG00000006698__Parus_major),ENSEBUG00000014333__Eptatretus_burgeri);

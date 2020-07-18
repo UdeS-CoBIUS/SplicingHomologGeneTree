@@ -1,0 +1,12 @@
+>0
+ENSOANT00000017046: ['no event', 51, 0]
+ENSOANT00000017043: ['no event', 51, 0]
+ENSOANT00000017029: ['no event', 51, 0]
+ENSOANT00000017044: ['no event', 51, 0]
+ENSPPYT00000006635: ['no event', 51, 0]
+>1
+ENSOANT00000017046: ['no event', 289, 1]
+ENSOANT00000017043: ['no event', 289, 1]
+ENSOANT00000017029: ['no event', 289, 1]
+ENSOANT00000017044: [['internal gap < 30', 183, 3], 286, 1]
+ENSPPYT00000006635: [['internal gap < 30', 15, 3], 286, 1]

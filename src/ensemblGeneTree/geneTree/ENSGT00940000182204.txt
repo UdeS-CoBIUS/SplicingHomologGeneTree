@@ -1,0 +1,1 @@
+((ENSELUG00000018498__Esox_lucius,ENSELUG00000018512__Esox_lucius),(((ENSCHAG00000007277__Clupea_harengus,ENSCHAG00000007332__Clupea_harengus),ENSCHAG00000007384__Clupea_harengus),ENSCHAG00000007252__Clupea_harengus));

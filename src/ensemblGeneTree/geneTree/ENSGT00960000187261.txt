@@ -1,0 +1,1 @@
+((((ENSSLDG00000018413__Seriola_lalandi_dorsalis,ENSSPAG00000006631__Stegastes_partitus),ENSHCOG00000016201__Hippocampus_comes),(ENSPNAG00000023759__Pygocentrus_nattereri,ENSORLG00020001998__Oryzias_latipes_ASM223471v1)),ENSPTEG00000003122__Piliocolobus_tephrosceles);

@@ -1,0 +1,1 @@
+((ENSLSDG00000006477__Lonchura_striata_domestica,ENSCCEG00000007564__Cyanistes_caeruleus),ENSFALG00000009704__Ficedula_albicollis);

@@ -1,0 +1,1 @@
+(((ENSMNEG00000032366__Macaca_nemestrina,ENSRROG00000037784__Rhinopithecus_roxellana),ENSCLAG00000010108__Chinchilla_lanigera),ENSELUG00000006736__Esox_lucius);

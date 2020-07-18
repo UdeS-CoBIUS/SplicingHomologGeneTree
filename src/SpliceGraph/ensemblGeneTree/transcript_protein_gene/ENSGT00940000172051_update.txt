@@ -1,0 +1,2 @@
+T01C1.2.1	WBGene00011315	Caenorhabditis_elegans_strain_N2	T01C1.2.1
+FBpp0303410	FBgn0264490	Drosophila_melanogaster	FBtr0330384

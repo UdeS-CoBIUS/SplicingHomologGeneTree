@@ -1,0 +1,1 @@
+(((((ENSBMUG00000006313__Bos_mutus,ENSBBBG00000014306__Bison_bison_bison),ENSSSCG00000032233__Sus_scrofa),ENSNVIG00000023673__Neovison_vison),(((ENSMUGG00000017759__Meriones_unguiculatus,ENSMSIG00000025006__Mus_spicilegus),ENSCGRG00015022294__Cricetulus_griseus_CriGri-PICR),ENSSDAG00000009279__Spermophilus_dauricus)),ENSHCOG00000006868__Hippocampus_comes);

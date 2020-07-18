@@ -1,1 +1,0 @@
-(((ENSNPEG00000008550__Nothoprocta_perdicaria,ENSCPGG00000010682__Calidris_pygmaea),((ENSMSIG00000004415__Mus_spicilegus,ENSCCNG00000009220__Castor_canadensis),(ENSSDAG00000006589__Spermophilus_dauricus,ENSMMMG00000011030__Marmota_marmota_marmota))),ENSSLDG00000005803__Seriola_lalandi_dorsalis);

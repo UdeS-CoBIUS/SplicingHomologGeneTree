@@ -1,0 +1,1 @@
+(((ENSPTEG00000005407__Piliocolobus_tephrosceles,ENSSHAG00000011888__Sarcophilus_harrisii),(ENSCING00000009028__Ciona_intestinalis,ENSCSAVG00000008473__Ciona_savignyi)),YHR129C__Saccharomyces_cerevisiae_strain_S288C);

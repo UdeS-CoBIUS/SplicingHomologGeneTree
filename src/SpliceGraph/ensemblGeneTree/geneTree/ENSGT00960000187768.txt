@@ -1,0 +1,1 @@
+(((ENSTRUG00000020430__Takifugu_rubripes,ENSPMGG00000006921__Periophthalmus_magnuspinnatus),ENSMAMG00000022146__Mastacembelus_armatus),ENSSPAG00000007788__Stegastes_partitus);

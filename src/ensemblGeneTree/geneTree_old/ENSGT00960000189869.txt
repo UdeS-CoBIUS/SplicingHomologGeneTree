@@ -1,1 +1,0 @@
-((ENSDNVG00000002593__Dromaius_novaehollandiae,ENSDNVG00000015719__Dromaius_novaehollandiae),(ENSLCOG00000013405__Lepidothrix_coronata,ENSMVIG00005015604__Manacus_vitellinus));

@@ -1,0 +1,4 @@
+MASTACEMBELUSARMATUS	mastacembelus_armatus
+GASTEROSTEUSACULEATUS	gasterosteus_aculeatus
+POECILIAFORMOSA	poecilia_formosa
+GADUSMORHUA	gadus_morhua

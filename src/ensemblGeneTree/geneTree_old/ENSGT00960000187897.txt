@@ -1,1 +1,0 @@
-((ENSCPOG00000012857__Cavia_porcellus,ENSCAPG00000013365__Cavia_aperea),ENSOPRG00000002516__Ochotona_princeps);

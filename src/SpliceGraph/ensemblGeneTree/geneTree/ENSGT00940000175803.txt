@@ -1,0 +1,1 @@
+((ENSACAG00000029016__Anolis_carolinensis,ENSTGUG00000010749__Taeniopygia_guttata),ENSUPAG00010020256__Urocitellus_parryii);

@@ -1,0 +1,5 @@
+CHLOROCEBUSSABAEUS	chlorocebus_sabaeus
+MERIONESUNGUICULATUS	meriones_unguiculatus
+URSUSAMERICANUS	ursus_americanus
+LOXODONTAAFRICANA	loxodonta_africana
+MELEAGRISGALLOPAVO	meleagris_gallopavo

@@ -1,0 +1,7 @@
+PAPIOANUBIS	papio_anubis
+THEROPITHECUSGELADA	theropithecus_gelada
+MACACAMULATTA	macaca_mulatta
+PILIOCOLOBUSTEPHROSCELES	piliocolobus_tephrosceles
+PANPANISCUS	pan_paniscus
+PANTROGLODYTES	pan_troglodytes
+CEBUSCAPUCINUS	cebus_capucinus

@@ -1,1 +1,0 @@
-(ENSGALG00000045534__Gallus_gallus,ENSOPRG00000014097__Ochotona_princeps);

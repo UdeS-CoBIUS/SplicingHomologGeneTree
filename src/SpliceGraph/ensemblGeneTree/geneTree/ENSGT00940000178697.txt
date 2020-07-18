@@ -1,0 +1,1 @@
+(((ENSOMEG00000020889__Oryzias_melastigma,ENSMMOG00000021084__Mola_mola),(ENSPNAG00000004094__Pygocentrus_nattereri,ENSPNAG00000006884__Pygocentrus_nattereri)),(ENSMVIG00005008717__Manacus_vitellinus,ENSARWG00000014407__Apteryx_rowi));

@@ -1,0 +1,30 @@
+>0
+ENSTRUT00000005631: ['exon skipping', 0, 0]
+ENSTNIT00000015802: ['exon skipping', 0, 0]
+ENSSMAT00000017821: ['exon skipping', 0, 0]
+ENSMALT00000002674: ['no event', 13, 0]
+ENSMAMT00000036281: ['exon skipping', 0, 0]
+>1
+ENSTRUT00000005631: ['exon skipping', 0, 0]
+ENSTNIT00000015802: ['exon skipping', 0, 0]
+ENSSMAT00000017821: ['exon skipping', 0, 0]
+ENSMALT00000002674: ['no event', 18, 2]
+ENSMAMT00000036281: ['exon skipping', 0, 0]
+>2
+ENSTRUT00000005631: ['3event', '5event', 383, 0]
+ENSTNIT00000015802: ['3event', '5event', 156, 0]
+ENSSMAT00000017821: ['3event', '5event', 159, 0]
+ENSMALT00000002674: [['internal gap < 30', 228, 29], 547, 0]
+ENSMAMT00000036281: ['5event', ['internal gap < 30', 156, 10], 566, 0]
+>3
+ENSTRUT00000005631: ['5event', 258, 2]
+ENSTNIT00000015802: ['exon skipping', 0, 0]
+ENSSMAT00000017821: ['exon skipping', 0, 0]
+ENSMALT00000002674: ['exon skipping', 0, 0]
+ENSMAMT00000036281: ['exon skipping', 0, 0]
+>4
+ENSTRUT00000005631: ['exon skipping', 0, 0]
+ENSTNIT00000015802: ['exon skipping', 0, 0]
+ENSSMAT00000017821: ['5event', 110, 0]
+ENSMALT00000002674: ['exon skipping', 0, 0]
+ENSMAMT00000036281: ['exon skipping', 0, 0]

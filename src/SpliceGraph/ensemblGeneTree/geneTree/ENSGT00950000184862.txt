@@ -1,0 +1,1 @@
+((ENSFALG00000014572__Ficedula_albicollis,ENSCJPG00005007090__Coturnix_japonica),(ENSUMAG00000020389__Ursus_maritimus,ENSUAMG00000018398__Ursus_americanus));

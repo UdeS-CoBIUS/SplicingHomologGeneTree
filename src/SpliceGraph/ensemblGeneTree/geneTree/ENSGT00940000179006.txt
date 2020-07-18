@@ -1,0 +1,1 @@
+((ENSNBRG00000023997__Neolamprologus_brichardi,ENSHBUG00000023839__Haplochromis_burtoni),(ENSAOCG00000002958__Amphiprion_ocellaris,ENSSPAG00000006195__Stegastes_partitus));

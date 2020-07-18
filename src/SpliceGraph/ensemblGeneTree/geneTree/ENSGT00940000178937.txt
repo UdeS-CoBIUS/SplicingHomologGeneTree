@@ -1,0 +1,1 @@
+(((ENSACIG00000000014__Amphilophus_citrinellus,ENSPREG00000007227__Poecilia_reticulata),ENSMMOG00000009080__Mola_mola),ENSSMAG00000000462__Scophthalmus_maximus);

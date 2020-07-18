@@ -1,1 +1,0 @@
-(((ENSAOCG00000017566__Amphiprion_ocellaris,ENSFHEG00000001335__Fundulus_heteroclitus),(ENSCSEG00000008200__Cynoglossus_semilaevis,ENSSLDG00000012028__Seriola_lalandi_dorsalis)),ENSPMGG00000023157__Periophthalmus_magnuspinnatus);

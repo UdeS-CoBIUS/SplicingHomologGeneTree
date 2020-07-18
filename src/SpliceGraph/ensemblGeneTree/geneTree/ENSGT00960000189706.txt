@@ -1,0 +1,1 @@
+((ENSABRG00000022455__Anser_brachyrhynchus,ENSMUNG00000008087__Melopsittacus_undulatus),((ENSSCAG00000003174__Serinus_canaria,ENSJHYG00000007592__Junco_hyemalis),ENSCCEG00000019826__Cyanistes_caeruleus));

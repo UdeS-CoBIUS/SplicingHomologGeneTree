@@ -1,4 +1,4 @@
 >cluster_0
-FBtr0307273
->cluster_1
 ZK973.3.1	YOR090C_mRNA	FBtr0071076
+>cluster_1
+FBtr0307273

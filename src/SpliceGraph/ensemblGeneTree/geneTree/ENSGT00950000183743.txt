@@ -1,0 +1,1 @@
+(((ENSRROG00000043858__Rhinopithecus_roxellana,ENSRBIG00000008609__Rhinopithecus_bieti),ENSCANG00000038256__Colobus_angolensis_palliatus),(ENSMLEG00000036074__Mandrillus_leucophaeus,ENSCATG00000004021__Cercocebus_atys));

@@ -1,0 +1,1 @@
+(((((ENSMLEG00000038712__Mandrillus_leucophaeus,ENSRROG00000030449__Rhinopithecus_roxellana),ENSNGAG00000003030__Nannospalax_galili),ENSUAMG00000021251__Ursus_americanus),ENSPVIG00000008339__Pogona_vitticeps),(ENSAPOG00000006442__Acanthochromis_polyacanthus,ENSHCOG00000019227__Hippocampus_comes));

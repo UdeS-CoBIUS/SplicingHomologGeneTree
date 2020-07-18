@@ -1,0 +1,1 @@
+(((ENSSTOG00000009953__Ictidomys_tridecemlineatus,ENSMAUG00000014372__Mesocricetus_auratus),ENSNLEG00000011129__Nomascus_leucogenys),ENSPTIG00000011783__Panthera_tigris_altaica);

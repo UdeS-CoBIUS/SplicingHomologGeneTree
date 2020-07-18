@@ -1,0 +1,1 @@
+((((ENSFALG00000000135__Ficedula_albicollis,ENSFALG00000000134__Ficedula_albicollis),((ENSPMJG00000002915__Parus_major,ENSCCEG00000019247__Cyanistes_caeruleus),ENSJHYG00000012826__Junco_hyemalis)),ENSTGUG00000008822__Taeniopygia_guttata),ENSPSIG00000013516__Pelodiscus_sinensis);

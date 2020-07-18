@@ -1,0 +1,1 @@
+((ENSCCAG00000029052__Cebus_capucinus_imitator,ENSANAG00000026740__Aotus_nancymaae),(((ENSPTRG00000007683__Pan_troglodytes,ENSPTRG00000045333__Pan_troglodytes),ENSPPAG00000043795__Pan_paniscus),(ENSG00000008517__Homo_sapiens,ENSGGOG00000023430__Gorilla_gorilla)));

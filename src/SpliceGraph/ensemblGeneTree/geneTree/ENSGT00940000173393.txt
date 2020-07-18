@@ -1,0 +1,1 @@
+(ENSCHIG00000017931__Capra_hircus,ENSPVAG00000009221__Pteropus_vampyrus);

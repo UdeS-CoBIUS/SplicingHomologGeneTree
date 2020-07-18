@@ -1,1 +1,0 @@
-((ENSACIG00000017493__Amphilophus_citrinellus,ENSPREG00000008525__Poecilia_reticulata),ENSMALG00000002303__Monopterus_albus);

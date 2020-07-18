@@ -1,0 +1,1 @@
+((ENSPCOG00000005953__Propithecus_coquereli,ENSPSMG00000022906__Prolemur_simus),ENSPVAG00000008399__Pteropus_vampyrus);

@@ -1,0 +1,1 @@
+((ENSPCIG00000006066__Phascolarctos_cinereus,ENSPCIG00000027883__Phascolarctos_cinereus),ENSNVIG00000016709__Neovison_vison);

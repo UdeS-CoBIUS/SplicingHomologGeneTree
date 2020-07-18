@@ -1,0 +1,1 @@
+((((ENSACLG00000017689__Astatotilapia_calliptera,ENSACLG00000017563__Astatotilapia_calliptera),(ENSMZEG00005025758__Maylandia_zebra,ENSHBUG00000021409__Haplochromis_burtoni)),ENSSFOG00015018396__Scleropages_formosus),(ENSCCEG00000002555__Cyanistes_caeruleus,ENSCPUG00000017594__Calidris_pugnax));

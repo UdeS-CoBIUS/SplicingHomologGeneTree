@@ -1,0 +1,6 @@
+>cluster_0
+K08D8.11.1	K08D8.12a.1
+>cluster_1
+K08D8.1.1	K08D8.12b.1
+>cluster_2
+K08D8.12c.1

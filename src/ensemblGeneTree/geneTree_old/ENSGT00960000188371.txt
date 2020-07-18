@@ -1,1 +1,0 @@
-((ENSMAMG00000019154__Mastacembelus_armatus,ENSXMAG00000028185__Xiphophorus_maculatus),ENSSFOG00015010059__Scleropages_formosus);

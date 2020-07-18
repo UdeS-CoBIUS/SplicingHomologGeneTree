@@ -1,0 +1,20 @@
+>0
+ENSIPUT00000023755: ['no event', 102, 0]
+ENSEEET00000043375: ['no event', 102, 0]
+ENSAMXT00000037246: ['no event', 102, 0]
+>1
+ENSIPUT00000023755: ['no event', 129, 1]
+ENSEEET00000043375: ['no event', 129, 1]
+ENSAMXT00000037246: ['no event', 129, 1]
+>2
+ENSIPUT00000023755: ['exon skipping', 0, 0]
+ENSEEET00000043375: ['no event', 39, 2]
+ENSAMXT00000037246: ['exon skipping', 0, 0]
+>3
+ENSIPUT00000023755: ['5event', ['internal gap >= 30', 144, 33], 204, 2]
+ENSEEET00000043375: ['3event', 151, 0]
+ENSAMXT00000037246: ['5event', 234, 2]
+>4
+ENSIPUT00000023755: ['exon skipping', 0, 0]
+ENSEEET00000043375: ['5event', 13, 1]
+ENSAMXT00000037246: ['exon skipping', 0, 0]

@@ -1,0 +1,2 @@
+TETRAODONNIGROVIRIDIS	tetraodon_nigroviridis
+STEGASTESPARTITUS	stegastes_partitus

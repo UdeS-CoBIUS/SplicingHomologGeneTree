@@ -1,0 +1,1 @@
+(((ENSAOCG00000006750__Amphiprion_ocellaris,ENSAOCG00000006733__Amphiprion_ocellaris),ENSOMEG00000008721__Oryzias_melastigma),ENSLSDG00000006268__Lonchura_striata_domestica);

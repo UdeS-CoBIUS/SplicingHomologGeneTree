@@ -1,0 +1,1 @@
+(((ENSHBUG00000007262__Haplochromis_burtoni,ENSAPEG00000018657__Amphiprion_percula),ENSXCOG00000004917__Xiphophorus_couchianus),ENSLBEG00000004265__Labrus_bergylta);

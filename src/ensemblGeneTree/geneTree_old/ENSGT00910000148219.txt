@@ -1,1 +1,0 @@
-((ENSMNEG00000008885__Macaca_nemestrina,ENSPANG00000036034__Papio_anubis),ENSSBOG00000025346__Saimiri_boliviensis_boliviensis);

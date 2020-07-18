@@ -1,0 +1,4 @@
+CHELONOIDISABINGDONII	chelonoidis_abingdonii
+LONCHURASTRIATADOMESTICA	lonchura_striata_domestica
+CASTORCANADENSIS	castor_canadensis
+MUSSPICILEGUS	mus_spicilegus

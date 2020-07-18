@@ -1,1 +1,0 @@
-((ENSNGAG00000000083__Nannospalax_galili,ENSMMUG00000038893__Macaca_mulatta),ENSDNOG00000031079__Dasypus_novemcinctus);

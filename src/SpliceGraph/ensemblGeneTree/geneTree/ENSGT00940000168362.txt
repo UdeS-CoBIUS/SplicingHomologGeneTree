@@ -1,0 +1,1 @@
+(((FBgn0001147__Drosophila_melanogaster,FBgn0001148__Drosophila_melanogaster),FBgn0003145__Drosophila_melanogaster),(((ENSTGUG00000016719__Taeniopygia_guttata,ENSSCAG00000005769__Serinus_canaria),ENSCPBG00000010035__Chrysemys_picta_bellii),ENSTNIG00000005617__Tetraodon_nigroviridis));

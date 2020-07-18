@@ -1,0 +1,70 @@
+>0
+ENSEBUT00000002785: ['no event', 89, 0]
+ENSEBUT00000018082: ['exon skipping', 0, 0]
+ENSEBUT00000018101: ['exon skipping', 0, 0]
+ENSNBRT00000007111: ['exon skipping', 0, 0]
+>1
+ENSEBUT00000002785: ['exon skipping', 0, 0]
+ENSEBUT00000018082: ['5event', 17, 0]
+ENSEBUT00000018101: ['5event', 17, 0]
+ENSNBRT00000007111: ['exon skipping', 0, 0]
+>2
+ENSEBUT00000002785: ['5event', ['internal gap < 30', 24, 3], 154, 0]
+ENSEBUT00000018082: [['internal gap < 30', 36, 14], 143, 0]
+ENSEBUT00000018101: [['internal gap < 30', 36, 14], 143, 0]
+ENSNBRT00000007111: ['5event', ['internal gap >= 30', 9, 45], 112, 0]
+>3
+ENSEBUT00000002785: ['no event', 17, 2]
+ENSEBUT00000018082: ['exon skipping', 0, 0]
+ENSEBUT00000018101: ['exon skipping', 0, 0]
+ENSNBRT00000007111: ['exon skipping', 0, 0]
+>4
+ENSEBUT00000002785: ['no event', 167, 2]
+ENSEBUT00000018082: ['5event', 165, 2]
+ENSEBUT00000018101: ['5event', 165, 2]
+ENSNBRT00000007111: ['5event', 165, 2]
+>5
+ENSEBUT00000002785: ['no event', 109, 0]
+ENSEBUT00000018082: ['no event', 109, 0]
+ENSEBUT00000018101: ['no event', 109, 0]
+ENSNBRT00000007111: ['no event', 109, 0]
+>6
+ENSEBUT00000002785: ['exon skipping', 0, 0]
+ENSEBUT00000018082: ['exon skipping', 0, 0]
+ENSEBUT00000018101: ['exon skipping', 0, 0]
+ENSNBRT00000007111: ['no event', 9, 2]
+>7
+ENSEBUT00000002785: ['5event', 166, 2]
+ENSEBUT00000018082: ['5event', 166, 2]
+ENSEBUT00000018101: ['5event', 166, 2]
+ENSNBRT00000007111: [['internal gap < 30', 52, 16], 153, 0]
+>8
+ENSEBUT00000002785: ['exon skipping', 0, 0]
+ENSEBUT00000018082: ['exon skipping', 0, 0]
+ENSEBUT00000018101: ['exon skipping', 0, 0]
+ENSNBRT00000007111: ['no event', 8, 1]
+>9
+ENSEBUT00000002785: ['5event', 19, 1]
+ENSEBUT00000018082: ['5event', 19, 1]
+ENSEBUT00000018101: ['5event', 19, 1]
+ENSNBRT00000007111: ['3event', 19, 1]
+>10
+ENSEBUT00000002785: ['no event', 136, 0]
+ENSEBUT00000018082: ['no event', 136, 0]
+ENSEBUT00000018101: ['no event', 136, 0]
+ENSNBRT00000007111: ['exon skipping', 0, 0]
+>11
+ENSEBUT00000002785: ['exon skipping', 0, 0]
+ENSEBUT00000018082: ['no event', 252, 2]
+ENSEBUT00000018101: ['3event', 187, 2]
+ENSNBRT00000007111: ['exon skipping', 0, 0]
+>12
+ENSEBUT00000002785: ['5event', 78, 2]
+ENSEBUT00000018082: ['exon skipping', 0, 0]
+ENSEBUT00000018101: ['exon skipping', 0, 0]
+ENSNBRT00000007111: ['exon skipping', 0, 0]
+>13
+ENSEBUT00000002785: ['exon skipping', 0, 0]
+ENSEBUT00000018082: ['exon skipping', 0, 0]
+ENSEBUT00000018101: ['5event', 598, 1]
+ENSNBRT00000007111: ['exon skipping', 0, 0]

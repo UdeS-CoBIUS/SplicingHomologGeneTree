@@ -1,1 +1,0 @@
-(ENSCAFG00020022938__Canis_lupus_dingo,ENSUAMG00000025477__Ursus_americanus);

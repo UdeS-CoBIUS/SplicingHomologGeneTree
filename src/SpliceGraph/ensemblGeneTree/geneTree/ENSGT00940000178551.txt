@@ -1,0 +1,1 @@
+((ENSSPAG00000017934__Stegastes_partitus,ENSSPAG00000003916__Stegastes_partitus),((ENSSPAG00000017922__Stegastes_partitus,ENSSPAG00000014336__Stegastes_partitus),ENSSPAG00000017944__Stegastes_partitus));

@@ -1,0 +1,1 @@
+(ENSGALG00000052638__Gallus_gallus,ENSGALG00000049083__Gallus_gallus);

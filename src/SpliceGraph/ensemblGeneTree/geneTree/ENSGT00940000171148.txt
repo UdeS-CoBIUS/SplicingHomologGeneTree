@@ -1,0 +1,1 @@
+((ENSTGUG00000007737__Taeniopygia_guttata,ENSDNOG00000041499__Dasypus_novemcinctus),ENSLOCG00000000645__Lepisosteus_oculatus);

@@ -1,1 +1,0 @@
-(((ENSGGOG00000042855__Gorilla_gorilla,ENSPTRG00000049263__Pan_troglodytes),ENSNLEG00000035053__Nomascus_leucogenys),ENSMLEG00000026759__Mandrillus_leucophaeus);

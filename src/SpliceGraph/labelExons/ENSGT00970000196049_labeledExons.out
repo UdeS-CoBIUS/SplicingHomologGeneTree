@@ -1,0 +1,15 @@
+>0
+F55C10.2.1: ['no event', 161, 0]
+F55C10.3.1: ['no event', 161, 0]
+T11F9.9.1: ['no event', 161, 0]
+Y73B6BL.34.1: ['3event', 81, 0]
+>1
+F55C10.2.1: ['exon skipping', 0, 0]
+F55C10.3.1: ['exon skipping', 0, 0]
+T11F9.9.1: ['exon skipping', 0, 0]
+Y73B6BL.34.1: ['5event', 80, 0]
+>2
+F55C10.2.1: ['5event', ['internal gap < 30', 132, 7], 737, 0]
+F55C10.3.1: ['5event', ['internal gap < 30', 132, 7], 737, 0]
+T11F9.9.1: ['5event', ['internal gap < 30', 132, 7], 737, 0]
+Y73B6BL.34.1: [['internal gap < 30', 40, 12], 732, 0]

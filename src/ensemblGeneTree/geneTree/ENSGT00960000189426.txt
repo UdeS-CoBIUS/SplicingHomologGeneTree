@@ -1,0 +1,1 @@
+((((((ENSPMJG00000019784__Parus_major,ENSCCEG00000005145__Cyanistes_caeruleus),(ENSLCOG00000002381__Lepidothrix_coronata,ENSJHYG00000013102__Junco_hyemalis)),ENSMUNG00000012744__Melopsittacus_undulatus),ENSAOWG00000015079__Apteryx_owenii),ENSCPRG00005001220__Crocodylus_porosus),(ENSCABG00000007750__Chelonoidis_abingdonii,ENSGAGG00000008250__Gopherus_agassizii));

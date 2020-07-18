@@ -1,0 +1,1 @@
+(((ENSPMJG00000015961__Parus_major,ENSZALG00000004303__Zonotrichia_albicollis),ENSSMRG00000014708__Salvator_merianae),(ENSMMMG00000002385__Marmota_marmota_marmota,ENSCCAG00000022499__Cebus_capucinus_imitator));

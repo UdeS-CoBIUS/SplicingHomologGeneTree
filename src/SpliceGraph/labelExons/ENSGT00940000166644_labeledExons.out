@@ -1,0 +1,15 @@
+>0
+ENSMALT00000004002: ['3event', 941, 0]
+ENSMAMT00000004021: ['3event', 941, 0]
+ENSATET00000000181: ['3event', 950, 0]
+ENSSDUT00000030115: ['no event', 953, 0]
+>1
+ENSMALT00000004002: ['5event', 141, 2]
+ENSMAMT00000004021: ['5event', ['internal gap < 30', 77, 7], 135, 2]
+ENSATET00000000181: ['5event', 141, 2]
+ENSSDUT00000030115: ['exon skipping', 0, 0]
+>2
+ENSMALT00000004002: ['exon skipping', 0, 0]
+ENSMAMT00000004021: ['exon skipping', 0, 0]
+ENSATET00000000181: ['exon skipping', 0, 0]
+ENSSDUT00000030115: ['5event', 38, 0]

@@ -1,0 +1,44 @@
+ #!/usr/bin/python
+
+'''
+This script takes a file containing a gene tree in newick format.
+
+Arguments
+--treefile=[path to file containing one gene tree]
+
+Example usage:
+python extractGenesList.py --treefile=geneTree/test.txt 
+
+'''
+
+from ete3 import Tree
+import requests, sys
+import os
+
+
+goodtreefile = open("goodtreefile.out", "w+")
+falsetreefile = open("falsetreefile.out", "w+")
+
+for root, dirs, files in os.walk("."):  
+    for filename in files:
+	    if filename.endswith(".txt"): 
+		fil = open(filename, "r")
+		datas = fil.readlines()[0]
+		try:
+			tree = Tree(str(datas))
+			'''for node in tree.traverse("postorder"): 
+				if node.is_leaf():
+					transcrit = node.name.split("__")[0]
+					gene = node.name.split("__")[1]
+					final = gene.lower() + " " + transcrit + "\n"
+					outputfile.write(final)'''
+			goodtreefile.write(filename)
+			goodtreefile.write("\n")
+		except:
+			falsetreefile.write(filename)
+			falsetreefile.write("\n")
+
+falsetreefile.close()
+goodtreefile.close()
+		
+

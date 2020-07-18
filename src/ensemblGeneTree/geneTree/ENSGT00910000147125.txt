@@ -1,0 +1,1 @@
+(((ENSCCAG00000029940__Cebus_capucinus_imitator,ENSANAG00000028263__Aotus_nancymaae),(((ENSGGOG00000040495__Gorilla_gorilla,ENSG00000284188__Homo_sapiens),ENSNLEG00000028968__Nomascus_leucogenys),(ENSPTEG00000001248__Piliocolobus_tephrosceles,ENSRBIG00000030032__Rhinopithecus_bieti))),ENSPCOG00000023802__Propithecus_coquereli);

@@ -1,1 +1,0 @@
-(((ENSSHAG00000013220__Sarcophilus_harrisii,ENSCAFG00000032652__Canis_lupus_familiaris),ENSOANG00000007107__Ornithorhynchus_anatinus),(((ENSTGUG00000006877__Taeniopygia_guttata,ENSFALG00000001619__Ficedula_albicollis),ENSMGAG00000014632__Meleagris_gallopavo),ENSPSIG00000014060__Pelodiscus_sinensis));

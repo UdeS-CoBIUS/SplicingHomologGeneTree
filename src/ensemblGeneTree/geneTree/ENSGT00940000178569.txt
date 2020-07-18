@@ -1,0 +1,1 @@
+(((ENSACIG00000004948__Amphilophus_citrinellus,ENSPNYG00000011366__Pundamilia_nyererei),ENSFHEG00000019333__Fundulus_heteroclitus),(ENSSDUG00000022030__Seriola_dumerili,ENSSLDG00000002453__Seriola_lalandi_dorsalis));

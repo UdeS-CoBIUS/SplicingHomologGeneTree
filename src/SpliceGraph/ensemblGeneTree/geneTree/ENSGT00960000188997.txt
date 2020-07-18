@@ -1,0 +1,1 @@
+((((ENSABRG00000011498__Anser_brachyrhynchus,ENSNMEG00000003994__Numida_meleagris),ENSCPUG00000017627__Calidris_pugnax),ENSAOWG00000004977__Apteryx_owenii),ENSCPBG00000002419__Chrysemys_picta_bellii);

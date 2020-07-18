@@ -1,0 +1,1 @@
+((ENSVVUG00000003893__Vulpes_vulpes,ENSBMUG00000011721__Bos_mutus),ENSMAUG00000021550__Mesocricetus_auratus);

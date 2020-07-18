@@ -1,0 +1,1 @@
+(((ENSXCOG00000007950__Xiphophorus_couchianus,ENSGAFG00000017123__Gambusia_affinis),ENSAPEG00000008616__Amphiprion_percula),ENSPMGG00000018464__Periophthalmus_magnuspinnatus);

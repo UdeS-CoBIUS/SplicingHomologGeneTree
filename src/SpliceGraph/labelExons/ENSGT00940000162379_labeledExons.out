@@ -1,0 +1,32 @@
+>0
+ENSNVIT00000030504: ['no event', 494, 0]
+ENSNVIT00000030511: ['no event', 494, 0]
+ENSNVIT00000030515: ['no event', 494, 0]
+>1
+ENSNVIT00000030504: ['no event', 93, 0]
+ENSNVIT00000030511: ['no event', 93, 0]
+ENSNVIT00000030515: ['no event', 93, 0]
+>2
+ENSNVIT00000030504: ['no event', 285, 1]
+ENSNVIT00000030511: ['no event', 285, 1]
+ENSNVIT00000030515: ['exon skipping', 0, 0]
+>3
+ENSNVIT00000030504: ['3event', 163, 2]
+ENSNVIT00000030511: ['no event', 176, 2]
+ENSNVIT00000030515: ['3event', '5event', 41, 1]
+>4
+ENSNVIT00000030504: ['exon skipping', 0, 0]
+ENSNVIT00000030511: ['no event', 67, 2]
+ENSNVIT00000030515: ['exon skipping', 0, 0]
+>5
+ENSNVIT00000030504: ['exon skipping', 0, 0]
+ENSNVIT00000030511: ['no event', 13, 1]
+ENSNVIT00000030515: ['exon skipping', 0, 0]
+>6
+ENSNVIT00000030504: ['5event', 212, 0]
+ENSNVIT00000030511: ['exon skipping', 0, 0]
+ENSNVIT00000030515: ['exon skipping', 0, 0]
+>7
+ENSNVIT00000030504: ['no event', 755, 0]
+ENSNVIT00000030511: ['exon skipping', 0, 0]
+ENSNVIT00000030515: ['exon skipping', 0, 0]

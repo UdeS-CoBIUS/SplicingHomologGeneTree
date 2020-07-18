@@ -1,0 +1,1 @@
+(((ENSKMAG00000014833__Kryptolebias_marmoratus,ENSTRUG00000020371__Takifugu_rubripes),ENSPMGG00000022949__Periophthalmus_magnuspinnatus),ENSPNAG00000009789__Pygocentrus_nattereri);

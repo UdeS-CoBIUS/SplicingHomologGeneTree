@@ -1,0 +1,1 @@
+(((ENSHCOG00000010404__Hippocampus_comes,ENSHCOG00000009587__Hippocampus_comes),ENSXCOG00000003023__Xiphophorus_couchianus),ENSMAUG00000009960__Mesocricetus_auratus);

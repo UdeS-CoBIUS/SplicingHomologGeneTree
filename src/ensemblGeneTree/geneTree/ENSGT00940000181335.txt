@@ -1,0 +1,1 @@
+((ENSHHUG00000037661__Hucho_hucho,ENSHHUG00000012797__Hucho_hucho),(ENSAOCG00000015383__Amphiprion_ocellaris,ENSAPEG00000023107__Amphiprion_percula));

@@ -1,0 +1,1 @@
+(((((ENSVVUG00000008001__Vulpes_vulpes,ENSCAFG00020017382__Canis_lupus_dingo),(ENSUAMG00000021990__Ursus_americanus,ENSUMAG00000003496__Ursus_maritimus)),(ENSPPRG00000013990__Panthera_pardus,ENSFCAG00000039079__Felis_catus)),ENSCGRG00001007881__Cricetulus_griseus_CHOK1GS_HDv1),ENSCHOG00000009715__Choloepus_hoffmanni);

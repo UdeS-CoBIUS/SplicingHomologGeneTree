@@ -1,0 +1,4 @@
+DROSOPHILAMELANOGASTER	drosophila_melanogaster
+CIONAINTESTINALIS	ciona_intestinalis
+SACCHAROMYCESCEREVISIAE	saccharomyces_cerevisiae
+SACCHAROMYCESCEREVISIAE	saccharomyces_cerevisiae

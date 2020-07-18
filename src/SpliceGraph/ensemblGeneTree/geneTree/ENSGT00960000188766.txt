@@ -1,0 +1,1 @@
+((ENSCABG00000007411__Chelonoidis_abingdonii,ENSAPLG00000021128__Anas_platyrhynchos_platyrhynchos),MGP_SPRETEiJ_G0016169__Mus_spretus_strain_SPRET/EiJ);

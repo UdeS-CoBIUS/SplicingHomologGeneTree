@@ -1,0 +1,8 @@
+>0
+ENSAHAT00000011820: ['5event', ['internal gap >= 30', 509, 355], 815, 0]
+ENSAOWT00000005660: ['5event', ['internal gap >= 30', 668, 196], 974, 0]
+ENSFALT00000008693: [['internal gap >= 30', 604, 208], 962, 0]
+>1
+ENSAHAT00000011820: ['3event', 508, 0]
+ENSAOWT00000005660: ['3event', 514, 0]
+ENSFALT00000008693: [['internal gap >= 30', 440, 53], 578, 0]

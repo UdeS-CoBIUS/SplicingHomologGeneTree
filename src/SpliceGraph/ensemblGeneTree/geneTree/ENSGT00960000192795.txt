@@ -1,0 +1,1 @@
+(ENSBTAG00000051268__Bos_taurus,ENSSDAG00000008226__Spermophilus_dauricus);

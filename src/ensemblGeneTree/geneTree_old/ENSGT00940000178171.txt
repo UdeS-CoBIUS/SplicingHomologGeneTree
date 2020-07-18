@@ -1,1 +1,0 @@
-(((ENSXMAG00000024360__Xiphophorus_maculatus,ENSPNYG00000017907__Pundamilia_nyererei),ENSXMAG00000028006__Xiphophorus_maculatus),((ENSSLDG00000011878__Seriola_lalandi_dorsalis,ENSSLDG00000011894__Seriola_lalandi_dorsalis),ENSCSEG00000003736__Cynoglossus_semilaevis));

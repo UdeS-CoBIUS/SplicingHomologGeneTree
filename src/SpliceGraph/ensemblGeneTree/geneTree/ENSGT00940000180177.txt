@@ -1,0 +1,1 @@
+(((ENSSLDG00000009758__Seriola_lalandi_dorsalis,ENSLBEG00000005519__Labrus_bergylta),ENSAMXG00000031863__Astyanax_mexicanus),ENSPSMG00000021801__Prolemur_simus);

@@ -1,0 +1,1 @@
+((((ENSMUNG00000008637__Melopsittacus_undulatus,ENSSCAG00000004057__Serinus_canaria),(((ENSGALG00000053868__Gallus_gallus,ENSCJPG00005004275__Coturnix_japonica),ENSNMEG00000012531__Numida_meleagris),ENSABRG00000007032__Anser_brachyrhynchus)),ENSNPEG00000003574__Nothoprocta_perdicaria),ENSGAGG00000018673__Gopherus_agassizii);

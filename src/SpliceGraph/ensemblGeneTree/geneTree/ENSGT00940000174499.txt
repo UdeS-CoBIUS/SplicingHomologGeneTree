@@ -1,0 +1,1 @@
+((ENSACIG00000022202__Amphilophus_citrinellus,ENSPMGG00000015065__Periophthalmus_magnuspinnatus),ENSCING00000011576__Ciona_intestinalis);

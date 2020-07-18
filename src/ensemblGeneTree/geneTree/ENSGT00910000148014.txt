@@ -1,0 +1,1 @@
+((((ENSSBOG00000020102__Saimiri_boliviensis_boliviensis,ENSANAG00000031533__Aotus_nancymaae),ENSCCAG00000021758__Cebus_capucinus_imitator),ENSPTEG00000028896__Piliocolobus_tephrosceles),ENSMSIG00000003638__Mus_spicilegus);

@@ -1,0 +1,1 @@
+(((ENSBBBG00000015463__Bison_bison_bison,ENSBMUG00000020400__Bos_mutus),ENSPTIG00000019364__Panthera_tigris_altaica),ENSTSYG00000035237__Carlito_syrichta);

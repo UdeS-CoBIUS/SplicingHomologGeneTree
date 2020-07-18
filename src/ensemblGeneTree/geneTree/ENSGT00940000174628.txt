@@ -1,0 +1,1 @@
+((ENSLAFG00000009335__Loxodonta_africana,ENSCCNG00000029237__Castor_canadensis),ENSOANG00000011101__Ornithorhynchus_anatinus);

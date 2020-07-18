@@ -1,0 +1,1 @@
+(((((ENSHGLG00100018656__Heterocephalus_glaber_HetGla_1.0,ENSHGLG00000018457__Heterocephalus_glaber_HetGla_female_1.0),ENSNGAG00000014972__Nannospalax_galili),ENSCJAG00000044307__Callithrix_jacchus),ENSTBEG00000014555__Tupaia_belangeri),ENSPCAG00000000855__Procavia_capensis);

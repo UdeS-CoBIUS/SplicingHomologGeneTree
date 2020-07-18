@@ -1,0 +1,1 @@
+(((ENSAPLG00000022654__Anas_platyrhynchos_platyrhynchos,ENSNMEG00000014523__Numida_meleagris),ENSCPGG00000009570__Calidris_pygmaea),ENSAHAG00000005882__Apteryx_haastii);

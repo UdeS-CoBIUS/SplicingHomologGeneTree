@@ -1,0 +1,1 @@
+(((ENSUAMG00000028225__Ursus_americanus,ENSUMAG00000010747__Ursus_maritimus),ENSVVUG00000023438__Vulpes_vulpes),((ENSMLEG00000039537__Mandrillus_leucophaeus,ENSRBIG00000033067__Rhinopithecus_bieti),ENSPPAG00000015202__Pan_paniscus));

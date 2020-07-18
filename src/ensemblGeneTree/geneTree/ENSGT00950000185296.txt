@@ -1,0 +1,1 @@
+(((ENSUMAG00000024557__Ursus_maritimus,ENSCAFG00020007514__Canis_lupus_dingo),ENSBTAG00000046857__Bos_taurus),(ENSMMMG00000010022__Marmota_marmota_marmota,ENSSDAG00000022771__Spermophilus_dauricus));

@@ -1,2 +1,2 @@
 >completeCluster_0
-K06C4.17.1	FBtr0100551
+FBtr0345320	K06C4.17.1

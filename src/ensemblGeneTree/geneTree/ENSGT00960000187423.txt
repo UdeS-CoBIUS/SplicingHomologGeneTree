@@ -1,0 +1,1 @@
+(((ENSPMGG00000013487__Periophthalmus_magnuspinnatus,ENSACLG00000010490__Astatotilapia_calliptera),ENSTRUG00000021212__Takifugu_rubripes),ENSSLDG00000022757__Seriola_lalandi_dorsalis);

@@ -1,0 +1,1 @@
+((ENSPCIG00000023380__Phascolarctos_cinereus,ENSPCIG00000017122__Phascolarctos_cinereus),ENSPCIG00000028186__Phascolarctos_cinereus);

@@ -1,1 +1,0 @@
-(((((((ENSHGLG00100006774__Heterocephalus_glaber_HetGla_1.0,ENSCAPG00000007562__Cavia_aperea),ENSCLAG00000002736__Chinchilla_lanigera),ENSRBIG00000043983__Rhinopithecus_bieti),ENSUMAG00000019897__Ursus_maritimus),(ENSCAFG00000032736__Canis_lupus_familiaris,ENSOARG00000007529__Ovis_aries)),ENSPCAG00000005606__Procavia_capensis),ENSPVIG00000010350__Pogona_vitticeps);

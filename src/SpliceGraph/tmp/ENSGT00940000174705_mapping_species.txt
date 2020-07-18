@@ -1,0 +1,6 @@
+RHINOPITHECUSBIETI	rhinopithecus_bieti
+THEROPITHECUSGELADA	theropithecus_gelada
+PHASCOLARCTOSCINEREUS	phascolarctos_cinereus
+PARUSMAJOR	parus_major
+CYANISTESCAERULEUS	cyanistes_caeruleus
+ESOXLUCIUS	esox_lucius

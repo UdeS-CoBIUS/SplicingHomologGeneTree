@@ -1,0 +1,1 @@
+(ENSCVAG00000000898__Cyprinodon_variegatus,ENSTRUG00000021097__Takifugu_rubripes);

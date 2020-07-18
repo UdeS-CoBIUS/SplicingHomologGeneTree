@@ -1,1 +1,0 @@
-(ENSELUG00000020330__Esox_lucius,ENSAMXG00000039727__Astyanax_mexicanus);

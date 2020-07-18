@@ -1,0 +1,1 @@
+(((((ENSJHYG00000007372__Junco_hyemalis,ENSLCOG00000001744__Lepidothrix_coronata),((ENSNMEG00000008073__Numida_meleagris,ENSCJPG00005009774__Coturnix_japonica),ENSCPUG00000006231__Calidris_pugnax)),ENSCPRG00005008865__Crocodylus_porosus),(ENSGAGG00000012882__Gopherus_agassizii,ENSCABG00000001765__Chelonoidis_abingdonii)),ENSAMEG00000002105__Ailuropoda_melanoleuca);

@@ -1,0 +1,1 @@
+((ENSLSDG00000012945__Lonchura_striata_domestica,ENSFALG00000015282__Ficedula_albicollis),ENSABRG00000010784__Anser_brachyrhynchus);

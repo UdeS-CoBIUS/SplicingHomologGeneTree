@@ -1,0 +1,1 @@
+(((ENSMPUG00000017511__Mustela_putorius_furo,ENSCAFG00000000409__Canis_lupus_familiaris),ENSSDAG00000013980__Spermophilus_dauricus),ENSPCIG00000024452__Phascolarctos_cinereus);

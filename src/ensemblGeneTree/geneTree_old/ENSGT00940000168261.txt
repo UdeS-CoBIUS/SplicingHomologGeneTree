@@ -1,1 +1,0 @@
-((((ENSTBEG00000006502__Tupaia_belangeri,ENSEBUG00000012615__Eptatretus_burgeri),ENSCING00000000481__Ciona_intestinalis),(FBgn0033485__Drosophila_melanogaster,WBGene00017347__Caenorhabditis_elegans_strain_N2)),YKL009W__Saccharomyces_cerevisiae_strain_S288C);

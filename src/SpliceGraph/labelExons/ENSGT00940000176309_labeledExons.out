@@ -1,0 +1,15 @@
+>0
+FBtr0301706: ['3event', '5event', 138, 0]
+FBtr0088476: ['3event', '5event', 153, 0]
+FBtr0100088: [['internal gap >= 30', 43, 64], 110, 0]
+FBtr0113317: ['3event', '5event', 126, 0]
+>1
+FBtr0301706: ['5event', ['internal gap >= 30', 624, 74], 792, 0]
+FBtr0088476: ['5event', ['internal gap >= 30', 790, 62], 804, 0]
+FBtr0100088: [['internal gap >= 30', 375, 478], 388, 0]
+FBtr0113317: ['5event', ['internal gap >= 30', 390, 462], 404, 0]
+>2
+FBtr0301706: ['no event', 34, 1]
+FBtr0088476: [['internal gap < 30', 1, 9], 25, 1]
+FBtr0100088: ['3event', 6, 1]
+FBtr0113317: ['exon skipping', 0, 0]

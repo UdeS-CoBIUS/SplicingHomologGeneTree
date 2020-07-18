@@ -1,0 +1,6 @@
+>cluster_0
+FBtr0087943	FBtr0087944
+>cluster_1
+F22A3.5.1	FBtr0087942
+>cluster_2
+FBtr0339635	FBtr0087945

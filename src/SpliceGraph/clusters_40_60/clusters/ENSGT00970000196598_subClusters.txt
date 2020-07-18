@@ -1,0 +1,6 @@
+>cluster_0
+Y56A3A.5.1	Y56A3A.12a.2
+>cluster_1
+Y56A3A.12a.1
+>cluster_2
+Y56A3A.12b.1

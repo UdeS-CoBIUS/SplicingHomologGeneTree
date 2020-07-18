@@ -1,1 +1,0 @@
-((ENSOANG00000014338__Ornithorhynchus_anatinus,ENSLAFG00000030752__Loxodonta_africana),ENSMMOG00000000585__Mola_mola);

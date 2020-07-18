@@ -1,0 +1,8 @@
+MACACAMULATTA	macaca_mulatta
+MACACAFASCICULARIS	macaca_fascicularis
+CERCOCEBUSATYS	cercocebus_atys
+RHINOPITHECUSROXELLANA	rhinopithecus_roxellana
+SAIMIRIBOLIVIENSISBOLIVIENSIS	saimiri_boliviensis_boliviensis
+CALLITHRIXJACCHUS	callithrix_jacchus
+MARMOTAMARMOTAMARMOTA	marmota_marmota_marmota
+SUSSCROFA	sus_scrofa

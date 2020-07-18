@@ -1,0 +1,1 @@
+((((ENSPPYG00000009492__Pongo_abelii,ENSCSAG00000018828__Chlorocebus_sabaeus),ENSOGAG00000012864__Otolemur_garnettii),ENSTBEG00000017160__Tupaia_belangeri),ENSEEUG00000009261__Erinaceus_europaeus);

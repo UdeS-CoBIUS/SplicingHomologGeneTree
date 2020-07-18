@@ -1,0 +1,21 @@
+>0
+ENSXMAT00000026056: ['no event', 127, 0]
+ENSXMAT00000037932: ['no event', 127, 0]
+ENSXMAT00000038495: ['no event', 127, 0]
+ENSXCOT00000016246: ['5event', 79, 0]
+ENSXMAT00000026966: ['5event', 79, 0]
+ENSXMAT00000033372: ['no event', 127, 0]
+>1
+ENSXMAT00000026056: ['no event', 149, 2]
+ENSXMAT00000037932: ['no event', 149, 2]
+ENSXMAT00000038495: ['no event', 149, 2]
+ENSXCOT00000016246: ['no event', 149, 2]
+ENSXMAT00000026966: ['no event', 149, 2]
+ENSXMAT00000033372: ['no event', 149, 2]
+>2
+ENSXMAT00000026056: ['no event', 165, 2]
+ENSXMAT00000037932: [['internal gap < 30', 98, 3], 162, 2]
+ENSXMAT00000038495: [['internal gap < 30', 98, 3], 162, 2]
+ENSXCOT00000016246: [['internal gap < 30', 95, 18], 147, 2]
+ENSXMAT00000026966: [['internal gap < 30', 95, 18], 147, 2]
+ENSXMAT00000033372: [['internal gap < 30', 98, 3], 162, 2]

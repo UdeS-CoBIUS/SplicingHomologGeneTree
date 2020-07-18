@@ -1,1 +1,0 @@
-((ENSOARG00000008501__Ovis_aries,ENSBBBG00000008336__Bison_bison_bison),ENSCAPG00000017298__Cavia_aperea);

@@ -1,0 +1,1 @@
+(((ENSMAMG00000021925__Mastacembelus_armatus,ENSMAMG00000021927__Mastacembelus_armatus),ENSMAMG00000021901__Mastacembelus_armatus),ENSFHEG00000016215__Fundulus_heteroclitus);

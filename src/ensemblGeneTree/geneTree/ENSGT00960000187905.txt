@@ -1,0 +1,1 @@
+((ENSPTRG00000052769__Pan_troglodytes,ENSRBIG00000036675__Rhinopithecus_bieti),ENSCHIG00000018935__Capra_hircus);

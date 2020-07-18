@@ -1,0 +1,1 @@
+(((ENSUMAG00000022593__Ursus_maritimus,ENSUAMG00000028124__Ursus_americanus),ENSNVIG00000002363__Neovison_vison),ENSPTIG00000008435__Panthera_tigris_altaica);

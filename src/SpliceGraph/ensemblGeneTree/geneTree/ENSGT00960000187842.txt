@@ -1,0 +1,1 @@
+((ENSCSEG00000021012__Cynoglossus_semilaevis,ENSELUG00000024186__Esox_lucius),ENSIPUG00000000382__Ictalurus_punctatus);

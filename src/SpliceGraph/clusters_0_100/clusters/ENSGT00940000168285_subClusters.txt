@@ -1,0 +1,6 @@
+>cluster_0
+ENSCINT00000012087	FBtr0079086
+>cluster_1
+C32D5.2.1	FBtr0079089
+>cluster_2
+FBtr0079087

@@ -1,0 +1,1 @@
+((ENSZALG00000009584__Zonotrichia_albicollis,ENSJHYG00000013694__Junco_hyemalis),(((ENSAHAG00000006638__Apteryx_haastii,ENSARWG00000002236__Apteryx_rowi),ENSDNVG00000009725__Dromaius_novaehollandiae),ENSNPEG00000007834__Nothoprocta_perdicaria));

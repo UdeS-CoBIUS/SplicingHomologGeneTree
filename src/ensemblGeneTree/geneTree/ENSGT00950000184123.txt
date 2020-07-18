@@ -1,0 +1,1 @@
+(((ENSCJAG00000018426__Callithrix_jacchus,ENSCCNG00000024130__Castor_canadensis),((ENSBTAG00000034391__Bos_taurus,ENSBMUG00000008742__Bos_mutus),ENSSSCG00000005121__Sus_scrofa)),ENSCHOG00000009586__Choloepus_hoffmanni);

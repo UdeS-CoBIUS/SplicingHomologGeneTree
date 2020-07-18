@@ -1,0 +1,1 @@
+(ENSPTIG00000019306__Panthera_tigris_altaica,ENSMICG00000046120__Microcebus_murinus);

@@ -1,0 +1,1 @@
+(((((ENSNBRG00000012142__Neolamprologus_brichardi,ENSPMEG00000007799__Poecilia_mexicana),ENSORLG00020013031__Oryzias_latipes_ASM223471v1),ENSGWIG00000006000__Gouania_willdenowi),ENSELUG00000022104__Esox_lucius),ENSEEEG00000015669__Electrophorus_electricus);

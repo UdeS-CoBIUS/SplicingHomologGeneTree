@@ -1,0 +1,1 @@
+(((ENSCPBG00000018607__Chrysemys_picta_bellii,ENSGAGG00000013050__Gopherus_agassizii),ENSPSIG00000013135__Pelodiscus_sinensis),ENSTGUG00000011817__Taeniopygia_guttata);

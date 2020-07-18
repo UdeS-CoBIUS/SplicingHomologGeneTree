@@ -1,0 +1,1 @@
+(((((ENSAHAG00000003911__Apteryx_haastii,ENSARWG00000005960__Apteryx_rowi),ENSAOWG00000012909__Apteryx_owenii),ENSDNVG00000010447__Dromaius_novaehollandiae),ENSGAGG00000012037__Gopherus_agassizii),(((ENSPCOG00000019612__Propithecus_coquereli,ENSMICG00000015858__Microcebus_murinus),ENSPSMG00000011750__Prolemur_simus),ENSMODG00000028073__Monodelphis_domestica));

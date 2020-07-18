@@ -1,1 +1,0 @@
-(ENSGALG00000049395__Gallus_gallus,ENSCCEG00000002230__Cyanistes_caeruleus);

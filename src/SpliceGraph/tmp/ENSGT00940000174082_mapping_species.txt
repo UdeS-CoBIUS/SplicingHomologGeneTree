@@ -1,0 +1,4 @@
+CASTORCANADENSIS	castor_canadensis
+MERIONESUNGUICULATUS	meriones_unguiculatus
+ORNITHORHYNCHUSANATINUS	ornithorhynchus_anatinus
+XIPHOPHORUSCOUCHIANUS	xiphophorus_couchianus

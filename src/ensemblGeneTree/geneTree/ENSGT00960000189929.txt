@@ -1,0 +1,1 @@
+(((ENSZALG00000011170__Zonotrichia_albicollis,ENSZALG00000011169__Zonotrichia_albicollis),ENSCPGG00000010313__Calidris_pygmaea),ENSCAFG00000029887__Canis_lupus_familiaris);

@@ -1,0 +1,1 @@
+(((ENSBBBG00000007881__Bison_bison_bison,ENSBMUG00000017728__Bos_mutus),ENSSDAG00000011159__Spermophilus_dauricus),((((ENSCPUG00000009552__Calidris_pugnax,ENSSCAG00000013068__Serinus_canaria),ENSSCAG00000009039__Serinus_canaria),ENSABRG00000013344__Anser_brachyrhynchus),ENSCABG00000003830__Chelonoidis_abingdonii));

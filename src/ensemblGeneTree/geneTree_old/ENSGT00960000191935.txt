@@ -1,1 +1,0 @@
-(ENSMSIG00000003742__Mus_spicilegus,ENSRNOG00000060904__Rattus_norvegicus);

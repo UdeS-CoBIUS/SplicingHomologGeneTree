@@ -1,0 +1,3 @@
+PROLEMURSIMUS	prolemur_simus
+SPERMOPHILUSDAURICUS	spermophilus_dauricus
+CANISLUPUSDINGO	canis_lupus_dingo

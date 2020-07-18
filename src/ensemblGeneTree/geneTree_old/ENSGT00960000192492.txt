@@ -1,1 +1,0 @@
-(ENSAHAG00000006758__Apteryx_haastii,ENSNPEG00000014768__Nothoprocta_perdicaria);

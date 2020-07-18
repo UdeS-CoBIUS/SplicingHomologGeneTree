@@ -1,0 +1,1 @@
+((ENSSLDG00000021284__Seriola_lalandi_dorsalis,ENSCSEG00000000777__Cynoglossus_semilaevis),(((ENSPLAG00000022059__Poecilia_latipinna,ENSPREG00000018385__Poecilia_reticulata),ENSPMEG00000017568__Poecilia_mexicana),ENSAOCG00000003394__Amphiprion_ocellaris));

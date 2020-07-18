@@ -1,0 +1,1 @@
+(((ENSEASG00005022612__Equus_asinus_asinus,ENSMMMG00000001068__Marmota_marmota_marmota),(((ENSTGUG00000012400__Taeniopygia_guttata,ENSTGUG00000015676__Taeniopygia_guttata),ENSJHYG00000001779__Junco_hyemalis),ENSMGAG00000012570__Meleagris_gallopavo)),YOR150W__Saccharomyces_cerevisiae_strain_S288C);

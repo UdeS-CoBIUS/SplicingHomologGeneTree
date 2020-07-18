@@ -1,1 +1,0 @@
-(((ENSSPUG00000005163__Sphenodon_punctatus,ENSNPEG00000007511__Nothoprocta_perdicaria),(ENSODEG00000003473__Octodon_degus,ENSGGOG00000043703__Gorilla_gorilla)),(ENSNBRG00000023615__Neolamprologus_brichardi,ENSIPUG00000012329__Ictalurus_punctatus));

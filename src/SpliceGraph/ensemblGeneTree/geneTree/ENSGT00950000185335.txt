@@ -1,0 +1,1 @@
+((ENSCPBG00000008702__Chrysemys_picta_bellii,ENSGAGG00000009541__Gopherus_agassizii),ENSOANG00000019810__Ornithorhynchus_anatinus);

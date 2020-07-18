@@ -1,0 +1,1 @@
+((((ENSPREG00000000070__Poecilia_reticulata,ENSGAFG00000013436__Gambusia_affinis),ENSKMAG00000009130__Kryptolebias_marmoratus),ENSORLG00020010853__Oryzias_latipes_ASM223471v1),(ENSAOCG00000005684__Amphiprion_ocellaris,ENSAPEG00000011765__Amphiprion_percula));

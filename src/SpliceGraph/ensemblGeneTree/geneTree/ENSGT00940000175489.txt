@@ -1,0 +1,1 @@
+(((((ENSAMXG00000039848__Astyanax_mexicanus,ENSAMXG00000043265__Astyanax_mexicanus),ENSAMXG00000034921__Astyanax_mexicanus),(ENSMVIG00005011245__Manacus_vitellinus,ENSNPEG00000011849__Nothoprocta_perdicaria)),ENSORLG00015023028__Oryzias_latipes_ASM223469v1),ENSEBUG00000006543__Eptatretus_burgeri);

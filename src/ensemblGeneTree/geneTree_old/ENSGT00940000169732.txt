@@ -1,1 +1,0 @@
-(((ENSETEG00000013659__Echinops_telfairi,ENSEEUG00000014113__Erinaceus_europaeus),ENSOANG00000030935__Ornithorhynchus_anatinus),ENSMALG00000003743__Monopterus_albus);

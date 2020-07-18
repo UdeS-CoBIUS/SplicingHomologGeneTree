@@ -1,0 +1,1 @@
+((ENSSPAG00000018925__Stegastes_partitus,ENSAOCG00000023020__Amphiprion_ocellaris),ENSGMOG00000017870__Gadus_morhua);

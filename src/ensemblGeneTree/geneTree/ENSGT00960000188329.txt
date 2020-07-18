@@ -1,0 +1,1 @@
+(ENSSHAG00000000294__Sarcophilus_harrisii,ENSORLG00000023820__Oryzias_latipes_ASM223467v1);

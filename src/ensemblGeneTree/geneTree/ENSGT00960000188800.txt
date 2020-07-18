@@ -1,0 +1,1 @@
+(((ENSCPGG00000006455__Calidris_pygmaea,ENSMUNG00000002439__Melopsittacus_undulatus),((ENSSCAG00000006476__Serinus_canaria,ENSLSDG00000017893__Lonchura_striata_domestica),ENSMVIG00005012895__Manacus_vitellinus)),(ENSPSIG00000008130__Pelodiscus_sinensis,ENSCABG00000008336__Chelonoidis_abingdonii));

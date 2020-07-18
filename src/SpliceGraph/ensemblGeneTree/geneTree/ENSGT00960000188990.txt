@@ -1,0 +1,1 @@
+(((ENSZALG00000007179__Zonotrichia_albicollis,ENSLCOG00000006761__Lepidothrix_coronata),ENSAPLG00000007853__Anas_platyrhynchos_platyrhynchos),ENSMUNG00000009644__Melopsittacus_undulatus);

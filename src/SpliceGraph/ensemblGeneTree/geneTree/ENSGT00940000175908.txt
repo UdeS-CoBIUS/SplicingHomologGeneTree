@@ -1,0 +1,1 @@
+((ENSHHUG00000009469__Hucho_hucho,ENSAPOG00000015703__Acanthochromis_polyacanthus),ENSHGLG00100004048__Heterocephalus_glaber_HetGla_1.0);

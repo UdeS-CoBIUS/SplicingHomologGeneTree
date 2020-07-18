@@ -1,0 +1,1 @@
+(((((ENSFALG00000015187__Ficedula_albicollis,ENSFALG00000014133__Ficedula_albicollis),ENSFALG00000004640__Ficedula_albicollis),ENSFALG00000014994__Ficedula_albicollis),ENSFALG00000014080__Ficedula_albicollis),ENSOARG00000006077__Ovis_aries);

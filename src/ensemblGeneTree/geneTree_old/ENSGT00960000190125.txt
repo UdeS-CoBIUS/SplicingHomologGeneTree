@@ -1,1 +1,0 @@
-(((ENSZALG00000010437__Zonotrichia_albicollis,ENSJHYG00000004628__Junco_hyemalis),ENSCCEG00000003200__Cyanistes_caeruleus),ENSMUNG00000004085__Melopsittacus_undulatus);

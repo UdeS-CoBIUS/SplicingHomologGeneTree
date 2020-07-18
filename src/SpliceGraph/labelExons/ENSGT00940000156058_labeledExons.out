@@ -1,0 +1,120 @@
+>0
+ENSPPAT00000059059: ['no event', 119, 0]
+ENSPTRT00000003747: ['no event', 119, 0]
+ENSPTRT00000092614: ['no event', 119, 0]
+ENST00000366794: ['no event', 119, 0]
+>1
+ENSPPAT00000059059: ['no event', 165, 0]
+ENSPTRT00000003747: ['no event', 165, 0]
+ENSPTRT00000092614: ['no event', 165, 0]
+ENST00000366794: ['no event', 165, 0]
+>2
+ENSPPAT00000059059: ['exon skipping', 0, 0]
+ENSPTRT00000003747: ['exon skipping', 0, 0]
+ENSPTRT00000092614: ['no event', 40, 1]
+ENST00000366794: ['exon skipping', 0, 0]
+>3
+ENSPPAT00000059059: ['5event', 115, 1]
+ENSPTRT00000003747: ['5event', 115, 1]
+ENSPTRT00000092614: ['exon skipping', 0, 0]
+ENST00000366794: ['5event', 115, 1]
+>4
+ENSPPAT00000059059: ['no event', 214, 0]
+ENSPTRT00000003747: ['no event', 214, 0]
+ENSPTRT00000092614: ['exon skipping', 0, 0]
+ENST00000366794: ['no event', 214, 0]
+>5
+ENSPPAT00000059059: ['no event', 99, 2]
+ENSPTRT00000003747: ['no event', 99, 2]
+ENSPTRT00000092614: ['exon skipping', 0, 0]
+ENST00000366794: ['no event', 99, 2]
+>6
+ENSPPAT00000059059: ['no event', 116, 0]
+ENSPTRT00000003747: ['no event', 116, 0]
+ENSPTRT00000092614: ['exon skipping', 0, 0]
+ENST00000366794: ['no event', 116, 0]
+>7
+ENSPPAT00000059059: ['no event', 176, 0]
+ENSPTRT00000003747: ['no event', 176, 0]
+ENSPTRT00000092614: ['exon skipping', 0, 0]
+ENST00000366794: ['no event', 176, 0]
+>8
+ENSPPAT00000059059: ['no event', 147, 0]
+ENSPTRT00000003747: ['no event', 147, 0]
+ENSPTRT00000092614: ['exon skipping', 0, 0]
+ENST00000366794: ['no event', 147, 0]
+>9
+ENSPPAT00000059059: ['no event', 140, 1]
+ENSPTRT00000003747: ['no event', 140, 1]
+ENSPTRT00000092614: ['exon skipping', 0, 0]
+ENST00000366794: ['no event', 140, 1]
+>10
+ENSPPAT00000059059: ['no event', 242, 1]
+ENSPTRT00000003747: ['no event', 242, 1]
+ENSPTRT00000092614: ['exon skipping', 0, 0]
+ENST00000366794: ['no event', 242, 1]
+>11
+ENSPPAT00000059059: ['no event', 68, 1]
+ENSPTRT00000003747: ['no event', 68, 1]
+ENSPTRT00000092614: ['exon skipping', 0, 0]
+ENST00000366794: ['no event', 68, 1]
+>12
+ENSPPAT00000059059: ['no event', 132, 1]
+ENSPTRT00000003747: ['no event', 132, 1]
+ENSPTRT00000092614: ['exon skipping', 0, 0]
+ENST00000366794: ['no event', 132, 1]
+>13
+ENSPPAT00000059059: ['no event', 195, 2]
+ENSPTRT00000003747: ['no event', 195, 2]
+ENSPTRT00000092614: ['exon skipping', 0, 0]
+ENST00000366794: ['no event', 195, 2]
+>14
+ENSPPAT00000059059: ['no event', 128, 0]
+ENSPTRT00000003747: ['no event', 128, 0]
+ENSPTRT00000092614: ['exon skipping', 0, 0]
+ENST00000366794: ['no event', 128, 0]
+>15
+ENSPPAT00000059059: ['no event', 83, 0]
+ENSPTRT00000003747: ['no event', 83, 0]
+ENSPTRT00000092614: ['exon skipping', 0, 0]
+ENST00000366794: ['no event', 83, 0]
+>16
+ENSPPAT00000059059: ['no event', 122, 0]
+ENSPTRT00000003747: ['no event', 122, 0]
+ENSPTRT00000092614: ['exon skipping', 0, 0]
+ENST00000366794: ['no event', 122, 0]
+>17
+ENSPPAT00000059059: ['no event', 128, 0]
+ENSPTRT00000003747: ['no event', 128, 0]
+ENSPTRT00000092614: ['exon skipping', 0, 0]
+ENST00000366794: ['no event', 128, 0]
+>18
+ENSPPAT00000059059: ['no event', 98, 0]
+ENSPTRT00000003747: ['no event', 98, 0]
+ENSPTRT00000092614: ['exon skipping', 0, 0]
+ENST00000366794: ['no event', 98, 0]
+>19
+ENSPPAT00000059059: ['no event', 152, 0]
+ENSPTRT00000003747: ['no event', 152, 0]
+ENSPTRT00000092614: ['exon skipping', 0, 0]
+ENST00000366794: ['no event', 152, 0]
+>20
+ENSPPAT00000059059: ['no event', 127, 0]
+ENSPTRT00000003747: ['no event', 127, 0]
+ENSPTRT00000092614: ['exon skipping', 0, 0]
+ENST00000366794: ['no event', 127, 0]
+>21
+ENSPPAT00000059059: ['no event', 61, 2]
+ENSPTRT00000003747: ['no event', 61, 2]
+ENSPTRT00000092614: ['exon skipping', 0, 0]
+ENST00000366794: ['no event', 61, 2]
+>22
+ENSPPAT00000059059: ['no event', 114, 1]
+ENSPTRT00000003747: ['no event', 114, 1]
+ENSPTRT00000092614: ['exon skipping', 0, 0]
+ENST00000366794: ['no event', 114, 1]
+>23
+ENSPPAT00000059059: ['no event', 81, 2]
+ENSPTRT00000003747: ['no event', 81, 2]
+ENSPTRT00000092614: ['exon skipping', 0, 0]
+ENST00000366794: ['no event', 81, 2]

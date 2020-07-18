@@ -1,0 +1,2 @@
+VULPESVULPES	vulpes_vulpes
+PANTHERAPARDUS	panthera_pardus

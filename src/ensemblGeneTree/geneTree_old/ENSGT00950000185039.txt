@@ -1,1 +1,0 @@
-((ENSGAGG00000004280__Gopherus_agassizii,ENSCABG00000009167__Chelonoidis_abingdonii),(((ENSPCIG00000035478__Phascolarctos_cinereus,ENSPCIG00000032847__Phascolarctos_cinereus),ENSPCIG00000036330__Phascolarctos_cinereus),ENSPCIG00000034103__Phascolarctos_cinereus));

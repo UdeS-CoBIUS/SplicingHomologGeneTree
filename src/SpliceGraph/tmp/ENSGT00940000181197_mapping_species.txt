@@ -1,0 +1,2 @@
+HAPLOCHROMISBURTONI	haplochromis_burtoni
+LABRUSBERGYLTA	labrus_bergylta

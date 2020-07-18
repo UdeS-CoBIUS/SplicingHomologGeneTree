@@ -1,0 +1,1 @@
+(((ENSAPEG00000008675__Amphiprion_percula,ENSFHEG00000019907__Fundulus_heteroclitus),(ENSAPOG00000020878__Acanthochromis_polyacanthus,ENSGACG00000015328__Gasterosteus_aculeatus)),((ENSSDUG00000022034__Seriola_dumerili,ENSCSEG00000006167__Cynoglossus_semilaevis),ENSATEG00000011848__Anabas_testudineus));

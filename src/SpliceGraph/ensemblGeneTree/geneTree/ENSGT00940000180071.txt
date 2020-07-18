@@ -1,0 +1,1 @@
+((ENSFHEG00000022542__Fundulus_heteroclitus,ENSPMGG00000001406__Periophthalmus_magnuspinnatus),ENSSFOG00015004717__Scleropages_formosus);

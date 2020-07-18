@@ -1,0 +1,1 @@
+(((ENSGAFG00000008683__Gambusia_affinis,ENSXCOG00000017630__Xiphophorus_couchianus),ENSSMAG00000004358__Scophthalmus_maximus),((ENSUMAG00000000249__Ursus_maritimus,ENSDNOG00000035138__Dasypus_novemcinctus),ENSOARG00000004335__Ovis_aries));

@@ -1,0 +1,1 @@
+((((((ENSAPEG00000009243__Amphiprion_percula,ENSATEG00000008666__Anabas_testudineus),ENSSLDG00000013696__Seriola_lalandi_dorsalis),ENSHCOG00000001599__Hippocampus_comes),((ENSPFOG00000021876__Poecilia_formosa,ENSPMEG00000011130__Poecilia_mexicana),ENSLBEG00000022181__Labrus_bergylta)),ENSDNOG00000039273__Dasypus_novemcinctus),ENSEBUG00000008838__Eptatretus_burgeri);

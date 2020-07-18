@@ -1,0 +1,1 @@
+((ENSOMEG00000001055__Oryzias_melastigma,ENSORLG00000025365__Oryzias_latipes_ASM223467v1),ENSSLDG00000004661__Seriola_lalandi_dorsalis);

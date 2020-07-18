@@ -1,0 +1,6 @@
+>cluster_0
+ZK697.2c.1	T26H2.9b.1
+>cluster_1
+T26H2.9a.1	ZK697.2b.1
+>cluster_2
+ZK697.2a.1

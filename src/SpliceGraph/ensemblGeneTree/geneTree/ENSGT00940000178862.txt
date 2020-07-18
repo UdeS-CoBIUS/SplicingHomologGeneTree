@@ -1,0 +1,1 @@
+(((ENSSPAG00000010379__Stegastes_partitus,ENSHCOG00000009759__Hippocampus_comes),ENSSLDG00000008137__Seriola_lalandi_dorsalis),ENSSFOG00015001847__Scleropages_formosus);

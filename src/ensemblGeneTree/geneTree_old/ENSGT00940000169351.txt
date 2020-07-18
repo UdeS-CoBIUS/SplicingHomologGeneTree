@@ -1,1 +1,0 @@
-(((ENSMMOG00000010543__Mola_mola,ENSSPAG00000012382__Stegastes_partitus),ENSGMOG00000006211__Gadus_morhua),(((((ENSCAFG00020021530__Canis_lupus_dingo,ENSVVUG00000026623__Vulpes_vulpes),ENSVVUG00000019667__Vulpes_vulpes),ENSUMAG00000024004__Ursus_maritimus),ENSMPUG00000001851__Mustela_putorius_furo),ENSCSAG00000017880__Chlorocebus_sabaeus));

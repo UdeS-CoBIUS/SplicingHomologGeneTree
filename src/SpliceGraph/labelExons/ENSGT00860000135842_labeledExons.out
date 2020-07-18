@@ -1,0 +1,18 @@
+>0
+ENSMSIT00000032088: ['no event', 37, 0]
+ENSMUST00000148290: ['no event', 37, 0]
+MGP_SPRETEiJ_T0061709: ['no event', 37, 0]
+MGP_CAROLIEiJ_T0059325: ['no event', 37, 0]
+MGP_PahariEiJ_T0070287: ['no event', 37, 0]
+>1
+ENSMSIT00000032088: ['no event', 150, 2]
+ENSMUST00000148290: ['no event', 150, 2]
+MGP_SPRETEiJ_T0061709: ['no event', 150, 2]
+MGP_CAROLIEiJ_T0059325: [['internal gap < 30', 42, 1], 149, 2]
+MGP_PahariEiJ_T0070287: [['internal gap < 30', 42, 1], 149, 2]
+>2
+ENSMSIT00000032088: ['no event', 2, 0]
+ENSMUST00000148290: ['no event', 2, 0]
+MGP_SPRETEiJ_T0061709: ['exon skipping', 0, 0]
+MGP_CAROLIEiJ_T0059325: ['exon skipping', 0, 0]
+MGP_PahariEiJ_T0070287: ['exon skipping', 0, 0]

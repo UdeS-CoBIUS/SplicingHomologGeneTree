@@ -1,0 +1,1 @@
+(((ENSSDAG00000000360__Spermophilus_dauricus,ENSUPAG00010015292__Urocitellus_parryii),ENSDORG00000029713__Dipodomys_ordii),ENSSSCG00000036931__Sus_scrofa);

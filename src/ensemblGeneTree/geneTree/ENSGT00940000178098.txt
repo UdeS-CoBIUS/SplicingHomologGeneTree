@@ -1,0 +1,1 @@
+((((ENSPMGG00000001957__Periophthalmus_magnuspinnatus,ENSPMGG00000012893__Periophthalmus_magnuspinnatus),ENSPMGG00000002948__Periophthalmus_magnuspinnatus),ENSPMGG00000016460__Periophthalmus_magnuspinnatus),ENSFHEG00000010068__Fundulus_heteroclitus);

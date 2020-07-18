@@ -1,0 +1,1 @@
+(((ENSCPUG00000019240__Calidris_pugnax,ENSCPGG00000005494__Calidris_pygmaea),ENSPMJG00000005640__Parus_major),ENSNPEG00000004639__Nothoprocta_perdicaria);

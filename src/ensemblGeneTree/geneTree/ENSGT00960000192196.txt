@@ -1,0 +1,1 @@
+(ENSUAMG00000001998__Ursus_americanus,ENSCCEG00000000441__Cyanistes_caeruleus);

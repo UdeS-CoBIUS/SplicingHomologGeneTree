@@ -1,0 +1,112 @@
+>0
+ENSPSIT00000013011: ['no event', 16, 0]
+ENSLACT00000016381: ['exon skipping', 0, 0]
+ENSMUNT00000004085: ['exon skipping', 0, 0]
+>1
+ENSPSIT00000013011: ['exon skipping', 0, 0]
+ENSLACT00000016381: ['exon skipping', 0, 0]
+ENSMUNT00000004085: ['5event', 70, 0]
+>2
+ENSPSIT00000013011: ['exon skipping', 0, 0]
+ENSLACT00000016381: ['exon skipping', 0, 0]
+ENSMUNT00000004085: ['no event', 105, 2]
+>3
+ENSPSIT00000013011: ['exon skipping', 0, 0]
+ENSLACT00000016381: ['exon skipping', 0, 0]
+ENSMUNT00000004085: ['no event', 211, 0]
+>4
+ENSPSIT00000013011: ['exon skipping', 0, 0]
+ENSLACT00000016381: ['exon skipping', 0, 0]
+ENSMUNT00000004085: ['no event', 58, 2]
+>5
+ENSPSIT00000013011: ['exon skipping', 0, 0]
+ENSLACT00000016381: ['exon skipping', 0, 0]
+ENSMUNT00000004085: ['no event', 187, 1]
+>6
+ENSPSIT00000013011: ['exon skipping', 0, 0]
+ENSLACT00000016381: ['exon skipping', 0, 0]
+ENSMUNT00000004085: ['no event', 38, 0]
+>7
+ENSPSIT00000013011: ['exon skipping', 0, 0]
+ENSLACT00000016381: ['exon skipping', 0, 0]
+ENSMUNT00000004085: ['no event', 242, 0]
+>8
+ENSPSIT00000013011: ['exon skipping', 0, 0]
+ENSLACT00000016381: ['exon skipping', 0, 0]
+ENSMUNT00000004085: ['no event', 148, 0]
+>9
+ENSPSIT00000013011: ['exon skipping', 0, 0]
+ENSLACT00000016381: ['exon skipping', 0, 0]
+ENSMUNT00000004085: ['no event', 117, 2]
+>10
+ENSPSIT00000013011: ['exon skipping', 0, 0]
+ENSLACT00000016381: ['5event', 100, 0]
+ENSMUNT00000004085: ['no event', 118, 0]
+>11
+ENSPSIT00000013011: ['exon skipping', 0, 0]
+ENSLACT00000016381: [['internal gap < 30', 212, 6], 270, 2]
+ENSMUNT00000004085: [['internal gap >= 30', 231, 30], 246, 2]
+>12
+ENSPSIT00000013011: ['exon skipping', 0, 0]
+ENSLACT00000016381: ['no event', 83, 0]
+ENSMUNT00000004085: [['internal gap < 30', 19, 3], 80, 0]
+>13
+ENSPSIT00000013011: ['exon skipping', 0, 0]
+ENSLACT00000016381: [['internal gap >= 30', 207, 42], 248, 0]
+ENSMUNT00000004085: ['no event', 290, 0]
+>14
+ENSPSIT00000013011: ['exon skipping', 0, 0]
+ENSLACT00000016381: ['no event', 323, 0]
+ENSMUNT00000004085: [['internal gap < 30', 182, 3], 320, 0]
+>15
+ENSPSIT00000013011: ['exon skipping', 0, 0]
+ENSLACT00000016381: ['no event', 242, 0]
+ENSMUNT00000004085: ['no event', 242, 0]
+>16
+ENSPSIT00000013011: ['3event', '5event', 106, 2]
+ENSLACT00000016381: [['internal gap < 30', 110, 16], 123, 0]
+ENSMUNT00000004085: [['internal gap < 30', 6, 10], 129, 0]
+>17
+ENSPSIT00000013011: ['5event', 211, 0]
+ENSLACT00000016381: ['exon skipping', 0, 0]
+ENSMUNT00000004085: ['exon skipping', 0, 0]
+>18
+ENSPSIT00000013011: ['no event', 51, 2]
+ENSLACT00000016381: ['exon skipping', 0, 0]
+ENSMUNT00000004085: ['exon skipping', 0, 0]
+>19
+ENSPSIT00000013011: ['no event', 78, 0]
+ENSLACT00000016381: ['exon skipping', 0, 0]
+ENSMUNT00000004085: ['exon skipping', 0, 0]
+>20
+ENSPSIT00000013011: ['exon skipping', 0, 0]
+ENSLACT00000016381: ['5event', 253, 1]
+ENSMUNT00000004085: ['5event', 253, 1]
+>21
+ENSPSIT00000013011: ['5event', 181, 1]
+ENSLACT00000016381: ['exon skipping', 0, 0]
+ENSMUNT00000004085: ['exon skipping', 0, 0]
+>22
+ENSPSIT00000013011: [['internal gap < 30', 19, 18], 39, 0]
+ENSLACT00000016381: ['exon skipping', 0, 0]
+ENSMUNT00000004085: ['5event', 56, 0]
+>23
+ENSPSIT00000013011: ['exon skipping', 0, 0]
+ENSLACT00000016381: ['5event', ['internal gap < 30', 141, 14], 509, 0]
+ENSMUNT00000004085: [['internal gap >= 30', 424, 55], 468, 0]
+>24
+ENSPSIT00000013011: ['5event', ['internal gap >= 30', 186, 107], 242, 0]
+ENSLACT00000016381: ['3event', 321, 0]
+ENSMUNT00000004085: ['3event', 279, 0]
+>25
+ENSPSIT00000013011: ['3event', 154, 0]
+ENSLACT00000016381: ['5event', ['internal gap >= 30', 97, 32], 130, 2]
+ENSMUNT00000004085: ['5event', ['internal gap < 30', 59, 29], 133, 2]
+>26
+ENSPSIT00000013011: ['exon skipping', 0, 0]
+ENSLACT00000016381: ['no event', 88, 1]
+ENSMUNT00000004085: [['internal gap < 30', 29, 15], 73, 1]
+>27
+ENSPSIT00000013011: ['exon skipping', 0, 0]
+ENSLACT00000016381: [['internal gap < 30', 600, 19], 668, 0]
+ENSMUNT00000004085: [['internal gap >= 30', 403, 73], 614, 0]

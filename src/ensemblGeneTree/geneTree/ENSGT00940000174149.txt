@@ -1,0 +1,1 @@
+((((ENSODEG00000009062__Octodon_degus,ENSHGLG00000001079__Heterocephalus_glaber_HetGla_female_1.0),ENSECAG00000037723__Equus_caballus),ENSCPBG00000004138__Chrysemys_picta_bellii),ENSSLDG00000015267__Seriola_lalandi_dorsalis);

@@ -1,1 +1,0 @@
-(((ENSCCNG00000029837__Castor_canadensis,ENSCCNG00000024766__Castor_canadensis),ENSMMMG00000004607__Marmota_marmota_marmota),ENSPTEG00000034172__Piliocolobus_tephrosceles);

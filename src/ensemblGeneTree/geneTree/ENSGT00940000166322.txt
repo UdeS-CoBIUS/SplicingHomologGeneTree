@@ -1,0 +1,1 @@
+(((((((ENSCSAG00000013691__Chlorocebus_sabaeus,ENSFDAG00000009676__Fukomys_damarensis),(ENSOARG00000018784__Ovis_aries,ENSSARG00000003190__Sorex_araneus)),ENSDNOG00000031020__Dasypus_novemcinctus),ENSMODG00000029639__Monodelphis_domestica),ENSOANG00000028525__Ornithorhynchus_anatinus),ENSPSIG00000009484__Pelodiscus_sinensis),ENSLACG00000018776__Latimeria_chalumnae);

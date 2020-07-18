@@ -1,0 +1,1 @@
+(((ENSCANG00000012529__Colobus_angolensis_palliatus,ENSPTEG00000000946__Piliocolobus_tephrosceles),(ENSMNEG00000024790__Macaca_nemestrina,ENSTGEG00000004912__Theropithecus_gelada)),ENSCHIG00000017126__Capra_hircus);

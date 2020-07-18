@@ -1,0 +1,1 @@
+(ENSMODG00000027987__Monodelphis_domestica,ENSGACG00000001231__Gasterosteus_aculeatus);

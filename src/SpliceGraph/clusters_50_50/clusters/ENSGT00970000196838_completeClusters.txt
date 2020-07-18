@@ -1,0 +1,2 @@
+>completeCluster_0
+ZK673.10.1	ZK673.5.1	ZK666.1.1	C09G5.14.1	ZK666.4.1

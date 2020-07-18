@@ -1,0 +1,2 @@
+YEL040W_mRNA	YEL040W	Saccharomyces_cerevisiae_strain_S288C
+YLR213C_mRNA	YLR213C	Saccharomyces_cerevisiae_strain_S288C

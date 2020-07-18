@@ -1,0 +1,1 @@
+(((ENSRBIG00000017193__Rhinopithecus_bieti,ENSPTEG00000004989__Piliocolobus_tephrosceles),(((ENSMLEG00000004461__Mandrillus_leucophaeus,ENSTGEG00000010028__Theropithecus_gelada),ENSPANG00000033985__Papio_anubis),ENSCATG00000041037__Cercocebus_atys)),ENSUMAG00000001143__Ursus_maritimus);

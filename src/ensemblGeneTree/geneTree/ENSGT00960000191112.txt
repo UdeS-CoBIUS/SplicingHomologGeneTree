@@ -1,0 +1,1 @@
+((ENSAPLG00000027318__Anas_platyrhynchos_platyrhynchos,ENSAHAG00000016269__Apteryx_haastii),ENSPTEG00000018760__Piliocolobus_tephrosceles);

@@ -1,0 +1,1 @@
+((ENSCJAG00000043591__Callithrix_jacchus,ENSPTEG00000012520__Piliocolobus_tephrosceles),(ENSBTAG00000052343__Bos_taurus,ENSBBBG00000004161__Bison_bison_bison));

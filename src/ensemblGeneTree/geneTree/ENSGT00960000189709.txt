@@ -1,0 +1,1 @@
+(((ENSLCOG00000012394__Lepidothrix_coronata,ENSJHYG00000006031__Junco_hyemalis),(ENSCPGG00000018416__Calidris_pygmaea,ENSNMEG00000005273__Numida_meleagris)),ENSNSUG00000020433__Notechis_scutatus);

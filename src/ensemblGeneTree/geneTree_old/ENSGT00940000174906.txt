@@ -1,1 +1,0 @@
-((ENSMLUG00000026395__Myotis_lucifugus,ENSCAFG00020014598__Canis_lupus_dingo),ENSSFOG00015002486__Scleropages_formosus);

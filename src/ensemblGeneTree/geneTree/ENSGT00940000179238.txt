@@ -1,0 +1,1 @@
+((ENSAPOG00000019085__Acanthochromis_polyacanthus,ENSTRUG00000020273__Takifugu_rubripes),ENSPKIG00000022476__Paramormyrops_kingsleyae);

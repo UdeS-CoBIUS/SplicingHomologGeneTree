@@ -1,0 +1,1 @@
+(ENSPTRG00000040625__Pan_troglodytes,ENSPCOG00000022251__Propithecus_coquereli);

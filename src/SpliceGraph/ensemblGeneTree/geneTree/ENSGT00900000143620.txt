@@ -1,0 +1,1 @@
+(((ENSUMAG00000019014__Ursus_maritimus,ENSCAFG00020017832__Canis_lupus_dingo),(ENSBBBG00000020454__Bison_bison_bison,ENSOARG00000014567__Ovis_aries)),ENSNGAG00000014140__Nannospalax_galili);

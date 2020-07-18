@@ -1,0 +1,5 @@
+CALLITHRIXJACCHUS	callithrix_jacchus
+SAIMIRIBOLIVIENSIS	saimiri_boliviensis
+PANTROGLODYTES	pan_troglodytes
+HOMOSAPIENS	homo_sapiens
+BOSMUTUS	bos_mutus

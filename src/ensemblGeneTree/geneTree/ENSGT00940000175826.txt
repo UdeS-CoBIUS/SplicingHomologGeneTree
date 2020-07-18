@@ -1,0 +1,1 @@
+(((ENSNBRG00000020957__Neolamprologus_brichardi,ENSPNYG00000018745__Pundamilia_nyererei),ENSPMGG00000016548__Periophthalmus_magnuspinnatus),FBgn0003334__Drosophila_melanogaster);

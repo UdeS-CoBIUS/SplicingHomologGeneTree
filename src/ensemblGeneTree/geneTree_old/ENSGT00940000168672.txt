@@ -1,1 +1,0 @@
-((ENSNLEG00000008298__Nomascus_leucogenys,ENSCGRG00000007963__Cricetulus_griseus_CriGri_1.0),ENSOANG00000032077__Ornithorhynchus_anatinus);

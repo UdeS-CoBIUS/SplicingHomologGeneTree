@@ -1,0 +1,4 @@
+>cluster_0
+ZC373.5.1	FBtr0073818
+>cluster_1
+FBtr0331708

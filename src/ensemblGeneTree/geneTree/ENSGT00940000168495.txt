@@ -1,0 +1,1 @@
+(((((ENSLCOG00000014281__Lepidothrix_coronata,ENSMVIG00005000553__Manacus_vitellinus),ENSTGUG00000008372__Taeniopygia_guttata),ENSMGAG00000008975__Meleagris_gallopavo),ENSXCOG00000011361__Xiphophorus_couchianus),(ENSPMAG00000001062__Petromyzon_marinus,ENSEBUG00000012307__Eptatretus_burgeri));

@@ -1,0 +1,1 @@
+((ENSORLG00015018264__Oryzias_latipes_ASM223469v1,ENSTRUG00000021629__Takifugu_rubripes),ENSAMXG00000035571__Astyanax_mexicanus);

@@ -1,0 +1,1 @@
+((((ENSMICG00000034023__Microcebus_murinus,ENSPCOG00000002275__Propithecus_coquereli),ENSPSMG00000013239__Prolemur_simus),ENSOGAG00000031230__Otolemur_garnettii),ENSTBEG00000003666__Tupaia_belangeri);

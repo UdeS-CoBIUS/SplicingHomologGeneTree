@@ -1,0 +1,1 @@
+(((ENSMALG00000005473__Monopterus_albus,ENSATEG00000019988__Anabas_testudineus),ENSAOCG00000021771__Amphiprion_ocellaris),ENSOANG00000030507__Ornithorhynchus_anatinus);

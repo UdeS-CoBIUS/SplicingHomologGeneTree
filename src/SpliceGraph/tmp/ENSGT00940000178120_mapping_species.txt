@@ -1,0 +1,7 @@
+MONOPTERUSALBUS	monopterus_albus
+MASTACEMBELUSARMATUS	mastacembelus_armatus
+NEOLAMPROLOGUSBRICHARDI	neolamprologus_brichardi
+AMPHILOPHUSCITRINELLUS	amphilophus_citrinellus
+AMPHIPRIONPERCULA	amphiprion_percula
+SCOPHTHALMUSMAXIMUS	scophthalmus_maximus
+LATESCALCARIFER	lates_calcarifer

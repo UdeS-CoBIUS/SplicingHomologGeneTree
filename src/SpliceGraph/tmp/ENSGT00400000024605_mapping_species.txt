@@ -1,0 +1,4 @@
+PONGOABELII	pongo_abelii
+TUPAIABELANGERI	tupaia_belangeri
+TURSIOPSTRUNCATUS	tursiops_truncatus
+PTEROPUSVAMPYRUS	pteropus_vampyrus

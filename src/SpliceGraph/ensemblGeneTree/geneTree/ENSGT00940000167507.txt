@@ -1,0 +1,1 @@
+((((((ENSBMUG00000022290__Bos_mutus,ENSBTAG00000039540__Bos_taurus),ENSBBBG00000017673__Bison_bison_bison),(ENSOARG00000009909__Ovis_aries,ENSCHIG00000024589__Capra_hircus)),ENSAMEG00000009629__Ailuropoda_melanoleuca),ENSCJAG00000035746__Callithrix_jacchus),ENSMODG00000025430__Monodelphis_domestica);

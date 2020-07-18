@@ -1,0 +1,1 @@
+(((ENSTGEG00000026465__Theropithecus_gelada,ENSPTEG00000003297__Piliocolobus_tephrosceles),(((ENSPPAG00000025483__Pan_paniscus,ENSPTRG00000046355__Pan_troglodytes),ENSGGOG00000036820__Gorilla_gorilla),ENSNLEG00000030081__Nomascus_leucogenys)),(ENSANAG00000030894__Aotus_nancymaae,ENSSBOG00000031120__Saimiri_boliviensis_boliviensis));

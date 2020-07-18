@@ -1,0 +1,1 @@
+(ENSMPUG00000002747__Mustela_putorius_furo,ENSGALG00000001983__Gallus_gallus);

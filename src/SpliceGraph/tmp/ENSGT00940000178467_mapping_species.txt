@@ -1,0 +1,6 @@
+POECILIALATIPINNA	poecilia_latipinna
+POECILIAMEXICANA	poecilia_mexicana
+SERIOLADUMERILI	seriola_dumerili
+POECILIALATIPINNA	poecilia_latipinna
+PERIOPHTHALMUSMAGNUSPINNATUS	periophthalmus_magnuspinnatus
+CALLORHINCHUSMILII	callorhinchus_milii

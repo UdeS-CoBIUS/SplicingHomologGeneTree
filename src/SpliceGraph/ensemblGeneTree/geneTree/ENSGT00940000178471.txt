@@ -1,0 +1,1 @@
+((((ENSAOCG00000003727__Amphiprion_ocellaris,ENSAPEG00000008440__Amphiprion_percula),ENSAPOG00000012009__Acanthochromis_polyacanthus),ENSSMAG00000011800__Scophthalmus_maximus),ENSTRUG00000025437__Takifugu_rubripes);

@@ -1,0 +1,1 @@
+((ENSTGUG00000008772__Taeniopygia_guttata,ENSSCAG00000010234__Serinus_canaria),ENSCPGG00000017464__Calidris_pygmaea);

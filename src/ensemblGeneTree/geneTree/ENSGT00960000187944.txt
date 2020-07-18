@@ -1,0 +1,1 @@
+((((ENSACIG00000014856__Amphilophus_citrinellus,ENSCSEG00000017945__Cynoglossus_semilaevis),ENSLBEG00000002008__Labrus_bergylta),ENSAMXG00000042600__Astyanax_mexicanus),(ENSSCAG00000015628__Serinus_canaria,ENSPSIG00000001481__Pelodiscus_sinensis));

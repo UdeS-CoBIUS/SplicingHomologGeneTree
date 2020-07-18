@@ -1,0 +1,1 @@
+((ENSNGAG00000019339__Nannospalax_galili,ENSMOCG00000010938__Microtus_ochrogaster),ENSUMAG00000007559__Ursus_maritimus);

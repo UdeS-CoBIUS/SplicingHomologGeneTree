@@ -1,0 +1,2 @@
+MANACUSVITELLINUS	manacus_vitellinus
+NOTECHISSCUTATUS	notechis_scutatus

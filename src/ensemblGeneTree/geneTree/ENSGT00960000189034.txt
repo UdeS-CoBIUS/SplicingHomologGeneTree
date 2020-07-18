@@ -1,0 +1,1 @@
+(ENSBMUG00000019418__Bos_mutus,ENSOANG00000008039__Ornithorhynchus_anatinus);

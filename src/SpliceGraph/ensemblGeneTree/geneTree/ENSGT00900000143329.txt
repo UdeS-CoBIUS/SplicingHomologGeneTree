@@ -1,0 +1,1 @@
+((ENSUPAG00010019363__Urocitellus_parryii,ENSMMMG00000023710__Marmota_marmota_marmota),(((ENSNGAG00000022946__Nannospalax_galili,ENSPEMG00000024741__Peromyscus_maniculatus_bairdii),(ENSMUSG00000079001__Mus_musculus_strain_reference_(CL57BL6),ENSMSIG00000028510__Mus_spicilegus)),ENSJJAG00000000449__Jaculus_jaculus));

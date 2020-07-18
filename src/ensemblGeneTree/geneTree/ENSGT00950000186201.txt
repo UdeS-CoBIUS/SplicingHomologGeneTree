@@ -1,0 +1,1 @@
+((ENSCABG00000014780__Chelonoidis_abingdonii,ENSCJPG00005003215__Coturnix_japonica),ENSSPUG00000011467__Sphenodon_punctatus);

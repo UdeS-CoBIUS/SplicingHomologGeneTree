@@ -1,0 +1,1 @@
+((ENSABRG00000005212__Anser_brachyrhynchus,ENSABRG00000004511__Anser_brachyrhynchus),ENSABRG00000010948__Anser_brachyrhynchus);

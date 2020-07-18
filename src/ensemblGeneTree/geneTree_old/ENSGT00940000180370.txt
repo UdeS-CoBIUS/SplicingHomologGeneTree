@@ -1,1 +1,0 @@
-((ENSOMEG00000021388__Oryzias_melastigma,ENSSLDG00000002720__Seriola_lalandi_dorsalis),ENSMALG00000013019__Monopterus_albus);

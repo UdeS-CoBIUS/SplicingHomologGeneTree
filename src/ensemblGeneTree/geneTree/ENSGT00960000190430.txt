@@ -1,0 +1,1 @@
+((ENSLSDG00000002652__Lonchura_striata_domestica,ENSNMEG00000004232__Numida_meleagris),ENSAOWG00000000981__Apteryx_owenii);

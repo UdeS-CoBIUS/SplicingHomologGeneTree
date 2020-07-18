@@ -1,1 +1,0 @@
-((ENSFHEG00000010305__Fundulus_heteroclitus,ENSPMEG00000002075__Poecilia_mexicana),ENSELUG00000017405__Esox_lucius);

@@ -1,0 +1,1 @@
+((((ENSAOCG00000016680__Amphiprion_ocellaris,ENSAPEG00000008257__Amphiprion_percula),(ENSXCOG00000002155__Xiphophorus_couchianus,ENSPLAG00000016998__Poecilia_latipinna)),ENSNBRG00000016308__Neolamprologus_brichardi),ENSTRUG00000024982__Takifugu_rubripes);

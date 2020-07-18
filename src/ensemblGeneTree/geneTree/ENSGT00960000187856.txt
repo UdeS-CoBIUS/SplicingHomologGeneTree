@@ -1,0 +1,1 @@
+(((((ENSAPLG00000004600__Anas_platyrhynchos_platyrhynchos,ENSCPUG00000002400__Calidris_pugnax),ENSGAGG00000007806__Gopherus_agassizii),(ENSNSUG00000003604__Notechis_scutatus,ENSNSUG00000003655__Notechis_scutatus)),ENSANAG00000020059__Aotus_nancymaae),ENSEBUG00000010779__Eptatretus_burgeri);

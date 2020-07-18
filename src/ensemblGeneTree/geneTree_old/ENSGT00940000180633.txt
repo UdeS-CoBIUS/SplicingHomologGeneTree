@@ -1,1 +1,0 @@
-(ENSATEG00000006221__Anabas_testudineus,ENSGAFG00000011301__Gambusia_affinis);

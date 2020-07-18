@@ -1,0 +1,1 @@
+((ENSLBEG00000019024__Labrus_bergylta,ENSAOCG00000001683__Amphiprion_ocellaris),ENSSMAG00000004987__Scophthalmus_maximus);

@@ -1,0 +1,1 @@
+((ENSSDAG00000016054__Spermophilus_dauricus,ENSSDAG00000004823__Spermophilus_dauricus),ENSPCOG00000017015__Propithecus_coquereli);

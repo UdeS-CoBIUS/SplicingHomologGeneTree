@@ -1,0 +1,1 @@
+(ENSAMEG00000001448__Ailuropoda_melanoleuca,ENSTGUG00000014473__Taeniopygia_guttata);

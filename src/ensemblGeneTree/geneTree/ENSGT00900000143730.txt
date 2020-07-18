@@ -1,0 +1,1 @@
+((((((ENSSBOG00000024542__Saimiri_boliviensis_boliviensis,ENSANAG00000019672__Aotus_nancymaae),ENSNLEG00000029982__Nomascus_leucogenys),ENSMICG00000034930__Microcebus_murinus),(ENSTSYG00000032226__Carlito_syrichta,ENSMMMG00000009191__Marmota_marmota_marmota)),ENSGGOG00000044118__Gorilla_gorilla),ENSCHIG00000015955__Capra_hircus);

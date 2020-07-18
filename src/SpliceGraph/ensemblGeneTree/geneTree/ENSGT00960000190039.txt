@@ -1,0 +1,1 @@
+(((ENSCCEG00000015274__Cyanistes_caeruleus,ENSLSDG00000015485__Lonchura_striata_domestica),ENSLCOG00000006479__Lepidothrix_coronata),ENSZALG00000009197__Zonotrichia_albicollis);

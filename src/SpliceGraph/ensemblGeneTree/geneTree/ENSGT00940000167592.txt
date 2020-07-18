@@ -1,0 +1,1 @@
+((((ENSUMAG00000004957__Ursus_maritimus,ENSPTIG00000011835__Panthera_tigris_altaica),(ENSBMUG00000018504__Bos_mutus,ENSOARG00000004021__Ovis_aries)),ENSSARG00000014539__Sorex_araneus),ENSTBEG00000001042__Tupaia_belangeri);

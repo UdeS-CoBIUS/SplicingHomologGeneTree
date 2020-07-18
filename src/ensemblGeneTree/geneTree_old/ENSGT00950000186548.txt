@@ -1,1 +1,0 @@
-(((((MGP_SPRETEiJ_G0025039__Mus_spretus_strain_SPRET/EiJ,ENSMUSG00000046804__Mus_musculus_strain_reference_(CL57BL6)),MGP_CAROLIEiJ_G0024123__Mus_caroli_strain_CAROLI_EIJ),ENSMUGG00000009025__Meriones_unguiculatus),ENSCGRG00015001218__Cricetulus_griseus_CriGri-PICR),ENSUPAG00010015628__Urocitellus_parryii);

@@ -1,1 +1,0 @@
-((ENSLBEG00000012347__Labrus_bergylta,ENSTRUG00000023854__Takifugu_rubripes),ENSEBUG00000000435__Eptatretus_burgeri);

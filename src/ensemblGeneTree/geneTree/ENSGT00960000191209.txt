@@ -1,0 +1,1 @@
+(ENSSDAG00000008673__Spermophilus_dauricus,ENSOARG00000018636__Ovis_aries);

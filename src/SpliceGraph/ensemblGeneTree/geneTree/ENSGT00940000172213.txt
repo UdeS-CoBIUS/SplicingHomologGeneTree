@@ -1,0 +1,1 @@
+(((ENSEASG00005020718__Equus_asinus_asinus,ENSOARG00000004453__Ovis_aries),ENSAMEG00000006556__Ailuropoda_melanoleuca),(ENSTGEG00000028358__Theropithecus_gelada,ENSPSMG00000014059__Prolemur_simus));

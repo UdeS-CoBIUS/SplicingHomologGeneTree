@@ -1,0 +1,1 @@
+(((ENSTBEG00000007798__Tupaia_belangeri,ENSEEUG00000007334__Erinaceus_europaeus),(ENSAMEG00000013102__Ailuropoda_melanoleuca,ENSMPUG00000007851__Mustela_putorius_furo)),ENSCING00000021040__Ciona_intestinalis);

@@ -1,0 +1,1 @@
+(((ENSOANG00000011195__Ornithorhynchus_anatinus,ENSLACG00000006755__Latimeria_chalumnae),ENSPFOG00000022828__Poecilia_formosa),(((ENSPSIG00000001894__Pelodiscus_sinensis,ENSACAG00000022788__Anolis_carolinensis),ENSLACG00000018423__Latimeria_chalumnae),ENSLOCG00000002361__Lepisosteus_oculatus));

@@ -1,0 +1,12 @@
+>0
+Y43F8C.15.1: ['no event', 57, 0]
+Y43F8C.23.1: ['no event', 57, 0]
+>1
+Y43F8C.15.1: ['no event', 84, 1]
+Y43F8C.23.1: ['no event', 84, 1]
+>2
+Y43F8C.15.1: ['no event', 227, 2]
+Y43F8C.23.1: ['no event', 227, 2]
+>3
+Y43F8C.15.1: [['internal gap >= 30', 129, 33], 156, 2]
+Y43F8C.23.1: [['internal gap < 30', 84, 3], 186, 2]

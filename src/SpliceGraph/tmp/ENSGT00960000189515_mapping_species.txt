@@ -1,0 +1,7 @@
+LEPIDOTHRIXCORONATA	lepidothrix_coronata
+MANACUSVITELLINUS	manacus_vitellinus
+LONCHURASTRIATADOMESTICA	lonchura_striata_domestica
+CALIDRISPYGMAEA	calidris_pygmaea
+COTURNIXJAPONICA	coturnix_japonica
+CHELONOIDISABINGDONII	chelonoidis_abingdonii
+CHRYSEMYSPICTABELLII	chrysemys_picta_bellii

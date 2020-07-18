@@ -1,0 +1,1 @@
+((ENSLACG00000006126__Latimeria_chalumnae,ENSXETG00000017292__Xenopus_tropicalis),(ENSCING00000002203__Ciona_intestinalis,ENSCSAVG00000003828__Ciona_savignyi));

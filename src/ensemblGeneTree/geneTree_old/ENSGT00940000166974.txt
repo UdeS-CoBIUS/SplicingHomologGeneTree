@@ -1,1 +1,0 @@
-(((ENSFCAG00000034026__Felis_catus,ENSUAMG00000009054__Ursus_americanus),ENSSSCG00000040048__Sus_scrofa),(((((ENSMFAG00000018966__Macaca_fascicularis,ENSMMUG00000040872__Macaca_mulatta),(ENSPANG00000033339__Papio_anubis,ENSMLEG00000041872__Mandrillus_leucophaeus)),ENSCATG00000041333__Cercocebus_atys),ENSTSYG00000026217__Carlito_syrichta),ENSCCNG00000019915__Castor_canadensis));

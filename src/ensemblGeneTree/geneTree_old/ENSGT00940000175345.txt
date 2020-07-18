@@ -1,1 +1,0 @@
-((ENSMLEG00000034745__Mandrillus_leucophaeus,ENSPVIG00000011061__Pogona_vitticeps),(ENSPMGG00000018246__Periophthalmus_magnuspinnatus,ENSSPAG00000018421__Stegastes_partitus));

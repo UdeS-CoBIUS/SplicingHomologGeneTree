@@ -1,0 +1,1 @@
+((ENSSDUG00000001258__Seriola_dumerili,ENSOMEG00000002738__Oryzias_melastigma),((ENSCCNG00000004648__Castor_canadensis,ENSCAPG00000007514__Cavia_aperea),ENSGGOG00000003073__Gorilla_gorilla));

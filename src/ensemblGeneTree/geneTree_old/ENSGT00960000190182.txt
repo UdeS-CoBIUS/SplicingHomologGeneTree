@@ -1,1 +1,0 @@
-((ENSCJPG00005011175__Coturnix_japonica,ENSRNOG00000058001__Rattus_norvegicus),ENSAMXG00000031642__Astyanax_mexicanus);

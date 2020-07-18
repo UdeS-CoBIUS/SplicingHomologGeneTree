@@ -1,0 +1,1 @@
+((((ENSAHAG00000010549__Apteryx_haastii,ENSAOWG00000013449__Apteryx_owenii),ENSCPRG00005003957__Crocodylus_porosus),(ENSCPBG00000005137__Chrysemys_picta_bellii,ENSGAGG00000022759__Gopherus_agassizii)),ENSPVIG00000019001__Pogona_vitticeps);

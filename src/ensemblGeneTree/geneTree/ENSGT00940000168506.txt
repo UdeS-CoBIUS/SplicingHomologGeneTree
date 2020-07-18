@@ -1,0 +1,1 @@
+((((ENSGACG00000004661__Gasterosteus_aculeatus,ENSPFOG00000022070__Poecilia_formosa),ENSGMOG00000006287__Gadus_morhua),ENSSPUG00000013283__Sphenodon_punctatus),(ENSCSAVG00000003982__Ciona_savignyi,ENSCING00000016661__Ciona_intestinalis));

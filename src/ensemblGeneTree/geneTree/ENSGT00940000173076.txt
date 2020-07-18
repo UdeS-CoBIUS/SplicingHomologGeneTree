@@ -1,0 +1,1 @@
+(((ENSHHUG00000038151__Hucho_hucho,ENSELUG00000020364__Esox_lucius),((((ENSPFOG00000001625__Poecilia_formosa,ENSPMEG00000019051__Poecilia_mexicana),ENSXCOG00000013507__Xiphophorus_couchianus),ENSCVAG00000023331__Cyprinodon_variegatus),(ENSLCAG00010020891__Lates_calcarifer,ENSMAMG00000014076__Mastacembelus_armatus))),ENSSMRG00000013650__Salvator_merianae);

@@ -1,0 +1,3 @@
+OVISARIES	ovis_aries
+BOSMUTUS	bos_mutus
+URSUSMARITIMUS	ursus_maritimus

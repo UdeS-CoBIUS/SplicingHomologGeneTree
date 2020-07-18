@@ -1,1 +1,0 @@
-((ENSLSDG00000003895__Lonchura_striata_domestica,ENSSCAG00000009573__Serinus_canaria),(ENSPMJG00000006959__Parus_major,ENSJHYG00000005556__Junco_hyemalis));

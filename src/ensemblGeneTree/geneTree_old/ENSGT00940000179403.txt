@@ -1,1 +1,0 @@
-(ENSAPOG00000004141__Acanthochromis_polyacanthus,ENSAOCG00000011180__Amphiprion_ocellaris);

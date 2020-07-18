@@ -1,0 +1,1 @@
+(ENSBBBG00000001879__Bison_bison_bison,ENSPTIG00000006530__Panthera_tigris_altaica);

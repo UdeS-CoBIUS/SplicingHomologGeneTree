@@ -1,0 +1,1 @@
+(((ENSLBEG00000024785__Labrus_bergylta,ENSPMGG00000011484__Periophthalmus_magnuspinnatus),ENSGMOG00000020076__Gadus_morhua),ENSSFOG00015000334__Scleropages_formosus);

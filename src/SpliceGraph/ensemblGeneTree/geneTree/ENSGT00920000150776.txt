@@ -1,0 +1,1 @@
+(((ENSCJAG00000047049__Callithrix_jacchus,ENSCCAG00000037642__Cebus_capucinus_imitator),(ENSUAMG00000005914__Ursus_americanus,ENSUAMG00000000909__Ursus_americanus)),(ENSGAGG00000017572__Gopherus_agassizii,ENSCABG00000015630__Chelonoidis_abingdonii));

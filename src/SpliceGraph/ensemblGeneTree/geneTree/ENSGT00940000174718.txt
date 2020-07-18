@@ -1,0 +1,1 @@
+(ENSATEG00000012296__Anabas_testudineus,ENSONIG00000004487__Oreochromis_niloticus);

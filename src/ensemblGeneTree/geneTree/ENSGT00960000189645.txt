@@ -1,0 +1,1 @@
+(((ENSARWG00000002307__Apteryx_rowi,ENSAHAG00000014540__Apteryx_haastii),ENSDNVG00000006880__Dromaius_novaehollandiae),((ENSSCAG00000003201__Serinus_canaria,ENSZALG00000016077__Zonotrichia_albicollis),ENSCCEG00000016273__Cyanistes_caeruleus));

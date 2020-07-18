@@ -1,0 +1,1 @@
+((ENSNMEG00000016004__Numida_meleagris,ENSCJPG00005003087__Coturnix_japonica),ENSCPBG00000027155__Chrysemys_picta_bellii);

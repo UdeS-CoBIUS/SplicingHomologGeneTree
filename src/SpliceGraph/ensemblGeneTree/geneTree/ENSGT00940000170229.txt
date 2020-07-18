@@ -1,0 +1,1 @@
+((ENSPSIG00000009688__Pelodiscus_sinensis,ENSACAG00000025250__Anolis_carolinensis),ENSOANG00000031409__Ornithorhynchus_anatinus);

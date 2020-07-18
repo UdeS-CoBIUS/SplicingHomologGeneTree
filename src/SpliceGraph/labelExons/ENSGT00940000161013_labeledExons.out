@@ -1,0 +1,18 @@
+>0
+ENSVURT00010029266: ['no event', 375, 0]
+ENSVURT00010000302: ['no event', 375, 0]
+ENSPCIT00000022115: ['no event', 375, 0]
+ENSMODT00000072560: ['no event', 375, 0]
+ENSSHAT00000019814: ['no event', 375, 0]
+>1
+ENSVURT00010029266: ['no event', 304, 1]
+ENSVURT00010000302: ['no event', 304, 1]
+ENSPCIT00000022115: ['no event', 304, 1]
+ENSMODT00000072560: ['no event', 304, 1]
+ENSSHAT00000019814: ['3event', 300, 1]
+>2
+ENSVURT00010029266: ['exon skipping', 0, 0]
+ENSVURT00010000302: ['exon skipping', 0, 0]
+ENSPCIT00000022115: ['no event', 2, 0]
+ENSMODT00000072560: ['exon skipping', 0, 0]
+ENSSHAT00000019814: ['exon skipping', 0, 0]

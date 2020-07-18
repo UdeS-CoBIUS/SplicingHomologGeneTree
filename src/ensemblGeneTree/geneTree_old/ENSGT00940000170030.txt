@@ -1,1 +1,0 @@
-((ENSSBOG00000033376__Saimiri_boliviensis_boliviensis,ENSCCAG00000036323__Cebus_capucinus_imitator),ENSANAG00000033622__Aotus_nancymaae);

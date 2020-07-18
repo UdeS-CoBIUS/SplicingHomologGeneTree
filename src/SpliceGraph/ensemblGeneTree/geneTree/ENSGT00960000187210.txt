@@ -1,0 +1,1 @@
+((((ENSATEG00000018832__Anabas_testudineus,ENSATEG00000018818__Anabas_testudineus),ENSORLG00000027850__Oryzias_latipes_ASM223467v1),(ENSAMXG00000034308__Astyanax_mexicanus,ENSAMXG00000030849__Astyanax_mexicanus)),ENSCAFG00020016563__Canis_lupus_dingo);

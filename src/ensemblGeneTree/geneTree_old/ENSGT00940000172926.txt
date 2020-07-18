@@ -1,1 +1,0 @@
-(((ENSORLG00000023139__Oryzias_latipes_ASM223467v1,ENSPREG00000012348__Poecilia_reticulata),(ENSPFOG00000023315__Poecilia_formosa,ENSSMAG00000005761__Scophthalmus_maximus)),ENSAMEG00000014391__Ailuropoda_melanoleuca);

@@ -1,1 +1,0 @@
-(ENSAMXG00000041180__Astyanax_mexicanus,ENSAPOG00000007679__Acanthochromis_polyacanthus);

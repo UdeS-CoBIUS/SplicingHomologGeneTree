@@ -1,0 +1,1 @@
+(((((ENSCPUG00000011156__Calidris_pugnax,ENSMUNG00000001110__Melopsittacus_undulatus),(ENSMVIG00005003908__Manacus_vitellinus,ENSZALG00000001526__Zonotrichia_albicollis)),ENSNPEG00000002208__Nothoprocta_perdicaria),ENSCPBG00000025180__Chrysemys_picta_bellii),ENSOANG00000031386__Ornithorhynchus_anatinus);

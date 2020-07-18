@@ -1,0 +1,1 @@
+(ENSSTOG00000031082__Ictidomys_tridecemlineatus,ENSAPOG00000010915__Acanthochromis_polyacanthus);

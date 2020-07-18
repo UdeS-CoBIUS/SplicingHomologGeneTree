@@ -1,0 +1,1 @@
+(ENSBTAG00000052937__Bos_taurus,ENSTSYG00000035015__Carlito_syrichta);

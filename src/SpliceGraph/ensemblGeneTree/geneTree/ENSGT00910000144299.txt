@@ -1,0 +1,1 @@
+((ENSONIG00000021374__Oreochromis_niloticus,ENSXMAG00000019789__Xiphophorus_maculatus),((ENSACAG00000028296__Anolis_carolinensis,ENSACAG00000028506__Anolis_carolinensis),(ENSACAG00000029697__Anolis_carolinensis,ENSACAG00000028719__Anolis_carolinensis)));

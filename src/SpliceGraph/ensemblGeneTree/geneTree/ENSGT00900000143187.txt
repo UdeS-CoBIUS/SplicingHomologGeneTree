@@ -1,0 +1,1 @@
+(((ENSNGAG00000002003__Nannospalax_galili,ENSMOCG00000019405__Microtus_ochrogaster),ENSJJAG00000015071__Jaculus_jaculus),((ENSFDAG00000016738__Fukomys_damarensis,ENSODEG00000001773__Octodon_degus),ENSDORG00000029648__Dipodomys_ordii));

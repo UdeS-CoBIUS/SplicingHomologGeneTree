@@ -1,0 +1,18 @@
+>0
+ENSMUGT00000008330: ['no event', 677, 0]
+ENSMSIT00000036100: ['no event', 677, 0]
+>1
+ENSMUGT00000008330: ['no event', 82, 0]
+ENSMSIT00000036100: ['no event', 82, 0]
+>2
+ENSMUGT00000008330: ['no event', 157, 2]
+ENSMSIT00000036100: ['no event', 157, 2]
+>3
+ENSMUGT00000008330: ['no event', 114, 1]
+ENSMSIT00000036100: ['no event', 114, 1]
+>4
+ENSMUGT00000008330: [['internal gap >= 30', 67, 49], 129, 2]
+ENSMSIT00000036100: [['internal gap < 30', 54, 1], 177, 2]
+>5
+ENSMUGT00000008330: ['no event', 128, 0]
+ENSMSIT00000036100: ['exon skipping', 0, 0]

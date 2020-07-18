@@ -1,0 +1,1 @@
+(((ENSXETG00000033355__Xenopus_tropicalis,ENSMSIG00000001247__Mus_spicilegus),((ENSCPUG00000013082__Calidris_pugnax,ENSCPGG00000018822__Calidris_pygmaea),ENSCPBG00000000349__Chrysemys_picta_bellii)),ENSPMAG00000009092__Petromyzon_marinus);

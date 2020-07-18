@@ -1,0 +1,1 @@
+(((ENSCCNG00000003569__Castor_canadensis,ENSMUGG00000025000__Meriones_unguiculatus),ENSTSYG00000029150__Carlito_syrichta),(ENSUMAG00000019880__Ursus_maritimus,ENSUAMG00000022588__Ursus_americanus));

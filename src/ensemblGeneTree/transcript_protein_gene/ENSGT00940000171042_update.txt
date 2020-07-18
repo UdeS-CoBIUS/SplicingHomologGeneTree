@@ -1,0 +1,4 @@
+ENSCINP00000018503	ENSCING00000009117	Ciona_intestinalis	ENSCINT00000018503
+FBpp0293225	FBgn0022764	Drosophila_melanogaster	FBtr0304683
+F02E9.4b.1	WBGene00004117	Caenorhabditis_elegans_strain_N2	F02E9.4b.1
+YOL004W_mRNA	YOL004W	Saccharomyces_cerevisiae_strain_S288C

@@ -1,0 +1,1 @@
+(((((ENSPTIG00000007091__Panthera_tigris_altaica,ENSPPRG00000005357__Panthera_pardus),ENSSSCG00000039142__Sus_scrofa),((ENSUPAG00010014232__Urocitellus_parryii,ENSMMMG00000013848__Marmota_marmota_marmota),ENSSDAG00000024195__Spermophilus_dauricus)),ENSPCIG00000036521__Phascolarctos_cinereus),ENSGAGG00000015592__Gopherus_agassizii);

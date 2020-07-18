@@ -1,1 +1,0 @@
-(ENSSARG00000001196__Sorex_araneus,ENSIPUG00000017832__Ictalurus_punctatus);

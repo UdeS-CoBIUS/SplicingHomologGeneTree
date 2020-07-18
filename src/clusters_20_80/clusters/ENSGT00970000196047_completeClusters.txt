@@ -1,0 +1,2 @@
+>completeCluster_0
+F20A1.10.1	C33G8.4.1	F57E7.1b.1	F20A1.1.1

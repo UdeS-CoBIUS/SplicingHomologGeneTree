@@ -1,0 +1,1 @@
+((ENSPNAG00000003560__Pygocentrus_nattereri,ENSCVAG00000005895__Cyprinodon_variegatus),YKL021C__Saccharomyces_cerevisiae_strain_S288C);

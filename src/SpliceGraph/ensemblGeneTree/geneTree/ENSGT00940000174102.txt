@@ -1,0 +1,1 @@
+(ENSDNOG00000039976__Dasypus_novemcinctus,ENSOARG00000012063__Ovis_aries);

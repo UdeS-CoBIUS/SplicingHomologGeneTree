@@ -1,0 +1,1 @@
+(((((ENSNBRG00000007904__Neolamprologus_brichardi,ENSCVAG00000009638__Cyprinodon_variegatus),ENSSMAG00000014993__Scophthalmus_maximus),ENSELUG00000001458__Esox_lucius),ENSIPUG00000022370__Ictalurus_punctatus),ENSLOCG00000002685__Lepisosteus_oculatus);

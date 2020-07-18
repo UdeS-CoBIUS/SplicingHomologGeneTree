@@ -1,0 +1,1 @@
+(((ENSRBIG00000028699__Rhinopithecus_bieti,ENSRROG00000043474__Rhinopithecus_roxellana),ENSCCAG00000028882__Cebus_capucinus_imitator),(ENSUMAG00000015524__Ursus_maritimus,ENSUAMG00000025290__Ursus_americanus));

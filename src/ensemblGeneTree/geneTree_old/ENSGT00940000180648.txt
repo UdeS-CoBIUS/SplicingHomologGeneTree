@@ -1,1 +1,0 @@
-(ENSFHEG00000001751__Fundulus_heteroclitus,ENSSLDG00000017800__Seriola_lalandi_dorsalis);

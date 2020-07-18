@@ -1,0 +1,10 @@
+>0
+ENSCATT00000050042: ['no event', 60, 0]
+ENSPANT00000002884: ['no event', 60, 0]
+ENSMFAT00000044881: ['exon skipping', 0, 0]
+ENSTGET00000010551: ['exon skipping', 0, 0]
+>1
+ENSCATT00000050042: ['no event', 142, 1]
+ENSPANT00000002884: ['no event', 142, 1]
+ENSMFAT00000044881: ['exon skipping', 0, 0]
+ENSTGET00000010551: ['exon skipping', 0, 0]

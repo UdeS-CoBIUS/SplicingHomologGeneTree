@@ -1,0 +1,1 @@
+(((ENSPREG00000021281__Poecilia_reticulata,ENSXCOG00000012642__Xiphophorus_couchianus),ENSCVAG00000016560__Cyprinodon_variegatus),(ENSEEEG00000000069__Electrophorus_electricus,ENSAMXG00005007784__Astyanax_mexicanus_Astyanax_mexicanus-1.0.2));

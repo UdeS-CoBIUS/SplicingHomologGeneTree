@@ -1,0 +1,45 @@
+>0
+FBtr0083127: ['exon skipping', 0, 0]
+FBtr0083126: ['exon skipping', 0, 0]
+FBtr0082233: ['no event', 12, 0]
+ENSCINT00000005696: ['exon skipping', 0, 0]
+>1
+FBtr0083127: ['exon skipping', 0, 0]
+FBtr0083126: ['exon skipping', 0, 0]
+FBtr0082233: ['exon skipping', 0, 0]
+ENSCINT00000005696: ['5event', 163, 0]
+>2
+FBtr0083127: ['exon skipping', 0, 0]
+FBtr0083126: ['exon skipping', 0, 0]
+FBtr0082233: ['5event', 1570, 1]
+ENSCINT00000005696: ['exon skipping', 0, 0]
+>3
+FBtr0083127: ['exon skipping', 0, 0]
+FBtr0083126: ['exon skipping', 0, 0]
+FBtr0082233: ['exon skipping', 0, 0]
+ENSCINT00000005696: ['5event', 213, 2]
+>4
+FBtr0083127: ['5event', ['internal gap >= 30', 333, 94], 401, 0]
+FBtr0083126: ['5event', ['internal gap >= 30', 333, 94], 401, 0]
+FBtr0082233: ['3event', '5event', 437, 0]
+ENSCINT00000005696: ['exon skipping', 0, 0]
+>5
+FBtr0083127: ['no event', 999, 0]
+FBtr0083126: ['no event', 999, 0]
+FBtr0082233: ['exon skipping', 0, 0]
+ENSCINT00000005696: ['exon skipping', 0, 0]
+>6
+FBtr0083127: ['no event', 940, 1]
+FBtr0083126: ['no event', 940, 1]
+FBtr0082233: ['exon skipping', 0, 0]
+ENSCINT00000005696: ['exon skipping', 0, 0]
+>7
+FBtr0083127: ['no event', 944, 0]
+FBtr0083126: ['no event', 944, 0]
+FBtr0082233: ['exon skipping', 0, 0]
+ENSCINT00000005696: ['exon skipping', 0, 0]
+>8
+FBtr0083127: ['exon skipping', 0, 0]
+FBtr0083126: ['exon skipping', 0, 0]
+FBtr0082233: ['only gap', 0, 2]
+ENSCINT00000005696: ['exon skipping', 0, 0]

@@ -1,0 +1,1 @@
+(((ENSNBRG00000018447__Neolamprologus_brichardi,ENSACIG00000018612__Amphilophus_citrinellus),ENSAOCG00000013727__Amphiprion_ocellaris),ENSSPUG00000004923__Sphenodon_punctatus);

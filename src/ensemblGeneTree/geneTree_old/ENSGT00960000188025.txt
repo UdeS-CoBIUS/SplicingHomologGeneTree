@@ -1,1 +1,0 @@
-(ENSORLG00020017773__Oryzias_latipes_ASM223471v1,ENSXETG00000024937__Xenopus_tropicalis);

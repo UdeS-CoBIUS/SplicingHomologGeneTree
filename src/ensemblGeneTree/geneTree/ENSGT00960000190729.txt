@@ -1,0 +1,1 @@
+((ENSLCOG00000008194__Lepidothrix_coronata,ENSJHYG00000003121__Junco_hyemalis),ENSNMEG00000019557__Numida_meleagris);

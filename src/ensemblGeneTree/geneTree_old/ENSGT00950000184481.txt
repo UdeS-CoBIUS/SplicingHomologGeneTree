@@ -1,1 +1,0 @@
-((ENSCSEG00000021121__Cynoglossus_semilaevis,ENSARWG00000009912__Apteryx_rowi),ENSEBUG00000003092__Eptatretus_burgeri);

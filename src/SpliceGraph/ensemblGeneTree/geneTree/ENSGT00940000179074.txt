@@ -1,0 +1,1 @@
+(((ENSKMAG00000004182__Kryptolebias_marmoratus,ENSKMAG00000013740__Kryptolebias_marmoratus),ENSKMAG00000017765__Kryptolebias_marmoratus),ENSKMAG00000010672__Kryptolebias_marmoratus);

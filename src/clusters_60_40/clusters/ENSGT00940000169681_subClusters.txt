@@ -1,0 +1,6 @@
+>cluster_0
+FBtr0330606	ENSCINT00000018871
+>cluster_1
+FBtr0088411
+>cluster_2
+F19B2.6.1	FBtr0088410

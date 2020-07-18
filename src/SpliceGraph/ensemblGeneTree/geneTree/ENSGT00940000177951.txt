@@ -1,0 +1,1 @@
+((((((ENSXMAG00000023294__Xiphophorus_maculatus,ENSXCOG00000004196__Xiphophorus_couchianus),ENSCVAG00000010106__Cyprinodon_variegatus),ENSKMAG00000004826__Kryptolebias_marmoratus),ENSOMEG00000018322__Oryzias_melastigma),ENSSPAG00000014798__Stegastes_partitus),ENSLBEG00000010905__Labrus_bergylta);

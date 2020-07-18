@@ -1,0 +1,1 @@
+(ENSCSEG00000008404__Cynoglossus_semilaevis,ENSAMXG00000008672__Astyanax_mexicanus);

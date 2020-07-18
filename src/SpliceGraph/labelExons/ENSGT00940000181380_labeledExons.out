@@ -1,0 +1,15 @@
+>0
+ENSEEET00000008336: ['no event', 97, 0]
+ENSAPOT00000017351: ['5event', 70, 0]
+ENSPKIT00000035582: ['no event', 97, 0]
+ENSUAMT00000037271: ['no event', 97, 0]
+>1
+ENSEEET00000008336: ['no event', 73, 2]
+ENSAPOT00000017351: ['no event', 73, 2]
+ENSPKIT00000035582: ['no event', 73, 2]
+ENSUAMT00000037271: ['no event', 73, 2]
+>2
+ENSEEET00000008336: [['internal gap >= 30', 22, 249], 37, 1]
+ENSAPOT00000017351: ['3event', 100, 1]
+ENSPKIT00000035582: ['3event', 202, 1]
+ENSUAMT00000037271: [['internal gap >= 30', 215, 36], 250, 1]

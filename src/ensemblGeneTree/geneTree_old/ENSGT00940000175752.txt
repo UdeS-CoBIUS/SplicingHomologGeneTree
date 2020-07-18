@@ -1,1 +1,0 @@
-((((((ENSPREG00000003642__Poecilia_reticulata,ENSPFOG00000022407__Poecilia_formosa),ENSKMAG00000006765__Kryptolebias_marmoratus),ENSACLG00000014504__Astatotilapia_calliptera),ENSATEG00000002464__Anabas_testudineus),ENSHCOG00000002004__Hippocampus_comes),(ENSPNAG00000011158__Pygocentrus_nattereri,ENSAMXG00000032806__Astyanax_mexicanus));

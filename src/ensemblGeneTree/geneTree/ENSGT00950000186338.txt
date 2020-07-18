@@ -1,0 +1,1 @@
+(ENSVPAG00000005362__Vicugna_pacos,ENSGALG00000054690__Gallus_gallus);

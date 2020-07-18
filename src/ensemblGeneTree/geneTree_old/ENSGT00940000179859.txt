@@ -1,1 +1,0 @@
-((ENSPNAG00000004264__Pygocentrus_nattereri,ENSPNAG00000027854__Pygocentrus_nattereri),ENSPNAG00000026854__Pygocentrus_nattereri);

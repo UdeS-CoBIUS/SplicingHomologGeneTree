@@ -1,0 +1,1 @@
+(((ENSTTRG00000015716__Tursiops_truncatus,ENSOARG00000000466__Ovis_aries),(((((ENSLAFG00000026382__Loxodonta_africana,ENSLAFG00000026066__Loxodonta_africana),ENSPCAG00000004149__Procavia_capensis),ENSETEG00000015596__Echinops_telfairi),ENSSARG00000005937__Sorex_araneus),ENSCGRG00015003425__Cricetulus_griseus_CriGri-PICR)),ENSCHOG00000013596__Choloepus_hoffmanni);

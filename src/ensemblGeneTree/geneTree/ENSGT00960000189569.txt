@@ -1,0 +1,1 @@
+((((ENSMUNG00000014547__Melopsittacus_undulatus,ENSCJPG00005009075__Coturnix_japonica),(ENSPMJG00000003091__Parus_major,ENSJHYG00000013770__Junco_hyemalis)),ENSNPEG00000006549__Nothoprocta_perdicaria),ENSLOCG00000011957__Lepisosteus_oculatus);

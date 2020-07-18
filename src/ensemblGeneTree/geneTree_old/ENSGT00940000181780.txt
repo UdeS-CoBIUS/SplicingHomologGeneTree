@@ -1,1 +1,0 @@
-((ENSTNIG00000000045__Tetraodon_nigroviridis,ENSXCOG00000016331__Xiphophorus_couchianus),ENSSPUG00000006400__Sphenodon_punctatus);

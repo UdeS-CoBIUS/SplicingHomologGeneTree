@@ -1,0 +1,1 @@
+((((ENSBMUG00000009493__Bos_mutus,ENSPVAG00000011631__Pteropus_vampyrus),((ENSDORG00000013618__Dipodomys_ordii,ENSCAPG00000013894__Cavia_aperea),ENSCANG00000031329__Colobus_angolensis_palliatus)),ENSMEUG00000009410__Notamacropus_eugenii),ENSMGAG00000001401__Meleagris_gallopavo);

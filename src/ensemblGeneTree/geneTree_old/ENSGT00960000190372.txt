@@ -1,1 +1,0 @@
-((ENSMVIG00005015280__Manacus_vitellinus,ENSLCOG00000010558__Lepidothrix_coronata),ENSSCAG00000001004__Serinus_canaria);

@@ -1,0 +1,1 @@
+(((ENSVVUG00000007174__Vulpes_vulpes,ENSCAFG00020019179__Canis_lupus_dingo),ENSCCNG00000003900__Castor_canadensis),ENSETEG00000002181__Echinops_telfairi);

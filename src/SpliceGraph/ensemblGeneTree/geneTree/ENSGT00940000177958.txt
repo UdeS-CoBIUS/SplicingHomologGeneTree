@@ -1,0 +1,1 @@
+((ENSSFOG00015004399__Scleropages_formosus,ENSSFOG00015017524__Scleropages_formosus),((((ENSSFOG00015007583__Scleropages_formosus,ENSSFOG00015018246__Scleropages_formosus),ENSSFOG00015009112__Scleropages_formosus),ENSSFOG00015003360__Scleropages_formosus),ENSSFOG00015013441__Scleropages_formosus));

@@ -1,0 +1,1 @@
+((ENSCGRG00015019460__Cricetulus_griseus_CriGri-PICR,ENSPCOG00000017872__Propithecus_coquereli),ENSMUNG00000000359__Melopsittacus_undulatus);

@@ -1,0 +1,1 @@
+(((ENSFHEG00000011472__Fundulus_heteroclitus,ENSAOCG00000002558__Amphiprion_ocellaris),ENSSMAG00000002318__Scophthalmus_maximus),ENSJHYG00000010490__Junco_hyemalis);

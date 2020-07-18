@@ -1,0 +1,1 @@
+((((ENSSMAG00000019103__Scophthalmus_maximus,ENSCSEG00000001455__Cynoglossus_semilaevis),(ENSKMAG00000005230__Kryptolebias_marmoratus,ENSXMAG00000025841__Xiphophorus_maculatus)),ENSATEG00000002113__Anabas_testudineus),ENSPMGG00000020832__Periophthalmus_magnuspinnatus);

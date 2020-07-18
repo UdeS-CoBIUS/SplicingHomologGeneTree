@@ -1,0 +1,1 @@
+(((((ENSMLEG00000032694__Mandrillus_leucophaeus,ENSPANG00000030387__Papio_anubis),ENSCANG00000027875__Colobus_angolensis_palliatus),ENSCATG00000029364__Cercocebus_atys),(ENSG00000163081__Homo_sapiens,ENSPTRG00000047286__Pan_troglodytes)),ENSCCAG00000034963__Cebus_capucinus_imitator);

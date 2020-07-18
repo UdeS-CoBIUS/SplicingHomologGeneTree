@@ -1,1 +1,0 @@
-((ENSSDUG00000002809__Seriola_dumerili,ENSCSEG00000001169__Cynoglossus_semilaevis),(ENSATEG00000020639__Anabas_testudineus,ENSMAMG00000012996__Mastacembelus_armatus));

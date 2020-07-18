@@ -1,0 +1,1 @@
+((((ENSOGAG00000028268__Otolemur_garnettii,ENSCCAG00000034161__Cebus_capucinus_imitator),(ENSPTIG00000019703__Panthera_tigris_altaica,ENSFCAG00000026703__Felis_catus)),ENSJHYG00000015258__Junco_hyemalis),(ENSSLDG00000011711__Seriola_lalandi_dorsalis,ENSSLDG00000008944__Seriola_lalandi_dorsalis));

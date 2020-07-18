@@ -1,0 +1,1 @@
+((ENSANAG00000030698__Aotus_nancymaae,ENSECAG00000030785__Equus_caballus),ENSPCIG00000031272__Phascolarctos_cinereus);

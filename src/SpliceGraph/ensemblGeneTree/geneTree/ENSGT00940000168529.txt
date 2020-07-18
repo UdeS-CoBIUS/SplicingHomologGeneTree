@@ -1,0 +1,1 @@
+((ENSCING00000019788__Ciona_intestinalis,ENSCSAVG00000008745__Ciona_savignyi),(ENSTGUG00000011027__Taeniopygia_guttata,ENSFALG00000012663__Ficedula_albicollis));

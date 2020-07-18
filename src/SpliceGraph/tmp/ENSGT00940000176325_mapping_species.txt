@@ -1,0 +1,4 @@
+SACCHAROMYCESCEREVISIAE	saccharomyces_cerevisiae
+SACCHAROMYCESCEREVISIAE	saccharomyces_cerevisiae
+SACCHAROMYCESCEREVISIAE	saccharomyces_cerevisiae
+SERIOLALALANDI	seriola_lalandi

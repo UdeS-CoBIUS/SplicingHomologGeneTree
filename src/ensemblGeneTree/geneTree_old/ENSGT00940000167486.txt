@@ -1,1 +1,0 @@
-((((((ENSRROG00000012537__Rhinopithecus_roxellana,ENSRBIG00000034552__Rhinopithecus_bieti),ENSCGRG00001016278__Cricetulus_griseus_CHOK1GS_HDv1),(ENSCHIG00000027209__Capra_hircus,ENSSARG00000009212__Sorex_araneus)),ENSDNOG00000046724__Dasypus_novemcinctus),ENSPCIG00000035793__Phascolarctos_cinereus),ENSCJPG00005001576__Coturnix_japonica);

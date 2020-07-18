@@ -1,0 +1,1 @@
+((ENSCATG00000031798__Cercocebus_atys,ENSPTEG00000037298__Piliocolobus_tephrosceles),(((ENSPPAG00000003732__Pan_paniscus,ENSPTRG00000048535__Pan_troglodytes),ENSGGOG00000042408__Gorilla_gorilla),ENSPPYG00000007644__Pongo_abelii));

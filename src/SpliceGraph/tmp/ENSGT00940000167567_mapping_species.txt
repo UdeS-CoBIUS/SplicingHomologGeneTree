@@ -1,0 +1,9 @@
+GOPHERUSAGASSIZII	gopherus_agassizii
+PELODISCUSSINENSIS	pelodiscus_sinensis
+ANOLISCAROLINENSIS	anolis_carolinensis
+POGONAVITTICEPS	pogona_vitticeps
+MANACUSVITELLINUS	manacus_vitellinus
+MYOTISLUCIFUGUS	myotis_lucifugus
+CANISLUPUSFAMILIARIS	canis_lupus_familiaris
+MACACAMULATTA	macaca_mulatta
+SARCOPHILUSHARRISII	sarcophilus_harrisii

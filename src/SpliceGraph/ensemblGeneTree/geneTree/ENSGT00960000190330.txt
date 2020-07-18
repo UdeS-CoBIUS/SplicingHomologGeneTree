@@ -1,0 +1,1 @@
+((ENSAPLG00000026710__Anas_platyrhynchos_platyrhynchos,ENSCJPG00005005841__Coturnix_japonica),ENSHHUG00000027859__Hucho_hucho);

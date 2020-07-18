@@ -1,0 +1,11 @@
+F22A3.6a.1	WBGene00017691	Caenorhabditis_elegans_strain_N2	F22A3.6a.1
+FBpp0086191	FBgn0034162	Drosophila_melanogaster
+C45G7.2.1	WBGene00016669	Caenorhabditis_elegans_strain_N2
+C45G7.3.1	WBGene00016670	Caenorhabditis_elegans_strain_N2
+W03D2.7.1	WBGene00020982	Caenorhabditis_elegans_strain_N2
+FBpp0076614	FBgn0035734	Drosophila_melanogaster
+FBpp0086194	FBgn0034165	Drosophila_melanogaster	FBtr0087045
+C55F2.2.1	WBGene00016958	Caenorhabditis_elegans_strain_N2	C55F2.2.1
+C45G7.1.1	WBGene00016668	Caenorhabditis_elegans_strain_N2	C45G7.1.1
+FBpp0086192	FBgn0025827	Drosophila_melanogaster	FBtr0087043
+FBpp0086193	FBgn0046999	Drosophila_melanogaster	FBtr0087044

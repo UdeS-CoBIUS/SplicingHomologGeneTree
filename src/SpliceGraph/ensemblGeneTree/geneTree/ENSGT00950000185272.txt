@@ -1,0 +1,1 @@
+((ENSPCIG00000031477__Phascolarctos_cinereus,ENSTBEG00000011103__Tupaia_belangeri),(((ENSGAGG00000001543__Gopherus_agassizii,ENSGAGG00000006634__Gopherus_agassizii),ENSCABG00000015242__Chelonoidis_abingdonii),ENSDNVG00000013944__Dromaius_novaehollandiae));

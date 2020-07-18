@@ -1,0 +1,1 @@
+((((ENSBIXG00005007243__Bos_indicus_x_Bos_taurus_UOA_Brahman_1,ENSBIXG00000003943__Bos_indicus_x_Bos_taurus_UOA_Angus_1),ENSEEUG00000008447__Erinaceus_europaeus),ENSCAFG00020004118__Canis_lupus_dingo),ENSCCNG00000018975__Castor_canadensis);

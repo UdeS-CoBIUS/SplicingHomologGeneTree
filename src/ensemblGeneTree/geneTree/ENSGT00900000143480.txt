@@ -1,0 +1,1 @@
+(ENSMAUG00000017442__Mesocricetus_auratus,ENSJJAG00000018946__Jaculus_jaculus);

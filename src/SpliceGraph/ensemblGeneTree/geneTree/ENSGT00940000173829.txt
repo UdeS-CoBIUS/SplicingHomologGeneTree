@@ -1,0 +1,1 @@
+((ENSPTIG00000015955__Panthera_tigris_altaica,ENSETEG00000001312__Echinops_telfairi),ENSGMOG00000009734__Gadus_morhua);

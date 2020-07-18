@@ -1,0 +1,1 @@
+(((((ENSAPEG00000003423__Amphiprion_percula,ENSAPEG00000006022__Amphiprion_percula),ENSAPEG00000005153__Amphiprion_percula),ENSAOCG00000018207__Amphiprion_ocellaris),(((ENSPRNG00000015707__Parambassis_ranga,ENSPRNG00000013388__Parambassis_ranga),ENSPRNG00000013154__Parambassis_ranga),ENSPRNG00000017156__Parambassis_ranga)),ENSCHAG00000012976__Clupea_harengus);

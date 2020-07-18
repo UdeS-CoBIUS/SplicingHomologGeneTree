@@ -1,0 +1,4 @@
+>completeCluster_0
+FBtr0088997	Y94H6A.9c.1	FBtr0299995
+>completeCluster_1
+FBtr0299995	Y94H6A.9a.1	FBtr0088997

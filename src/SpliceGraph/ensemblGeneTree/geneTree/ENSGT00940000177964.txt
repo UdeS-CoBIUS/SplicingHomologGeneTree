@@ -1,0 +1,1 @@
+(((ENSPLAG00000002629__Poecilia_latipinna,ENSXCOG00000000384__Xiphophorus_couchianus),(((ENSACLG00000007034__Astatotilapia_calliptera,ENSPNYG00000002911__Pundamilia_nyererei),ENSHBUG00000012530__Haplochromis_burtoni),ENSNBRG00000012169__Neolamprologus_brichardi)),ENSSPAG00000005031__Stegastes_partitus);

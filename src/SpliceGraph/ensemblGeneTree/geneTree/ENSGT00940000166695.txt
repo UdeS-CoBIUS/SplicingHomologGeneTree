@@ -1,0 +1,1 @@
+((((ENSPPAG00000007755__Pan_paniscus,ENSPTRG00000039292__Pan_troglodytes),ENSGGOG00000023374__Gorilla_gorilla),ENSUPAG00010023918__Urocitellus_parryii),((((ENSCAFG00000024716__Canis_lupus_familiaris,ENSVVUG00000002016__Vulpes_vulpes),ENSPPRG00000001731__Panthera_pardus),ENSOARG00000009136__Ovis_aries),ENSECAG00000023834__Equus_caballus));

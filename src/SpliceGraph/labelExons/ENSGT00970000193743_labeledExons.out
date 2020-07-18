@@ -1,0 +1,12 @@
+>0
+ENSIPUT00000034639: [['internal gap < 30', 45, 15], 140, 0]
+ENSEEET00000034954: [['internal gap < 30', 42, 18], 137, 0]
+ENSAMXT00000038295: ['5event', ['internal gap < 30', 17, 6], 149, 0]
+>1
+ENSIPUT00000034639: ['no event', 95, 0]
+ENSEEET00000034954: ['no event', 95, 0]
+ENSAMXT00000038295: ['no event', 95, 0]
+>2
+ENSIPUT00000034639: [['internal gap >= 30', 499, 81], 572, 0]
+ENSEEET00000034954: [['internal gap < 30', 556, 24], 629, 0]
+ENSAMXT00000038295: [['internal gap >= 30', 467, 87], 566, 0]

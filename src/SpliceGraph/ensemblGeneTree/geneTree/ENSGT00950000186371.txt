@@ -1,0 +1,1 @@
+((ENSSCAG00000008201__Serinus_canaria,ENSCCEG00000010626__Cyanistes_caeruleus),ENSCPBG00000003814__Chrysemys_picta_bellii);

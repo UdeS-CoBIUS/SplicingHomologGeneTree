@@ -1,0 +1,1 @@
+(((ENSNBRG00000012724__Neolamprologus_brichardi,ENSMZEG00005028233__Maylandia_zebra),ENSGAFG00000002464__Gambusia_affinis),ENSGMOG00000001652__Gadus_morhua);

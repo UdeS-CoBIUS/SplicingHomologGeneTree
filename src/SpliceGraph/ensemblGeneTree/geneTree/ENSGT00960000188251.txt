@@ -1,0 +1,1 @@
+((ENSTRUG00000024681__Takifugu_rubripes,ENSORLG00000026531__Oryzias_latipes_ASM223467v1),ENSCGRG00015028346__Cricetulus_griseus_CriGri-PICR);

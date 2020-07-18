@@ -1,1 +1,0 @@
-((ENSCCEG00000020948__Cyanistes_caeruleus,ENSPMJG00000018377__Parus_major),ENSSCAG00000014450__Serinus_canaria);

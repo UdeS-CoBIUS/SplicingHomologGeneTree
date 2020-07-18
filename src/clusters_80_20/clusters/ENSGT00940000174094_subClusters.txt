@@ -1,0 +1,14 @@
+>cluster_0
+FBtr0330124
+>cluster_1
+FBtr0346962
+>cluster_2
+FBtr0340656
+>cluster_3
+C11D9.1.1	FBtr0330123
+>cluster_4
+YAL041W_mRNA	FBtr0112712
+>cluster_5
+FBtr0330122
+>cluster_6
+FBtr0112709

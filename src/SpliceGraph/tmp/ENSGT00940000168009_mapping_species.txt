@@ -1,0 +1,11 @@
+SPERMOPHILUSDAURICUS	spermophilus_dauricus
+UROCITELLUSPARRYII	urocitellus_parryii
+PANPANISCUS	pan_paniscus
+PANTROGLODYTES	pan_troglodytes
+GORILLAGORILLA	gorilla_gorilla
+BOSMUTUS	bos_mutus
+BOSTAURUS	bos_taurus
+EQUUSCABALLUS	equus_caballus
+EQUUSASINUSASINUS	equus_asinus_asinus
+ERINACEUSEUROPAEUS	erinaceus_europaeus
+SARCOPHILUSHARRISII	sarcophilus_harrisii

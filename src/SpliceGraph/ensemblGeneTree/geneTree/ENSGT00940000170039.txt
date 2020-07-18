@@ -1,0 +1,1 @@
+((((ENSSPUG00000004808__Sphenodon_punctatus,ENSACAG00000022209__Anolis_carolinensis),(ENSMVIG00005008799__Manacus_vitellinus,ENSJHYG00000015481__Junco_hyemalis)),ENSETEG00000004542__Echinops_telfairi),WBGene00018763__Caenorhabditis_elegans_strain_N2);

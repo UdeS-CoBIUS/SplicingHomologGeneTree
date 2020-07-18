@@ -1,0 +1,1 @@
+((ENSPMJG00000017136__Parus_major,ENSJHYG00000012127__Junco_hyemalis),((ENSAOCG00000000911__Amphiprion_ocellaris,ENSOMEG00000009882__Oryzias_melastigma),(ENSPMGG00000006577__Periophthalmus_magnuspinnatus,ENSPMGG00000020024__Periophthalmus_magnuspinnatus)));

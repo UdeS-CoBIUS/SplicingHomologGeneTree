@@ -1,1 +1,0 @@
-((ENSPVAG00000005359__Pteropus_vampyrus,ENSPVAG00000000176__Pteropus_vampyrus),ENSTTRG00000007283__Tursiops_truncatus);

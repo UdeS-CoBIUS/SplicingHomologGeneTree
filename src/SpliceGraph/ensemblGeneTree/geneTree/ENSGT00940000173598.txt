@@ -1,0 +1,1 @@
+((ENSOANG00000029375__Ornithorhynchus_anatinus,ENSSHAG00000016404__Sarcophilus_harrisii),(ENSDNVG00000011009__Dromaius_novaehollandiae,ENSSPUG00000013288__Sphenodon_punctatus));

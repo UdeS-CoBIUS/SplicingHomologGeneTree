@@ -1,0 +1,1 @@
+(((ENSMAMG00000019212__Mastacembelus_armatus,ENSLBEG00000015385__Labrus_bergylta),ENSAOCG00000001120__Amphiprion_ocellaris),ENSAMXG00000029103__Astyanax_mexicanus);

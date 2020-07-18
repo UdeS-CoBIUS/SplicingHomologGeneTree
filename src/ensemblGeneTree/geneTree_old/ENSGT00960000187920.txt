@@ -1,1 +1,0 @@
-(((ENSOMEG00000011524__Oryzias_melastigma,ENSMALG00000020742__Monopterus_albus),ENSELUG00000011903__Esox_lucius),ENSCCEG00000003300__Cyanistes_caeruleus);

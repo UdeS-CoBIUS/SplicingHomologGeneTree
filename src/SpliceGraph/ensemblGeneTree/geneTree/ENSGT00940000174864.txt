@@ -1,0 +1,1 @@
+(ENSSFOG00015000442__Scleropages_formosus,ENSOARG00000002396__Ovis_aries);

@@ -1,0 +1,1 @@
+((ENSCABG00000012220__Chelonoidis_abingdonii,ENSLCOG00000005011__Lepidothrix_coronata),((ENSFCAG00000045000__Felis_catus,ENSPTIG00000019700__Panthera_tigris_altaica),((ENSCANG00000032742__Colobus_angolensis_palliatus,ENSRBIG00000033708__Rhinopithecus_bieti),ENSTGEG00000017348__Theropithecus_gelada)));

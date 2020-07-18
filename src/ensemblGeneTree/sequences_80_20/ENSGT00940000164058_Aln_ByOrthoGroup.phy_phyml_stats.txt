@@ -12,8 +12,8 @@
 . Initial tree: 			user tree (ensemblGeneTree/trees_80_20/ENSGT00940000164058.nw)
 . Model of amino acids substitution: 	LG
 . Number of taxa: 			3
-. Log-likelihood: 			-555.05903
-. Unconstrained likelihood: 		-530.14158
+. Log-likelihood: 			-558.83342
+. Unconstrained likelihood: 		-536.35923
 . Parsimony: 				3
 . Tree size: 				0.01609
 . Discrete gamma model: 		Yes
@@ -21,7 +21,7 @@
   - Gamma shape parameter: 		8.820
 
 . Run ID:				none
-. Random seed:				1580962495
+. Random seed:				1595001420
 . Subtree patterns aliasing:		no
 . Version:				20120412
 . Time used:				0h0m0s (0 seconds)
@@ -44,8 +44,8 @@
 . Initial tree: 			user tree (ensemblGeneTree/trees_80_20/ENSGT00940000164058.nw)
 . Model of amino acids substitution: 	LG
 . Number of taxa: 			3
-. Log-likelihood: 			-555.05903
-. Unconstrained likelihood: 		-530.14158
+. Log-likelihood: 			-558.83342
+. Unconstrained likelihood: 		-536.35923
 . Parsimony: 				3
 . Tree size: 				0.01609
 . Discrete gamma model: 		Yes
@@ -53,7 +53,7 @@
   - Gamma shape parameter: 		8.820
 
 . Run ID:				none
-. Random seed:				1580962495
+. Random seed:				1595001420
 . Subtree patterns aliasing:		no
 . Version:				20120412
 . Time used:				0h0m0s (0 seconds)
@@ -76,8 +76,8 @@
 . Initial tree: 			user tree (ensemblGeneTree/trees_80_20/ENSGT00940000164058.nw)
 . Model of amino acids substitution: 	LG
 . Number of taxa: 			3
-. Log-likelihood: 			-555.05903
-. Unconstrained likelihood: 		-530.14158
+. Log-likelihood: 			-558.83342
+. Unconstrained likelihood: 		-536.35923
 . Parsimony: 				3
 . Tree size: 				0.01609
 . Discrete gamma model: 		Yes
@@ -85,7 +85,7 @@
   - Gamma shape parameter: 		8.820
 
 . Run ID:				none
-. Random seed:				1580962495
+. Random seed:				1595001420
 . Subtree patterns aliasing:		no
 . Version:				20120412
 . Time used:				0h0m0s (0 seconds)
@@ -108,8 +108,8 @@
 . Initial tree: 			user tree (ensemblGeneTree/trees_80_20/ENSGT00940000164058.nw)
 . Model of amino acids substitution: 	LG
 . Number of taxa: 			3
-. Log-likelihood: 			-555.05903
-. Unconstrained likelihood: 		-530.14158
+. Log-likelihood: 			-558.83342
+. Unconstrained likelihood: 		-536.35923
 . Parsimony: 				3
 . Tree size: 				0.01609
 . Discrete gamma model: 		Yes
@@ -117,7 +117,7 @@
   - Gamma shape parameter: 		8.820
 
 . Run ID:				none
-. Random seed:				1580962495
+. Random seed:				1595001420
 . Subtree patterns aliasing:		no
 . Version:				20120412
 . Time used:				0h0m0s (0 seconds)

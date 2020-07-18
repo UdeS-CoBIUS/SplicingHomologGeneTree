@@ -1,0 +1,7 @@
+ORYZIASLATIPES	oryzias_latipes
+ORYZIASLATIPESASM223469V1	oryzias_latipes_asm223469v1
+ORYZIASLATIPES	oryzias_latipes
+POECILIARETICULATA	poecilia_reticulata
+CYPRINODONVARIEGATUS	cyprinodon_variegatus
+MASTACEMBELUSARMATUS	mastacembelus_armatus
+PERIOPHTHALMUSMAGNUSPINNATUS	periophthalmus_magnuspinnatus

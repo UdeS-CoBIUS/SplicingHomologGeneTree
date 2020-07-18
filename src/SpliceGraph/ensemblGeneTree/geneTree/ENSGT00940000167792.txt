@@ -1,0 +1,1 @@
+((((FBgn0035823__Drosophila_melanogaster,FBgn0265089__Drosophila_melanogaster),((FBgn0015218__Drosophila_melanogaster,FBgn0040368__Drosophila_melanogaster),FBgn0035709__Drosophila_melanogaster)),FBgn0039622__Drosophila_melanogaster),YOL139C__Saccharomyces_cerevisiae_strain_S288C);

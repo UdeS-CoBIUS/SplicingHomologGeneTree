@@ -1,0 +1,1 @@
+((ENSIPUG00000009129__Ictalurus_punctatus,ENSIPUG00000008239__Ictalurus_punctatus),((ENSIPUG00000009991__Ictalurus_punctatus,ENSIPUG00000010005__Ictalurus_punctatus),ENSIPUG00000009986__Ictalurus_punctatus));

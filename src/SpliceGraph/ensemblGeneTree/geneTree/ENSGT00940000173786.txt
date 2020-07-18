@@ -1,0 +1,1 @@
+((ENSSPUG00000007434__Sphenodon_punctatus,ENSPVIG00000000739__Pogona_vitticeps),(((ENSMFAG00000043380__Macaca_fascicularis,ENSSDAG00000016256__Spermophilus_dauricus),ENSPCOG00000016281__Propithecus_coquereli),(ENSUAMG00000019799__Ursus_americanus,ENSVVUG00000007890__Vulpes_vulpes)));

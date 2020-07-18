@@ -1,0 +1,2 @@
+ORNITHORHYNCHUSANATINUS	ornithorhynchus_anatinus
+PELODISCUSSINENSIS	pelodiscus_sinensis

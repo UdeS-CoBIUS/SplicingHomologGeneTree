@@ -1,0 +1,1 @@
+(((ENSTGEG00000009493__Theropithecus_gelada,ENSTGEG00000008121__Theropithecus_gelada),ENSMSIG00000028877__Mus_spicilegus),(ENSVVUG00000017497__Vulpes_vulpes,ENSCAFG00020019953__Canis_lupus_dingo));

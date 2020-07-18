@@ -1,0 +1,1 @@
+((ENSTGEG00000004869__Theropithecus_gelada,ENSPTEG00000030324__Piliocolobus_tephrosceles),ENSMSIG00000025402__Mus_spicilegus);

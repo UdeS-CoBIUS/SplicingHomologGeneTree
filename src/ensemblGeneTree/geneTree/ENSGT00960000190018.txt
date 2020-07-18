@@ -1,0 +1,1 @@
+(((ENSPTEG00000035216__Piliocolobus_tephrosceles,ENSTGEG00000001414__Theropithecus_gelada),ENSSDAG00000008615__Spermophilus_dauricus),ENSDNOG00000034181__Dasypus_novemcinctus);

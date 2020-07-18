@@ -1,0 +1,8 @@
+>0
+ENSMVIT00005016475: ['no event', 20, 0]
+ENSJHYT00000019869: ['3event', '5event', 12, 0]
+ENSABRT00000008884: ['exon skipping', 0, 0]
+>1
+ENSMVIT00005016475: [['internal gap < 30', 538, 21], 1629, 0]
+ENSJHYT00000019869: ['5event', ['internal gap >= 30', 866, 79], 1571, 0]
+ENSABRT00000008884: ['5event', ['internal gap >= 30', 1153, 46], 1604, 0]

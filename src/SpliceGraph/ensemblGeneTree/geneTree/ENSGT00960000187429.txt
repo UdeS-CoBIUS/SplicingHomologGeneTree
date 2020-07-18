@@ -1,0 +1,1 @@
+((ENSGACG00000005125__Gasterosteus_aculeatus,ENSPMGG00000016529__Periophthalmus_magnuspinnatus),(ENSACLG00000016891__Astatotilapia_calliptera,ENSACLG00000010006__Astatotilapia_calliptera));

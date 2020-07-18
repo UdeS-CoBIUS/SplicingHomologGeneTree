@@ -1,0 +1,8 @@
+>0
+ENSMLET00000025539: ['no event', 161, 0]
+ENSMNET00000013353: ['no event', 161, 0]
+ENSPTET00000013749: ['no event', 161, 0]
+>1
+ENSMLET00000025539: ['exon skipping', 0, 0]
+ENSMNET00000013353: ['exon skipping', 0, 0]
+ENSPTET00000013749: ['no event', 101, 0]

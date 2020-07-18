@@ -1,0 +1,2 @@
+>completeCluster_0
+YDL161W_mRNA	T04C10.2b.1	FBtr0076795	YLR206W_mRNA

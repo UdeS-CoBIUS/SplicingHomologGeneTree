@@ -1,0 +1,1 @@
+((((ENSXCOG00000014561__Xiphophorus_couchianus,ENSXMAG00000021780__Xiphophorus_maculatus),ENSGAFG00000017342__Gambusia_affinis),((ENSORLG00020018449__Oryzias_latipes_ASM223471v1,ENSORLG00015019344__Oryzias_latipes_ASM223469v1),ENSOMEG00000005987__Oryzias_melastigma)),(ENSATEG00000010313__Anabas_testudineus,ENSMMOG00000021540__Mola_mola));

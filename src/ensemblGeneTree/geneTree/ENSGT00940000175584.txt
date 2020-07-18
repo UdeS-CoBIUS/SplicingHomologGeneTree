@@ -1,0 +1,1 @@
+(((((ENSMMOG00000010105__Mola_mola,ENSTRUG00000017895__Takifugu_rubripes),ENSPMGG00000002765__Periophthalmus_magnuspinnatus),ENSCVAG00000009102__Cyprinodon_variegatus),ENSCSEG00000018989__Cynoglossus_semilaevis),(ENSABRG00000020051__Anser_brachyrhynchus,ENSCABG00000022139__Chelonoidis_abingdonii));

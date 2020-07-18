@@ -1,0 +1,44 @@
+>0
+ENSACAT00000010981: ['exon skipping', 0, 0]
+ENSPVIT00000003042: ['exon skipping', 0, 0]
+ENSPVIT00000003048: ['no event', 159, 0]
+>1
+ENSACAT00000010981: ['5event', 78, 0]
+ENSPVIT00000003042: ['5event', 78, 0]
+ENSPVIT00000003048: ['no event', 79, 1]
+>2
+ENSACAT00000010981: ['no event', 150, 1]
+ENSPVIT00000003042: [['internal gap < 30', 1, 6], 144, 1]
+ENSPVIT00000003048: ['exon skipping', 0, 0]
+>3
+ENSACAT00000010981: ['no event', 168, 2]
+ENSPVIT00000003042: ['no event', 168, 2]
+ENSPVIT00000003048: ['5event', 166, 2]
+>4
+ENSACAT00000010981: ['no event', 170, 1]
+ENSPVIT00000003042: ['no event', 170, 1]
+ENSPVIT00000003048: ['no event', 170, 1]
+>5
+ENSACAT00000010981: ['no event', 197, 1]
+ENSPVIT00000003042: ['no event', 197, 1]
+ENSPVIT00000003048: ['no event', 197, 1]
+>6
+ENSACAT00000010981: ['no event', 173, 1]
+ENSPVIT00000003042: ['no event', 173, 1]
+ENSPVIT00000003048: ['no event', 173, 1]
+>7
+ENSACAT00000010981: ['no event', 197, 1]
+ENSPVIT00000003042: [['internal gap < 30', 159, 3], 194, 1]
+ENSPVIT00000003048: [['internal gap < 30', 159, 3], 194, 1]
+>8
+ENSACAT00000010981: ['no event', 111, 1]
+ENSPVIT00000003042: ['no event', 111, 1]
+ENSPVIT00000003048: ['no event', 111, 1]
+>9
+ENSACAT00000010981: ['no event', 142, 2]
+ENSPVIT00000003042: ['no event', 142, 2]
+ENSPVIT00000003048: ['no event', 142, 2]
+>10
+ENSACAT00000010981: ['no event', 4, 1]
+ENSPVIT00000003042: ['no event', 4, 1]
+ENSPVIT00000003048: ['no event', 4, 1]

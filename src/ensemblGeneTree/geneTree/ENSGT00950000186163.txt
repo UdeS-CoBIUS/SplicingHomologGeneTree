@@ -1,0 +1,1 @@
+(((ENSCJPG00005014115__Coturnix_japonica,ENSAPLG00000021514__Anas_platyrhynchos_platyrhynchos),ENSSMRG00000018871__Salvator_merianae),(ENSCAFG00020014413__Canis_lupus_dingo,ENSOANG00000020302__Ornithorhynchus_anatinus));

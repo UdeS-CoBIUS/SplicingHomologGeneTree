@@ -1,0 +1,1 @@
+(((ENSNMEG00000003926__Numida_meleagris,ENSNMEG00000014084__Numida_meleagris),ENSLSDG00000016322__Lonchura_striata_domestica),(ENSCSEG00000000093__Cynoglossus_semilaevis,ENSMMOG00000019188__Mola_mola));

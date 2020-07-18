@@ -1,1 +1,0 @@
-(((ENSPPYG00000020583__Pongo_abelii,ENSG00000172476__Homo_sapiens),(((ENSMMUG00000048928__Macaca_mulatta,ENSMFAG00000030807__Macaca_fascicularis),ENSTGEG00000013018__Theropithecus_gelada),ENSPTEG00000024719__Piliocolobus_tephrosceles)),(ENSANAG00000019831__Aotus_nancymaae,ENSCJAG00000041173__Callithrix_jacchus));

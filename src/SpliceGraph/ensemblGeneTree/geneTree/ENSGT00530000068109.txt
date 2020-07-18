@@ -1,0 +1,1 @@
+(((ENSCSAVG00000007844__Ciona_savignyi,ENSCING00000008254__Ciona_intestinalis),ENSOMEG00000010896__Oryzias_melastigma),YOR113W__Saccharomyces_cerevisiae_strain_S288C);

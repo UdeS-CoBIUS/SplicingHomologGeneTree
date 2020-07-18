@@ -1,0 +1,1 @@
+((((ENSKMAG00000011812__Kryptolebias_marmoratus,ENSHCOG00000011509__Hippocampus_comes),ENSMALG00000004318__Monopterus_albus),(ENSTRUG00000014199__Takifugu_rubripes,ENSTNIG00000016381__Tetraodon_nigroviridis)),ENSGMOG00000003671__Gadus_morhua);

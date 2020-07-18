@@ -1,0 +1,1 @@
+((ENSMUGG00000018970__Meriones_unguiculatus,ENSCGRG00015008915__Cricetulus_griseus_CriGri-PICR),ENSEASG00005019444__Equus_asinus_asinus);

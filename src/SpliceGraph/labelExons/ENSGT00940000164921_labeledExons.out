@@ -1,0 +1,65 @@
+>0
+ENSPKIT00000016355: ['5event', 48, 0]
+ENSPMGT00000004970: [['internal gap < 30', 51, 4], 53, 0]
+ENSPMGT00000004973: ['exon skipping', 0, 0]
+ENSPMGT00000004974: ['exon skipping', 0, 0]
+>1
+ENSPKIT00000016355: ['exon skipping', 0, 0]
+ENSPMGT00000004970: ['no event', 6, 0]
+ENSPMGT00000004973: ['exon skipping', 0, 0]
+ENSPMGT00000004974: ['exon skipping', 0, 0]
+>2
+ENSPKIT00000016355: ['exon skipping', 0, 0]
+ENSPMGT00000004970: ['exon skipping', 0, 0]
+ENSPMGT00000004973: ['5event', 88, 0]
+ENSPMGT00000004974: ['exon skipping', 0, 0]
+>3
+ENSPKIT00000016355: ['exon skipping', 0, 0]
+ENSPMGT00000004970: ['exon skipping', 0, 0]
+ENSPMGT00000004973: ['exon skipping', 0, 0]
+ENSPMGT00000004974: ['5event', 6, 0]
+>4
+ENSPKIT00000016355: ['5event', 139, 1]
+ENSPMGT00000004970: ['5event', 139, 1]
+ENSPMGT00000004973: ['5event', 90, 2]
+ENSPMGT00000004974: ['no event', 140, 1]
+>5
+ENSPKIT00000016355: ['no event', 44, 0]
+ENSPMGT00000004970: ['no event', 44, 0]
+ENSPMGT00000004973: ['no event', 44, 0]
+ENSPMGT00000004974: ['no event', 44, 0]
+>6
+ENSPKIT00000016355: ['no event', 109, 0]
+ENSPMGT00000004970: ['no event', 109, 0]
+ENSPMGT00000004973: ['no event', 109, 0]
+ENSPMGT00000004974: ['no event', 109, 0]
+>7
+ENSPKIT00000016355: ['no event', 79, 2]
+ENSPMGT00000004970: ['no event', 79, 2]
+ENSPMGT00000004973: ['no event', 79, 2]
+ENSPMGT00000004974: ['no event', 79, 2]
+>8
+ENSPKIT00000016355: ['no event', 167, 1]
+ENSPMGT00000004970: ['no event', 167, 1]
+ENSPMGT00000004973: ['no event', 167, 1]
+ENSPMGT00000004974: ['no event', 167, 1]
+>9
+ENSPKIT00000016355: ['no event', 194, 1]
+ENSPMGT00000004970: ['no event', 194, 1]
+ENSPMGT00000004973: ['no event', 194, 1]
+ENSPMGT00000004974: ['no event', 194, 1]
+>10
+ENSPKIT00000016355: ['no event', 86, 1]
+ENSPMGT00000004970: ['no event', 86, 1]
+ENSPMGT00000004973: ['no event', 86, 1]
+ENSPMGT00000004974: ['no event', 86, 1]
+>11
+ENSPKIT00000016355: ['no event', 109, 1]
+ENSPMGT00000004970: ['no event', 109, 1]
+ENSPMGT00000004973: ['no event', 109, 1]
+ENSPMGT00000004974: ['no event', 109, 1]
+>12
+ENSPKIT00000016355: [['internal gap >= 30', 529, 312], 725, 0]
+ENSPMGT00000004970: [['internal gap >= 30', 268, 573], 464, 0]
+ENSPMGT00000004973: [['internal gap >= 30', 283, 558], 479, 0]
+ENSPMGT00000004974: [['internal gap >= 30', 283, 558], 479, 0]

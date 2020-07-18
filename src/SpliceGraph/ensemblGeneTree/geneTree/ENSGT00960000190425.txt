@@ -1,0 +1,1 @@
+((ENSUPAG00010002152__Urocitellus_parryii,ENSSDAG00000017091__Spermophilus_dauricus),ENSMMMG00000016571__Marmota_marmota_marmota);

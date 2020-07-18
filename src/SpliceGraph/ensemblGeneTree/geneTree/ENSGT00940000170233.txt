@@ -1,0 +1,1 @@
+((MGP_PahariEiJ_G0018586__Mus_pahari_strain_PAHARI_EIJ,MGP_CAROLIEiJ_G0017456__Mus_caroli_strain_CAROLI_EIJ),ENSG00000267168__Homo_sapiens);

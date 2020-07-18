@@ -1,0 +1,1 @@
+(ENSAMXG00000038547__Astyanax_mexicanus,ENSLACG00000002750__Latimeria_chalumnae);

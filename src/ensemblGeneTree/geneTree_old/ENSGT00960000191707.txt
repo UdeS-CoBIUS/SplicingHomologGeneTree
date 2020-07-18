@@ -1,1 +1,0 @@
-(ENSPMJG00000004213__Parus_major,ENSCPGG00000005019__Calidris_pygmaea);

@@ -1,0 +1,1 @@
+((((ENSMLEG00000001224__Mandrillus_leucophaeus,ENSTGEG00000019703__Theropithecus_gelada),ENSPTEG00000015808__Piliocolobus_tephrosceles),ENSPSMG00000008253__Prolemur_simus),(ENSPPRG00000000504__Panthera_pardus,ENSFCAG00000039722__Felis_catus));

@@ -1,0 +1,1 @@
+(((ENSTGEG00000014328__Theropithecus_gelada,ENSPTEG00000002706__Piliocolobus_tephrosceles),ENSNLEG00000033639__Nomascus_leucogenys),ENSCCAG00000037517__Cebus_capucinus_imitator);

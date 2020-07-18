@@ -1,0 +1,1 @@
+(((ENSPMJG00000017935__Parus_major,ENSCPUG00000010021__Calidris_pugnax),ENSABRG00000016316__Anser_brachyrhynchus),ENSAHAG00000002472__Apteryx_haastii);

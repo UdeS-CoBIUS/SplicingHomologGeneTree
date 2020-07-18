@@ -1,0 +1,1 @@
+((((ENSOMEG00000003880__Oryzias_melastigma,ENSORLG00020014477__Oryzias_latipes_ASM223471v1),ENSAPOG00000001226__Acanthochromis_polyacanthus),ENSSDUG00000023004__Seriola_dumerili),ENSTRUG00000021821__Takifugu_rubripes);

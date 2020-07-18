@@ -1,0 +1,1 @@
+(((((ENSMLEG00000031660__Mandrillus_leucophaeus,ENSMNEG00000030184__Macaca_nemestrina),(ENSPANG00000029736__Papio_anubis,ENSTGEG00000022459__Theropithecus_gelada)),ENSPTEG00000023983__Piliocolobus_tephrosceles),ENSGGOG00000038125__Gorilla_gorilla),ENSTBEG00000016442__Tupaia_belangeri);

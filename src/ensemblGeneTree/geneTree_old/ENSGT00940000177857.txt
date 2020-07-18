@@ -1,1 +1,0 @@
-((((((ENSAPEG00000014290__Amphiprion_percula,ENSAPEG00000014388__Amphiprion_percula),ENSAPEG00000014413__Amphiprion_percula),ENSAOCG00000017250__Amphiprion_ocellaris),(ENSAOCG00000017275__Amphiprion_ocellaris,ENSAPEG00000014271__Amphiprion_percula)),ENSCCEG00000022386__Cyanistes_caeruleus),ENSEBUG00000014342__Eptatretus_burgeri);

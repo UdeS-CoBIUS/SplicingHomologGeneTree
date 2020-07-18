@@ -1,0 +1,1 @@
+((ENSMMUG00000049127__Macaca_mulatta,ENSRBIG00000034269__Rhinopithecus_bieti),((ENSG00000169789__Homo_sapiens,ENSG00000169807__Homo_sapiens),(((ENSPTRG00000049508__Pan_troglodytes,ENSPTRG00000050054__Pan_troglodytes),ENSPTRG00000046991__Pan_troglodytes),ENSPTRG00000047292__Pan_troglodytes)));

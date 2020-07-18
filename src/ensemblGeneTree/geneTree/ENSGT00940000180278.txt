@@ -1,0 +1,1 @@
+((ENSACIG00000012744__Amphilophus_citrinellus,ENSHCOG00000005237__Hippocampus_comes),ENSCSEG00000018146__Cynoglossus_semilaevis);

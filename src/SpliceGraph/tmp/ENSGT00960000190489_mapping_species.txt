@@ -1,0 +1,3 @@
+NEOVISONVISON	neovison_vison
+BOSTAURUS	bos_taurus
+PHASCOLARCTOSCINEREUS	phascolarctos_cinereus

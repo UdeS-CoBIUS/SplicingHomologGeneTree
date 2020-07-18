@@ -1,0 +1,60 @@
+>0
+ENSEEET00000041815: ['exon skipping', 0, 0]
+ENSIPUT00000034366: ['exon skipping', 0, 0]
+ENSAMXT00000050383: ['3event', 168, 0]
+ENSAMXT00000053004: ['no event', 169, 0]
+>1
+ENSEEET00000041815: ['exon skipping', 0, 0]
+ENSIPUT00000034366: ['exon skipping', 0, 0]
+ENSAMXT00000050383: ['3event', '5event', 81, 0]
+ENSAMXT00000053004: ['no event', 87, 2]
+>2
+ENSEEET00000041815: ['exon skipping', 0, 0]
+ENSIPUT00000034366: ['exon skipping', 0, 0]
+ENSAMXT00000050383: ['5event', 128, 0]
+ENSAMXT00000053004: ['no event', 130, 0]
+>3
+ENSEEET00000041815: ['exon skipping', 0, 0]
+ENSIPUT00000034366: ['exon skipping', 0, 0]
+ENSAMXT00000050383: ['no event', 60, 0]
+ENSAMXT00000053004: ['no event', 60, 0]
+>4
+ENSEEET00000041815: ['exon skipping', 0, 0]
+ENSIPUT00000034366: ['exon skipping', 0, 0]
+ENSAMXT00000050383: ['3event', 61, 0]
+ENSAMXT00000053004: ['no event', 83, 1]
+>5
+ENSEEET00000041815: ['exon skipping', 0, 0]
+ENSIPUT00000034366: ['exon skipping', 0, 0]
+ENSAMXT00000050383: ['exon skipping', 0, 0]
+ENSAMXT00000053004: ['no event', 58, 1]
+>6
+ENSEEET00000041815: ['exon skipping', 0, 0]
+ENSIPUT00000034366: ['exon skipping', 0, 0]
+ENSAMXT00000050383: ['5event', 41, 0]
+ENSAMXT00000053004: ['exon skipping', 0, 0]
+>7
+ENSEEET00000041815: ['exon skipping', 0, 0]
+ENSIPUT00000034366: ['5event', 267, 0]
+ENSAMXT00000050383: ['exon skipping', 0, 0]
+ENSAMXT00000053004: ['exon skipping', 0, 0]
+>8
+ENSEEET00000041815: ['exon skipping', 0, 0]
+ENSIPUT00000034366: ['exon skipping', 0, 0]
+ENSAMXT00000050383: ['5event', 161, 0]
+ENSAMXT00000053004: ['exon skipping', 0, 0]
+>9
+ENSEEET00000041815: ['exon skipping', 0, 0]
+ENSIPUT00000034366: ['5event', 70, 1]
+ENSAMXT00000050383: [['internal gap < 30', 1, 2], 69, 0]
+ENSAMXT00000053004: ['exon skipping', 0, 0]
+>10
+ENSEEET00000041815: ['5event', 266, 0]
+ENSIPUT00000034366: ['exon skipping', 0, 0]
+ENSAMXT00000050383: ['exon skipping', 0, 0]
+ENSAMXT00000053004: ['exon skipping', 0, 0]
+>11
+ENSEEET00000041815: [['internal gap >= 30', 901, 33], 1338, 0]
+ENSIPUT00000034366: ['5event', ['internal gap >= 30', 838, 223], 1148, 0]
+ENSAMXT00000050383: ['5event', ['internal gap >= 30', 1167, 136], 1235, 0]
+ENSAMXT00000053004: ['exon skipping', 0, 0]

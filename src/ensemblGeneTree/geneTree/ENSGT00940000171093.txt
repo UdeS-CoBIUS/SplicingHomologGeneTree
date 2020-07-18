@@ -1,0 +1,1 @@
+((ENSHGLG00000009707__Heterocephalus_glaber_HetGla_female_1.0,ENSODEG00000018055__Octodon_degus),(((ENSMAUG00000021990__Mesocricetus_auratus,ENSMOCG00000022014__Microtus_ochrogaster),ENSNGAG00000020395__Nannospalax_galili),ENSJJAG00000020427__Jaculus_jaculus));

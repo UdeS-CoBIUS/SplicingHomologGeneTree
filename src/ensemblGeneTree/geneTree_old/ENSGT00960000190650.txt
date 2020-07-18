@@ -1,1 +1,0 @@
-((ENSMSIG00000012376__Mus_spicilegus,ENSRNOG00000050413__Rattus_norvegicus),ENSTBEG00000012715__Tupaia_belangeri);

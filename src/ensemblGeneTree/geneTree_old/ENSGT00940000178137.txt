@@ -1,1 +1,0 @@
-((((ENSSLDG00000025210__Seriola_lalandi_dorsalis,ENSSDUG00000010640__Seriola_dumerili),ENSMALG00000006462__Monopterus_albus),ENSLBEG00000011688__Labrus_bergylta),(ENSPNYG00000003437__Pundamilia_nyererei,ENSACIG00000000357__Amphilophus_citrinellus));

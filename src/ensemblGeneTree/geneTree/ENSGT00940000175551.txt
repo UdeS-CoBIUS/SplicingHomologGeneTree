@@ -1,0 +1,1 @@
+(ENSOPRG00000018202__Ochotona_princeps,ENSPVAG00000015782__Pteropus_vampyrus);

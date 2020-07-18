@@ -1,0 +1,1 @@
+(((ENSFALG00000014789__Ficedula_albicollis,ENSTGUG00000002193__Taeniopygia_guttata),ENSCCEG00000003072__Cyanistes_caeruleus),(((ENSSBOG00000033676__Saimiri_boliviensis_boliviensis,ENSPPAG00000035950__Pan_paniscus),ENSECAG00000013813__Equus_caballus),ENSLAFG00000032203__Loxodonta_africana));

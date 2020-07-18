@@ -1,0 +1,1 @@
+((ENSPMGG00000022058__Periophthalmus_magnuspinnatus,ENSPMGG00000003793__Periophthalmus_magnuspinnatus),ENSCPUG00000016120__Calidris_pugnax);

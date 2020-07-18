@@ -1,0 +1,1 @@
+(((ENSSBOG00000026965__Saimiri_boliviensis_boliviensis,ENSGGOG00000039744__Gorilla_gorilla),ENSUAMG00000020188__Ursus_americanus),(ENSSPUG00000004198__Sphenodon_punctatus,ENSTGUG00000015279__Taeniopygia_guttata));

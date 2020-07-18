@@ -1,1 +1,0 @@
-(ENSIPUG00000008047__Ictalurus_punctatus,ENSFHEG00000001225__Fundulus_heteroclitus);

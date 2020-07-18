@@ -1,0 +1,1 @@
+((ENSEASG00005021038__Equus_asinus_asinus,ENSBTAG00000049809__Bos_taurus),ENSPSMG00000015151__Prolemur_simus);

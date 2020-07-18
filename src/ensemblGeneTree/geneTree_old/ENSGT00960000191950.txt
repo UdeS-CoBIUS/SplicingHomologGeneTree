@@ -1,1 +1,0 @@
-(ENSNPEG00000010217__Nothoprocta_perdicaria,ENSCPUG00000010677__Calidris_pugnax);

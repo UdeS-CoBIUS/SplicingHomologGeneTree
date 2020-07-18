@@ -1,0 +1,1 @@
+(((((ENSCGRG00001000181__Cricetulus_griseus_CHOK1GS_HDv1,ENSPEMG00000028906__Peromyscus_maniculatus_bairdii),ENSNGAG00000024297__Nannospalax_galili),ENSSDAG00000013667__Spermophilus_dauricus),ENSPPAG00000039113__Pan_paniscus),ENSPCIG00000000907__Phascolarctos_cinereus);

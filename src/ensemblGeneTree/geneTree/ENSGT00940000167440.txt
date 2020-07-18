@@ -1,0 +1,1 @@
+(((ENSLACG00000018675__Latimeria_chalumnae,ENSACAG00000014191__Anolis_carolinensis),((ENSPNAG00000002613__Pygocentrus_nattereri,ENSELUG00000009910__Esox_lucius),ENSLOCG00000002512__Lepisosteus_oculatus)),((ENSCSAVG00000007840__Ciona_savignyi,ENSCSAVG00000007836__Ciona_savignyi),ENSCING00000009759__Ciona_intestinalis));

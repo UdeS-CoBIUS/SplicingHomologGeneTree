@@ -1,0 +1,3 @@
+EQUUSCABALLUS	equus_caballus
+EQUUSASINUSASINUS	equus_asinus_asinus
+POGONAVITTICEPS	pogona_vitticeps

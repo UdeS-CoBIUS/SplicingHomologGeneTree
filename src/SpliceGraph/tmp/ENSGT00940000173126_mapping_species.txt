@@ -1,0 +1,5 @@
+LEPISOSTEUSOCULATUS	lepisosteus_oculatus
+PARAMORMYROPSKINGSLEYAE	paramormyrops_kingsleyae
+POGONAVITTICEPS	pogona_vitticeps
+CHELONOIDISABINGDONII	chelonoidis_abingdonii
+PETROMYZONMARINUS	petromyzon_marinus

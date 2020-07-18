@@ -1,1 +1,0 @@
-((ENSLACG00000000209__Latimeria_chalumnae,ENSPMGG00000006555__Periophthalmus_magnuspinnatus),WBGene00022781__Caenorhabditis_elegans_strain_N2);

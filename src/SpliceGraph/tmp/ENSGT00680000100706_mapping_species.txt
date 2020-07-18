@@ -1,0 +1,9 @@
+URSUSMARITIMUS	ursus_maritimus
+CANISLUPUS	canis_lupus
+BOSINDICUS	bos_indicus
+BOSINDICUS	bos_indicus
+BOSTAURUS	bos_taurus
+BOSMUTUS	bos_mutus
+RHINOPITHECUSBIETI	rhinopithecus_bieti
+PONGOABELII	pongo_abelii
+AOTUSNANCYMAAE	aotus_nancymaae

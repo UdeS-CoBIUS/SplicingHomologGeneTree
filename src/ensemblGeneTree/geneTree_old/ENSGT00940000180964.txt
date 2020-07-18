@@ -1,1 +1,0 @@
-(ENSAPOG00000004759__Acanthochromis_polyacanthus,ENSMAMG00000004408__Mastacembelus_armatus);

@@ -1,1 +1,0 @@
-(((ENSMODG00000000356__Monodelphis_domestica,ENSSHAG00000009232__Sarcophilus_harrisii),ENSOANG00000030110__Ornithorhynchus_anatinus),((ENSDNVG00000000810__Dromaius_novaehollandiae,ENSCPRG00005012892__Crocodylus_porosus),ENSPSIG00000005033__Pelodiscus_sinensis));

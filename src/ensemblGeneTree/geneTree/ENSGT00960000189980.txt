@@ -1,0 +1,1 @@
+(((ENSLSDG00000008461__Lonchura_striata_domestica,ENSAPLG00000023360__Anas_platyrhynchos_platyrhynchos),ENSAHAG00000011124__Apteryx_haastii),ENSSHAG00000011286__Sarcophilus_harrisii);

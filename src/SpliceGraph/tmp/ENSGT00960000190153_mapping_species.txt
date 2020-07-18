@@ -1,0 +1,3 @@
+CROCODYLUSPOROSUS	crocodylus_porosus
+GOPHERUSAGASSIZII	gopherus_agassizii
+SALVATORMERIANAE	salvator_merianae

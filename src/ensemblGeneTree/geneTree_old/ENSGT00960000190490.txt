@@ -1,1 +1,0 @@
-((ENSPVAG00000006966__Pteropus_vampyrus,ENSOPRG00000009272__Ochotona_princeps),ENSETEG00000001040__Echinops_telfairi);

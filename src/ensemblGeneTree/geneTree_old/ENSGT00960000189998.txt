@@ -1,1 +1,0 @@
-((ENSACAG00000000516__Anolis_carolinensis,ENSNSUG00000014087__Notechis_scutatus),(ENSCPGG00000012204__Calidris_pygmaea,ENSCPGG00000000221__Calidris_pygmaea));

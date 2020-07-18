@@ -1,0 +1,1 @@
+((ENSHGLG00000003870__Heterocephalus_glaber_HetGla_female_1.0,ENSHGLG00100019038__Heterocephalus_glaber_HetGla_1.0),ENSMAUG00000015423__Mesocricetus_auratus);

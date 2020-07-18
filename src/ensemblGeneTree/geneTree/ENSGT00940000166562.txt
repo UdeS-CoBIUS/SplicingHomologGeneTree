@@ -1,0 +1,1 @@
+(((ENSLACG00000011346__Latimeria_chalumnae,ENSLACG00000007957__Latimeria_chalumnae),ENSLACG00000016276__Latimeria_chalumnae),(((((ENSEBUG00000001792__Eptatretus_burgeri,ENSEBUG00000002517__Eptatretus_burgeri),ENSEBUG00000004445__Eptatretus_burgeri),ENSEBUG00000004277__Eptatretus_burgeri),ENSEBUG00000007565__Eptatretus_burgeri),ENSEBUG00000006245__Eptatretus_burgeri));

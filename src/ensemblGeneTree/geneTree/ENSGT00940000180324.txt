@@ -1,0 +1,1 @@
+((ENSLBEG00000016451__Labrus_bergylta,ENSORLG00020004318__Oryzias_latipes_ASM223471v1),ENSPMGG00000000299__Periophthalmus_magnuspinnatus);

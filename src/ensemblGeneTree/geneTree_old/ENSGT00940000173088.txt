@@ -1,1 +1,0 @@
-(((ENSSSCG00000035327__Sus_scrofa,ENSCHIG00000025788__Capra_hircus),ENSSDAG00000020952__Spermophilus_dauricus),ENSPCIG00000022553__Phascolarctos_cinereus);

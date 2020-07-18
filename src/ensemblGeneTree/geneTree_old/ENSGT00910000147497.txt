@@ -1,1 +1,0 @@
-((((((ENSTGEG00000011469__Theropithecus_gelada,ENSPANG00000029921__Papio_anubis),ENSMNEG00000039948__Macaca_nemestrina),ENSMLEG00000029218__Mandrillus_leucophaeus),ENSCATG00000018949__Cercocebus_atys),ENSPTEG00000029107__Piliocolobus_tephrosceles),ENSNLEG00000030806__Nomascus_leucogenys);

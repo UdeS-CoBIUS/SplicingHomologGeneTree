@@ -1,0 +1,10 @@
+MACACANEMESTRINA	macaca_nemestrina
+MACACAFASCICULARIS	macaca_fascicularis
+MANDRILLUSLEUCOPHAEUS	mandrillus_leucophaeus
+PAPIOANUBIS	papio_anubis
+CERCOCEBUSATYS	cercocebus_atys
+RHINOPITHECUSBIETI	rhinopithecus_bieti
+GORILLAGORILLA	gorilla_gorilla
+NOMASCUSLEUCOGENYS	nomascus_leucogenys
+AOTUSNANCYMAAE	aotus_nancymaae
+SAIMIRIBOLIVIENSISBOLIVIENSIS	saimiri_boliviensis_boliviensis

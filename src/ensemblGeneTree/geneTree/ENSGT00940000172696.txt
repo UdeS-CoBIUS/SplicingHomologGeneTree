@@ -1,0 +1,1 @@
+(ENSOARG00000018602__Ovis_aries,ENSOPRG00000010601__Ochotona_princeps);

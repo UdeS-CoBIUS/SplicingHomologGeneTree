@@ -1,1 +1,0 @@
-(ENSLOCG00000007825__Lepisosteus_oculatus,ENSGACG00000014169__Gasterosteus_aculeatus);

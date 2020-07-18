@@ -1,0 +1,6 @@
+PELODISCUSSINENSIS	pelodiscus_sinensis
+FICEDULAALBICOLLIS	ficedula_albicollis
+ORNITHORHYNCHUSANATINUS	ornithorhynchus_anatinus
+LATIMERIACHALUMNAE	latimeria_chalumnae
+HUCHOHUCHO	hucho_hucho
+CALLORHINCHUSMILII	callorhinchus_milii

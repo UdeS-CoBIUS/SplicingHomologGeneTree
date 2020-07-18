@@ -1,1 +1,0 @@
-((((ENSMZEG00005025814__Maylandia_zebra,ENSATEG00000013231__Anabas_testudineus),ENSPLAG00000007175__Poecilia_latipinna),ENSPMGG00000009999__Periophthalmus_magnuspinnatus),(ENSSHAG00000002888__Sarcophilus_harrisii,ENSCCEG00000002630__Cyanistes_caeruleus));

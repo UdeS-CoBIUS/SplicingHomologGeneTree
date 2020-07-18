@@ -1,0 +1,1 @@
+((((((ENSPPAG00000041042__Pan_paniscus,ENSGGOG00000040838__Gorilla_gorilla),ENSTGEG00000022831__Theropithecus_gelada),ENSPCIG00000018073__Phascolarctos_cinereus),ENSCCEG00000007102__Cyanistes_caeruleus),((ENSSDUG00000013392__Seriola_dumerili,ENSCSEG00000006460__Cynoglossus_semilaevis),ENSMMOG00000021732__Mola_mola)),ENSEBUG00000012501__Eptatretus_burgeri);

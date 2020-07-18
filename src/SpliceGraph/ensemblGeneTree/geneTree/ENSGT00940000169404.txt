@@ -1,0 +1,1 @@
+((WBGene00013329__Caenorhabditis_elegans_strain_N2,WBGene00013330__Caenorhabditis_elegans_strain_N2),(WBGene00018055__Caenorhabditis_elegans_strain_N2,WBGene00015886__Caenorhabditis_elegans_strain_N2));

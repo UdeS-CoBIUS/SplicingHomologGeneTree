@@ -1,0 +1,1 @@
+((((ENSPLAG00000012860__Poecilia_latipinna,ENSPFOG00000022453__Poecilia_formosa),ENSPREG00000007942__Poecilia_reticulata),(ENSXMAG00000027544__Xiphophorus_maculatus,ENSXCOG00000015097__Xiphophorus_couchianus)),ENSFHEG00000017603__Fundulus_heteroclitus);

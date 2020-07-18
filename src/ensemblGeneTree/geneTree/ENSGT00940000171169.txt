@@ -1,0 +1,1 @@
+((((((ENSAPOG00000005570__Acanthochromis_polyacanthus,ENSSPAG00000013465__Stegastes_partitus),ENSSLDG00000024743__Seriola_lalandi_dorsalis),ENSPNYG00000018155__Pundamilia_nyererei),ENSPFOG00000023221__Poecilia_formosa),ENSDARG00000095360__Danio_rerio),ENSLOCG00000016116__Lepisosteus_oculatus);

@@ -1,0 +1,1 @@
+((((ENSMUNG00000016353__Melopsittacus_undulatus,ENSNMEG00000005395__Numida_meleagris),ENSGAGG00000021655__Gopherus_agassizii),ENSSPUG00000017491__Sphenodon_punctatus),((ENSAMEG00000004931__Ailuropoda_melanoleuca,ENSPPRG00000016613__Panthera_pardus),ENSCCNG00000009023__Castor_canadensis));

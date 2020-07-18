@@ -1,0 +1,1 @@
+((YLR449W__Saccharomyces_cerevisiae_strain_S288C,YML074C__Saccharomyces_cerevisiae_strain_S288C),ENSHHUG00000018972__Hucho_hucho);

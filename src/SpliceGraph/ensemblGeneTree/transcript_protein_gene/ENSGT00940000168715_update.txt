@@ -1,0 +1,4 @@
+Y116A8C.24b.1	WBGene00013801	Caenorhabditis_elegans_strain_N2	Y116A8C.24b.1
+Y116A8C.38.1	WBGene00013811	Caenorhabditis_elegans_strain_N2	Y116A8C.38.1
+K07F5.4.1	WBGene00002206	Caenorhabditis_elegans_strain_N2	K07F5.4.1
+FBpp0081530	FBgn0000723	Drosophila_melanogaster	FBtr0082052

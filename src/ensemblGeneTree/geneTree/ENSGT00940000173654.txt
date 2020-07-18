@@ -1,0 +1,1 @@
+((((ENSPMGG00000007930__Periophthalmus_magnuspinnatus,ENSPKIG00000016170__Paramormyrops_kingsleyae),(ENSCSAVG00000007406__Ciona_savignyi,ENSCING00000024608__Ciona_intestinalis)),FBgn0035270__Drosophila_melanogaster),YIL112W__Saccharomyces_cerevisiae_strain_S288C);

@@ -1,0 +1,1 @@
+(((ENSXETG00000001642__Xenopus_tropicalis,ENSGMOG00000008736__Gadus_morhua),(ENSCSAVG00000008276__Ciona_savignyi,ENSCING00000004739__Ciona_intestinalis)),FBgn0283680__Drosophila_melanogaster);

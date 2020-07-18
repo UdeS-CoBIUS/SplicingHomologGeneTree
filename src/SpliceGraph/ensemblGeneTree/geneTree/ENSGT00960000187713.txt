@@ -1,0 +1,1 @@
+((ENSPNAG00000027165__Pygocentrus_nattereri,ENSPKIG00000021909__Paramormyrops_kingsleyae),(ENSJHYG00000012403__Junco_hyemalis,ENSEASG00005017523__Equus_asinus_asinus));

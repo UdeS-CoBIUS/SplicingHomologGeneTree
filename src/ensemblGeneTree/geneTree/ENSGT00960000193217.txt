@@ -1,0 +1,1 @@
+(ENSUMAG00000025300__Ursus_maritimus,ENSSCAG00000012578__Serinus_canaria);

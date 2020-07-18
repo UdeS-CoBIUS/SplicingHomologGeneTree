@@ -1,0 +1,5 @@
+PTEROPUSVAMPYRUS	pteropus_vampyrus
+TURSIOPSTRUNCATUS	tursiops_truncatus
+OCHOTONAPRINCEPS	ochotona_princeps
+CHOLOEPUSHOFFMANNI	choloepus_hoffmanni
+PROCAVIACAPENSIS	procavia_capensis

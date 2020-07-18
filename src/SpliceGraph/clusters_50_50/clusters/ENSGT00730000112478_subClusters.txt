@@ -1,0 +1,6 @@
+>cluster_0
+Y69A2AR.15.1	FBtr0344824	R03A10.6.2
+>cluster_1
+FBtr0339781
+>cluster_2
+R03A10.6.1	FBtr0070778

@@ -1,0 +1,1 @@
+(((ENSCAFG00020020772__Canis_lupus_dingo,ENSCAFG00000009845__Canis_lupus_familiaris),ENSPTIG00000009300__Panthera_tigris_altaica),ENSTSYG00000003621__Carlito_syrichta);

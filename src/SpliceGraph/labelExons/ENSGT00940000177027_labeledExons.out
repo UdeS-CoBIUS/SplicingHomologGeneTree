@@ -1,0 +1,10 @@
+>0
+ENSXMAT00000023961: ['exon skipping', 0, 0]
+ENSXCOT00000004287: ['exon skipping', 0, 0]
+ENSPMET00000005840: ['no event', 38, 0]
+ENSPRET00000005202: ['no event', 38, 0]
+>1
+ENSXMAT00000023961: ['5event', 209, 0]
+ENSXCOT00000004287: ['5event', 209, 0]
+ENSPMET00000005840: ['no event', 210, 0]
+ENSPRET00000005202: ['no event', 210, 0]

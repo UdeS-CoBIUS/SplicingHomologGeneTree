@@ -1,0 +1,1 @@
+((ENSLCRG00005008697__Larimichthys_crocea,ENSLBEG00000022581__Labrus_bergylta),(((ENSMAMG00000011178__Mastacembelus_armatus,ENSMALG00000012696__Monopterus_albus),ENSBSLG00000001612__Betta_splendens),ENSNBRG00000018379__Neolamprologus_brichardi));

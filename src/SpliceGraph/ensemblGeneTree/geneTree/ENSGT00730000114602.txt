@@ -1,0 +1,1 @@
+((((ENSFALG00000014694__Ficedula_albicollis,ENSFALG00000014239__Ficedula_albicollis),ENSDNOG00000042743__Dasypus_novemcinctus),ENSLACG00000000496__Latimeria_chalumnae),(ENSORLG00020018705__Oryzias_latipes_ASM223471v1,ENSORLG00015005739__Oryzias_latipes_ASM223469v1));

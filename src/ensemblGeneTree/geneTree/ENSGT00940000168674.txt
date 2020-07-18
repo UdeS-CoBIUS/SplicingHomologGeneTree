@@ -1,0 +1,1 @@
+((ENSMLUG00000022992__Myotis_lucifugus,ENSMLUG00000006519__Myotis_lucifugus),(ENSMLUG00000006420__Myotis_lucifugus,ENSMLUG00000014097__Myotis_lucifugus));

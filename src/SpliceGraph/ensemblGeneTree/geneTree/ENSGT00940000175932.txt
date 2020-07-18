@@ -1,0 +1,1 @@
+(((ENSCPBG00000014608__Chrysemys_picta_bellii,ENSCABG00000002791__Chelonoidis_abingdonii),(ENSPSIG00000005303__Pelodiscus_sinensis,ENSCPBG00000014609__Chrysemys_picta_bellii)),(ENSARWG00000008000__Apteryx_rowi,ENSABRG00000003811__Anser_brachyrhynchus));

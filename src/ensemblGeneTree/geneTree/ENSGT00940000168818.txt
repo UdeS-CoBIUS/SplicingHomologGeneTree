@@ -1,0 +1,1 @@
+((ENSCING00000009069__Ciona_intestinalis,ENSXETG00000004541__Xenopus_tropicalis),(FBgn0032480__Drosophila_melanogaster,WBGene00013919__Caenorhabditis_elegans_strain_N2));

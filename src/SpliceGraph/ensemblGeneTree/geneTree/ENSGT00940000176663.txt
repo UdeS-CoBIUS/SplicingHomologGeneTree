@@ -1,0 +1,1 @@
+(ENSIPUG00000007998__Ictalurus_punctatus,ENSPNAG00000030070__Pygocentrus_nattereri);

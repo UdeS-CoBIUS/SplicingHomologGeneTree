@@ -1,0 +1,2 @@
+YML022W_mRNA	YML022W	Saccharomyces_cerevisiae_strain_S288C
+YDR441C_mRNA	YDR441C	Saccharomyces_cerevisiae_strain_S288C

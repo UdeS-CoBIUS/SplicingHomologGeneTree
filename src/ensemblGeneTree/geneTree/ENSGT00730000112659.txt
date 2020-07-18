@@ -1,0 +1,1 @@
+((ENSGMOG00000010253__Gadus_morhua,ENSPFOG00000018932__Poecilia_formosa),ENSLOCG00000002274__Lepisosteus_oculatus);

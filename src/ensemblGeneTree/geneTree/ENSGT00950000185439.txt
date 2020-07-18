@@ -1,0 +1,1 @@
+(((ENSEASG00005008119__Equus_asinus_asinus,ENSUAMG00000021814__Ursus_americanus),ENSCJAG00000036604__Callithrix_jacchus),ENSSMRG00000017171__Salvator_merianae);

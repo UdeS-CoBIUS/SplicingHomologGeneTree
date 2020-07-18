@@ -1,1 +1,0 @@
-((((ENSXCOG00000002534__Xiphophorus_couchianus,ENSOMEG00000008087__Oryzias_melastigma),ENSTRUG00000020871__Takifugu_rubripes),ENSPNAG00000013285__Pygocentrus_nattereri),ENSPTIG00000004844__Panthera_tigris_altaica);

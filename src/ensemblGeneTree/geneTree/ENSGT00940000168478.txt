@@ -1,0 +1,1 @@
+((FBgn0034722__Drosophila_melanogaster,WBGene00009103__Caenorhabditis_elegans_strain_N2),((ENSGMOG00000014225__Gadus_morhua,ENSMALG00000020785__Monopterus_albus),((ENSPVAG00000000086__Pteropus_vampyrus,ENSECAG00000020872__Equus_caballus),ENSMGAG00000011204__Meleagris_gallopavo)));

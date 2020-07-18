@@ -1,0 +1,1 @@
+(((ENSPVIG00000014827__Pogona_vitticeps,ENSOANG00000004281__Ornithorhynchus_anatinus),(ENSCING00000023768__Ciona_intestinalis,ENSCSAVG00000003147__Ciona_savignyi)),FBgn0015372__Drosophila_melanogaster);

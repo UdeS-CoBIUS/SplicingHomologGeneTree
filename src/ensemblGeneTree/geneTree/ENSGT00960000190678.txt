@@ -1,0 +1,1 @@
+((ENSTGEG00000015279__Theropithecus_gelada,ENSMFAG00000030337__Macaca_fascicularis),ENSPTEG00000015203__Piliocolobus_tephrosceles);

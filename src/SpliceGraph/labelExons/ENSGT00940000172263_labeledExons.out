@@ -1,0 +1,25 @@
+>0
+ZK973.3.1: ['exon skipping', 0, 0]
+FBtr0307273: ['no event', 113, 0]
+FBtr0071076: ['no event', 113, 0]
+YOR090C_mRNA: ['exon skipping', 0, 0]
+>1
+ZK973.3.1: ['5event', 76, 0]
+FBtr0307273: ['exon skipping', 0, 0]
+FBtr0071076: ['exon skipping', 0, 0]
+YOR090C_mRNA: ['exon skipping', 0, 0]
+>2
+ZK973.3.1: ['no event', 106, 2]
+FBtr0307273: ['exon skipping', 0, 0]
+FBtr0071076: ['exon skipping', 0, 0]
+YOR090C_mRNA: ['exon skipping', 0, 0]
+>3
+ZK973.3.1: ['3event', 124, 1]
+FBtr0307273: ['5event', 501, 0]
+FBtr0071076: ['5event', 501, 0]
+YOR090C_mRNA: ['exon skipping', 0, 0]
+>4
+ZK973.3.1: ['3event', '5event', 1050, 0]
+FBtr0307273: [['internal gap >= 30', 770, 1416], 808, 1]
+FBtr0071076: [['internal gap >= 30', 770, 1416], 808, 1]
+YOR090C_mRNA: ['3event', '5event', 1719, 0]

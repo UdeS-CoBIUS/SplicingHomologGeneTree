@@ -1,0 +1,1 @@
+((ENSMMOG00000013490__Mola_mola,ENSTRUG00000025574__Takifugu_rubripes),(((ENSNBRG00000010279__Neolamprologus_brichardi,ENSMZEG00005003386__Maylandia_zebra),ENSPNYG00000004801__Pundamilia_nyererei),ENSACIG00000000846__Amphilophus_citrinellus));

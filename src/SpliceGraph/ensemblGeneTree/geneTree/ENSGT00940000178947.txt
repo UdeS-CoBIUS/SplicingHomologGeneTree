@@ -1,0 +1,1 @@
+(((ENSACLG00000027549__Astatotilapia_calliptera,ENSXCOG00000012998__Xiphophorus_couchianus),ENSPMGG00000021815__Periophthalmus_magnuspinnatus),ENSIPUG00000016808__Ictalurus_punctatus);

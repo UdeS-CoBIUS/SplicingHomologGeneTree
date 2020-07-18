@@ -1,0 +1,1 @@
+((((ENSARWG00000017729__Apteryx_rowi,ENSAHAG00000008148__Apteryx_haastii),ENSCABG00000021200__Chelonoidis_abingdonii),ENSNSUG00000004289__Notechis_scutatus),((ENSRROG00000036562__Rhinopithecus_roxellana,ENSMMUG00000044748__Macaca_mulatta),ENSPSMG00000008930__Prolemur_simus));

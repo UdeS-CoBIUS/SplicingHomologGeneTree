@@ -1,0 +1,1 @@
+(ENSOANG00000029475__Ornithorhynchus_anatinus,ENSCATG00000005447__Cercocebus_atys);

@@ -1,1 +1,0 @@
-((ENSSDUG00000009189__Seriola_dumerili,ENSORLG00015010800__Oryzias_latipes_ASM223469v1),(ENSATEG00000019123__Anabas_testudineus,ENSATEG00000019209__Anabas_testudineus));

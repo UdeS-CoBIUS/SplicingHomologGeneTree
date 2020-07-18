@@ -1,0 +1,1 @@
+((((ENSLSDG00000011795__Lonchura_striata_domestica,ENSLSDG00000011799__Lonchura_striata_domestica),ENSMVIG00005019300__Manacus_vitellinus),(ENSCCEG00000005975__Cyanistes_caeruleus,ENSCPGG00000017385__Calidris_pygmaea)),ENSCJPG00005001027__Coturnix_japonica);

@@ -1,0 +1,3 @@
+Y45F10A.6a.1	WBGene00012868	Caenorhabditis_elegans_strain_N2	Y45F10A.6a.1
+FBpp0078058	FBgn0037074	Drosophila_melanogaster	FBtr0078404
+YGR100W_mRNA	YGR100W	Saccharomyces_cerevisiae_strain_S288C

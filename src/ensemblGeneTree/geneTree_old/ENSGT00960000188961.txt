@@ -1,1 +1,0 @@
-(ENSTGUG00000002006__Taeniopygia_guttata,ENSCJPG00005005896__Coturnix_japonica);

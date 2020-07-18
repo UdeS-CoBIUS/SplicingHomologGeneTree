@@ -1,0 +1,4 @@
+PANTROGLODYTES	pan_troglodytes
+PANPANISCUS	pan_paniscus
+THEROPITHECUSGELADA	theropithecus_gelada
+MACACAMULATTA	macaca_mulatta

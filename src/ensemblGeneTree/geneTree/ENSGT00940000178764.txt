@@ -1,0 +1,1 @@
+(((ENSLBEG00000018174__Labrus_bergylta,ENSLBEG00000015067__Labrus_bergylta),(ENSCVAG00000014442__Cyprinodon_variegatus,ENSPREG00000021166__Poecilia_reticulata)),ENSHHUG00000018545__Hucho_hucho);

@@ -1,0 +1,1 @@
+((ENSCHAG00000004976__Clupea_harengus,ENSDCDG00000023054__Denticeps_clupeoides),((((ENSPNAG00000005937__Pygocentrus_nattereri,ENSPNAG00000018036__Pygocentrus_nattereri),(ENSPNAG00000025495__Pygocentrus_nattereri,ENSPNAG00000018129__Pygocentrus_nattereri)),ENSAMXG00005004216__Astyanax_mexicanus_Astyanax_mexicanus-1.0.2),ENSIPUG00000022170__Ictalurus_punctatus));

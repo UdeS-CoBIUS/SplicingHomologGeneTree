@@ -1,0 +1,1 @@
+(((ENSSDAG00000019988__Spermophilus_dauricus,ENSMSIG00000021544__Mus_spicilegus),((ENSMMUG00000037531__Macaca_mulatta,ENSMLEG00000037416__Mandrillus_leucophaeus),ENSNLEG00000003795__Nomascus_leucogenys)),(((ENSUMAG00000011270__Ursus_maritimus,ENSNVIG00000003661__Neovison_vison),ENSPTIG00000008972__Panthera_tigris_altaica),ENSBBBG00000018027__Bison_bison_bison));

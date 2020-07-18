@@ -1,0 +1,1 @@
+((((ENSRNOG00000048330__Rattus_norvegicus,ENSRNOG00000060820__Rattus_norvegicus),ENSMUGG00000024133__Meriones_unguiculatus),(((ENSCGRG00015013712__Cricetulus_griseus_CriGri-PICR,ENSCGRG00015021707__Cricetulus_griseus_CriGri-PICR),ENSCGRG00015025191__Cricetulus_griseus_CriGri-PICR),ENSCGRG00015023919__Cricetulus_griseus_CriGri-PICR)),ENSCCNG00000022007__Castor_canadensis);

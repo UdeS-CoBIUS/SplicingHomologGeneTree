@@ -1,0 +1,1 @@
+((ENSTTRG00000014383__Tursiops_truncatus,ENSSSCG00000031357__Sus_scrofa),((((((ENSMNEG00000027180__Macaca_nemestrina,ENSMFAG00000036144__Macaca_fascicularis),ENSCATG00000041230__Cercocebus_atys),ENSMLEG00000037373__Mandrillus_leucophaeus),ENSPANG00000030890__Papio_anubis),ENSRROG00000030020__Rhinopithecus_roxellana),ENSPSMG00000001366__Prolemur_simus));

@@ -1,0 +1,1 @@
+((ENSORLG00020013854__Oryzias_latipes_ASM223471v1,ENSIPUG00000020089__Ictalurus_punctatus),((((ENSGACG00000012073__Gasterosteus_aculeatus,ENSACIG00000010200__Amphilophus_citrinellus),ENSATEG00000015296__Anabas_testudineus),ENSGMOG00000020579__Gadus_morhua),ENSIPUG00000020029__Ictalurus_punctatus));

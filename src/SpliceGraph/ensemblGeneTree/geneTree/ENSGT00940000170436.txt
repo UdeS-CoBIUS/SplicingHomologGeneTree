@@ -1,0 +1,1 @@
+(((ENSDORG00000009913__Dipodomys_ordii,ENSHGLG00100000166__Heterocephalus_glaber_HetGla_1.0),(ENSTGUG00000014688__Taeniopygia_guttata,ENSCABG00000016388__Chelonoidis_abingdonii)),((ENSHBUG00000012954__Haplochromis_burtoni,ENSNBRG00000001253__Neolamprologus_brichardi),ENSOMEG00000012722__Oryzias_melastigma));

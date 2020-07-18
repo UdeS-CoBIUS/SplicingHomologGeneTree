@@ -1,1 +1,0 @@
-(((ENSAPOG00000011607__Acanthochromis_polyacanthus,ENSMAMG00000008373__Mastacembelus_armatus),ENSELUG00000022583__Esox_lucius),(ENSNSUG00000002634__Notechis_scutatus,ENSPMJG00000006312__Parus_major));

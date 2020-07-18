@@ -1,0 +1,1 @@
+(ENSEASG00005012265__Equus_asinus_asinus,ENSPPRG00000010994__Panthera_pardus);

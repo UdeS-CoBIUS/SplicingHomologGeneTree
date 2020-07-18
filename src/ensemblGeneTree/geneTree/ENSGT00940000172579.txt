@@ -1,0 +1,1 @@
+((ENSOARG00000014014__Ovis_aries,ENSMPUG00000003406__Mustela_putorius_furo),ENSCSAG00000002909__Chlorocebus_sabaeus);

@@ -1,0 +1,2 @@
+>completeCluster_0
+K11C4.1.1	C17C3.11.1	C25H3.1.1	F59E12.3.1

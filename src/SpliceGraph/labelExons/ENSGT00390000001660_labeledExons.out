@@ -1,0 +1,15 @@
+>0
+ENSAHAT00000006211: [['internal gap < 30', 1686, 9], 1859, 0]
+ENSAOWT00000022584: [['internal gap < 30', 1686, 9], 1859, 0]
+ENSARWT00000022684: [['internal gap < 30', 1686, 9], 1859, 0]
+ENSDNVT00000013657: ['no event', 1868, 0]
+>1
+ENSAHAT00000006211: ['no event', 117, 0]
+ENSAOWT00000022584: ['no event', 117, 0]
+ENSARWT00000022684: ['no event', 117, 0]
+ENSDNVT00000013657: ['no event', 117, 0]
+>2
+ENSAHAT00000006211: ['no event', 271, 1]
+ENSAOWT00000022584: ['no event', 271, 1]
+ENSARWT00000022684: ['no event', 271, 1]
+ENSDNVT00000013657: ['no event', 271, 1]

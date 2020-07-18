@@ -1,0 +1,4 @@
+TURSIOPSTRUNCATUS	tursiops_truncatus
+VICUGNAPACOS	vicugna_pacos
+PTEROPUSVAMPYRUS	pteropus_vampyrus
+CHLOROCEBUSSABAEUS	chlorocebus_sabaeus

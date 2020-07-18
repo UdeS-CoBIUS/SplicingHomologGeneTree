@@ -1,0 +1,1 @@
+((ENSPTIG00000013566__Panthera_tigris_altaica,ENSUMAG00000022484__Ursus_maritimus),ENSEASG00005022357__Equus_asinus_asinus);

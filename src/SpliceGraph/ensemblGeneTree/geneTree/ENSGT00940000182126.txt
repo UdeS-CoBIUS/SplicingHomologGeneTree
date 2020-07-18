@@ -1,0 +1,1 @@
+(ENSSMAG00000000429__Scophthalmus_maximus,ENSPREG00000009665__Poecilia_reticulata);

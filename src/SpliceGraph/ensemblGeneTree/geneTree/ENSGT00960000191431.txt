@@ -1,0 +1,1 @@
+(ENSSDAG00000017848__Spermophilus_dauricus,ENSBBBG00000014692__Bison_bison_bison);

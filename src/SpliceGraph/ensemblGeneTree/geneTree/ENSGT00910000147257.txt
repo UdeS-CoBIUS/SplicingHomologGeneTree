@@ -1,0 +1,1 @@
+(((ENSG00000274897__Homo_sapiens,ENSPTRG00000050083__Pan_troglodytes),(((ENSMNEG00000036901__Macaca_nemestrina,ENSMFAG00000041677__Macaca_fascicularis),ENSPANG00000031957__Papio_anubis),(ENSCATG00000044281__Cercocebus_atys,ENSTGEG00000023992__Theropithecus_gelada))),ENSANAG00000031457__Aotus_nancymaae);

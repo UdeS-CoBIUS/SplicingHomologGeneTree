@@ -1,1 +1,0 @@
-((ENSMMUG00000043742__Macaca_mulatta,ENSTGEG00000004576__Theropithecus_gelada),(ENSGGOG00000041208__Gorilla_gorilla,ENSNLEG00000031360__Nomascus_leucogenys));

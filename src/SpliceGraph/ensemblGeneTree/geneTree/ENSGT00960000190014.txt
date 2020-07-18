@@ -1,0 +1,1 @@
+(((ENSNMEG00000012031__Numida_meleagris,ENSAPLG00000027269__Anas_platyrhynchos_platyrhynchos),ENSARWG00000007211__Apteryx_rowi),ENSCPBG00000025815__Chrysemys_picta_bellii);

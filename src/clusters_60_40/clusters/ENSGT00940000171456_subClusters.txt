@@ -1,0 +1,10 @@
+>cluster_0
+FBtr0086582	Y50D4C.1g.1
+>cluster_1
+Y50D4C.1f.1	FBtr0086583
+>cluster_2
+Y50D4C.1c.1	FBtr0100174
+>cluster_3
+FBtr0114623	Y50D4C.1e.1
+>cluster_4
+Y50D4C.1d.1	FBtr0340450

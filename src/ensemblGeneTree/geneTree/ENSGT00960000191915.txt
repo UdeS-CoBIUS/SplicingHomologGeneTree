@@ -1,0 +1,1 @@
+(ENSAPLG00000017838__Anas_platyrhynchos_platyrhynchos,ENSCPUG00000004037__Calidris_pugnax);

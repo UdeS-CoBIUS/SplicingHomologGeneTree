@@ -1,0 +1,6 @@
+ICTIDOMYSTRIDECEMLINEATUS	ictidomys_tridecemlineatus
+DIPODOMYSORDII	dipodomys_ordii
+CHINCHILLALANIGERA	chinchilla_lanigera
+FUKOMYSDAMARENSIS	fukomys_damarensis
+CAVIAPORCELLUS	cavia_porcellus
+MESOCRICETUSAURATUS	mesocricetus_auratus

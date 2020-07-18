@@ -1,0 +1,1 @@
+(((((ENSRBIG00000024978__Rhinopithecus_bieti,ENSRROG00000035116__Rhinopithecus_roxellana),ENSPTEG00000007340__Piliocolobus_tephrosceles),ENSPTEG00000036218__Piliocolobus_tephrosceles),ENSGGOG00000043450__Gorilla_gorilla),ENSPSMG00000022207__Prolemur_simus);

@@ -1,1 +1,0 @@
-(((ENSMAMG00000005191__Mastacembelus_armatus,ENSMAMG00000000660__Mastacembelus_armatus),ENSATEG00000007754__Anabas_testudineus),ENSKMAG00000016878__Kryptolebias_marmoratus);

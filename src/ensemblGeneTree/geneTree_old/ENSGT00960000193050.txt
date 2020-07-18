@@ -1,1 +1,0 @@
-(ENSGAGG00000010839__Gopherus_agassizii,ENSNSUG00000001281__Notechis_scutatus);

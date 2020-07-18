@@ -1,0 +1,1 @@
+(((ENSRROG00000038954__Rhinopithecus_roxellana,ENSEASG00005012739__Equus_asinus_asinus),ENSAMEG00000013320__Ailuropoda_melanoleuca),ENSCSEG00000019117__Cynoglossus_semilaevis);

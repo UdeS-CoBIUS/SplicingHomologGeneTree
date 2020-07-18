@@ -1,1 +1,0 @@
-(((ENSUPAG00010010341__Urocitellus_parryii,ENSSTOG00000029904__Ictidomys_tridecemlineatus),ENSCCNG00000031033__Castor_canadensis),ENSMLEG00000035233__Mandrillus_leucophaeus);

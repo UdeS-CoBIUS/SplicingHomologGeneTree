@@ -1,0 +1,1 @@
+(((ENSPLAG00000000185__Poecilia_latipinna,ENSCVAG00000001824__Cyprinodon_variegatus),ENSPKIG00000004721__Paramormyrops_kingsleyae),((ENSLSDG00000010943__Lonchura_striata_domestica,ENSSCAG00000014417__Serinus_canaria),ENSJHYG00000006290__Junco_hyemalis));

@@ -1,0 +1,1 @@
+((ENSLSDG00000007757__Lonchura_striata_domestica,ENSMUNG00000006575__Melopsittacus_undulatus),(ENSAHAG00000012025__Apteryx_haastii,ENSAOWG00000008782__Apteryx_owenii));

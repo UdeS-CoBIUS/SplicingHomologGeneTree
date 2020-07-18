@@ -1,0 +1,1 @@
+((ENSAOWG00000018071__Apteryx_owenii,ENSAHAG00000000632__Apteryx_haastii),ENSCPBG00000019182__Chrysemys_picta_bellii);

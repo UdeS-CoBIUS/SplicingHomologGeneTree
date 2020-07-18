@@ -1,0 +1,1 @@
+((((ENSMEUG00000016680__Notamacropus_eugenii,ENSSHAG00000012673__Sarcophilus_harrisii),(ENSMLUG00000024635__Myotis_lucifugus,ENSOARG00000017118__Ovis_aries)),ENSTGUG00000012491__Taeniopygia_guttata),ENSLACG00000010135__Latimeria_chalumnae);

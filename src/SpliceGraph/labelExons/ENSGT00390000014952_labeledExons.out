@@ -1,0 +1,65 @@
+>0
+ENSPPYT00000003155: ['3event', 60, 0]
+ENSTBET00000004279: ['3event', 60, 0]
+ENSEEUT00000009736: ['no event', 63, 0]
+ENSETET00000000820: ['no event', 63, 0]
+>1
+ENSPPYT00000003155: ['exon skipping', 0, 0]
+ENSTBET00000004279: ['5event', 3, 0]
+ENSEEUT00000009736: ['exon skipping', 0, 0]
+ENSETET00000000820: ['exon skipping', 0, 0]
+>2
+ENSPPYT00000003155: ['5event', 2, 0]
+ENSTBET00000004279: ['exon skipping', 0, 0]
+ENSEEUT00000009736: ['exon skipping', 0, 0]
+ENSETET00000000820: ['exon skipping', 0, 0]
+>3
+ENSPPYT00000003155: ['exon skipping', 0, 0]
+ENSTBET00000004279: ['only gap', 0, 1]
+ENSEEUT00000009736: ['5event', 3, 1]
+ENSETET00000000820: ['5event', 3, 1]
+>4
+ENSPPYT00000003155: ['exon skipping', 0, 0]
+ENSTBET00000004279: ['exon skipping', 0, 0]
+ENSEEUT00000009736: ['exon skipping', 0, 0]
+ENSETET00000000820: ['only gap', 0, 2]
+>5
+ENSPPYT00000003155: ['exon skipping', 0, 0]
+ENSTBET00000004279: ['only gap', 0, 2]
+ENSEEUT00000009736: ['only gap', 0, 2]
+ENSETET00000000820: ['exon skipping', 0, 0]
+>6
+ENSPPYT00000003155: ['3event', '5event', 242, 0]
+ENSTBET00000004279: [['internal gap < 30', 1, 1], 265, 0]
+ENSEEUT00000009736: [['internal gap < 30', 245, 4], 262, 0]
+ENSETET00000000820: [['internal gap < 30', 245, 4], 262, 0]
+>7
+ENSPPYT00000003155: ['exon skipping', 0, 0]
+ENSTBET00000004279: ['exon skipping', 0, 0]
+ENSEEUT00000009736: ['no event', 39, 2]
+ENSETET00000000820: ['no event', 39, 2]
+>8
+ENSPPYT00000003155: ['exon skipping', 0, 0]
+ENSTBET00000004279: ['exon skipping', 0, 0]
+ENSEEUT00000009736: ['no event', 8, 0]
+ENSETET00000000820: ['exon skipping', 0, 0]
+>9
+ENSPPYT00000003155: ['exon skipping', 0, 0]
+ENSTBET00000004279: ['exon skipping', 0, 0]
+ENSEEUT00000009736: ['exon skipping', 0, 0]
+ENSETET00000000820: ['5event', 18, 0]
+>10
+ENSPPYT00000003155: ['exon skipping', 0, 0]
+ENSTBET00000004279: ['exon skipping', 0, 0]
+ENSEEUT00000009736: ['5event', 45, 0]
+ENSETET00000000820: ['exon skipping', 0, 0]
+>11
+ENSPPYT00000003155: ['5event', 148, 2]
+ENSTBET00000004279: ['5event', 154, 2]
+ENSEEUT00000009736: [['internal gap >= 30', 1, 95], 60, 1]
+ENSETET00000000820: ['5event', 92, 1]
+>12
+ENSPPYT00000003155: ['no event', 34, 1]
+ENSTBET00000004279: ['exon skipping', 0, 0]
+ENSEEUT00000009736: ['exon skipping', 0, 0]
+ENSETET00000000820: ['exon skipping', 0, 0]

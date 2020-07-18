@@ -1,0 +1,1 @@
+(((ENSMNEG00000034986__Macaca_nemestrina,ENSMLEG00000033570__Mandrillus_leucophaeus),ENSCATG00000040187__Cercocebus_atys),ENSCANG00000032425__Colobus_angolensis_palliatus);

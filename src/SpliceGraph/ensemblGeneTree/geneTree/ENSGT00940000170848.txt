@@ -1,0 +1,1 @@
+(((ENSCABG00000015686__Chelonoidis_abingdonii,ENSGAGG00000023532__Gopherus_agassizii),ENSCPBG00000003717__Chrysemys_picta_bellii),((ENSTTRG00000014937__Tursiops_truncatus,ENSMLUG00000002461__Myotis_lucifugus),MGP_SPRETEiJ_G0021450__Mus_spretus_strain_SPRET/EiJ));

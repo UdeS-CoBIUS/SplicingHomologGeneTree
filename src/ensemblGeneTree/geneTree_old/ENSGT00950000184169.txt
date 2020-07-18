@@ -1,1 +1,0 @@
-(ENSMLEG00000000845__Mandrillus_leucophaeus,ENSCANG00000037930__Colobus_angolensis_palliatus);

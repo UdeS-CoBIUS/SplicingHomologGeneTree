@@ -1,1 +1,0 @@
-(((((ENSPNAG00000006477__Pygocentrus_nattereri,ENSAMXG00000036450__Astyanax_mexicanus),ENSDARG00000111587__Danio_rerio),(ENSTRUG00000024235__Takifugu_rubripes,ENSOMEG00000022259__Oryzias_melastigma)),(ENSTGUG00000011731__Taeniopygia_guttata,ENSFALG00000011586__Ficedula_albicollis)),ENSEBUG00000001281__Eptatretus_burgeri);

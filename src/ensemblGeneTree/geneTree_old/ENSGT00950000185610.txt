@@ -1,1 +1,0 @@
-(ENSCAFG00020022934__Canis_lupus_dingo,ENSCPBG00000018022__Chrysemys_picta_bellii);

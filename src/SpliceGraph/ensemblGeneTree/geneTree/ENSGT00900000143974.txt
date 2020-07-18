@@ -1,0 +1,1 @@
+((ENSHGLG00100020143__Heterocephalus_glaber_HetGla_1.0,ENSHGLG00100019916__Heterocephalus_glaber_HetGla_1.0),ENSHGLG00000021237__Heterocephalus_glaber_HetGla_female_1.0);

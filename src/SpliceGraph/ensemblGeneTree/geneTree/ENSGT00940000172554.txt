@@ -1,0 +1,1 @@
+((FBgn0085421__Drosophila_melanogaster,WBGene00004255__Caenorhabditis_elegans_strain_N2),(((ENSXCOG00000019165__Xiphophorus_couchianus,ENSPRNG00000024669__Parambassis_ranga),ENSLBEG00000015894__Labrus_bergylta),ENSAMXG00005019236__Astyanax_mexicanus_Astyanax_mexicanus-1.0.2));

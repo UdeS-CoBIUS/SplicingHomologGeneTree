@@ -1,1 +1,0 @@
-((ENSCPUG00000010722__Calidris_pugnax,ENSLCOG00000010863__Lepidothrix_coronata),ENSAHAG00000009269__Apteryx_haastii);

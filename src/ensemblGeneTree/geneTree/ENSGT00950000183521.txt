@@ -1,0 +1,1 @@
+((ENSFHEG00000009623__Fundulus_heteroclitus,ENSCVAG00000003404__Cyprinodon_variegatus),(((ENSXMAG00000027585__Xiphophorus_maculatus,ENSXCOG00000005570__Xiphophorus_couchianus),ENSGAFG00000003265__Gambusia_affinis),((ENSPMEG00000019616__Poecilia_mexicana,ENSPLAG00000020005__Poecilia_latipinna),ENSPREG00000006721__Poecilia_reticulata)));

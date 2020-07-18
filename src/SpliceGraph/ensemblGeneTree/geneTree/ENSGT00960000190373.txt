@@ -1,0 +1,1 @@
+((ENSTGEG00000023150__Theropithecus_gelada,ENSOPRG00000016723__Ochotona_princeps),ENSPCIG00000036726__Phascolarctos_cinereus);

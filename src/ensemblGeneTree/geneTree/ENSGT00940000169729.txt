@@ -1,0 +1,1 @@
+(ENSSTOG00000031714__Ictidomys_tridecemlineatus,ENSCAFG00000030593__Canis_lupus_familiaris);

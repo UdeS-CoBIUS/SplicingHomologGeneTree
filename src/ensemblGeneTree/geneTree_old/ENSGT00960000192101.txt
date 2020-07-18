@@ -1,1 +1,0 @@
-(ENSMUGG00000024603__Meriones_unguiculatus,ENSUAMG00000009445__Ursus_americanus);

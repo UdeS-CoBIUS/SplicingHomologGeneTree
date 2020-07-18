@@ -1,0 +1,1 @@
+((ENSPTRG00000050963__Pan_troglodytes,ENSPTRG00000045316__Pan_troglodytes),((ENSPTRG00000049132__Pan_troglodytes,ENSPTRG00000044106__Pan_troglodytes),ENSPTRG00000049046__Pan_troglodytes));

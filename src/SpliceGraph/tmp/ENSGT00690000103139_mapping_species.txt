@@ -1,0 +1,3 @@
+GASTEROSTEUSACULEATUS	gasterosteus_aculeatus
+TETRAODONNIGROVIRIDIS	tetraodon_nigroviridis
+POECILIAFORMOSA	poecilia_formosa

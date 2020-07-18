@@ -1,1 +1,0 @@
-(ENSCPBG00000015903__Chrysemys_picta_bellii,ENSCABG00000008390__Chelonoidis_abingdonii);

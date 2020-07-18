@@ -1,0 +1,1 @@
+((((ENSFDAG00000015871__Fukomys_damarensis,ENSFDAG00000015913__Fukomys_damarensis),((ENSCPOG00000012525__Cavia_porcellus,ENSCLAG00000001202__Chinchilla_lanigera),ENSCPOG00000022221__Cavia_porcellus)),ENSDNOG00000039053__Dasypus_novemcinctus),ENSMEUG00000010922__Notamacropus_eugenii);

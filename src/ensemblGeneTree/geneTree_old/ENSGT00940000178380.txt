@@ -1,1 +1,0 @@
-(((ENSSLDG00000008655__Seriola_lalandi_dorsalis,ENSHBUG00000000203__Haplochromis_burtoni),(ENSSMAG00000005681__Scophthalmus_maximus,ENSGAFG00000014243__Gambusia_affinis)),ENSMALG00000017601__Monopterus_albus);

@@ -1,0 +1,1 @@
+(((ENSPVAG00000016837__Pteropus_vampyrus,ENSTTRG00000006933__Tursiops_truncatus),ENSOPRG00000018372__Ochotona_princeps),(ENSCHOG00000010288__Choloepus_hoffmanni,ENSPCAG00000002916__Procavia_capensis));

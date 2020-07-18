@@ -1,0 +1,4 @@
+>completeCluster_0
+Y38C1AB.1.1	Y38C1AB.5.1	T22B11.2.1	C16D9.6.1
+>completeCluster_1
+C16D9.6.1	T22B11.2.1	Y38C1AB.5.1	Y38C1AB.1.1

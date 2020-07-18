@@ -1,0 +1,3 @@
+FBpp0307487	FBgn0261561	Drosophila_melanogaster	FBtr0335519
+FBpp0086161	FBgn0050460	Drosophila_melanogaster	FBtr0087010
+ENSCINP00000030665	ENSCING00000023127	Ciona_intestinalis

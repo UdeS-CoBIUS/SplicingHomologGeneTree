@@ -1,0 +1,1 @@
+((((FBgn0004362__Drosophila_melanogaster,FBgn0010228__Drosophila_melanogaster),FBgn0029936__Drosophila_melanogaster),FBgn0010278__Drosophila_melanogaster),(((ENSTTRG00000002076__Tursiops_truncatus,ENSETEG00000006013__Echinops_telfairi),ENSOANG00000030312__Ornithorhynchus_anatinus),ENSFHEG00000003007__Fundulus_heteroclitus));

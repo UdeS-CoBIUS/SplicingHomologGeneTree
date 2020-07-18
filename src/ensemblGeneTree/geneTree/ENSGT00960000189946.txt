@@ -1,0 +1,1 @@
+(((ENSABRG00000018968__Anser_brachyrhynchus,ENSLSDG00000007640__Lonchura_striata_domestica),ENSCABG00000015916__Chelonoidis_abingdonii),ENSELUG00000021367__Esox_lucius);

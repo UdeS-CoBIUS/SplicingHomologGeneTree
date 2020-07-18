@@ -1,0 +1,1 @@
+(((((ENSPCAG00000013014__Procavia_capensis,ENSNVIG00000006924__Neovison_vison),ENSDNOG00000017912__Dasypus_novemcinctus),ENSSHAG00000003699__Sarcophilus_harrisii),ENSARWG00000011235__Apteryx_rowi),ENSIPUG00000010484__Ictalurus_punctatus);

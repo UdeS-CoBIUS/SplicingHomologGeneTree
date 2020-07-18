@@ -1,1 +1,0 @@
-(ENSSPAG00000002661__Stegastes_partitus,ENSCCEG00000001344__Cyanistes_caeruleus);

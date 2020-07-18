@@ -1,0 +1,1 @@
+(((ENSFHEG00000019230__Fundulus_heteroclitus,ENSXCOG00000012266__Xiphophorus_couchianus),(ENSPMGG00000002050__Periophthalmus_magnuspinnatus,ENSCSEG00000008217__Cynoglossus_semilaevis)),ENSGMOG00000001746__Gadus_morhua);

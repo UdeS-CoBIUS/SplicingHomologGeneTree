@@ -1,1 +1,0 @@
-((ENSPANG00000029632__Papio_anubis,ENSMLEG00000022433__Mandrillus_leucophaeus),ENSTGEG00000026491__Theropithecus_gelada);

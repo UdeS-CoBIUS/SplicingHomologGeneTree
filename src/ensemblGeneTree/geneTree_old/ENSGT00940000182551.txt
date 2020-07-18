@@ -1,1 +1,0 @@
-(ENSIPUG00000021734__Ictalurus_punctatus,ENSKMAG00000005332__Kryptolebias_marmoratus);

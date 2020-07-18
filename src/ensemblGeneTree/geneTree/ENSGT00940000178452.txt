@@ -1,0 +1,1 @@
+(((ENSPKIG00000020348__Paramormyrops_kingsleyae,ENSAMXG00000036299__Astyanax_mexicanus),((ENSAPEG00000021130__Amphiprion_percula,ENSAPEG00000021136__Amphiprion_percula),ENSMMOG00000016741__Mola_mola)),ENSPMJG00000018963__Parus_major);

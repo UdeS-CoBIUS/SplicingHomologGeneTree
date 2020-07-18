@@ -1,1 +1,0 @@
-(ENSCABG00000001707__Chelonoidis_abingdonii,ENSSPUG00000012637__Sphenodon_punctatus);

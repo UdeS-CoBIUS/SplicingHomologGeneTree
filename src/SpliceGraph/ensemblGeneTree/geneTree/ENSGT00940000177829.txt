@@ -1,0 +1,1 @@
+(((ENSACIG00000020666__Amphilophus_citrinellus,ENSNBRG00000010335__Neolamprologus_brichardi),((((ENSPLAG00000009758__Poecilia_latipinna,ENSPMEG00000016532__Poecilia_mexicana),ENSGAFG00000014294__Gambusia_affinis),ENSXCOG00000015543__Xiphophorus_couchianus),ENSCVAG00000007507__Cyprinodon_variegatus)),ENSMALG00000002599__Monopterus_albus);

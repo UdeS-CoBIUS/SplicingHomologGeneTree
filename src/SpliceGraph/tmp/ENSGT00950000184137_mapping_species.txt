@@ -1,0 +1,4 @@
+MUSSPICILEGUS	mus_spicilegus
+MUSMUSCULUS	mus_musculus
+MUSSPRETUSSTRAINSPRETEIJ	mus_spretus_strain_spret/eij
+MUSPAHARI	mus_pahari

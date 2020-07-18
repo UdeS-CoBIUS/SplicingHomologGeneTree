@@ -1,0 +1,1 @@
+(((ENSPMGG00000014433__Periophthalmus_magnuspinnatus,ENSTRUG00000022987__Takifugu_rubripes),ENSAMXG00000034735__Astyanax_mexicanus),((ENSPTIG00000013870__Panthera_tigris_altaica,ENSPPRG00000002847__Panthera_pardus),ENSEASG00005004888__Equus_asinus_asinus));

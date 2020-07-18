@@ -1,0 +1,3 @@
+CEBUSCAPUCINUS	cebus_capucinus
+CASTORCANADENSIS	castor_canadensis
+CAPRAHIRCUS	capra_hircus

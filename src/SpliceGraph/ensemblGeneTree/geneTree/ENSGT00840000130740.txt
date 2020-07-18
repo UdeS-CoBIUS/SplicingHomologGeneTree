@@ -1,0 +1,1 @@
+(((ENSOANG00000006491__Ornithorhynchus_anatinus,ENSETEG00000012050__Echinops_telfairi),ENSLACG00000008894__Latimeria_chalumnae),(ENSGACG00000019570__Gasterosteus_aculeatus,ENSGMOG00000018022__Gadus_morhua));

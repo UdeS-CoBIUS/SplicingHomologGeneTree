@@ -1,0 +1,1 @@
+((ENSPTEG00000003445__Piliocolobus_tephrosceles,ENSPTEG00000011006__Piliocolobus_tephrosceles),YGL043W__Saccharomyces_cerevisiae_strain_S288C);

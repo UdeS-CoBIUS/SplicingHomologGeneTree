@@ -1,0 +1,12 @@
+>0
+ENSTGET00000001539: ['no event', 161, 0]
+ENSPTET00000042389: ['no event', 161, 0]
+ENSNVIT00000019842: ['exon skipping', 0, 0]
+>1
+ENSTGET00000001539: ['exon skipping', 0, 0]
+ENSPTET00000042389: ['exon skipping', 0, 0]
+ENSNVIT00000019842: ['5event', 19, 0]
+>2
+ENSTGET00000001539: ['exon skipping', 0, 0]
+ENSPTET00000042389: ['exon skipping', 0, 0]
+ENSNVIT00000019842: ['no event', 147, 2]

@@ -1,0 +1,1 @@
+((ENSPNAG00000014882__Pygocentrus_nattereri,ENSPNAG00000026051__Pygocentrus_nattereri),ENSORLG00000027766__Oryzias_latipes_ASM223467v1);

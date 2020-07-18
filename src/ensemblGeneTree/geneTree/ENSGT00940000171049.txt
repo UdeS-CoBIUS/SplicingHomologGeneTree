@@ -1,0 +1,1 @@
+((((ENSPLAG00000018339__Poecilia_latipinna,ENSPMEG00000022868__Poecilia_mexicana),ENSFHEG00000012726__Fundulus_heteroclitus),ENSPNAG00000002850__Pygocentrus_nattereri),(ENSCGRG00000000126__Cricetulus_griseus_CriGri_1.0,ENSOANG00000028993__Ornithorhynchus_anatinus));

@@ -1,0 +1,1 @@
+(ENSACIG00000002373__Amphilophus_citrinellus,ENSMSIG00000009015__Mus_spicilegus);

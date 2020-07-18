@@ -1,0 +1,1 @@
+(((ENSLCOG00000013656__Lepidothrix_coronata,ENSAPLG00000006357__Anas_platyrhynchos_platyrhynchos),ENSAHAG00000000084__Apteryx_haastii),ENSSHAG00000017682__Sarcophilus_harrisii);

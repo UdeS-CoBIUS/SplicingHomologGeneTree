@@ -1,0 +1,6 @@
+>cluster_0
+F39H12.4.1	FBtr0308127	FBtr0334265
+>cluster_1
+FBtr0308125	FBtr0334266
+>cluster_2
+FBtr0077465	FBtr0308126

@@ -1,0 +1,1 @@
+((((((ENSAPOG00000009158__Acanthochromis_polyacanthus,ENSAPOG00000009311__Acanthochromis_polyacanthus),ENSSPAG00000005155__Stegastes_partitus),ENSSDUG00000001196__Seriola_dumerili),ENSSPAG00000005589__Stegastes_partitus),ENSSLDG00000017641__Seriola_lalandi_dorsalis),ENSPMJG00000001389__Parus_major);

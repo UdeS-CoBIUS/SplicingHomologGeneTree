@@ -1,1 +1,0 @@
-(ENSAPOG00000009039__Acanthochromis_polyacanthus,ENSAPOG00000022518__Acanthochromis_polyacanthus);

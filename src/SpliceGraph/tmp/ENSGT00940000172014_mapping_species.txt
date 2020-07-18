@@ -1,0 +1,3 @@
+ASTYANAXMEXICANUS	astyanax_mexicanus
+PELODISCUSSINENSIS	pelodiscus_sinensis
+EPTATRETUSBURGERI	eptatretus_burgeri

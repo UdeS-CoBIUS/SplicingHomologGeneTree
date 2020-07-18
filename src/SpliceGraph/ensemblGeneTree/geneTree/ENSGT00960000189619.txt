@@ -1,0 +1,1 @@
+(((ENSSDAG00000016518__Spermophilus_dauricus,ENSPEMG00000029257__Peromyscus_maniculatus_bairdii),ENSPTEG00000000227__Piliocolobus_tephrosceles),((ENSBBBG00000006169__Bison_bison_bison,ENSBMUG00000000384__Bos_mutus),ENSNVIG00000009551__Neovison_vison));

@@ -1,0 +1,10 @@
+>0
+ENSRROT00000017433: ['no event', 227, 0]
+ENSRBIT00000002332: ['no event', 227, 0]
+ENSPTET00000031726: ['no event', 227, 0]
+ENSMFAT00000005474: [['internal gap < 30', 39, 21], 206, 0]
+ENSMNET00000020420: ['no event', 227, 0]
+ENSTGET00000001772: ['no event', 227, 0]
+ENSPPAT00000055500: [['internal gap >= 30', 77, 30], 197, 0]
+ENSPTRT00000104180: [['internal gap >= 30', 77, 30], 197, 0]
+ENSGGOT00000067432: [['internal gap >= 30', 77, 30], 197, 0]

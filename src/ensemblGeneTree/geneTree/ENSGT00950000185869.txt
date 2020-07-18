@@ -1,0 +1,1 @@
+(((ENSSTOG00000028490__Ictidomys_tridecemlineatus,ENSSDAG00000016174__Spermophilus_dauricus),ENSCCNG00000027462__Castor_canadensis),((ENSBBBG00000016398__Bison_bison_bison,ENSBMUG00000011244__Bos_mutus),ENSUAMG00000025232__Ursus_americanus));

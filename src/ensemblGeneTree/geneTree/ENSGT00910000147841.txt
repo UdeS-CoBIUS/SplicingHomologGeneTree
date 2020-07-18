@@ -1,0 +1,1 @@
+((ENSANAG00000023701__Aotus_nancymaae,ENSCCAG00000023474__Cebus_capucinus_imitator),((ENSPPAG00000012586__Pan_paniscus,ENSPTRG00000044202__Pan_troglodytes),ENSNLEG00000028214__Nomascus_leucogenys));

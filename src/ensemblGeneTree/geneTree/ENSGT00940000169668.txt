@@ -1,0 +1,1 @@
+(((ENSSSCG00000034082__Sus_scrofa,ENSUMAG00000024812__Ursus_maritimus),ENSCPOG00000024811__Cavia_porcellus),ENSPCAG00000012574__Procavia_capensis);

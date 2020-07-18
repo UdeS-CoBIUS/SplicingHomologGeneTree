@@ -1,0 +1,1 @@
+((((ENSPMEG00000010568__Poecilia_mexicana,ENSPMEG00000010527__Poecilia_mexicana),ENSFHEG00000007776__Fundulus_heteroclitus),(((ENSHBUG00000014800__Haplochromis_burtoni,ENSMZEG00005008565__Maylandia_zebra),ENSPNYG00000015797__Pundamilia_nyererei),ENSACLG00000002261__Astatotilapia_calliptera)),ENSTRUG00000021098__Takifugu_rubripes);

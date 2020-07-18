@@ -1,0 +1,4 @@
+POECILIALATIPINNA	poecilia_latipinna
+GAMBUSIAAFFINIS	gambusia_affinis
+STEGASTESPARTITUS	stegastes_partitus
+MOLAMOLA	mola_mola

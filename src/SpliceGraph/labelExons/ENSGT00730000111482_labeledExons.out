@@ -1,0 +1,20 @@
+>0
+ENSPKIT00000013001: [['internal gap < 30', 32, 3], 50, 0]
+ENSPKIT00000014860: ['no event', 53, 0]
+ENSSFOT00015012990: ['no event', 53, 0]
+>1
+ENSPKIT00000013001: ['no event', 95, 0]
+ENSPKIT00000014860: ['no event', 95, 0]
+ENSSFOT00015012990: ['no event', 95, 0]
+>2
+ENSPKIT00000013001: ['no event', 81, 0]
+ENSPKIT00000014860: ['no event', 81, 0]
+ENSSFOT00015012990: ['no event', 81, 0]
+>3
+ENSPKIT00000013001: ['exon skipping', 0, 0]
+ENSPKIT00000014860: ['exon skipping', 0, 0]
+ENSSFOT00015012990: ['no event', 3, 1]
+>4
+ENSPKIT00000013001: ['3event', '5event', 416, 1]
+ENSPKIT00000014860: ['3event', '5event', 491, 1]
+ENSSFOT00015012990: [['internal gap >= 30', 329, 154], 393, 2]

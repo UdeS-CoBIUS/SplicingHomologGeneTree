@@ -1,0 +1,6 @@
+TUPAIABELANGERI	tupaia_belangeri
+MICROTUSOCHROGASTER	microtus_ochrogaster
+MYOTISLUCIFUGUS	myotis_lucifugus
+URSUSMARITIMUS	ursus_maritimus
+ECHINOPSTELFAIRI	echinops_telfairi
+CYNOGLOSSUSSEMILAEVIS	cynoglossus_semilaevis

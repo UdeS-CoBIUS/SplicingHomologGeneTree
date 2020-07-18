@@ -1,0 +1,1 @@
+(ENSAPLG00000019715__Anas_platyrhynchos_platyrhynchos,ENSCABG00000003394__Chelonoidis_abingdonii);

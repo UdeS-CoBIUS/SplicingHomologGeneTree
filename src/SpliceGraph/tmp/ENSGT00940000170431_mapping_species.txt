@@ -1,0 +1,3 @@
+PONGOABELII	pongo_abelii
+TUPAIABELANGERI	tupaia_belangeri
+ERINACEUSEUROPAEUS	erinaceus_europaeus

@@ -1,0 +1,1 @@
+(ENSAMEG00000001122__Ailuropoda_melanoleuca,ENSDNVG00000011643__Dromaius_novaehollandiae);

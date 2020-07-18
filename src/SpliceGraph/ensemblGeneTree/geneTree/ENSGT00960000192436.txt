@@ -1,0 +1,1 @@
+(ENSNMEG00000021069__Numida_meleagris,ENSGALG00000054415__Gallus_gallus);

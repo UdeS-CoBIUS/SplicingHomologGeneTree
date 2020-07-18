@@ -1,0 +1,2 @@
+>completeCluster_0
+R03G8.3.1	R03G8.1.1	Y73F8A.35a.1

@@ -1,0 +1,1 @@
+((FBgn0033627__Drosophila_melanogaster,FBgn0040465__Drosophila_melanogaster),FBgn0035160__Drosophila_melanogaster);

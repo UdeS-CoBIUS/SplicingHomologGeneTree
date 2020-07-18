@@ -1,0 +1,1 @@
+((((((ENSBTAG00000053958__Bos_taurus,ENSBMUG00000001965__Bos_mutus),(ENSECAG00000037883__Equus_caballus,ENSEASG00005004317__Equus_asinus_asinus)),ENSCAFG00020004072__Canis_lupus_dingo),ENSPCIG00000029897__Phascolarctos_cinereus),(ENSMSIG00000000510__Mus_spicilegus,ENSMSIG00000024356__Mus_spicilegus)),ENSAOCG00000005178__Amphiprion_ocellaris);

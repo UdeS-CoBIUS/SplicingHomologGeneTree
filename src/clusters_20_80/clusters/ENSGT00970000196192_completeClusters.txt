@@ -1,0 +1,4 @@
+>completeCluster_0
+F52F12.9.1	Y34B4A.7.2	C52B9.8.1
+>completeCluster_1
+C52B9.8.1	Y34B4A.7.3	F52F12.9.1

@@ -1,0 +1,1 @@
+((ENSFDAG00000018791__Fukomys_damarensis,ENSFDAG00000014225__Fukomys_damarensis),ENSFDAG00000008362__Fukomys_damarensis);

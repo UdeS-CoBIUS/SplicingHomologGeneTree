@@ -1,0 +1,1 @@
+(((ENSUAMG00000009724__Ursus_americanus,ENSUMAG00000019099__Ursus_maritimus),(ENSUAMG00000013214__Ursus_americanus,ENSUMAG00000012116__Ursus_maritimus)),ENSVVUG00000017318__Vulpes_vulpes);

@@ -1,0 +1,1 @@
+((((FBgn0037063__Drosophila_melanogaster,FBgn0037064__Drosophila_melanogaster),WBGene00008765__Caenorhabditis_elegans_strain_N2),ENSACIG00000000152__Amphilophus_citrinellus),(YHR046C__Saccharomyces_cerevisiae_strain_S288C,YDR287W__Saccharomyces_cerevisiae_strain_S288C));

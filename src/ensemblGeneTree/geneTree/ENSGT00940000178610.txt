@@ -1,0 +1,1 @@
+((ENSIPUG00000015484__Ictalurus_punctatus,ENSAMXG00000043080__Astyanax_mexicanus),((ENSSMAG00000018616__Scophthalmus_maximus,ENSSMAG00000019785__Scophthalmus_maximus),ENSSMAG00000000502__Scophthalmus_maximus));

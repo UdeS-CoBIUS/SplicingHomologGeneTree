@@ -1,0 +1,1 @@
+((((((ENSPLAG00000022001__Poecilia_latipinna,ENSPFOG00000023679__Poecilia_formosa),ENSPMEG00000007946__Poecilia_mexicana),ENSPREG00000008241__Poecilia_reticulata),(ENSXMAG00000026150__Xiphophorus_maculatus,ENSXCOG00000004941__Xiphophorus_couchianus)),ENSKMAG00000011759__Kryptolebias_marmoratus),ENSSMAG00000019833__Scophthalmus_maximus);

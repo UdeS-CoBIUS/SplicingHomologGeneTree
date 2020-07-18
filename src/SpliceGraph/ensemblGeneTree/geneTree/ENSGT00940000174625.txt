@@ -1,0 +1,1 @@
+((ENSMAMG00000018244__Mastacembelus_armatus,ENSMAMG00000005126__Mastacembelus_armatus),ENSMAMG00000022772__Mastacembelus_armatus);

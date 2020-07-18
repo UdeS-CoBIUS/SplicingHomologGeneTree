@@ -1,0 +1,4 @@
+>completeCluster_0
+F44F4.2.1	FBtr0071407
+>completeCluster_1
+FBtr0071405	F44F4.2.2

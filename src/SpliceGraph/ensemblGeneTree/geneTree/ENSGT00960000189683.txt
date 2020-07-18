@@ -1,0 +1,1 @@
+(((ENSCJPG00005000971__Coturnix_japonica,ENSCJPG00005000513__Coturnix_japonica),ENSNMEG00000007143__Numida_meleagris),(ENSZALG00000014626__Zonotrichia_albicollis,ENSJHYG00000008222__Junco_hyemalis));

@@ -1,0 +1,9 @@
+>0
+ENSACIT00000023083: ['no event', 90, 0]
+ENSMALT00000003182: ['exon skipping', 0, 0]
+>1
+ENSACIT00000023083: ['exon skipping', 0, 0]
+ENSMALT00000003182: ['5event', 203, 0]
+>2
+ENSACIT00000023083: ['5event', 67, 1]
+ENSMALT00000003182: ['exon skipping', 0, 0]

@@ -1,0 +1,1 @@
+((((ENSMVIG00005011529__Manacus_vitellinus,ENSLCOG00000004782__Lepidothrix_coronata),ENSJHYG00000002684__Junco_hyemalis),((ENSCPBG00000014490__Chrysemys_picta_bellii,ENSGAGG00000019695__Gopherus_agassizii),ENSNGAG00000024238__Nannospalax_galili)),ENSSFOG00015009412__Scleropages_formosus);

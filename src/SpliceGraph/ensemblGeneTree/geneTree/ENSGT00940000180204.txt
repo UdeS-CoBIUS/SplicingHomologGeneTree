@@ -1,0 +1,1 @@
+((ENSOMEG00000020509__Oryzias_melastigma,ENSORLG00015018642__Oryzias_latipes_ASM223469v1),ENSTNIG00000011885__Tetraodon_nigroviridis);

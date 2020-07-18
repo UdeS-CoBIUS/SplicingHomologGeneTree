@@ -1,0 +1,1 @@
+(((((ENSMALG00000014689__Monopterus_albus,ENSPFOG00000009421__Poecilia_formosa),ENSGACG00000008701__Gasterosteus_aculeatus),(ENSAMXG00000012066__Astyanax_mexicanus,ENSIPUG00000006932__Ictalurus_punctatus)),ENSPKIG00000023237__Paramormyrops_kingsleyae),ENSLOCG00000004861__Lepisosteus_oculatus);

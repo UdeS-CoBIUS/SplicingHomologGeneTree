@@ -1,0 +1,1 @@
+(((ENSAOCG00000004501__Amphiprion_ocellaris,ENSSMAG00000001871__Scophthalmus_maximus),ENSPKIG00000013723__Paramormyrops_kingsleyae),(ENSUAMG00000013648__Ursus_americanus,ENSUMAG00000010074__Ursus_maritimus));

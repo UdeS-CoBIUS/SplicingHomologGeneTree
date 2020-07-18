@@ -1,0 +1,1 @@
+(ENSOARG00000012548__Ovis_aries,ENSTBEG00000001452__Tupaia_belangeri);

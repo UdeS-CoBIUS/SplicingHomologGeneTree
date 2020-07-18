@@ -1,0 +1,1 @@
+(((ENSAPEG00000000718__Amphiprion_percula,ENSSPAG00000006754__Stegastes_partitus),ENSACIG00000011929__Amphilophus_citrinellus),(((ENSMUGG00000011880__Meriones_unguiculatus,ENSMUGG00000011875__Meriones_unguiculatus),ENSG00000274322__Homo_sapiens),ENSVVUG00000022071__Vulpes_vulpes));

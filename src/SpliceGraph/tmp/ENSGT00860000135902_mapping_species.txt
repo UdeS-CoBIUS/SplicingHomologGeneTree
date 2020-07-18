@@ -1,0 +1,5 @@
+EQUUSCABALLUS	equus_caballus
+EQUUSCABALLUS	equus_caballus
+EQUUSCABALLUS	equus_caballus
+CRICETULUSGRISEUSCHOK1GSHD	cricetulus_griseus_chok1gshd
+ECHINOPSTELFAIRI	echinops_telfairi

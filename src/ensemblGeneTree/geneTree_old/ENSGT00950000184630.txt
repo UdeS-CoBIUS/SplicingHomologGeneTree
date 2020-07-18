@@ -1,1 +1,0 @@
-(ENSSMAG00000005535__Scophthalmus_maximus,ENSATEG00000019709__Anabas_testudineus);

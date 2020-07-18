@@ -1,0 +1,1 @@
+(((ENSMPUG00000000679__Mustela_putorius_furo,ENSPVAG00000008141__Pteropus_vampyrus),((ENSFALG00000000041__Ficedula_albicollis,ENSFALG00000013940__Ficedula_albicollis),ENSSHAG00000004747__Sarcophilus_harrisii)),ENSORLG00015001723__Oryzias_latipes_ASM223469v1);

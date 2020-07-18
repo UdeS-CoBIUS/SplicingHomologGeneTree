@@ -1,0 +1,1 @@
+((ENSCGRG00015014789__Cricetulus_griseus_CriGri-PICR,ENSPEMG00000025950__Peromyscus_maniculatus_bairdii),(((ENSMSIG00000013017__Mus_spicilegus,ENSMSIG00000004617__Mus_spicilegus),ENSMSIG00000015073__Mus_spicilegus),ENSMUGG00000012437__Meriones_unguiculatus));

@@ -1,0 +1,4 @@
+FBpp0080312	FBgn0028947	Drosophila_melanogaster	FBtr0080753
+FBpp0080342	FBgn0028944	Drosophila_melanogaster	FBtr0080784
+4R79.1a.1	WBGene00003525	Caenorhabditis_elegans_strain_N2	4R79.1a.1
+ENSHCOP00000021028	ENSHCOG00000007547	Hippocampus_comes

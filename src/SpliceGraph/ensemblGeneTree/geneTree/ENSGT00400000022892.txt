@@ -1,0 +1,1 @@
+(((ENSPPYG00000001852__Pongo_abelii,ENSSARG00000009715__Sorex_araneus),ENSTBEG00000002855__Tupaia_belangeri),ENSETEG00000012125__Echinops_telfairi);

@@ -1,0 +1,1 @@
+(((ENSTRUG00000022849__Takifugu_rubripes,ENSTRUG00000024800__Takifugu_rubripes),((ENSAHAG00000017021__Apteryx_haastii,ENSAPLG00000011112__Anas_platyrhynchos_platyrhynchos),ENSNLEG00000014833__Nomascus_leucogenys)),(ENSPMAG00000007646__Petromyzon_marinus,ENSPMAG00000006940__Petromyzon_marinus));

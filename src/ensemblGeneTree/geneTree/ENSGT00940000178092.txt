@@ -1,0 +1,1 @@
+(((ENSPMEG00000009909__Poecilia_mexicana,ENSPLAG00000014554__Poecilia_latipinna),ENSCVAG00000020344__Cyprinodon_variegatus),((ENSSPAG00000022011__Stegastes_partitus,ENSAPOG00000011464__Acanthochromis_polyacanthus),(ENSPNYG00000010989__Pundamilia_nyererei,ENSHBUG00000001176__Haplochromis_burtoni)));

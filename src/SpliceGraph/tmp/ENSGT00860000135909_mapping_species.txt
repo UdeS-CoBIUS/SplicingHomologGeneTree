@@ -1,0 +1,14 @@
+HOMOSAPIENS	homo_sapiens
+GORILLAGORILLA	gorilla_gorilla
+PANTROGLODYTES	pan_troglodytes
+NOMASCUSLEUCOGENYS	nomascus_leucogenys
+MACACAFASCICULARIS	macaca_fascicularis
+MACACAMULATTA	macaca_mulatta
+MACACANEMESTRINA	macaca_nemestrina
+RHINOPITHECUSBIETI	rhinopithecus_bieti
+RHINOPITHECUSROXELLANA	rhinopithecus_roxellana
+COLOBUSANGOLENSIS	colobus_angolensis
+PAPIOANUBIS	papio_anubis
+SAIMIRIBOLIVIENSIS	saimiri_boliviensis
+CEBUSCAPUCINUS	cebus_capucinus
+AOTUSNANCYMAAE	aotus_nancymaae

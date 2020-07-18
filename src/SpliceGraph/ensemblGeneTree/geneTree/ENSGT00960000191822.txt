@@ -1,0 +1,1 @@
+(ENSOANG00000022174__Ornithorhynchus_anatinus,ENSSCAG00000009301__Serinus_canaria);

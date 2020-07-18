@@ -1,1 +1,0 @@
-(((((ENSAPEG00000010207__Amphiprion_percula,ENSAPEG00000024817__Amphiprion_percula),ENSAOCG00000001301__Amphiprion_ocellaris),ENSAPOG00000006464__Acanthochromis_polyacanthus),ENSMMOG00000010636__Mola_mola),ENSNPEG00000009211__Nothoprocta_perdicaria);

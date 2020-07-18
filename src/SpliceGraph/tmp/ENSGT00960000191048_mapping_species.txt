@@ -1,0 +1,3 @@
+NUMIDAMELEAGRIS	numida_meleagris
+COTURNIXJAPONICA	coturnix_japonica
+ANSERBRACHYRHYNCHUS	anser_brachyrhynchus

@@ -1,0 +1,1 @@
+(((ENSMMMG00000017241__Marmota_marmota_marmota,ENSSDAG00000020118__Spermophilus_dauricus),ENSPTEG00000025574__Piliocolobus_tephrosceles),ENSFCAG00000039474__Felis_catus);

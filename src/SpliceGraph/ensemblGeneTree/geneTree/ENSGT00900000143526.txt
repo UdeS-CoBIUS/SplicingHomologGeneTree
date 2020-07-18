@@ -1,0 +1,1 @@
+((ENSSSCG00000032539__Sus_scrofa,ENSCHIG00000010809__Capra_hircus),((((((ENSTGEG00000012394__Theropithecus_gelada,ENSCATG00000023513__Cercocebus_atys),ENSPANG00000030547__Papio_anubis),ENSMMUG00000043808__Macaca_mulatta),ENSPTEG00000016989__Piliocolobus_tephrosceles),ENSNLEG00000033063__Nomascus_leucogenys),ENSANAG00000020012__Aotus_nancymaae));

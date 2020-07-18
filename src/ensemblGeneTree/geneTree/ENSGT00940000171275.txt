@@ -1,0 +1,1 @@
+((ENSAMEG00000019062__Ailuropoda_melanoleuca,ENSTBEG00000009161__Tupaia_belangeri),ENSLAFG00000014988__Loxodonta_africana);

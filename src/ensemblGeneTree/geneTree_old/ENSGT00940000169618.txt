@@ -1,1 +1,0 @@
-(((ENSGACG00000018191__Gasterosteus_aculeatus,ENSPFOG00000005947__Poecilia_formosa),ENSGMOG00000013152__Gadus_morhua),ENSABRG00000009698__Anser_brachyrhynchus);

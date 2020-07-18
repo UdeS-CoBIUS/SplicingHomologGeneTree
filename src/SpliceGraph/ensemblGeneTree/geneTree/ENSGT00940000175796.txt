@@ -1,0 +1,1 @@
+(((ENSSLDG00000010435__Seriola_lalandi_dorsalis,ENSPREG00000015944__Poecilia_reticulata),ENSNBRG00000011374__Neolamprologus_brichardi),((((ENSSDAG00000018429__Spermophilus_dauricus,ENSEASG00005016333__Equus_asinus_asinus),ENSPTRG00000042995__Pan_troglodytes),ENSVURG00010004653__Vombatus_ursinus),ENSSPUG00000000068__Sphenodon_punctatus));

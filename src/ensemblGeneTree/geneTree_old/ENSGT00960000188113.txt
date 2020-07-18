@@ -1,1 +1,0 @@
-(ENSCSEG00000013090__Cynoglossus_semilaevis,ENSPMEG00000020608__Poecilia_mexicana);

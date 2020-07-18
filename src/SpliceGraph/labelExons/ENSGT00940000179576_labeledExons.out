@@ -1,0 +1,24 @@
+>0
+ENSHCOT00000000394: ['no event', 63, 0]
+ENSHCOT00000000358: ['no event', 63, 0]
+ENSHCOT00000000374: ['no event', 63, 0]
+>1
+ENSHCOT00000000394: ['no event', 25, 1]
+ENSHCOT00000000358: ['no event', 25, 1]
+ENSHCOT00000000374: ['exon skipping', 0, 0]
+>2
+ENSHCOT00000000394: ['exon skipping', 0, 0]
+ENSHCOT00000000358: ['no event', 3, 0]
+ENSHCOT00000000374: ['exon skipping', 0, 0]
+>3
+ENSHCOT00000000394: ['exon skipping', 0, 0]
+ENSHCOT00000000358: ['no event', 40, 1]
+ENSHCOT00000000374: ['5event', 20, 1]
+>4
+ENSHCOT00000000394: ['5event', 119, 0]
+ENSHCOT00000000358: [['internal gap >= 30', 1, 80], 102, 0]
+ENSHCOT00000000374: ['no event', 182, 1]
+>5
+ENSHCOT00000000394: ['exon skipping', 0, 0]
+ENSHCOT00000000358: ['exon skipping', 0, 0]
+ENSHCOT00000000374: ['no event', 5, 0]

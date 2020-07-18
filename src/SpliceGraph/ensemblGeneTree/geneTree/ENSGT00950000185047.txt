@@ -1,0 +1,1 @@
+((((ENSCAFG00020004496__Canis_lupus_dingo,ENSCAFG00020016713__Canis_lupus_dingo),((ENSUMAG00000000274__Ursus_maritimus,ENSUMAG00000004664__Ursus_maritimus),(ENSVVUG00000010433__Vulpes_vulpes,ENSCAFG00020020761__Canis_lupus_dingo))),ENSNVIG00000023774__Neovison_vison),ENSFCAG00000032851__Felis_catus);

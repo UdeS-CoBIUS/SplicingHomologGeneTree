@@ -1,1 +1,0 @@
-((ENSZALG00000010258__Zonotrichia_albicollis,ENSJHYG00000010277__Junco_hyemalis),ENSLCOG00000008050__Lepidothrix_coronata);

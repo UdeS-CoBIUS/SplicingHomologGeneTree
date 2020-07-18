@@ -1,0 +1,3 @@
+FUNDULUSHETEROCLITUS	fundulus_heteroclitus
+KRYPTOLEBIASMARMORATUS	kryptolebias_marmoratus
+SCLEROPAGESFORMOSUS	scleropages_formosus

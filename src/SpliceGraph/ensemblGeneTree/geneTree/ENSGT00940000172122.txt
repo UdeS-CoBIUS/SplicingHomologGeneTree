@@ -1,0 +1,1 @@
+((ENSTRUG00000002202__Takifugu_rubripes,ENSHCOG00000006332__Hippocampus_comes),FBgn0035924__Drosophila_melanogaster);

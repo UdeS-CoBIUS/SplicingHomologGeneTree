@@ -1,0 +1,1 @@
+((((ENSPMEG00000020245__Poecilia_mexicana,ENSPLAG00000017360__Poecilia_latipinna),ENSPREG00000010412__Poecilia_reticulata),ENSXMAG00000028719__Xiphophorus_maculatus),(ENSORLG00000027298__Oryzias_latipes_ASM223467v1,ENSORLG00015012882__Oryzias_latipes_ASM223469v1));

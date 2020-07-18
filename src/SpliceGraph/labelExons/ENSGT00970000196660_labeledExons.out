@@ -1,0 +1,12 @@
+>0
+T06E4.9.1: ['no event', 13, 0]
+T06E4.8.1: ['exon skipping', 0, 0]
+>1
+T06E4.9.1: ['exon skipping', 0, 0]
+T06E4.8.1: ['5event', 61, 0]
+>2
+T06E4.9.1: ['5event', 530, 2]
+T06E4.8.1: ['no event', 531, 2]
+>3
+T06E4.9.1: ['no event', 6, 2]
+T06E4.8.1: ['no event', 6, 2]

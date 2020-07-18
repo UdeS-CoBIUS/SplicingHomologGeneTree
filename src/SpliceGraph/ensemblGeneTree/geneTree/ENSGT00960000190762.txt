@@ -1,0 +1,1 @@
+((ENSCCEG00000019225__Cyanistes_caeruleus,ENSSCAG00000004461__Serinus_canaria),ENSNMEG00000018351__Numida_meleagris);

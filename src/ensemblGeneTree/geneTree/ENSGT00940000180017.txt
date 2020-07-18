@@ -1,0 +1,1 @@
+((ENSMAMG00000006076__Mastacembelus_armatus,ENSMALG00000022309__Monopterus_albus),(ENSMMOG00000002970__Mola_mola,ENSLCRG00005003789__Larimichthys_crocea));

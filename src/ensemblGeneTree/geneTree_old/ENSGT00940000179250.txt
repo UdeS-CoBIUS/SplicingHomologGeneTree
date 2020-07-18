@@ -1,1 +1,0 @@
-((ENSPNAG00000010573__Pygocentrus_nattereri,ENSAMXG00000029609__Astyanax_mexicanus),ENSAPEG00000001090__Amphiprion_percula);

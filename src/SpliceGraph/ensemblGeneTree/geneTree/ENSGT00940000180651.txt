@@ -1,0 +1,1 @@
+((ENSCJPG00005001588__Coturnix_japonica,ENSLSDG00000002649__Lonchura_striata_domestica),ENSSDUG00000003163__Seriola_dumerili);

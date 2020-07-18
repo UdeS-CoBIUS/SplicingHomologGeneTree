@@ -1,0 +1,1 @@
+((ENSNVIG00000001733__Neovison_vison,ENSVVUG00000023011__Vulpes_vulpes),(ENSPTIG00000009249__Panthera_tigris_altaica,ENSFCAG00000042119__Felis_catus));

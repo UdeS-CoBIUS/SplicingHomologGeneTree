@@ -1,0 +1,1 @@
+(((ENSBMUG00000018394__Bos_mutus,ENSBTAG00000052814__Bos_taurus),ENSPTEG00000016064__Piliocolobus_tephrosceles),ENSMVIG00005014640__Manacus_vitellinus);

@@ -1,0 +1,1 @@
+((ENSLOCG00000000307__Lepisosteus_oculatus,ENSTNIG00000008084__Tetraodon_nigroviridis),(ENSODEG00000017598__Octodon_degus,MGP_SPRETEiJ_G0030842__Mus_spretus_strain_SPRET/EiJ));

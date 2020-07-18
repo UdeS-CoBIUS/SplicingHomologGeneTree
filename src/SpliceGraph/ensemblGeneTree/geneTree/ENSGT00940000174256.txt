@@ -1,0 +1,1 @@
+((((ENSTGEG00000019919__Theropithecus_gelada,ENSMFAG00000042649__Macaca_fascicularis),ENSPTEG00000001150__Piliocolobus_tephrosceles),(ENSMOCG00000015356__Microtus_ochrogaster,ENSMUGG00000006031__Meriones_unguiculatus)),(ENSMALG00000012543__Monopterus_albus,ENSSFOG00015007903__Scleropages_formosus));

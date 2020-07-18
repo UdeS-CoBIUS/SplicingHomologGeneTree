@@ -1,0 +1,1 @@
+((ENSJJAG00000003998__Jaculus_jaculus,MGP_CAROLIEiJ_G0030902__Mus_caroli_strain_CAROLI_EIJ),ENSODEG00000006104__Octodon_degus);

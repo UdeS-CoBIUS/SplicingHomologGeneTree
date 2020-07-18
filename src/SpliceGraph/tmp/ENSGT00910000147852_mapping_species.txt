@@ -1,0 +1,8 @@
+NOMASCUSLEUCOGENYS	nomascus_leucogenys
+GORILLAGORILLA	gorilla_gorilla
+MACACAFASCICULARIS	macaca_fascicularis
+MACACANEMESTRINA	macaca_nemestrina
+MACACAMULATTA	macaca_mulatta
+THEROPITHECUSGELADA	theropithecus_gelada
+PAPIOANUBIS	papio_anubis
+CERCOCEBUSATYS	cercocebus_atys

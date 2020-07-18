@@ -1,0 +1,1 @@
+(((ENSCPUG00000013149__Calidris_pugnax,ENSCPUG00000015769__Calidris_pugnax),ENSSCAG00000016825__Serinus_canaria),(((ENSNMEG00000019522__Numida_meleagris,ENSNMEG00000019525__Numida_meleagris),ENSCJPG00005006427__Coturnix_japonica),(ENSAPLG00000017334__Anas_platyrhynchos_platyrhynchos,ENSAPLG00000021146__Anas_platyrhynchos_platyrhynchos)));

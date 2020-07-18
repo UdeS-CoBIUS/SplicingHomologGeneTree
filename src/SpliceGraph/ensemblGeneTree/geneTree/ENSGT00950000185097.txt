@@ -1,0 +1,1 @@
+(((((ENSUAMG00000020448__Ursus_americanus,ENSUMAG00000007876__Ursus_maritimus),ENSSSCG00000033710__Sus_scrofa),ENSPSMG00000018084__Prolemur_simus),((ENSUAMG00000021160__Ursus_americanus,ENSUMAG00000007252__Ursus_maritimus),ENSMSIG00000001802__Mus_spicilegus)),ENSAPLG00000020661__Anas_platyrhynchos_platyrhynchos);

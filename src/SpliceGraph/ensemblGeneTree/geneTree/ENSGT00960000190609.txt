@@ -1,0 +1,1 @@
+((ENSVVUG00000007232__Vulpes_vulpes,ENSOCUG00000032853__Oryctolagus_cuniculus),(ENSLCOG00000006627__Lepidothrix_coronata,ENSMVIG00005018178__Manacus_vitellinus));

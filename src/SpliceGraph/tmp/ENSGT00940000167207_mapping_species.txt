@@ -1,0 +1,15 @@
+DANIORERIO	danio_rerio
+DANIORERIO	danio_rerio
+DANIORERIO	danio_rerio
+DANIORERIO	danio_rerio
+ANASPLATYRHYNCHOSPLATYRHYNCHOS	anas_platyrhynchos_platyrhynchos
+ANSERBRACHYRHYNCHUS	anser_brachyrhynchus
+GALLUSGALLUS	gallus_gallus
+MELEAGRISGALLOPAVO	meleagris_gallopavo
+COTURNIXJAPONICA	coturnix_japonica
+NUMIDAMELEAGRIS	numida_meleagris
+DROMAIUSNOVAEHOLLANDIAE	dromaius_novaehollandiae
+APTERYXROWI	apteryx_rowi
+APTERYXHAASTII	apteryx_haastii
+CALIDRISPUGNAX	calidris_pugnax
+PARUSMAJOR	parus_major

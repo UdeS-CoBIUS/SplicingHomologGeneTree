@@ -1,1 +1,0 @@
-(ENSCGRG00015020943__Cricetulus_griseus_CriGri-PICR,ENSHGLG00000002737__Heterocephalus_glaber_HetGla_female_1.0);

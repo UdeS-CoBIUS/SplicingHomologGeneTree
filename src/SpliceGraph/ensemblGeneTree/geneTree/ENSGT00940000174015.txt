@@ -1,0 +1,1 @@
+((((ENSBBBG00000008184__Bison_bison_bison,ENSBBBG00000006328__Bison_bison_bison),ENSBTAG00000052625__Bos_taurus),((ENSBTAG00000051487__Bos_taurus,ENSBMUG00000022307__Bos_mutus),ENSBBBG00000011154__Bison_bison_bison)),(ENSMMUG00000044877__Macaca_mulatta,ENSCANG00000012515__Colobus_angolensis_palliatus));

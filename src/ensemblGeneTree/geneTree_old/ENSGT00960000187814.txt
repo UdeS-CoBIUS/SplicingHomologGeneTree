@@ -1,1 +1,0 @@
-((ENSDNVG00000006044__Dromaius_novaehollandiae,ENSNPEG00000008321__Nothoprocta_perdicaria),(((ENSLSDG00000002047__Lonchura_striata_domestica,ENSTGUG00000009249__Taeniopygia_guttata),ENSMVIG00005001153__Manacus_vitellinus),((ENSGALG00000011745__Gallus_gallus,ENSMGAG00000011831__Meleagris_gallopavo),ENSNMEG00000011065__Numida_meleagris)));

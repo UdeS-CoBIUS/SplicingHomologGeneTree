@@ -1,1 +1,0 @@
-((ENSAOCG00000023186__Amphiprion_ocellaris,ENSCVAG00000004090__Cyprinodon_variegatus),ENSSLDG00000018982__Seriola_lalandi_dorsalis);

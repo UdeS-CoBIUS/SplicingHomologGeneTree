@@ -1,0 +1,4 @@
+JACULUSJACULUS	jaculus_jaculus
+NANNOSPALAXGALILI	nannospalax_galili
+OCTODONDEGUS	octodon_degus
+DIPODOMYSORDII	dipodomys_ordii

@@ -1,0 +1,1 @@
+((ENSSDUG00000007483__Seriola_dumerili,ENSSLDG00000020471__Seriola_lalandi_dorsalis),ENSLBEG00000003996__Labrus_bergylta);

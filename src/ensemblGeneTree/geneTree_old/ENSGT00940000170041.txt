@@ -1,1 +1,0 @@
-(((ENSCSAVG00000002197__Ciona_savignyi,ENSCSAVG00000002222__Ciona_savignyi),ENSCING00000008811__Ciona_intestinalis),WBGene00002269__Caenorhabditis_elegans_strain_N2);

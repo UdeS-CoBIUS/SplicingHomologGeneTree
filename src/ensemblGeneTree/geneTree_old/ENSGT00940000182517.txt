@@ -1,1 +1,0 @@
-(ENSPNAG00000021171__Pygocentrus_nattereri,ENSPREG00000012581__Poecilia_reticulata);

@@ -1,0 +1,1 @@
+(((ENSPMGG00000005478__Periophthalmus_magnuspinnatus,ENSPMEG00000008308__Poecilia_mexicana),ENSIPUG00000006539__Ictalurus_punctatus),ENSPKIG00000021039__Paramormyrops_kingsleyae);

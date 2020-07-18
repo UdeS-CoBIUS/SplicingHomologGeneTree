@@ -1,0 +1,1 @@
+((ENSOPRG00000012017__Ochotona_princeps,ENSTTRG00000007790__Tursiops_truncatus),(ENSPCAG00000010140__Procavia_capensis,ENSETEG00000007821__Echinops_telfairi));

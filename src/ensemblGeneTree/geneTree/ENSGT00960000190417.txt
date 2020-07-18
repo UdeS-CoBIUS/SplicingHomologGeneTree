@@ -1,0 +1,1 @@
+((ENSBBBG00000005952__Bison_bison_bison,ENSBBBG00000017448__Bison_bison_bison),ENSPTRG00000049240__Pan_troglodytes);

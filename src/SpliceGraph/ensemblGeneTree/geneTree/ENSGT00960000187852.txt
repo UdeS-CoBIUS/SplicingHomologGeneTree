@@ -1,0 +1,1 @@
+((ENSACLG00000023465__Astatotilapia_calliptera,ENSORLG00000022266__Oryzias_latipes_ASM223467v1),ENSAPOG00000011901__Acanthochromis_polyacanthus);

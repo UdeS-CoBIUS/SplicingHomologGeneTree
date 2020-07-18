@@ -1,0 +1,1 @@
+((((ENSVVUG00000020388__Vulpes_vulpes,ENSCAFG00020009736__Canis_lupus_dingo),ENSNVIG00000008153__Neovison_vison),ENSSSCG00000034917__Sus_scrofa),ENSMSIG00000003347__Mus_spicilegus);

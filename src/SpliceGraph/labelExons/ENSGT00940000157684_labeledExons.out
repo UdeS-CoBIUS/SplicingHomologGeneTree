@@ -1,0 +1,21 @@
+>0
+ENSLACT00000011347: [['internal gap < 30', 134, 3], 353, 0]
+ENSCMIT00000018142: ['no event', 356, 0]
+>1
+ENSLACT00000011347: [['internal gap < 30', 113, 12], 138, 0]
+ENSCMIT00000018142: ['no event', 150, 0]
+>2
+ENSLACT00000011347: [['internal gap >= 30', 1289, 87], 1540, 1]
+ENSCMIT00000018142: [['internal gap < 30', 1168, 18], 1609, 1]
+>3
+ENSLACT00000011347: ['no event', 582, 0]
+ENSCMIT00000018142: ['no event', 582, 0]
+>4
+ENSLACT00000011347: ['no event', 182, 1]
+ENSCMIT00000018142: ['no event', 182, 1]
+>5
+ENSLACT00000011347: ['no event', 106, 1]
+ENSCMIT00000018142: ['no event', 106, 1]
+>6
+ENSLACT00000011347: ['no event', 515, 0]
+ENSCMIT00000018142: ['no event', 515, 0]

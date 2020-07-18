@@ -1,0 +1,1 @@
+(((ENSAOWG00000016849__Apteryx_owenii,ENSAHAG00000009488__Apteryx_haastii),(ENSSCAG00000010438__Serinus_canaria,ENSZALG00000006072__Zonotrichia_albicollis)),((ENSPTIG00000015816__Panthera_tigris_altaica,ENSBMUG00000006346__Bos_mutus),(ENSSDAG00000015537__Spermophilus_dauricus,ENSMMUG00000020012__Macaca_mulatta)));

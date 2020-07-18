@@ -1,0 +1,1 @@
+(((ENSCING00000024746__Ciona_intestinalis,ENSCING00000018337__Ciona_intestinalis),(ENSPMAG00000004581__Petromyzon_marinus,ENSLACG00000010687__Latimeria_chalumnae)),(FBgn0265356__Drosophila_melanogaster,WBGene00003597__Caenorhabditis_elegans_strain_N2));

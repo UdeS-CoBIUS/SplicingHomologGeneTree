@@ -1,0 +1,1 @@
+((((ENSCVAG00000003672__Cyprinodon_variegatus,ENSXCOG00000017543__Xiphophorus_couchianus),ENSKMAG00000006656__Kryptolebias_marmoratus),ENSORLG00015017312__Oryzias_latipes_ASM223469v1),ENSSFOG00015011720__Scleropages_formosus);

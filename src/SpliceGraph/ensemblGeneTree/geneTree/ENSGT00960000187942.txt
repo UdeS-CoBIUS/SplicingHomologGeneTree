@@ -1,0 +1,1 @@
+(((ENSDORG00000025805__Dipodomys_ordii,ENSDORG00000030038__Dipodomys_ordii),ENSPCOG00000026332__Propithecus_coquereli),ENSCHIG00000011132__Capra_hircus);

@@ -1,0 +1,1 @@
+((((ENSCCNG00000026980__Castor_canadensis,ENSODEG00000002546__Octodon_degus),ENSJJAG00000016445__Jaculus_jaculus),(ENSPTEG00000030928__Piliocolobus_tephrosceles,ENSTGEG00000024974__Theropithecus_gelada)),(ENSSSCG00000034485__Sus_scrofa,ENSAMEG00000019047__Ailuropoda_melanoleuca));

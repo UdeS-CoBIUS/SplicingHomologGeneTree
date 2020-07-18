@@ -1,0 +1,1 @@
+(((ENSMAUG00000013727__Mesocricetus_auratus,ENSUPAG00010016034__Urocitellus_parryii),ENSCCNG00000011551__Castor_canadensis),(((ENSPTEG00000009476__Piliocolobus_tephrosceles,ENSPTEG00000009429__Piliocolobus_tephrosceles),ENSTGEG00000024928__Theropithecus_gelada),ENSPSMG00000011744__Prolemur_simus));

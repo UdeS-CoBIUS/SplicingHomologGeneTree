@@ -1,1 +1,0 @@
-(((ENSSFOG00015013664__Scleropages_formosus,ENSSFOG00015016803__Scleropages_formosus),ENSPKIG00000025135__Paramormyrops_kingsleyae),ENSEBUG00000008267__Eptatretus_burgeri);

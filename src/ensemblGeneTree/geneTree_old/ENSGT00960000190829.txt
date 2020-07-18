@@ -1,1 +1,0 @@
-((ENSMSIG00000023169__Mus_spicilegus,ENSPEMG00000027257__Peromyscus_maniculatus_bairdii),ENSSSCG00000032757__Sus_scrofa);

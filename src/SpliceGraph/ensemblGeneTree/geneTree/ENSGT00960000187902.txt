@@ -1,0 +1,1 @@
+((ENSTGUG00000009995__Taeniopygia_guttata,ENSFALG00000003950__Ficedula_albicollis),ENSAPLG00000005888__Anas_platyrhynchos_platyrhynchos);

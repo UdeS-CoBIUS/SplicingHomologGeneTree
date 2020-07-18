@@ -1,0 +1,1 @@
+((ENSMPUG00000011796__Mustela_putorius_furo,ENSCAFG00000028515__Canis_lupus_familiaris),ENSOARG00000020896__Ovis_aries);

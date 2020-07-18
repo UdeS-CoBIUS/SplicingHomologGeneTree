@@ -1,0 +1,4 @@
+URSUSMARITIMUS	ursus_maritimus
+URSUSAMERICANUS	ursus_americanus
+BOSTAURUS	bos_taurus
+CRICETULUSGRISEUSCRIGRI	cricetulus_griseus_crigri

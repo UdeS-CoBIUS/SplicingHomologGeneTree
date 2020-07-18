@@ -1,0 +1,1 @@
+(((ENSRBIG00000000734__Rhinopithecus_bieti,ENSSHAG00000008354__Sarcophilus_harrisii),ENSXETG00000023710__Xenopus_tropicalis),(ENSCSAVG00000011749__Ciona_savignyi,ENSCING00000009885__Ciona_intestinalis));

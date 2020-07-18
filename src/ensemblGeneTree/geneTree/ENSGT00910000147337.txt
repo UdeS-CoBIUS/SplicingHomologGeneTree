@@ -1,0 +1,1 @@
+(((ENSGGOG00000038279__Gorilla_gorilla,ENSPPAG00000037912__Pan_paniscus),(((ENSTGEG00000008703__Theropithecus_gelada,ENSPANG00000034145__Papio_anubis),ENSCATG00000029317__Cercocebus_atys),((ENSRBIG00000039640__Rhinopithecus_bieti,ENSRROG00000029343__Rhinopithecus_roxellana),ENSPTEG00000028683__Piliocolobus_tephrosceles))),ENSPSMG00000012126__Prolemur_simus);

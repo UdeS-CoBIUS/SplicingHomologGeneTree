@@ -1,0 +1,1 @@
+(((ENSMMMG00000010506__Marmota_marmota_marmota,ENSSDAG00000020106__Spermophilus_dauricus),ENSUPAG00010003554__Urocitellus_parryii),ENSOPRG00000013279__Ochotona_princeps);

@@ -1,0 +1,1 @@
+((((ENSMAUG00000021584__Mesocricetus_auratus,ENSMUGG00000005234__Meriones_unguiculatus),ENSHGLG00000014388__Heterocephalus_glaber_HetGla_female_1.0),((ENSPPRG00000002277__Panthera_pardus,ENSTTRG00000017061__Tursiops_truncatus),ENSECAG00000001900__Equus_caballus)),ENSPCAG00000009283__Procavia_capensis);

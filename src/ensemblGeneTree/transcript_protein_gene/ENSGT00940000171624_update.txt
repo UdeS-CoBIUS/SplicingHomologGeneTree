@@ -1,0 +1,2 @@
+ZK662.3b.2	WBGene00003638	Caenorhabditis_elegans_strain_N2	ZK662.3b.2
+FBpp0084131	FBgn0015240	Drosophila_melanogaster	FBtr0084756

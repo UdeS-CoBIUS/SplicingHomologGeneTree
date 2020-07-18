@@ -1,0 +1,1 @@
+((((ENSSCAG00000014559__Serinus_canaria,ENSMVIG00005008015__Manacus_vitellinus),ENSGALG00000054561__Gallus_gallus),ENSETEG00000017437__Echinops_telfairi),(ENSSPAG00000022349__Stegastes_partitus,ENSGAFG00000020795__Gambusia_affinis));

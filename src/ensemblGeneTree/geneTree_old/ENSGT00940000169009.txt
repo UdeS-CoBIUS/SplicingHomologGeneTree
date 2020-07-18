@@ -1,1 +1,0 @@
-(((ENSOARG00000017533__Ovis_aries,ENSSSCG00000034042__Sus_scrofa),ENSVVUG00000010366__Vulpes_vulpes),ENSMLEG00000040579__Mandrillus_leucophaeus);

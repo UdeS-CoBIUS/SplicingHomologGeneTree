@@ -1,0 +1,1 @@
+((((ENSSMRG00000010489__Salvator_merianae,ENSSMRG00000022144__Salvator_merianae),(ENSSMRG00000004284__Salvator_merianae,ENSSMRG00000000938__Salvator_merianae)),(ENSNSUG00000003325__Notechis_scutatus,ENSNSUG00000001275__Notechis_scutatus)),(ENSCPBG00000026414__Chrysemys_picta_bellii,ENSCABG00000003530__Chelonoidis_abingdonii));

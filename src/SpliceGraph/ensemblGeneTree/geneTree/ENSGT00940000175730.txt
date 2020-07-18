@@ -1,0 +1,1 @@
+(ENSOANG00000028969__Ornithorhynchus_anatinus,ENSSLDG00000002617__Seriola_lalandi_dorsalis);

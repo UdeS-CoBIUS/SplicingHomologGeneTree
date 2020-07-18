@@ -1,0 +1,1 @@
+((MGP_SPRETEiJ_G0016568__Mus_spretus_strain_SPRET/EiJ,MGP_CAROLIEiJ_G0015749__Mus_caroli_strain_CAROLI_EIJ),ENSPCOG00000026446__Propithecus_coquereli);

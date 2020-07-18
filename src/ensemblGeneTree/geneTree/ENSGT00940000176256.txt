@@ -1,0 +1,1 @@
+(((ENSTGEG00000009210__Theropithecus_gelada,ENSTGEG00000011852__Theropithecus_gelada),((ENSBBBG00000019932__Bison_bison_bison,ENSPPRG00000007213__Panthera_pardus),ENSMUGG00000008588__Meriones_unguiculatus)),ENSPKIG00000015432__Paramormyrops_kingsleyae);

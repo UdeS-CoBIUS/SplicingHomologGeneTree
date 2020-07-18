@@ -1,0 +1,1 @@
+((ENSLCOG00000003341__Lepidothrix_coronata,ENSOGAG00000025696__Otolemur_garnettii),ENSPKIG00000009454__Paramormyrops_kingsleyae);

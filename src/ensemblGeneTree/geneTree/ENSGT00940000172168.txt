@@ -1,0 +1,1 @@
+(ENSGMOG00000004847__Gadus_morhua,ENSEBUG00000003068__Eptatretus_burgeri);

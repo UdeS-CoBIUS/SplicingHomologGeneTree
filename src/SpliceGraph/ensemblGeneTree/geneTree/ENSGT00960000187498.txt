@@ -1,0 +1,1 @@
+((((ENSPCIG00000012982__Phascolarctos_cinereus,ENSMEUG00000001030__Notamacropus_eugenii),(ENSPCIG00000032656__Phascolarctos_cinereus,ENSSHAG00000002206__Sarcophilus_harrisii)),ENSCPRG00005008222__Crocodylus_porosus),ENSPMGG00000021691__Periophthalmus_magnuspinnatus);

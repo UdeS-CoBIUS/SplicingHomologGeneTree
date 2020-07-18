@@ -1,0 +1,1 @@
+(((ENSBIXG00005028211__Bos_indicus_x_Bos_taurus_UOA_Brahman_1,ENSBTAG00000050964__Bos_taurus),(ENSECAG00000029781__Equus_caballus,ENSEASG00005011136__Equus_asinus_asinus)),ENSCVAG00000017251__Cyprinodon_variegatus);

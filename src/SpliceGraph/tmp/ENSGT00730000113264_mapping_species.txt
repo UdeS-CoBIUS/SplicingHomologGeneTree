@@ -1,0 +1,5 @@
+APTERYXOWENII	apteryx_owenii
+APTERYXROWI	apteryx_rowi
+NOTHOPROCTAPERDICARIA	nothoprocta_perdicaria
+TAENIOPYGIAGUTTATA	taeniopygia_guttata
+FICEDULAALBICOLLIS	ficedula_albicollis

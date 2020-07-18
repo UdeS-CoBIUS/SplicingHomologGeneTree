@@ -1,1 +1,0 @@
-(ENSTGUG00000009854__Taeniopygia_guttata,ENSAPLG00000030468__Anas_platyrhynchos_platyrhynchos);

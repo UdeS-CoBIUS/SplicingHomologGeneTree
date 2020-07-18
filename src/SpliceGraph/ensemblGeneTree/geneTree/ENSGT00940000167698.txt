@@ -1,0 +1,1 @@
+((ENSFHEG00000000449__Fundulus_heteroclitus,ENSCVAG00000009400__Cyprinodon_variegatus),((((((ENSMAUG00000021221__Mesocricetus_auratus,ENSMOCG00000020494__Microtus_ochrogaster),ENSNGAG00000006217__Nannospalax_galili),ENSJJAG00000011666__Jaculus_jaculus),ENSDORG00000023707__Dipodomys_ordii),ENSBMUG00000004680__Bos_mutus),ENSCPGG00000010527__Calidris_pygmaea));

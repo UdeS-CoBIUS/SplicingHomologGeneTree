@@ -1,0 +1,1 @@
+((ENSXETG00000014968__Xenopus_tropicalis,ENSXETG00000014923__Xenopus_tropicalis),(((ENSNSUG00000015520__Notechis_scutatus,ENSNSUG00000015522__Notechis_scutatus),ENSNSUG00000015521__Notechis_scutatus),ENSNSUG00000015526__Notechis_scutatus));

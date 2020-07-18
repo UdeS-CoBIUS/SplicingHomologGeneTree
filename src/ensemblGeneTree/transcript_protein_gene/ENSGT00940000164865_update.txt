@@ -1,0 +1,18 @@
+C17H12.6a.1	WBGene00015932	Caenorhabditis_elegans_strain_N2	C17H12.6a.1
+C17H12.8.2	WBGene00015933	Caenorhabditis_elegans_strain_N2	C17H12.8.2
+F08G5.6.2	WBGene00008584	Caenorhabditis_elegans_strain_N2	F08G5.6.2
+H20E11.3.1	WBGene00019215	Caenorhabditis_elegans_strain_N2	H20E11.3.1
+H20E11.2.1	WBGene00019214	Caenorhabditis_elegans_strain_N2	H20E11.2.1
+H20E11.1a.1	WBGene00019213	Caenorhabditis_elegans_strain_N2	H20E11.1a.1
+C14C11.4.1	WBGene00015768	Caenorhabditis_elegans_strain_N2
+F53C11.1a.1	WBGene00009971	Caenorhabditis_elegans_strain_N2
+F20G2.5.1	WBGene00008988	Caenorhabditis_elegans_strain_N2
+F35E12.8a.1	WBGene00009432	Caenorhabditis_elegans_strain_N2
+F10A3.4.2	WBGene00008634	Caenorhabditis_elegans_strain_N2
+F35E12.9b.1	WBGene00009433	Caenorhabditis_elegans_strain_N2
+F35E12.10.2	WBGene00009434	Caenorhabditis_elegans_strain_N2
+F35E12.6.2	WBGene00009430	Caenorhabditis_elegans_strain_N2
+F35E12.5.1	WBGene00009429	Caenorhabditis_elegans_strain_N2
+F35E12.7a.1	WBGene00009431	Caenorhabditis_elegans_strain_N2
+F54B11.11.1	WBGene00010034	Caenorhabditis_elegans_strain_N2
+F35E12.2a.1	WBGene00009426	Caenorhabditis_elegans_strain_N2

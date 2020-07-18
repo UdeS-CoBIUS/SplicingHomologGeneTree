@@ -1,1 +1,0 @@
-(ENSNPEG00000005924__Nothoprocta_perdicaria,ENSCPGG00000014305__Calidris_pygmaea);

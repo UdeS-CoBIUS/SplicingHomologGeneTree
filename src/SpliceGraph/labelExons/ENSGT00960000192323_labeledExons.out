@@ -1,0 +1,12 @@
+>0
+ENSMAUT00000022511: ['no event', 100, 0]
+ENSNVIT00000027112: ['no event', 100, 0]
+>1
+ENSMAUT00000022511: ['no event', 66, 2]
+ENSNVIT00000027112: ['no event', 66, 2]
+>2
+ENSMAUT00000022511: ['exon skipping', 0, 0]
+ENSNVIT00000027112: ['no event', 122, 0]
+>3
+ENSMAUT00000022511: ['exon skipping', 0, 0]
+ENSNVIT00000027112: ['no event', 95, 0]

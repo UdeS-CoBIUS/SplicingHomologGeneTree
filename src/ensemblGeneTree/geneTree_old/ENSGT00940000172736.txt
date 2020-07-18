@@ -1,1 +1,0 @@
-(ENSCHOG00000008170__Choloepus_hoffmanni,ENSODEG00000000118__Octodon_degus);

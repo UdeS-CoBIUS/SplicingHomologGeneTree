@@ -1,0 +1,2 @@
+>completeCluster_0
+ZK354.9.1	F25B3.4.1	C23G10.1a.1

@@ -1,0 +1,2 @@
+YOR374W_mRNA	YOR374W	Saccharomyces_cerevisiae_strain_S288C
+YPL061W_mRNA	YPL061W	Saccharomyces_cerevisiae_strain_S288C

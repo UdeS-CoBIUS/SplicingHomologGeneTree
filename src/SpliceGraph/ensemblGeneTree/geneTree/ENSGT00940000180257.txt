@@ -1,0 +1,1 @@
+((ENSAMXG00000031324__Astyanax_mexicanus,ENSPNAG00000014188__Pygocentrus_nattereri),ENSPKIG00000013453__Paramormyrops_kingsleyae);

@@ -1,0 +1,6 @@
+#!/bin/sh
+
+export ISOSEL_BIN="/usr/local/bin/"
+unset MAFFT_BINARIES
+
+${ISOSEL_BIN}/isosel $@

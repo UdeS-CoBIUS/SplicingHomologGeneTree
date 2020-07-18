@@ -1,0 +1,8 @@
+>cluster_0
+Y116F11B.2.1	K02E2.8a.1
+>cluster_1
+C04G6.2.1	C04G6.13.1	K02E2.8b.1
+>cluster_2
+F54B8.1.1	M01B2.8.1
+>cluster_3
+F46B3.7.1	F46B3.8.1

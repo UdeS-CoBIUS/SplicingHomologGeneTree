@@ -1,0 +1,1 @@
+(((ENSPVIG00000005222__Pogona_vitticeps,ENSNSUG00000006481__Notechis_scutatus),ENSNMEG00000016007__Numida_meleagris),(((ENSMUGG00000006975__Meriones_unguiculatus,ENSMUGG00000006983__Meriones_unguiculatus),ENSTSYG00000030988__Carlito_syrichta),ENSBMUG00000022392__Bos_mutus));

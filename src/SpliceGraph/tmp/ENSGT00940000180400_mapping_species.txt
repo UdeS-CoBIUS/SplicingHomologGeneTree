@@ -1,0 +1,3 @@
+MAYLANDIAZEBRA	maylandia_zebra
+NEOLAMPROLOGUSBRICHARDI	neolamprologus_brichardi
+AMPHILOPHUSCITRINELLUS	amphilophus_citrinellus

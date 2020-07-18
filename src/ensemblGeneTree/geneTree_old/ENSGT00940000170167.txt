@@ -1,1 +1,0 @@
-((ENSPFOG00000008261__Poecilia_formosa,ENSCSAVG00000006406__Ciona_savignyi),FBgn0015524__Drosophila_melanogaster);

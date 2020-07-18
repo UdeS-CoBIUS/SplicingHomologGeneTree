@@ -1,0 +1,1 @@
+((ENSMAUG00000020202__Mesocricetus_auratus,ENSCGRG00001018314__Cricetulus_griseus_CHOK1GS_HDv1),ENSMSIG00000010517__Mus_spicilegus);

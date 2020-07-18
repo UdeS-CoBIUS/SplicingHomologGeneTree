@@ -1,0 +1,1 @@
+((ENSUPAG00010023919__Urocitellus_parryii,ENSOPRG00000012783__Ochotona_princeps),((ENSEEUG00000013686__Erinaceus_europaeus,ENSSARG00000001704__Sorex_araneus),ENSOARG00000009114__Ovis_aries));

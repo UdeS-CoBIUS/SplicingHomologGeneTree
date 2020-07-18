@@ -1,0 +1,1 @@
+((((ENSMLEG00000034602__Mandrillus_leucophaeus,ENSTSYG00000032739__Carlito_syrichta),ENSUAMG00000017191__Ursus_americanus),ENSBMUG00000015047__Bos_mutus),ENSCPGG00000004303__Calidris_pygmaea);

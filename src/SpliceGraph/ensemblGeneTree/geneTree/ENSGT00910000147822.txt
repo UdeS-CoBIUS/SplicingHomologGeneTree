@@ -1,0 +1,1 @@
+((((ENSRBIG00000022825__Rhinopithecus_bieti,ENSRROG00000019808__Rhinopithecus_roxellana),ENSPANG00000035855__Papio_anubis),ENSSBOG00000034022__Saimiri_boliviensis_boliviensis),((ENSUPAG00010006967__Urocitellus_parryii,ENSMMMG00000000226__Marmota_marmota_marmota),ENSSDAG00000012527__Spermophilus_dauricus));

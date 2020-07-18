@@ -1,0 +1,1 @@
+(((ENSUAMG00000027079__Ursus_americanus,ENSUMAG00000022614__Ursus_maritimus),ENSMODG00000049355__Monodelphis_domestica),(ENSMUNG00000006104__Melopsittacus_undulatus,ENSGAGG00000001972__Gopherus_agassizii));

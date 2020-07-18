@@ -1,0 +1,1 @@
+(((ENSLCOG00000016188__Lepidothrix_coronata,ENSLSDG00000013313__Lonchura_striata_domestica),(((ENSAOWG00000004634__Apteryx_owenii,ENSARWG00000010713__Apteryx_rowi),ENSAHAG00000018995__Apteryx_haastii),ENSSMRG00000012599__Salvator_merianae)),((ENSUMAG00000004050__Ursus_maritimus,ENSCAFG00020019748__Canis_lupus_dingo),ENSTGEG00000003746__Theropithecus_gelada));

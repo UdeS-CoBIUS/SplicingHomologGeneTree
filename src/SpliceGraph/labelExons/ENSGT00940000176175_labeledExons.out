@@ -1,0 +1,28 @@
+>0
+FBtr0078619: ['3event', 43, 0]
+FBtr0112922: ['3event', 43, 0]
+FBtr0072879: ['5event', 29, 0]
+>1
+FBtr0078619: ['5event', 209, 1]
+FBtr0112922: ['5event', 209, 1]
+FBtr0072879: ['exon skipping', 0, 0]
+>2
+FBtr0078619: ['no event', 188, 1]
+FBtr0112922: ['no event', 188, 1]
+FBtr0072879: ['exon skipping', 0, 0]
+>3
+FBtr0078619: ['no event', 210, 1]
+FBtr0112922: ['no event', 210, 1]
+FBtr0072879: ['exon skipping', 0, 0]
+>4
+FBtr0078619: ['no event', 120, 2]
+FBtr0112922: ['exon skipping', 0, 0]
+FBtr0072879: ['exon skipping', 0, 0]
+>5
+FBtr0078619: ['exon skipping', 0, 0]
+FBtr0112922: ['5event', 51, 2]
+FBtr0072879: ['exon skipping', 0, 0]
+>6
+FBtr0078619: ['exon skipping', 0, 0]
+FBtr0112922: ['exon skipping', 0, 0]
+FBtr0072879: ['5event', 860, 0]

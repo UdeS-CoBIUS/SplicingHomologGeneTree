@@ -1,0 +1,1 @@
+(((ENSPSIG00000013652__Pelodiscus_sinensis,ENSSPUG00000002373__Sphenodon_punctatus),(((ENSMLUG00000006062__Myotis_lucifugus,ENSCAPG00000011661__Cavia_aperea),ENSSHAG00000012847__Sarcophilus_harrisii),ENSOANG00000012170__Ornithorhynchus_anatinus)),ENSXETG00000008973__Xenopus_tropicalis);

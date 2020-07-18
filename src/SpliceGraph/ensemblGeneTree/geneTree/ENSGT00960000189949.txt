@@ -1,0 +1,1 @@
+(((ENSNMEG00000022561__Numida_meleagris,ENSCJPG00005013298__Coturnix_japonica),ENSZALG00000014353__Zonotrichia_albicollis),ENSMUNG00000013443__Melopsittacus_undulatus);

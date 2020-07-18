@@ -1,0 +1,1 @@
+(ENSSARG00000010656__Sorex_araneus,ENSEEUG00000005747__Erinaceus_europaeus);

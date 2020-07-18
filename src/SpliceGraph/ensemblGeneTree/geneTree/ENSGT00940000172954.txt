@@ -1,0 +1,1 @@
+(ENSSMAG00000000696__Scophthalmus_maximus,FBgn0260660__Drosophila_melanogaster);

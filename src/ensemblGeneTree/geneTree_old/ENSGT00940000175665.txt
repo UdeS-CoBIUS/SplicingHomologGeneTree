@@ -1,1 +1,0 @@
-((ENSCAPG00000006438__Cavia_aperea,ENSSSCG00000037330__Sus_scrofa),ENSFHEG00000012513__Fundulus_heteroclitus);

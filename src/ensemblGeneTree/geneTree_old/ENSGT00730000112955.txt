@@ -1,1 +1,0 @@
-((((((ENSIPUG00000019229__Ictalurus_punctatus,ENSPNAG00000001428__Pygocentrus_nattereri),ENSDARG00000093823__Danio_rerio),ENSSPAG00000011335__Stegastes_partitus),ENSLOCG00000008042__Lepisosteus_oculatus),ENSLACG00000016683__Latimeria_chalumnae),ENSPMAG00000002958__Petromyzon_marinus);

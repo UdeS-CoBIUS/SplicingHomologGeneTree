@@ -1,0 +1,1 @@
+(((ENSOARG00000002428__Ovis_aries,ENSOARG00000006290__Ovis_aries),ENSCCAG00000023837__Cebus_capucinus_imitator),ENSNBRG00000006542__Neolamprologus_brichardi);

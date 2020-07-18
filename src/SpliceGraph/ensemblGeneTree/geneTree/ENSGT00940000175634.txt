@@ -1,0 +1,1 @@
+(((((ENSCSEG00000019773__Cynoglossus_semilaevis,ENSCSEG00000019777__Cynoglossus_semilaevis),ENSHCOG00000017103__Hippocampus_comes),ENSPMGG00000007152__Periophthalmus_magnuspinnatus),(ENSOMEG00000019053__Oryzias_melastigma,ENSMZEG00005017937__Maylandia_zebra)),ENSDARG00000079769__Danio_rerio);

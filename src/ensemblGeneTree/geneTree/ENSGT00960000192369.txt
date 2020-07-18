@@ -1,0 +1,1 @@
+(ENSRNOG00000054487__Rattus_norvegicus,ENSMUGG00000000193__Meriones_unguiculatus);

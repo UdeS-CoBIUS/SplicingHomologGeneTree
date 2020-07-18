@@ -1,0 +1,1 @@
+((ENSFALG00000006362__Ficedula_albicollis,ENSPMJG00000011914__Parus_major),((ENSZALG00000017180__Zonotrichia_albicollis,ENSJHYG00000017500__Junco_hyemalis),ENSSCAG00000016910__Serinus_canaria));

@@ -1,0 +1,1 @@
+((((ENSZALG00000001408__Zonotrichia_albicollis,ENSCCEG00000020940__Cyanistes_caeruleus),ENSSCAG00000014454__Serinus_canaria),ENSLCOG00000001708__Lepidothrix_coronata),ENSMUNG00000010551__Melopsittacus_undulatus);

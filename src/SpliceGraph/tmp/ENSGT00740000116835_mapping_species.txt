@@ -1,0 +1,6 @@
+PARAMORMYROPSKINGSLEYAE	paramormyrops_kingsleyae
+PARAMORMYROPSKINGSLEYAE	paramormyrops_kingsleyae
+ICTALURUSPUNCTATUS	ictalurus_punctatus
+GASTEROSTEUSACULEATUS	gasterosteus_aculeatus
+LEPISOSTEUSOCULATUS	lepisosteus_oculatus
+LEPISOSTEUSOCULATUS	lepisosteus_oculatus

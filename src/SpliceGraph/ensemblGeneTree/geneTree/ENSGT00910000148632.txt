@@ -1,0 +1,1 @@
+(((ENSVVUG00000018462__Vulpes_vulpes,ENSCAFG00020013755__Canis_lupus_dingo),(ENSBMUG00000018841__Bos_mutus,ENSBBBG00000014905__Bison_bison_bison)),(ENSPANG00000034236__Papio_anubis,ENSNLEG00000030295__Nomascus_leucogenys));

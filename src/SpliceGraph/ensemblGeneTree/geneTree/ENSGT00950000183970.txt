@@ -1,0 +1,1 @@
+((((ENSCANG00000035821__Colobus_angolensis_palliatus,ENSTGEG00000027701__Theropithecus_gelada),(ENSPTRG00000013834__Pan_troglodytes,ENSG00000184351__Homo_sapiens)),ENSCJAG00000041114__Callithrix_jacchus),((ENSPTIG00000005186__Panthera_tigris_altaica,ENSPPRG00000012008__Panthera_pardus),ENSFCAG00000041895__Felis_catus));

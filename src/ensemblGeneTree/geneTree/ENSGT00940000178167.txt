@@ -1,0 +1,1 @@
+((((ENSPLAG00000021240__Poecilia_latipinna,ENSPMEG00000013403__Poecilia_mexicana),ENSCVAG00000017137__Cyprinodon_variegatus),ENSOMEG00000006284__Oryzias_melastigma),(ENSAPEG00000007354__Amphiprion_percula,ENSAOCG00000009287__Amphiprion_ocellaris));

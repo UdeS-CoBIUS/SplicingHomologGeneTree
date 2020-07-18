@@ -1,0 +1,75 @@
+>0
+ENSDART00000142529: ['no event', 66, 0]
+ENSLOCT00000014213: ['exon skipping', 0, 0]
+>1
+ENSDART00000142529: ['no event', 115, 1]
+ENSLOCT00000014213: ['exon skipping', 0, 0]
+>2
+ENSDART00000142529: ['no event', 125, 0]
+ENSLOCT00000014213: ['exon skipping', 0, 0]
+>3
+ENSDART00000142529: [['internal gap < 30', 44, 19], 139, 0]
+ENSLOCT00000014213: ['exon skipping', 0, 0]
+>4
+ENSDART00000142529: ['exon skipping', 0, 0]
+ENSLOCT00000014213: ['5event', 59, 0]
+>5
+ENSDART00000142529: ['exon skipping', 0, 0]
+ENSLOCT00000014213: ['no event', 175, 0]
+>6
+ENSDART00000142529: ['exon skipping', 0, 0]
+ENSLOCT00000014213: ['no event', 2, 2]
+>7
+ENSDART00000142529: ['5event', ['internal gap < 30', 55, 21], 84, 2]
+ENSLOCT00000014213: ['3event', 100, 2]
+>8
+ENSDART00000142529: ['exon skipping', 0, 0]
+ENSLOCT00000014213: ['5event', 344, 0]
+>9
+ENSDART00000142529: ['exon skipping', 0, 0]
+ENSLOCT00000014213: ['no event', 61, 0]
+>10
+ENSDART00000142529: ['5event', ['internal gap < 30', 32, 18], 78, 0]
+ENSLOCT00000014213: ['no event', 96, 2]
+>11
+ENSDART00000142529: ['no event', 86, 1]
+ENSLOCT00000014213: ['exon skipping', 0, 0]
+>12
+ENSDART00000142529: ['exon skipping', 0, 0]
+ENSLOCT00000014213: ['5event', 32, 1]
+>13
+ENSDART00000142529: ['5event', 181, 1]
+ENSLOCT00000014213: ['exon skipping', 0, 0]
+>14
+ENSDART00000142529: ['no event', 125, 0]
+ENSLOCT00000014213: ['exon skipping', 0, 0]
+>15
+ENSDART00000142529: ['no event', 138, 0]
+ENSLOCT00000014213: ['exon skipping', 0, 0]
+>16
+ENSDART00000142529: ['only gap', 0, 1]
+ENSLOCT00000014213: ['exon skipping', 0, 0]
+>17
+ENSDART00000142529: ['no event', 84, 2]
+ENSLOCT00000014213: ['exon skipping', 0, 0]
+>18
+ENSDART00000142529: ['no event', 165, 0]
+ENSLOCT00000014213: ['exon skipping', 0, 0]
+>19
+ENSDART00000142529: ['no event', 181, 1]
+ENSLOCT00000014213: ['exon skipping', 0, 0]
+>20
+ENSDART00000142529: ['no event', 153, 0]
+ENSLOCT00000014213: ['exon skipping', 0, 0]
+>21
+ENSDART00000142529: ['no event', 135, 1]
+ENSLOCT00000014213: ['5event', 127, 1]
+>22
+ENSDART00000142529: [['internal gap >= 30', 281, 37], 316, 0]
+ENSLOCT00000014213: [['internal gap >= 30', 265, 36], 317, 0]
+>23
+ENSDART00000142529: ['only gap', 0, 2]
+ENSLOCT00000014213: ['exon skipping', 0, 0]
+>24
+ENSDART00000142529: ['exon skipping', 0, 0]
+ENSLOCT00000014213: ['exon skipping', 0, 0]

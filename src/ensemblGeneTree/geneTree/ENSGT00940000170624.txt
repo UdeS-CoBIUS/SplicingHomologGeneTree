@@ -1,0 +1,1 @@
+(((ENSMMOG00000019373__Mola_mola,ENSOMEG00000000705__Oryzias_melastigma),(ENSCSAVG00000000523__Ciona_savignyi,ENSCING00000022354__Ciona_intestinalis)),FBgn0024277__Drosophila_melanogaster);

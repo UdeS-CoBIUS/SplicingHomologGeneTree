@@ -1,0 +1,1 @@
+((ENSFHEG00000018519__Fundulus_heteroclitus,ENSGAFG00000015901__Gambusia_affinis),((ENSPCIG00000033537__Phascolarctos_cinereus,ENSPCIG00000034549__Phascolarctos_cinereus),ENSPCIG00000032329__Phascolarctos_cinereus));

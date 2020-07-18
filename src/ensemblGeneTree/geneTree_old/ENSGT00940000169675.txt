@@ -1,1 +1,0 @@
-(((((ENSMALG00000013151__Monopterus_albus,ENSTRUG00000011239__Takifugu_rubripes),(ENSMALG00000010034__Monopterus_albus,ENSPFOG00000018153__Poecilia_formosa)),ENSONIG00000007167__Oreochromis_niloticus),ENSPMGG00000004911__Periophthalmus_magnuspinnatus),(ENSPNAG00000012129__Pygocentrus_nattereri,ENSAMXG00000033063__Astyanax_mexicanus));

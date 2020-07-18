@@ -1,0 +1,1 @@
+((((ENSETEG00000018072__Echinops_telfairi,ENSPMAG00000004462__Petromyzon_marinus),ENSPMGG00000019320__Periophthalmus_magnuspinnatus),ENSCSAVG00000011125__Ciona_savignyi),(WBGene00003548__Caenorhabditis_elegans_strain_N2,FBgn0028950__Drosophila_melanogaster));

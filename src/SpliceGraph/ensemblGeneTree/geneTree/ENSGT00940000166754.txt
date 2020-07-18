@@ -1,0 +1,1 @@
+(((ENSTTRG00000013814__Tursiops_truncatus,ENSMLUG00000024264__Myotis_lucifugus),((ENSANAG00000025498__Aotus_nancymaae,ENSCCAG00000037723__Cebus_capucinus_imitator),(((ENSPANG00000011768__Papio_anubis,ENSMNEG00000042420__Macaca_nemestrina),ENSPTEG00000016322__Piliocolobus_tephrosceles),ENSCATG00000041101__Cercocebus_atys))),ENSPCAG00000003635__Procavia_capensis);

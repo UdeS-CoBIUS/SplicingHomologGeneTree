@@ -1,0 +1,20 @@
+>0
+F10B5.2.1: ['no event', 201, 0]
+FBtr0347215: ['exon skipping', 0, 0]
+FBtr0083605: ['exon skipping', 0, 0]
+>1
+F10B5.2.1: ['no event', 91, 1]
+FBtr0347215: ['exon skipping', 0, 0]
+FBtr0083605: ['exon skipping', 0, 0]
+>2
+F10B5.2.1: ['3event', 347, 0]
+FBtr0347215: ['5event', 1136, 0]
+FBtr0083605: ['5event', 1136, 0]
+>3
+F10B5.2.1: ['5event', 230, 0]
+FBtr0347215: ['exon skipping', 0, 0]
+FBtr0083605: ['exon skipping', 0, 0]
+>4
+F10B5.2.1: ['no event', 203, 0]
+FBtr0347215: ['exon skipping', 0, 0]
+FBtr0083605: ['exon skipping', 0, 0]

@@ -1,0 +1,1 @@
+(((ENSPPYG00000015684__Pongo_abelii,ENSPTRG00000046651__Pan_troglodytes),ENSEEUG00000009191__Erinaceus_europaeus),ENSETEG00000014978__Echinops_telfairi);

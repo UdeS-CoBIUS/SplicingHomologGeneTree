@@ -1,1 +1,0 @@
-(ENSGAGG00000017256__Gopherus_agassizii,ENSTGUG00000000895__Taeniopygia_guttata);

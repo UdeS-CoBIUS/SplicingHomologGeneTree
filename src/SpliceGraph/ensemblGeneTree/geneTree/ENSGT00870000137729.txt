@@ -1,0 +1,1 @@
+((((ENSCPGG00000003881__Calidris_pygmaea,ENSCPUG00000005659__Calidris_pugnax),ENSCABG00000012119__Chelonoidis_abingdonii),ENSSMRG00000019400__Salvator_merianae),(((ENSDARG00000113671__Danio_rerio,ENSDARG00000112275__Danio_rerio),(ENSDARG00000115819__Danio_rerio,ENSDARG00000114192__Danio_rerio)),ENSMAMG00000019993__Mastacembelus_armatus));

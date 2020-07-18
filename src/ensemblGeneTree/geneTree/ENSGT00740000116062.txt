@@ -1,0 +1,1 @@
+(((ENSDNOG00000043455__Dasypus_novemcinctus,ENSDNOG00000038876__Dasypus_novemcinctus),ENSMODG00000024412__Monodelphis_domestica),ENSOANG00000020767__Ornithorhynchus_anatinus);

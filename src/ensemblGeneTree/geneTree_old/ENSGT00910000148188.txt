@@ -1,1 +1,0 @@
-((ENSCATG00000006442__Cercocebus_atys,ENSMLEG00000036275__Mandrillus_leucophaeus),(ENSMNEG00000041965__Macaca_nemestrina,ENSMFAG00000046137__Macaca_fascicularis));

@@ -1,0 +1,1 @@
+(((((ENSUAMG00000003827__Ursus_americanus,ENSUAMG00000001927__Ursus_americanus),ENSFCAG00000046140__Felis_catus),ENSOARG00000020083__Ovis_aries),(ENSPPAG00000033260__Pan_paniscus,ENSMUGG00000022147__Meriones_unguiculatus)),((ENSAOWG00000001883__Apteryx_owenii,ENSARWG00000009684__Apteryx_rowi),ENSAHAG00000017739__Apteryx_haastii));

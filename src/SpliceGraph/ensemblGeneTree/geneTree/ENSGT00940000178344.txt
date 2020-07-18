@@ -1,0 +1,1 @@
+((((ENSSPAG00000010996__Stegastes_partitus,ENSMZEG00005001191__Maylandia_zebra),ENSLBEG00000002221__Labrus_bergylta),(ENSPMGG00000001487__Periophthalmus_magnuspinnatus,ENSPMGG00000002964__Periophthalmus_magnuspinnatus)),ENSPKIG00000003589__Paramormyrops_kingsleyae);

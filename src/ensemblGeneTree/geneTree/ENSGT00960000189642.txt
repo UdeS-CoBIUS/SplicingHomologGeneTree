@@ -1,0 +1,1 @@
+((((ENSCJPG00005004198__Coturnix_japonica,ENSNMEG00000010903__Numida_meleagris),(ENSABRG00000001906__Anser_brachyrhynchus,ENSAPLG00000019490__Anas_platyrhynchos_platyrhynchos)),ENSCPGG00000009303__Calidris_pygmaea),ENSDNVG00000000190__Dromaius_novaehollandiae);

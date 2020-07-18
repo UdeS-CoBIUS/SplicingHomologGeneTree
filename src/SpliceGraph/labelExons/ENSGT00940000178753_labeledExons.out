@@ -1,0 +1,48 @@
+>0
+ENSELUT00000010791: ['exon skipping', 0, 0]
+ENSELUT00000010801: ['exon skipping', 0, 0]
+ENSELUT00000010821: ['no event', 55, 0]
+ENSELUT00000010836: ['exon skipping', 0, 0]
+ENSELUT00000010849: ['exon skipping', 0, 0]
+>1
+ENSELUT00000010791: ['exon skipping', 0, 0]
+ENSELUT00000010801: ['exon skipping', 0, 0]
+ENSELUT00000010821: ['no event', 9, 2]
+ENSELUT00000010836: ['exon skipping', 0, 0]
+ENSELUT00000010849: ['exon skipping', 0, 0]
+>2
+ENSELUT00000010791: ['5event', 63, 0]
+ENSELUT00000010801: ['5event', 63, 0]
+ENSELUT00000010821: ['no event', 65, 0]
+ENSELUT00000010836: ['5event', 63, 0]
+ENSELUT00000010849: ['5event', 63, 0]
+>3
+ENSELUT00000010791: ['no event', 323, 1]
+ENSELUT00000010801: ['no event', 323, 1]
+ENSELUT00000010821: ['no event', 323, 1]
+ENSELUT00000010836: ['no event', 323, 1]
+ENSELUT00000010849: ['no event', 323, 1]
+>4
+ENSELUT00000010791: ['no event', 26, 1]
+ENSELUT00000010801: ['no event', 26, 1]
+ENSELUT00000010821: ['no event', 26, 1]
+ENSELUT00000010836: ['no event', 26, 1]
+ENSELUT00000010849: ['no event', 26, 1]
+>5
+ENSELUT00000010791: ['no event', 26, 1]
+ENSELUT00000010801: ['no event', 26, 1]
+ENSELUT00000010821: ['no event', 26, 1]
+ENSELUT00000010836: ['exon skipping', 0, 0]
+ENSELUT00000010849: ['no event', 26, 1]
+>6
+ENSELUT00000010791: ['no event', 30, 1]
+ENSELUT00000010801: ['no event', 30, 1]
+ENSELUT00000010821: ['no event', 30, 1]
+ENSELUT00000010836: ['5event', 26, 1]
+ENSELUT00000010849: ['exon skipping', 0, 0]
+>7
+ENSELUT00000010791: ['no event', 185, 1]
+ENSELUT00000010801: ['no event', 185, 1]
+ENSELUT00000010821: ['no event', 185, 1]
+ENSELUT00000010836: ['no event', 185, 1]
+ENSELUT00000010849: ['5event', 184, 1]

@@ -1,0 +1,1 @@
+(((ENSPMEG00000020341__Poecilia_mexicana,ENSPMGG00000008717__Periophthalmus_magnuspinnatus),ENSOANG00000000609__Ornithorhynchus_anatinus),ENSPMAG00000006718__Petromyzon_marinus);

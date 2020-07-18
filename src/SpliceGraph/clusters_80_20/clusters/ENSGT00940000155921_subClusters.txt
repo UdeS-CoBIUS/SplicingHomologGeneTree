@@ -1,0 +1,6 @@
+>cluster_0
+FBtr0072733	FBtr0072732	FBtr0340297	F23B12.8a.1
+>cluster_1
+FBtr0073516	F23B12.8a.2
+>cluster_2
+F23B12.8b.1

@@ -1,0 +1,4 @@
+>cluster_0
+YBL109W_mRNA
+>cluster_1
+YDR544C_mRNA	YHR217C_mRNA

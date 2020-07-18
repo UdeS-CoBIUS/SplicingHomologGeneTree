@@ -1,0 +1,1 @@
+((ENSNGAG00000021258__Nannospalax_galili,ENSCGRG00000010048__Cricetulus_griseus_CriGri_1.0),ENSMPUG00000011878__Mustela_putorius_furo);

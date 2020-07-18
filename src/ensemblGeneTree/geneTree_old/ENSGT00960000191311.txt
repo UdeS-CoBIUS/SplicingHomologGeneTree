@@ -1,1 +1,0 @@
-(ENSPCOG00000012593__Propithecus_coquereli,ENSSDAG00000001317__Spermophilus_dauricus);

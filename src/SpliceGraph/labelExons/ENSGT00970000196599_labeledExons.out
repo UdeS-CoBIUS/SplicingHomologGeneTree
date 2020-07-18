@@ -1,0 +1,56 @@
+>0
+Y51A2D.5.1: ['exon skipping', 0, 0]
+M01F1.5.1: ['no event', 17, 0]
+M01F1.5.2: ['no event', 17, 0]
+>1
+Y51A2D.5.1: ['5event', 105, 0]
+M01F1.5.1: [['internal gap < 30', 14, 12], 94, 0]
+M01F1.5.2: [['internal gap < 30', 14, 12], 94, 0]
+>2
+Y51A2D.5.1: ['no event', 122, 1]
+M01F1.5.1: ['exon skipping', 0, 0]
+M01F1.5.2: ['exon skipping', 0, 0]
+>3
+Y51A2D.5.1: ['3event', 206, 1]
+M01F1.5.1: ['5event', 459, 1]
+M01F1.5.2: ['5event', 459, 1]
+>4
+Y51A2D.5.1: ['5event', 132, 1]
+M01F1.5.1: ['exon skipping', 0, 0]
+M01F1.5.2: ['exon skipping', 0, 0]
+>5
+Y51A2D.5.1: ['3event', 222, 2]
+M01F1.5.1: ['5event', 332, 2]
+M01F1.5.2: ['5event', 332, 2]
+>6
+Y51A2D.5.1: ['exon skipping', 0, 0]
+M01F1.5.1: ['no event', 79, 2]
+M01F1.5.2: ['no event', 79, 2]
+>7
+Y51A2D.5.1: ['exon skipping', 0, 0]
+M01F1.5.1: ['no event', 136, 1]
+M01F1.5.2: ['no event', 136, 1]
+>8
+Y51A2D.5.1: ['5event', 581, 1]
+M01F1.5.1: ['exon skipping', 0, 0]
+M01F1.5.2: ['exon skipping', 0, 0]
+>9
+Y51A2D.5.1: ['exon skipping', 0, 0]
+M01F1.5.1: ['5event', 150, 0]
+M01F1.5.2: ['5event', 150, 0]
+>10
+Y51A2D.5.1: ['5event', ['internal gap < 30', 246, 10], 337, 1]
+M01F1.5.1: [['internal gap >= 30', 160, 167], 180, 1]
+M01F1.5.2: [['internal gap >= 30', 160, 167], 180, 1]
+>11
+Y51A2D.5.1: ['no event', 2, 0]
+M01F1.5.1: ['exon skipping', 0, 0]
+M01F1.5.2: ['exon skipping', 0, 0]
+>12
+Y51A2D.5.1: [['internal gap >= 30', 54, 247], 131, 0]
+M01F1.5.1: ['5event', ['internal gap < 30', 354, 17], 361, 1]
+M01F1.5.2: ['5event', ['internal gap < 30', 354, 17], 361, 1]
+>13
+Y51A2D.5.1: ['5event', 2, 0]
+M01F1.5.1: ['exon skipping', 0, 0]
+M01F1.5.2: ['exon skipping', 0, 0]

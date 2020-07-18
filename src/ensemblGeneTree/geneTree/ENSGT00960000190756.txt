@@ -1,0 +1,1 @@
+((ENSPANG00000030065__Papio_anubis,ENSTGEG00000006767__Theropithecus_gelada),ENSPTEG00000015310__Piliocolobus_tephrosceles);

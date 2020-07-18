@@ -1,0 +1,1 @@
+((ENSTTRG00000011073__Tursiops_truncatus,ENSPVAG00000003431__Pteropus_vampyrus),(((ENSG00000167747__Homo_sapiens,ENSPTRG00000043796__Pan_troglodytes),ENSPPYG00000010295__Pongo_abelii),ENSCSAG00000002070__Chlorocebus_sabaeus));

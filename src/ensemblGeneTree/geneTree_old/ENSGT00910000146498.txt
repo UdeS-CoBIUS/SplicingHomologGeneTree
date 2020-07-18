@@ -1,1 +1,0 @@
-(((ENSSDAG00000015516__Spermophilus_dauricus,ENSPEMG00000010698__Peromyscus_maniculatus_bairdii),ENSPCOG00000008867__Propithecus_coquereli),((ENSPVAG00000000498__Pteropus_vampyrus,ENSPVAG00000008862__Pteropus_vampyrus),ENSUAMG00000000865__Ursus_americanus));

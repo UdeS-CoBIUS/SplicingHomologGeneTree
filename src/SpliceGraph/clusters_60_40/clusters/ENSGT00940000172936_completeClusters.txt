@@ -1,0 +1,2 @@
+>completeCluster_0
+ENSCINT00000012805	FBtr0342633

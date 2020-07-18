@@ -1,0 +1,1 @@
+((((ENSHBUG00000008634__Haplochromis_burtoni,ENSNBRG00000009664__Neolamprologus_brichardi),ENSATEG00000012678__Anabas_testudineus),ENSGACG00000007980__Gasterosteus_aculeatus),ENSGMOG00000005256__Gadus_morhua);

@@ -1,0 +1,1 @@
+(((ENSGMOG00000006115__Gadus_morhua,ENSGMOG00000010773__Gadus_morhua),(ENSAPOG00000005388__Acanthochromis_polyacanthus,ENSAPOG00000005427__Acanthochromis_polyacanthus)),ENSELUG00000005377__Esox_lucius);

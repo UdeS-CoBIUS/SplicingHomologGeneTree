@@ -1,0 +1,1 @@
+((ENSCPOG00000034673__Cavia_porcellus,ENSCAPG00000006113__Cavia_aperea),(ENSHGLG00100012207__Heterocephalus_glaber_HetGla_1.0,ENSHGLG00000018955__Heterocephalus_glaber_HetGla_female_1.0));

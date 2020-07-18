@@ -1,0 +1,1 @@
+(((((ENSSCAG00000000969__Serinus_canaria,ENSSCAG00000001795__Serinus_canaria),ENSSCAG00000001620__Serinus_canaria),ENSSCAG00000008508__Serinus_canaria),ENSCPGG00000016226__Calidris_pygmaea),((ENSAHAG00000010030__Apteryx_haastii,ENSARWG00000009191__Apteryx_rowi),(ENSDNVG00000005345__Dromaius_novaehollandiae,ENSDNVG00000003717__Dromaius_novaehollandiae)));

@@ -1,1 +1,0 @@
-((((ENSLCOG00000016013__Lepidothrix_coronata,ENSCCEG00000017050__Cyanistes_caeruleus),ENSCPGG00000016589__Calidris_pygmaea),ENSCPRG00005016631__Crocodylus_porosus),((ENSCATG00000031338__Cercocebus_atys,ENSNVIG00000003433__Neovison_vison),ENSOARG00000002623__Ovis_aries));

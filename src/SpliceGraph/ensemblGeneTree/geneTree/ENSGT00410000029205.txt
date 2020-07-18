@@ -1,0 +1,1 @@
+((((((ENSPTRG00000030029__Pan_troglodytes,ENSPTRG00000044226__Pan_troglodytes),ENSPPAG00000030796__Pan_paniscus),ENSG00000180525__Homo_sapiens),ENSGGOG00000001611__Gorilla_gorilla),ENSNLEG00000013438__Nomascus_leucogenys),(ENSCCAG00000034566__Cebus_capucinus_imitator,ENSANAG00000023998__Aotus_nancymaae));

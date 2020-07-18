@@ -1,0 +1,5 @@
+PILIOCOLOBUSTEPHROSCELES	piliocolobus_tephrosceles
+PROPITHECUSCOQUERELI	propithecus_coquereli
+OCTODONDEGUS	octodon_degus
+VULPESVULPES	vulpes_vulpes
+PHASCOLARCTOSCINEREUS	phascolarctos_cinereus

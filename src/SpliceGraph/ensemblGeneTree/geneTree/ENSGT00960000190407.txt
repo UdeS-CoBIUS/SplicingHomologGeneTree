@@ -1,0 +1,1 @@
+((ENSLCOG00000000926__Lepidothrix_coronata,ENSPMJG00000005100__Parus_major),ENSAOWG00000017310__Apteryx_owenii);

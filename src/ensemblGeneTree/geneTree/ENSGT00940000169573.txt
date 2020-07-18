@@ -1,0 +1,1 @@
+((((ENSBMUG00000023483__Bos_mutus,ENSMAUG00000002025__Mesocricetus_auratus),ENSSPUG00000016399__Sphenodon_punctatus),ENSLACG00000010914__Latimeria_chalumnae),((ENSACIG00000018890__Amphilophus_citrinellus,ENSMZEG00005019549__Maylandia_zebra),ENSCVAG00000003781__Cyprinodon_variegatus));

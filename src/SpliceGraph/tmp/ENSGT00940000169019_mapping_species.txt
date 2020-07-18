@@ -1,0 +1,4 @@
+PTEROPUSVAMPYRUS	pteropus_vampyrus
+MYOTISLUCIFUGUS	myotis_lucifugus
+TURSIOPSTRUNCATUS	tursiops_truncatus
+ORNITHORHYNCHUSANATINUS	ornithorhynchus_anatinus

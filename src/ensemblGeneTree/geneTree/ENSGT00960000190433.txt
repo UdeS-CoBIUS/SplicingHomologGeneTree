@@ -1,0 +1,1 @@
+((ENSLSDG00000009100__Lonchura_striata_domestica,ENSSCAG00000008632__Serinus_canaria),ENSZALG00000015738__Zonotrichia_albicollis);

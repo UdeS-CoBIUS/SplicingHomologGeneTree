@@ -1,0 +1,1 @@
+((ENSCGRG00001000081__Cricetulus_griseus_CHOK1GS_HDv1,ENSPMAG00000004677__Petromyzon_marinus),ENSCSAVG00000011563__Ciona_savignyi);

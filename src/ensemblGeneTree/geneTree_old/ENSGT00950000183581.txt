@@ -1,1 +1,0 @@
-((((ENSSFOG00015016558__Scleropages_formosus,ENSSFOG00015016531__Scleropages_formosus),ENSSFOG00015016579__Scleropages_formosus),ENSSFOG00015016543__Scleropages_formosus),(ENSACIG00000002496__Amphilophus_citrinellus,ENSNBRG00000018827__Neolamprologus_brichardi));

@@ -1,0 +1,1 @@
+((ENSCJPG00005012360__Coturnix_japonica,ENSGALG00000030461__Gallus_gallus),(ENSJHYG00000001650__Junco_hyemalis,ENSZALG00000013615__Zonotrichia_albicollis));

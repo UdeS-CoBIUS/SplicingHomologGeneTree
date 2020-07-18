@@ -1,1 +1,0 @@
-((ENSPMAG00000000466__Petromyzon_marinus,ENSEBUG00000009929__Eptatretus_burgeri),(ENSOANG00000001736__Ornithorhynchus_anatinus,ENSOANG00000029006__Ornithorhynchus_anatinus));

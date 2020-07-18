@@ -1,0 +1,1 @@
+((ENSPCIG00000003895__Phascolarctos_cinereus,ENSTGEG00000011655__Theropithecus_gelada),((((ENSLCOG00000010647__Lepidothrix_coronata,ENSLSDG00000011530__Lonchura_striata_domestica),ENSABRG00000014915__Anser_brachyrhynchus),ENSAHAG00000007218__Apteryx_haastii),ENSSPUG00000007768__Sphenodon_punctatus));

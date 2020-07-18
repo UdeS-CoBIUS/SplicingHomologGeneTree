@@ -1,0 +1,1 @@
+(((ENSCGOG00000014190__Cottoperca_gobio,ENSORLG00015012663__Oryzias_latipes_ASM223469v1),ENSOANG00000021702__Ornithorhynchus_anatinus),WBGene00010499__Caenorhabditis_elegans_strain_N2);

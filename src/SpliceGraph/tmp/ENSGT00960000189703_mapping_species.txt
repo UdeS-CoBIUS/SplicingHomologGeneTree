@@ -1,0 +1,5 @@
+APTERYXOWENII	apteryx_owenii
+APTERYXHAASTII	apteryx_haastii
+APTERYXROWI	apteryx_rowi
+ZONOTRICHIAALBICOLLIS	zonotrichia_albicollis
+CROCODYLUSPOROSUS	crocodylus_porosus

@@ -1,0 +1,1 @@
+(((ENSRROG00000030528__Rhinopithecus_roxellana,ENSMLEG00000039117__Mandrillus_leucophaeus),ENSSDAG00000015426__Spermophilus_dauricus),ENSUAMG00000016337__Ursus_americanus);

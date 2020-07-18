@@ -1,0 +1,7 @@
+APTERYXHAASTII	apteryx_haastii
+APTERYXOWENII	apteryx_owenii
+APTERYXROWI	apteryx_rowi
+NOTHOPROCTAPERDICARIA	nothoprocta_perdicaria
+LEPIDOTHRIXCORONATA	lepidothrix_coronata
+MELOPSITTACUSUNDULATUS	melopsittacus_undulatus
+CHRYSEMYSPICTA	chrysemys_picta

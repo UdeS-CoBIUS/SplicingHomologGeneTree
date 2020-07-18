@@ -1,0 +1,1 @@
+(((ENSUAMG00000009343__Ursus_americanus,ENSRBIG00000032926__Rhinopithecus_bieti),ENSAPEG00000007476__Amphiprion_percula),ENSPMAG00000006020__Petromyzon_marinus);

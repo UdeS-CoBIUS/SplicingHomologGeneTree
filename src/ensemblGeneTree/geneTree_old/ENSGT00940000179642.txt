@@ -1,1 +1,0 @@
-((ENSAPEG00000000167__Amphiprion_percula,ENSAOCG00000007307__Amphiprion_ocellaris),ENSMALG00000002612__Monopterus_albus);

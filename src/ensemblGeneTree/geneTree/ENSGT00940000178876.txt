@@ -1,0 +1,1 @@
+((ENSPNYG00000011114__Pundamilia_nyererei,ENSKMAG00000021907__Kryptolebias_marmoratus),(ENSIPUG00000023053__Ictalurus_punctatus,ENSIPUG00000017723__Ictalurus_punctatus));

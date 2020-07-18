@@ -1,0 +1,6 @@
+RHINOPITHECUSROXELLANA	rhinopithecus_roxellana
+RHINOPITHECUSROXELLANA	rhinopithecus_roxellana
+COLOBUSANGOLENSISPALLIATUS	colobus_angolensis_palliatus
+MERIONESUNGUICULATUS	meriones_unguiculatus
+MERIONESUNGUICULATUS	meriones_unguiculatus
+URSUSAMERICANUS	ursus_americanus

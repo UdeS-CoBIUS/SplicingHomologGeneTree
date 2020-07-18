@@ -1,0 +1,1 @@
+((ENSZALG00000013963__Zonotrichia_albicollis,ENSAPLG00000011936__Anas_platyrhynchos_platyrhynchos),ENSMUNG00000007531__Melopsittacus_undulatus);

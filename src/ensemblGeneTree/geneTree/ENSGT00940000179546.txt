@@ -1,0 +1,1 @@
+((ENSCSEG00000006473__Cynoglossus_semilaevis,ENSSMAG00000015796__Scophthalmus_maximus),ENSSPUG00000012516__Sphenodon_punctatus);

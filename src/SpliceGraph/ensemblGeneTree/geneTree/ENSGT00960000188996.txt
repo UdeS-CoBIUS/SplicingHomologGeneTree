@@ -1,0 +1,1 @@
+((ENSPTEG00000006682__Piliocolobus_tephrosceles,ENSPTEG00000006640__Piliocolobus_tephrosceles),ENSCAFG00020003906__Canis_lupus_dingo);

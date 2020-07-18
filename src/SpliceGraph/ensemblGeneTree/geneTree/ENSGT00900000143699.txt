@@ -1,0 +1,1 @@
+(((ENSPANG00000035676__Papio_anubis,ENSMMUG00000046216__Macaca_mulatta),((ENSPEMG00000024564__Peromyscus_maniculatus_bairdii,ENSCGRG00015015672__Cricetulus_griseus_CriGri-PICR),ENSMUGG00000011993__Meriones_unguiculatus)),ENSSSCG00000036585__Sus_scrofa);

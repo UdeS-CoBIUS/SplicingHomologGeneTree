@@ -1,0 +1,1 @@
+((ENSOANG00000006259__Ornithorhynchus_anatinus,ENSPSIG00000015747__Pelodiscus_sinensis),ENSPMAG00000002358__Petromyzon_marinus);

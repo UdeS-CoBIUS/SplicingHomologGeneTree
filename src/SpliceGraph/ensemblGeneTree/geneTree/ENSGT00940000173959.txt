@@ -1,0 +1,1 @@
+(ENSLAFG00000003623__Loxodonta_africana,ENSODEG00000001704__Octodon_degus);

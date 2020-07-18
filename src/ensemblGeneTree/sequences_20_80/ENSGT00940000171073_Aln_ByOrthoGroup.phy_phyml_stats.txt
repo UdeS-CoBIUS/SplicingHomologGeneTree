@@ -11,20 +11,20 @@
 . Tree topology: 			fixed
 . Initial tree: 			user tree (ensemblGeneTree/trees_20_80/ENSGT00940000171073.nw)
 . Model of amino acids substitution: 	LG
-. Number of taxa: 			4
-. Log-likelihood: 			-1698.61156
-. Unconstrained likelihood: 		-1024.37291
-. Parsimony: 				290
-. Tree size: 				4.61635
+. Number of taxa: 			3
+. Log-likelihood: 			-1363.18159
+. Unconstrained likelihood: 		-985.21413
+. Parsimony: 				216
+. Tree size: 				4.04635
 . Discrete gamma model: 		Yes
   - Number of categories: 		4
-  - Gamma shape parameter: 		1.945
+  - Gamma shape parameter: 		1.842
 
 . Run ID:				none
-. Random seed:				1580960951
+. Random seed:				1594987773
 . Subtree patterns aliasing:		no
 . Version:				20120412
-. Time used:				0h0m0s (0 seconds)
+. Time used:				0h0m1s (1 seconds)
 
  oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
  Suggested citations:
@@ -43,17 +43,17 @@
 . Tree topology: 			fixed
 . Initial tree: 			user tree (ensemblGeneTree/trees_20_80/ENSGT00940000171073.nw)
 . Model of amino acids substitution: 	LG
-. Number of taxa: 			4
-. Log-likelihood: 			-1698.61141
-. Unconstrained likelihood: 		-1024.37291
-. Parsimony: 				290
-. Tree size: 				4.61102
+. Number of taxa: 			3
+. Log-likelihood: 			-1363.18159
+. Unconstrained likelihood: 		-985.21413
+. Parsimony: 				216
+. Tree size: 				4.04635
 . Discrete gamma model: 		Yes
   - Number of categories: 		4
-  - Gamma shape parameter: 		1.949
+  - Gamma shape parameter: 		1.842
 
 . Run ID:				none
-. Random seed:				1580960951
+. Random seed:				1594987773
 . Subtree patterns aliasing:		no
 . Version:				20120412
 . Time used:				0h0m0s (0 seconds)
@@ -75,17 +75,17 @@
 . Tree topology: 			fixed
 . Initial tree: 			user tree (ensemblGeneTree/trees_20_80/ENSGT00940000171073.nw)
 . Model of amino acids substitution: 	LG
-. Number of taxa: 			4
-. Log-likelihood: 			-1698.61156
-. Unconstrained likelihood: 		-1024.37291
-. Parsimony: 				290
-. Tree size: 				4.61635
+. Number of taxa: 			3
+. Log-likelihood: 			-1363.18132
+. Unconstrained likelihood: 		-985.21413
+. Parsimony: 				216
+. Tree size: 				4.03136
 . Discrete gamma model: 		Yes
   - Number of categories: 		4
-  - Gamma shape parameter: 		1.945
+  - Gamma shape parameter: 		1.853
 
 . Run ID:				none
-. Random seed:				1580960951
+. Random seed:				1594987773
 . Subtree patterns aliasing:		no
 . Version:				20120412
 . Time used:				0h0m0s (0 seconds)
@@ -107,20 +107,20 @@
 . Tree topology: 			fixed
 . Initial tree: 			user tree (ensemblGeneTree/trees_20_80/ENSGT00940000171073.nw)
 . Model of amino acids substitution: 	LG
-. Number of taxa: 			4
-. Log-likelihood: 			-1698.61148
-. Unconstrained likelihood: 		-1024.37291
-. Parsimony: 				290
-. Tree size: 				4.61469
+. Number of taxa: 			3
+. Log-likelihood: 			-1363.18159
+. Unconstrained likelihood: 		-985.21413
+. Parsimony: 				216
+. Tree size: 				4.04635
 . Discrete gamma model: 		Yes
   - Number of categories: 		4
-  - Gamma shape parameter: 		1.946
+  - Gamma shape parameter: 		1.842
 
 . Run ID:				none
-. Random seed:				1580960951
+. Random seed:				1594987773
 . Subtree patterns aliasing:		no
 . Version:				20120412
-. Time used:				0h0m0s (0 seconds)
+. Time used:				0h0m1s (1 seconds)
 
  oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
  Suggested citations:

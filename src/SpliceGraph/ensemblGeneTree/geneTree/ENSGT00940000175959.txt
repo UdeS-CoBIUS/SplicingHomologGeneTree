@@ -1,0 +1,1 @@
+(((ENSMSIG00000024923__Mus_spicilegus,ENSCGRG00000019610__Cricetulus_griseus_CriGri_1.0),ENSSDAG00000009648__Spermophilus_dauricus),((ENSECAG00000038012__Equus_caballus,ENSSSCG00000040148__Sus_scrofa),ENSNVIG00000012974__Neovison_vison));

@@ -1,0 +1,2 @@
+PONGOABELII	pongo_abelii
+CHLOROCEBUSSABAEUS	chlorocebus_sabaeus

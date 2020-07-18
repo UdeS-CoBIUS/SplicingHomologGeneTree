@@ -1,1 +1,0 @@
-((ENSEEUG00000005530__Erinaceus_europaeus,ENSCHOG00000005744__Choloepus_hoffmanni),ENSMEUG00000012872__Notamacropus_eugenii);

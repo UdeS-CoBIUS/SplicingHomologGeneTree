@@ -1,0 +1,20 @@
+>0
+ENSAOWT00000018904: ['exon skipping', 0, 0]
+ENSARWT00000011734: ['exon skipping', 0, 0]
+ENSAHAT00000011615: ['exon skipping', 0, 0]
+ENSDNVT00000028320: ['no event', 94, 0]
+>1
+ENSAOWT00000018904: ['5event', 9, 0]
+ENSARWT00000011734: ['5event', 9, 0]
+ENSAHAT00000011615: ['exon skipping', 0, 0]
+ENSDNVT00000028320: ['exon skipping', 0, 0]
+>2
+ENSAOWT00000018904: ['exon skipping', 0, 0]
+ENSARWT00000011734: ['exon skipping', 0, 0]
+ENSAHAT00000011615: ['5event', 99, 0]
+ENSDNVT00000028320: ['5event', 163, 2]
+>3
+ENSAOWT00000018904: ['5event', 1144, 1]
+ENSARWT00000011734: ['5event', 1144, 1]
+ENSAHAT00000011615: ['no event', 1145, 1]
+ENSDNVT00000028320: ['no event', 1145, 1]

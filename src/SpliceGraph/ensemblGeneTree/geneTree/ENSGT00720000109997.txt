@@ -1,0 +1,1 @@
+(ENSDARG00000094012__Danio_rerio,ENSGACG00000003420__Gasterosteus_aculeatus);

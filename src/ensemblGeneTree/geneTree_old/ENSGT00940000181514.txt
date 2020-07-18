@@ -1,1 +1,0 @@
-(ENSPLAG00000019873__Poecilia_latipinna,ENSPNAG00000012773__Pygocentrus_nattereri);

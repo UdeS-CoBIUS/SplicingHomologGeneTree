@@ -1,0 +1,1 @@
+(((ENSCPBG00000023829__Chrysemys_picta_bellii,ENSCABG00000004150__Chelonoidis_abingdonii),ENSSMRG00000007489__Salvator_merianae),(ENSMEUG00000008561__Notamacropus_eugenii,ENSPCIG00000002298__Phascolarctos_cinereus));

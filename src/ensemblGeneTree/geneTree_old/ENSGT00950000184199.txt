@@ -1,1 +1,0 @@
-((ENSAPEG00000009174__Amphiprion_percula,ENSSMAG00000017099__Scophthalmus_maximus),WBGene00009362__Caenorhabditis_elegans_strain_N2);

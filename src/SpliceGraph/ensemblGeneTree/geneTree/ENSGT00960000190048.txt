@@ -1,0 +1,1 @@
+((ENSMVIG00005004141__Manacus_vitellinus,ENSMVIG00005010877__Manacus_vitellinus),(ENSMVIG00005016639__Manacus_vitellinus,ENSMVIG00005016770__Manacus_vitellinus));

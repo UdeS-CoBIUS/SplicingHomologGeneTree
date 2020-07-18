@@ -1,0 +1,1 @@
+((((ENSZALG00000002730__Zonotrichia_albicollis,ENSJHYG00000011133__Junco_hyemalis),ENSJHYG00000016762__Junco_hyemalis),(ENSSCAG00000007438__Serinus_canaria,ENSSCAG00000013079__Serinus_canaria)),ENSDNVG00000008665__Dromaius_novaehollandiae);

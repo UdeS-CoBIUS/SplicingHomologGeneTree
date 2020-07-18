@@ -1,0 +1,21 @@
+>0
+ENSGACT00000013147: ['no event', 48, 0]
+ENSGMOT00000014928: ['no event', 48, 0]
+>1
+ENSGACT00000013147: ['exon skipping', 0, 0]
+ENSGMOT00000014928: ['no event', 8, 1]
+>2
+ENSGACT00000013147: ['exon skipping', 0, 0]
+ENSGMOT00000014928: ['no event', 52, 1]
+>3
+ENSGACT00000013147: ['exon skipping', 0, 0]
+ENSGMOT00000014928: ['no event', 71, 0]
+>4
+ENSGACT00000013147: ['exon skipping', 0, 0]
+ENSGMOT00000014928: ['no event', 5, 0]
+>5
+ENSGACT00000013147: ['exon skipping', 0, 0]
+ENSGMOT00000014928: ['no event', 50, 0]
+>6
+ENSGACT00000013147: ['5event', 223, 1]
+ENSGMOT00000014928: ['exon skipping', 0, 0]

@@ -1,0 +1,1 @@
+(((ENSVPAG00000007919__Vicugna_pacos,ENSPVAG00000011084__Pteropus_vampyrus),ENSPPYG00000004449__Pongo_abelii),ENSPCAG00000007753__Procavia_capensis);

@@ -1,0 +1,1 @@
+(ENSSLDG00000010318__Seriola_lalandi_dorsalis,ENSFDAG00000013210__Fukomys_damarensis);

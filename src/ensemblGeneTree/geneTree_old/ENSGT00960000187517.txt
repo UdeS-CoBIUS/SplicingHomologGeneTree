@@ -1,1 +1,0 @@
-((((ENSACIG00000002288__Amphilophus_citrinellus,ENSELUG00000012659__Esox_lucius),ENSAMXG00000041187__Astyanax_mexicanus),ENSAOWG00000018924__Apteryx_owenii),ENSEBUG00000004708__Eptatretus_burgeri);

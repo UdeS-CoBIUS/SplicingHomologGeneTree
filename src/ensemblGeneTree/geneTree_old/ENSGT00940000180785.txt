@@ -1,1 +1,0 @@
-(((ENSLCOG00000007531__Lepidothrix_coronata,ENSJHYG00000005663__Junco_hyemalis),ENSVVUG00000026703__Vulpes_vulpes),(ENSLBEG00000014721__Labrus_bergylta,ENSPNAG00000025984__Pygocentrus_nattereri));

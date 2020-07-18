@@ -1,0 +1,1 @@
+(ENSOANG00000030198__Ornithorhynchus_anatinus,ENSMMUG00000004000__Macaca_mulatta);

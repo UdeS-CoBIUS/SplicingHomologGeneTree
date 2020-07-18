@@ -1,0 +1,1 @@
+(((ENSCVAG00000009692__Cyprinodon_variegatus,ENSSPAG00000010085__Stegastes_partitus),ENSAMXG00000030656__Astyanax_mexicanus),ENSCCAG00000030950__Cebus_capucinus_imitator);

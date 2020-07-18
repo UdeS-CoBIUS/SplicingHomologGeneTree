@@ -1,1 +1,0 @@
-(ENSCCEG00000017338__Cyanistes_caeruleus,ENSFALG00000005334__Ficedula_albicollis);

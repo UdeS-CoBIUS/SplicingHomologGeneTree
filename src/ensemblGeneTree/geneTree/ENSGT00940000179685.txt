@@ -1,0 +1,1 @@
+((ENSTRUG00000025276__Takifugu_rubripes,ENSLBEG00000005299__Labrus_bergylta),ENSAPEG00000008094__Amphiprion_percula);

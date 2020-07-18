@@ -1,0 +1,1 @@
+((((ENSCSEG00000016676__Cynoglossus_semilaevis,ENSHCOG00000009879__Hippocampus_comes),(ENSGAFG00000007311__Gambusia_affinis,ENSCVAG00000008121__Cyprinodon_variegatus)),ENSSFOG00015016109__Scleropages_formosus),(ENSCABG00000006971__Chelonoidis_abingdonii,ENSUPAG00010019955__Urocitellus_parryii));

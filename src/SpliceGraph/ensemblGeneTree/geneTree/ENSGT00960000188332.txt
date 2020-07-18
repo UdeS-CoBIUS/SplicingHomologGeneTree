@@ -1,0 +1,1 @@
+((ENSPMGG00000018404__Periophthalmus_magnuspinnatus,ENSPMGG00000018405__Periophthalmus_magnuspinnatus),ENSPMGG00000013874__Periophthalmus_magnuspinnatus);

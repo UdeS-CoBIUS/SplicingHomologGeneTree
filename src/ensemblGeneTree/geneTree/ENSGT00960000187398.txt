@@ -1,0 +1,1 @@
+(((ENSORLG00015001215__Oryzias_latipes_ASM223469v1,ENSORLG00000022979__Oryzias_latipes_ASM223467v1),ENSSPAG00000018973__Stegastes_partitus),ENSSMAG00000000578__Scophthalmus_maximus);

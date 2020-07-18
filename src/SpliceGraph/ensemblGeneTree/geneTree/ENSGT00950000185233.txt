@@ -1,0 +1,1 @@
+(((((ENSSDAG00000003609__Spermophilus_dauricus,ENSUPAG00010012038__Urocitellus_parryii),ENSMMMG00000003616__Marmota_marmota_marmota),ENSUMAG00000000669__Ursus_maritimus),ENSPCIG00000020133__Phascolarctos_cinereus),ENSOANG00000000682__Ornithorhynchus_anatinus);

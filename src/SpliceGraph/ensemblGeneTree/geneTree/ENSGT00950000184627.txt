@@ -1,0 +1,1 @@
+(ENSPREG00000006010__Poecilia_reticulata,ENSXCOG00000006838__Xiphophorus_couchianus);

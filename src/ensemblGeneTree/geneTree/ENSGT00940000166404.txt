@@ -1,0 +1,1 @@
+((((ENSECAG00000023745__Equus_caballus,ENSLAFG00000032540__Loxodonta_africana),ENSOGAG00000031851__Otolemur_garnettii),(ENSCAPG00000006955__Cavia_aperea,ENSCPOG00000026858__Cavia_porcellus)),((ENSMODG00000020120__Monodelphis_domestica,ENSSHAG00000016305__Sarcophilus_harrisii),(ENSMODG00000020138__Monodelphis_domestica,ENSSHAG00000016630__Sarcophilus_harrisii)));

@@ -1,0 +1,1 @@
+(((ENSIPUG00000019833__Ictalurus_punctatus,ENSIPUG00000019825__Ictalurus_punctatus),ENSIPUG00000019813__Ictalurus_punctatus),ENSCHAG00000016369__Clupea_harengus);

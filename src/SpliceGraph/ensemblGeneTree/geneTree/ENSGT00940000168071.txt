@@ -1,0 +1,1 @@
+(((ENSNGAG00000015268__Nannospalax_galili,ENSCGRG00001020300__Cricetulus_griseus_CHOK1GS_HDv1),ENSCLAG00000015201__Chinchilla_lanigera),ENSSSCG00000036545__Sus_scrofa);

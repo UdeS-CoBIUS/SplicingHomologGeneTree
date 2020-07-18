@@ -1,0 +1,1 @@
+(((ENSPFOG00000000410__Poecilia_formosa,ENSPREG00000002298__Poecilia_reticulata),(ENSXMAG00000025666__Xiphophorus_maculatus,ENSGAFG00000008291__Gambusia_affinis)),(ENSHBUG00000006514__Haplochromis_burtoni,ENSMZEG00005000098__Maylandia_zebra));

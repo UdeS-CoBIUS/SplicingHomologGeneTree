@@ -1,0 +1,1 @@
+((ENSORLG00000026985__Oryzias_latipes_ASM223467v1,ENSOMEG00000023229__Oryzias_melastigma),ENSPMGG00000017298__Periophthalmus_magnuspinnatus);

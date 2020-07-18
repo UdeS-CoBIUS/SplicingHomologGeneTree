@@ -1,0 +1,3 @@
+URSUSMARITIMUS	ursus_maritimus
+URSUSAMERICANUS	ursus_americanus
+VULPESVULPES	vulpes_vulpes

@@ -1,0 +1,1 @@
+(((((ENSJHYG00000017493__Junco_hyemalis,ENSLSDG00000014028__Lonchura_striata_domestica),ENSMUNG00000007054__Melopsittacus_undulatus),ENSNMEG00000010128__Numida_meleagris),ENSNPEG00000008927__Nothoprocta_perdicaria),ENSCABG00000000096__Chelonoidis_abingdonii);

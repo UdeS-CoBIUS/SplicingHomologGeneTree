@@ -1,0 +1,2 @@
+YNL104C_mRNA	YNL104C	Saccharomyces_cerevisiae_strain_S288C
+YOR108W_mRNA	YOR108W	Saccharomyces_cerevisiae_strain_S288C

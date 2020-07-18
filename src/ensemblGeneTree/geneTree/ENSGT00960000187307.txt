@@ -1,0 +1,1 @@
+(((((ENSAOCG00000005206__Amphiprion_ocellaris,ENSAPEG00000024291__Amphiprion_percula),ENSPMGG00000020106__Periophthalmus_magnuspinnatus),ENSAMXG00000038509__Astyanax_mexicanus),ENSELUG00000017634__Esox_lucius),ENSEBUG00000001869__Eptatretus_burgeri);

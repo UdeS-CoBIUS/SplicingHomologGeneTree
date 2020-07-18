@@ -1,0 +1,1 @@
+((ENSSCAG00000012091__Serinus_canaria,ENSLSDG00000013968__Lonchura_striata_domestica),ENSJHYG00000014155__Junco_hyemalis);

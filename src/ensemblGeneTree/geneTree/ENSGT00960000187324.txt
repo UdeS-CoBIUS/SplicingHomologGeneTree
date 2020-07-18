@@ -1,0 +1,1 @@
+((((ENSPTIG00000006840__Panthera_tigris_altaica,ENSPPRG00000020829__Panthera_pardus),ENSBBBG00000023054__Bison_bison_bison),ENSCPGG00000011987__Calidris_pygmaea),((ENSSLDG00000004253__Seriola_lalandi_dorsalis,ENSSLDG00000006971__Seriola_lalandi_dorsalis),ENSNBRG00000020711__Neolamprologus_brichardi));

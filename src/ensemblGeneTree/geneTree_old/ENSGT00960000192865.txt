@@ -1,1 +1,0 @@
-(ENSBBBG00000018910__Bison_bison_bison,ENSPEMG00000024384__Peromyscus_maniculatus_bairdii);

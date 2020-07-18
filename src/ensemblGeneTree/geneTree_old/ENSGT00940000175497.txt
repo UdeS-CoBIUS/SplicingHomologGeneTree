@@ -1,1 +1,0 @@
-(ENSCING00000012223__Ciona_intestinalis,YMR223W__Saccharomyces_cerevisiae_strain_S288C);

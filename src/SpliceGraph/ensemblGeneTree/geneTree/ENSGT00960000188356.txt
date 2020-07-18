@@ -1,0 +1,1 @@
+((ENSACLG00000005250__Astatotilapia_calliptera,ENSSDUG00000017682__Seriola_dumerili),ENSCJPG00005020377__Coturnix_japonica);

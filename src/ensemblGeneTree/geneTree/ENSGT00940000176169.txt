@@ -1,0 +1,1 @@
+((ENSLOCG00000015912__Lepisosteus_oculatus,ENSACIG00000023943__Amphilophus_citrinellus),((((ENSAHAG00000016640__Apteryx_haastii,ENSARWG00000016786__Apteryx_rowi),ENSCPGG00000003941__Calidris_pygmaea),ENSMUNG00000015991__Melopsittacus_undulatus),ENSGAGG00000000537__Gopherus_agassizii));

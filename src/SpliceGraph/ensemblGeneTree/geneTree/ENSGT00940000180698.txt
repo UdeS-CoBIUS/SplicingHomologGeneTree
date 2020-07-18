@@ -1,0 +1,1 @@
+((ENSSFOG00015001332__Scleropages_formosus,ENSPMGG00000016632__Periophthalmus_magnuspinnatus),(ENSCABG00000022983__Chelonoidis_abingdonii,ENSMSIG00000008140__Mus_spicilegus));

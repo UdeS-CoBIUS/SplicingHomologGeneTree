@@ -1,1 +1,0 @@
-((((ENSHCOG00000014907__Hippocampus_comes,ENSOMEG00000006737__Oryzias_melastigma),(ENSPMGG00000020718__Periophthalmus_magnuspinnatus,ENSPMGG00000003716__Periophthalmus_magnuspinnatus)),ENSSMAG00000009486__Scophthalmus_maximus),ENSSFOG00015003239__Scleropages_formosus);

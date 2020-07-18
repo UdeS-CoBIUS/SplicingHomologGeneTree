@@ -1,0 +1,1 @@
+((((ENSCGRG00000002147__Cricetulus_griseus_CriGri_1.0,ENSNGAG00000012622__Nannospalax_galili),ENSJJAG00000022019__Jaculus_jaculus),((ENSFDAG00000006868__Fukomys_damarensis,ENSHGLG00100004743__Heterocephalus_glaber_HetGla_1.0),ENSCAPG00000016109__Cavia_aperea)),ENSMMOG00000008826__Mola_mola);

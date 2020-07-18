@@ -1,0 +1,1 @@
+((ENSPSIG00000004302__Pelodiscus_sinensis,ENSTGUG00000004798__Taeniopygia_guttata),ENSMODG00000014065__Monodelphis_domestica);

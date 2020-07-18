@@ -1,0 +1,1 @@
+(ENSSCAG00000002310__Serinus_canaria,ENSOARG00000014287__Ovis_aries);

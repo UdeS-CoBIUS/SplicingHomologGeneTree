@@ -1,0 +1,1 @@
+(((ENSCCEG00000001331__Cyanistes_caeruleus,ENSSCAG00000001197__Serinus_canaria),ENSLCOG00000002713__Lepidothrix_coronata),ENSGAGG00000002184__Gopherus_agassizii);

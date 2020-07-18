@@ -1,1 +1,0 @@
-(ENSNLEG00000018015__Nomascus_leucogenys,ENSPANG00000031641__Papio_anubis);

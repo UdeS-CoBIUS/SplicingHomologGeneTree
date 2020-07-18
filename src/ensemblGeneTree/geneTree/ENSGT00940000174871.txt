@@ -1,0 +1,1 @@
+(ENSLOCG00000008416__Lepisosteus_oculatus,ENSPKIG00000001698__Paramormyrops_kingsleyae);

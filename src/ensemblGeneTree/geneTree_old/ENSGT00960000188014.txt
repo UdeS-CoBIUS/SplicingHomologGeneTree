@@ -1,1 +1,0 @@
-((ENSCGRG00015011434__Cricetulus_griseus_CriGri-PICR,ENSFALG00000014125__Ficedula_albicollis),ENSMAMG00000022598__Mastacembelus_armatus);

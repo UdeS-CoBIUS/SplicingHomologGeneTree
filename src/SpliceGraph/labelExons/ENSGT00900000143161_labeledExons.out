@@ -1,0 +1,12 @@
+>0
+MGP_CAROLIEiJ_T0069254: ['no event', 68, 0]
+MGP_CAROLIEiJ_T0069255: ['no event', 68, 0]
+>1
+MGP_CAROLIEiJ_T0069254: ['no event', 53, 0]
+MGP_CAROLIEiJ_T0069255: ['no event', 53, 0]
+>2
+MGP_CAROLIEiJ_T0069254: ['3event', 83, 0]
+MGP_CAROLIEiJ_T0069255: [['internal gap < 30', 158, 4], 182, 0]
+>3
+MGP_CAROLIEiJ_T0069254: ['5event', 143, 0]
+MGP_CAROLIEiJ_T0069255: ['exon skipping', 0, 0]

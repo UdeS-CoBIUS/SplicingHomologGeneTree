@@ -1,1 +1,0 @@
-(((((ENSAOCG00000007434__Amphiprion_ocellaris,ENSAOCG00000021031__Amphiprion_ocellaris),ENSAPEG00000007061__Amphiprion_percula),ENSSPAG00000002874__Stegastes_partitus),ENSCVAG00000016423__Cyprinodon_variegatus),ENSLBEG00000018900__Labrus_bergylta);

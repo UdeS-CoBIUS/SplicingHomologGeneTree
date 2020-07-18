@@ -1,0 +1,1 @@
+((ENSTGUG00000009564__Taeniopygia_guttata,ENSMGAG00000008581__Meleagris_gallopavo),ENSLACG00000000846__Latimeria_chalumnae);

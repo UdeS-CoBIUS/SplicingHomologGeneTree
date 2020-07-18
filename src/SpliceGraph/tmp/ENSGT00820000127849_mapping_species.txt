@@ -1,0 +1,3 @@
+TETRAODONNIGROVIRIDIS	tetraodon_nigroviridis
+TAKIFUGURUBRIPES	takifugu_rubripes
+ERINACEUSEUROPAEUS	erinaceus_europaeus

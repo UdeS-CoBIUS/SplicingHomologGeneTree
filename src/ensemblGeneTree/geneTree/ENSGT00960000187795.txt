@@ -1,0 +1,1 @@
+((ENSMNEG00000035256__Macaca_nemestrina,ENSTGEG00000018639__Theropithecus_gelada),(ENSRROG00000044507__Rhinopithecus_roxellana,ENSRBIG00000029002__Rhinopithecus_bieti));

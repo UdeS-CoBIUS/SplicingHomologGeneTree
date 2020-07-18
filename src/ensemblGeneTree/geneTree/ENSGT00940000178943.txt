@@ -1,0 +1,1 @@
+(((ENSSPAG00000016998__Stegastes_partitus,ENSAPOG00000020742__Acanthochromis_polyacanthus),ENSGAFG00000011254__Gambusia_affinis),ENSMALG00000020069__Monopterus_albus);

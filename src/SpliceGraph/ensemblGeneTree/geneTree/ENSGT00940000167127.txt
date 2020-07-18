@@ -1,0 +1,1 @@
+((((ENSMMUG00000005716__Macaca_mulatta,ENSANAG00000036358__Aotus_nancymaae),ENSPTIG00000016717__Panthera_tigris_altaica),((ENSPSIG00000014049__Pelodiscus_sinensis,ENSGALG00000051554__Gallus_gallus),ENSOANG00000032131__Ornithorhynchus_anatinus)),ENSEBUG00000003933__Eptatretus_burgeri);

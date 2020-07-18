@@ -1,0 +1,1 @@
+(((((ENSCCAG00000027295__Cebus_capucinus_imitator,ENSSBOG00000018830__Saimiri_boliviensis_boliviensis),ENSCANG00000035109__Colobus_angolensis_palliatus),ENSOGAG00000030258__Otolemur_garnettii),ENSOCUG00000026504__Oryctolagus_cuniculus),ENSLAFG00000031667__Loxodonta_africana);

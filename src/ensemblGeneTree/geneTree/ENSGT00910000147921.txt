@@ -1,0 +1,1 @@
+(((ENSPPAG00000027782__Pan_paniscus,ENSPTRG00000048796__Pan_troglodytes),ENSNLEG00000029464__Nomascus_leucogenys),((ENSRBIG00000029359__Rhinopithecus_bieti,ENSRROG00000029797__Rhinopithecus_roxellana),ENSMNEG00000005772__Macaca_nemestrina));

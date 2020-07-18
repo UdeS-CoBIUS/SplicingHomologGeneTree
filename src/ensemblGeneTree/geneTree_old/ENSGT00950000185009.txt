@@ -1,1 +1,0 @@
-((((ENSCPBG00000020145__Chrysemys_picta_bellii,ENSGAGG00000006978__Gopherus_agassizii),ENSPSIG00000010622__Pelodiscus_sinensis),ENSCPRG00005005695__Crocodylus_porosus),ENSSPUG00000007460__Sphenodon_punctatus);

@@ -1,0 +1,1 @@
+(((ENSANAG00000036836__Aotus_nancymaae,ENSTGEG00000014918__Theropithecus_gelada),(ENSCCNG00000009471__Castor_canadensis,ENSOPRG00000004536__Ochotona_princeps)),(ENSSSCG00000038169__Sus_scrofa,ENSBMUG00000002031__Bos_mutus));

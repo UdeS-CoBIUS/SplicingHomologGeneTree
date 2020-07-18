@@ -1,0 +1,1 @@
+((ENSTGUG00000012248__Taeniopygia_guttata,ENSSCAG00000008932__Serinus_canaria),ENSFALG00000003851__Ficedula_albicollis);

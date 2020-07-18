@@ -1,0 +1,1 @@
+((ENSAOCG00000020790__Amphiprion_ocellaris,ENSPMGG00000007589__Periophthalmus_magnuspinnatus),(ENSSDUG00000019455__Seriola_dumerili,ENSMALG00000003165__Monopterus_albus));

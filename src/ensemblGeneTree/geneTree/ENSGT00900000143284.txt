@@ -1,0 +1,1 @@
+((ENSODEG00000007622__Octodon_degus,ENSCPOG00000037852__Cavia_porcellus),ENSHGLG00000016105__Heterocephalus_glaber_HetGla_female_1.0);

@@ -1,1 +1,0 @@
-((((ENSOANG00000030459__Ornithorhynchus_anatinus,ENSOANG00000030148__Ornithorhynchus_anatinus),ENSOANG00000029599__Ornithorhynchus_anatinus),ENSOANG00000028272__Ornithorhynchus_anatinus),(ENSAOCG00000014548__Amphiprion_ocellaris,ENSORLG00015002436__Oryzias_latipes_ASM223469v1));

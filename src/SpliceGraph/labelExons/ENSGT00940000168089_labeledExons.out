@@ -1,0 +1,48 @@
+>0
+ENSMSIT00000046215: ['no event', 187, 0]
+MGP_PahariEiJ_T0041562: ['3event', 121, 0]
+MGP_PahariEiJ_T0041563: ['no event', 187, 0]
+ENSMOCT00000027941: ['no event', 187, 0]
+ENSMOCT00000027942: ['3event', 146, 0]
+>1
+ENSMSIT00000046215: ['no event', 1, 2]
+MGP_PahariEiJ_T0041562: ['exon skipping', 0, 0]
+MGP_PahariEiJ_T0041563: ['exon skipping', 0, 0]
+ENSMOCT00000027941: ['no event', 1, 2]
+ENSMOCT00000027942: ['exon skipping', 0, 0]
+>2
+ENSMSIT00000046215: ['exon skipping', 0, 0]
+MGP_PahariEiJ_T0041562: ['exon skipping', 0, 0]
+MGP_PahariEiJ_T0041563: ['exon skipping', 0, 0]
+ENSMOCT00000027941: ['exon skipping', 0, 0]
+ENSMOCT00000027942: ['5event', 102, 2]
+>3
+ENSMSIT00000046215: ['5event', 3, 1]
+MGP_PahariEiJ_T0041562: ['exon skipping', 0, 0]
+MGP_PahariEiJ_T0041563: ['exon skipping', 0, 0]
+ENSMOCT00000027941: ['exon skipping', 0, 0]
+ENSMOCT00000027942: ['exon skipping', 0, 0]
+>4
+ENSMSIT00000046215: ['exon skipping', 0, 0]
+MGP_PahariEiJ_T0041562: ['exon skipping', 0, 0]
+MGP_PahariEiJ_T0041563: ['exon skipping', 0, 0]
+ENSMOCT00000027941: ['5event', 49, 1]
+ENSMOCT00000027942: ['exon skipping', 0, 0]
+>5
+ENSMSIT00000046215: ['5event', 15, 2]
+MGP_PahariEiJ_T0041562: ['exon skipping', 0, 0]
+MGP_PahariEiJ_T0041563: ['5event', 15, 2]
+ENSMOCT00000027941: ['exon skipping', 0, 0]
+ENSMOCT00000027942: ['exon skipping', 0, 0]
+>6
+ENSMSIT00000046215: ['no event', 2, 0]
+MGP_PahariEiJ_T0041562: ['exon skipping', 0, 0]
+MGP_PahariEiJ_T0041563: ['exon skipping', 0, 0]
+ENSMOCT00000027941: ['exon skipping', 0, 0]
+ENSMOCT00000027942: ['exon skipping', 0, 0]
+>7
+ENSMSIT00000046215: ['exon skipping', 0, 0]
+MGP_PahariEiJ_T0041562: ['5event', 235, 1]
+MGP_PahariEiJ_T0041563: ['exon skipping', 0, 0]
+ENSMOCT00000027941: ['exon skipping', 0, 0]
+ENSMOCT00000027942: ['exon skipping', 0, 0]

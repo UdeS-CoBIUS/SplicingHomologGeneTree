@@ -1,0 +1,3 @@
+TAENIOPYGIAGUTTATA	taeniopygia_guttata
+FICEDULAALBICOLLIS	ficedula_albicollis
+JUNCOHYEMALIS	junco_hyemalis

@@ -1,1 +1,0 @@
-((ENSXMAG00000024789__Xiphophorus_maculatus,ENSFHEG00000006271__Fundulus_heteroclitus),ENSOANG00000005307__Ornithorhynchus_anatinus);

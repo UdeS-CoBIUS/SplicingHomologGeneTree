@@ -1,0 +1,1 @@
+((((ENSPMGG00000006502__Periophthalmus_magnuspinnatus,ENSSDUG00000008137__Seriola_dumerili),ENSPREG00000001856__Poecilia_reticulata),(ENSPKIG00000006632__Paramormyrops_kingsleyae,ENSELUG00000000658__Esox_lucius)),ENSSMRG00000004431__Salvator_merianae);

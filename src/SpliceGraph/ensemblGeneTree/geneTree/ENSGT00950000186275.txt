@@ -1,0 +1,1 @@
+((ENSPTEG00000012995__Piliocolobus_tephrosceles,MGP_CAROLIEiJ_G0017586__Mus_caroli_strain_CAROLI_EIJ),ENSVVUG00000022700__Vulpes_vulpes);

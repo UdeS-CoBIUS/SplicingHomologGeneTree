@@ -1,0 +1,1 @@
+(((ENSAOCG00000014283__Amphiprion_ocellaris,ENSAOCG00000018694__Amphiprion_ocellaris),ENSAPEG00000021093__Amphiprion_percula),((((ENSAPEG00000013423__Amphiprion_percula,ENSAPEG00000002811__Amphiprion_percula),ENSAPEG00000024281__Amphiprion_percula),ENSAPEG00000021046__Amphiprion_percula),ENSAOCG00000004005__Amphiprion_ocellaris));

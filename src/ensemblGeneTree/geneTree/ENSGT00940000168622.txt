@@ -1,0 +1,1 @@
+((((((ENSNMEG00000002174__Numida_meleagris,ENSMGAG00000003665__Meleagris_gallopavo),(ENSCCEG00000001934__Cyanistes_caeruleus,ENSZALG00000000954__Zonotrichia_albicollis)),ENSARWG00000000674__Apteryx_rowi),ENSPSIG00000005167__Pelodiscus_sinensis),ENSLOCG00000013198__Lepisosteus_oculatus),ENSCING00000019683__Ciona_intestinalis);

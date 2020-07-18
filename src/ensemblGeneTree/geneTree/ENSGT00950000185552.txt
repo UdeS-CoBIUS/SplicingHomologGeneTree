@@ -1,0 +1,1 @@
+(ENSGALG00000053146__Gallus_gallus,ENSEBUG00000009971__Eptatretus_burgeri);

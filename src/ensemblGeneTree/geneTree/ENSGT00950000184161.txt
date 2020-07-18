@@ -1,0 +1,1 @@
+(((ENSXETG00000022633__Xenopus_tropicalis,ENSXETG00000026217__Xenopus_tropicalis),(ENSUAMG00000005774__Ursus_americanus,ENSUMAG00000017458__Ursus_maritimus)),ENSLOCG00000005394__Lepisosteus_oculatus);

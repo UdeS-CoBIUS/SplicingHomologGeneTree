@@ -1,0 +1,4 @@
+>cluster_0
+FBtr0086864
+>cluster_1
+C44B9.1.1	ENSEBUT00000016276

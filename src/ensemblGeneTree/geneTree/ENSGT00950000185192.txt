@@ -1,0 +1,1 @@
+(((ENSCPBG00000003515__Chrysemys_picta_bellii,ENSCPBG00000020702__Chrysemys_picta_bellii),ENSAPLG00000026902__Anas_platyrhynchos_platyrhynchos),(ENSSPUG00000002299__Sphenodon_punctatus,ENSSMRG00000016664__Salvator_merianae));

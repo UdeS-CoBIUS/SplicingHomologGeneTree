@@ -1,0 +1,1 @@
+((((ENSSCAG00000010300__Serinus_canaria,ENSNMEG00000001225__Numida_meleagris),((ENSCPUG00000019053__Calidris_pugnax,ENSMVIG00005009183__Manacus_vitellinus),(ENSARWG00000000053__Apteryx_rowi,ENSNPEG00000005146__Nothoprocta_perdicaria))),ENSCPRG00005005949__Crocodylus_porosus),(ENSPANG00000025780__Papio_anubis,ENSMODG00000006381__Monodelphis_domestica));

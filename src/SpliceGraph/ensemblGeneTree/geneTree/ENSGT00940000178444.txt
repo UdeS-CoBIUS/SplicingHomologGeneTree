@@ -1,0 +1,1 @@
+(((ENSMALG00000000966__Monopterus_albus,ENSMALG00000007544__Monopterus_albus),ENSNBRG00000002281__Neolamprologus_brichardi),(ENSTRUG00000024828__Takifugu_rubripes,ENSTRUG00000024176__Takifugu_rubripes));

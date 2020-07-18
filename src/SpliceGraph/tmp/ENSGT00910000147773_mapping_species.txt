@@ -1,0 +1,6 @@
+CERCOCEBUSATYS	cercocebus_atys
+MACACAFASCICULARIS	macaca_fascicularis
+RHINOPITHECUSROXELLANA	rhinopithecus_roxellana
+RHINOPITHECUSBIETI	rhinopithecus_bieti
+COLOBUSANGOLENSISPALLIATUS	colobus_angolensis_palliatus
+PILIOCOLOBUSTEPHROSCELES	piliocolobus_tephrosceles

@@ -1,0 +1,1 @@
+(((ENSSPUG00000013094__Sphenodon_punctatus,ENSNSUG00000004109__Notechis_scutatus),(ENSAHAG00000018531__Apteryx_haastii,ENSARWG00000018512__Apteryx_rowi)),((ENSAPEG00000021164__Amphiprion_percula,ENSFHEG00000021319__Fundulus_heteroclitus),ENSSLDG00000024539__Seriola_lalandi_dorsalis));

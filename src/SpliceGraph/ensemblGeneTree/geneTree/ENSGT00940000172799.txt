@@ -1,0 +1,1 @@
+(((ENSAPLG00000025457__Anas_platyrhynchos_platyrhynchos,ENSNPEG00000001258__Nothoprocta_perdicaria),ENSPSIG00000010932__Pelodiscus_sinensis),(ENSACAG00000023245__Anolis_carolinensis,ENSNSUG00000020161__Notechis_scutatus));

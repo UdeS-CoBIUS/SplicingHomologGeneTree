@@ -1,0 +1,1 @@
+(((ENSCCEG00000019803__Cyanistes_caeruleus,ENSLSDG00000004024__Lonchura_striata_domestica),(((ENSGALG00000053455__Gallus_gallus,ENSGALG00000053925__Gallus_gallus),ENSCJPG00005002039__Coturnix_japonica),(ENSCJPG00005006661__Coturnix_japonica,ENSGALG00000046738__Gallus_gallus))),(ENSGALG00000052303__Gallus_gallus,ENSCCEG00000002538__Cyanistes_caeruleus));

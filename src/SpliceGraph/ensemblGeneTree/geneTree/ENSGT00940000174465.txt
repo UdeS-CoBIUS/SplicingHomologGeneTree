@@ -1,0 +1,1 @@
+((((ENSTGEG00000005203__Theropithecus_gelada,ENSTGEG00000026023__Theropithecus_gelada),ENSPTEG00000030161__Piliocolobus_tephrosceles),(ENSCCAG00000037038__Cebus_capucinus_imitator,ENSANAG00000026471__Aotus_nancymaae)),ENSUMAG00000010282__Ursus_maritimus);

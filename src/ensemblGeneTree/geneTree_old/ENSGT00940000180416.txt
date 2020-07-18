@@ -1,1 +1,0 @@
-((ENSGAFG00000013079__Gambusia_affinis,ENSLBEG00000003323__Labrus_bergylta),ENSPKIG00000019653__Paramormyrops_kingsleyae);

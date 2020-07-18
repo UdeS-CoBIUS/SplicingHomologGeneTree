@@ -1,0 +1,1 @@
+((ENSPTEG00000007160__Piliocolobus_tephrosceles,ENSCANG00000040889__Colobus_angolensis_palliatus),((ENSMMUG00000013059__Macaca_mulatta,ENSMNEG00000020250__Macaca_nemestrina),ENSMLEG00000019291__Mandrillus_leucophaeus));

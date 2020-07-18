@@ -1,0 +1,128 @@
+>0
+FBtr0086864: ['exon skipping', 0, 0]
+C44B9.1.1: ['exon skipping', 0, 0]
+ENSEBUT00000016276: ['no event', 32, 0]
+>1
+FBtr0086864: ['exon skipping', 0, 0]
+C44B9.1.1: ['exon skipping', 0, 0]
+ENSEBUT00000016276: ['no event', 140, 0]
+>2
+FBtr0086864: ['3event', '5event', 66, 0]
+C44B9.1.1: ['5event', 77, 0]
+ENSEBUT00000016276: ['3event', 74, 0]
+>3
+FBtr0086864: ['5event', ['internal gap < 30', 155, 25], 218, 0]
+C44B9.1.1: [['internal gap < 30', 106, 27], 216, 0]
+ENSEBUT00000016276: ['exon skipping', 0, 0]
+>4
+FBtr0086864: [['internal gap >= 30', 252, 71], 318, 0]
+C44B9.1.1: [['internal gap < 30', 356, 5], 384, 0]
+ENSEBUT00000016276: ['5event', ['internal gap >= 30', 143, 180], 209, 0]
+>5
+FBtr0086864: ['exon skipping', 0, 0]
+C44B9.1.1: ['exon skipping', 0, 0]
+ENSEBUT00000016276: ['no event', 35, 0]
+>6
+FBtr0086864: ['exon skipping', 0, 0]
+C44B9.1.1: ['exon skipping', 0, 0]
+ENSEBUT00000016276: ['no event', 82, 0]
+>7
+FBtr0086864: ['exon skipping', 0, 0]
+C44B9.1.1: ['exon skipping', 0, 0]
+ENSEBUT00000016276: ['no event', 42, 2]
+>8
+FBtr0086864: ['exon skipping', 0, 0]
+C44B9.1.1: ['exon skipping', 0, 0]
+ENSEBUT00000016276: ['no event', 98, 0]
+>9
+FBtr0086864: ['exon skipping', 0, 0]
+C44B9.1.1: ['exon skipping', 0, 0]
+ENSEBUT00000016276: ['no event', 140, 0]
+>10
+FBtr0086864: ['exon skipping', 0, 0]
+C44B9.1.1: ['exon skipping', 0, 0]
+ENSEBUT00000016276: ['no event', 197, 0]
+>11
+FBtr0086864: ['exon skipping', 0, 0]
+C44B9.1.1: ['exon skipping', 0, 0]
+ENSEBUT00000016276: ['no event', 94, 0]
+>12
+FBtr0086864: ['exon skipping', 0, 0]
+C44B9.1.1: ['exon skipping', 0, 0]
+ENSEBUT00000016276: ['no event', 98, 2]
+>13
+FBtr0086864: ['exon skipping', 0, 0]
+C44B9.1.1: ['exon skipping', 0, 0]
+ENSEBUT00000016276: ['no event', 90, 2]
+>14
+FBtr0086864: ['exon skipping', 0, 0]
+C44B9.1.1: ['exon skipping', 0, 0]
+ENSEBUT00000016276: ['no event', 176, 0]
+>15
+FBtr0086864: ['exon skipping', 0, 0]
+C44B9.1.1: ['exon skipping', 0, 0]
+ENSEBUT00000016276: ['no event', 118, 0]
+>16
+FBtr0086864: ['exon skipping', 0, 0]
+C44B9.1.1: ['exon skipping', 0, 0]
+ENSEBUT00000016276: ['no event', 109, 2]
+>17
+FBtr0086864: ['5event', 857, 0]
+C44B9.1.1: ['exon skipping', 0, 0]
+ENSEBUT00000016276: ['exon skipping', 0, 0]
+>18
+FBtr0086864: ['no event', 331, 0]
+C44B9.1.1: ['exon skipping', 0, 0]
+ENSEBUT00000016276: ['exon skipping', 0, 0]
+>19
+FBtr0086864: ['no event', 167, 2]
+C44B9.1.1: ['exon skipping', 0, 0]
+ENSEBUT00000016276: ['5event', 118, 1]
+>20
+FBtr0086864: ['exon skipping', 0, 0]
+C44B9.1.1: ['exon skipping', 0, 0]
+ENSEBUT00000016276: ['no event', 2, 0]
+>21
+FBtr0086864: ['exon skipping', 0, 0]
+C44B9.1.1: ['exon skipping', 0, 0]
+ENSEBUT00000016276: ['no event', 88, 0]
+>22
+FBtr0086864: ['exon skipping', 0, 0]
+C44B9.1.1: ['5event', 49, 0]
+ENSEBUT00000016276: ['exon skipping', 0, 0]
+>23
+FBtr0086864: ['exon skipping', 0, 0]
+C44B9.1.1: ['exon skipping', 0, 0]
+ENSEBUT00000016276: ['5event', 131, 2]
+>24
+FBtr0086864: ['exon skipping', 0, 0]
+C44B9.1.1: ['5event', 1155, 2]
+ENSEBUT00000016276: ['exon skipping', 0, 0]
+>25
+FBtr0086864: ['5event', 110, 0]
+C44B9.1.1: ['exon skipping', 0, 0]
+ENSEBUT00000016276: ['5event', ['internal gap < 30', 41, 22], 96, 2]
+>26
+FBtr0086864: [['internal gap < 30', 267, 15], 323, 0]
+C44B9.1.1: ['3event', '5event', 251, 0]
+ENSEBUT00000016276: [['internal gap >= 30', 102, 180], 158, 0]
+>27
+FBtr0086864: [['internal gap < 30', 57, 12], 112, 0]
+C44B9.1.1: ['exon skipping', 0, 0]
+ENSEBUT00000016276: [['internal gap < 30', 78, 3], 121, 0]
+>28
+FBtr0086864: ['exon skipping', 0, 0]
+C44B9.1.1: ['5event', 395, 2]
+ENSEBUT00000016276: ['exon skipping', 0, 0]
+>29
+FBtr0086864: ['5event', ['internal gap >= 30', 74, 1076], 189, 2]
+C44B9.1.1: [['internal gap >= 30', 75, 1075], 190, 2]
+ENSEBUT00000016276: ['5event', ['internal gap >= 30', 74, 1076], 189, 2]
+>30
+FBtr0086864: ['3event', 125, 0]
+C44B9.1.1: ['3event', 145, 0]
+ENSEBUT00000016276: [['internal gap >= 30', 84, 62], 119, 0]
+>31
+FBtr0086864: ['5event', 76, 1]
+C44B9.1.1: ['exon skipping', 0, 0]
+ENSEBUT00000016276: ['exon skipping', 0, 0]

@@ -1,1 +1,0 @@
-(((((ENSMMMG00000008493__Marmota_marmota_marmota,ENSPEMG00000026874__Peromyscus_maniculatus_bairdii),ENSCCNG00000008831__Castor_canadensis),(ENSNVIG00000010232__Neovison_vison,ENSPPRG00000011254__Panthera_pardus)),ENSGAGG00000019956__Gopherus_agassizii),(ENSMALG00000020093__Monopterus_albus,ENSCVAG00000019755__Cyprinodon_variegatus));

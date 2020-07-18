@@ -1,1 +1,0 @@
-((((ENSPPRG00000007531__Panthera_pardus,ENSPTIG00000019045__Panthera_tigris_altaica),ENSFCAG00000043558__Felis_catus),ENSTSYG00000025411__Carlito_syrichta),(((ENSGAGG00000022497__Gopherus_agassizii,ENSCABG00000007416__Chelonoidis_abingdonii),ENSAPLG00000017788__Anas_platyrhynchos_platyrhynchos),ENSPVIG00000014153__Pogona_vitticeps));

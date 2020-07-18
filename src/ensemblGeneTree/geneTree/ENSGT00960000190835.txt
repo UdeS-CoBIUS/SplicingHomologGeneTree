@@ -1,0 +1,1 @@
+((ENSCPGG00000017469__Calidris_pygmaea,ENSCPUG00000014949__Calidris_pugnax),ENSLSDG00000006181__Lonchura_striata_domestica);

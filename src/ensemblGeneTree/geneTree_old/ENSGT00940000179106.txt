@@ -1,1 +1,0 @@
-(((ENSXMAG00000023243__Xiphophorus_maculatus,ENSXCOG00000006934__Xiphophorus_couchianus),ENSORLG00000022408__Oryzias_latipes_ASM223467v1),ENSMAMG00000016812__Mastacembelus_armatus);

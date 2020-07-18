@@ -1,0 +1,1 @@
+(ENSDNOG00000043116__Dasypus_novemcinctus,ENSBMUG00000019784__Bos_mutus);

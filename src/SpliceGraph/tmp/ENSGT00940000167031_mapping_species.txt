@@ -1,0 +1,15 @@
+PANTHERAPARDUS	panthera_pardus
+PANTHERAPARDUS	panthera_pardus
+CAPRAHIRCUS	capra_hircus
+CEBUSCAPUCINUS	cebus_capucinus
+PROLEMURSIMUS	prolemur_simus
+JACULUSJACULUS	jaculus_jaculus
+MERIONESUNGUICULATUS	meriones_unguiculatus
+UROCITELLUSPARRYII	urocitellus_parryii
+SPERMOPHILUSDAURICUS	spermophilus_dauricus
+MARMOTAMARMOTAMARMOTA	marmota_marmota_marmota
+CASTORCANADENSIS	castor_canadensis
+ECHINOPSTELFAIRI	echinops_telfairi
+PHASCOLARCTOSCINEREUS	phascolarctos_cinereus
+APTERYXHAASTII	apteryx_haastii
+APTERYXROWI	apteryx_rowi

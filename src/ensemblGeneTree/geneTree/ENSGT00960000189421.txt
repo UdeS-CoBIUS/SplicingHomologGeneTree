@@ -1,0 +1,1 @@
+(((((((ENSJHYG00000015151__Junco_hyemalis,ENSZALG00000017016__Zonotrichia_albicollis),ENSLSDG00000013609__Lonchura_striata_domestica),ENSLCOG00000016077__Lepidothrix_coronata),ENSPMJG00000002291__Parus_major),ENSCJPG00005004083__Coturnix_japonica),ENSCPUG00000009903__Calidris_pugnax),(ENSCABG00000018718__Chelonoidis_abingdonii,ENSGAGG00000016205__Gopherus_agassizii));

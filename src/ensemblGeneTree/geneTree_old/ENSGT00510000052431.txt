@@ -1,1 +1,0 @@
-((((ENSGACG00000014148__Gasterosteus_aculeatus,ENSPFOG00000024420__Poecilia_formosa),ENSGMOG00000000814__Gadus_morhua),ENSLOCG00000014120__Lepisosteus_oculatus),((ENSFALG00000010126__Ficedula_albicollis,ENSTGUG00000009087__Taeniopygia_guttata),(ENSGAGG00000005679__Gopherus_agassizii,ENSCPBG00000019690__Chrysemys_picta_bellii)));

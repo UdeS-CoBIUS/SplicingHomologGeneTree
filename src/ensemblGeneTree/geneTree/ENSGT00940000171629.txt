@@ -1,0 +1,1 @@
+((FBgn0028341__Drosophila_melanogaster,WBGene00009701__Caenorhabditis_elegans_strain_N2),(((ENSAPEG00000024797__Amphiprion_percula,ENSAOCG00000020182__Amphiprion_ocellaris),ENSPNYG00000021776__Pundamilia_nyererei),(ENSFHEG00000004478__Fundulus_heteroclitus,ENSOMEG00000005191__Oryzias_melastigma)));

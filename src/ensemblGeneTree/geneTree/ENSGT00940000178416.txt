@@ -1,0 +1,1 @@
+(((ENSPNAG00000024705__Pygocentrus_nattereri,ENSPNAG00000027638__Pygocentrus_nattereri),ENSPNAG00000011726__Pygocentrus_nattereri),(ENSSDUG00000007916__Seriola_dumerili,ENSSDUG00000007896__Seriola_dumerili));

@@ -1,0 +1,1 @@
+(((ENSXCOG00000010680__Xiphophorus_couchianus,ENSXCOG00000008651__Xiphophorus_couchianus),ENSACLG00000020377__Astatotilapia_calliptera),ENSPKIG00000023920__Paramormyrops_kingsleyae);

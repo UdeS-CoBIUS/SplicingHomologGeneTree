@@ -1,0 +1,1 @@
+((ENSFHEG00000007390__Fundulus_heteroclitus,ENSORLG00020019653__Oryzias_latipes_ASM223471v1),ENSSLDG00000009516__Seriola_lalandi_dorsalis);

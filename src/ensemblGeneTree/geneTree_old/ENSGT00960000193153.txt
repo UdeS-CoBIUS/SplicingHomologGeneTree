@@ -1,1 +1,0 @@
-(ENSPTEG00000036794__Piliocolobus_tephrosceles,ENSCANG00000035027__Colobus_angolensis_palliatus);

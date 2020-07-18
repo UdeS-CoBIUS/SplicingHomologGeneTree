@@ -1,0 +1,1 @@
+((((((ENSNLEG00000030469__Nomascus_leucogenys,ENSGGOG00000043961__Gorilla_gorilla),ENSRROG00000036608__Rhinopithecus_roxellana),ENSANAG00000023970__Aotus_nancymaae),ENSPSMG00000010189__Prolemur_simus),(ENSSSCG00000038103__Sus_scrofa,ENSUMAG00000013043__Ursus_maritimus)),(ENSGAGG00000008228__Gopherus_agassizii,ENSGAGG00000024788__Gopherus_agassizii));

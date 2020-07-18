@@ -1,0 +1,1 @@
+(((ENSABRG00000000970__Anser_brachyrhynchus,ENSNMEG00000007125__Numida_meleagris),ENSCPGG00000001649__Calidris_pygmaea),(ENSCPBG00000009275__Chrysemys_picta_bellii,ENSPSIG00000004930__Pelodiscus_sinensis));

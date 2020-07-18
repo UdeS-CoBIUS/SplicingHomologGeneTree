@@ -1,1 +1,0 @@
-((((ENSPTRG00000046831__Pan_troglodytes,ENSPPAG00000021963__Pan_paniscus),ENSCANG00000037360__Colobus_angolensis_palliatus),((ENSUMAG00000023674__Ursus_maritimus,ENSUAMG00000000628__Ursus_americanus),ENSSSCG00000036281__Sus_scrofa)),ENSNSUG00000018431__Notechis_scutatus);

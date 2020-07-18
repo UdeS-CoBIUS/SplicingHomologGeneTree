@@ -1,0 +1,1 @@
+((ENSCPGG00000006027__Calidris_pygmaea,ENSCPUG00000005501__Calidris_pugnax),ENSDNVG00000006838__Dromaius_novaehollandiae);

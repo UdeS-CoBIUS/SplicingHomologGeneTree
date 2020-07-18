@@ -1,0 +1,2 @@
+>completeCluster_0
+ZC404.5.1	ZC404.12.1	W05H5.4.1

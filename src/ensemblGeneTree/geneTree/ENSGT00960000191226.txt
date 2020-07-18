@@ -1,0 +1,1 @@
+(ENSAPLG00000025408__Anas_platyrhynchos_platyrhynchos,ENSSMAG00000012437__Scophthalmus_maximus);

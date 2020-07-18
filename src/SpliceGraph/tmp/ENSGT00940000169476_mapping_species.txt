@@ -1,0 +1,4 @@
+CAVIAAPEREA	cavia_aperea
+OCTODONDEGUS	octodon_degus
+JACULUSJACULUS	jaculus_jaculus
+MESOCRICETUSAURATUS	mesocricetus_auratus

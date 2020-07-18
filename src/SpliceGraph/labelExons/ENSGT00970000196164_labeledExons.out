@@ -1,0 +1,16 @@
+>0
+Y22D7AL.15.1: ['no event', 2, 0]
+Y40H7A.11.1: ['exon skipping', 0, 0]
+Y37D8A.6.1: ['exon skipping', 0, 0]
+>1
+Y22D7AL.15.1: [['internal gap >= 30', 164, 465], 273, 0]
+Y40H7A.11.1: ['5event', ['internal gap >= 30', 126, 538], 200, 0]
+Y37D8A.6.1: ['5event', ['internal gap >= 30', 150, 514], 224, 0]
+>2
+Y22D7AL.15.1: [['internal gap < 30', 40, 6], 176, 0]
+Y40H7A.11.1: [['internal gap < 30', 106, 12], 170, 0]
+Y37D8A.6.1: [['internal gap < 30', 82, 9], 173, 0]
+>3
+Y22D7AL.15.1: ['no event', 5, 0]
+Y40H7A.11.1: ['3event', 2, 0]
+Y37D8A.6.1: ['exon skipping', 0, 0]

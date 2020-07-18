@@ -1,1 +1,0 @@
-(ENSSPUG00000005047__Sphenodon_punctatus,ENSAPLG00000028655__Anas_platyrhynchos_platyrhynchos);

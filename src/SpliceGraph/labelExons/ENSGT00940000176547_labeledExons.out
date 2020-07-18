@@ -1,0 +1,6 @@
+>0
+YPR198W_mRNA: ['5event', ['internal gap >= 30', 1406, 250], 1624, 0]
+YGR224W_mRNA: [['internal gap >= 30', 1830, 33], 1841, 0]
+>1
+YPR198W_mRNA: ['no event', 6, 2]
+YGR224W_mRNA: ['exon skipping', 0, 0]

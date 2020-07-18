@@ -1,0 +1,1 @@
+((FBgn0264695__Drosophila_melanogaster,ENSORLG00015018162__Oryzias_latipes_ASM223469v1),YHR023W__Saccharomyces_cerevisiae_strain_S288C);

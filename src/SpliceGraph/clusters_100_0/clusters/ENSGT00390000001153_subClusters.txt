@@ -1,0 +1,6 @@
+>cluster_0
+FBtr0079188
+>cluster_1
+FBtr0302971	FBtr0343122
+>cluster_2
+C07H6.2.1

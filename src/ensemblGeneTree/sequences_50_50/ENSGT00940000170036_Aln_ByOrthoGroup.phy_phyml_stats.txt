@@ -21,10 +21,10 @@
   - Gamma shape parameter: 		0.994
 
 . Run ID:				none
-. Random seed:				1580961003
+. Random seed:				1594965287
 . Subtree patterns aliasing:		no
 . Version:				20120412
-. Time used:				0h0m0s (0 seconds)
+. Time used:				0h0m1s (1 seconds)
 
  oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
  Suggested citations:
@@ -44,16 +44,16 @@
 . Initial tree: 			user tree (ensemblGeneTree/trees_50_50/ENSGT00940000170036.nw)
 . Model of amino acids substitution: 	LG
 . Number of taxa: 			3
-. Log-likelihood: 			-1411.35186
+. Log-likelihood: 			-1411.35216
 . Unconstrained likelihood: 		-1238.05336
 . Parsimony: 				170
-. Tree size: 				2.91959
+. Tree size: 				2.91439
 . Discrete gamma model: 		Yes
   - Number of categories: 		4
-  - Gamma shape parameter: 		0.992
+  - Gamma shape parameter: 		0.994
 
 . Run ID:				none
-. Random seed:				1580961003
+. Random seed:				1594965287
 . Subtree patterns aliasing:		no
 . Version:				20120412
 . Time used:				0h0m0s (0 seconds)
@@ -85,10 +85,10 @@
   - Gamma shape parameter: 		0.994
 
 . Run ID:				none
-. Random seed:				1580961003
+. Random seed:				1594965287
 . Subtree patterns aliasing:		no
 . Version:				20120412
-. Time used:				0h0m1s (1 seconds)
+. Time used:				0h0m0s (0 seconds)
 
  oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
  Suggested citations:
@@ -108,19 +108,19 @@
 . Initial tree: 			user tree (ensemblGeneTree/trees_50_50/ENSGT00940000170036.nw)
 . Model of amino acids substitution: 	LG
 . Number of taxa: 			3
-. Log-likelihood: 			-1411.35216
+. Log-likelihood: 			-1411.35201
 . Unconstrained likelihood: 		-1238.05336
 . Parsimony: 				170
-. Tree size: 				2.91439
+. Tree size: 				2.91468
 . Discrete gamma model: 		Yes
   - Number of categories: 		4
   - Gamma shape parameter: 		0.994
 
 . Run ID:				none
-. Random seed:				1580961003
+. Random seed:				1594965287
 . Subtree patterns aliasing:		no
 . Version:				20120412
-. Time used:				0h0m0s (0 seconds)
+. Time used:				0h0m1s (1 seconds)
 
  oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
  Suggested citations:

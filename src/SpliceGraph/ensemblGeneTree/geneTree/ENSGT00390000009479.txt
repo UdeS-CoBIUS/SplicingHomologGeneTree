@@ -1,0 +1,1 @@
+(((ENSCSAG00000019289__Chlorocebus_sabaeus,ENSPPYG00000011983__Pongo_abelii),ENSDNOG00000037091__Dasypus_novemcinctus),ENSETEG00000006783__Echinops_telfairi);

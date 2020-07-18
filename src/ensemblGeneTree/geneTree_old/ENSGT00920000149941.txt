@@ -1,1 +1,0 @@
-((ENSTGUG00000013981__Taeniopygia_guttata,ENSFALG00000014846__Ficedula_albicollis),ENSMGAG00000015702__Meleagris_gallopavo);

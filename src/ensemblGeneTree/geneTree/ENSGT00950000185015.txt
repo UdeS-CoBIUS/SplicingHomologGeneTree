@@ -1,0 +1,1 @@
+(ENSAOCG00000002576__Amphiprion_ocellaris,ENSEASG00005004564__Equus_asinus_asinus);

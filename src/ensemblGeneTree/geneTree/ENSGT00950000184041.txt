@@ -1,0 +1,1 @@
+((ENSPKIG00000015314__Paramormyrops_kingsleyae,ENSSFOG00015000416__Scleropages_formosus),((ENSAMXG00000037909__Astyanax_mexicanus,ENSPNAG00000016696__Pygocentrus_nattereri),ENSHCOG00000016840__Hippocampus_comes));

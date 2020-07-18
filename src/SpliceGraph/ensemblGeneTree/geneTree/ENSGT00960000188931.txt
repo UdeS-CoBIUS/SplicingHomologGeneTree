@@ -1,0 +1,1 @@
+(((ENSSCAG00000001565__Serinus_canaria,ENSZALG00000008002__Zonotrichia_albicollis),ENSPMJG00000006505__Parus_major),ENSSLDG00000017642__Seriola_lalandi_dorsalis);

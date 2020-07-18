@@ -1,1 +1,0 @@
-(ENSLBEG00000016757__Labrus_bergylta,ENSMZEG00005020429__Maylandia_zebra);

@@ -1,0 +1,1 @@
+(((ENSCSAG00000018290__Chlorocebus_sabaeus,ENSTGEG00000000613__Theropithecus_gelada),ENSETEG00000006118__Echinops_telfairi),ENSJHYG00000009090__Junco_hyemalis);

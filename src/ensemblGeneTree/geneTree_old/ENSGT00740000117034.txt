@@ -1,1 +1,0 @@
-(ENSCAFG00000031387__Canis_lupus_familiaris,ENSDNOG00000035753__Dasypus_novemcinctus);

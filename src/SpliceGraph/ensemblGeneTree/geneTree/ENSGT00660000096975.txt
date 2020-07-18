@@ -1,0 +1,1 @@
+((ENSLACG00000016219__Latimeria_chalumnae,ENSLOCG00000016320__Lepisosteus_oculatus),(ENSCING00000023834__Ciona_intestinalis,ENSCING00000008585__Ciona_intestinalis));

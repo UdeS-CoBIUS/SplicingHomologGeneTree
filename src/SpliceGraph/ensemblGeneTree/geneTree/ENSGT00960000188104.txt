@@ -1,0 +1,1 @@
+((ENSEEUG00000009516__Erinaceus_europaeus,ENSNVIG00000006481__Neovison_vison),ENSHGLG00100003294__Heterocephalus_glaber_HetGla_1.0);

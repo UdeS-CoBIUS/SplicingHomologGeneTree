@@ -1,0 +1,1 @@
+((ENSPREG00000009945__Poecilia_reticulata,ENSGAFG00000007136__Gambusia_affinis),(ENSCPBG00000021941__Chrysemys_picta_bellii,ENSCABG00000016374__Chelonoidis_abingdonii));

@@ -1,0 +1,1 @@
+(((ENSSPAG00000012934__Stegastes_partitus,ENSMALG00000011283__Monopterus_albus),ENSSDUG00000000663__Seriola_dumerili),ENSSPUG00000018848__Sphenodon_punctatus);

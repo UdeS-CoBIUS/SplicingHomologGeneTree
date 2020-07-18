@@ -1,0 +1,2 @@
+ANSERBRACHYRHYNCHUS	anser_brachyrhynchus
+LEPIDOTHRIXCORONATA	lepidothrix_coronata

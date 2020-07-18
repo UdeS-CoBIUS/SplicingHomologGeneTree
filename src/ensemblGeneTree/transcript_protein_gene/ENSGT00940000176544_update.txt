@@ -1,0 +1,2 @@
+YJL186W_mRNA	YJL186W	Saccharomyces_cerevisiae_strain_S288C
+YBR015C_mRNA	YBR015C	Saccharomyces_cerevisiae_strain_S288C

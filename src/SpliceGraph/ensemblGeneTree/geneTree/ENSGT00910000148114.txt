@@ -1,0 +1,1 @@
+((ENSMNEG00000043668__Macaca_nemestrina,ENSPANG00000030597__Papio_anubis),(ENSRROG00000045643__Rhinopithecus_roxellana,ENSRBIG00000039687__Rhinopithecus_bieti));

@@ -1,0 +1,1 @@
+((((ENSPTRG00000051600__Pan_troglodytes,ENSPPAG00000042826__Pan_paniscus),ENSGGOG00000039619__Gorilla_gorilla),(ENSCANG00000041196__Colobus_angolensis_palliatus,ENSPTEG00000038431__Piliocolobus_tephrosceles)),(ENSANAG00000027372__Aotus_nancymaae,ENSCJAG00000044687__Callithrix_jacchus));

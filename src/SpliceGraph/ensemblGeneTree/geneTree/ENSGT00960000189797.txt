@@ -1,0 +1,1 @@
+(((ENSCPGG00000019183__Calidris_pygmaea,ENSMVIG00005009902__Manacus_vitellinus),ENSDNVG00000010834__Dromaius_novaehollandiae),(ENSMMMG00000005844__Marmota_marmota_marmota,ENSDNOG00000046270__Dasypus_novemcinctus));

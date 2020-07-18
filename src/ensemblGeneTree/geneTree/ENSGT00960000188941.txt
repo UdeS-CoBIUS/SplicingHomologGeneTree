@@ -1,0 +1,1 @@
+((ENSSDAG00000010116__Spermophilus_dauricus,ENSUPAG00010014784__Urocitellus_parryii),ENSPPRG00000010606__Panthera_pardus);

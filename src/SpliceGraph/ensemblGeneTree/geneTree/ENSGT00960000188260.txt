@@ -1,0 +1,1 @@
+((ENSTGUG00000016746__Taeniopygia_guttata,ENSSCAG00000003908__Serinus_canaria),ENSSSCG00000035572__Sus_scrofa);

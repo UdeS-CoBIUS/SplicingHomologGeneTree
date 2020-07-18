@@ -1,0 +1,1 @@
+((ENSPMGG00000006910__Periophthalmus_magnuspinnatus,ENSPLAG00000019418__Poecilia_latipinna),ENSEBUG00000010454__Eptatretus_burgeri);

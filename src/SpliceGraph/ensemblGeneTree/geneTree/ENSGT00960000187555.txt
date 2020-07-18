@@ -1,0 +1,1 @@
+(((ENSFCAG00000034941__Felis_catus,ENSPPRG00000024908__Panthera_pardus),ENSCAFG00020014085__Canis_lupus_dingo),ENSTSYG00000025799__Carlito_syrichta);

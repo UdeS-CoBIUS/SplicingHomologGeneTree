@@ -1,1 +1,0 @@
-(((ENSKMAG00000015075__Kryptolebias_marmoratus,ENSXCOG00000016534__Xiphophorus_couchianus),ENSTRUG00000020835__Takifugu_rubripes),ENSPMGG00000002510__Periophthalmus_magnuspinnatus);

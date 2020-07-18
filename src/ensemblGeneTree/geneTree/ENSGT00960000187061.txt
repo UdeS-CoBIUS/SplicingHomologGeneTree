@@ -1,0 +1,1 @@
+((((ENSAOCG00000021586__Amphiprion_ocellaris,ENSAPEG00000019156__Amphiprion_percula),ENSAPOG00000001165__Acanthochromis_polyacanthus),(ENSPNYG00000006021__Pundamilia_nyererei,ENSLBEG00000013734__Labrus_bergylta)),(ENSMALG00000010990__Monopterus_albus,ENSSDUG00000012831__Seriola_dumerili));

@@ -1,0 +1,1 @@
+(((ENSCVAG00000021504__Cyprinodon_variegatus,ENSGAFG00000021497__Gambusia_affinis),ENSCSEG00000020192__Cynoglossus_semilaevis),ENSUAMG00000013596__Ursus_americanus);

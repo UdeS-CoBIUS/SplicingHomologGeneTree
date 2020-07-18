@@ -1,0 +1,1 @@
+(ENSAMXG00000034357__Astyanax_mexicanus,ENSTRUG00000019831__Takifugu_rubripes);

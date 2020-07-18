@@ -1,1 +1,0 @@
-(ENSLBEG00000007932__Labrus_bergylta,ENSHCOG00000019515__Hippocampus_comes);

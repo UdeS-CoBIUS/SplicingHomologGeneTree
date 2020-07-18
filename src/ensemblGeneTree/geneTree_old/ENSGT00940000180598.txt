@@ -1,1 +1,0 @@
-((ENSCVAG00000021284__Cyprinodon_variegatus,ENSORLG00000023749__Oryzias_latipes_ASM223467v1),ENSCPBG00000013333__Chrysemys_picta_bellii);

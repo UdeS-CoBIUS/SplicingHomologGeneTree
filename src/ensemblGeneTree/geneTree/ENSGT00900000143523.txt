@@ -1,0 +1,1 @@
+((((ENSMMUG00000044392__Macaca_mulatta,ENSMNEG00000026789__Macaca_nemestrina),ENSPANG00000032484__Papio_anubis),ENSTGEG00000028969__Theropithecus_gelada),ENSSSCG00000031575__Sus_scrofa);

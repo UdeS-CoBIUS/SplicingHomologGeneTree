@@ -1,1 +1,0 @@
-(((ENSPPYG00000003055__Pongo_abelii,ENSOPRG00000010789__Ochotona_princeps),ENSTBEG00000003464__Tupaia_belangeri),ENSPVAG00000009981__Pteropus_vampyrus);

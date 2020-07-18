@@ -1,0 +1,8 @@
+BOSMUTUS	bos_mutus
+BOSTAURUS	bos_taurus
+BISONBISON	bison_bison
+EQUUSASINUS	equus_asinus
+RHINOPITHECUSBIETI	rhinopithecus_bieti
+PILIOCOLOBUSTEPHROSCELES	piliocolobus_tephrosceles
+THEROPITHECUSGELADA	theropithecus_gelada
+PROLEMURSIMUS	prolemur_simus

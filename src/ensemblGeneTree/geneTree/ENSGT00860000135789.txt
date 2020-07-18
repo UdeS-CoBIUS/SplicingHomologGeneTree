@@ -1,0 +1,1 @@
+((ENSTBEG00000017497__Tupaia_belangeri,ENSECAG00000037093__Equus_caballus),ENSLAFG00000023209__Loxodonta_africana);

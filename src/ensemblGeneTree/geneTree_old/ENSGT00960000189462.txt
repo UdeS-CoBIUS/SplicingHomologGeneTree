@@ -1,1 +1,0 @@
-(((ENSNSUG00000000100__Notechis_scutatus,ENSNSUG00000000128__Notechis_scutatus),(((ENSNSUG00000005006__Notechis_scutatus,ENSNSUG00000000061__Notechis_scutatus),ENSNSUG00000000076__Notechis_scutatus),ENSNSUG00000000053__Notechis_scutatus)),(ENSSMRG00000005094__Salvator_merianae,ENSSMRG00000005089__Salvator_merianae));

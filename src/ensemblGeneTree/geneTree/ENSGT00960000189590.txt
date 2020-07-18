@@ -1,0 +1,1 @@
+(((ENSARWG00000017104__Apteryx_rowi,ENSAHAG00000006079__Apteryx_haastii),((ENSCPGG00000006687__Calidris_pygmaea,ENSCPUG00000008558__Calidris_pugnax),ENSABRG00000018544__Anser_brachyrhynchus)),ENSCABG00000006630__Chelonoidis_abingdonii);

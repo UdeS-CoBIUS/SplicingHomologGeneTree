@@ -1,0 +1,12 @@
+>0
+YOR137C_mRNA: ['5event', ['internal gap >= 30', 1725, 211], 1868, 0]
+YNL010W_mRNA: ['exon skipping', 0, 0]
+YLR361C_mRNA: [['internal gap >= 30', 1640, 355], 1724, 0]
+>1
+YOR137C_mRNA: ['exon skipping', 0, 0]
+YNL010W_mRNA: ['5event', 725, 0]
+YLR361C_mRNA: ['exon skipping', 0, 0]
+>2
+YOR137C_mRNA: ['exon skipping', 0, 0]
+YNL010W_mRNA: ['exon skipping', 0, 0]
+YLR361C_mRNA: ['5event', 11, 0]

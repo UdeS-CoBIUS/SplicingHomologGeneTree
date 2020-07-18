@@ -1,0 +1,1 @@
+((((ENSGALG00000051907__Gallus_gallus,ENSAPLG00000026453__Anas_platyrhynchos_platyrhynchos),(ENSFALG00000009262__Ficedula_albicollis,ENSFALG00000008878__Ficedula_albicollis)),ENSORLG00020012335__Oryzias_latipes_ASM223471v1),ENSEBUG00000013868__Eptatretus_burgeri);

@@ -1,0 +1,1 @@
+((((ENSMUGG00000006218__Meriones_unguiculatus,ENSMUGG00000001250__Meriones_unguiculatus),ENSMMMG00000002118__Marmota_marmota_marmota),(ENSBMUG00000021203__Bos_mutus,ENSVVUG00000021969__Vulpes_vulpes)),(((ENSMZEG00005017271__Maylandia_zebra,ENSACLG00000019706__Astatotilapia_calliptera),ENSPNYG00000021383__Pundamilia_nyererei),ENSAMXG00000029604__Astyanax_mexicanus));

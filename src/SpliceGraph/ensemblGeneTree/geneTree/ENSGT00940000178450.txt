@@ -1,0 +1,1 @@
+((((ENSSLDG00000024558__Seriola_lalandi_dorsalis,ENSSDUG00000002822__Seriola_dumerili),ENSMALG00000008592__Monopterus_albus),ENSMALG00000004993__Monopterus_albus),ENSNBRG00000010479__Neolamprologus_brichardi);

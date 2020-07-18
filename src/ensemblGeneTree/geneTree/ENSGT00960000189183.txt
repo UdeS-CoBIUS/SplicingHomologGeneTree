@@ -1,0 +1,1 @@
+(((ENSPTEG00000007111__Piliocolobus_tephrosceles,ENSPTEG00000001777__Piliocolobus_tephrosceles),ENSPTEG00000011979__Piliocolobus_tephrosceles),ENSCING00000005224__Ciona_intestinalis);

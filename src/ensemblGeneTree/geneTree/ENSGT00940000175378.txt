@@ -1,0 +1,1 @@
+(((ENSCVAG00000021378__Cyprinodon_variegatus,ENSPMGG00000014570__Periophthalmus_magnuspinnatus),(ENSAMXG00000036393__Astyanax_mexicanus,ENSAMXG00000041664__Astyanax_mexicanus)),(ENSGGOG00000043798__Gorilla_gorilla,ENSPTEG00000032046__Piliocolobus_tephrosceles));

@@ -1,0 +1,4 @@
+MACACANEMESTRINA	macaca_nemestrina
+MANDRILLUSLEUCOPHAEUS	mandrillus_leucophaeus
+RHINOPITHECUSBIETI	rhinopithecus_bieti
+CARLITOSYRICHTA	carlito_syrichta

@@ -1,0 +1,2 @@
+T28B4.1c.1	WBGene00020884	Caenorhabditis_elegans_strain_N2	T28B4.1c.1
+FBpp0084796	FBgn0039667	Drosophila_melanogaster	FBtr0085428

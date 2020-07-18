@@ -1,0 +1,1 @@
+(((((ENSMSIG00000024386__Mus_spicilegus,ENSMOCG00000008802__Microtus_ochrogaster),ENSMMMG00000001769__Marmota_marmota_marmota),ENSPSMG00000015074__Prolemur_simus),(ENSEASG00005016983__Equus_asinus_asinus,ENSECAG00000038617__Equus_caballus)),ENSSMRG00000020198__Salvator_merianae);

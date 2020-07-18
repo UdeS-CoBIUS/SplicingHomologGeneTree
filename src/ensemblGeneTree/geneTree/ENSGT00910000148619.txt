@@ -1,0 +1,1 @@
+(((ENSSSCG00000032392__Sus_scrofa_strain_reference,ENSBMUG00000017464__Bos_mutus),(((ENSUMAG00000005242__Ursus_maritimus,ENSNVIG00000024874__Neovison_vison),ENSVVUG00000030113__Vulpes_vulpes),ENSPTIG00000016237__Panthera_tigris_altaica)),((ENSTGEG00000003527__Theropithecus_gelada,ENSPPAG00000014880__Pan_paniscus),ENSTSYG00000032492__Carlito_syrichta));

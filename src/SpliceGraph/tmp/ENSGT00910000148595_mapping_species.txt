@@ -1,0 +1,6 @@
+UROCITELLUSPARRYII	urocitellus_parryii
+UROCITELLUSPARRYII	urocitellus_parryii
+ICTIDOMYSTRIDECEMLINEATUS	ictidomys_tridecemlineatus
+CARLITOSYRICHTA	carlito_syrichta
+URSUSAMERICANUS	ursus_americanus
+NEOVISONVISON	neovison_vison

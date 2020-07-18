@@ -1,0 +1,1 @@
+((((ENSUMAG00000007010__Ursus_maritimus,ENSUAMG00000016860__Ursus_americanus),ENSNVIG00000011946__Neovison_vison),(ENSCAFG00020026604__Canis_lupus_dingo,ENSVVUG00000008890__Vulpes_vulpes)),ENSTGEG00000024092__Theropithecus_gelada);

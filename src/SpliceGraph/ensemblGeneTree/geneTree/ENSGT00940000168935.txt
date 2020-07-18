@@ -1,0 +1,1 @@
+((((ENSMODG00000025226__Monodelphis_domestica,ENSLAFG00000030912__Loxodonta_africana),ENSSPUG00000015352__Sphenodon_punctatus),ENSMVIG00005015043__Manacus_vitellinus),ENSEBUG00000014179__Eptatretus_burgeri);

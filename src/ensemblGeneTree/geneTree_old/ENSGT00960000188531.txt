@@ -1,1 +1,0 @@
-(ENSTRUG00000013893__Takifugu_rubripes,ENSMMOG00000012587__Mola_mola);

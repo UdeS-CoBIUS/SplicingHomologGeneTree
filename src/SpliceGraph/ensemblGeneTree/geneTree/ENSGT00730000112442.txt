@@ -1,0 +1,1 @@
+(((ENSPSIG00000001118__Pelodiscus_sinensis,ENSPSIG00000001140__Pelodiscus_sinensis),ENSPSIG00000001132__Pelodiscus_sinensis),ENSGALG00000029526__Gallus_gallus);

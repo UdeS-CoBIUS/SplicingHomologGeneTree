@@ -1,0 +1,1 @@
+((((ENSCHIG00000022908__Capra_hircus,ENSCHIG00000026395__Capra_hircus),(ENSMSIG00000002815__Mus_spicilegus,ENSNVIG00000008674__Neovison_vison)),ENSMSIG00000002825__Mus_spicilegus),((((ENSJHYG00000004257__Junco_hyemalis,ENSZALG00000006877__Zonotrichia_albicollis),ENSSCAG00000013894__Serinus_canaria),ENSCPGG00000015148__Calidris_pygmaea),ENSSPUG00000001466__Sphenodon_punctatus));

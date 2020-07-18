@@ -1,0 +1,15 @@
+PANTHERATIGRISALTAICA	panthera_tigris_altaica
+FELISCATUS	felis_catus
+URSUSAMERICANUS	ursus_americanus
+URSUSMARITIMUS	ursus_maritimus
+NEOVISONVISON	neovison_vison
+PANTROGLODYTES	pan_troglodytes
+PANPANISCUS	pan_paniscus
+GORILLAGORILLA	gorilla_gorilla
+NOMASCUSLEUCOGENYS	nomascus_leucogenys
+MANDRILLUSLEUCOPHAEUS	mandrillus_leucophaeus
+CERCOCEBUSATYS	cercocebus_atys
+MACACAFASCICULARIS	macaca_fascicularis
+MACACAMULATTA	macaca_mulatta
+MACACANEMESTRINA	macaca_nemestrina
+PAPIOANUBIS	papio_anubis

@@ -1,0 +1,1 @@
+(((ENSCCEG00000023421__Cyanistes_caeruleus,ENSLCOG00000015710__Lepidothrix_coronata),(ENSMUNG00000012827__Melopsittacus_undulatus,ENSCPUG00000013178__Calidris_pugnax)),ENSNSUG00000012415__Notechis_scutatus);

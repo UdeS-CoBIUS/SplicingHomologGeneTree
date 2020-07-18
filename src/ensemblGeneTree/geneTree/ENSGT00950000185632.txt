@@ -1,0 +1,1 @@
+((ENSSPUG00000000834__Sphenodon_punctatus,ENSSPUG00000000825__Sphenodon_punctatus),(ENSSDAG00000014017__Spermophilus_dauricus,ENSSDAG00000016115__Spermophilus_dauricus));

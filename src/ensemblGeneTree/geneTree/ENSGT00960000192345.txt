@@ -1,0 +1,1 @@
+(ENSETEG00000000610__Echinops_telfairi,ENSCPGG00000011337__Calidris_pygmaea);

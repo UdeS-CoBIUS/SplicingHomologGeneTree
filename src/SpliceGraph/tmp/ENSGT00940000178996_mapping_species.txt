@@ -1,0 +1,4 @@
+ORYZIASLATIPES	oryzias_latipes
+ORYZIASLATIPESASM223469V1	oryzias_latipes_asm223469v1
+ORYZIASLATIPES	oryzias_latipes
+ORYZIASMELASTIGMA	oryzias_melastigma

@@ -1,0 +1,1 @@
+((((((ENSPPYG00000016609__Pongo_abelii,ENSOPRG00000007613__Ochotona_princeps),(ENSPVAG00000007617__Pteropus_vampyrus,ENSTTRG00000014044__Tursiops_truncatus)),ENSLAFG00000000942__Loxodonta_africana),ENSMODG00000012765__Monodelphis_domestica),ENSOANG00000002017__Ornithorhynchus_anatinus),ENSPSIG00000003623__Pelodiscus_sinensis);

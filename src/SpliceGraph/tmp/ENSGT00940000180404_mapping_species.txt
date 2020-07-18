@@ -1,0 +1,3 @@
+ASTATOTILAPIACALLIPTERA	astatotilapia_calliptera
+HAPLOCHROMISBURTONI	haplochromis_burtoni
+MAYLANDIAZEBRA	maylandia_zebra

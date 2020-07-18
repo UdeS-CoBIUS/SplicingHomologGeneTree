@@ -1,0 +1,1 @@
+((ENSSMRG00000017446__Salvator_merianae,ENSSDAG00000002706__Spermophilus_dauricus),((((ENSLSDG00000007431__Lonchura_striata_domestica,ENSCPUG00000003684__Calidris_pugnax),((ENSAOWG00000009236__Apteryx_owenii,ENSAHAG00000006509__Apteryx_haastii),ENSARWG00000002291__Apteryx_rowi)),ENSGAGG00000017895__Gopherus_agassizii),ENSPCIG00000024566__Phascolarctos_cinereus));

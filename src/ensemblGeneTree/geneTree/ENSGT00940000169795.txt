@@ -1,0 +1,1 @@
+((ENSGAGG00000017796__Gopherus_agassizii,ENSNSUG00000020472__Notechis_scutatus),((((ENSBBBG00000005278__Bison_bison_bison,ENSSSCG00000040438__Sus_scrofa),ENSNVIG00000018800__Neovison_vison),ENSCHOG00000002505__Choloepus_hoffmanni),ENSPCAG00000001784__Procavia_capensis));

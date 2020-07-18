@@ -1,0 +1,1 @@
+((((ENSAOWG00000002960__Apteryx_owenii,ENSAHAG00000013596__Apteryx_haastii),ENSARWG00000018092__Apteryx_rowi),(ENSLSDG00000006888__Lonchura_striata_domestica,ENSSCAG00000015116__Serinus_canaria)),ENSNSUG00000004894__Notechis_scutatus);

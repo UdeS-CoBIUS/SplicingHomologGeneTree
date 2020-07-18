@@ -1,0 +1,3 @@
+B0454.5.1	WBGene00015196	Caenorhabditis_elegans_strain_N2	B0454.5.1
+F41C3.8b.1	WBGene00018274	Caenorhabditis_elegans_strain_N2	F41C3.8b.1
+ENSCINP00000020890	ENSCING00000011457	Ciona_intestinalis	ENSCINT00000020890

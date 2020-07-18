@@ -1,1 +1,0 @@
-((ENSTGEG00000016151__Theropithecus_gelada,ENSPTEG00000012719__Piliocolobus_tephrosceles),ENSVVUG00000000012__Vulpes_vulpes);

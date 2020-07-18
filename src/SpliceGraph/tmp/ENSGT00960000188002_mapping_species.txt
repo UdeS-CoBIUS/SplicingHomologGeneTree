@@ -1,0 +1,14 @@
+APTERYXROWI	apteryx_rowi
+NOTHOPROCTAPERDICARIA	nothoprocta_perdicaria
+CALIDRISPYGMAEA	calidris_pygmaea
+CALIDRISPUGNAX	calidris_pugnax
+CYANISTESCAERULEUS	cyanistes_caeruleus
+PARUSMAJOR	parus_major
+TAENIOPYGIAGUTTATA	taeniopygia_guttata
+LONCHURASTRIATADOMESTICA	lonchura_striata_domestica
+SERINUSCANARIA	serinus_canaria
+ZONOTRICHIAALBICOLLIS	zonotrichia_albicollis
+JUNCOHYEMALIS	junco_hyemalis
+FICEDULAALBICOLLIS	ficedula_albicollis
+NUMIDAMELEAGRIS	numida_meleagris
+OCHOTONAPRINCEPS	ochotona_princeps

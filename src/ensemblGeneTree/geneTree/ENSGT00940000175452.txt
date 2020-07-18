@@ -1,0 +1,1 @@
+((ENSSDUG00000014729__Seriola_dumerili,ENSSLDG00000011627__Seriola_lalandi_dorsalis),ENSXETG00000031315__Xenopus_tropicalis);

@@ -1,0 +1,1 @@
+(ENSMODG00000029135__Monodelphis_domestica,ENSMPUG00000002525__Mustela_putorius_furo);

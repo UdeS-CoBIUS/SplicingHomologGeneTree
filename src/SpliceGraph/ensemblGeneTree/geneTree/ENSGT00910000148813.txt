@@ -1,0 +1,1 @@
+(((ENSMMUG00000042340__Macaca_mulatta,ENSMFAG00000036486__Macaca_fascicularis),ENSMNEG00000016595__Macaca_nemestrina),ENSCANG00000029943__Colobus_angolensis_palliatus);

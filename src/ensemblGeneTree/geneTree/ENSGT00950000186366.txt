@@ -1,0 +1,1 @@
+(ENSUMAG00000006054__Ursus_maritimus,ENSMOCG00000005221__Microtus_ochrogaster);

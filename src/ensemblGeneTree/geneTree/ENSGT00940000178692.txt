@@ -1,0 +1,1 @@
+(((ENSSLDG00000020677__Seriola_lalandi_dorsalis,ENSSDUG00000010180__Seriola_dumerili),ENSCSEG00000007304__Cynoglossus_semilaevis),ENSLBEG00000005800__Labrus_bergylta);

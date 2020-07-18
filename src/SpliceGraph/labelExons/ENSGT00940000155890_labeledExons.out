@@ -1,0 +1,48 @@
+>0
+ENSEBUT00000016662: ['no event', 111, 0]
+ENSEBUT00000001415: ['exon skipping', 0, 0]
+ENSLAFT00000030578: ['exon skipping', 0, 0]
+ENSPCAT00000014888: ['exon skipping', 0, 0]
+ENSETET00000017220: ['exon skipping', 0, 0]
+>1
+ENSEBUT00000016662: [['internal gap < 30', 458, 28], 483, 1]
+ENSEBUT00000001415: ['5event', ['internal gap >= 30', 96, 161], 350, 0]
+ENSLAFT00000030578: ['5event', ['internal gap >= 30', 308, 178], 333, 0]
+ENSPCAT00000014888: ['5event', ['internal gap >= 30', 308, 178], 333, 0]
+ENSETET00000017220: ['5event', ['internal gap >= 30', 308, 178], 333, 0]
+>2
+ENSEBUT00000016662: ['exon skipping', 0, 0]
+ENSEBUT00000001415: ['exon skipping', 0, 0]
+ENSLAFT00000030578: ['exon skipping', 0, 0]
+ENSPCAT00000014888: ['exon skipping', 0, 0]
+ENSETET00000017220: ['no event', 229, 1]
+>3
+ENSEBUT00000016662: ['exon skipping', 0, 0]
+ENSEBUT00000001415: ['only gap', 0, 0]
+ENSLAFT00000030578: ['exon skipping', 0, 0]
+ENSPCAT00000014888: ['exon skipping', 0, 0]
+ENSETET00000017220: ['exon skipping', 0, 0]
+>4
+ENSEBUT00000016662: ['5event', ['internal gap >= 30', 49, 107], 157, 1]
+ENSEBUT00000001415: ['3event', '5event', 156, 1]
+ENSLAFT00000030578: ['3event', '5event', 233, 1]
+ENSPCAT00000014888: ['3event', '5event', 227, 1]
+ENSETET00000017220: ['exon skipping', 0, 0]
+>5
+ENSEBUT00000016662: [['internal gap < 30', 55, 7], 120, 0]
+ENSEBUT00000001415: ['5event', ['internal gap < 30', 59, 5], 122, 0]
+ENSLAFT00000030578: ['5event', ['internal gap < 30', 71, 8], 119, 0]
+ENSPCAT00000014888: ['5event', ['internal gap < 30', 71, 8], 119, 0]
+ENSETET00000017220: ['5event', ['internal gap < 30', 71, 8], 119, 0]
+>6
+ENSEBUT00000016662: ['no event', 116, 0]
+ENSEBUT00000001415: ['no event', 116, 0]
+ENSLAFT00000030578: ['no event', 116, 0]
+ENSPCAT00000014888: ['no event', 116, 0]
+ENSETET00000017220: ['exon skipping', 0, 0]
+>7
+ENSEBUT00000016662: ['exon skipping', 0, 0]
+ENSEBUT00000001415: ['exon skipping', 0, 0]
+ENSLAFT00000030578: ['no event', 14, 0]
+ENSPCAT00000014888: ['no event', 14, 0]
+ENSETET00000017220: ['exon skipping', 0, 0]

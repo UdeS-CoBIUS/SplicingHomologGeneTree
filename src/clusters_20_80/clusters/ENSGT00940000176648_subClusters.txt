@@ -1,4 +1,4 @@
 >cluster_0
-FBtr0079765	FBtr0079766
->cluster_1
 FBtr0309842
+>cluster_1
+FBtr0079765	FBtr0079766

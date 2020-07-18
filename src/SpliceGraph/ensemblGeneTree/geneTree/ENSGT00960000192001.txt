@@ -1,0 +1,1 @@
+(ENSARWG00000008461__Apteryx_rowi,ENSOANG00000021488__Ornithorhynchus_anatinus);

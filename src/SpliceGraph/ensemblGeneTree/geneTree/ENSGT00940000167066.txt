@@ -1,0 +1,1 @@
+(((ENSRBIG00000026251__Rhinopithecus_bieti,ENSPTEG00000032136__Piliocolobus_tephrosceles),(((ENSMFAG00000030891__Macaca_fascicularis,ENSMMUG00000017335__Macaca_mulatta),ENSTGEG00000024054__Theropithecus_gelada),ENSCSAG00000000299__Chlorocebus_sabaeus)),((ENSG00000183434__Homo_sapiens,ENSPTRG00000028201__Pan_troglodytes),ENSGGOG00000028272__Gorilla_gorilla));

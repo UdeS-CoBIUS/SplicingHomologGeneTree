@@ -1,0 +1,1 @@
+(ENSCHIG00000025111__Capra_hircus,ENSBBBG00000019997__Bison_bison_bison);

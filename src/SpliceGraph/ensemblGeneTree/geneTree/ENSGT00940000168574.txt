@@ -1,0 +1,1 @@
+(((ENSOARG00000013916__Ovis_aries,ENSAMEG00000018212__Ailuropoda_melanoleuca),ENSJJAG00000013650__Jaculus_jaculus),ENSHCOG00000021110__Hippocampus_comes);

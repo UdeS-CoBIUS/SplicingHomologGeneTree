@@ -1,0 +1,40 @@
+>0
+ENSCPRT00005000078: ['no event', 78, 0]
+ENSAOWT00000015648: ['exon skipping', 0, 0]
+ENSDNVT00000021189: ['exon skipping', 0, 0]
+>1
+ENSCPRT00005000078: ['exon skipping', 0, 0]
+ENSAOWT00000015648: ['exon skipping', 0, 0]
+ENSDNVT00000021189: ['5event', 8, 0]
+>2
+ENSCPRT00005000078: ['5event', 1, 1]
+ENSAOWT00000015648: ['exon skipping', 0, 0]
+ENSDNVT00000021189: ['exon skipping', 0, 0]
+>3
+ENSCPRT00005000078: ['no event', 129, 0]
+ENSAOWT00000015648: ['5event', 128, 0]
+ENSDNVT00000021189: ['exon skipping', 0, 0]
+>4
+ENSCPRT00005000078: ['no event', 35, 0]
+ENSAOWT00000015648: ['exon skipping', 0, 0]
+ENSDNVT00000021189: ['exon skipping', 0, 0]
+>5
+ENSCPRT00005000078: [['internal gap >= 30', 2, 63], 50, 0]
+ENSAOWT00000015648: ['5event', 111, 0]
+ENSDNVT00000021189: ['5event', ['internal gap >= 30', 36, 47], 66, 0]
+>6
+ENSCPRT00005000078: ['no event', 185, 1]
+ENSAOWT00000015648: ['no event', 185, 1]
+ENSDNVT00000021189: ['no event', 185, 1]
+>7
+ENSCPRT00005000078: ['3event', 131, 1]
+ENSAOWT00000015648: ['no event', 143, 1]
+ENSDNVT00000021189: ['no event', 143, 1]
+>8
+ENSCPRT00005000078: ['exon skipping', 0, 0]
+ENSAOWT00000015648: ['no event', 220, 1]
+ENSDNVT00000021189: ['no event', 220, 1]
+>9
+ENSCPRT00005000078: ['5event', 310, 1]
+ENSAOWT00000015648: ['exon skipping', 0, 0]
+ENSDNVT00000021189: ['exon skipping', 0, 0]

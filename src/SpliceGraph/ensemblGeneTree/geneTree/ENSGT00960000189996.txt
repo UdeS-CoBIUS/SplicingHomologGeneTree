@@ -1,0 +1,1 @@
+((ENSARWG00000013854__Apteryx_rowi,ENSNPEG00000010881__Nothoprocta_perdicaria),(ENSNMEG00000016344__Numida_meleagris,ENSCJPG00005012855__Coturnix_japonica));

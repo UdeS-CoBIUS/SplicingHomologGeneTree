@@ -1,0 +1,1 @@
+(((ENSGAGG00000016384__Gopherus_agassizii,ENSCPBG00000014048__Chrysemys_picta_bellii),ENSCPGG00000013616__Calidris_pygmaea),(((ENSPPYG00000012657__Pongo_abelii,ENSOCUG00000026518__Oryctolagus_cuniculus),ENSOARG00000019367__Ovis_aries),ENSLAFG00000026037__Loxodonta_africana));

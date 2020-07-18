@@ -1,0 +1,4 @@
+BOSMUTUS	bos_mutus
+MYOTISLUCIFUGUS	myotis_lucifugus
+RHINOPITHECUSROXELLANA	rhinopithecus_roxellana
+RHINOPITHECUSBIETI	rhinopithecus_bieti

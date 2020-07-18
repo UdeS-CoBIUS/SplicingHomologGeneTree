@@ -1,0 +1,1 @@
+((((ENSXMAG00000005714__Xiphophorus_maculatus,ENSLBEG00000021832__Labrus_bergylta),ENSCING00000016347__Ciona_intestinalis),(ENSPTEG00000012518__Piliocolobus_tephrosceles,ENSPTEG00000010330__Piliocolobus_tephrosceles)),YGL120C__Saccharomyces_cerevisiae_strain_S288C);

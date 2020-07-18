@@ -1,0 +1,1 @@
+((((ENSFHEG00000002322__Fundulus_heteroclitus,ENSCVAG00000018376__Cyprinodon_variegatus),(((ENSPLAG00000012370__Poecilia_latipinna,ENSPMEG00000023970__Poecilia_mexicana),ENSPFOG00000013141__Poecilia_formosa),ENSPREG00000017811__Poecilia_reticulata)),ENSOMEG00000003843__Oryzias_melastigma),ENSONIG00000005618__Oreochromis_niloticus);

@@ -1,0 +1,1 @@
+(((ENSRROG00000039002__Rhinopithecus_roxellana,ENSRBIG00000031560__Rhinopithecus_bieti),ENSCANG00000001423__Colobus_angolensis_palliatus),ENSPANG00000030916__Papio_anubis);

@@ -1,0 +1,2 @@
+ENSAPLP00000030832	ENSAPLG00000027784	Anas_platyrhynchos_platyrhynchos
+ENSAPLP00000027305	ENSAPLG00000018067	Anas_platyrhynchos_platyrhynchos

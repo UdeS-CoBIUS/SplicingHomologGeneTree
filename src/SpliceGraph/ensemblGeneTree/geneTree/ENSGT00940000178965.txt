@@ -1,0 +1,1 @@
+(((ENSPLAG00000005819__Poecilia_latipinna,ENSTRUG00000021885__Takifugu_rubripes),(ENSAPOG00000002092__Acanthochromis_polyacanthus,ENSTRUG00000025625__Takifugu_rubripes)),ENSARWG00000010460__Apteryx_rowi);

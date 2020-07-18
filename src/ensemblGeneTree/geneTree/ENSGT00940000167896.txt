@@ -1,0 +1,1 @@
+(((ENSHGLG00100010053__Heterocephalus_glaber_HetGla_1.0,ENSHGLG00000008288__Heterocephalus_glaber_HetGla_female_1.0),ENSODEG00000014356__Octodon_degus),((ENSDORG00000027744__Dipodomys_ordii,ENSSTOG00000034487__Ictidomys_tridecemlineatus),ENSJJAG00000021704__Jaculus_jaculus));

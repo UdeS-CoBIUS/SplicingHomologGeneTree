@@ -1,0 +1,2 @@
+DROSOPHILAMELANOGASTER	drosophila_melanogaster
+EPTATRETUSBURGERI	eptatretus_burgeri

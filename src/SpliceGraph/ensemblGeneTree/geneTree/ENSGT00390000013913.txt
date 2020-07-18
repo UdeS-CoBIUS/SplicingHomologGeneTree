@@ -1,0 +1,1 @@
+((ENSMEUG00000015839__Notamacropus_eugenii,ENSSHAG00000005766__Sarcophilus_harrisii),((ENSPCAG00000004159__Procavia_capensis,ENSETEG00000004762__Echinops_telfairi),(ENSTTRG00000005017__Tursiops_truncatus,ENSPPYG00000007680__Pongo_abelii)));

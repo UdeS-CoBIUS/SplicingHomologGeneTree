@@ -1,0 +1,1 @@
+(((ENSELUG00000003732__Esox_lucius,ENSCSEG00000021319__Cynoglossus_semilaevis),(ENSIPUG00000018920__Ictalurus_punctatus,ENSDARG00000104077__Danio_rerio)),ENSPKIG00000007671__Paramormyrops_kingsleyae);

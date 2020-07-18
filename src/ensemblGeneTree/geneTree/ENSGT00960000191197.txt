@@ -1,0 +1,1 @@
+(ENSAPLG00000020848__Anas_platyrhynchos_platyrhynchos,ENSGALG00000005849__Gallus_gallus);

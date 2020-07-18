@@ -1,0 +1,1 @@
+((((ENSSPAG00000002646__Stegastes_partitus,ENSSPAG00000005727__Stegastes_partitus),(ENSSPAG00000008095__Stegastes_partitus,ENSSPAG00000014007__Stegastes_partitus)),(ENSSPAG00000001406__Stegastes_partitus,ENSSPAG00000002288__Stegastes_partitus)),ENSMMOG00000015622__Mola_mola);

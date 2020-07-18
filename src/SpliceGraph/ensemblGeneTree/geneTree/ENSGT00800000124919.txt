@@ -1,0 +1,1 @@
+(ENSHCOG00000010027__Hippocampus_comes,FBgn0031042__Drosophila_melanogaster);

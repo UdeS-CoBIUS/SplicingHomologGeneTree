@@ -1,0 +1,1 @@
+(((((ENSPTRG00000048658__Pan_troglodytes,ENSPPAG00000019617__Pan_paniscus),ENSG00000270394__Homo_sapiens),ENSNLEG00000031898__Nomascus_leucogenys),(ENSTGEG00000005692__Theropithecus_gelada,ENSPTEG00000029451__Piliocolobus_tephrosceles)),ENSCJAG00000040299__Callithrix_jacchus);

@@ -1,0 +1,1 @@
+(((ENSSCAG00000001990__Serinus_canaria,ENSLCOG00000014898__Lepidothrix_coronata),ENSDNVG00000001549__Dromaius_novaehollandiae),(ENSUAMG00000009687__Ursus_americanus,ENSUMAG00000009305__Ursus_maritimus));

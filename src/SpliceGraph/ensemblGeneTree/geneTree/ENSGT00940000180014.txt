@@ -1,0 +1,1 @@
+((ENSSMAG00000005647__Scophthalmus_maximus,ENSMALG00000020060__Monopterus_albus),ENSTRUG00000021789__Takifugu_rubripes);

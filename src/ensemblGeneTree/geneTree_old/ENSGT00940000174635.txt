@@ -1,1 +1,0 @@
-((((ENSAOWG00000003096__Apteryx_owenii,ENSZALG00000011909__Zonotrichia_albicollis),ENSPVIG00000004099__Pogona_vitticeps),((ENSNVIG00000000530__Neovison_vison,ENSCAFG00020021970__Canis_lupus_dingo),ENSMLEG00000039658__Mandrillus_leucophaeus)),ENSPMGG00000002415__Periophthalmus_magnuspinnatus);

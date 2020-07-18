@@ -1,0 +1,1 @@
+(((ENSPSIG00000008104__Pelodiscus_sinensis,ENSMGAG00000010632__Meleagris_gallopavo),(ENSSHAG00000002994__Sarcophilus_harrisii,ENSFDAG00000009214__Fukomys_damarensis)),ENSGMOG00000002438__Gadus_morhua);

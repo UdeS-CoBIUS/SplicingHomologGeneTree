@@ -1,0 +1,1 @@
+((((ENSCCEG00000003676__Cyanistes_caeruleus,ENSCCEG00000011492__Cyanistes_caeruleus),ENSNMEG00000006341__Numida_meleagris),ENSCPUG00000005631__Calidris_pugnax),ENSFHEG00000011962__Fundulus_heteroclitus);

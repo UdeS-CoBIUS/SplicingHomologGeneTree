@@ -1,0 +1,1 @@
+(((ENSGACG00000015151__Gasterosteus_aculeatus,ENSGACG00000015149__Gasterosteus_aculeatus),ENSPMGG00000013024__Periophthalmus_magnuspinnatus),ENSAMXG00000015074__Astyanax_mexicanus);

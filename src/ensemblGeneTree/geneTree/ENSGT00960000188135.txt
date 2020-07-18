@@ -1,0 +1,1 @@
+((ENSCPBG00000008492__Chrysemys_picta_bellii,ENSGAGG00000024213__Gopherus_agassizii),ENSDNVG00000015018__Dromaius_novaehollandiae);

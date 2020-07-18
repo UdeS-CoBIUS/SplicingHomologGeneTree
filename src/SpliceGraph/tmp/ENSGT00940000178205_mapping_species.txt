@@ -1,0 +1,7 @@
+LABRUSBERGYLTA	labrus_bergylta
+LABRUSBERGYLTA	labrus_bergylta
+LABRUSBERGYLTA	labrus_bergylta
+TAKIFUGURUBRIPES	takifugu_rubripes
+LATESCALCARIFER	lates_calcarifer
+CYNOGLOSSUSSEMILAEVIS	cynoglossus_semilaevis
+MONOPTERUSALBUS	monopterus_albus

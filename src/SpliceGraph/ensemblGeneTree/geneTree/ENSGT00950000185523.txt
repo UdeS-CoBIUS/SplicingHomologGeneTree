@@ -1,0 +1,1 @@
+((((ENSGAGG00000006706__Gopherus_agassizii,ENSCABG00000000363__Chelonoidis_abingdonii),ENSCPBG00000000911__Chrysemys_picta_bellii),((ENSCPUG00000014430__Calidris_pugnax,ENSCPGG00000001223__Calidris_pygmaea),ENSMUNG00000001245__Melopsittacus_undulatus)),ENSPVIG00000001220__Pogona_vitticeps);

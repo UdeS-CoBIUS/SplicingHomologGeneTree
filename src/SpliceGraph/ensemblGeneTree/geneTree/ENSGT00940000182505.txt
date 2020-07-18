@@ -1,0 +1,1 @@
+(ENSPREG00000019600__Poecilia_reticulata,ENSKMAG00000014620__Kryptolebias_marmoratus);

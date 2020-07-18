@@ -1,0 +1,1 @@
+(ENSFDAG00000018862__Fukomys_damarensis,ENSSSCG00000034240__Sus_scrofa);

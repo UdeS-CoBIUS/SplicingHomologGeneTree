@@ -1,1 +1,0 @@
-((ENSSLDG00000000063__Seriola_lalandi_dorsalis,ENSPMGG00000010548__Periophthalmus_magnuspinnatus),((ENSPMJG00000017019__Parus_major,ENSAHAG00000007291__Apteryx_haastii),(ENSBBBG00000024346__Bison_bison_bison,ENSPTEG00000002225__Piliocolobus_tephrosceles)));

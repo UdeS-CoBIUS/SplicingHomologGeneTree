@@ -1,0 +1,1 @@
+((ENSVPAG00000010526__Vicugna_pacos,ENSSSCG00000040196__Sus_scrofa),ENSOANG00000030650__Ornithorhynchus_anatinus);

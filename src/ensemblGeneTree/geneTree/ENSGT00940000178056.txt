@@ -1,0 +1,1 @@
+((((ENSPNYG00000019603__Pundamilia_nyererei,ENSMZEG00005015947__Maylandia_zebra),ENSACLG00000007568__Astatotilapia_calliptera),((ENSAPEG00000014629__Amphiprion_percula,ENSAPOG00000019505__Acanthochromis_polyacanthus),ENSORLG00020008860__Oryzias_latipes_ASM223471v1)),ENSSDUG00000020803__Seriola_dumerili);

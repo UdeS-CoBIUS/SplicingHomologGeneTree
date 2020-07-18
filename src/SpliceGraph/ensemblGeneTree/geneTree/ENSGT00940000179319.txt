@@ -1,0 +1,1 @@
+((((ENSMALG00000020930__Monopterus_albus,ENSMALG00000009428__Monopterus_albus),ENSHCOG00000009894__Hippocampus_comes),ENSHHUG00000031276__Hucho_hucho),(ENSAOWG00000019236__Apteryx_owenii,ENSAHAG00000018556__Apteryx_haastii));

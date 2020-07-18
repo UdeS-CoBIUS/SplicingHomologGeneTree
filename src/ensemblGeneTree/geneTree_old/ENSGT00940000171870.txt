@@ -1,1 +1,0 @@
-((ENSSMRG00000002718__Salvator_merianae,ENSABRG00000005443__Anser_brachyrhynchus),(ENSPPRG00000022468__Panthera_pardus,ENSCHIG00000006228__Capra_hircus));

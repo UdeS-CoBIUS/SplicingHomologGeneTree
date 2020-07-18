@@ -1,0 +1,1 @@
+(((ENSCAFG00020026854__Canis_lupus_dingo,ENSVVUG00000010337__Vulpes_vulpes),ENSSSCG00000035679__Sus_scrofa),(ENSTGEG00000007812__Theropithecus_gelada,ENSCGRG00015027520__Cricetulus_griseus_CriGri-PICR));

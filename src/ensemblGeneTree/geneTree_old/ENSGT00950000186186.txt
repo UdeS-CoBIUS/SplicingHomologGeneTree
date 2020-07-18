@@ -1,1 +1,0 @@
-(((ENSSDAG00000008017__Spermophilus_dauricus,ENSUAMG00000001359__Ursus_americanus),ENSLAFG00000029999__Loxodonta_africana),ENSPCIG00000033895__Phascolarctos_cinereus);

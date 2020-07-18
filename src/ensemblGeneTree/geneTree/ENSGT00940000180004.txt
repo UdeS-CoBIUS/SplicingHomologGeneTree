@@ -1,0 +1,1 @@
+((ENSSLDG00000006352__Seriola_lalandi_dorsalis,ENSLBEG00000015091__Labrus_bergylta),ENSACIG00000024099__Amphilophus_citrinellus);

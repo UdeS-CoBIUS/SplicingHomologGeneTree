@@ -1,0 +1,1 @@
+((((ENSHGLG00000017176__Heterocephalus_glaber_HetGla_female_1.0,ENSHGLG00100000118__Heterocephalus_glaber_HetGla_1.0),ENSODEG00000013804__Octodon_degus),((ENSOARG00000008601__Ovis_aries,ENSMLUG00000025937__Myotis_lucifugus),ENSFCAG00000030039__Felis_catus)),ENSPCIG00000018072__Phascolarctos_cinereus);

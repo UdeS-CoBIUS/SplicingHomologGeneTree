@@ -1,1 +1,0 @@
-((ENSPSIG00000010769__Pelodiscus_sinensis,ENSPSIG00000000115__Pelodiscus_sinensis),ENSLACG00000007524__Latimeria_chalumnae);

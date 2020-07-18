@@ -1,0 +1,4 @@
+ORNITHORHYNCHUSANATINUS	ornithorhynchus_anatinus
+ORNITHORHYNCHUSANATINUS	ornithorhynchus_anatinus
+ORNITHORHYNCHUSANATINUS	ornithorhynchus_anatinus
+MONODELPHISDOMESTICA	monodelphis_domestica

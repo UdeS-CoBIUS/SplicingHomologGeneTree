@@ -1,1 +1,0 @@
-((ENSORLG00000023827__Oryzias_latipes_ASM223467v1,ENSPLAG00000000553__Poecilia_latipinna),ENSIPUG00000012027__Ictalurus_punctatus);

@@ -1,1 +1,0 @@
-((ENSMEUG00000006561__Notamacropus_eugenii,ENSSHAG00000016919__Sarcophilus_harrisii),ENSOCUG00000027304__Oryctolagus_cuniculus);

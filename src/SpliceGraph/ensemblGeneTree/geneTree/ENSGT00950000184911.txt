@@ -1,0 +1,1 @@
+((ENSGALG00000044002__Gallus_gallus,ENSDNVG00000010994__Dromaius_novaehollandiae),ENSTTRG00000005463__Tursiops_truncatus);

@@ -1,0 +1,1 @@
+((ENSCJPG00005002851__Coturnix_japonica,ENSSCAG00000003688__Serinus_canaria),ENSORLG00000022314__Oryzias_latipes_ASM223467v1);

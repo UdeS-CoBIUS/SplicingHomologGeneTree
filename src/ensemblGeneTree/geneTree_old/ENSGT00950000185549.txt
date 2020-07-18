@@ -1,1 +1,0 @@
-(((ENSGAGG00000012142__Gopherus_agassizii,ENSCPBG00000002257__Chrysemys_picta_bellii),((ENSABRG00000017387__Anser_brachyrhynchus,ENSAPLG00000028905__Anas_platyrhynchos_platyrhynchos),ENSLCOG00000002547__Lepidothrix_coronata)),ENSSMRG00000017267__Salvator_merianae);

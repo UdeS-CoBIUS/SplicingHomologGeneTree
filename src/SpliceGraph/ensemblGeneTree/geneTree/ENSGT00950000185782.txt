@@ -1,0 +1,1 @@
+(((ENSUAMG00000021440__Ursus_americanus,ENSCCNG00000004709__Castor_canadensis),ENSAHAG00000002424__Apteryx_haastii),ENSAPOG00000008052__Acanthochromis_polyacanthus);

@@ -1,1 +1,0 @@
-((ENSSFOG00015002311__Scleropages_formosus,ENSPKIG00000000469__Paramormyrops_kingsleyae),ENSELUG00000001586__Esox_lucius);

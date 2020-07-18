@@ -1,0 +1,1 @@
+((ENSMLUG00000025584__Myotis_lucifugus,ENSUMAG00000008048__Ursus_maritimus),ENSMUSG00000117666__Mus_musculus_strain_reference_(CL57BL6));

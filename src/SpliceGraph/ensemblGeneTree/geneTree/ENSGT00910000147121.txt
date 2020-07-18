@@ -1,0 +1,1 @@
+((ENSSSCG00000032487__Sus_scrofa,ENSCHIG00000008241__Capra_hircus),((((ENSRROG00000041449__Rhinopithecus_roxellana,ENSRBIG00000036752__Rhinopithecus_bieti),ENSCANG00000037358__Colobus_angolensis_palliatus),((ENSCATG00000031613__Cercocebus_atys,ENSPANG00000029914__Papio_anubis),ENSMLEG00000028141__Mandrillus_leucophaeus)),ENSNLEG00000031706__Nomascus_leucogenys));

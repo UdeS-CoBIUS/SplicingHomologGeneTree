@@ -1,0 +1,1 @@
+(((((ENSNBRG00000021938__Neolamprologus_brichardi,ENSMAMG00000013569__Mastacembelus_armatus),ENSMMOG00000015013__Mola_mola),(ENSOMEG00000021912__Oryzias_melastigma,ENSCVAG00000019261__Cyprinodon_variegatus)),ENSSFOG00015018164__Scleropages_formosus),((ENSDNOG00000039966__Dasypus_novemcinctus,ENSSSCG00000037306__Sus_scrofa),ENSSPUG00000010261__Sphenodon_punctatus));

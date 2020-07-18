@@ -1,0 +1,1 @@
+((ENSAPLG00000019561__Anas_platyrhynchos_platyrhynchos,ENSARWG00000007656__Apteryx_rowi),MGP_CAROLIEiJ_G0027858__Mus_caroli_strain_CAROLI_EIJ);

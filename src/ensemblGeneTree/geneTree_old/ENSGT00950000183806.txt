@@ -1,1 +1,0 @@
-(((ENSCPOG00000004063__Cavia_porcellus,ENSCAPG00000009877__Cavia_aperea),ENSODEG00000014231__Octodon_degus),ENSDORG00000001949__Dipodomys_ordii);

@@ -1,0 +1,1 @@
+((((((ENSCPBG00000016874__Chrysemys_picta_bellii,ENSCPBG00000024430__Chrysemys_picta_bellii),ENSCPBG00000011825__Chrysemys_picta_bellii),ENSCPBG00000003762__Chrysemys_picta_bellii),ENSCPBG00000002709__Chrysemys_picta_bellii),ENSGAGG00000002363__Gopherus_agassizii),ENSPSIG00000001411__Pelodiscus_sinensis);

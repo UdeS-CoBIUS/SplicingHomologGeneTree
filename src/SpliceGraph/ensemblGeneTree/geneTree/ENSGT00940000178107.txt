@@ -1,0 +1,1 @@
+((ENSPREG00000007879__Poecilia_reticulata,ENSORLG00015018375__Oryzias_latipes_ASM223469v1),(((ENSMZEG00005022460__Maylandia_zebra,ENSACLG00000006279__Astatotilapia_calliptera),ENSPNYG00000007993__Pundamilia_nyererei),ENSNBRG00000014981__Neolamprologus_brichardi));

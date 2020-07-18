@@ -1,0 +1,1 @@
+(((ENSPRNG00000009067__Parambassis_ranga,ENSMZEG00005020429__Maylandia_zebra),ENSLBEG00000016757__Labrus_bergylta),(ENSEEEG00000016394__Electrophorus_electricus,ENSDCDG00000035765__Denticeps_clupeoides));

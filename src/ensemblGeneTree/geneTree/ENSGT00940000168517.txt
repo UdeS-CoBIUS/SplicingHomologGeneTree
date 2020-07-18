@@ -1,0 +1,1 @@
+((ENSSARG00000000558__Sorex_araneus,ENSFCAG00000041204__Felis_catus),(((ENSOCUG00000022208__Oryctolagus_cuniculus,ENSOPRG00000011197__Ochotona_princeps),ENSCCNG00000028505__Castor_canadensis),(ENSPCOG00000020754__Propithecus_coquereli,ENSMICG00000033671__Microcebus_murinus)));

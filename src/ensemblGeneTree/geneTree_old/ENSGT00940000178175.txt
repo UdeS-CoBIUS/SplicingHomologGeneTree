@@ -1,1 +1,0 @@
-(((((ENSACIG00000000533__Amphilophus_citrinellus,ENSACIG00000013677__Amphilophus_citrinellus),ENSACIG00000023103__Amphilophus_citrinellus),ENSACIG00000009509__Amphilophus_citrinellus),ENSACIG00000022760__Amphilophus_citrinellus),ENSACIG00000013930__Amphilophus_citrinellus);

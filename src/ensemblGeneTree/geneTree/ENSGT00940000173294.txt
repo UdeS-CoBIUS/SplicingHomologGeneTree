@@ -1,0 +1,1 @@
+(((((ENSTGUG00000006342__Taeniopygia_guttata,ENSSCAG00000002896__Serinus_canaria),ENSAPLG00000003687__Anas_platyrhynchos_platyrhynchos),(ENSAHAG00000018389__Apteryx_haastii,ENSARWG00000005661__Apteryx_rowi)),ENSSMRG00000006934__Salvator_merianae),ENSPCIG00000032831__Phascolarctos_cinereus);

@@ -1,0 +1,2 @@
+THEROPITHECUSGELADA	theropithecus_gelada
+MACACAFASCICULARIS	macaca_fascicularis

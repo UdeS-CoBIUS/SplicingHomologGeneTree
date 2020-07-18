@@ -1,0 +1,1 @@
+(((ENSCGOG00000020799__Cottoperca_gobio,ENSPRNG00000006172__Parambassis_ranga),ENSORLG00015010361__Oryzias_latipes_ASM223469v1),ENSSLDG00000020788__Seriola_lalandi_dorsalis);

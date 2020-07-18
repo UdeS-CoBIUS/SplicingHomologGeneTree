@@ -1,0 +1,3 @@
+CERCOCEBUSATYS	cercocebus_atys
+PILIOCOLOBUSTEPHROSCELES	piliocolobus_tephrosceles
+CEBUSCAPUCINUS	cebus_capucinus

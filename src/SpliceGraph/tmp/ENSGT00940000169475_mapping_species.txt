@@ -1,0 +1,5 @@
+SOREXARANEUS	sorex_araneus
+VULPESVULPES	vulpes_vulpes
+TUPAIABELANGERI	tupaia_belangeri
+TUPAIABELANGERI	tupaia_belangeri
+DASYPUSNOVEMCINCTUS	dasypus_novemcinctus

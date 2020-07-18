@@ -1,0 +1,1 @@
+(((ENSMVIG00005000022__Manacus_vitellinus,ENSJHYG00000002999__Junco_hyemalis),ENSAPLG00000019666__Anas_platyrhynchos_platyrhynchos),ENSMUNG00000010265__Melopsittacus_undulatus);

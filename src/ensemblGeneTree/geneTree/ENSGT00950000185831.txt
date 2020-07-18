@@ -1,0 +1,1 @@
+((((ENSUPAG00010009642__Urocitellus_parryii,ENSSDAG00000014930__Spermophilus_dauricus),ENSMMMG00000023070__Marmota_marmota_marmota),ENSCCNG00000031515__Castor_canadensis),((ENSBMUG00000023317__Bos_mutus,ENSBBBG00000023318__Bison_bison_bison),(ENSUAMG00000014620__Ursus_americanus,ENSUMAG00000006626__Ursus_maritimus)));

@@ -1,1 +1,0 @@
-((((ENSCANG00000022003__Colobus_angolensis_palliatus,ENSMLEG00000030340__Mandrillus_leucophaeus),ENSPTRG00000049934__Pan_troglodytes),ENSTBEG00000010046__Tupaia_belangeri),ENSACAG00000023109__Anolis_carolinensis);

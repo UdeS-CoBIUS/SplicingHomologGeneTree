@@ -1,0 +1,12 @@
+PILIOCOLOBUSTEPHROSCELES	piliocolobus_tephrosceles
+PILIOCOLOBUSTEPHROSCELES	piliocolobus_tephrosceles
+VULPESVULPES	vulpes_vulpes
+VULPESVULPES	vulpes_vulpes
+CANISLUPUSDINGO	canis_lupus_dingo
+URSUSAMERICANUS	ursus_americanus
+URSUSMARITIMUS	ursus_maritimus
+CANISLUPUSDINGO	canis_lupus_dingo
+URSUSMARITIMUS	ursus_maritimus
+URSUSAMERICANUS	ursus_americanus
+PILIOCOLOBUSTEPHROSCELES	piliocolobus_tephrosceles
+URSUSAMERICANUS	ursus_americanus

@@ -1,0 +1,1 @@
+((((ENSLBEG00000005980__Labrus_bergylta,ENSTRUG00000021430__Takifugu_rubripes),ENSSMAG00000011826__Scophthalmus_maximus),ENSPNAG00000009551__Pygocentrus_nattereri),(ENSCABG00000000912__Chelonoidis_abingdonii,ENSUPAG00010018339__Urocitellus_parryii));

@@ -1,0 +1,3 @@
+FBpp0291042	FBgn0264695	Drosophila_melanogaster	FBtr0301828
+ENSORLP00015017136	ENSORLG00015018162	Oryzias_latipes_ASM223469v1
+YHR023W_mRNA	YHR023W	Saccharomyces_cerevisiae_strain_S288C

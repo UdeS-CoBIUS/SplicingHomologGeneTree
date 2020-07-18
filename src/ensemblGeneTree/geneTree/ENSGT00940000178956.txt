@@ -1,0 +1,1 @@
+((ENSCSEG00000008252__Cynoglossus_semilaevis,ENSONIG00000020539__Oreochromis_niloticus),(ENSPNAG00000006534__Pygocentrus_nattereri,ENSAMXG00000038625__Astyanax_mexicanus));

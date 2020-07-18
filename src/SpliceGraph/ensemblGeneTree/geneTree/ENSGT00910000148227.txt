@@ -1,0 +1,1 @@
+(((ENSODEG00000000056__Octodon_degus,ENSSDAG00000020808__Spermophilus_dauricus),ENSNLEG00000034213__Nomascus_leucogenys),ENSCSEG00000019233__Cynoglossus_semilaevis);

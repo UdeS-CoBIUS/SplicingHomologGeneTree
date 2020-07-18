@@ -1,0 +1,1 @@
+(((ENSABRG00000009641__Anser_brachyrhynchus,ENSCJPG00005015044__Coturnix_japonica),((ENSZALG00000008060__Zonotrichia_albicollis,ENSJHYG00000017137__Junco_hyemalis),ENSSCAG00000012066__Serinus_canaria)),ENSGAGG00000012967__Gopherus_agassizii);

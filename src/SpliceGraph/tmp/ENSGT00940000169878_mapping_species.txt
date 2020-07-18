@@ -1,0 +1,4 @@
+CHLOROCEBUSSABAEUS	chlorocebus_sabaeus
+OCHOTONAPRINCEPS	ochotona_princeps
+ERINACEUSEUROPAEUS	erinaceus_europaeus
+ECHINOPSTELFAIRI	echinops_telfairi

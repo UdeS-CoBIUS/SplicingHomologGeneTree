@@ -1,0 +1,1 @@
+(((ENSNBRG00000024269__Neolamprologus_brichardi,ENSNBRG00000014323__Neolamprologus_brichardi),ENSPLAG00000004548__Poecilia_latipinna),ENSAPOG00000021103__Acanthochromis_polyacanthus);

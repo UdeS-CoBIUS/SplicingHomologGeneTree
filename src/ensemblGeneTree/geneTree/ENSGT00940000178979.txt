@@ -1,0 +1,1 @@
+((((ENSHBUG00000003972__Haplochromis_burtoni,ENSPNYG00000015756__Pundamilia_nyererei),ENSAOCG00000013928__Amphiprion_ocellaris),ENSSLDG00000014054__Seriola_lalandi_dorsalis),((ENSMVIG00005004021__Manacus_vitellinus,ENSNPEG00000009578__Nothoprocta_perdicaria),ENSPCIG00000037263__Phascolarctos_cinereus));

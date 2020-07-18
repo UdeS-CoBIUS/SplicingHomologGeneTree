@@ -1,0 +1,1 @@
+(ENSATEG00000011008__Anabas_testudineus,ENSATEG00000022996__Anabas_testudineus);

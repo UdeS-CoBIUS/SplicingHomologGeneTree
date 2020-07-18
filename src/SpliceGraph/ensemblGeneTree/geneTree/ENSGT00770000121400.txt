@@ -1,0 +1,1 @@
+((((ENSMAMG00000001714__Mastacembelus_armatus,ENSPFOG00000024564__Poecilia_formosa),ENSLCRG00005010189__Larimichthys_crocea),(((ENSBSLG00000008542__Betta_splendens,ENSAPEG00000002781__Amphiprion_percula),ENSGACG00000019110__Gasterosteus_aculeatus),ENSGMOG00000006932__Gadus_morhua)),ENSHHUG00000022637__Hucho_hucho);

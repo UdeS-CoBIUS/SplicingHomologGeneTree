@@ -1,0 +1,1 @@
+((ENSXCOG00000009875__Xiphophorus_couchianus,ENSPFOG00000022320__Poecilia_formosa),(ENSFHEG00000017426__Fundulus_heteroclitus,ENSCVAG00000011639__Cyprinodon_variegatus));

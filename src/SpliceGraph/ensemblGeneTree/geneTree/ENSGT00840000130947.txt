@@ -1,0 +1,1 @@
+((((ENSG00000187026__Homo_sapiens,ENSGGOG00000023357__Gorilla_gorilla),ENSPPYG00000011347__Pongo_abelii),ENSTGEG00000017978__Theropithecus_gelada),(ENSCCAG00000036304__Cebus_capucinus_imitator,ENSSBOG00000024800__Saimiri_boliviensis_boliviensis));

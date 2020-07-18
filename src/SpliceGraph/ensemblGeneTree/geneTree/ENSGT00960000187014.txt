@@ -1,0 +1,1 @@
+(((ENSAPOG00000002400__Acanthochromis_polyacanthus,ENSHCOG00000007062__Hippocampus_comes),((ENSAPEG00000019775__Amphiprion_percula,ENSAPOG00000002332__Acanthochromis_polyacanthus),ENSMMOG00000000707__Mola_mola)),(ENSSDUG00000023104__Seriola_dumerili,ENSSLDG00000005537__Seriola_lalandi_dorsalis));

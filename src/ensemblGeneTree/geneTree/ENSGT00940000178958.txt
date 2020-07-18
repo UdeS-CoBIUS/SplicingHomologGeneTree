@@ -1,0 +1,1 @@
+(((ENSTRUG00000023457__Takifugu_rubripes,ENSORLG00000022390__Oryzias_latipes_ASM223467v1),ENSMAMG00000021127__Mastacembelus_armatus),ENSELUG00000016658__Esox_lucius);

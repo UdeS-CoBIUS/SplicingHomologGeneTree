@@ -1,0 +1,1 @@
+(((((ENSGALG00000046701__Gallus_gallus,ENSGALG00000050291__Gallus_gallus),ENSNMEG00000013611__Numida_meleagris),(ENSNMEG00000001740__Numida_meleagris,ENSGALG00000053412__Gallus_gallus)),ENSAPLG00000011532__Anas_platyrhynchos_platyrhynchos),(ENSAOWG00000004766__Apteryx_owenii,ENSAHAG00000004491__Apteryx_haastii));

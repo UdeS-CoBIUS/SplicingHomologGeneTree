@@ -1,0 +1,1 @@
+(((((ENSSDAG00000010803__Spermophilus_dauricus,ENSSDAG00000001278__Spermophilus_dauricus),ENSSDAG00000017906__Spermophilus_dauricus),ENSSDAG00000017621__Spermophilus_dauricus),(ENSSDAG00000006521__Spermophilus_dauricus,ENSSDAG00000016986__Spermophilus_dauricus)),ENSNVIG00000017112__Neovison_vison);

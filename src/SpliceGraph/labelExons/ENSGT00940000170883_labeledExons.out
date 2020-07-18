@@ -1,0 +1,8 @@
+>0
+ENSCPGT00000017672: ['no event', 117, 0]
+ENSCPGT00000011210: ['no event', 117, 0]
+ENSSMRT00000009600: ['no event', 117, 0]
+>1
+ENSCPGT00000017672: ['3event', 75, 1]
+ENSCPGT00000011210: [['internal gap >= 30', 45, 48], 58, 1]
+ENSSMRT00000009600: ['no event', 106, 1]

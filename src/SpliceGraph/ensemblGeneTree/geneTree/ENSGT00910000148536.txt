@@ -1,0 +1,1 @@
+((ENSCCAG00000022032__Cebus_capucinus_imitator,ENSANAG00000028520__Aotus_nancymaae),ENSBMUG00000001268__Bos_mutus);

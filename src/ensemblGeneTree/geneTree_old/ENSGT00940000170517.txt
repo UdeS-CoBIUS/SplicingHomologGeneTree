@@ -1,1 +1,0 @@
-((WBGene00016320__Caenorhabditis_elegans_strain_N2,WBGene00009687__Caenorhabditis_elegans_strain_N2),ENSSHAG00000012081__Sarcophilus_harrisii);

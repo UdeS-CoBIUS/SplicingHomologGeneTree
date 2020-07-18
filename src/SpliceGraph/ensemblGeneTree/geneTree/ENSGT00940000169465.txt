@@ -1,0 +1,1 @@
+((ENSPCAG00000006578__Procavia_capensis,ENSETEG00000010124__Echinops_telfairi),(((ENSCAFG00020004119__Canis_lupus_dingo,ENSVVUG00000008343__Vulpes_vulpes),ENSAMEG00000011295__Ailuropoda_melanoleuca),ENSNVIG00000019348__Neovison_vison));

@@ -1,0 +1,1 @@
+((ENSPREG00000021445__Poecilia_reticulata,ENSAMXG00000034522__Astyanax_mexicanus),ENSLSDG00000010255__Lonchura_striata_domestica);

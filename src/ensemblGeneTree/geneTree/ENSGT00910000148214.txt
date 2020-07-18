@@ -1,0 +1,1 @@
+((ENSMICG00000044205__Microcebus_murinus,ENSPCOG00000016467__Propithecus_coquereli),((ENSPTRG00000046740__Pan_troglodytes,ENSPPAG00000032121__Pan_paniscus),ENSGGOG00000042676__Gorilla_gorilla));

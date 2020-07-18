@@ -1,0 +1,1 @@
+(((ENSNPEG00000012664__Nothoprocta_perdicaria,ENSNPEG00000010672__Nothoprocta_perdicaria),ENSFALG00000015041__Ficedula_albicollis),((ENSAOCG00000018835__Amphiprion_ocellaris,ENSORLG00015009300__Oryzias_latipes_ASM223469v1),ENSELUG00000017260__Esox_lucius));

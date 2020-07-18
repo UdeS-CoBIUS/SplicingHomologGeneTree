@@ -1,0 +1,64 @@
+>0
+ENSSPUT00000004538: ['exon skipping', 0, 0]
+ENSPVIT00000025006: ['no event', 366, 0]
+ENSTGUT00000008619: ['5event', 39, 0]
+>1
+ENSSPUT00000004538: ['exon skipping', 0, 0]
+ENSPVIT00000025006: ['no event', 72, 1]
+ENSTGUT00000008619: ['no event', 72, 1]
+>2
+ENSSPUT00000004538: ['5event', 179, 0]
+ENSPVIT00000025006: [['internal gap >= 30', 2, 35], 146, 2]
+ENSTGUT00000008619: [['internal gap < 30', 2, 29], 152, 2]
+>3
+ENSSPUT00000004538: ['no event', 58, 0]
+ENSPVIT00000025006: ['no event', 58, 0]
+ENSTGUT00000008619: ['no event', 58, 0]
+>4
+ENSSPUT00000004538: ['no event', 122, 2]
+ENSPVIT00000025006: ['no event', 122, 2]
+ENSTGUT00000008619: ['no event', 122, 2]
+>5
+ENSSPUT00000004538: ['no event', 99, 2]
+ENSPVIT00000025006: ['no event', 99, 2]
+ENSTGUT00000008619: ['no event', 99, 2]
+>6
+ENSSPUT00000004538: ['no event', 107, 0]
+ENSPVIT00000025006: ['no event', 107, 0]
+ENSTGUT00000008619: ['no event', 107, 0]
+>7
+ENSSPUT00000004538: ['no event', 106, 0]
+ENSPVIT00000025006: ['no event', 106, 0]
+ENSTGUT00000008619: ['no event', 106, 0]
+>8
+ENSSPUT00000004538: ['no event', 102, 2]
+ENSPVIT00000025006: ['no event', 102, 2]
+ENSTGUT00000008619: ['no event', 102, 2]
+>9
+ENSSPUT00000004538: ['no event', 114, 0]
+ENSPVIT00000025006: ['no event', 114, 0]
+ENSTGUT00000008619: ['no event', 114, 0]
+>10
+ENSSPUT00000004538: ['exon skipping', 0, 0]
+ENSPVIT00000025006: ['no event', 76, 1]
+ENSTGUT00000008619: ['no event', 76, 1]
+>11
+ENSSPUT00000004538: ['exon skipping', 0, 0]
+ENSPVIT00000025006: ['no event', 92, 0]
+ENSTGUT00000008619: ['no event', 92, 0]
+>12
+ENSSPUT00000004538: ['5event', 209, 1]
+ENSPVIT00000025006: [['internal gap >= 30', 10, 184], 35, 0]
+ENSTGUT00000008619: ['exon skipping', 0, 0]
+>13
+ENSSPUT00000004538: ['exon skipping', 0, 0]
+ENSPVIT00000025006: ['exon skipping', 0, 0]
+ENSTGUT00000008619: ['5event', 74, 0]
+>14
+ENSSPUT00000004538: ['exon skipping', 0, 0]
+ENSPVIT00000025006: ['5event', 3, 2]
+ENSTGUT00000008619: ['exon skipping', 0, 0]
+>15
+ENSSPUT00000004538: ['5event', 34, 1]
+ENSPVIT00000025006: ['exon skipping', 0, 0]
+ENSTGUT00000008619: ['exon skipping', 0, 0]

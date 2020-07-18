@@ -1,0 +1,7 @@
+SUSSCROFA	sus_scrofa
+BISONBISONBISON	bison_bison_bison
+PAPIOANUBIS	papio_anubis
+THEROPITHECUSGELADA	theropithecus_gelada
+MACACAFASCICULARIS	macaca_fascicularis
+PILIOCOLOBUSTEPHROSCELES	piliocolobus_tephrosceles
+CALLITHRIXJACCHUS	callithrix_jacchus

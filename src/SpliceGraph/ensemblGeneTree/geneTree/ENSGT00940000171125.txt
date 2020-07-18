@@ -1,0 +1,1 @@
+((ENSEBUG00000012023__Eptatretus_burgeri,ENSEBUG00000000728__Eptatretus_burgeri),WBGene00015716__Caenorhabditis_elegans_strain_N2);

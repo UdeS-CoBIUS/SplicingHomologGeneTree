@@ -1,0 +1,1 @@
+((((ENSCHIG00000004359__Capra_hircus,ENSSARG00000014134__Sorex_araneus),(ENSPTEG00000015806__Piliocolobus_tephrosceles,ENSCCAG00000030889__Cebus_capucinus_imitator)),ENSETEG00000002243__Echinops_telfairi),ENSMEUG00000006329__Notamacropus_eugenii);

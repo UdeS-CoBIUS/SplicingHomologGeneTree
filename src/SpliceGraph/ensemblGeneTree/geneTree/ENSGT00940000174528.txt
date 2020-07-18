@@ -1,0 +1,1 @@
+(((ENSHBUG00000010221__Haplochromis_burtoni,ENSACLG00000006344__Astatotilapia_calliptera),ENSONIG00000011843__Oreochromis_niloticus),ENSSMAG00000008670__Scophthalmus_maximus);

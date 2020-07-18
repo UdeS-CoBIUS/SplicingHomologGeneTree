@@ -1,0 +1,1 @@
+(((((ENSSPAG00000021681__Stegastes_partitus,ENSAPOG00000015673__Acanthochromis_polyacanthus),((ENSMZEG00005026215__Maylandia_zebra,ENSPNYG00000008420__Pundamilia_nyererei),ENSNBRG00000018195__Neolamprologus_brichardi)),ENSMALG00000006635__Monopterus_albus),ENSLBEG00000014235__Labrus_bergylta),ENSELUG00000023072__Esox_lucius);

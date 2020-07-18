@@ -1,0 +1,1 @@
+(ENSECAG00000035921__Equus_caballus,ENSNVIG00000015874__Neovison_vison);

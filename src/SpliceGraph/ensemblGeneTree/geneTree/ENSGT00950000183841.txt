@@ -1,0 +1,1 @@
+((ENSMAUG00000013226__Mesocricetus_auratus,ENSSBOG00000033738__Saimiri_boliviensis_boliviensis),((ENSPPRG00000001400__Panthera_pardus,ENSFCAG00000023420__Felis_catus),((ENSBTAG00000049667__Bos_taurus,ENSBMUG00000001223__Bos_mutus),ENSBMUG00000007791__Bos_mutus)));

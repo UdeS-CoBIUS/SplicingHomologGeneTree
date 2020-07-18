@@ -1,0 +1,1 @@
+(((ENSCPOG00000005849__Cavia_porcellus,ENSCLAG00000003248__Chinchilla_lanigera),MGP_PahariEiJ_G0023702__Mus_pahari_strain_PAHARI_EIJ),ENSPTEG00000035328__Piliocolobus_tephrosceles);

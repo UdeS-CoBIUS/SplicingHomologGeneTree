@@ -1,1 +1,0 @@
-(((ENSNGAG00000007787__Nannospalax_galili,ENSMAUG00000018723__Mesocricetus_auratus),ENSDNOG00000048266__Dasypus_novemcinctus),ENSACAG00000008341__Anolis_carolinensis);

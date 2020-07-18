@@ -1,0 +1,1 @@
+(YDR081C__Saccharomyces_cerevisiae_strain_S288C,ENSACAG00000026852__Anolis_carolinensis);

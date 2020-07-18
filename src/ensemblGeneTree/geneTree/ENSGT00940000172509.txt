@@ -1,0 +1,1 @@
+(((FBgn0029687__Drosophila_melanogaster,FBgn0028379__Drosophila_melanogaster),WBGene00018840__Caenorhabditis_elegans_strain_N2),(YER120W__Saccharomyces_cerevisiae_strain_S288C,YBL091C-A__Saccharomyces_cerevisiae_strain_S288C));

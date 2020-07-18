@@ -1,0 +1,1 @@
+((ENSAMEG00000001780__Ailuropoda_melanoleuca,ENSOARG00000016892__Ovis_aries),ENSOGAG00000028003__Otolemur_garnettii);

@@ -1,0 +1,4 @@
+>cluster_0
+ZK616.2.1	ZK616.3b.1
+>cluster_1
+ZK616.3a.1

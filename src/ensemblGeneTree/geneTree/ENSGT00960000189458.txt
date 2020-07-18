@@ -1,0 +1,1 @@
+((((ENSAPLG00000027529__Anas_platyrhynchos_platyrhynchos,ENSCJPG00005005300__Coturnix_japonica),((ENSMVIG00005005834__Manacus_vitellinus,ENSLCOG00000003402__Lepidothrix_coronata),ENSCPUG00000001688__Calidris_pugnax)),(ENSARWG00000011963__Apteryx_rowi,ENSAOWG00000019321__Apteryx_owenii)),ENSCPRG00005016780__Crocodylus_porosus);

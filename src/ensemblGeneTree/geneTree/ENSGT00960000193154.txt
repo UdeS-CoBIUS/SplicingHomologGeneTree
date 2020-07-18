@@ -1,0 +1,1 @@
+(ENSPTEG00000021436__Piliocolobus_tephrosceles,ENSG00000211831__Homo_sapiens);

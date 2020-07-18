@@ -1,0 +1,1 @@
+((((((((ENSPTRG00000042925__Pan_troglodytes,ENSPTRG00000047418__Pan_troglodytes),ENSPPAG00000022918__Pan_paniscus),ENSGGOG00000036649__Gorilla_gorilla),ENSPPYG00000017741__Pongo_abelii),ENSTGEG00000022522__Theropithecus_gelada),ENSCJAG00000040238__Callithrix_jacchus),ENSCCNG00000014927__Castor_canadensis),ENSCHOG00000009207__Choloepus_hoffmanni);

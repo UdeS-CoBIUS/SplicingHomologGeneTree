@@ -1,1 +1,0 @@
-(((ENSPVAG00000001092__Pteropus_vampyrus,ENSTTRG00000017050__Tursiops_truncatus),ENSTBEG00000015590__Tupaia_belangeri),ENSPCAG00000006515__Procavia_capensis);

@@ -1,1 +1,0 @@
-(ENSORLG00000029401__Oryzias_latipes_ASM223467v1,ENSTRUG00000021668__Takifugu_rubripes);

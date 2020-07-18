@@ -1,1 +1,0 @@
-(((ENSAHAG00000016798__Apteryx_haastii,ENSARWG00000013142__Apteryx_rowi),ENSCABG00000001171__Chelonoidis_abingdonii),ENSBMUG00000003442__Bos_mutus);

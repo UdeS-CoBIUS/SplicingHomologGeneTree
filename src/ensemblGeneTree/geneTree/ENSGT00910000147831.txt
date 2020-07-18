@@ -1,0 +1,1 @@
+((ENSPTIG00000008212__Panthera_tigris_altaica,ENSCHIG00000019213__Capra_hircus),(((((ENSTGEG00000027373__Theropithecus_gelada,ENSPANG00000034519__Papio_anubis),ENSPTEG00000018069__Piliocolobus_tephrosceles),ENSGGOG00000043880__Gorilla_gorilla),ENSANAG00000038144__Aotus_nancymaae),ENSCANG00000029335__Colobus_angolensis_palliatus));

@@ -1,0 +1,60 @@
+>0
+ENSCSAVT00000006225: ['5event', 56, 0]
+ENSCSAVT00000006227: ['3event', '5event', 228, 0]
+ENSCINT00000036832: ['exon skipping', 0, 0]
+>1
+ENSCSAVT00000006225: ['exon skipping', 0, 0]
+ENSCSAVT00000006227: ['only gap', 0, 1]
+ENSCINT00000036832: ['exon skipping', 0, 0]
+>2
+ENSCSAVT00000006225: ['exon skipping', 0, 0]
+ENSCSAVT00000006227: ['only gap', 0, 0]
+ENSCINT00000036832: ['exon skipping', 0, 0]
+>3
+ENSCSAVT00000006225: ['exon skipping', 0, 0]
+ENSCSAVT00000006227: ['only gap', 0, 1]
+ENSCINT00000036832: ['exon skipping', 0, 0]
+>4
+ENSCSAVT00000006225: ['exon skipping', 0, 0]
+ENSCSAVT00000006227: ['only gap', 0, 2]
+ENSCINT00000036832: ['exon skipping', 0, 0]
+>5
+ENSCSAVT00000006225: ['exon skipping', 0, 0]
+ENSCSAVT00000006227: ['exon skipping', 0, 0]
+ENSCINT00000036832: ['only gap', 0, 0]
+>6
+ENSCSAVT00000006225: ['exon skipping', 0, 0]
+ENSCSAVT00000006227: ['exon skipping', 0, 0]
+ENSCINT00000036832: ['only gap', 0, 1]
+>7
+ENSCSAVT00000006225: ['only gap', 0, 0]
+ENSCSAVT00000006227: ['exon skipping', 0, 0]
+ENSCINT00000036832: ['only gap', 0, 1]
+>8
+ENSCSAVT00000006225: ['only gap', 0, 0]
+ENSCSAVT00000006227: ['exon skipping', 0, 0]
+ENSCINT00000036832: ['only gap', 0, 0]
+>9
+ENSCSAVT00000006225: ['only gap', 0, 1]
+ENSCSAVT00000006227: ['exon skipping', 0, 0]
+ENSCINT00000036832: ['only gap', 0, 1]
+>10
+ENSCSAVT00000006225: ['only gap', 0, 2]
+ENSCSAVT00000006227: ['exon skipping', 0, 0]
+ENSCINT00000036832: ['only gap', 0, 2]
+>11
+ENSCSAVT00000006225: ['only gap', 0, 1]
+ENSCSAVT00000006227: ['exon skipping', 0, 0]
+ENSCINT00000036832: ['only gap', 0, 1]
+>12
+ENSCSAVT00000006225: ['only gap', 0, 0]
+ENSCSAVT00000006227: ['exon skipping', 0, 0]
+ENSCINT00000036832: ['only gap', 0, 0]
+>13
+ENSCSAVT00000006225: ['only gap', 0, 0]
+ENSCSAVT00000006227: ['exon skipping', 0, 0]
+ENSCINT00000036832: ['only gap', 0, 0]
+>14
+ENSCSAVT00000006225: ['only gap', 0, 0]
+ENSCSAVT00000006227: ['exon skipping', 0, 0]
+ENSCINT00000036832: ['exon skipping', 0, 0]

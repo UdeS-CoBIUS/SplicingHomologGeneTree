@@ -1,0 +1,1 @@
+(((ENSOPRG00000003667__Ochotona_princeps,ENSSBOG00000032462__Saimiri_boliviensis_boliviensis),ENSCHIG00000010135__Capra_hircus),ENSXCOG00000006895__Xiphophorus_couchianus);

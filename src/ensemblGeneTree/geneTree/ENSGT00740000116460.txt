@@ -1,0 +1,1 @@
+((ENSOARG00000018917__Ovis_aries,ENSOANG00000010523__Ornithorhynchus_anatinus),(ENSOANG00000005439__Ornithorhynchus_anatinus,ENSOARG00000000290__Ovis_aries));

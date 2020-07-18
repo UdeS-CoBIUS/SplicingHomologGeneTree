@@ -1,0 +1,4 @@
+AMPHIPRIONPERCULA	amphiprion_percula
+AMPHIPRIONOCELLARIS	amphiprion_ocellaris
+STEGASTESPARTITUS	stegastes_partitus
+LABRUSBERGYLTA	labrus_bergylta

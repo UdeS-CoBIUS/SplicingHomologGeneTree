@@ -1,0 +1,1 @@
+(((ENSDORG00000006169__Dipodomys_ordii,ENSPPYG00000011579__Pongo_abelii),(ENSPTIG00000003172__Panthera_tigris_altaica,ENSOARG00000017566__Ovis_aries)),ENSFALG00000007987__Ficedula_albicollis);

@@ -1,0 +1,1 @@
+(((((((ENSLSDG00000011064__Lonchura_striata_domestica,ENSTGUG00000004648__Taeniopygia_guttata),ENSSCAG00000004130__Serinus_canaria),ENSJHYG00000014135__Junco_hyemalis),ENSFALG00000013010__Ficedula_albicollis),ENSPMJG00000015372__Parus_major),ENSLCOG00000011943__Lepidothrix_coronata),(ENSCPGG00000006495__Calidris_pygmaea,ENSCPUG00000002233__Calidris_pugnax));

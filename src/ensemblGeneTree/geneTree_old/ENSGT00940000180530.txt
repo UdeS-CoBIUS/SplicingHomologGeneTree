@@ -1,1 +1,0 @@
-((ENSRROG00000029424__Rhinopithecus_roxellana,ENSPSMG00000001926__Prolemur_simus),ENSAMXG00000034916__Astyanax_mexicanus);

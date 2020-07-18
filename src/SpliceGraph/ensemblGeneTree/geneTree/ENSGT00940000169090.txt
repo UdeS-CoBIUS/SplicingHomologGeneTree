@@ -1,0 +1,1 @@
+((((ENSSDAG00000018111__Spermophilus_dauricus,ENSMMUG00000014489__Macaca_mulatta),ENSPTIG00000021906__Panthera_tigris_altaica),(ENSCPGG00000005601__Calidris_pygmaea,ENSSCAG00000015561__Serinus_canaria)),(ENSGMOG00000005124__Gadus_morhua,ENSGACG00000000191__Gasterosteus_aculeatus));

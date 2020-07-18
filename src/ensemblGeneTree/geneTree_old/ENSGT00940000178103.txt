@@ -1,1 +1,0 @@
-((((ENSPNYG00000014163__Pundamilia_nyererei,ENSMZEG00005015770__Maylandia_zebra),ENSACIG00000016098__Amphilophus_citrinellus),(ENSSPAG00000018947__Stegastes_partitus,ENSAPOG00000017625__Acanthochromis_polyacanthus)),ENSPMGG00000017209__Periophthalmus_magnuspinnatus);

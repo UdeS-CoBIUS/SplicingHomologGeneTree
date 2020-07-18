@@ -1,1 +1,0 @@
-(ENSNSUG00000006165__Notechis_scutatus,ENSCPBG00000014870__Chrysemys_picta_bellii);

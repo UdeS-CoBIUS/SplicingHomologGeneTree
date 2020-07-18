@@ -1,0 +1,1 @@
+(((ENSCCEG00000015189__Cyanistes_caeruleus,ENSZALG00000018049__Zonotrichia_albicollis),((ENSACAG00000026666__Anolis_carolinensis,ENSNSUG00000019158__Notechis_scutatus),ENSCPBG00000002241__Chrysemys_picta_bellii)),ENSSDAG00000010175__Spermophilus_dauricus);

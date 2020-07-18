@@ -1,1 +1,0 @@
-(ENSGAGG00000001655__Gopherus_agassizii,ENSPVIG00000004810__Pogona_vitticeps);

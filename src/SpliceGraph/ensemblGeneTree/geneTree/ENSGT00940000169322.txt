@@ -1,0 +1,1 @@
+((ENSPMAG00000008709__Petromyzon_marinus,ENSPMAG00000002973__Petromyzon_marinus),(FBgn0004244__Drosophila_melanogaster,WBGene00006784__Caenorhabditis_elegans_strain_N2));

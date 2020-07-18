@@ -1,0 +1,1 @@
+((ENSACIG00000020560__Amphilophus_citrinellus,ENSACIG00000007023__Amphilophus_citrinellus),ENSGAFG00000018242__Gambusia_affinis);

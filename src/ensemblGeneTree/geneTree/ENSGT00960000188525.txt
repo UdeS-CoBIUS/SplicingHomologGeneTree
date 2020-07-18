@@ -1,0 +1,1 @@
+(((((ENSSCAG00000000847__Serinus_canaria,ENSMVIG00005019708__Manacus_vitellinus),ENSNMEG00000003633__Numida_meleagris),ENSCABG00000001311__Chelonoidis_abingdonii),ENSLAFG00000012249__Loxodonta_africana),ENSGAFG00000016014__Gambusia_affinis);

@@ -1,0 +1,1 @@
+((ENSGAGG00000009497__Gopherus_agassizii,ENSCPBG00000011663__Chrysemys_picta_bellii),((((ENSAHAG00000019319__Apteryx_haastii,ENSAOWG00000007606__Apteryx_owenii),ENSARWG00000005414__Apteryx_rowi),ENSDNVG00000013697__Dromaius_novaehollandiae),ENSNPEG00000010284__Nothoprocta_perdicaria));

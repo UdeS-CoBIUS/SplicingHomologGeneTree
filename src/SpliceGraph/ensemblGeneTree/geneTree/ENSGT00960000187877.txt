@@ -1,0 +1,1 @@
+(((ENSSHAG00000018080__Sarcophilus_harrisii,ENSOARG00000013707__Ovis_aries),ENSNPEG00000016240__Nothoprocta_perdicaria),ENSAPOG00000004879__Acanthochromis_polyacanthus);

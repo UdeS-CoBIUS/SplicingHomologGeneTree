@@ -1,0 +1,1 @@
+(((ENSCCAG00000032013__Cebus_capucinus_imitator,ENSSBOG00000025539__Saimiri_boliviensis_boliviensis),ENSANAG00000033072__Aotus_nancymaae),ENSPANG00000031560__Papio_anubis);

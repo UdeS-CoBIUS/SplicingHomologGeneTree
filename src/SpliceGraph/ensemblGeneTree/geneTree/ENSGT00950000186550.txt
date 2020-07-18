@@ -1,0 +1,1 @@
+((ENSPTRG00000028493__Pan_troglodytes,ENSG00000254997__Homo_sapiens),ENSNLEG00000028330__Nomascus_leucogenys);

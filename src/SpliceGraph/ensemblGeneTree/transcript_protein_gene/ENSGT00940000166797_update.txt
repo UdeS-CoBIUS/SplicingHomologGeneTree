@@ -1,0 +1,8 @@
+Y51H4A.5.1	WBGene00013101	Caenorhabditis_elegans_strain_N2	Y51H4A.5.1
+C39B5.14.1	WBGene00189950	Caenorhabditis_elegans_strain_N2	C39B5.14.1
+Y49E10.18.1	WBGene00013037	Caenorhabditis_elegans_strain_N2	Y49E10.18.1
+Y49E10.16a.1	WBGene00013035	Caenorhabditis_elegans_strain_N2	Y49E10.16a.1
+Y54G2A.45a.1	WBGene00044488	Caenorhabditis_elegans_strain_N2	Y54G2A.45a.1
+K03H6.2a.1	WBGene00019368	Caenorhabditis_elegans_strain_N2	K03H6.2a.1
+Y49E10.25.1	WBGene00013044	Caenorhabditis_elegans_strain_N2	Y49E10.25.1
+T08B1.4b.1	WBGene00020341	Caenorhabditis_elegans_strain_N2

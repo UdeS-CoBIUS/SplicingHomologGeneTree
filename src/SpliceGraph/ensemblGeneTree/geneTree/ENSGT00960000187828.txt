@@ -1,0 +1,1 @@
+((ENSSMAG00000015761__Scophthalmus_maximus,ENSPMGG00000003461__Periophthalmus_magnuspinnatus),ENSGMOG00000018261__Gadus_morhua);

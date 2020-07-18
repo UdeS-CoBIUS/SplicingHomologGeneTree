@@ -1,0 +1,1 @@
+(((YJL164C__Saccharomyces_cerevisiae_strain_S288C,ENSMMMG00000010216__Marmota_marmota_marmota),(YKL166C__Saccharomyces_cerevisiae_strain_S288C,ENSMMMG00000010306__Marmota_marmota_marmota)),YPL203W__Saccharomyces_cerevisiae_strain_S288C);

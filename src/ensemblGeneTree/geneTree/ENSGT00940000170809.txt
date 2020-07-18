@@ -1,0 +1,1 @@
+(((ENSCGRG00001022058__Cricetulus_griseus_CHOK1GS_HDv1,ENSCGRG00000012505__Cricetulus_griseus_CriGri_1.0),ENSCGRG00015024206__Cricetulus_griseus_CriGri-PICR),MGP_CAROLIEiJ_G0031843__Mus_caroli_strain_CAROLI_EIJ);

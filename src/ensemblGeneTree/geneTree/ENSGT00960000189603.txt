@@ -1,0 +1,1 @@
+(((ENSGALG00000031069__Gallus_gallus,ENSAPLG00000020418__Anas_platyrhynchos_platyrhynchos),((ENSJHYG00000002620__Junco_hyemalis,ENSSCAG00000015692__Serinus_canaria),ENSCPUG00000004366__Calidris_pugnax)),ENSDNVG00000018353__Dromaius_novaehollandiae);

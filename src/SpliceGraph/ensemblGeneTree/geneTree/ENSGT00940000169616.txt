@@ -1,0 +1,1 @@
+(((((ENSUMAG00000006357__Ursus_maritimus,ENSUAMG00000000784__Ursus_americanus),ENSMPUG00000004577__Mustela_putorius_furo),(ENSCAFG00020000075__Canis_lupus_dingo,ENSCAFG00000030957__Canis_lupus_familiaris)),ENSSSCG00000037283__Sus_scrofa),ENSECAG00000036661__Equus_caballus);

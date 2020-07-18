@@ -1,1 +1,0 @@
-((((ENSCCEG00000021848__Cyanistes_caeruleus,ENSAHAG00000001668__Apteryx_haastii),((ENSLBEG00000024687__Labrus_bergylta,ENSLBEG00000024676__Labrus_bergylta),ENSATEG00000005211__Anabas_testudineus)),ENSPKIG00000013313__Paramormyrops_kingsleyae),ENSPMAG00000005941__Petromyzon_marinus);

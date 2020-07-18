@@ -1,0 +1,1 @@
+((ENSZALG00000010536__Zonotrichia_albicollis,ENSABRG00000016738__Anser_brachyrhynchus),ENSOANG00000030288__Ornithorhynchus_anatinus);

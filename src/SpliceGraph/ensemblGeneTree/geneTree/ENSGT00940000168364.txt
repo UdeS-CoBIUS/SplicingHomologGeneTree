@@ -1,0 +1,1 @@
+(((((ENSHGLG00000011638__Heterocephalus_glaber_HetGla_female_1.0,ENSHGLG00100003633__Heterocephalus_glaber_HetGla_1.0),ENSCLAG00000004441__Chinchilla_lanigera),ENSODEG00000017686__Octodon_degus),ENSGAGG00000018705__Gopherus_agassizii),FBgn0262685__Drosophila_melanogaster);

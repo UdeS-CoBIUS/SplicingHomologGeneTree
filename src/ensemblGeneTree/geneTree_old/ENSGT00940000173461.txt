@@ -1,1 +1,0 @@
-(ENSPSIG00000006333__Pelodiscus_sinensis,ENSMPUG00000007063__Mustela_putorius_furo);

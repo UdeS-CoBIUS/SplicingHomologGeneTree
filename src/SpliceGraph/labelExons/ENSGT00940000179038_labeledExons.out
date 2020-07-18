@@ -1,0 +1,9 @@
+>0
+ENSSDUT00000014076: ['no event', 103, 0]
+ENSOMET00000031400: ['no event', 103, 0]
+>1
+ENSSDUT00000014076: ['exon skipping', 0, 0]
+ENSOMET00000031400: ['no event', 177, 2]
+>2
+ENSSDUT00000014076: ['5event', 39, 2]
+ENSOMET00000031400: ['exon skipping', 0, 0]

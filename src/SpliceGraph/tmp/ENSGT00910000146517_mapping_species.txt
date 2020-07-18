@@ -1,0 +1,7 @@
+GORILLAGORILLA	gorilla_gorilla
+PANPANISCUS	pan_paniscus
+PONGOABELII	pongo_abelii
+MANDRILLUSLEUCOPHAEUS	mandrillus_leucophaeus
+MACACANEMESTRINA	macaca_nemestrina
+PAPIOANUBIS	papio_anubis
+CERCOCEBUSATYS	cercocebus_atys

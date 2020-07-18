@@ -1,1 +1,0 @@
-(ENSMMUG00000043916__Macaca_mulatta,ENSCHOG00000006756__Choloepus_hoffmanni);

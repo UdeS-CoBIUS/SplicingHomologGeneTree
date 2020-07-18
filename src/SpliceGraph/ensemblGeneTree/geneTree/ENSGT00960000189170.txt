@@ -1,0 +1,1 @@
+(ENSAPLG00000016808__Anas_platyrhynchos_platyrhynchos,ENSAPEG00000014860__Amphiprion_percula);

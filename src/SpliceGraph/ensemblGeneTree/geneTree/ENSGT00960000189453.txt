@@ -1,0 +1,1 @@
+((((ENSJHYG00000012849__Junco_hyemalis,ENSZALG00000001067__Zonotrichia_albicollis),((ENSPMJG00000002906__Parus_major,ENSCCEG00000019246__Cyanistes_caeruleus),ENSSCAG00000004245__Serinus_canaria)),ENSMVIG00005000690__Manacus_vitellinus),(ENSCPUG00000011337__Calidris_pugnax,ENSCPGG00000001253__Calidris_pygmaea));

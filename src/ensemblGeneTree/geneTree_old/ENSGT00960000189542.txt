@@ -1,1 +1,0 @@
-(((((ENSAHAG00000018885__Apteryx_haastii,ENSAOWG00000006037__Apteryx_owenii),ENSARWG00000010776__Apteryx_rowi),ENSCPGG00000012380__Calidris_pygmaea),ENSGAGG00000021337__Gopherus_agassizii),ENSPVIG00000004269__Pogona_vitticeps);

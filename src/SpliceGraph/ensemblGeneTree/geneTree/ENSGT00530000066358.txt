@@ -1,0 +1,1 @@
+((((ENSPPYG00000014568__Pongo_abelii,ENSPTRG00000038716__Pan_troglodytes),(((ENSTGEG00000029178__Theropithecus_gelada,ENSTGEG00000016495__Theropithecus_gelada),ENSTGEG00000011063__Theropithecus_gelada),ENSPANG00000032294__Papio_anubis)),ENSTBEG00000006454__Tupaia_belangeri),ENSAMEG00000002601__Ailuropoda_melanoleuca);

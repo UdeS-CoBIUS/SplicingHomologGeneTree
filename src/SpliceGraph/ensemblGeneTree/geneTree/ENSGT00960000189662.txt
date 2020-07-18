@@ -1,0 +1,1 @@
+((((ENSCPGG00000007733__Calidris_pygmaea,ENSMUNG00000000496__Melopsittacus_undulatus),ENSNMEG00000014956__Numida_meleagris),ENSLSDG00000014900__Lonchura_striata_domestica),ENSGAGG00000007871__Gopherus_agassizii);

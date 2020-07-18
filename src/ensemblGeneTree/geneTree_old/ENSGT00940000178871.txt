@@ -1,1 +1,0 @@
-(((ENSATEG00000001708__Anabas_testudineus,ENSMALG00000020464__Monopterus_albus),ENSHBUG00000011428__Haplochromis_burtoni),ENSCSEG00000013203__Cynoglossus_semilaevis);

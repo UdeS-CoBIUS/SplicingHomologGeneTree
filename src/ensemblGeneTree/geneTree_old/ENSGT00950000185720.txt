@@ -1,1 +1,0 @@
-(((ENSSPUG00000011694__Sphenodon_punctatus,ENSNSUG00000017857__Notechis_scutatus),(ENSAPLG00000017115__Anas_platyrhynchos_platyrhynchos,ENSJHYG00000001523__Junco_hyemalis)),((ENSMMMG00000004110__Marmota_marmota_marmota,ENSCGRG00015016401__Cricetulus_griseus_CriGri-PICR),ENSCHIG00000022501__Capra_hircus));

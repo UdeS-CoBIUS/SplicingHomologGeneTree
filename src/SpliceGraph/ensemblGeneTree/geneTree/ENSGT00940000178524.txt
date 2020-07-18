@@ -1,0 +1,1 @@
+(((((ENSPLAG00000007813__Poecilia_latipinna,ENSCVAG00000019324__Cyprinodon_variegatus),ENSMZEG00005022567__Maylandia_zebra),ENSSPAG00000009319__Stegastes_partitus),ENSLOCG00000002337__Lepisosteus_oculatus),ENSZALG00000004715__Zonotrichia_albicollis);

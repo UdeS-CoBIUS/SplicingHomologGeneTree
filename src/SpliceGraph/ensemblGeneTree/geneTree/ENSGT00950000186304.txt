@@ -1,0 +1,1 @@
+(ENSVVUG00000026350__Vulpes_vulpes,ENSIPUG00000022492__Ictalurus_punctatus);

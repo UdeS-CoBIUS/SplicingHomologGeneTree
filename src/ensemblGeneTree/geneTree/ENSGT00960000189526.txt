@@ -1,0 +1,1 @@
+((ENSUPAG00010012458__Urocitellus_parryii,ENSCLAG00000006517__Chinchilla_lanigera),((ENSPEMG00000024729__Peromyscus_maniculatus_bairdii,ENSCGRG00015014676__Cricetulus_griseus_CriGri-PICR),(ENSMUGG00000017937__Meriones_unguiculatus,ENSMUGG00000017949__Meriones_unguiculatus)));

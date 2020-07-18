@@ -1,0 +1,1 @@
+(((ENSPEMG00000027193__Peromyscus_maniculatus_bairdii,ENSOCUG00000029329__Oryctolagus_cuniculus),(ENSMODG00000018943__Monodelphis_domestica,ENSAPLG00000028811__Anas_platyrhynchos_platyrhynchos)),WBGene00006814__Caenorhabditis_elegans_strain_N2);

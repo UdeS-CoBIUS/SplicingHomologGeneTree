@@ -1,0 +1,1 @@
+(((((ENSSLDG00000007740__Seriola_lalandi_dorsalis,ENSSLDG00000007719__Seriola_lalandi_dorsalis),ENSAPEG00000020754__Amphiprion_percula),ENSTRUG00000021411__Takifugu_rubripes),ENSGMOG00000012938__Gadus_morhua),ENSIPUG00000009869__Ictalurus_punctatus);

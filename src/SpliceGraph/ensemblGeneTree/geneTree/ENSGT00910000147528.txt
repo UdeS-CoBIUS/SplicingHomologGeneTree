@@ -1,0 +1,1 @@
+(((ENSPTRG00000047868__Pan_troglodytes,ENSPTRG00000043826__Pan_troglodytes),(((ENSPTRG00000048197__Pan_troglodytes,ENSPTRG00000047732__Pan_troglodytes),ENSPTRG00000052087__Pan_troglodytes),ENSGGOG00000041981__Gorilla_gorilla)),ENSCJAG00000052506__Callithrix_jacchus);

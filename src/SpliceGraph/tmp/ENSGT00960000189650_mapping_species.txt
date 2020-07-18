@@ -1,0 +1,5 @@
+COTURNIXJAPONICA	coturnix_japonica
+NUMIDAMELEAGRIS	numida_meleagris
+ANASPLATYRHYNCHOSPLATYRHYNCHOS	anas_platyrhynchos_platyrhynchos
+MELOPSITTACUSUNDULATUS	melopsittacus_undulatus
+POGONAVITTICEPS	pogona_vitticeps

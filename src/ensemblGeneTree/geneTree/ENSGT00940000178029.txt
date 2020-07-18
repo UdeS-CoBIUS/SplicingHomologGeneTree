@@ -1,0 +1,1 @@
+(((((ENSPREG00000022373__Poecilia_reticulata,ENSPLAG00000006234__Poecilia_latipinna),ENSXCOG00000013748__Xiphophorus_couchianus),ENSAPEG00000004633__Amphiprion_percula),(ENSNBRG00000013650__Neolamprologus_brichardi,ENSPNYG00000012496__Pundamilia_nyererei)),ENSMAMG00000001673__Mastacembelus_armatus);

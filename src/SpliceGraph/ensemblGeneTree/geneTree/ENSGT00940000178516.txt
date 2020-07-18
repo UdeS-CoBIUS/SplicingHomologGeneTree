@@ -1,0 +1,1 @@
+((((ENSSLDG00000004813__Seriola_lalandi_dorsalis,ENSSDUG00000022379__Seriola_dumerili),ENSSMAG00000008285__Scophthalmus_maximus),ENSATEG00000001559__Anabas_testudineus),ENSAPOG00000005587__Acanthochromis_polyacanthus);

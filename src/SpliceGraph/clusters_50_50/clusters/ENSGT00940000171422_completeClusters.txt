@@ -1,0 +1,4 @@
+>completeCluster_0
+F28H6.3.1	R03A10.4a.2	YJL060W_mRNA
+>completeCluster_1
+YJL060W_mRNA	R03A10.4b.2	F28H6.3.1

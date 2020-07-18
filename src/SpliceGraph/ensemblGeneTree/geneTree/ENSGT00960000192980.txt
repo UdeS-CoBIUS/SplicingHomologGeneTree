@@ -1,0 +1,1 @@
+(ENSCPGG00000011240__Calidris_pygmaea,ENSGALG00000031572__Gallus_gallus);

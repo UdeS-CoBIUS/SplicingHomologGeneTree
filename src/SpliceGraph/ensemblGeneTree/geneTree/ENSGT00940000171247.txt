@@ -1,0 +1,1 @@
+(((((ENSBTAG00000048585__Bos_taurus,ENSTTRG00000014119__Tursiops_truncatus),ENSVPAG00000010238__Vicugna_pacos),ENSSSCG00000029651__Sus_scrofa),(ENSOCUG00000011876__Oryctolagus_cuniculus,ENSOPRG00000004001__Ochotona_princeps)),(ENSPCAG00000000953__Procavia_capensis,ENSLAFG00000002248__Loxodonta_africana));

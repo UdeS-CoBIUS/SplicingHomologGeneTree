@@ -1,1 +1,0 @@
-(ENSCABG00000022239__Chelonoidis_abingdonii,ENSMALG00000006905__Monopterus_albus);

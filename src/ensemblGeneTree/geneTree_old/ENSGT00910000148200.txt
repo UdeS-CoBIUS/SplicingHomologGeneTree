@@ -1,1 +1,0 @@
-(((ENSPANG00000030681__Papio_anubis,ENSCATG00000015576__Cercocebus_atys),ENSMLEG00000033589__Mandrillus_leucophaeus),ENSMFAG00000030566__Macaca_fascicularis);

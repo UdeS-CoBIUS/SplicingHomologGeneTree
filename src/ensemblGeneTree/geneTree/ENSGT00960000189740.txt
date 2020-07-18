@@ -1,0 +1,1 @@
+((ENSDNVG00000015244__Dromaius_novaehollandiae,ENSNPEG00000010265__Nothoprocta_perdicaria),((ENSCCEG00000001718__Cyanistes_caeruleus,ENSPMJG00000005325__Parus_major),ENSFALG00000000145__Ficedula_albicollis));

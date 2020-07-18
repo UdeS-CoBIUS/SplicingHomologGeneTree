@@ -1,1 +1,0 @@
-((((ENSLOCG00000000369__Lepisosteus_oculatus,ENSLOCG00000014038__Lepisosteus_oculatus),((ENSLOCG00000002561__Lepisosteus_oculatus,ENSLOCG00000003426__Lepisosteus_oculatus),ENSLOCG00000003421__Lepisosteus_oculatus)),(ENSACAG00000017340__Anolis_carolinensis,ENSGAGG00000014057__Gopherus_agassizii)),ENSEBUG00000005919__Eptatretus_burgeri);

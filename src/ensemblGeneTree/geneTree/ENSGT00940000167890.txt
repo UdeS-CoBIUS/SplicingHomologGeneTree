@@ -1,0 +1,1 @@
+(((((((ENSCPOG00000003188__Cavia_porcellus,ENSCAPG00000015040__Cavia_aperea),ENSODEG00000006734__Octodon_degus),ENSOPRG00000010662__Ochotona_princeps),ENSSARG00000007462__Sorex_araneus),(ENSBBBG00000003790__Bison_bison_bison,ENSPEMG00000031378__Peromyscus_maniculatus_bairdii)),ENSMEUG00000007560__Notamacropus_eugenii),ENSCJPG00005010563__Coturnix_japonica);

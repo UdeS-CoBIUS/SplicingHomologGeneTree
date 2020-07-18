@@ -1,0 +1,1 @@
+(((ENSFCAG00000033133__Felis_catus,ENSPPRG00000007033__Panthera_pardus),ENSNVIG00000013933__Neovison_vison),((ENSUPAG00010012789__Urocitellus_parryii,ENSCCNG00000003094__Castor_canadensis),ENSPSMG00000004826__Prolemur_simus));

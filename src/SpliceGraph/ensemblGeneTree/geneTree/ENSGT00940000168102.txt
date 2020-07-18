@@ -1,0 +1,1 @@
+(((ENSVPAG00000008632__Vicugna_pacos,ENSUAMG00000005026__Ursus_americanus),ENSFDAG00000005979__Fukomys_damarensis),(ENSETEG00000006566__Echinops_telfairi,ENSPCAG00000016992__Procavia_capensis));

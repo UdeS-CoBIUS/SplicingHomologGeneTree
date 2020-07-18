@@ -1,0 +1,9 @@
+SPERMOPHILUSDAURICUS	spermophilus_dauricus
+MUSSPICILEGUS	mus_spicilegus
+MACACAMULATTA	macaca_mulatta
+MANDRILLUSLEUCOPHAEUS	mandrillus_leucophaeus
+NOMASCUSLEUCOGENYS	nomascus_leucogenys
+URSUSMARITIMUS	ursus_maritimus
+NEOVISONVISON	neovison_vison
+PANTHERATIGRISALTAICA	panthera_tigris_altaica
+BISONBISONBISON	bison_bison_bison

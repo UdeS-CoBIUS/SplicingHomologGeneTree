@@ -1,1 +1,0 @@
-(ENSDORG00000003715__Dipodomys_ordii,ENSDORG00000025845__Dipodomys_ordii);

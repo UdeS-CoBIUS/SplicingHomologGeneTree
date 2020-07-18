@@ -1,0 +1,16 @@
+>0
+FBtr0309063: ['no event', 50, 0]
+FBtr0075710: ['exon skipping', 0, 0]
+FBtr0333018: ['exon skipping', 0, 0]
+>1
+FBtr0309063: ['exon skipping', 0, 0]
+FBtr0075710: ['5event', 2007, 0]
+FBtr0333018: ['exon skipping', 0, 0]
+>2
+FBtr0309063: ['5event', 2246, 0]
+FBtr0075710: ['exon skipping', 0, 0]
+FBtr0333018: ['exon skipping', 0, 0]
+>3
+FBtr0309063: ['exon skipping', 0, 0]
+FBtr0075710: ['5event', 1990, 1]
+FBtr0333018: ['5event', 1004, 0]

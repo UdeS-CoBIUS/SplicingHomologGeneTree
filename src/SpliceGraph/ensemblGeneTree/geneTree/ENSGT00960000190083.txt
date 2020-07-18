@@ -1,0 +1,1 @@
+((ENSOANG00000029642__Ornithorhynchus_anatinus,ENSSDAG00000011024__Spermophilus_dauricus),(ENSZALG00000013711__Zonotrichia_albicollis,ENSMUNG00000011498__Melopsittacus_undulatus));

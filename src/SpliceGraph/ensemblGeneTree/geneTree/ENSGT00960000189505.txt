@@ -1,0 +1,1 @@
+((((ENSAOWG00000006463__Apteryx_owenii,ENSARWG00000009070__Apteryx_rowi),ENSAHAG00000007190__Apteryx_haastii),ENSDNVG00000013612__Dromaius_novaehollandiae),((ENSABRG00000002108__Anser_brachyrhynchus,ENSAPLG00000027714__Anas_platyrhynchos_platyrhynchos),ENSMUNG00000016551__Melopsittacus_undulatus));

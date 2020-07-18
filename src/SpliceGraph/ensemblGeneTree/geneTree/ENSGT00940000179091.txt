@@ -1,0 +1,1 @@
+((ENSLBEG00000028070__Labrus_bergylta,ENSLBEG00000028064__Labrus_bergylta),(ENSLBEG00000022276__Labrus_bergylta,ENSLBEG00000015822__Labrus_bergylta));

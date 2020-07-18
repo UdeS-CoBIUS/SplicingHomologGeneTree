@@ -1,0 +1,3 @@
+YNL117W_mRNA	YNL117W	Saccharomyces_cerevisiae_strain_S288C
+YIR031C_mRNA	YIR031C	Saccharomyces_cerevisiae_strain_S288C
+C05E4.9a.2	WBGene00001564	Caenorhabditis_elegans_strain_N2	C05E4.9a.2

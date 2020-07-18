@@ -1,0 +1,8 @@
+SERINUSCANARIA	serinus_canaria
+ZONOTRICHIAALBICOLLIS	zonotrichia_albicollis
+CYANISTESCAERULEUS	cyanistes_caeruleus
+MANACUSVITELLINUS	manacus_vitellinus
+MELOPSITTACUSUNDULATUS	melopsittacus_undulatus
+COTURNIXJAPONICA	coturnix_japonica
+DROMAIUSNOVAEHOLLANDIAE	dromaius_novaehollandiae
+CHOLOEPUSHOFFMANNI	choloepus_hoffmanni

@@ -1,0 +1,1 @@
+((ENSPVAG00000000488__Pteropus_vampyrus,ENSVPAG00000000384__Vicugna_pacos),(ENSDNOG00000003151__Dasypus_novemcinctus,ENSDNOG00000017157__Dasypus_novemcinctus));

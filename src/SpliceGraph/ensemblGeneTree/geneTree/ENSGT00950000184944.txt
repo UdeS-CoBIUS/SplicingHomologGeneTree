@@ -1,0 +1,1 @@
+(ENSCAFG00000031837__Canis_lupus_familiaris,ENSORLG00015021772__Oryzias_latipes_ASM223469v1);

@@ -1,0 +1,1 @@
+(((((((ENSPANG00000036040__Papio_anubis,ENSMMUG00000040144__Macaca_mulatta),ENSTGEG00000016317__Theropithecus_gelada),ENSNLEG00000027957__Nomascus_leucogenys),ENSCCAG00000021537__Cebus_capucinus_imitator),ENSPSMG00000021075__Prolemur_simus),(ENSSDAG00000021887__Spermophilus_dauricus,ENSMMMG00000002459__Marmota_marmota_marmota)),ENSFCAG00000041674__Felis_catus);

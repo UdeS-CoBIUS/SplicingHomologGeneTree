@@ -1,0 +1,1 @@
+(((ENSNBRG00000001245__Neolamprologus_brichardi,ENSAOCG00000022321__Amphiprion_ocellaris),ENSPNAG00000006012__Pygocentrus_nattereri),(ENSCPUG00000011935__Calidris_pugnax,ENSCCEG00000000937__Cyanistes_caeruleus));

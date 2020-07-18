@@ -1,0 +1,1 @@
+((ENSLOCG00000017659__Lepisosteus_oculatus,ENSLOCG00000018244__Lepisosteus_oculatus),ENSLOCG00000018032__Lepisosteus_oculatus);

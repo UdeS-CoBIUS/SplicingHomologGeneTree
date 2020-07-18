@@ -1,0 +1,1 @@
+((ENSLCOG00000013024__Lepidothrix_coronata,ENSCJPG00005002757__Coturnix_japonica),ENSTNIG00000001643__Tetraodon_nigroviridis);

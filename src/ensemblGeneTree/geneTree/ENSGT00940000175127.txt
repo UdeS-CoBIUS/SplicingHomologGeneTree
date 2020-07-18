@@ -1,0 +1,1 @@
+((ENSEEUG00000013914__Erinaceus_europaeus,ENSEEUG00000013019__Erinaceus_europaeus),ENSGAGG00000000840__Gopherus_agassizii);

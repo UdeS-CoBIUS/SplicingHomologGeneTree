@@ -1,0 +1,1 @@
+(ENSSARG00000009010__Sorex_araneus,ENSPTIG00000018941__Panthera_tigris_altaica);

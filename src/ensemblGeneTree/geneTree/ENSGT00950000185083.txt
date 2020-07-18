@@ -1,0 +1,1 @@
+(((ENSSSCG00000033462__Sus_scrofa,ENSBTAG00000049524__Bos_taurus),((ENSUAMG00000009182__Ursus_americanus,ENSUMAG00000004326__Ursus_maritimus),ENSCAFG00020007245__Canis_lupus_dingo)),(ENSMMMG00000011145__Marmota_marmota_marmota,ENSUPAG00010019557__Urocitellus_parryii));

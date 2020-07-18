@@ -1,0 +1,1 @@
+(((ENSGAGG00000002348__Gopherus_agassizii,ENSPSIG00000002269__Pelodiscus_sinensis),ENSSPUG00000004148__Sphenodon_punctatus),(((ENSMAUG00000017667__Mesocricetus_auratus,ENSCGRG00000017152__Cricetulus_griseus_CriGri_1.0),ENSMOCG00000013110__Microtus_ochrogaster),(ENSCHIG00000012557__Capra_hircus,ENSBTAG00000054525__Bos_taurus)));

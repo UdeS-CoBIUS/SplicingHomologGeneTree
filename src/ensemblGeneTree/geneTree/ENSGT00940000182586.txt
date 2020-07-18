@@ -1,0 +1,1 @@
+((((ENSAMXG00000042575__Astyanax_mexicanus_Astyanax_mexicanus-2.0,ENSAMXG00005017079__Astyanax_mexicanus_Astyanax_mexicanus-1.0.2),ENSAMXG00000036032__Astyanax_mexicanus_Astyanax_mexicanus-2.0),ENSEEEG00000015244__Electrophorus_electricus),ENSCPBG00000021533__Chrysemys_picta_bellii);

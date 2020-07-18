@@ -1,0 +1,1 @@
+(((ENSGACG00000007072__Gasterosteus_aculeatus,ENSPMGG00000004543__Periophthalmus_magnuspinnatus),ENSMMMG00000007998__Marmota_marmota_marmota),YNR029C__Saccharomyces_cerevisiae_strain_S288C);

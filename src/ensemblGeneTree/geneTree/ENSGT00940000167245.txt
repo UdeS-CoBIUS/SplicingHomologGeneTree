@@ -1,0 +1,1 @@
+((((ENSPFOG00000023085__Poecilia_formosa,ENSPFOG00000023454__Poecilia_formosa),ENSPFOG00000023252__Poecilia_formosa),(ENSOANG00000030054__Ornithorhynchus_anatinus,ENSDNOG00000045974__Dasypus_novemcinctus)),(WBGene00001112__Caenorhabditis_elegans_strain_N2,WBGene00020839__Caenorhabditis_elegans_strain_N2));

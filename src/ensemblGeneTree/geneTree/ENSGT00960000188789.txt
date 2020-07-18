@@ -1,0 +1,1 @@
+(ENSSDAG00000005432__Spermophilus_dauricus,ENSOCUG00000010359__Oryctolagus_cuniculus);

@@ -1,0 +1,8 @@
+PANTHERATIGRISALTAICA	panthera_tigris_altaica
+SUSSCROFA	sus_scrofa
+PAPIOANUBIS	papio_anubis
+MANDRILLUSLEUCOPHAEUS	mandrillus_leucophaeus
+MACACANEMESTRINA	macaca_nemestrina
+PILIOCOLOBUSTEPHROSCELES	piliocolobus_tephrosceles
+GORILLAGORILLA	gorilla_gorilla
+AOTUSNANCYMAAE	aotus_nancymaae

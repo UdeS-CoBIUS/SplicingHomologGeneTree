@@ -1,0 +1,1 @@
+(((ENSTGEG00000015305__Theropithecus_gelada,ENSPTEG00000009423__Piliocolobus_tephrosceles),ENSNLEG00000033891__Nomascus_leucogenys),(ENSNVIG00000008830__Neovison_vison,ENSUAMG00000012949__Ursus_americanus));

@@ -1,1 +1,0 @@
-((ENSELUG00000021307__Esox_lucius,ENSDARG00000093432__Danio_rerio),ENSLOCG00000018333__Lepisosteus_oculatus);

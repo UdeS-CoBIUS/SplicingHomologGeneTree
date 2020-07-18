@@ -1,0 +1,1 @@
+(((ENSNGAG00000016444__Nannospalax_galili,ENSJJAG00000024061__Jaculus_jaculus),ENSODEG00000012445__Octodon_degus),ENSPTIG00000003033__Panthera_tigris_altaica);

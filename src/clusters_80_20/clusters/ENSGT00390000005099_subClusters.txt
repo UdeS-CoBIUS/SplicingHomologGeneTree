@@ -1,0 +1,14 @@
+>cluster_0
+H10D18.5c.1	FBtr0302922
+>cluster_1
+H10D18.5b.1	FBtr0345483
+>cluster_2
+FBtr0332922	H10D18.5a.1
+>cluster_3
+H10D18.5d.1	FBtr0332924
+>cluster_4
+FBtr0345481
+>cluster_5
+FBtr0332923
+>cluster_6
+FBtr0345482

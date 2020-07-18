@@ -1,0 +1,1 @@
+((ENSRBIG00000032550__Rhinopithecus_bieti,ENSDNOG00000038784__Dasypus_novemcinctus),ENSTGUG00000013894__Taeniopygia_guttata);

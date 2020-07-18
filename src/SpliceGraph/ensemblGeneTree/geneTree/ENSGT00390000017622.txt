@@ -1,0 +1,1 @@
+(((((((ENSOARG00000021100__Ovis_aries,ENSOARG00000020921__Ovis_aries),ENSOARG00000004934__Ovis_aries),(ENSOARG00000014505__Ovis_aries,ENSOARG00000003679__Ovis_aries)),ENSCAFG00000031299__Canis_lupus_familiaris),(ENSMLUG00000008088__Myotis_lucifugus,ENSDNOG00000031114__Dasypus_novemcinctus)),ENSMODG00000018851__Monodelphis_domestica),ENSPMAG00000007178__Petromyzon_marinus);

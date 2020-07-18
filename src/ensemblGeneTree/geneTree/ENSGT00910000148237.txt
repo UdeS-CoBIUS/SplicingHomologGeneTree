@@ -1,0 +1,1 @@
+((ENSPTEG00000037862__Piliocolobus_tephrosceles,ENSRROG00000039814__Rhinopithecus_roxellana),((ENSPANG00000031243__Papio_anubis,ENSMLEG00000033887__Mandrillus_leucophaeus),ENSTGEG00000010633__Theropithecus_gelada));

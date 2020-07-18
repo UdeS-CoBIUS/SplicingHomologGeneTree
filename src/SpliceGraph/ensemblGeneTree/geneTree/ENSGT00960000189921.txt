@@ -1,0 +1,1 @@
+(((ENSDNVG00000014583__Dromaius_novaehollandiae,ENSARWG00000002689__Apteryx_rowi),ENSCJPG00005002759__Coturnix_japonica),ENSPCAG00000010575__Procavia_capensis);

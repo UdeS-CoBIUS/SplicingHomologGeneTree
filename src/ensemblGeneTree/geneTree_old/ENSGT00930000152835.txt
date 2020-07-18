@@ -1,1 +1,0 @@
-((ENSPPRG00000009259__Panthera_pardus,ENSPTIG00000020388__Panthera_tigris_altaica),ENSNVIG00000017350__Neovison_vison);

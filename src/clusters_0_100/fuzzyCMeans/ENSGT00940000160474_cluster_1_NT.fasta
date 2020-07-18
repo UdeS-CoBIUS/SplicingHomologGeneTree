@@ -240,7 +240,7 @@ TGCAACATGTATTTCTCCCCAAACAAGTTCATCTTCCACTCGCACCGCACCCCCGATGCC
 AAGTACACCCAACCAGACGCCGCCAACTTCAACTCCTGGCGACGGCACCTGAAGCTGAGC
 GATAAAGTCCCCGCTGACGAGCTGGTCTACGCCTGGGAGGACGTCAAGGCCATGTTCAAC
 GGAGGCAGCCGGAAGAGAGCCTCCTCCTCTGCTCCTCTCCTCCTCTCCTCCTCCTCTCCT
-CCCTCCTCC---------------------------------TGTCCTCTCCTTCTCCCT
+CCCTCCTCCTGT---------------------------------CCTCTCCTTCTCCCT
 CCC---------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -363,7 +363,7 @@ TGCTCCTCCATGGCTGCCATGAAGGGC---------------------------------
 ------------------------------------------------------------
 ---------------------ATGGATAAGACGCACTTATCCAGCCCAAACGAACTAATT
 ATGACGACTGCAACAGGCCCATATCAACCGGAGCCCCTAACCCCACCCCGTGGCACCCAC
-ATGCACTCTTCCTCCTCTTCTCCC------------------CCATCCTCCTCACCTCTC
+ATGCACTCTTCCTCCTCTTCT------------------CCCCCATCCTCCTCACCTCTC
 AAGCCCAACCAGGTGGGACAGGTCATCCTCTACGGCGTCCCAATCGTATCACTCGTAATA
 GACAACAACGAGAGACTTTGCTTGGCACAGATCTCCAACACCCTCCTTAAGAACTACAGC
 TACAACGAAATCCACAATCGGCGCGTGGCCCTGGGTATCACGTGCGTGCAGTGTACCCCA
@@ -375,7 +375,8 @@ TGTAACATGTACTTCTCCCCCAATAAGTTTATCTTTCATTCCCACCGCACTCCAGAGTCC
 AAGTACATGCAGCCAGATGCAGCCAACTTCAACTCGTGGAGGAGGCACCTGAAGCTGAGT
 GAGAAGCACCCGCCCGAGGAGCTGGTGTACGCCTGGGAGGACGTCAAAGCCATGTTCAAC
 GGGGGCAGCCGCAAACGCGCT---------------------CTCCCGCCCTCCGCCCAT
-TGCTCCTCCATGGGCCGCGTGCTCCCTGTAGAAATGAAACAGTCACCCCACTTT------
+TGCTCCTCCATGGGCCGCGTGCTCCCTGTAGAAATGAAACAGTCACCCCACTTTGATCCC
+AGC---------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -383,7 +384,6 @@ TGCTCCTCCATGGGCCGCGTGCTCCCTGTAGAAATGAAACAGTCACCCCACTTT------
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
----GATCCCAGC------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -420,7 +420,8 @@ TGCAACATGTACTTCTCCCCGAATAAGTTCATCTTCCACTCCCACCGCACGCCCGACGCC
 AAGTACACCCAACCCGACGCCGCCAACTTCAACTCTTGGCGACGACATCTCAAACTCAGC
 GAGAAAATCCCGCCCGATGAGTTGGTCTTCGCGTGGGAAGACGTCAAAGCCATGTTCAAT
 GGCGGCAGCCGGAAGAGATGCTTTATGACATCTGTGCCAACATTTATATCTACCCCCCAC
-TCCCGCAGC------CCCCTGCAACAC---------------------------------
+TCCCGCAGC------------CCCCTGCAACACACGCACACACACACACACCGTAATGAT
+CCCTGCGCA---------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -439,7 +440,6 @@ TCCCGCAGC------CCCCTGCAACAC---------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
----------------------ACGCACACACACACACACCGTAATGATCCCTGCGCA---
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -453,8 +453,8 @@ TCCCGCAGC------CCCCTGCAACAC---------------------------------
 ------------------------------------------------------------
 ---------------------ATGGACAAAACTCATCTTTCAAGCTCTAATGATATCATA
 ATGACAAGCTCAACAGGCCCGTATCAACAGGAGCCCCTGACTCCACCCAGGCCCACCCAT
-CATCACTCCTCC------------------------------TCCTCATCCTCTCCT---
----------------TCTTCTGTCATCCTGTACGGCGTTCCTATTGTATCACTGGTTATT
+CATCACTCCTCCTCCTCATCC---------------------------------------
+---------TCTCCTTCTTCTGTCATCCTGTACGGCGTTCCTATTGTATCACTGGTTATT
 GATGAGAAGGAGAGACTTTGCTTGGCACAGATTTCCAACACACTCCTCAAGAACTACAGT
 TATAATGAGATTCATAATCGTCGGGTGGCACTGGGCATCACCTGTGTCCAGTGCACTCCA
 GTCCAGCTGGAGATCCTCCGCAGGGCTGGTGCCATGCCCATCTCGTCACGCCGCTGCGGC
@@ -465,8 +465,8 @@ TGCAACATGTATTTCTCACCAAATAAGTTTATTTTCCATTCCCACCGCACACCAGACGCC
 AAGTACACCCAGCCCGACGCTGCAAACTTTAACTCCTGGCGCAGACACCTAAAACTATCT
 GACAAACACCCACCAAATGAGTTAATTTATGCATGGGAAGACGTCAAAGCAATGTTCAAC
 GGAGGCAGCCGAAAGAGAGCG---------------------CTGCCCTCCTCGGCCCAG
-TTGAGTGGTTTT------------------------ATTGTGTCCCCGTGT---------
-------------------------------------------------------------
+TTGAGTGGTTTT---------------------------------------ATTGTGTCC
+CCGTGT------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------

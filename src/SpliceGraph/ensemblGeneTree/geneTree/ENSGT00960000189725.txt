@@ -1,0 +1,1 @@
+(((ENSCPUG00000005975__Calidris_pugnax,ENSJHYG00000010779__Junco_hyemalis),(ENSAHAG00000016689__Apteryx_haastii,ENSDNVG00000017684__Dromaius_novaehollandiae)),ENSMPUG00000014404__Mustela_putorius_furo);

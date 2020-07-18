@@ -1,0 +1,1 @@
+(((ENSPKIG00000010512__Paramormyrops_kingsleyae,ENSPKIG00000004329__Paramormyrops_kingsleyae),(ENSELUG00000007820__Esox_lucius,ENSORLG00015016335__Oryzias_latipes_ASM223469v1)),ENSCJPG00005002439__Coturnix_japonica);

@@ -1,0 +1,1 @@
+(((ENSCANG00000043712__Colobus_angolensis_palliatus,ENSRROG00000039424__Rhinopithecus_roxellana),(ENSMLEG00000032253__Mandrillus_leucophaeus,ENSCATG00000042102__Cercocebus_atys)),(((ENSPTRG00000048320__Pan_troglodytes,ENSPPAG00000038046__Pan_paniscus),ENSGGOG00000028439__Gorilla_gorilla),ENSNLEG00000015752__Nomascus_leucogenys));

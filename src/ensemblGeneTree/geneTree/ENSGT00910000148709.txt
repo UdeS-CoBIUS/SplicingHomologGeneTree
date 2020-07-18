@@ -1,0 +1,1 @@
+((ENSRROG00000042525__Rhinopithecus_roxellana,ENSSBOG00000026330__Saimiri_boliviensis_boliviensis),ENSUPAG00010010845__Urocitellus_parryii);

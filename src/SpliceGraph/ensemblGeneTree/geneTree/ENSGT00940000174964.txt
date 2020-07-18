@@ -1,0 +1,1 @@
+((ENSLSDG00000007301__Lonchura_striata_domestica,ENSTGUG00000002392__Taeniopygia_guttata),ENSMODG00000029022__Monodelphis_domestica);

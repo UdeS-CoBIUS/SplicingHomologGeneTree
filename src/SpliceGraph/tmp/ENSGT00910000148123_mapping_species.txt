@@ -1,0 +1,4 @@
+MACACAFASCICULARIS	macaca_fascicularis
+MACACAMULATTA	macaca_mulatta
+MANDRILLUSLEUCOPHAEUS	mandrillus_leucophaeus
+NOMASCUSLEUCOGENYS	nomascus_leucogenys

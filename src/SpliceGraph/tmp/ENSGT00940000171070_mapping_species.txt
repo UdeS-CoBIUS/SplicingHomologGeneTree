@@ -1,0 +1,6 @@
+DROSOPHILAMELANOGASTER	drosophila_melanogaster
+CAENORHABDITISELEGANS	caenorhabditis_elegans
+XIPHOPHORUSMACULATUS	xiphophorus_maculatus
+GAMBUSIAAFFINIS	gambusia_affinis
+FUNDULUSHETEROCLITUS	fundulus_heteroclitus
+CIONAINTESTINALIS	ciona_intestinalis

@@ -1,0 +1,1 @@
+((ENSTGEG00000016272__Theropithecus_gelada,ENSPTEG00000039767__Piliocolobus_tephrosceles),ENSSPUG00000006503__Sphenodon_punctatus);

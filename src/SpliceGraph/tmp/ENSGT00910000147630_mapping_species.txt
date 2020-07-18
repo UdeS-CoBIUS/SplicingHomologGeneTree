@@ -1,0 +1,5 @@
+MANDRILLUSLEUCOPHAEUS	mandrillus_leucophaeus
+MACACAMULATTA	macaca_mulatta
+PAPIOANUBIS	papio_anubis
+CERCOCEBUSATYS	cercocebus_atys
+NOMASCUSLEUCOGENYS	nomascus_leucogenys

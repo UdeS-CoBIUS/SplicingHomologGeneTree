@@ -1,1 +1,0 @@
-(ENSAOCG00000006500__Amphiprion_ocellaris,ENSPMGG00000018265__Periophthalmus_magnuspinnatus);

@@ -1,0 +1,8 @@
+>0
+ENSMLET00000057168: ['no event', 20, 0]
+ENSPANT00000051037: ['no event', 20, 0]
+ENSMNET00000037753: ['no event', 20, 0]
+>1
+ENSMLET00000057168: ['no event', 353, 0]
+ENSPANT00000051037: ['no event', 353, 0]
+ENSMNET00000037753: [['internal gap < 30', 126, 3], 350, 0]

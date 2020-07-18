@@ -1,0 +1,2 @@
+YDL182W_mRNA	YDL182W	Saccharomyces_cerevisiae_strain_S288C
+YDL131W_mRNA	YDL131W	Saccharomyces_cerevisiae_strain_S288C

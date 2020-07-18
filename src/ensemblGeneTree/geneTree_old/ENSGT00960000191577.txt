@@ -1,1 +1,0 @@
-(ENSPVIG00000023187__Pogona_vitticeps,ENSBBBG00000019416__Bison_bison_bison);

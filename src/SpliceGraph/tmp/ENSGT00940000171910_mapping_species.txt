@@ -1,0 +1,4 @@
+TUPAIABELANGERI	tupaia_belangeri
+EQUUSCABALLUS	equus_caballus
+TAENIOPYGIAGUTTATA	taeniopygia_guttata
+SACCHAROMYCESCEREVISIAE	saccharomyces_cerevisiae

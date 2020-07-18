@@ -1,0 +1,1 @@
+(((((ENSLCAG00010009576__Lates_calcarifer,ENSGACG00000004837__Gasterosteus_aculeatus),ENSHCOG00000013227__Hippocampus_comes),ENSGMOG00000000104__Gadus_morhua),ENSSFOG00015011253__Scleropages_formosus),ENSLOCG00000008521__Lepisosteus_oculatus);

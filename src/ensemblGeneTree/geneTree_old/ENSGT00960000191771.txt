@@ -1,1 +1,0 @@
-(ENSNLEG00000033184__Nomascus_leucogenys,ENSPTEG00000039647__Piliocolobus_tephrosceles);

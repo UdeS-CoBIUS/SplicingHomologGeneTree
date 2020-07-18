@@ -1,0 +1,1 @@
+(((ENSMMUG00000031410__Macaca_mulatta,ENSMMUG00000023369__Macaca_mulatta),ENSMMUG00000041474__Macaca_mulatta),ENSTGEG00000005660__Theropithecus_gelada);

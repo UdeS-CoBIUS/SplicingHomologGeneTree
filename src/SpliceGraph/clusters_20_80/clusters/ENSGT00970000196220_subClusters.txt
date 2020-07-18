@@ -1,0 +1,4 @@
+>cluster_0
+R03G8.3.1	Y73F8A.35b.1
+>cluster_1
+R03G8.1.1	Y73F8A.35a.1

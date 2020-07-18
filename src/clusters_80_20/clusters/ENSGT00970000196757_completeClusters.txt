@@ -1,0 +1,4 @@
+>completeCluster_0
+T06C12.8b.1	W03B1.7a.1
+>completeCluster_1
+W03B1.7b.1	T06C12.8a.1

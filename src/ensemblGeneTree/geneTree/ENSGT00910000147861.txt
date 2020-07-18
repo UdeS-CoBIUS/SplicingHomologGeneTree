@@ -1,0 +1,1 @@
+((((((ENSMLEG00000019620__Mandrillus_leucophaeus,ENSPANG00000033134__Papio_anubis),ENSTGEG00000026484__Theropithecus_gelada),ENSMMUG00000045791__Macaca_mulatta),ENSPANG00000031013__Papio_anubis),ENSRROG00000043469__Rhinopithecus_roxellana),ENSSBOG00000032203__Saimiri_boliviensis_boliviensis);

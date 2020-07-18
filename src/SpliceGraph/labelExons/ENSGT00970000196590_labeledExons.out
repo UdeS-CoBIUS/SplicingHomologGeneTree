@@ -1,0 +1,32 @@
+>0
+T09A5.10.1: ['no event', 139, 0]
+T09A5.10.2: ['no event', 139, 0]
+F01G10.5.1: ['no event', 139, 0]
+>1
+T09A5.10.1: ['no event', 617, 2]
+T09A5.10.2: ['no event', 617, 2]
+F01G10.5.1: [['internal gap < 30', 327, 12], 605, 2]
+>2
+T09A5.10.1: [['internal gap < 30', 630, 3], 1053, 2]
+T09A5.10.2: [['internal gap < 30', 630, 3], 1053, 2]
+F01G10.5.1: [['internal gap < 30', 598, 3], 1053, 2]
+>3
+T09A5.10.1: ['exon skipping', 0, 0]
+T09A5.10.2: ['exon skipping', 0, 0]
+F01G10.5.1: ['no event', 12, 0]
+>4
+T09A5.10.1: ['5event', 114, 0]
+T09A5.10.2: ['5event', 114, 0]
+F01G10.5.1: [['internal gap < 30', 36, 13], 105, 1]
+>5
+T09A5.10.1: [['internal gap < 30', 176, 17], 208, 1]
+T09A5.10.2: [['internal gap < 30', 176, 17], 208, 1]
+F01G10.5.1: [['internal gap < 30', 101, 11], 214, 1]
+>6
+T09A5.10.1: [['internal gap < 30', 278, 24], 329, 0]
+T09A5.10.2: [['internal gap < 30', 278, 24], 329, 0]
+F01G10.5.1: [['internal gap < 30', 324, 18], 335, 0]
+>7
+T09A5.10.1: ['exon skipping', 0, 0]
+T09A5.10.2: ['exon skipping', 0, 0]
+F01G10.5.1: ['no event', 8, 0]

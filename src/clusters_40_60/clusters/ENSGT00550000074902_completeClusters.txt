@@ -1,0 +1,2 @@
+>completeCluster_0
+FBtr0082334	FBtr0304800	C42C1.10.2

@@ -1,0 +1,1 @@
+(((ENSMAMG00000020459__Mastacembelus_armatus,ENSMAMG00000004002__Mastacembelus_armatus),ENSMMOG00000000691__Mola_mola),ENSELUG00000001695__Esox_lucius);

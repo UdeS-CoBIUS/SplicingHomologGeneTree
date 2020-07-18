@@ -1,0 +1,1 @@
+(ENSCSEG00000017967__Cynoglossus_semilaevis,ENSMMOG00000006923__Mola_mola);

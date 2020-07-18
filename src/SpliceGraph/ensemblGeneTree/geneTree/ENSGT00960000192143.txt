@@ -1,0 +1,1 @@
+(ENSEASG00005002049__Equus_asinus_asinus,ENSMSIG00000016478__Mus_spicilegus);

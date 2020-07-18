@@ -1,0 +1,1 @@
+((((ENSCHOG00000000242__Choloepus_hoffmanni,ENSEEUG00000011751__Erinaceus_europaeus),ENSATEG00000001553__Anabas_testudineus),((ENSCING00000018485__Ciona_intestinalis,ENSCING00000012184__Ciona_intestinalis),ENSCING00000012917__Ciona_intestinalis)),FBgn0036929__Drosophila_melanogaster);

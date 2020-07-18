@@ -1,0 +1,1 @@
+((((ENSAPEG00000013893__Amphiprion_percula,ENSAOCG00000016022__Amphiprion_ocellaris),ENSAPOG00000015206__Acanthochromis_polyacanthus),ENSKMAG00000019754__Kryptolebias_marmoratus),ENSAMXG00000034165__Astyanax_mexicanus);

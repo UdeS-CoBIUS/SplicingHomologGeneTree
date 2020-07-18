@@ -1,0 +1,9 @@
+>0
+YPR170W-B_mRNA: ['no event', 148, 0]
+YPR169W-A_mRNA: ['no event', 148, 0]
+>1
+YPR170W-B_mRNA: ['no event', 108, 2]
+YPR169W-A_mRNA: ['exon skipping', 0, 0]
+>2
+YPR170W-B_mRNA: ['exon skipping', 0, 0]
+YPR169W-A_mRNA: ['5event', 69, 2]

@@ -1,1 +1,0 @@
-(ENSELUG00000018890__Esox_lucius,ENSCPBG00000024461__Chrysemys_picta_bellii);

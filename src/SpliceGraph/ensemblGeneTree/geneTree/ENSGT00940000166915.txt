@@ -1,0 +1,1 @@
+((ENSCING00000005626__Ciona_intestinalis,ENSCSAVG00000005066__Ciona_savignyi),((((ENSANAG00000023513__Aotus_nancymaae,ENSPTRG00000047046__Pan_troglodytes),ENSOPRG00000000385__Ochotona_princeps),ENSOARG00000008096__Ovis_aries),(ENSORLG00000013420__Oryzias_latipes_ASM223467v1,ENSLOCG00000002137__Lepisosteus_oculatus)));

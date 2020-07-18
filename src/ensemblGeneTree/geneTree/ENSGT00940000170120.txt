@@ -1,0 +1,1 @@
+(((ENSCPRG00005011599__Crocodylus_porosus,ENSCJPG00005016421__Coturnix_japonica),(ENSPSIG00000001838__Pelodiscus_sinensis,ENSCABG00000020377__Chelonoidis_abingdonii)),((ENSPVIG00000021051__Pogona_vitticeps,ENSACAG00000014987__Anolis_carolinensis),(ENSSMRG00000007869__Salvator_merianae,ENSNSUG00000008092__Notechis_scutatus)));

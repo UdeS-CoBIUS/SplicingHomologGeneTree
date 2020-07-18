@@ -1,1 +1,0 @@
-((((ENSPMJG00000009000__Parus_major,ENSCCEG00000005519__Cyanistes_caeruleus),(ENSJHYG00000012847__Junco_hyemalis,ENSJHYG00000014787__Junco_hyemalis)),ENSCJPG00005008200__Coturnix_japonica),ENSGAGG00000003789__Gopherus_agassizii);

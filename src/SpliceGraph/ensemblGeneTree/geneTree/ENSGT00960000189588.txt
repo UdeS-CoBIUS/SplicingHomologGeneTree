@@ -1,0 +1,1 @@
+((((ENSMVIG00005009629__Manacus_vitellinus,ENSMUNG00000004413__Melopsittacus_undulatus),ENSCJPG00005006115__Coturnix_japonica),(ENSDNVG00000009006__Dromaius_novaehollandiae,ENSARWG00000008082__Apteryx_rowi)),ENSCPRG00005017907__Crocodylus_porosus);

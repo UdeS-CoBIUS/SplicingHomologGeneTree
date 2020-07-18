@@ -1,1 +1,0 @@
-(((ENSAMXG00000034708__Astyanax_mexicanus,ENSIPUG00000009140__Ictalurus_punctatus),(ENSELUG00000010540__Esox_lucius,ENSCSEG00000000105__Cynoglossus_semilaevis)),ENSVVUG00000016882__Vulpes_vulpes);

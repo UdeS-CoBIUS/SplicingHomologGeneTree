@@ -1,0 +1,1 @@
+((((ENSAOCG00000020353__Amphiprion_ocellaris,ENSAOCG00000012582__Amphiprion_ocellaris),ENSXMAG00000026297__Xiphophorus_maculatus),ENSPNAG00000005789__Pygocentrus_nattereri),ENSDNOG00000047752__Dasypus_novemcinctus);

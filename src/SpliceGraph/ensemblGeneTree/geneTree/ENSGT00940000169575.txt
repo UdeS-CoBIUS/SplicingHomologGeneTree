@@ -1,0 +1,1 @@
+(((((ENSUAMG00000022902__Ursus_americanus,ENSUMAG00000000990__Ursus_maritimus),ENSTBEG00000016684__Tupaia_belangeri),ENSCHOG00000008625__Choloepus_hoffmanni),ENSMLEG00000012294__Mandrillus_leucophaeus),ENSCMIG00000017969__Callorhinchus_milii);

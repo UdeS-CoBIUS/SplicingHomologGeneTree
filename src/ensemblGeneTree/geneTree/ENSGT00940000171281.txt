@@ -1,0 +1,1 @@
+(((ENSCPBG00000021923__Chrysemys_picta_bellii,ENSCABG00000011098__Chelonoidis_abingdonii),((ENSSMRG00000012097__Salvator_merianae,ENSSMRG00000023242__Salvator_merianae),ENSSMRG00000012670__Salvator_merianae)),(((ENSCATG00000038235__Cercocebus_atys,ENSCATG00000041754__Cercocebus_atys),ENSNVIG00000003587__Neovison_vison),ENSPCIG00000017222__Phascolarctos_cinereus));

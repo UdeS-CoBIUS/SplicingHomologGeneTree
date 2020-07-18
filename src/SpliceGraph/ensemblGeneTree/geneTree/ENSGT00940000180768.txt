@@ -1,0 +1,1 @@
+(((ENSTNIG00000002238__Tetraodon_nigroviridis,ENSORLG00020014658__Oryzias_latipes_ASM223471v1),ENSGAFG00000020189__Gambusia_affinis),(ENSCPBG00000001034__Chrysemys_picta_bellii,ENSAPLG00000027104__Anas_platyrhynchos_platyrhynchos));

@@ -1,0 +1,4 @@
+ASTYANAXMEXICANUS	astyanax_mexicanus
+ASTYANAXMEXICANUS	astyanax_mexicanus
+SERIOLADUMERILI	seriola_dumerili
+CHELONOIDISABINGDONII	chelonoidis_abingdonii

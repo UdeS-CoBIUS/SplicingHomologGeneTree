@@ -1,0 +1,6 @@
+>0
+YDR003W_mRNA: [['internal gap >= 30', 554, 39], 632, 0]
+YBR005W_mRNA: [['internal gap >= 30', 600, 36], 635, 0]
+>1
+YDR003W_mRNA: ['exon skipping', 0, 0]
+YBR005W_mRNA: ['no event', 5, 0]

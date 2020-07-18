@@ -1,0 +1,75 @@
+>0
+F54F2.2a.1: ['exon skipping', 0, 0]
+F54F2.2a.2: ['exon skipping', 0, 0]
+F54F2.2b.1: ['no event', 100, 0]
+F54F2.2c.1: ['exon skipping', 0, 0]
+>1
+F54F2.2a.1: ['exon skipping', 0, 0]
+F54F2.2a.2: ['exon skipping', 0, 0]
+F54F2.2b.1: ['no event', 177, 2]
+F54F2.2c.1: ['exon skipping', 0, 0]
+>2
+F54F2.2a.1: ['exon skipping', 0, 0]
+F54F2.2a.2: ['exon skipping', 0, 0]
+F54F2.2b.1: ['no event', 72, 0]
+F54F2.2c.1: ['exon skipping', 0, 0]
+>3
+F54F2.2a.1: ['exon skipping', 0, 0]
+F54F2.2a.2: ['exon skipping', 0, 0]
+F54F2.2b.1: ['no event', 88, 1]
+F54F2.2c.1: ['exon skipping', 0, 0]
+>4
+F54F2.2a.1: ['exon skipping', 0, 0]
+F54F2.2a.2: ['exon skipping', 0, 0]
+F54F2.2b.1: ['no event', 110, 0]
+F54F2.2c.1: ['exon skipping', 0, 0]
+>5
+F54F2.2a.1: ['exon skipping', 0, 0]
+F54F2.2a.2: ['exon skipping', 0, 0]
+F54F2.2b.1: ['no event', 83, 0]
+F54F2.2c.1: ['exon skipping', 0, 0]
+>6
+F54F2.2a.1: ['5event', 108, 0]
+F54F2.2a.2: ['5event', 108, 0]
+F54F2.2b.1: ['exon skipping', 0, 0]
+F54F2.2c.1: ['exon skipping', 0, 0]
+>7
+F54F2.2a.1: ['no event', 255, 1]
+F54F2.2a.2: ['no event', 255, 1]
+F54F2.2b.1: ['exon skipping', 0, 0]
+F54F2.2c.1: ['exon skipping', 0, 0]
+>8
+F54F2.2a.1: ['no event', 90, 2]
+F54F2.2a.2: ['no event', 90, 2]
+F54F2.2b.1: ['exon skipping', 0, 0]
+F54F2.2c.1: ['exon skipping', 0, 0]
+>9
+F54F2.2a.1: ['no event', 110, 0]
+F54F2.2a.2: ['no event', 110, 0]
+F54F2.2b.1: ['exon skipping', 0, 0]
+F54F2.2c.1: ['exon skipping', 0, 0]
+>10
+F54F2.2a.1: ['no event', 600, 0]
+F54F2.2a.2: ['no event', 600, 0]
+F54F2.2b.1: ['exon skipping', 0, 0]
+F54F2.2c.1: ['5event', 467, 0]
+>11
+F54F2.2a.1: ['no event', 543, 0]
+F54F2.2a.2: ['no event', 543, 0]
+F54F2.2b.1: ['exon skipping', 0, 0]
+F54F2.2c.1: ['no event', 543, 0]
+>12
+F54F2.2a.1: ['no event', 588, 1]
+F54F2.2a.2: ['no event', 588, 1]
+F54F2.2b.1: ['exon skipping', 0, 0]
+F54F2.2c.1: ['no event', 588, 1]
+>13
+F54F2.2a.1: ['no event', 132, 2]
+F54F2.2a.2: ['no event', 132, 2]
+F54F2.2b.1: ['exon skipping', 0, 0]
+F54F2.2c.1: ['no event', 132, 2]
+>14
+F54F2.2a.1: ['no event', 173, 0]
+F54F2.2a.2: ['no event', 173, 0]
+F54F2.2b.1: ['exon skipping', 0, 0]
+F54F2.2c.1: ['no event', 173, 0]

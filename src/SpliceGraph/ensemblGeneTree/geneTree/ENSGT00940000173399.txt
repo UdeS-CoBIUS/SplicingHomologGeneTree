@@ -1,0 +1,1 @@
+(((ENSSDAG00000010294__Spermophilus_dauricus,ENSMMMG00000014754__Marmota_marmota_marmota),ENSHGLG00000007286__Heterocephalus_glaber_HetGla_female_1.0),ENSOPRG00000001749__Ochotona_princeps);

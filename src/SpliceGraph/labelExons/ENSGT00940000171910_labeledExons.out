@@ -1,0 +1,21 @@
+>0
+ENSTBET00000014709: ['no event', 94, 0]
+YBL064C_mRNA: ['exon skipping', 0, 0]
+>1
+ENSTBET00000014709: ['no event', 156, 2]
+YBL064C_mRNA: ['exon skipping', 0, 0]
+>2
+ENSTBET00000014709: ['exon skipping', 0, 0]
+YBL064C_mRNA: ['5event', ['internal gap < 30', 345, 9], 785, 0]
+>3
+ENSTBET00000014709: ['5event', 146, 0]
+YBL064C_mRNA: ['exon skipping', 0, 0]
+>4
+ENSTBET00000014709: ['no event', 26, 0]
+YBL064C_mRNA: ['exon skipping', 0, 0]
+>5
+ENSTBET00000014709: ['no event', 56, 0]
+YBL064C_mRNA: ['exon skipping', 0, 0]
+>6
+ENSTBET00000014709: ['no event', 53, 0]
+YBL064C_mRNA: ['exon skipping', 0, 0]

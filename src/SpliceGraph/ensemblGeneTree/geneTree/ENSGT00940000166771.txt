@@ -1,0 +1,1 @@
+((((((MGP_PahariEiJ_G0029529__Mus_pahari_strain_PAHARI_EIJ,ENSRNOG00000022791__Rattus_norvegicus),ENSMOCG00000013226__Microtus_ochrogaster),ENSOPRG00000006124__Ochotona_princeps),(ENSPPYG00000005759__Pongo_abelii,ENSGGOG00000040556__Gorilla_gorilla)),ENSSARG00000008213__Sorex_araneus),ENSETEG00000001237__Echinops_telfairi);

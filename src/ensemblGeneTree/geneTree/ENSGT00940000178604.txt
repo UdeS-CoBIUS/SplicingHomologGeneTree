@@ -1,0 +1,1 @@
+((((ENSXCOG00000003193__Xiphophorus_couchianus,ENSXCOG00000005605__Xiphophorus_couchianus),ENSXMAG00000024280__Xiphophorus_maculatus),ENSFHEG00000010701__Fundulus_heteroclitus),ENSAPOG00000013860__Acanthochromis_polyacanthus);

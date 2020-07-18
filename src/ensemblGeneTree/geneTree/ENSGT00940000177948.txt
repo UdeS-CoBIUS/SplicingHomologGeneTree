@@ -1,0 +1,1 @@
+((((ENSXMAG00000021124__Xiphophorus_maculatus,ENSGAFG00000000775__Gambusia_affinis),((ENSPMEG00000010524__Poecilia_mexicana,ENSPREG00000004764__Poecilia_reticulata),ENSPLAG00000006325__Poecilia_latipinna)),ENSORLG00015022695__Oryzias_latipes_ASM223469v1),ENSNBRG00000012886__Neolamprologus_brichardi);

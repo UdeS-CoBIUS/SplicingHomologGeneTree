@@ -1,0 +1,1 @@
+(((ENSTGEG00000023914__Theropithecus_gelada,ENSTGEG00000000170__Theropithecus_gelada),ENSPTEG00000026859__Piliocolobus_tephrosceles),ENSAMXG00000039542__Astyanax_mexicanus);

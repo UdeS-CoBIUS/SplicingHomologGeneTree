@@ -1,0 +1,1 @@
+((ENSPNAG00000018578__Pygocentrus_nattereri,ENSIPUG00000005475__Ictalurus_punctatus),ENSTRUG00000025259__Takifugu_rubripes);

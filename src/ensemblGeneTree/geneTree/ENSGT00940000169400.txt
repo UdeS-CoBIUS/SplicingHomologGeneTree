@@ -1,0 +1,1 @@
+((ENSPFOG00000023582__Poecilia_formosa,ENSPFOG00000023229__Poecilia_formosa),(ENSPFOG00000023625__Poecilia_formosa,ENSPFOG00000023639__Poecilia_formosa));

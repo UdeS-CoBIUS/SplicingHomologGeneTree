@@ -1,1 +1,0 @@
-(ENSUMAG00000016449__Ursus_maritimus,ENSXCOG00000000595__Xiphophorus_couchianus);

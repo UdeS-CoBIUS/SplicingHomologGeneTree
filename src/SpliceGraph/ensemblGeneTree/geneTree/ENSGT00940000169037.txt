@@ -1,0 +1,1 @@
+((WBGene00015516__Caenorhabditis_elegans_strain_N2,WBGene00189952__Caenorhabditis_elegans_strain_N2),(ENSMOCG00000012798__Microtus_ochrogaster,ENSRNOG00000016974__Rattus_norvegicus));

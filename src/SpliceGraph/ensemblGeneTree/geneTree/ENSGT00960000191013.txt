@@ -1,0 +1,1 @@
+((ENSCCEG00000002640__Cyanistes_caeruleus,ENSNPEG00000011014__Nothoprocta_perdicaria),ENSCABG00000022318__Chelonoidis_abingdonii);

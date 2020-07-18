@@ -1,0 +1,1 @@
+(((ENSGALG00000007530__Gallus_gallus,ENSNMEG00000020770__Numida_meleagris),ENSDNVG00000002154__Dromaius_novaehollandiae),ENSMALG00000006016__Monopterus_albus);

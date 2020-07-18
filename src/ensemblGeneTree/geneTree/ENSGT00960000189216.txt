@@ -1,0 +1,1 @@
+((ENSCMIG00000000192__Callorhinchus_milii,ENSPTEG00000033356__Piliocolobus_tephrosceles),YNL005C__Saccharomyces_cerevisiae_strain_S288C);

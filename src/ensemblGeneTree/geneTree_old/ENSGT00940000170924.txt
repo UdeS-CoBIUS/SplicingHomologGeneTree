@@ -1,1 +1,0 @@
-(((ENSCGRG00000011997__Cricetulus_griseus_CriGri_1.0,ENSPEMG00000008236__Peromyscus_maniculatus_bairdii),ENSFDAG00000020105__Fukomys_damarensis),ENSEASG00005008919__Equus_asinus_asinus);

@@ -1,0 +1,1 @@
+((((ENSEASG00005011028__Equus_asinus_asinus,ENSCHOG00000010280__Choloepus_hoffmanni),ENSPCAG00000016013__Procavia_capensis),ENSMODG00000028096__Monodelphis_domestica),ENSOANG00000009870__Ornithorhynchus_anatinus);

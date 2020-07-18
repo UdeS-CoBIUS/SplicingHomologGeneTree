@@ -1,0 +1,1 @@
+((((ENSFHEG00000015843__Fundulus_heteroclitus,ENSFHEG00000003041__Fundulus_heteroclitus),ENSPREG00000005473__Poecilia_reticulata),(ENSORLG00015004674__Oryzias_latipes_ASM223469v1,ENSORLG00015004572__Oryzias_latipes_ASM223469v1)),FBgn0000045__Drosophila_melanogaster);

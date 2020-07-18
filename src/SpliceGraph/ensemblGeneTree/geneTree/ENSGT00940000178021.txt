@@ -1,0 +1,1 @@
+((ENSXCOG00000007164__Xiphophorus_couchianus,ENSGAFG00000011561__Gambusia_affinis),(((ENSMMOG00000007729__Mola_mola,ENSSMAG00000017119__Scophthalmus_maximus),(ENSTNIG00000003218__Tetraodon_nigroviridis,ENSCSEG00000000429__Cynoglossus_semilaevis)),ENSMALG00000020549__Monopterus_albus));

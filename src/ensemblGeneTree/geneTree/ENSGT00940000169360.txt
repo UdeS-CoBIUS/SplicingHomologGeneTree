@@ -1,0 +1,1 @@
+(((ENSCGRG00015016356__Cricetulus_griseus_CriGri-PICR,ENSDORG00000026787__Dipodomys_ordii),((ENSSDAG00000004668__Spermophilus_dauricus,ENSMMMG00000001382__Marmota_marmota_marmota),ENSUPAG00010005240__Urocitellus_parryii)),(ENSRBIG00000034682__Rhinopithecus_bieti,ENSSBOG00000022537__Saimiri_boliviensis_boliviensis));

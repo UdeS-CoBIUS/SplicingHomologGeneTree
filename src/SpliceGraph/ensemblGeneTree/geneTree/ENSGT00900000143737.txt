@@ -1,0 +1,1 @@
+(((ENSMOCG00000015959__Microtus_ochrogaster,ENSMAUG00000012186__Mesocricetus_auratus),ENSMUGG00000013154__Meriones_unguiculatus),ENSUPAG00010012287__Urocitellus_parryii);

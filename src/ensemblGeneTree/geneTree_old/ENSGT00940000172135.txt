@@ -1,1 +1,0 @@
-(ENSFALG00000002207__Ficedula_albicollis,ENSTNIG00000019686__Tetraodon_nigroviridis);

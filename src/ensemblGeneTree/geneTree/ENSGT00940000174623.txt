@@ -1,0 +1,1 @@
+(ENSOMEG00000017317__Oryzias_melastigma,FBgn0037705__Drosophila_melanogaster);

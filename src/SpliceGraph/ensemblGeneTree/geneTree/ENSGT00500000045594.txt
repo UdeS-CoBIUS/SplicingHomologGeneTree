@@ -1,0 +1,1 @@
+((((ENSVPAG00000005934__Vicugna_pacos,ENSTTRG00000008494__Tursiops_truncatus),ENSPVAG00000011898__Pteropus_vampyrus),ENSOGAG00000030000__Otolemur_garnettii),(ENSCHOG00000010358__Choloepus_hoffmanni,ENSPCAG00000013537__Procavia_capensis));

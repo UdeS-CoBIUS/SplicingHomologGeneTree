@@ -1,0 +1,1 @@
+((((((ENSAPEG00000002793__Amphiprion_percula,ENSAPEG00000017898__Amphiprion_percula),ENSAPEG00000017724__Amphiprion_percula),ENSAPEG00000020217__Amphiprion_percula),ENSAOCG00000001127__Amphiprion_ocellaris),ENSAPEG00000008613__Amphiprion_percula),ENSPMGG00000017817__Periophthalmus_magnuspinnatus);

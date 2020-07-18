@@ -1,0 +1,1 @@
+((((ENSMMOG00000013080__Mola_mola,ENSMMOG00000008744__Mola_mola),ENSMMOG00000003159__Mola_mola),ENSMALG00000002719__Monopterus_albus),(ENSONIG00000020593__Oreochromis_niloticus,ENSAPOG00000015457__Acanthochromis_polyacanthus));

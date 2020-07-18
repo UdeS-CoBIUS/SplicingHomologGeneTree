@@ -1,0 +1,1 @@
+((ENSSDAG00000015014__Spermophilus_dauricus,ENSVVUG00000028357__Vulpes_vulpes),ENSSCAG00000010341__Serinus_canaria);

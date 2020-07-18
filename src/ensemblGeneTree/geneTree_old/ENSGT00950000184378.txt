@@ -1,1 +1,0 @@
-((ENSCLAG00000017654__Chinchilla_lanigera,ENSCLAG00000017613__Chinchilla_lanigera),(ENSCLAG00000017714__Chinchilla_lanigera,ENSCLAG00000017629__Chinchilla_lanigera));

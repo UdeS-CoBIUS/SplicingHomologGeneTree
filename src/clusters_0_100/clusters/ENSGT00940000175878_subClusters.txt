@@ -1,6 +1,6 @@
 >cluster_0
-FBtr0345320
+FBtr0345320	K06C4.17.1
 >cluster_1
 FBtr0100552
 >cluster_2
-K06C4.17.1	FBtr0100551
+FBtr0100551

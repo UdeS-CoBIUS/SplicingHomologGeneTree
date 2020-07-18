@@ -1,1 +1,0 @@
-((ENSOCUG00000023914__Oryctolagus_cuniculus,ENSMLEG00000032173__Mandrillus_leucophaeus),ENSPCIG00000029773__Phascolarctos_cinereus);

@@ -1,0 +1,1 @@
+((ENSAMXG00000031949__Astyanax_mexicanus,ENSAMXG00000043474__Astyanax_mexicanus),ENSSLDG00000006894__Seriola_lalandi_dorsalis);

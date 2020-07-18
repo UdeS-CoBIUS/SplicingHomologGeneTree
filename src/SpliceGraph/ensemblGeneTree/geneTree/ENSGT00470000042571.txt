@@ -1,0 +1,1 @@
+(((ENSPVAG00000012742__Pteropus_vampyrus,ENSPPYG00000011292__Pongo_abelii),(ENSCHOG00000006863__Choloepus_hoffmanni,ENSOPRG00000018320__Ochotona_princeps)),ENSPCAG00000016860__Procavia_capensis);

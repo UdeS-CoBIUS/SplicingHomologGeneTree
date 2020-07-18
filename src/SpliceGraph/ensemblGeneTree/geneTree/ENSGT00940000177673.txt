@@ -1,0 +1,1 @@
+((((((ENSIPUG00000008949__Ictalurus_punctatus,ENSIPUG00000008977__Ictalurus_punctatus),ENSIPUG00000008994__Ictalurus_punctatus),ENSIPUG00000008954__Ictalurus_punctatus),ENSIPUG00000009596__Ictalurus_punctatus),ENSIPUG00000006909__Ictalurus_punctatus),ENSIPUG00000002063__Ictalurus_punctatus);

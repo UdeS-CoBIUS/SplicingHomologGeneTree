@@ -1,0 +1,1 @@
+((((ENSPNAG00000027201__Pygocentrus_nattereri,ENSDARG00000093752__Danio_rerio),ENSSFOG00015003122__Scleropages_formosus),ENSXCOG00000005646__Xiphophorus_couchianus),(ENSLSDG00000001829__Lonchura_striata_domestica,ENSUAMG00000009951__Ursus_americanus));

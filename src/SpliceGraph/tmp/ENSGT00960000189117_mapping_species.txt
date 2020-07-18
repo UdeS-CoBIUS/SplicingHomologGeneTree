@@ -1,0 +1,3 @@
+CHELONOIDISABINGDONII	chelonoidis_abingdonii
+CHELONOIDISABINGDONII	chelonoidis_abingdonii
+CHRYSEMYSPICTABELLII	chrysemys_picta_bellii

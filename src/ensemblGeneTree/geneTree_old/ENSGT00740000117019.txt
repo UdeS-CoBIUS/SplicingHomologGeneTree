@@ -1,1 +1,0 @@
-(ENSACAG00000028393__Anolis_carolinensis,ENSOARG00000002502__Ovis_aries);

@@ -1,0 +1,1 @@
+(((ENSSTOG00000029569__Ictidomys_tridecemlineatus,ENSODEG00000009776__Octodon_degus),ENSMAUG00000014984__Mesocricetus_auratus),ENSHHUG00000003741__Hucho_hucho);

@@ -1,0 +1,1 @@
+((ENSTGEG00000025212__Theropithecus_gelada,ENSCCNG00000008243__Castor_canadensis),((ENSUMAG00000018308__Ursus_maritimus,ENSEASG00005005540__Equus_asinus_asinus),ENSBMUG00000008371__Bos_mutus));

@@ -1,0 +1,6 @@
+>cluster_0
+Y43F4B.7.1	T27A1.5a.2
+>cluster_1
+T27A1.5b.1
+>cluster_2
+T27A1.5a.1

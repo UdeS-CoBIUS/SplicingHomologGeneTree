@@ -1,1 +1,0 @@
-(((ENSXCOG00000013747__Xiphophorus_couchianus,ENSFHEG00000007192__Fundulus_heteroclitus),ENSSPAG00000023472__Stegastes_partitus),((ENSLBEG00000004524__Labrus_bergylta,ENSLBEG00000024064__Labrus_bergylta),ENSSLDG00000008304__Seriola_lalandi_dorsalis));

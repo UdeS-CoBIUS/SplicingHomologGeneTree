@@ -1,0 +1,1 @@
+(((ENSPTIG00000020069__Panthera_tigris_altaica,ENSCAPG00000016094__Cavia_aperea),ENSCHOG00000007758__Choloepus_hoffmanni),ENSOANG00000031634__Ornithorhynchus_anatinus);

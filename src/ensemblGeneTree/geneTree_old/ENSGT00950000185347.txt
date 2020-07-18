@@ -1,1 +1,0 @@
-((((ENSGAGG00000011785__Gopherus_agassizii,ENSCPRG00005016684__Crocodylus_porosus),(ENSNSUG00000005853__Notechis_scutatus,ENSSMRG00000004174__Salvator_merianae)),ENSARWG00000016074__Apteryx_rowi),((ENSPCIG00000001354__Phascolarctos_cinereus,ENSMEUG00000010349__Notamacropus_eugenii),ENSMSIG00000020034__Mus_spicilegus));

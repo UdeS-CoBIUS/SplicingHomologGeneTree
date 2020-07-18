@@ -1,0 +1,1 @@
+((((((ENSMZEG00005021518__Maylandia_zebra,ENSMZEG00005021508__Maylandia_zebra),ENSMZEG00005021516__Maylandia_zebra),(ENSMZEG00005028399__Maylandia_zebra,ENSMZEG00005021923__Maylandia_zebra)),ENSMZEG00005028614__Maylandia_zebra),ENSMZEG00005028615__Maylandia_zebra),ENSMZEG00005028613__Maylandia_zebra);

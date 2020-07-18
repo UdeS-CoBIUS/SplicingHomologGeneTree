@@ -1,0 +1,1 @@
+(((ENSAMXG00000040556__Astyanax_mexicanus,ENSFHEG00000009142__Fundulus_heteroclitus),(ENSAOCG00000017684__Amphiprion_ocellaris,ENSAPEG00000006015__Amphiprion_percula)),ENSCCEG00000007613__Cyanistes_caeruleus);

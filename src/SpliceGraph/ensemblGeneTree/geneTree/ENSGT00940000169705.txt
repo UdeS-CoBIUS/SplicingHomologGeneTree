@@ -1,0 +1,1 @@
+((ENSGMOG00000014817__Gadus_morhua,ENSPKIG00000000630__Paramormyrops_kingsleyae),((ENSTGEG00000025403__Theropithecus_gelada,ENSCCAG00000013286__Cebus_capucinus_imitator),ENSPVAG00000016341__Pteropus_vampyrus));

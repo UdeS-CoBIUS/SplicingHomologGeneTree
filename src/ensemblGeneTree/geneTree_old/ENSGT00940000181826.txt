@@ -1,1 +1,0 @@
-(ENSOMEG00000022550__Oryzias_melastigma,ENSACLG00000003650__Astatotilapia_calliptera);

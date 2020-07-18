@@ -1,0 +1,1 @@
+((((ENSPVIG00000022214__Pogona_vitticeps,ENSACAG00000023892__Anolis_carolinensis),ENSCPBG00000024208__Chrysemys_picta_bellii),ENSLACG00000018344__Latimeria_chalumnae),(ENSLOCG00000000615__Lepisosteus_oculatus,ENSLOCG00000015331__Lepisosteus_oculatus));

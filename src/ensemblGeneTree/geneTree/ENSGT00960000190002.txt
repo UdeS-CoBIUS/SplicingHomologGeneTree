@@ -1,0 +1,1 @@
+(((ENSDNVG00000016320__Dromaius_novaehollandiae,ENSNPEG00000011017__Nothoprocta_perdicaria),ENSCPBG00000018778__Chrysemys_picta_bellii),ENSNSUG00000007133__Notechis_scutatus);

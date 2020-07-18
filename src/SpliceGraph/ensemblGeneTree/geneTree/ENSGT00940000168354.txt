@@ -1,0 +1,1 @@
+((ENSCING00000020033__Ciona_intestinalis,ENSCING00000011539__Ciona_intestinalis),(((ENSONIG00000008999__Oreochromis_niloticus,ENSLBEG00000020613__Labrus_bergylta),ENSDARG00000040039__Danio_rerio),((ENSORLG00020015951__Oryzias_latipes_ASM223471v1,ENSXCOG00000014099__Xiphophorus_couchianus),(ENSIPUG00000018580__Ictalurus_punctatus,ENSDARG00000090156__Danio_rerio))));

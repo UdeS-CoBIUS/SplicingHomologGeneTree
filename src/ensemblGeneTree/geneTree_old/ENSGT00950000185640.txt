@@ -1,1 +1,0 @@
-(ENSOGAG00000032306__Otolemur_garnettii,ENSUAMG00000026432__Ursus_americanus);

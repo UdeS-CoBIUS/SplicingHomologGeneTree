@@ -1,0 +1,1 @@
+(((ENSABRG00000009033__Anser_brachyrhynchus,ENSAPLG00000003484__Anas_platyrhynchos_platyrhynchos),(ENSARWG00000011417__Apteryx_rowi,ENSAOWG00000003989__Apteryx_owenii)),(ENSCABG00000005156__Chelonoidis_abingdonii,ENSGAGG00000010002__Gopherus_agassizii));

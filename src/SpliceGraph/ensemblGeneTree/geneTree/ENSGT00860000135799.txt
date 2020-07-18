@@ -1,0 +1,1 @@
+((((MGP_SPRETEiJ_G0025147__Mus_spretus_strain_SPRET/EiJ,MGP_CAROLIEiJ_G0024227__Mus_caroli_strain_CAROLI_EIJ),ENSMUSG00000053615__Mus_musculus_strain_reference_(CL57BL6)),MGP_PahariEiJ_G0025673__Mus_pahari_strain_PAHARI_EIJ),ENSCCNG00000024454__Castor_canadensis);

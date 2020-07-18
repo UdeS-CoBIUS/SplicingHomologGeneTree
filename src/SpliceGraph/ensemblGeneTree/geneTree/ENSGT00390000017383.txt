@@ -1,0 +1,1 @@
+((((((ENSOPRG00000005274__Ochotona_princeps,ENSOPRG00000008965__Ochotona_princeps),ENSOPRG00000002333__Ochotona_princeps),ENSOPRG00000003733__Ochotona_princeps),ENSOPRG00000012425__Ochotona_princeps),ENSOCUG00000029044__Oryctolagus_cuniculus),ENSETEG00000012134__Echinops_telfairi);

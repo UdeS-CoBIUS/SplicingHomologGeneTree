@@ -1,0 +1,1 @@
+(((ENSELUG00000013940__Esox_lucius,ENSHHUG00000047649__Hucho_hucho),((ENSPNYG00000012534__Pundamilia_nyererei,ENSMZEG00005025373__Maylandia_zebra),ENSMAMG00000008431__Mastacembelus_armatus)),ENSSFOG00015008362__Scleropages_formosus);

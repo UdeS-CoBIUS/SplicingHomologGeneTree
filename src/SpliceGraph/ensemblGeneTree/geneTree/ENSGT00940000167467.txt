@@ -1,0 +1,1 @@
+((((ENSLOCG00000015283__Lepisosteus_oculatus,ENSELUG00000001969__Esox_lucius),ENSLACG00000009871__Latimeria_chalumnae),((ENSCING00000015096__Ciona_intestinalis,ENSCING00000006922__Ciona_intestinalis),ENSCSAVG00000001441__Ciona_savignyi)),WBGene00013455__Caenorhabditis_elegans_strain_N2);

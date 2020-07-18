@@ -1,0 +1,1 @@
+(((ENSAMXG00000034388__Astyanax_mexicanus,ENSPNAG00000010503__Pygocentrus_nattereri),ENSORLG00020002229__Oryzias_latipes_ASM223471v1),(ENSAMXG00000042467__Astyanax_mexicanus,ENSORLG00020004886__Oryzias_latipes_ASM223471v1));

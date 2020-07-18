@@ -1,0 +1,9 @@
+PANTHERAPARDUS	panthera_pardus
+PTEROPUSVAMPYRUS	pteropus_vampyrus
+SUSSCROFA	sus_scrofa
+CAVIAAPEREA	cavia_aperea
+MUSSPRETUSSTRAINSPRETEIJ	mus_spretus_strain_spret/eij
+PROCAVIACAPENSIS	procavia_capensis
+NUMIDAMELEAGRIS	numida_meleagris
+MANACUSVITELLINUS	manacus_vitellinus
+CROCODYLUSPOROSUS	crocodylus_porosus

@@ -1,0 +1,1 @@
+(((ENSNGAG00000001654__Nannospalax_galili,ENSMUGG00000009274__Meriones_unguiculatus),((ENSODEG00000018449__Octodon_degus,ENSODEG00000001368__Octodon_degus),ENSCPOG00000020563__Cavia_porcellus)),ENSEEUG00000012749__Erinaceus_europaeus);

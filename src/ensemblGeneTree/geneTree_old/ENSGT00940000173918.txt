@@ -1,1 +1,0 @@
-(((ENSPEMG00000000556__Peromyscus_maniculatus_bairdii,ENSCGRG00015023694__Cricetulus_griseus_CriGri-PICR),((((ENSUAMG00000004106__Ursus_americanus,ENSUAMG00000014797__Ursus_americanus),ENSUMAG00000013767__Ursus_maritimus),ENSNVIG00000016985__Neovison_vison),ENSPPRG00000005636__Panthera_pardus)),ENSAMXG00000030717__Astyanax_mexicanus);

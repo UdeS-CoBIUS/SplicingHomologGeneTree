@@ -1,0 +1,1 @@
+((((ENSTGEG00000020763__Theropithecus_gelada,ENSCATG00000034918__Cercocebus_atys),ENSPTEG00000021290__Piliocolobus_tephrosceles),(((ENSRNOG00000050564__Rattus_norvegicus,ENSRNOG00000042748__Rattus_norvegicus),ENSRNOG00000052728__Rattus_norvegicus),ENSMSIG00000009764__Mus_spicilegus)),ENSBMUG00000002455__Bos_mutus);

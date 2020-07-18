@@ -1,0 +1,1 @@
+((ENSARWG00000016109__Apteryx_rowi,ENSAPLG00000029958__Anas_platyrhynchos_platyrhynchos),(ENSMODG00000029749__Monodelphis_domestica,ENSSHAG00000012200__Sarcophilus_harrisii));

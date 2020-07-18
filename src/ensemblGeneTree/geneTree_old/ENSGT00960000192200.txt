@@ -1,1 +1,0 @@
-(ENSUPAG00010004192__Urocitellus_parryii,ENSPTEG00000005113__Piliocolobus_tephrosceles);

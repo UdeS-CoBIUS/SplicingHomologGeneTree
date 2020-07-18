@@ -1,0 +1,161 @@
+                       IsoSel: Protein Isoform Selector for Phylogenetic Reconstruction
+                                          version 1.0, Janvier 2017
+                                         
+                                         
+                                         
+#############################
+######## Description ########
+#############################
+
+IsoSel (Isoform Selector) is a software designed for automatically selecting the best alternative 
+isoform  in the context of eukaryotic phylogenetic reconstructions. Based on bootstrapped trees and 
+perturbed alignments, IsoSel assigns alignment scores to input sequences. Optionally, the user can 
+provide a file in which the information on isoform locus tag is given. In this case, IsoSel will 
+also create a file in Fasta format containing the filtered dataset (i.e. in which only the isoform 
+having the best score for a given gene is kept).
+
+IsoSel needs alignment softwares provided with the source code in the MyPathToIsosel/bin/ directory.
+It also uses fastdist that is generated during the compilation step. Fastdist generates the bootstrapped 
+alignments and computes the corresponding distance matrices. It also includes the BioNJ algorithm to 
+infer the bootstrap trees using a substitution model (LG by default).
+
+IsoSel webpage : http://doua.prabi.fr/software/isosel
+
+#######################################
+######## Installation on Linux ########
+#######################################
+
+-------------------------------------------------------------------------------------------------------------------
+**********  List of programs required ********** 
+
+To compile IsoSel you need:
+	- gcc v. 4.9 minimum: apt-get install gcc-4.9
+
+IsoSel needs also :
+	- muscle v. 3.6     : Edgar, R.C. Nucleic Acids Res. 32(5), 1792–1797 (2004)
+	- mafft v 7.245     : Katoh, K., Standley, D.M. Mol. Biol. Evol. 30(4), 772–780 (2013)
+	- clustalo v 1.2.0  : Sievers, F., Wilm, A., Dineen, D., Gibson, T.J., Karplus, K., Li, W., Lopez, R., McWilliam, H., Remmert, M., Soding, J., Thompson, J.D., Higgins, D.G. Mol. Syst. Biol. 7, 539 (2011)
+	- seaview v. 4.4.1  : Gouy, M., Guindon, S., Gascuel, O. Mol. Biol. Evol. 27(2), 221–224 (2010)
+which are provided in the MyPathToIsosel/bin/ directory.
+-------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------
+**********  Compilation ********** 
+
+                                        *** As root in /usr/local/bin ***
+
+Go to the directory where you downloaded the file IsoSel.tar.gz and execute the above command lines:
+
+	tar -xzf IsoSel.tar.gz
+	cd IsoSel
+	cd src
+	make all 
+	sudo make install
+
+                                 *** In a particular path MyPathToIsosel/bin ***
+
+If you want to install the binaries in the package directory, you must fix the "ISOSEL_BIN" variable to "MyPathToIsosel/bin/" in the MyPathToIsosel/bin/run_isosel file.
+Then, execute the above command lines:
+
+	tar -xzf IsoSel.tar.gz
+	cd IsoSel
+	cd src
+	make all 
+	make install DESTDIR=/MyPathToIsosel/bin/
+
+-------------------------------------------------------------------------------------------------------------------
+
+
+-------------------------------------------------------------------------------------------------------------------
+**********  Results ********** 
+
+If it worked properly, you will find all these binary files in either /usr/local/bin/ or in MyPathToIsosel/bin/:
+
+	- isosel
+	- clustalo
+	- fastdist
+	- mafft
+	- muscle
+	- seaview
+-------------------------------------------------------------------------------------------------------------------
+
+
+################################
+######## Example of use ########
+################################
+
+-------------------------------------------------------------------------------------------------------------------
+**********  Usage ********** 
+./run_isosel <infile> [-f <isoforms_locus_tag_file>] [-a alignment_algorithm] [-b <number_of_bootstrap>] [-t <threads_number>] [-m <substitution_model>] [-e <missing_distance_estimation_method>] [-n <output_name>] [-outdir <output_directory>] [-s <seed_number>] [-gap] [-short] [-DS] [-WOT] [-auto] [-quiet]
+-------------------------------------------------------------------------------------------------------------------
+
+
+-------------------------------------------------------------------------------------------------------------------
+**********  Test on example.fasta ********** 
+
+You will find an example file in the MyPathToIsosel/data/ directory. 
+The example.fasta file is a dataset composed of 59 amino acid sequences from different Metazoan organisms.
+Let's run IsoSel (about 40s without multi-threading):
+
+	./run_isosel MyPathToIsosel/data/example.fasta
+
+By default, without the "-outdir" option, the results will be written in the directory of the input file:
+
+	ls -l MyPathToIsosel/data/
+
+Normally, three output files will be created:
+
+	- output.aln          : the alignment generated by Mafft
+	- output.log          : the log file
+	- output.scores       : file with all sequences scores
+-------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------
+**********  Test on example.fasta using a file with isoforms locus information ********** 
+
+You will find an example of isoforms locus file in the MyPathToIsosel/data/ directory named "isoforms_locus_file.txt".
+This file is composed of two columns corresponding to sequence and gene names, respectively.
+Let's run IsoSel (about 20s without multi-threading):
+
+	./run_isosel MyPathToIsosel/data/example.fasta -f MyPathToIsosel/data/isoforms_locus_file.txt -b 5 -n Test
+
+By default, without the "-outdir" option, the results will be written in the directory of the input file:
+
+	ls -l MyPathToIsosel/data/
+
+Four output files will be created:
+
+	- Test.aln                  : the alignement generated by Muscle, Mafft (default), or clustalo
+	- Test_filtered.fasta       : the filtered dataset in fasta format
+	- Test.log                  : the log file
+	- Test.scores               : the score of each sequences listed in the "isoforms_locus_file.txt" file
+	
+-------------------------------------------------------------------------------------------------------------------
+
+
+-------------------------------------------------------------------------------------------------------------------
+**********  Test on example.fasta using a file with isoforms locus information and the -DS option  ********** 
+
+The -DS option is devoted to large datasets. The algorithm behind is completely different and no bootstrap procedure is performed. 
+The sequences scores computed correspond to the average modified p-distance to other sequences (see the IsoSel article).
+Let's go run the IsoSel program:
+
+	./run_isosel MyPathToIsosel/data/example.fasta -f MyPathToIsosel/data/isoforms_locus_file.txt -n Test_DS_option -DS
+
+By default, without the "-outdir" option, the results will be written in the directory of the input file:
+
+	ls -l MyPathToIsosel/data/
+
+Normally, four output files will be created:
+
+	- Test_DS_option.DistancesScores          : the score of each sequences listed in the "isoforms_locus_file.txt" file
+	- Test_DS_option.aln                      : the alignement generated by Muscle, Mafft (default), or clustalO
+	- Test_DS_option_filtered.fasta           : the filtered dataset in fasta format
+	- Test_DS_option.log                      : the log file
+
+-------------------------------------------------------------------------------------------------------------------
+
+--
+If you encounter some problems when using IsoSel, please contact Guy Perrière (guy.perriere@univ-lyon1.fr). 
+Any comments or suggestions are welcome.
+

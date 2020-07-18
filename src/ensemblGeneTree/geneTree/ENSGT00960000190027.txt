@@ -1,0 +1,1 @@
+(((ENSSCAG00000002397__Serinus_canaria,ENSSCAG00000000861__Serinus_canaria),ENSSCAG00000002033__Serinus_canaria),ENSCCEG00000001396__Cyanistes_caeruleus);

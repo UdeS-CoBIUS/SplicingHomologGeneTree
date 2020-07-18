@@ -1,0 +1,2 @@
+YPL105C_mRNA	YPL105C	Saccharomyces_cerevisiae_strain_S288C
+YBR172C_mRNA	YBR172C	Saccharomyces_cerevisiae_strain_S288C

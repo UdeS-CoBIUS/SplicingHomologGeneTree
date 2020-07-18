@@ -1,0 +1,1 @@
+((((ENSAMXG00000033750__Astyanax_mexicanus,ENSAMXG00000036487__Astyanax_mexicanus),ENSTRUG00000023060__Takifugu_rubripes),((ENSMALG00000004704__Monopterus_albus,ENSAPEG00000017712__Amphiprion_percula),((ENSPNAG00000006371__Pygocentrus_nattereri,ENSPNAG00000025097__Pygocentrus_nattereri),ENSPNAG00000010783__Pygocentrus_nattereri))),ENSJHYG00000005274__Junco_hyemalis);

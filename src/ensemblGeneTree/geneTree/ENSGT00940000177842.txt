@@ -1,0 +1,1 @@
+((((ENSXMAG00000025986__Xiphophorus_maculatus,ENSXCOG00000008949__Xiphophorus_couchianus),ENSPLAG00000004738__Poecilia_latipinna),ENSFHEG00000019378__Fundulus_heteroclitus),((ENSAOCG00000019829__Amphiprion_ocellaris,ENSAOCG00000022064__Amphiprion_ocellaris),(ENSSPAG00000006850__Stegastes_partitus,ENSSPAG00000006729__Stegastes_partitus)));

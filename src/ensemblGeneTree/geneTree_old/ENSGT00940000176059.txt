@@ -1,1 +1,0 @@
-((WBGene00004920__Caenorhabditis_elegans_strain_N2,ENSSLDG00000004364__Seriola_lalandi_dorsalis),YFL017W-A__Saccharomyces_cerevisiae_strain_S288C);

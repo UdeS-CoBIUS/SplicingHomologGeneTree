@@ -1,0 +1,1 @@
+(((ENSPREG00000006096__Poecilia_reticulata,ENSGAFG00000010905__Gambusia_affinis),ENSNBRG00000018406__Neolamprologus_brichardi),ENSMSIG00000031279__Mus_spicilegus);

@@ -1,0 +1,1 @@
+(((ENSCJAG00000047199__Callithrix_jacchus,ENSSBOG00000035155__Saimiri_boliviensis_boliviensis),(ENSPTRG00000049809__Pan_troglodytes,ENSG00000283227__Homo_sapiens)),ENSBMUG00000024952__Bos_mutus);

@@ -1,0 +1,1 @@
+(((ENSPCOG00000018706__Propithecus_coquereli,ENSMICG00000045621__Microcebus_murinus),(((ENSMNEG00000031656__Macaca_nemestrina,ENSTGEG00000016047__Theropithecus_gelada),ENSPTEG00000039739__Piliocolobus_tephrosceles),(ENSNLEG00000028597__Nomascus_leucogenys,ENSG00000284631__Homo_sapiens))),ENSPPRG00000014951__Panthera_pardus);

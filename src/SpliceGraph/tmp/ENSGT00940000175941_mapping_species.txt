@@ -1,0 +1,3 @@
+NEOLAMPROLOGUSBRICHARDI	neolamprologus_brichardi
+ORYZIASLATIPES	oryzias_latipes
+GADUSMORHUA	gadus_morhua

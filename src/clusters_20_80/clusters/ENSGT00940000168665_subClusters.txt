@@ -1,0 +1,4 @@
+>cluster_0
+FBtr0070721	FBtr0347502	FBtr0333690
+>cluster_1
+FBtr0075221	FBtr0085766

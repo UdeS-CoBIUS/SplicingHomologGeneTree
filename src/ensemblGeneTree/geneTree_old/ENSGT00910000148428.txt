@@ -1,1 +1,0 @@
-((ENSPTRG00000051897__Pan_troglodytes,ENSCCAG00000025682__Cebus_capucinus_imitator),ENSUPAG00010021397__Urocitellus_parryii);

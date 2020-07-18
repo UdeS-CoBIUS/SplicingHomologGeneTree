@@ -1,1 +1,0 @@
-(ENSNMEG00000017601__Numida_meleagris,ENSCJPG00005000206__Coturnix_japonica);

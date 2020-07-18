@@ -1,0 +1,1 @@
+(((ENSCANG00000004339__Colobus_angolensis_palliatus,ENSRBIG00000027748__Rhinopithecus_bieti),ENSPANG00000032051__Papio_anubis),ENSNLEG00000031607__Nomascus_leucogenys);

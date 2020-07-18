@@ -1,1 +1,0 @@
-((ENSRROG00000041452__Rhinopithecus_roxellana,ENSPEMG00000028108__Peromyscus_maniculatus_bairdii),ENSBMUG00000011308__Bos_mutus);

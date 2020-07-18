@@ -1,0 +1,1 @@
+((ENSPANG00000032287__Papio_anubis,ENSCATG00000041218__Cercocebus_atys),(ENSPTRG00000052440__Pan_troglodytes,ENSPPAG00000038030__Pan_paniscus));

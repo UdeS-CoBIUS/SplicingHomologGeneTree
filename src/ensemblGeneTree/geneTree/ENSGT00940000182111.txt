@@ -1,0 +1,1 @@
+(((((ENSCAFG00020005287__Canis_lupus_dingo,ENSVVUG00000019139__Vulpes_vulpes),ENSUAMG00000018919__Ursus_americanus),ENSPSMG00000013488__Prolemur_simus),ENSCPRG00005002476__Crocodylus_porosus),(ENSAOCG00000002566__Amphiprion_ocellaris,ENSIPUG00000001846__Ictalurus_punctatus));

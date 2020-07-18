@@ -1,0 +1,1 @@
+(((((ENSBTAG00000048503__Bos_taurus,ENSBMUG00000025097__Bos_mutus),ENSBBBG00000022467__Bison_bison_bison),ENSSSCG00000039409__Sus_scrofa),ENSMEUG00000009688__Notamacropus_eugenii),ENSOANG00000014887__Ornithorhynchus_anatinus);

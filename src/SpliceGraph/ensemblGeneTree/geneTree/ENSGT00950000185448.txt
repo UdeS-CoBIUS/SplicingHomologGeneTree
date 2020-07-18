@@ -1,0 +1,1 @@
+((ENSUMAG00000018120__Ursus_maritimus,ENSUAMG00000011153__Ursus_americanus),ENSPCOG00000020729__Propithecus_coquereli);

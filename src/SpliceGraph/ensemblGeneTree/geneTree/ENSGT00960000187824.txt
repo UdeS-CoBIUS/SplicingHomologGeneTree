@@ -1,0 +1,1 @@
+((ENSMSIG00000001020__Mus_spicilegus,ENSCATG00000042341__Cercocebus_atys),(ENSECAG00000038742__Equus_caballus,ENSEASG00005019016__Equus_asinus_asinus));

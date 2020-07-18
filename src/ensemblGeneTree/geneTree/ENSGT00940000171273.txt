@@ -1,0 +1,1 @@
+((ENSPVAG00000004652__Pteropus_vampyrus,ENSEEUG00000011974__Erinaceus_europaeus),ENSMEUG00000008262__Notamacropus_eugenii);

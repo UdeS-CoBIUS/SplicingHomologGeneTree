@@ -1,0 +1,1 @@
+((((ENSMAMG00000007111__Mastacembelus_armatus,ENSATEG00000017436__Anabas_testudineus),ENSACIG00000006768__Amphilophus_citrinellus),(ENSSLDG00000011347__Seriola_lalandi_dorsalis,ENSSMAG00000006166__Scophthalmus_maximus)),ENSMMOG00000007473__Mola_mola);

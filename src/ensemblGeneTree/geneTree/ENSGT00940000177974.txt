@@ -1,0 +1,1 @@
+((((ENSNBRG00000000472__Neolamprologus_brichardi,ENSHBUG00000007320__Haplochromis_burtoni),ENSFHEG00000017326__Fundulus_heteroclitus),ENSAPEG00000011627__Amphiprion_percula),((ENSMMOG00000009291__Mola_mola,ENSTRUG00000022751__Takifugu_rubripes),ENSMALG00000014750__Monopterus_albus));

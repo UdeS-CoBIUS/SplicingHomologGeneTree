@@ -1,0 +1,1 @@
+(((ENSSLDG00000009245__Seriola_lalandi_dorsalis,ENSSDUG00000011736__Seriola_dumerili),ENSSPAG00000001415__Stegastes_partitus),((ENSLBEG00000008488__Labrus_bergylta,ENSLBEG00000017807__Labrus_bergylta),ENSLBEG00000016922__Labrus_bergylta));

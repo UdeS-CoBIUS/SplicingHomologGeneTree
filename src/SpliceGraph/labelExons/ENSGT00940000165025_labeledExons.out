@@ -1,0 +1,20 @@
+>0
+ENST00000580435: ['no event', 35, 0]
+ENST00000306704: ['no event', 35, 0]
+ENST00000392359: ['no event', 35, 0]
+>1
+ENST00000580435: ['no event', 51, 0]
+ENST00000306704: ['no event', 51, 0]
+ENST00000392359: ['no event', 51, 0]
+>2
+ENST00000580435: ['exon skipping', 0, 0]
+ENST00000306704: ['exon skipping', 0, 0]
+ENST00000392359: ['no event', 53, 1]
+>3
+ENST00000580435: ['3event', '5event', 74, 1]
+ENST00000306704: ['5event', 88, 1]
+ENST00000392359: ['no event', 91, 1]
+>4
+ENST00000580435: ['5event', 14, 0]
+ENST00000306704: ['no event', 15, 0]
+ENST00000392359: ['no event', 15, 0]

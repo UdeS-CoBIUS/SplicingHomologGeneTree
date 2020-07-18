@@ -1,0 +1,1 @@
+((((ENSPMJG00000003752__Parus_major,ENSMVIG00005000278__Manacus_vitellinus),ENSJHYG00000009933__Junco_hyemalis),(ENSZALG00000009392__Zonotrichia_albicollis,ENSMVIG00005012252__Manacus_vitellinus)),ENSSCAG00000000015__Serinus_canaria);

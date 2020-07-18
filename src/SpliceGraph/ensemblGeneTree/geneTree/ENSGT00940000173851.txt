@@ -1,0 +1,1 @@
+(ENSMEUG00000013052__Notamacropus_eugenii,ENSVPAG00000004368__Vicugna_pacos);

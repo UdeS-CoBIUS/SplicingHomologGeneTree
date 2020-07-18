@@ -1,0 +1,1 @@
+((((ENSPSIG00000006841__Pelodiscus_sinensis,ENSFALG00000001305__Ficedula_albicollis),ENSSHAG00000004349__Sarcophilus_harrisii),ENSLACG00000015222__Latimeria_chalumnae),((ENSPFOG00000006682__Poecilia_formosa,ENSDARG00000097523__Danio_rerio),ENSLOCG00000011106__Lepisosteus_oculatus));

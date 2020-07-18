@@ -1,0 +1,1 @@
+((ENSSMAG00000018054__Scophthalmus_maximus,ENSCSEG00000000268__Cynoglossus_semilaevis),ENSAMXG00000034927__Astyanax_mexicanus);

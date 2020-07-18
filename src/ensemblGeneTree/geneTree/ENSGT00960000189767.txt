@@ -1,0 +1,1 @@
+(((ENSSDAG00000008678__Spermophilus_dauricus,ENSPEMG00000030620__Peromyscus_maniculatus_bairdii),(ENSTGEG00000029163__Theropithecus_gelada,ENSCJAG00000045816__Callithrix_jacchus)),ENSPMJG00000019722__Parus_major);

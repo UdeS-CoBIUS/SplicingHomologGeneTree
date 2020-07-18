@@ -1,0 +1,65 @@
+>0
+R03G8.3.1: [['internal gap < 30', 129, 13], 254, 0]
+Y73F8A.35a.1: [['internal gap < 30', 175, 25], 242, 0]
+Y73F8A.35b.1: ['exon skipping', 0, 0]
+R03G8.1.1: ['5event', ['internal gap >= 30', 133, 61], 206, 0]
+>1
+R03G8.3.1: ['no event', 122, 0]
+Y73F8A.35a.1: [['internal gap < 30', 47, 3], 119, 0]
+Y73F8A.35b.1: ['5event', ['internal gap < 30', 37, 13], 109, 0]
+R03G8.1.1: [['internal gap < 30', 100, 3], 119, 0]
+>2
+R03G8.3.1: [['internal gap < 30', 97, 9], 146, 2]
+Y73F8A.35a.1: [['internal gap < 30', 97, 9], 146, 2]
+Y73F8A.35b.1: [['internal gap < 30', 97, 9], 146, 2]
+R03G8.1.1: ['no event', 155, 2]
+>3
+R03G8.3.1: ['no event', 95, 2]
+Y73F8A.35a.1: ['no event', 95, 2]
+Y73F8A.35b.1: ['no event', 95, 2]
+R03G8.1.1: [['internal gap < 30', 30, 3], 92, 2]
+>4
+R03G8.3.1: ['no event', 112, 2]
+Y73F8A.35a.1: ['no event', 112, 2]
+Y73F8A.35b.1: ['no event', 112, 2]
+R03G8.1.1: ['no event', 112, 2]
+>5
+R03G8.3.1: ['no event', 139, 1]
+Y73F8A.35a.1: ['no event', 139, 1]
+Y73F8A.35b.1: ['no event', 139, 1]
+R03G8.1.1: ['no event', 139, 1]
+>6
+R03G8.3.1: ['no event', 88, 0]
+Y73F8A.35a.1: ['no event', 88, 0]
+Y73F8A.35b.1: ['no event', 88, 0]
+R03G8.1.1: ['no event', 88, 0]
+>7
+R03G8.3.1: [['internal gap >= 30', 214, 63], 249, 2]
+Y73F8A.35a.1: [['internal gap >= 30', 214, 63], 249, 2]
+Y73F8A.35b.1: [['internal gap >= 30', 214, 63], 249, 2]
+R03G8.1.1: [['internal gap < 30', 63, 9], 303, 2]
+>8
+R03G8.3.1: ['no event', 221, 0]
+Y73F8A.35a.1: ['no event', 221, 0]
+Y73F8A.35b.1: ['no event', 221, 0]
+R03G8.1.1: ['no event', 221, 0]
+>9
+R03G8.3.1: ['no event', 163, 0]
+Y73F8A.35a.1: ['no event', 163, 0]
+Y73F8A.35b.1: ['no event', 163, 0]
+R03G8.1.1: ['no event', 163, 0]
+>10
+R03G8.3.1: ['no event', 108, 2]
+Y73F8A.35a.1: ['no event', 108, 2]
+Y73F8A.35b.1: ['no event', 108, 2]
+R03G8.1.1: ['no event', 108, 2]
+>11
+R03G8.3.1: ['5event', 95, 0]
+Y73F8A.35a.1: [['internal gap < 30', 10, 2], 95, 0]
+Y73F8A.35b.1: [['internal gap < 30', 10, 2], 95, 0]
+R03G8.1.1: ['5event', 95, 0]
+>12
+R03G8.3.1: [['internal gap >= 30', 148, 30], 166, 0]
+Y73F8A.35a.1: [['internal gap < 30', 149, 20], 176, 0]
+Y73F8A.35b.1: [['internal gap < 30', 149, 20], 176, 0]
+R03G8.1.1: ['3event', 191, 0]

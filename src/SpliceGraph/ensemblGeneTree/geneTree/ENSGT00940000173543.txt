@@ -1,0 +1,1 @@
+((ENSTBEG00000006574__Tupaia_belangeri,ENSUAMG00000020710__Ursus_americanus),ENSPCAG00000013118__Procavia_capensis);

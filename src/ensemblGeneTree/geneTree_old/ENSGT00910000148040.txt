@@ -1,1 +1,0 @@
-(((ENSPTRG00000048257__Pan_troglodytes,ENSPPAG00000004248__Pan_paniscus),ENSGGOG00000040675__Gorilla_gorilla),ENSNLEG00000028766__Nomascus_leucogenys);

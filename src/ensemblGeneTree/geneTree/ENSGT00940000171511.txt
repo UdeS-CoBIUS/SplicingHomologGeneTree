@@ -1,0 +1,1 @@
+(((ENSSPUG00000006126__Sphenodon_punctatus,ENSPVIG00000009597__Pogona_vitticeps),((((ENSGALG00000054780__Gallus_gallus,ENSNMEG00000016607__Numida_meleagris),ENSABRG00000005969__Anser_brachyrhynchus),ENSJHYG00000010968__Junco_hyemalis),(ENSAHAG00000002069__Apteryx_haastii,ENSNPEG00000000706__Nothoprocta_perdicaria))),ENSOANG00000009484__Ornithorhynchus_anatinus);

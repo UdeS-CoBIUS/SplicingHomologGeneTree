@@ -1,0 +1,1 @@
+(((ENSMUNG00000002392__Melopsittacus_undulatus,ENSNPEG00000007426__Nothoprocta_perdicaria),ENSSPUG00000013865__Sphenodon_punctatus),((ENSMAMG00000000112__Mastacembelus_armatus,ENSSPAG00000022573__Stegastes_partitus),ENSGACG00000004943__Gasterosteus_aculeatus));

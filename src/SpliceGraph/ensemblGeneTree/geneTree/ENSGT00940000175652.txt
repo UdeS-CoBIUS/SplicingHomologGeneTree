@@ -1,0 +1,1 @@
+((((ENSORLG00000001832__Oryzias_latipes_ASM223467v1,ENSORLG00020013153__Oryzias_latipes_ASM223471v1),ENSXCOG00000018077__Xiphophorus_couchianus),ENSTRUG00000025686__Takifugu_rubripes),ENSLOCG00000000822__Lepisosteus_oculatus);

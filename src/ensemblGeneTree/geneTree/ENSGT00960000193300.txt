@@ -1,0 +1,1 @@
+(((ENSMSIG00000019449__Mus_spicilegus,ENSMUSG00000113267__Mus_musculus_strain_reference_(CL57BL6)),ENSPEMG00000027248__Peromyscus_maniculatus_bairdii),(ENSMMMG00000000653__Marmota_marmota_marmota,ENSUPAG00010004230__Urocitellus_parryii));

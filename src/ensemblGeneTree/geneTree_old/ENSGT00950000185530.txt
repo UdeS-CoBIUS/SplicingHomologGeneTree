@@ -1,1 +1,0 @@
-((((ENSPVIG00000005760__Pogona_vitticeps,ENSNSUG00000000984__Notechis_scutatus),ENSSMRG00000013173__Salvator_merianae),ENSSPUG00000018146__Sphenodon_punctatus),(((ENSSCAG00000015946__Serinus_canaria,ENSLSDG00000001735__Lonchura_striata_domestica),(ENSPMJG00000012321__Parus_major,ENSLCOG00000009101__Lepidothrix_coronata)),ENSGAGG00000002061__Gopherus_agassizii));

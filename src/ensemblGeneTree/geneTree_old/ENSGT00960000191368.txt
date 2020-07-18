@@ -1,1 +1,0 @@
-(ENSAPLG00000030898__Anas_platyrhynchos_platyrhynchos,ENSZALG00000001232__Zonotrichia_albicollis);

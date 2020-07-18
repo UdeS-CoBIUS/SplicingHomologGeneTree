@@ -1,0 +1,1 @@
+((ENSCANG00000032539__Colobus_angolensis_palliatus,ENSCANG00000042528__Colobus_angolensis_palliatus),ENSRROG00000043855__Rhinopithecus_roxellana);

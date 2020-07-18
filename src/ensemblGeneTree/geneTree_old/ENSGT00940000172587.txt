@@ -1,1 +1,0 @@
-(ENSXETG00000033864__Xenopus_tropicalis,ENSOANG00000021873__Ornithorhynchus_anatinus);

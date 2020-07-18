@@ -1,0 +1,1 @@
+(ENSEEUG00000006694__Erinaceus_europaeus,ENSETEG00000020325__Echinops_telfairi);

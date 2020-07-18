@@ -1,0 +1,1 @@
+(((ENSPANG00000031180__Papio_anubis,ENSMFAG00000044619__Macaca_fascicularis),ENSPTEG00000021818__Piliocolobus_tephrosceles),ENSPSMG00000009723__Prolemur_simus);

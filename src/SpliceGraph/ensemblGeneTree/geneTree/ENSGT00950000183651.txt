@@ -1,0 +1,1 @@
+((((ENSMZEG00005015798__Maylandia_zebra,ENSPNYG00000013572__Pundamilia_nyererei),ENSOMEG00000021018__Oryzias_melastigma),ENSSMAG00000014030__Scophthalmus_maximus),(ENSGMOG00000008730__Gadus_morhua,ENSGMOG00000012764__Gadus_morhua));

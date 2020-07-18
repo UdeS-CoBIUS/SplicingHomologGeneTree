@@ -1,0 +1,1 @@
+((((ENSGAFG00000019215__Gambusia_affinis,ENSXCOG00000004321__Xiphophorus_couchianus),ENSMMOG00000013825__Mola_mola),ENSGACG00000006951__Gasterosteus_aculeatus),ENSGMOG00000014385__Gadus_morhua);

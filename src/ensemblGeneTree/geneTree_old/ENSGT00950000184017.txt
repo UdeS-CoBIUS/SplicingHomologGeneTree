@@ -1,1 +1,0 @@
-((ENSAMXG00000035117__Astyanax_mexicanus,ENSSFOG00015015099__Scleropages_formosus),ENSOARG00000008005__Ovis_aries);

@@ -1,0 +1,1 @@
+(ENSBMUG00000011861__Bos_mutus,ENSTNIG00000005719__Tetraodon_nigroviridis);

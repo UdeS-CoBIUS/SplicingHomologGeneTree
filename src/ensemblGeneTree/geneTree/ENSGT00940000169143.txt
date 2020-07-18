@@ -1,0 +1,1 @@
+(((ENSCGRG00000013319__Cricetulus_griseus_CriGri_1.0,MGP_PahariEiJ_G0013690__Mus_pahari_strain_PAHARI_EIJ),ENSPPRG00000019802__Panthera_pardus),ENSSHAG00000009580__Sarcophilus_harrisii);

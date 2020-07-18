@@ -1,0 +1,1 @@
+((((((ENSAPEG00000011527__Amphiprion_percula,ENSAOCG00000015601__Amphiprion_ocellaris),ENSAPOG00000019000__Acanthochromis_polyacanthus),((ENSMZEG00005003711__Maylandia_zebra,ENSPNYG00000011764__Pundamilia_nyererei),ENSACLG00000015632__Astatotilapia_calliptera)),ENSXCOG00000020067__Xiphophorus_couchianus),ENSMMOG00000019000__Mola_mola),ENSELUG00000004015__Esox_lucius);

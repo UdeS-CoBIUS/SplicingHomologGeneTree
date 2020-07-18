@@ -1,0 +1,1 @@
+(((((ENSCCAG00000022894__Cebus_capucinus_imitator,ENSCANG00000032819__Colobus_angolensis_palliatus),ENSTSYG00000036141__Carlito_syrichta),ENSDORG00000029391__Dipodomys_ordii),ENSUMAG00000010923__Ursus_maritimus),ENSFALG00000004007__Ficedula_albicollis);

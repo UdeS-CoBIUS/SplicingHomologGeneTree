@@ -1,0 +1,1 @@
+((((((ENSMVIG00005017737__Manacus_vitellinus,ENSZALG00000016174__Zonotrichia_albicollis),(ENSCPUG00000017844__Calidris_pugnax,ENSMGAG00000001876__Meleagris_gallopavo)),ENSNSUG00000002510__Notechis_scutatus),ENSUMAG00000007938__Ursus_maritimus),ENSSLDG00000010057__Seriola_lalandi_dorsalis),FBgn0033578__Drosophila_melanogaster);

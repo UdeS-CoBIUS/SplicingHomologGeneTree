@@ -1,0 +1,18 @@
+>0
+ENSNSUT00000018546: ['no event', 90, 0]
+ENSCABT00000024724: ['no event', 90, 0]
+>1
+ENSNSUT00000018546: ['no event', 141, 1]
+ENSCABT00000024724: ['no event', 141, 1]
+>2
+ENSNSUT00000018546: ['no event', 23, 2]
+ENSCABT00000024724: ['exon skipping', 0, 0]
+>3
+ENSNSUT00000018546: ['exon skipping', 0, 0]
+ENSCABT00000024724: ['5event', 240, 2]
+>4
+ENSNSUT00000018546: ['5event', 65, 2]
+ENSCABT00000024724: ['exon skipping', 0, 0]
+>5
+ENSNSUT00000018546: ['no event', 57, 2]
+ENSCABT00000024724: ['exon skipping', 0, 0]

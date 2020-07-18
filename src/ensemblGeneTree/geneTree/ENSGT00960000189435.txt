@@ -1,0 +1,1 @@
+((((ENSCPUG00000016545__Calidris_pugnax,ENSCPUG00000001235__Calidris_pugnax),ENSCPGG00000015190__Calidris_pygmaea),(((ENSLSDG00000012875__Lonchura_striata_domestica,ENSSCAG00000000730__Serinus_canaria),ENSPMJG00000006493__Parus_major),ENSLCOG00000008121__Lepidothrix_coronata)),(ENSAHAG00000002303__Apteryx_haastii,ENSNPEG00000002877__Nothoprocta_perdicaria));

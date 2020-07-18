@@ -1,0 +1,1 @@
+((((ENSAPOG00000015548__Acanthochromis_polyacanthus,ENSSPAG00000020837__Stegastes_partitus),ENSFHEG00000014332__Fundulus_heteroclitus),ENSPNYG00000018364__Pundamilia_nyererei),ENSMALG00000001575__Monopterus_albus);

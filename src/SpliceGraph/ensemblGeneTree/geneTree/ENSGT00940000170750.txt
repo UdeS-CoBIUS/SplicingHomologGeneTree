@@ -1,0 +1,1 @@
+((((ENSHBUG00000015987__Haplochromis_burtoni,ENSHBUG00000017219__Haplochromis_burtoni),ENSAMXG00000041392__Astyanax_mexicanus),(ENSXETG00000017615__Xenopus_tropicalis,ENSPVIG00000019177__Pogona_vitticeps)),(ENSCSAVG00000011774__Ciona_savignyi,ENSCING00000000188__Ciona_intestinalis));

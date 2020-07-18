@@ -1,0 +1,1 @@
+(((((ENSCCNG00000021380__Castor_canadensis,ENSCCNG00000012191__Castor_canadensis),ENSVPAG00000003581__Vicugna_pacos),ENSCJPG00005008303__Coturnix_japonica),ENSLACG00000022121__Latimeria_chalumnae),ENSEBUG00000015056__Eptatretus_burgeri);

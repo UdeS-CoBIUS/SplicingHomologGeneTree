@@ -1,0 +1,1 @@
+((ENSDNOG00000042116__Dasypus_novemcinctus,ENSDNOG00000040793__Dasypus_novemcinctus),ENSPMGG00000003507__Periophthalmus_magnuspinnatus);

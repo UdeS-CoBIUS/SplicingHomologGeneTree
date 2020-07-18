@@ -1,0 +1,15 @@
+>0
+ENSATET00000003737: ['3event', 112, 0]
+ENSATET00000003755: ['5event', ['internal gap >= 30', 66, 33], 137, 0]
+>1
+ENSATET00000003737: ['5event', 108, 1]
+ENSATET00000003755: ['exon skipping', 0, 0]
+>2
+ENSATET00000003737: ['no event', 93, 2]
+ENSATET00000003755: ['exon skipping', 0, 0]
+>3
+ENSATET00000003737: ['exon skipping', 0, 0]
+ENSATET00000003755: ['5event', 160, 0]
+>4
+ENSATET00000003737: ['exon skipping', 0, 0]
+ENSATET00000003755: ['no event', 93, 2]

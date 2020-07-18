@@ -1,1 +1,0 @@
-((ENSJJAG00000022027__Jaculus_jaculus,ENSCABG00000004426__Chelonoidis_abingdonii),(ENSOMEG00000022955__Oryzias_melastigma,ENSAMXG00000032860__Astyanax_mexicanus));

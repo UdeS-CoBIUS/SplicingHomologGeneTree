@@ -1,0 +1,1 @@
+((((ENSTGUG00000015443__Taeniopygia_guttata,ENSTGUG00000015564__Taeniopygia_guttata),ENSTGUG00000015460__Taeniopygia_guttata),((ENSTGUG00000014179__Taeniopygia_guttata,ENSTGUG00000014981__Taeniopygia_guttata),ENSTGUG00000016646__Taeniopygia_guttata)),ENSTGUG00000014985__Taeniopygia_guttata);

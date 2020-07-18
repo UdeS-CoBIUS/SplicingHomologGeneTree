@@ -1,0 +1,1 @@
+(((ENSHHUG00000017698__Hucho_hucho,ENSAPEG00000010748__Amphiprion_percula),(((ENSTSYG00000033483__Carlito_syrichta,ENSPTEG00000021480__Piliocolobus_tephrosceles),ENSUAMG00000008306__Ursus_americanus),ENSCPRG00005003935__Crocodylus_porosus)),ENSEBUG00000000301__Eptatretus_burgeri);

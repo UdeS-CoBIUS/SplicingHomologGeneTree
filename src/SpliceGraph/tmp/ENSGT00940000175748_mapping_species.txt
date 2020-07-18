@@ -1,0 +1,3 @@
+SOREXARANEUS	sorex_araneus
+UROCITELLUSPARRYII	urocitellus_parryii
+SCLEROPAGESFORMOSUS	scleropages_formosus

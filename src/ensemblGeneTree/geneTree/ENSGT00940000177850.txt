@@ -1,0 +1,1 @@
+(((ENSSPAG00000017338__Stegastes_partitus,ENSSPAG00000002617__Stegastes_partitus),ENSMALG00000001435__Monopterus_albus),((((ENSSFOG00015019193__Scleropages_formosus,ENSSFOG00015004984__Scleropages_formosus),ENSSFOG00015005199__Scleropages_formosus),ENSSFOG00015003043__Scleropages_formosus),ENSSFOG00015021069__Scleropages_formosus));

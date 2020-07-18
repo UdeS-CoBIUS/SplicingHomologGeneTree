@@ -1,0 +1,1 @@
+((ENSFDAG00000000494__Fukomys_damarensis,ENSCING00000004903__Ciona_intestinalis),YOR057W__Saccharomyces_cerevisiae_strain_S288C);

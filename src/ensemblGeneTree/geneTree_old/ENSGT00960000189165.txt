@@ -1,1 +1,0 @@
-((ENSLSDG00000001853__Lonchura_striata_domestica,ENSCPBG00000021594__Chrysemys_picta_bellii),ENSCGRG00015028410__Cricetulus_griseus_CriGri-PICR);

@@ -1,0 +1,1 @@
+(ENSLOCG00000009999__Lepisosteus_oculatus,ENSNVIG00000014808__Neovison_vison);

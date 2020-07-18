@@ -1,0 +1,1 @@
+((((ENSMMMG00000016065__Marmota_marmota_marmota,ENSSDAG00000011749__Spermophilus_dauricus),ENSSTOG00000031329__Ictidomys_tridecemlineatus),(ENSPPAG00000032660__Pan_paniscus,ENSPTRG00000044211__Pan_troglodytes)),ENSCAFG00020011745__Canis_lupus_dingo);

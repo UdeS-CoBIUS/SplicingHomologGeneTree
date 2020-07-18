@@ -1,0 +1,1 @@
+(((ENSPSMG00000002889__Prolemur_simus,ENSPSMG00000002933__Prolemur_simus),ENSPSMG00000002768__Prolemur_simus),(((ENSGGOG00000041257__Gorilla_gorilla,ENSGGOG00000037453__Gorilla_gorilla),ENSPTRG00000052289__Pan_troglodytes),(ENSGGOG00000038957__Gorilla_gorilla,ENSPTRG00000044715__Pan_troglodytes)));

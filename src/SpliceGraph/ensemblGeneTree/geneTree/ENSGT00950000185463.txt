@@ -1,0 +1,1 @@
+((ENSMLEG00000036262__Mandrillus_leucophaeus,ENSPTEG00000000015__Piliocolobus_tephrosceles),(ENSUAMG00000012578__Ursus_americanus,ENSUMAG00000007309__Ursus_maritimus));

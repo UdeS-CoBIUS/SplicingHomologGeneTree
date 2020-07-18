@@ -1,0 +1,1 @@
+(((((ENSHCOG00000014782__Hippocampus_comes,ENSHCOG00000018137__Hippocampus_comes),(ENSHCOG00000019243__Hippocampus_comes,ENSHCOG00000003582__Hippocampus_comes)),ENSHCOG00000009494__Hippocampus_comes),ENSHCOG00000016242__Hippocampus_comes),ENSATEG00000020467__Anabas_testudineus);

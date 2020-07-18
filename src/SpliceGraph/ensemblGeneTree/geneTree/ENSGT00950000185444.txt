@@ -1,0 +1,1 @@
+((ENSVVUG00000004030__Vulpes_vulpes,ENSCAFG00020011638__Canis_lupus_dingo),ENSBTAG00000014511__Bos_taurus);

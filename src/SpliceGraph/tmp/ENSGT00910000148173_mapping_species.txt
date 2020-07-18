@@ -1,0 +1,3 @@
+PILIOCOLOBUSTEPHROSCELES	piliocolobus_tephrosceles
+MANDRILLUSLEUCOPHAEUS	mandrillus_leucophaeus
+AOTUSNANCYMAAE	aotus_nancymaae

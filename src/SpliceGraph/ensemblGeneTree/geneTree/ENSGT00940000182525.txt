@@ -1,0 +1,1 @@
+((ENSSLDG00000012054__Seriola_lalandi_dorsalis,ENSSLDG00000010829__Seriola_lalandi_dorsalis),ENSCABG00000011707__Chelonoidis_abingdonii);

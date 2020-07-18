@@ -1,0 +1,1 @@
+(((ENSPEMG00000023094__Peromyscus_maniculatus_bairdii,ENSNGAG00000014243__Nannospalax_galili),(ENSMMMG00000008848__Marmota_marmota_marmota,ENSSDAG00000002915__Spermophilus_dauricus)),(ENSODEG00000010182__Octodon_degus,ENSDORG00000029480__Dipodomys_ordii));

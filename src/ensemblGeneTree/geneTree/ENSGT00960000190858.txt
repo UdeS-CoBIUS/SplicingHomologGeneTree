@@ -1,0 +1,1 @@
+((ENSPTEG00000031951__Piliocolobus_tephrosceles,ENSTGEG00000022614__Theropithecus_gelada),ENSNLEG00000029386__Nomascus_leucogenys);

@@ -1,1 +1,0 @@
-(((ENSXCOG00000017887__Xiphophorus_couchianus,ENSXMAG00000027414__Xiphophorus_maculatus),(ENSPLAG00000002488__Poecilia_latipinna,ENSPMEG00000003631__Poecilia_mexicana)),ENSCVAG00000006487__Cyprinodon_variegatus);

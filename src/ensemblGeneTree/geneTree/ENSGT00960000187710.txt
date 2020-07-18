@@ -1,0 +1,1 @@
+((ENSGACG00000014196__Gasterosteus_aculeatus,ENSTNIG00000010356__Tetraodon_nigroviridis),ENSPMGG00000012027__Periophthalmus_magnuspinnatus);

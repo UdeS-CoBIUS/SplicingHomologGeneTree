@@ -1,0 +1,1 @@
+((((((ENSPFOG00000008178__Poecilia_formosa,ENSPFOG00000024053__Poecilia_formosa),ENSONIG00000018536__Oreochromis_niloticus),(ENSXMAG00000026806__Xiphophorus_maculatus,ENSPFOG00000008168__Poecilia_formosa)),ENSGACG00000003241__Gasterosteus_aculeatus),ENSPVIG00000020628__Pogona_vitticeps),ENSEBUG00000011546__Eptatretus_burgeri);

@@ -1,0 +1,1 @@
+((ENSTGUG00000018434__Taeniopygia_guttata,ENSSCAG00000001648__Serinus_canaria),(ENSSLDG00000003100__Seriola_lalandi_dorsalis,ENSPREG00000011630__Poecilia_reticulata));

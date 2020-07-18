@@ -1,0 +1,10 @@
+>0
+ENSVURT00010009927: ['no event', 671, 0]
+ENSPCIT00000020469: ['no event', 671, 0]
+ENSSHAT00000015023: ['3event', 642, 0]
+ENSMODT00000039546: ['no event', 671, 0]
+>1
+ENSVURT00010009927: ['exon skipping', 0, 0]
+ENSPCIT00000020469: ['exon skipping', 0, 0]
+ENSSHAT00000015023: ['5event', 53, 0]
+ENSMODT00000039546: ['exon skipping', 0, 0]

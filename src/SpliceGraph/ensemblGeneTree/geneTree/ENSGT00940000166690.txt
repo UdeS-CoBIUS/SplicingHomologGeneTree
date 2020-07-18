@@ -1,0 +1,1 @@
+(((((((ENSNGAG00000024325__Nannospalax_galili,ENSMOCG00000004332__Microtus_ochrogaster),ENSJJAG00000010048__Jaculus_jaculus),ENSODEG00000006125__Octodon_degus),ENSDORG00000024021__Dipodomys_ordii),ENSMMUG00000038476__Macaca_mulatta),ENSTGUG00000013682__Taeniopygia_guttata),ENSEBUG00000002781__Eptatretus_burgeri);

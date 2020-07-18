@@ -1,0 +1,1 @@
+((ENSAPEG00000016738__Amphiprion_percula,ENSAOCG00000018124__Amphiprion_ocellaris),YAR019C__Saccharomyces_cerevisiae_strain_S288C);

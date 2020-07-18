@@ -1,0 +1,1 @@
+((((ENSSPAG00000002575__Stegastes_partitus,ENSHBUG00000000494__Haplochromis_burtoni),ENSATEG00000016036__Anabas_testudineus),ENSPMGG00000001014__Periophthalmus_magnuspinnatus),ENSAPLG00000025196__Anas_platyrhynchos_platyrhynchos);

@@ -1,0 +1,7 @@
+POECILIARETICULATA	poecilia_reticulata
+POECILIALATIPINNA	poecilia_latipinna
+XIPHOPHORUSCOUCHIANUS	xiphophorus_couchianus
+AMPHIPRIONPERCULA	amphiprion_percula
+NEOLAMPROLOGUSBRICHARDI	neolamprologus_brichardi
+PUNDAMILIANYEREREI	pundamilia_nyererei
+MASTACEMBELUSARMATUS	mastacembelus_armatus

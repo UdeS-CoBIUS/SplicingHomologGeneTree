@@ -1,0 +1,6 @@
+LABRUSBERGYLTA	labrus_bergylta
+TAKIFUGURUBRIPES	takifugu_rubripes
+OREOCHROMISNILOTICUS	oreochromis_niloticus
+POECILIAFORMOSA	poecilia_formosa
+GADUSMORHUA	gadus_morhua
+LEPISOSTEUSOCULATUS	lepisosteus_oculatus

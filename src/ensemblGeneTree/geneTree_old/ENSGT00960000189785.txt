@@ -1,1 +1,0 @@
-((((ENSCJPG00005019909__Coturnix_japonica,ENSMUNG00000015510__Melopsittacus_undulatus),ENSCPRG00005017989__Crocodylus_porosus),ENSNSUG00000011619__Notechis_scutatus),ENSLBEG00000006797__Labrus_bergylta);

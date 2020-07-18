@@ -1,0 +1,1 @@
+(((ENSSTOG00000000537__Ictidomys_tridecemlineatus,ENSMUGG00000025212__Meriones_unguiculatus),ENSNLEG00000034003__Nomascus_leucogenys),((ENSVVUG00000030361__Vulpes_vulpes,ENSNVIG00000018948__Neovison_vison),ENSPTIG00000001705__Panthera_tigris_altaica));

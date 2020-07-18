@@ -1,0 +1,1 @@
+((ENSPTRG00000047075__Pan_troglodytes,ENSG00000277400__Homo_sapiens),ENSATEG00000021245__Anabas_testudineus);

@@ -1,0 +1,1 @@
+(((ENSPTEG00000012894__Piliocolobus_tephrosceles,ENSTGEG00000025786__Theropithecus_gelada),ENSUAMG00000027536__Ursus_americanus),((ENSNSUG00000007532__Notechis_scutatus,ENSNSUG00000007522__Notechis_scutatus),ENSGAGG00000012698__Gopherus_agassizii));

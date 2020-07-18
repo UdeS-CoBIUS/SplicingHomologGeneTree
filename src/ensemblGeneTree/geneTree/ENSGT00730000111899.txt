@@ -1,0 +1,1 @@
+((((ENSMLUG00000023276__Myotis_lucifugus,ENSBTAG00000053812__Bos_taurus),(((ENSUMAG00000007383__Ursus_maritimus,ENSUAMG00000017198__Ursus_americanus),ENSAMEG00000005731__Ailuropoda_melanoleuca),ENSCAFG00000030940__Canis_lupus_familiaris)),ENSPPYG00000009380__Pongo_abelii),(ENSLAFG00000030325__Loxodonta_africana,ENSDNOG00000040826__Dasypus_novemcinctus));

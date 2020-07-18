@@ -1,0 +1,15 @@
+>0
+ENSCHAT00000000468: ['no event', 49, 0]
+ENSCHAT00000000470: ['no event', 49, 0]
+>1
+ENSCHAT00000000468: ['no event', 63, 2]
+ENSCHAT00000000470: ['no event', 63, 2]
+>2
+ENSCHAT00000000468: ['no event', 71, 0]
+ENSCHAT00000000470: ['no event', 71, 0]
+>3
+ENSCHAT00000000468: ['exon skipping', 0, 0]
+ENSCHAT00000000470: ['no event', 44, 0]
+>4
+ENSCHAT00000000468: ['5event', 59, 0]
+ENSCHAT00000000470: ['exon skipping', 0, 0]

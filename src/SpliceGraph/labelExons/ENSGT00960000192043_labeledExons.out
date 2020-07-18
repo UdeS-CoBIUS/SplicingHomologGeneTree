@@ -1,0 +1,12 @@
+>0
+ENSCJPT00005037601: ['no event', 114, 0]
+ENSCCET00000022898: ['exon skipping', 0, 0]
+>1
+ENSCJPT00005037601: ['exon skipping', 0, 0]
+ENSCCET00000022898: ['5event', ['internal gap < 30', 32, 6], 63, 0]
+>2
+ENSCJPT00005037601: ['5event', 124, 1]
+ENSCCET00000022898: [['internal gap < 30', 1, 27], 98, 1]
+>3
+ENSCJPT00005037601: ['exon skipping', 0, 0]
+ENSCCET00000022898: ['no event', 23, 0]

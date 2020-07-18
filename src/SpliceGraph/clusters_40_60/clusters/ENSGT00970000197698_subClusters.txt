@@ -1,0 +1,6 @@
+>cluster_0
+C06A5.8b.1
+>cluster_1
+C06A5.8a.1
+>cluster_2
+C06A5.9.1	C06A5.8b.2

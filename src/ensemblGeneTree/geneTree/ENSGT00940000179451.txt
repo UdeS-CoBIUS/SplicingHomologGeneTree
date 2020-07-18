@@ -1,0 +1,1 @@
+(((ENSAPEG00000007278__Amphiprion_percula,ENSATEG00000006215__Anabas_testudineus),ENSMALG00000008086__Monopterus_albus),ENSHHUG00000013701__Hucho_hucho);

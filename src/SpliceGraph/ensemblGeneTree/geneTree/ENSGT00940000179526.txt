@@ -1,0 +1,1 @@
+((ENSXCOG00000008684__Xiphophorus_couchianus,ENSORLG00015020342__Oryzias_latipes_ASM223469v1),ENSPKIG00000001585__Paramormyrops_kingsleyae);

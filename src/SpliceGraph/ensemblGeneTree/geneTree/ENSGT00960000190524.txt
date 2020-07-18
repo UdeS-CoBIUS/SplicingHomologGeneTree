@@ -1,0 +1,1 @@
+((ENSMUNG00000000604__Melopsittacus_undulatus,ENSMUNG00000006081__Melopsittacus_undulatus),ENSMUNG00000003992__Melopsittacus_undulatus);

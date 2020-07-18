@@ -1,1 +1,0 @@
-(((ENSMSIG00000009629__Mus_spicilegus,MGP_SPRETEiJ_G0033276__Mus_spretus_strain_SPRET/EiJ),MGP_PahariEiJ_G0015007__Mus_pahari_strain_PAHARI_EIJ),(ENSCGRG00015017442__Cricetulus_griseus_CriGri-PICR,ENSCGRG00001012141__Cricetulus_griseus_CHOK1GS_HDv1));

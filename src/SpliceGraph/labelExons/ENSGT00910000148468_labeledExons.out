@@ -1,0 +1,12 @@
+>0
+ENSNLET00000040199: ['no event', 107, 0]
+ENSANAT00000037631: ['no event', 107, 0]
+>1
+ENSNLET00000040199: ['no event', 28, 0]
+ENSANAT00000037631: ['exon skipping', 0, 0]
+>2
+ENSNLET00000040199: ['exon skipping', 0, 0]
+ENSANAT00000037631: ['5event', 113, 0]
+>3
+ENSNLET00000040199: ['5event', 90, 2]
+ENSANAT00000037631: ['exon skipping', 0, 0]

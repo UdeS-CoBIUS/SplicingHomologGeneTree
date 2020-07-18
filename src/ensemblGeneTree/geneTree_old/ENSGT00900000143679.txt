@@ -1,1 +1,0 @@
-((((ENSCHIG00000000272__Capra_hircus,ENSSSCG00000040744__Sus_scrofa),(ENSUMAG00000010467__Ursus_maritimus,ENSUAMG00000002140__Ursus_americanus)),((ENSUPAG00010009020__Urocitellus_parryii,ENSMMMG00000007431__Marmota_marmota_marmota),ENSCCNG00000008235__Castor_canadensis)),ENSSHAG00000006004__Sarcophilus_harrisii);

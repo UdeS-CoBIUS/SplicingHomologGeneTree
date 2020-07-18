@@ -1,0 +1,1 @@
+(((((ENSNBRG00000007323__Neolamprologus_brichardi,ENSPNYG00000004169__Pundamilia_nyererei),ENSSPAG00000016610__Stegastes_partitus),ENSLBEG00000028956__Labrus_bergylta),ENSCSAVG00000007998__Ciona_savignyi),YJL034W__Saccharomyces_cerevisiae_strain_S288C);

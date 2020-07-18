@@ -1,0 +1,1 @@
+(((ENSPKIG00000018722__Paramormyrops_kingsleyae,ENSSFOG00015020446__Scleropages_formosus),ENSPNAG00000017043__Pygocentrus_nattereri),(ENSACAG00000006328__Anolis_carolinensis,ENSOANG00000029692__Ornithorhynchus_anatinus));

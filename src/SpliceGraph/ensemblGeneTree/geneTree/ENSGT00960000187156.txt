@@ -1,0 +1,1 @@
+(((((ENSPMEG00000004149__Poecilia_mexicana,ENSPREG00000009695__Poecilia_reticulata),ENSPMGG00000001615__Periophthalmus_magnuspinnatus),ENSLBEG00000012372__Labrus_bergylta),ENSPKIG00000010000__Paramormyrops_kingsleyae),ENSCHIG00000010673__Capra_hircus);

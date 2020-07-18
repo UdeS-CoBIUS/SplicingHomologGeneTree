@@ -1,0 +1,1 @@
+((ENSARWG00000013208__Apteryx_rowi,ENSGAGG00000002788__Gopherus_agassizii),((ENSAPOG00000020402__Acanthochromis_polyacanthus,ENSAPEG00000000905__Amphiprion_percula),ENSFHEG00000017590__Fundulus_heteroclitus));

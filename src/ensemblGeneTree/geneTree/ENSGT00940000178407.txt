@@ -1,0 +1,1 @@
+((((ENSACLG00000005590__Astatotilapia_calliptera,ENSHBUG00000004088__Haplochromis_burtoni),ENSNBRG00000009200__Neolamprologus_brichardi),ENSATEG00000024265__Anabas_testudineus),ENSSFOG00015010884__Scleropages_formosus);

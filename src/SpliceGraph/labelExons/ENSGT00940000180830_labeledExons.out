@@ -1,0 +1,9 @@
+>0
+ENSLCAT00010000285: ['no event', 44, 0]
+ENSMALT00000009134: ['exon skipping', 0, 0]
+>1
+ENSLCAT00010000285: ['exon skipping', 0, 0]
+ENSMALT00000009134: ['5event', 2, 0]
+>2
+ENSLCAT00010000285: ['5event', ['internal gap >= 30', 12, 67], 152, 0]
+ENSMALT00000009134: ['no event', 219, 0]

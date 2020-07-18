@@ -1,0 +1,1 @@
+(ENSUAMG00000002719__Ursus_americanus,ENSSDAG00000005668__Spermophilus_dauricus);

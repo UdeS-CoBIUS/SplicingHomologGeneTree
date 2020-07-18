@@ -1,0 +1,1 @@
+(((ENSCPGG00000011762__Calidris_pygmaea,ENSCPUG00000013791__Calidris_pugnax),ENSLSDG00000012136__Lonchura_striata_domestica),((ENSAOWG00000006940__Apteryx_owenii,ENSARWG00000007358__Apteryx_rowi),ENSDNVG00000001599__Dromaius_novaehollandiae));

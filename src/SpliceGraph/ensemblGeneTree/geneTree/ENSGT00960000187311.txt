@@ -1,0 +1,1 @@
+((((ENSMMOG00000008103__Mola_mola,ENSTRUG00000024614__Takifugu_rubripes),ENSSDUG00000000341__Seriola_dumerili),ENSHCOG00000006353__Hippocampus_comes),((ENSAHAG00000012559__Apteryx_haastii,ENSAOWG00000016446__Apteryx_owenii),ENSPSIG00000015559__Pelodiscus_sinensis));

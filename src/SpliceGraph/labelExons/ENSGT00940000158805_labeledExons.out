@@ -1,0 +1,60 @@
+>0
+ENSDCDT00000038718: ['exon skipping', 0, 0]
+ENSCHAT00000000868: ['no event', 2, 0]
+ENSCHAT00000000878: ['no event', 2, 0]
+ENSAMXT00000057223: ['exon skipping', 0, 0]
+>1
+ENSDCDT00000038718: ['5event', 65, 0]
+ENSCHAT00000000868: ['no event', 66, 0]
+ENSCHAT00000000878: ['no event', 66, 0]
+ENSAMXT00000057223: ['5event', 65, 0]
+>2
+ENSDCDT00000038718: ['no event', 114, 0]
+ENSCHAT00000000868: ['no event', 114, 0]
+ENSCHAT00000000878: ['no event', 114, 0]
+ENSAMXT00000057223: ['no event', 114, 0]
+>3
+ENSDCDT00000038718: ['no event', 97, 1]
+ENSCHAT00000000868: ['no event', 97, 1]
+ENSCHAT00000000878: ['no event', 97, 1]
+ENSAMXT00000057223: ['no event', 97, 1]
+>4
+ENSDCDT00000038718: ['no event', 74, 0]
+ENSCHAT00000000868: ['no event', 74, 0]
+ENSCHAT00000000878: ['no event', 74, 0]
+ENSAMXT00000057223: ['no event', 74, 0]
+>5
+ENSDCDT00000038718: [['internal gap < 30', 68, 3], 113, 0]
+ENSCHAT00000000868: ['no event', 116, 0]
+ENSCHAT00000000878: ['no event', 116, 0]
+ENSAMXT00000057223: [['internal gap < 30', 68, 3], 113, 0]
+>6
+ENSDCDT00000038718: ['no event', 98, 0]
+ENSCHAT00000000868: ['no event', 98, 0]
+ENSCHAT00000000878: ['no event', 98, 0]
+ENSAMXT00000057223: [['internal gap < 30', 39, 3], 95, 0]
+>7
+ENSDCDT00000038718: ['exon skipping', 0, 0]
+ENSCHAT00000000868: ['exon skipping', 0, 0]
+ENSCHAT00000000878: ['no event', 15, 0]
+ENSAMXT00000057223: ['exon skipping', 0, 0]
+>8
+ENSDCDT00000038718: ['exon skipping', 0, 0]
+ENSCHAT00000000868: ['exon skipping', 0, 0]
+ENSCHAT00000000878: ['no event', 430, 1]
+ENSAMXT00000057223: ['exon skipping', 0, 0]
+>9
+ENSDCDT00000038718: ['5event', 83, 0]
+ENSCHAT00000000868: ['5event', 83, 0]
+ENSCHAT00000000878: ['exon skipping', 0, 0]
+ENSAMXT00000057223: ['5event', 83, 0]
+>10
+ENSDCDT00000038718: ['3event', 55, 0]
+ENSCHAT00000000868: ['no event', 62, 0]
+ENSCHAT00000000878: ['exon skipping', 0, 0]
+ENSAMXT00000057223: ['no event', 62, 0]
+>11
+ENSDCDT00000038718: ['5event', ['internal gap < 30', 62, 9], 386, 0]
+ENSCHAT00000000868: ['exon skipping', 0, 0]
+ENSCHAT00000000878: ['exon skipping', 0, 0]
+ENSAMXT00000057223: ['exon skipping', 0, 0]

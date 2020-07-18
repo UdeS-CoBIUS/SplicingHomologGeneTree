@@ -1,0 +1,1 @@
+(((((ENSSMRG00000009359__Salvator_merianae,ENSNSUG00000000517__Notechis_scutatus),ENSCPBG00000018916__Chrysemys_picta_bellii),ENSTGUG00000007344__Taeniopygia_guttata),ENSSHAG00000017519__Sarcophilus_harrisii),ENSLACG00000014144__Latimeria_chalumnae);

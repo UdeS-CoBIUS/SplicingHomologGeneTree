@@ -1,0 +1,1 @@
+(ENSSCAG00000000981__Serinus_canaria,ENSLCOG00000003438__Lepidothrix_coronata);

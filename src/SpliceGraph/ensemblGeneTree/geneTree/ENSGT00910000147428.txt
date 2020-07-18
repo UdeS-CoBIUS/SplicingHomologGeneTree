@@ -1,0 +1,1 @@
+((ENSSDAG00000017074__Spermophilus_dauricus,ENSMSIG00000011382__Mus_spicilegus),(((ENSPTRG00000049802__Pan_troglodytes,ENSPPAG00000032844__Pan_paniscus),ENSGGOG00000040860__Gorilla_gorilla),((ENSMMUG00000037575__Macaca_mulatta,ENSMFAG00000032504__Macaca_fascicularis),(ENSPTEG00000035744__Piliocolobus_tephrosceles,ENSCANG00000023820__Colobus_angolensis_palliatus))));

@@ -1,0 +1,2 @@
+NOMASCUSLEUCOGENYS	nomascus_leucogenys
+CERCOCEBUSATYS	cercocebus_atys

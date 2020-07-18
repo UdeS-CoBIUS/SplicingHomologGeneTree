@@ -1,0 +1,1 @@
+((((ENSTBEG00000002589__Tupaia_belangeri,ENSJJAG00000015566__Jaculus_jaculus),(ENSVPAG00000012144__Vicugna_pacos,ENSEEUG00000010634__Erinaceus_europaeus)),(ENSPCOG00000016841__Propithecus_coquereli,ENSPCAG00000008190__Procavia_capensis)),ENSCHOG00000000390__Choloepus_hoffmanni);

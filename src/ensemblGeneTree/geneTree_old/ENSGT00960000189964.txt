@@ -1,1 +1,0 @@
-(((ENSPEMG00000025770__Peromyscus_maniculatus_bairdii,ENSRNOG00000052718__Rattus_norvegicus),ENSSDAG00000000557__Spermophilus_dauricus),ENSNVIG00000014725__Neovison_vison);

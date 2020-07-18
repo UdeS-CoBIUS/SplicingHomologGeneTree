@@ -1,1 +1,0 @@
-(ENSCPGG00000003935__Calidris_pygmaea,ENSCPUG00000001953__Calidris_pugnax);

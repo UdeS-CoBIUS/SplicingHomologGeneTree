@@ -1,0 +1,10 @@
+>0
+ENSMUST00000078422: [['internal gap < 30', 321, 12], 383, 0]
+MGP_CAROLIEiJ_T0042192: [['internal gap < 30', 321, 12], 383, 0]
+MGP_SPRETEiJ_T0044089: [['internal gap >= 30', 201, 132], 263, 0]
+MGP_PahariEiJ_T0029551: ['no event', 395, 0]
+>1
+ENSMUST00000078422: ['no event', 2, 0]
+MGP_CAROLIEiJ_T0042192: ['exon skipping', 0, 0]
+MGP_SPRETEiJ_T0044089: ['exon skipping', 0, 0]
+MGP_PahariEiJ_T0029551: ['exon skipping', 0, 0]

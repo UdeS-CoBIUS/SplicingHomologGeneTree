@@ -1,0 +1,1 @@
+((((ENSELUG00000012501__Esox_lucius,ENSHHUG00000007983__Hucho_hucho),(((ENSAPEG00000000746__Amphiprion_percula,ENSAOCG00000011786__Amphiprion_ocellaris),ENSTRUG00000025326__Takifugu_rubripes),ENSGMOG00000015954__Gadus_morhua)),ENSAMXG00005022144__Astyanax_mexicanus_Astyanax_mexicanus-1.0.2),ENSCABG00000021016__Chelonoidis_abingdonii);

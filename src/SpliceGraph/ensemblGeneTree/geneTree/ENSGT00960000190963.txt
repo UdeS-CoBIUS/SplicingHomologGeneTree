@@ -1,0 +1,1 @@
+((ENSSCAG00000016717__Serinus_canaria,ENSNMEG00000013806__Numida_meleagris),ENSXCOG00000012262__Xiphophorus_couchianus);

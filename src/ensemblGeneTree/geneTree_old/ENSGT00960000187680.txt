@@ -1,1 +1,0 @@
-(((((ENSMUNG00000006082__Melopsittacus_undulatus,ENSMUNG00000015585__Melopsittacus_undulatus),ENSMUNG00000002457__Melopsittacus_undulatus),ENSNMEG00000010354__Numida_meleagris),ENSCPBG00000022846__Chrysemys_picta_bellii),(ENSNGAG00000005704__Nannospalax_galili,ENSMAUG00000021626__Mesocricetus_auratus));

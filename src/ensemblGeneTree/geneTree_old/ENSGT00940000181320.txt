@@ -1,1 +1,0 @@
-(ENSMALG00000014847__Monopterus_albus,ENSGACG00000012179__Gasterosteus_aculeatus);

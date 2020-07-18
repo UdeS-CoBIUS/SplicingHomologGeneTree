@@ -1,0 +1,1 @@
+(ENSPCIG00000034843__Phascolarctos_cinereus,ENSBBBG00000007839__Bison_bison_bison);

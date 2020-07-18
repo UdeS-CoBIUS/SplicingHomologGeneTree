@@ -1,0 +1,1 @@
+(((ENSVVUG00000005191__Vulpes_vulpes,ENSVVUG00000025030__Vulpes_vulpes),ENSCAFG00020004395__Canis_lupus_dingo),ENSUMAG00000008396__Ursus_maritimus);

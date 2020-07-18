@@ -1,1 +1,0 @@
-((((ENSAHAG00000004636__Apteryx_haastii,ENSAHAG00000004312__Apteryx_haastii),((ENSAHAG00000016604__Apteryx_haastii,ENSAOWG00000000390__Apteryx_owenii),ENSARWG00000004897__Apteryx_rowi)),ENSDNVG00000006493__Dromaius_novaehollandiae),ENSMMUG00000040476__Macaca_mulatta);

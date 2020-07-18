@@ -1,0 +1,1 @@
+(((ENSMUGG00000001982__Meriones_unguiculatus,ENSMUGG00000011486__Meriones_unguiculatus),ENSPTEG00000039809__Piliocolobus_tephrosceles),((ENSECAG00000040289__Equus_caballus,ENSEASG00005008436__Equus_asinus_asinus),ENSUMAG00000017083__Ursus_maritimus));

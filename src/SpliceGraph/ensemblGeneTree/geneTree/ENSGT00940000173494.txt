@@ -1,0 +1,1 @@
+((ENSVPAG00000006478__Vicugna_pacos,ENSEASG00005002389__Equus_asinus_asinus),ENSPCAG00000014303__Procavia_capensis);

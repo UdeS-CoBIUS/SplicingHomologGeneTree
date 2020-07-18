@@ -1,0 +1,1 @@
+(((ENSMMOG00000002590__Mola_mola,ENSCSEG00000016682__Cynoglossus_semilaevis),ENSSLDG00000023675__Seriola_lalandi_dorsalis),((ENSAPEG00000004475__Amphiprion_percula,ENSAOCG00000006812__Amphiprion_ocellaris),ENSGAFG00000000233__Gambusia_affinis));

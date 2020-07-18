@@ -1,0 +1,1 @@
+(ENSTNIG00000012598__Tetraodon_nigroviridis,ENSLACG00000019018__Latimeria_chalumnae);

@@ -1,0 +1,1 @@
+((((ENSTTRG00000005351__Tursiops_truncatus,ENSPVAG00000007272__Pteropus_vampyrus),ENSPCAG00000006312__Procavia_capensis),(ENSLAFG00000001135__Loxodonta_africana,ENSSARG00000005310__Sorex_araneus)),ENSMEUG00000006734__Notamacropus_eugenii);

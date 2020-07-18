@@ -1,0 +1,1 @@
+(ENSABRG00000018171__Anser_brachyrhynchus,ENSCJPG00005009045__Coturnix_japonica);

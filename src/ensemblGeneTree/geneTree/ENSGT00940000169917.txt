@@ -1,0 +1,1 @@
+((ENSPTIG00000021026__Panthera_tigris_altaica,ENSNVIG00000003131__Neovison_vison),(ENSTSYG00000028116__Carlito_syrichta,ENSTSYG00000035550__Carlito_syrichta));

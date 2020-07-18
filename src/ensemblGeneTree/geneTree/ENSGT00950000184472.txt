@@ -1,0 +1,1 @@
+(((ENSFALG00000001727__Ficedula_albicollis,ENSTGUG00000004326__Taeniopygia_guttata),ENSZALG00000008045__Zonotrichia_albicollis),(ENSARWG00000013275__Apteryx_rowi,ENSAOWG00000002317__Apteryx_owenii));

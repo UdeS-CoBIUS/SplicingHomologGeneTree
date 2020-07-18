@@ -1,0 +1,1 @@
+(((ENSVVUG00000018312__Vulpes_vulpes,ENSMPUG00000017164__Mustela_putorius_furo),ENSECAG00000032219__Equus_caballus),ENSOARG00000018949__Ovis_aries);

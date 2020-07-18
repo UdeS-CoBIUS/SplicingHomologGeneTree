@@ -1,0 +1,8 @@
+ZONOTRICHIAALBICOLLIS	zonotrichia_albicollis
+SERINUSCANARIA	serinus_canaria
+AOTUSNANCYMAAE	aotus_nancymaae
+CARLITOSYRICHTA	carlito_syrichta
+SPERMOPHILUSDAURICUS	spermophilus_dauricus
+BISONBISONBISON	bison_bison_bison
+STEGASTESPARTITUS	stegastes_partitus
+ACANTHOCHROMISPOLYACANTHUS	acanthochromis_polyacanthus

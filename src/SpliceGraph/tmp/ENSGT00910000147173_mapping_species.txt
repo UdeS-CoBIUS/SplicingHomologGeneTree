@@ -1,0 +1,8 @@
+PAPIOANUBIS	papio_anubis
+THEROPITHECUSGELADA	theropithecus_gelada
+CERCOCEBUSATYS	cercocebus_atys
+MACACAFASCICULARIS	macaca_fascicularis
+MACACANEMESTRINA	macaca_nemestrina
+RHINOPITHECUSROXELLANA	rhinopithecus_roxellana
+NOMASCUSLEUCOGENYS	nomascus_leucogenys
+PANTROGLODYTES	pan_troglodytes

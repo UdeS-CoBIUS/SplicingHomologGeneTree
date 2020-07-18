@@ -1,0 +1,1 @@
+(((ENSVPAG00000008069__Vicugna_pacos,ENSTTRG00000000628__Tursiops_truncatus),ENSPVAG00000017264__Pteropus_vampyrus),ENSPCAG00000010598__Procavia_capensis);

@@ -1,0 +1,1 @@
+(((ENSBMUG00000021622__Bos_mutus,ENSBTAG00000049263__Bos_taurus),ENSVVUG00000001695__Vulpes_vulpes),ENSDNVG00000015605__Dromaius_novaehollandiae);

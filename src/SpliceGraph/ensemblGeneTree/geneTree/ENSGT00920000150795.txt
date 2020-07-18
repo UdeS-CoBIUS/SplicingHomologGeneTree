@@ -1,0 +1,1 @@
+((ENSCHIG00000016751__Capra_hircus,ENSCHIG00000015864__Capra_hircus),((((ENSBBBG00000004253__Bison_bison_bison,ENSBBBG00000007149__Bison_bison_bison),ENSBBBG00000017565__Bison_bison_bison),(ENSBBBG00000025009__Bison_bison_bison,ENSBBBG00000024724__Bison_bison_bison)),ENSBBBG00000025166__Bison_bison_bison));

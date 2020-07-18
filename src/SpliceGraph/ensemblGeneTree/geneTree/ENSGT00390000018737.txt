@@ -1,0 +1,1 @@
+((((ENSPTRG00000007354__Pan_troglodytes,ENSGGOG00000039411__Gorilla_gorilla),ENSPPYG00000006706__Pongo_abelii),ENSTTRG00000016609__Tursiops_truncatus),ENSETEG00000011869__Echinops_telfairi);

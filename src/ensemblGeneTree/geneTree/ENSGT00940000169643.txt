@@ -1,0 +1,1 @@
+((MGP_SPRETEiJ_G0020728__Mus_spretus_strain_SPRET/EiJ,MGP_CAROLIEiJ_G0019830__Mus_caroli_strain_CAROLI_EIJ),ENSMLUG00000000593__Myotis_lucifugus);

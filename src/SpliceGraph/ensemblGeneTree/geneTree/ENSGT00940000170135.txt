@@ -1,0 +1,1 @@
+((((((ENSPREG00000022669__Poecilia_reticulata,ENSPLAG00000016658__Poecilia_latipinna),ENSXCOG00000011791__Xiphophorus_couchianus),ENSAPOG00000016701__Acanthochromis_polyacanthus),(ENSMMOG00000007763__Mola_mola,ENSHCOG00000013609__Hippocampus_comes)),ENSDARG00000109601__Danio_rerio),(ENSPMAG00000003380__Petromyzon_marinus,ENSEBUG00000001592__Eptatretus_burgeri));

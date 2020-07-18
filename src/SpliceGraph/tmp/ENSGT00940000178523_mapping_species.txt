@@ -1,0 +1,5 @@
+MAYLANDIAZEBRA	maylandia_zebra
+PUNDAMILIANYEREREI	pundamilia_nyererei
+ASTATOTILAPIACALLIPTERA	astatotilapia_calliptera
+HAPLOCHROMISBURTONI	haplochromis_burtoni
+NEOLAMPROLOGUSBRICHARDI	neolamprologus_brichardi

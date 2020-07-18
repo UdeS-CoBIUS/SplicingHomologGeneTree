@@ -1,0 +1,1 @@
+((((ENSMMMG00000015581__Marmota_marmota_marmota,ENSPSMG00000009973__Prolemur_simus),(ENSUMAG00000022294__Ursus_maritimus,ENSCAFG00020001219__Canis_lupus_dingo)),(ENSCPRG00005005412__Crocodylus_porosus,ENSSPUG00000015147__Sphenodon_punctatus)),(ENSSMAG00000013694__Scophthalmus_maximus,ENSGAFG00000002106__Gambusia_affinis));

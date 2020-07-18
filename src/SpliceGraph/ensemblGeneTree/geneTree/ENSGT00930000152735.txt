@@ -1,0 +1,1 @@
+((((ENSPPRG00000001423__Panthera_pardus,ENSPPRG00000001408__Panthera_pardus),ENSBMUG00000014137__Bos_mutus),((ENSKMAG00000008518__Kryptolebias_marmoratus,ENSCVAG00000011685__Cyprinodon_variegatus),(ENSAPOG00000014854__Acanthochromis_polyacanthus,ENSOMEG00000018687__Oryzias_melastigma))),ENSEBUG00000003791__Eptatretus_burgeri);

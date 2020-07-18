@@ -1,1 +1,0 @@
-((ENSRBIG00000016096__Rhinopithecus_bieti,ENSPTEG00000032195__Piliocolobus_tephrosceles),((((((ENSMMUG00000048987__Macaca_mulatta,ENSMNEG00000003918__Macaca_nemestrina),ENSMFAG00000030502__Macaca_fascicularis),ENSTGEG00000019111__Theropithecus_gelada),ENSPANG00000031398__Papio_anubis),ENSCATG00000022461__Cercocebus_atys),ENSMLEG00000024431__Mandrillus_leucophaeus));

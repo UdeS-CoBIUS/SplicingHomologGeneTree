@@ -1,0 +1,1 @@
+(((ENSLOCG00000002176__Lepisosteus_oculatus,ENSELUG00000013106__Esox_lucius),ENSLACG00000001555__Latimeria_chalumnae),ENSCING00000011411__Ciona_intestinalis);

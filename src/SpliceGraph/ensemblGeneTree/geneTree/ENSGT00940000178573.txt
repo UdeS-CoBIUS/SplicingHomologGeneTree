@@ -1,0 +1,1 @@
+((((ENSORLG00020005265__Oryzias_latipes_ASM223471v1,ENSOMEG00000006287__Oryzias_melastigma),ENSOMEG00000002402__Oryzias_melastigma),ENSAMXG00000032314__Astyanax_mexicanus),ENSGALG00000048508__Gallus_gallus);

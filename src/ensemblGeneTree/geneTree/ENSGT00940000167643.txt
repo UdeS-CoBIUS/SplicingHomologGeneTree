@@ -1,0 +1,1 @@
+(((((ENSAOCG00000006338__Amphiprion_ocellaris,ENSPFOG00000022808__Poecilia_formosa),ENSLBEG00000001224__Labrus_bergylta),(ENSCING00000000904__Ciona_intestinalis,ENSCSAVG00000003538__Ciona_savignyi)),ENSPMAG00000009750__Petromyzon_marinus),(WBGene00001620__Caenorhabditis_elegans_strain_N2,FBgn0026438__Drosophila_melanogaster));

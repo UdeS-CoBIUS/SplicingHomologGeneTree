@@ -1,0 +1,16 @@
+>0
+ENSMUST00000071885: ['no event', 144, 0]
+MGP_SPRETEiJ_T0094991: ['no event', 144, 0]
+MGP_PahariEiJ_T0088879: ['5event', 141, 0]
+>1
+ENSMUST00000071885: [['internal gap >= 30', 323, 2084], 723, 1]
+MGP_SPRETEiJ_T0094991: [['internal gap >= 30', 251, 2309], 498, 1]
+MGP_PahariEiJ_T0088879: [['internal gap >= 30', 237, 2453], 354, 1]
+>2
+ENSMUST00000071885: ['no event', 45, 2]
+MGP_SPRETEiJ_T0094991: ['no event', 45, 2]
+MGP_PahariEiJ_T0088879: ['no event', 45, 2]
+>3
+ENSMUST00000071885: ['no event', 47, 0]
+MGP_SPRETEiJ_T0094991: ['no event', 47, 0]
+MGP_PahariEiJ_T0088879: ['no event', 47, 0]

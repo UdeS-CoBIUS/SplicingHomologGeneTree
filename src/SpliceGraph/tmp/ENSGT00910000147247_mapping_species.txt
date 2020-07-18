@@ -1,0 +1,14 @@
+MANDRILLUSLEUCOPHAEUS	mandrillus_leucophaeus
+THEROPITHECUSGELADA	theropithecus_gelada
+PAPIOANUBIS	papio_anubis
+MACACAFASCICULARIS	macaca_fascicularis
+MACACAMULATTA	macaca_mulatta
+MACACANEMESTRINA	macaca_nemestrina
+CERCOCEBUSATYS	cercocebus_atys
+RHINOPITHECUSROXELLANA	rhinopithecus_roxellana
+RHINOPITHECUSBIETI	rhinopithecus_bieti
+PANTROGLODYTES	pan_troglodytes
+PANPANISCUS	pan_paniscus
+PANTROGLODYTES	pan_troglodytes
+NOMASCUSLEUCOGENYS	nomascus_leucogenys
+GORILLAGORILLA	gorilla_gorilla

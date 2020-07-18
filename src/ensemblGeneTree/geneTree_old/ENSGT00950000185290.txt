@@ -1,1 +1,0 @@
-((ENSGALG00000050153__Gallus_gallus,ENSGALG00000053479__Gallus_gallus),ENSLCOG00000001666__Lepidothrix_coronata);

@@ -1,0 +1,1 @@
+((ENSFALG00000011354__Ficedula_albicollis,ENSTGUG00000006057__Taeniopygia_guttata),ENSGALG00000009622__Gallus_gallus);

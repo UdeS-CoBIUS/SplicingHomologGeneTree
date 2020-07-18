@@ -1,0 +1,1 @@
+((((ENSMNEG00000035563__Macaca_nemestrina,ENSMFAG00000031951__Macaca_fascicularis),ENSNLEG00000035171__Nomascus_leucogenys),ENSPEMG00000031065__Peromyscus_maniculatus_bairdii),ENSCPGG00000009784__Calidris_pygmaea);

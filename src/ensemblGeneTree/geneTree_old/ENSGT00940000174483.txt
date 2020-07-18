@@ -1,1 +1,0 @@
-(((ENSMAMG00000009245__Mastacembelus_armatus,ENSMALG00000003315__Monopterus_albus),ENSATEG00000012899__Anabas_testudineus),ENSONIG00000016869__Oreochromis_niloticus);

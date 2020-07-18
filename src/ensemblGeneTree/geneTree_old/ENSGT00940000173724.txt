@@ -1,1 +1,0 @@
-((((ENSCPOG00000006523__Cavia_porcellus,ENSFDAG00000009966__Fukomys_damarensis),ENSMAUG00000014313__Mesocricetus_auratus),ENSSPUG00000017429__Sphenodon_punctatus),ENSACIG00000004080__Amphilophus_citrinellus);

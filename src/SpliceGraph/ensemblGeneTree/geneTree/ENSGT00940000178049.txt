@@ -1,0 +1,1 @@
+(((((ENSXMAG00000026400__Xiphophorus_maculatus,ENSXCOG00000020717__Xiphophorus_couchianus),ENSGAFG00000021945__Gambusia_affinis),(ENSPREG00000002874__Poecilia_reticulata,ENSPMEG00000012152__Poecilia_mexicana)),ENSFHEG00000021040__Fundulus_heteroclitus),ENSPMGG00000009203__Periophthalmus_magnuspinnatus);

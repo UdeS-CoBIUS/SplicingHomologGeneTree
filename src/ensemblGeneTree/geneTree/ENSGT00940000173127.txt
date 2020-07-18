@@ -1,0 +1,1 @@
+((ENSOANG00000029407__Ornithorhynchus_anatinus,ENSODEG00000006327__Octodon_degus),ENSTGUG00000017167__Taeniopygia_guttata);

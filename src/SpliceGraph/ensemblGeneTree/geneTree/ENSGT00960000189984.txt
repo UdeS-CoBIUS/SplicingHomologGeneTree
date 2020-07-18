@@ -1,0 +1,1 @@
+(((ENSAOWG00000011801__Apteryx_owenii,ENSARWG00000002465__Apteryx_rowi),ENSDNVG00000000337__Dromaius_novaehollandiae),ENSNSUG00000012006__Notechis_scutatus);

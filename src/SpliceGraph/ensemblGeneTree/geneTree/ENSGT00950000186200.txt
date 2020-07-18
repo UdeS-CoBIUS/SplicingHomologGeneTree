@@ -1,0 +1,1 @@
+((ENSGAGG00000005176__Gopherus_agassizii,ENSAPLG00000020706__Anas_platyrhynchos_platyrhynchos),ENSFHEG00000015780__Fundulus_heteroclitus);

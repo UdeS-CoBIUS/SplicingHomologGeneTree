@@ -1,0 +1,7 @@
+CAPRAHIRCUS	capra_hircus
+AILUROPODAMELANOLEUCA	ailuropoda_melanoleuca
+OTOLEMURGARNETTII	otolemur_garnettii
+CARLITOSYRICHTA	carlito_syrichta
+CASTORCANADENSIS	castor_canadensis
+SARCOPHILUSHARRISII	sarcophilus_harrisii
+PHASCOLARCTOSCINEREUS	phascolarctos_cinereus

@@ -1,0 +1,1 @@
+(((ENSJHYG00000006622__Junco_hyemalis,ENSDNVG00000014861__Dromaius_novaehollandiae),((ENSCPBG00000012515__Chrysemys_picta_bellii,ENSCPBG00000004601__Chrysemys_picta_bellii),ENSCPBG00000017257__Chrysemys_picta_bellii)),ENSPVIG00000008887__Pogona_vitticeps);

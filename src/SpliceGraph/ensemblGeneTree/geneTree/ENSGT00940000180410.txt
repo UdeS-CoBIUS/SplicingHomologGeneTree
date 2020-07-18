@@ -1,0 +1,1 @@
+((ENSSTOG00000025503__Ictidomys_tridecemlineatus,ENSSTOG00000008511__Ictidomys_tridecemlineatus),ENSSTOG00000028509__Ictidomys_tridecemlineatus);

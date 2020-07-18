@@ -1,0 +1,1 @@
+((ENSCVAG00000008233__Cyprinodon_variegatus,ENSXCOG00000018387__Xiphophorus_couchianus),((ENSAPOG00000016480__Acanthochromis_polyacanthus,ENSSPAG00000012177__Stegastes_partitus),ENSACIG00000014002__Amphilophus_citrinellus));

@@ -1,0 +1,1 @@
+((ENSOANG00000031105__Ornithorhynchus_anatinus,ENSOANG00000029349__Ornithorhynchus_anatinus),ENSNGAG00000000612__Nannospalax_galili);

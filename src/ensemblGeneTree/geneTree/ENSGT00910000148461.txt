@@ -1,0 +1,1 @@
+(((ENSPANG00000031947__Papio_anubis,ENSMFAG00000017163__Macaca_fascicularis),ENSTGEG00000012681__Theropithecus_gelada),(ENSEASG00005000933__Equus_asinus_asinus,ENSECAG00000039578__Equus_caballus));

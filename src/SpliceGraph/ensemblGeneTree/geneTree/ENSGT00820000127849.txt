@@ -1,0 +1,1 @@
+((ENSTNIG00000002201__Tetraodon_nigroviridis,ENSTRUG00000020807__Takifugu_rubripes),ENSEEUG00000007115__Erinaceus_europaeus);

@@ -1,0 +1,1 @@
+((ENSMODG00000014178__Monodelphis_domestica,ENSSSCG00000037256__Sus_scrofa),ENSAPLG00000019572__Anas_platyrhynchos_platyrhynchos);

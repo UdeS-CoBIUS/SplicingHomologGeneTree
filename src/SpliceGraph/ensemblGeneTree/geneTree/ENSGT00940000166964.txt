@@ -1,0 +1,1 @@
+((ENSTRUG00000020705__Takifugu_rubripes,ENSTRUG00000025638__Takifugu_rubripes),((((ENSVPAG00000002201__Vicugna_pacos,ENSTTRG00000013372__Tursiops_truncatus),ENSPVAG00000004723__Pteropus_vampyrus),ENSOPRG00000011554__Ochotona_princeps),ENSETEG00000010445__Echinops_telfairi));

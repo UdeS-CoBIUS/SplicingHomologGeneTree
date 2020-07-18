@@ -1,0 +1,1 @@
+((((ENSFCAG00000036339__Felis_catus,ENSFCAG00000039848__Felis_catus),ENSPTEG00000023227__Piliocolobus_tephrosceles),ENSPCIG00000018051__Phascolarctos_cinereus),ENSNMEG00000012292__Numida_meleagris);

@@ -1,1 +1,0 @@
-((ENSDNOG00000007044__Dasypus_novemcinctus,ENSDNOG00000037831__Dasypus_novemcinctus),(ENSDNOG00000039134__Dasypus_novemcinctus,ENSDNOG00000032128__Dasypus_novemcinctus));

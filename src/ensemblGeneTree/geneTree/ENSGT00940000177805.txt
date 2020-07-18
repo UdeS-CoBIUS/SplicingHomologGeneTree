@@ -1,0 +1,1 @@
+((((ENSAPEG00000005152__Amphiprion_percula,ENSAOCG00000012077__Amphiprion_ocellaris),ENSSPAG00000006292__Stegastes_partitus),((ENSPREG00000020624__Poecilia_reticulata,ENSXMAG00000029630__Xiphophorus_maculatus),ENSPNYG00000013151__Pundamilia_nyererei)),(ENSATEG00000009777__Anabas_testudineus,ENSSLDG00000020135__Seriola_lalandi_dorsalis));

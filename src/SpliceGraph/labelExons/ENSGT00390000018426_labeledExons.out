@@ -1,0 +1,32 @@
+>0
+ENSDCDT00000073928: ['exon skipping', 0, 0]
+ENSCHAT00000005568: ['no event', 2, 0]
+ENSAMXT00000034163: ['exon skipping', 0, 0]
+>1
+ENSDCDT00000073928: ['5event', 21, 0]
+ENSCHAT00000005568: ['exon skipping', 0, 0]
+ENSAMXT00000034163: ['5event', 21, 0]
+>2
+ENSDCDT00000073928: ['no event', 170, 1]
+ENSCHAT00000005568: ['exon skipping', 0, 0]
+ENSAMXT00000034163: ['no event', 170, 1]
+>3
+ENSDCDT00000073928: ['no event', 8, 1]
+ENSCHAT00000005568: ['exon skipping', 0, 0]
+ENSAMXT00000034163: ['exon skipping', 0, 0]
+>4
+ENSDCDT00000073928: ['no event', 82, 1]
+ENSCHAT00000005568: ['exon skipping', 0, 0]
+ENSAMXT00000034163: ['5event', 79, 1]
+>5
+ENSDCDT00000073928: ['exon skipping', 0, 0]
+ENSCHAT00000005568: ['5event', 442, 0]
+ENSAMXT00000034163: ['exon skipping', 0, 0]
+>6
+ENSDCDT00000073928: ['5event', 169, 0]
+ENSCHAT00000005568: ['exon skipping', 0, 0]
+ENSAMXT00000034163: ['5event', 169, 0]
+>7
+ENSDCDT00000073928: ['no event', 22, 2]
+ENSCHAT00000005568: ['5event', 21, 2]
+ENSAMXT00000034163: ['no event', 22, 2]

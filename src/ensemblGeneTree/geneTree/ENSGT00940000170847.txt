@@ -1,0 +1,1 @@
+(((FBgn0031952__Drosophila_melanogaster,WBGene00000383__Caenorhabditis_elegans_strain_N2),((ENSHBUG00000020538__Haplochromis_burtoni,ENSFHEG00000002741__Fundulus_heteroclitus),ENSDARG00000013858__Danio_rerio)),YFR028C__Saccharomyces_cerevisiae_strain_S288C);

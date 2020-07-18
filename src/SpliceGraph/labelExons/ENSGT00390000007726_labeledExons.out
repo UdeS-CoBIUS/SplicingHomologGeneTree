@@ -1,0 +1,72 @@
+>0
+ENSPKIT00000010335: ['no event', 153, 0]
+ENSSFOT00015030210: [['internal gap < 30', 98, 6], 147, 0]
+ENSSFOT00015030252: [['internal gap < 30', 98, 6], 147, 0]
+>1
+ENSPKIT00000010335: ['exon skipping', 0, 0]
+ENSSFOT00015030210: ['exon skipping', 0, 0]
+ENSSFOT00015030252: ['no event', 81, 1]
+>2
+ENSPKIT00000010335: ['5event', 51, 1]
+ENSSFOT00015030210: ['5event', 51, 1]
+ENSSFOT00015030252: ['exon skipping', 0, 0]
+>3
+ENSPKIT00000010335: ['exon skipping', 0, 0]
+ENSSFOT00015030210: ['exon skipping', 0, 0]
+ENSSFOT00015030252: ['5event', 14, 2]
+>4
+ENSPKIT00000010335: ['5event', 97, 2]
+ENSSFOT00015030210: ['5event', 97, 2]
+ENSSFOT00015030252: ['no event', 98, 2]
+>5
+ENSPKIT00000010335: ['no event', 130, 1]
+ENSSFOT00015030210: ['no event', 130, 1]
+ENSSFOT00015030252: ['no event', 130, 1]
+>6
+ENSPKIT00000010335: ['no event', 171, 0]
+ENSSFOT00015030210: ['no event', 171, 0]
+ENSSFOT00015030252: ['no event', 171, 0]
+>7
+ENSPKIT00000010335: ['no event', 98, 1]
+ENSSFOT00015030210: ['no event', 98, 1]
+ENSSFOT00015030252: ['no event', 98, 1]
+>8
+ENSPKIT00000010335: ['no event', 284, 1]
+ENSSFOT00015030210: ['no event', 284, 1]
+ENSSFOT00015030252: ['no event', 284, 1]
+>9
+ENSPKIT00000010335: ['no event', 158, 1]
+ENSSFOT00015030210: ['no event', 158, 1]
+ENSSFOT00015030252: ['no event', 158, 1]
+>10
+ENSPKIT00000010335: ['no event', 604, 1]
+ENSSFOT00015030210: [['internal gap < 30', 229, 27], 577, 1]
+ENSSFOT00015030252: [['internal gap < 30', 229, 27], 577, 1]
+>11
+ENSPKIT00000010335: ['no event', 174, 0]
+ENSSFOT00015030210: ['no event', 174, 0]
+ENSSFOT00015030252: ['no event', 174, 0]
+>12
+ENSPKIT00000010335: ['no event', 85, 1]
+ENSSFOT00015030210: ['no event', 85, 1]
+ENSSFOT00015030252: ['no event', 85, 1]
+>13
+ENSPKIT00000010335: ['no event', 104, 0]
+ENSSFOT00015030210: ['no event', 104, 0]
+ENSSFOT00015030252: ['no event', 104, 0]
+>14
+ENSPKIT00000010335: ['no event', 136, 0]
+ENSSFOT00015030210: [['internal gap >= 30', 55, 48], 88, 0]
+ENSSFOT00015030252: [['internal gap >= 30', 55, 48], 88, 0]
+>15
+ENSPKIT00000010335: ['no event', 192, 2]
+ENSSFOT00015030210: ['no event', 192, 2]
+ENSSFOT00015030252: ['no event', 192, 2]
+>16
+ENSPKIT00000010335: ['no event', 165, 0]
+ENSSFOT00015030210: ['no event', 165, 0]
+ENSSFOT00015030252: ['no event', 165, 0]
+>17
+ENSPKIT00000010335: ['no event', 136, 1]
+ENSSFOT00015030210: ['no event', 136, 1]
+ENSSFOT00015030252: ['no event', 136, 1]

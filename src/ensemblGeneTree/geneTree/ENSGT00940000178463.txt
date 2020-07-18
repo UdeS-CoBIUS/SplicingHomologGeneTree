@@ -1,0 +1,1 @@
+((((ENSGAFG00000009293__Gambusia_affinis,ENSPMEG00000009428__Poecilia_mexicana),ENSFHEG00000004269__Fundulus_heteroclitus),ENSTRUG00000022758__Takifugu_rubripes),ENSPMGG00000013089__Periophthalmus_magnuspinnatus);

@@ -1,0 +1,6 @@
+PANTHERAPARDUS	panthera_pardus
+URSUSMARITIMUS	ursus_maritimus
+OCTODONDEGUS	octodon_degus
+MUSSPICILEGUS	mus_spicilegus
+RHINOPITHECUSBIETI	rhinopithecus_bieti
+RHINOPITHECUSROXELLANA	rhinopithecus_roxellana

@@ -1,0 +1,112 @@
+>0
+ENSSSCT00000079447: ['no event', 336, 0]
+ENSSSCT00000085639: ['no event', 336, 0]
+ENSSSCT00000060476: ['exon skipping', 0, 0]
+>1
+ENSSSCT00000079447: ['no event', 78, 1]
+ENSSSCT00000085639: ['no event', 78, 1]
+ENSSSCT00000060476: ['exon skipping', 0, 0]
+>2
+ENSSSCT00000079447: [['internal gap < 30', 2, 18], 112, 2]
+ENSSSCT00000085639: [['internal gap < 30', 2, 18], 112, 2]
+ENSSSCT00000060476: ['5event', 110, 0]
+>3
+ENSSSCT00000079447: [['internal gap >= 30', 94, 210], 148, 1]
+ENSSSCT00000085639: [['internal gap >= 30', 94, 210], 148, 1]
+ENSSSCT00000060476: [['internal gap >= 30', 94, 210], 148, 1]
+>4
+ENSSSCT00000079447: ['no event', 86, 0]
+ENSSSCT00000085639: ['no event', 86, 0]
+ENSSSCT00000060476: ['no event', 86, 0]
+>5
+ENSSSCT00000079447: [['internal gap >= 30', 60, 874], 116, 0]
+ENSSSCT00000085639: [['internal gap >= 30', 60, 874], 116, 0]
+ENSSSCT00000060476: [['internal gap >= 30', 60, 874], 116, 0]
+>6
+ENSSSCT00000079447: ['no event', 119, 0]
+ENSSSCT00000085639: ['no event', 119, 0]
+ENSSSCT00000060476: ['no event', 119, 0]
+>7
+ENSSSCT00000079447: ['no event', 149, 0]
+ENSSSCT00000085639: ['no event', 149, 0]
+ENSSSCT00000060476: ['no event', 149, 0]
+>8
+ENSSSCT00000079447: ['no event', 122, 0]
+ENSSSCT00000085639: ['no event', 122, 0]
+ENSSSCT00000060476: ['no event', 122, 0]
+>9
+ENSSSCT00000079447: ['no event', 76, 0]
+ENSSSCT00000085639: ['no event', 76, 0]
+ENSSSCT00000060476: ['no event', 76, 0]
+>10
+ENSSSCT00000079447: ['no event', 135, 2]
+ENSSSCT00000085639: ['no event', 135, 2]
+ENSSSCT00000060476: ['no event', 135, 2]
+>11
+ENSSSCT00000079447: ['no event', 95, 0]
+ENSSSCT00000085639: ['no event', 95, 0]
+ENSSSCT00000060476: ['no event', 95, 0]
+>12
+ENSSSCT00000079447: ['no event', 104, 0]
+ENSSSCT00000085639: ['no event', 104, 0]
+ENSSSCT00000060476: ['no event', 104, 0]
+>13
+ENSSSCT00000079447: ['no event', 135, 0]
+ENSSSCT00000085639: ['exon skipping', 0, 0]
+ENSSSCT00000060476: ['no event', 135, 0]
+>14
+ENSSSCT00000079447: ['no event', 94, 1]
+ENSSSCT00000085639: ['exon skipping', 0, 0]
+ENSSSCT00000060476: ['no event', 94, 1]
+>15
+ENSSSCT00000079447: ['no event', 149, 0]
+ENSSSCT00000085639: ['no event', 149, 0]
+ENSSSCT00000060476: ['no event', 149, 0]
+>16
+ENSSSCT00000079447: ['no event', 154, 0]
+ENSSSCT00000085639: ['no event', 154, 0]
+ENSSSCT00000060476: ['no event', 154, 0]
+>17
+ENSSSCT00000079447: ['no event', 144, 2]
+ENSSSCT00000085639: ['no event', 144, 2]
+ENSSSCT00000060476: ['no event', 144, 2]
+>18
+ENSSSCT00000079447: ['no event', 184, 0]
+ENSSSCT00000085639: ['no event', 184, 0]
+ENSSSCT00000060476: ['no event', 184, 0]
+>19
+ENSSSCT00000079447: ['no event', 48, 2]
+ENSSSCT00000085639: ['no event', 48, 2]
+ENSSSCT00000060476: ['no event', 48, 2]
+>20
+ENSSSCT00000079447: ['only gap', 0, 2]
+ENSSSCT00000085639: ['only gap', 0, 2]
+ENSSSCT00000060476: ['only gap', 0, 2]
+>21
+ENSSSCT00000079447: ['only gap', 0, 0]
+ENSSSCT00000085639: ['only gap', 0, 0]
+ENSSSCT00000060476: ['only gap', 0, 0]
+>22
+ENSSSCT00000079447: ['only gap', 0, 0]
+ENSSSCT00000085639: ['only gap', 0, 0]
+ENSSSCT00000060476: ['only gap', 0, 0]
+>23
+ENSSSCT00000079447: ['only gap', 0, 0]
+ENSSSCT00000085639: ['only gap', 0, 0]
+ENSSSCT00000060476: ['only gap', 0, 0]
+>24
+ENSSSCT00000079447: ['only gap', 0, 0]
+ENSSSCT00000085639: ['only gap', 0, 0]
+ENSSSCT00000060476: ['only gap', 0, 0]
+>25
+ENSSSCT00000079447: ['only gap', 0, 0]
+ENSSSCT00000085639: ['only gap', 0, 0]
+ENSSSCT00000060476: ['only gap', 0, 0]
+>26
+ENSSSCT00000079447: ['only gap', 0, 1]
+ENSSSCT00000085639: ['only gap', 0, 1]
+ENSSSCT00000060476: ['only gap', 0, 1]
+>27
+ENSSSCT00000079447: ['only gap', 0, 1]
+ENSSSCT00000085639: ['only gap', 0, 1]
+ENSSSCT00000060476: ['only gap', 0, 1]

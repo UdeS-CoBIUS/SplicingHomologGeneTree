@@ -1,0 +1,12 @@
+>0
+ENSNPET00000010089: ['no event', 146, 0]
+ENSCPUT00000013204: ['no event', 146, 0]
+>1
+ENSNPET00000010089: ['no event', 3, 0]
+ENSCPUT00000013204: ['exon skipping', 0, 0]
+>2
+ENSNPET00000010089: ['exon skipping', 0, 0]
+ENSCPUT00000013204: ['5event', 23, 0]
+>3
+ENSNPET00000010089: ['5event', 85, 1]
+ENSCPUT00000013204: ['exon skipping', 0, 0]

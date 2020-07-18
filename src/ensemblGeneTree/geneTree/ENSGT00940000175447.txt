@@ -1,0 +1,1 @@
+((ENSLAFG00000003009__Loxodonta_africana,ENSETEG00000019439__Echinops_telfairi),((ENSMPUG00000017237__Mustela_putorius_furo,ENSNVIG00000005476__Neovison_vison),(ENSBBBG00000012007__Bison_bison_bison,ENSBMUG00000009729__Bos_mutus)));

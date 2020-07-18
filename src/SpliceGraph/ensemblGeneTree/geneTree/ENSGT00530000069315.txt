@@ -1,0 +1,1 @@
+(((ENSPNYG00000005441__Pundamilia_nyererei,ENSPREG00000004630__Poecilia_reticulata),ENSGACG00000019592__Gasterosteus_aculeatus),ENSGMOG00000002852__Gadus_morhua);

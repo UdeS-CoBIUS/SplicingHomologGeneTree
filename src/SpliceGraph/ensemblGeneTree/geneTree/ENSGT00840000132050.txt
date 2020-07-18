@@ -1,0 +1,1 @@
+(ENSRNOG00000010449__Rattus_norvegicus,ENSRNOG00000010485__Rattus_norvegicus);

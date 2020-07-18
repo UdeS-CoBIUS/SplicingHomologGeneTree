@@ -1,0 +1,1 @@
+(ENSBMUG00000008890__Bos_mutus,ENSRNOG00000021499__Rattus_norvegicus);

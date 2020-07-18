@@ -1,0 +1,3 @@
+YIL120W_mRNA	YIL120W	Saccharomyces_cerevisiae_strain_S288C
+YNL065W_mRNA	YNL065W	Saccharomyces_cerevisiae_strain_S288C
+YIL121W_mRNA	YIL121W	Saccharomyces_cerevisiae_strain_S288C

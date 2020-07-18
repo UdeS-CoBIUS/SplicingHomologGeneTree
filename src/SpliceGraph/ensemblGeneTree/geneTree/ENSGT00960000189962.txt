@@ -1,0 +1,1 @@
+(((ENSUPAG00010014429__Urocitellus_parryii,ENSCCNG00000009151__Castor_canadensis),ENSPEMG00000024785__Peromyscus_maniculatus_bairdii),ENSUAMG00000027245__Ursus_americanus);

@@ -1,0 +1,1 @@
+(((ENSPTEG00000002764__Piliocolobus_tephrosceles,ENSOMEG00000013637__Oryzias_melastigma),FBgn0263396__Drosophila_melanogaster),YOL123W__Saccharomyces_cerevisiae_strain_S288C);

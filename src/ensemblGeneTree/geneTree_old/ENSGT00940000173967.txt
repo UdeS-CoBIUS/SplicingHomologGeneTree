@@ -1,1 +1,0 @@
-(((ENSPMGG00000022324__Periophthalmus_magnuspinnatus,ENSHCOG00000006017__Hippocampus_comes),ENSPFOG00000023082__Poecilia_formosa),ENSLOCG00000006658__Lepisosteus_oculatus);

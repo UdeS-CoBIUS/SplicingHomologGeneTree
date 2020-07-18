@@ -1,0 +1,1 @@
+(ENSDNVG00000004289__Dromaius_novaehollandiae,ENSXCOG00000002503__Xiphophorus_couchianus);

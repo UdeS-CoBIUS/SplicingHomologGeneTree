@@ -1,0 +1,1 @@
+((((((ENSMZEG00005027518__Maylandia_zebra,ENSMZEG00005004378__Maylandia_zebra),ENSNBRG00000016074__Neolamprologus_brichardi),(ENSPREG00000022970__Poecilia_reticulata,ENSPREG00000022967__Poecilia_reticulata)),ENSMALG00000021898__Monopterus_albus),(ENSATEG00000012286__Anabas_testudineus,ENSNBRG00000011254__Neolamprologus_brichardi)),ENSELUG00000007733__Esox_lucius);

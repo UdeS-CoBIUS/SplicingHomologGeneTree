@@ -1,0 +1,10 @@
+>0
+ENSCINT00000022586: [['internal gap >= 30', 117, 133], 246, 0]
+ENSCINT00000022589: [['internal gap >= 30', 195, 103], 276, 0]
+ENSCSAVT00000013953: ['exon skipping', 0, 0]
+ENSCSAVT00000013954: [['internal gap < 30', 136, 7], 372, 0]
+>1
+ENSCINT00000022586: ['3event', 486, 1]
+ENSCINT00000022589: ['3event', 477, 1]
+ENSCSAVT00000013953: ['5event', ['internal gap >= 30', 172, 356], 425, 0]
+ENSCSAVT00000013954: ['3event', 345, 1]

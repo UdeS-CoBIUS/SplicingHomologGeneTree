@@ -1,0 +1,1 @@
+(((((ENSTGUG00000013574__Taeniopygia_guttata,ENSCPGG00000016782__Calidris_pygmaea),ENSCPRG00005007656__Crocodylus_porosus),ENSSPUG00000006259__Sphenodon_punctatus),(ENSMOCG00000014105__Microtus_ochrogaster,ENSMAUG00000020199__Mesocricetus_auratus)),ENSIPUG00000002004__Ictalurus_punctatus);

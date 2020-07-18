@@ -1,0 +1,1 @@
+(((((((ENSMNEG00000022589__Macaca_nemestrina,ENSMFAG00000030378__Macaca_fascicularis),ENSMMUG00000040211__Macaca_mulatta),ENSTGEG00000009481__Theropithecus_gelada),ENSPANG00000031287__Papio_anubis),ENSCATG00000005820__Cercocebus_atys),ENSMLEG00000026445__Mandrillus_leucophaeus),ENSNLEG00000034232__Nomascus_leucogenys);

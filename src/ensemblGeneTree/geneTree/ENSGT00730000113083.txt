@@ -1,0 +1,1 @@
+((ENSOGAG00000028531__Otolemur_garnettii,ENSLCOG00000002593__Lepidothrix_coronata),ENSORLG00000023621__Oryzias_latipes_ASM223467v1);

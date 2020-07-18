@@ -1,0 +1,30 @@
+>0
+ENSDART00000165394: ['5event', 50, 0]
+ENSPNAT00000000773: [['internal gap < 30', 48, 3], 53, 0]
+>1
+ENSDART00000165394: ['no event', 42, 0]
+ENSPNAT00000000773: [['internal gap < 30', 27, 1], 41, 0]
+>2
+ENSDART00000165394: ['exon skipping', 0, 0]
+ENSPNAT00000000773: ['no event', 3, 0]
+>3
+ENSDART00000165394: ['5event', ['internal gap < 30', 46, 29], 95, 1]
+ENSPNAT00000000773: [['internal gap < 30', 88, 17], 107, 1]
+>4
+ENSDART00000165394: ['no event', 189, 1]
+ENSPNAT00000000773: [['internal gap < 30', 100, 6], 183, 1]
+>5
+ENSDART00000165394: ['no event', 364, 2]
+ENSPNAT00000000773: [['internal gap >= 30', 281, 57], 307, 2]
+>6
+ENSDART00000165394: ['3event', 153, 1]
+ENSPNAT00000000773: [['internal gap < 30', 120, 20], 134, 1]
+>7
+ENSDART00000165394: ['5event', 19, 1]
+ENSPNAT00000000773: ['no event', 23, 1]
+>8
+ENSDART00000165394: [['internal gap < 30', 99, 10], 198, 0]
+ENSPNAT00000000773: [['internal gap < 30', 61, 7], 201, 0]
+>9
+ENSDART00000165394: ['no event', 220, 1]
+ENSPNAT00000000773: [['internal gap < 30', 190, 6], 214, 1]

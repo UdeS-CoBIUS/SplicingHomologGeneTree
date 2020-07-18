@@ -1,0 +1,1 @@
+((ENSRNOG00000055023__Rattus_norvegicus,ENSSSCG00000030971__Sus_scrofa),ENSCABG00000022633__Chelonoidis_abingdonii);

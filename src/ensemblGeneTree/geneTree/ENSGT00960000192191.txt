@@ -1,0 +1,1 @@
+(ENSMSIG00000005408__Mus_spicilegus,MGP_SPRETEiJ_G0016144__Mus_spretus_strain_SPRET/EiJ);

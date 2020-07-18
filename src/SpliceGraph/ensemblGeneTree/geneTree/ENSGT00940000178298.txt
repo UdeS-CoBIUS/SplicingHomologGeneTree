@@ -1,0 +1,1 @@
+((((ENSSMAG00000003831__Scophthalmus_maximus,ENSLBEG00000002055__Labrus_bergylta),ENSACIG00000001908__Amphilophus_citrinellus),(ENSXCOG00000018621__Xiphophorus_couchianus,ENSMMOG00000021890__Mola_mola)),ENSPMGG00000022308__Periophthalmus_magnuspinnatus);

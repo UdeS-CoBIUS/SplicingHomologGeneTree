@@ -1,1 +1,0 @@
-(((ENSCAFG00000028973__Canis_lupus_familiaris,ENSAMEG00000005821__Ailuropoda_melanoleuca),ENSMPUG00000009733__Mustela_putorius_furo),ENSDNOG00000047430__Dasypus_novemcinctus);

@@ -1,1 +1,0 @@
-((((ENSPFOG00000022876__Poecilia_formosa,ENSGAFG00000003056__Gambusia_affinis),ENSORLG00000023207__Oryzias_latipes_ASM223467v1),ENSACIG00000006297__Amphilophus_citrinellus),((ENSSMAG00000019409__Scophthalmus_maximus,ENSCSEG00000006511__Cynoglossus_semilaevis),ENSSLDG00000000909__Seriola_lalandi_dorsalis));

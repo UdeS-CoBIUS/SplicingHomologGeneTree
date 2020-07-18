@@ -1,0 +1,1 @@
+(((ENSAMXG00000041607__Astyanax_mexicanus,ENSPNAG00000028212__Pygocentrus_nattereri),ENSACIG00000020947__Amphilophus_citrinellus),(((ENSZALG00000013759__Zonotrichia_albicollis,ENSSCAG00000006177__Serinus_canaria),(ENSNMEG00000004789__Numida_meleagris,ENSCJPG00005010508__Coturnix_japonica)),ENSNPEG00000004222__Nothoprocta_perdicaria));

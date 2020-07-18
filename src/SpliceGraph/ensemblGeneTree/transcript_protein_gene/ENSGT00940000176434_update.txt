@@ -1,0 +1,2 @@
+YMR170C_mRNA	YMR170C	Saccharomyces_cerevisiae_strain_S288C
+YMR169C_mRNA	YMR169C	Saccharomyces_cerevisiae_strain_S288C

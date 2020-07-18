@@ -1,0 +1,3 @@
+AMPHIPRIONPERCULA	amphiprion_percula
+AMPHIPRIONOCELLARIS	amphiprion_ocellaris
+MONOPTERUSALBUS	monopterus_albus

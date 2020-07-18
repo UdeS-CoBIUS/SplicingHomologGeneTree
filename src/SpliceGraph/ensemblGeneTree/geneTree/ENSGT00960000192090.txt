@@ -1,0 +1,1 @@
+(((((ENSMUSG00000116429__Mus_musculus_strain_reference_(CL57BL6),ENSPEMG00000025876__Peromyscus_maniculatus_bairdii),ENSCCNG00000031256__Castor_canadensis),(ENSMMMG00000011091__Marmota_marmota_marmota,ENSSDAG00000003133__Spermophilus_dauricus)),(ENSG00000285133__Homo_sapiens,ENSPSMG00000022521__Prolemur_simus)),ENSPCIG00000033705__Phascolarctos_cinereus);

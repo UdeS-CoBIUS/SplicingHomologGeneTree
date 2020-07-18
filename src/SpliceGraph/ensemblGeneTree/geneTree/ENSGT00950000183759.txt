@@ -1,0 +1,1 @@
+(((ENSPNYG00000017411__Pundamilia_nyererei,ENSHBUG00000022148__Haplochromis_burtoni),(ENSHBUG00000010143__Haplochromis_burtoni,ENSPNYG00000019533__Pundamilia_nyererei)),ENSNBRG00000011576__Neolamprologus_brichardi);

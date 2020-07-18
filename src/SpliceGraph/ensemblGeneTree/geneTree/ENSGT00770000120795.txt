@@ -1,0 +1,1 @@
+((((ENSXETG00000033487__Xenopus_tropicalis,ENSXETG00000032742__Xenopus_tropicalis),ENSXETG00000032378__Xenopus_tropicalis),(ENSXETG00000032508__Xenopus_tropicalis,ENSXETG00000032740__Xenopus_tropicalis)),(((ENSXETG00000032481__Xenopus_tropicalis,ENSXETG00000033597__Xenopus_tropicalis),ENSXETG00000031067__Xenopus_tropicalis),ENSXETG00000031814__Xenopus_tropicalis));

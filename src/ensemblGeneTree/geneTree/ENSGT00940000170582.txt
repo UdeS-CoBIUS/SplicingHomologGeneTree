@@ -1,0 +1,1 @@
+(((ENSCPOG00000038973__Cavia_porcellus,ENSCLAG00000002299__Chinchilla_lanigera),ENSMOCG00000018838__Microtus_ochrogaster),ENSECAG00000032595__Equus_caballus);

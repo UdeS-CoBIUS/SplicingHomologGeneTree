@@ -1,1 +1,0 @@
-((((ENSLBEG00000025259__Labrus_bergylta,ENSTRUG00000024113__Takifugu_rubripes),(ENSONIG00000020917__Oreochromis_niloticus,ENSPFOG00000020187__Poecilia_formosa)),ENSGMOG00000020268__Gadus_morhua),ENSLOCG00000017890__Lepisosteus_oculatus);

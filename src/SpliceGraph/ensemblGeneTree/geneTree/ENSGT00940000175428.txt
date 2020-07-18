@@ -1,0 +1,1 @@
+((((ENSAPEG00000015911__Amphiprion_percula,ENSAOCG00000002270__Amphiprion_ocellaris),ENSFHEG00000005163__Fundulus_heteroclitus),((ENSAOCG00000022462__Amphiprion_ocellaris,ENSAOCG00000011581__Amphiprion_ocellaris),ENSATEG00000000586__Anabas_testudineus)),(ENSXETG00000004392__Xenopus_tropicalis,ENSZALG00000005115__Zonotrichia_albicollis));

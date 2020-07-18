@@ -1,1 +1,0 @@
-((ENSPCOG00000019027__Propithecus_coquereli,ENSTBEG00000014989__Tupaia_belangeri),((ENSUAMG00000006640__Ursus_americanus,ENSTTRG00000001593__Tursiops_truncatus),ENSPVAG00000004288__Pteropus_vampyrus));

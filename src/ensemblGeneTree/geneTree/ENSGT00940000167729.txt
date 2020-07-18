@@ -1,0 +1,1 @@
+(((((((ENSRBIG00000031252__Rhinopithecus_bieti,ENSRROG00000043397__Rhinopithecus_roxellana),ENSCATG00000037926__Cercocebus_atys),ENSNLEG00000035815__Nomascus_leucogenys),ENSCCAG00000028237__Cebus_capucinus_imitator),ENSTSYG00000025829__Carlito_syrichta),ENSSDAG00000012181__Spermophilus_dauricus),(ENSVVUG00000010967__Vulpes_vulpes,ENSVVUG00000007461__Vulpes_vulpes));

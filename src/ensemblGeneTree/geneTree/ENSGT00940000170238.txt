@@ -1,0 +1,1 @@
+(((ENSNGAG00000017174__Nannospalax_galili,ENSJJAG00000018076__Jaculus_jaculus),ENSODEG00000005387__Octodon_degus),(ENSUMAG00000000667__Ursus_maritimus,ENSBBBG00000012916__Bison_bison_bison));

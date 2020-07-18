@@ -1,1 +1,0 @@
-(((ENSPSIG00000009606__Pelodiscus_sinensis,ENSPSIG00000013785__Pelodiscus_sinensis),ENSACAG00000025306__Anolis_carolinensis),ENSCAFG00020001960__Canis_lupus_dingo);

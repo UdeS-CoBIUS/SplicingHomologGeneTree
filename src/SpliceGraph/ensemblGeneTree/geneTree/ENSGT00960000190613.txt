@@ -1,0 +1,1 @@
+((ENSSCAG00000000700__Serinus_canaria,ENSCPGG00000008686__Calidris_pygmaea),ENSCPBG00000023241__Chrysemys_picta_bellii);

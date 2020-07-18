@@ -1,0 +1,3 @@
+URSUSAMERICANUS	ursus_americanus
+CASTORCANADENSIS	castor_canadensis
+SARCOPHILUSHARRISII	sarcophilus_harrisii

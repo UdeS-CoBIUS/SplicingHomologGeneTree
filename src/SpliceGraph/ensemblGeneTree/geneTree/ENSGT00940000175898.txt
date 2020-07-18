@@ -1,0 +1,1 @@
+(ENSGGOG00000042146__Gorilla_gorilla,ENSCANG00000042532__Colobus_angolensis_palliatus);

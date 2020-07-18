@@ -1,0 +1,1 @@
+((ENSFHEG00000015883__Fundulus_heteroclitus,ENSFHEG00000005502__Fundulus_heteroclitus),ENSTRUG00000025514__Takifugu_rubripes);

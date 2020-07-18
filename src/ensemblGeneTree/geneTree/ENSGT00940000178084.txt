@@ -1,0 +1,1 @@
+((((((ENSACIG00000020015__Amphilophus_citrinellus,ENSACIG00000014956__Amphilophus_citrinellus),ENSACIG00000015307__Amphilophus_citrinellus),ENSNBRG00000005776__Neolamprologus_brichardi),ENSSLDG00000013920__Seriola_lalandi_dorsalis),ENSSPAG00000003265__Stegastes_partitus),ENSLBEG00000023589__Labrus_bergylta);

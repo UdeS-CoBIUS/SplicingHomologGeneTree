@@ -1,1 +1,0 @@
-(((ENSUAMG00000006799__Ursus_americanus,ENSSSCG00000039084__Sus_scrofa),ENSSARG00000001049__Sorex_araneus),(((ENSSDAG00000011834__Spermophilus_dauricus,ENSMMMG00000016017__Marmota_marmota_marmota),ENSCCNG00000020818__Castor_canadensis),ENSTBEG00000008663__Tupaia_belangeri));

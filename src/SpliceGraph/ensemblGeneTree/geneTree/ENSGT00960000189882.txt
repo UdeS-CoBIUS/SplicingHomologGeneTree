@@ -1,0 +1,1 @@
+((ENSMAUG00000020374__Mesocricetus_auratus,ENSPEMG00000030146__Peromyscus_maniculatus_bairdii),(ENSMUGG00000019856__Meriones_unguiculatus,ENSMSIG00000007511__Mus_spicilegus));

@@ -1,0 +1,18 @@
+>0
+ENSBSLT00000022703: ['exon skipping', 0, 0]
+ENSAMXT00000053693: ['no event', 87, 0]
+>1
+ENSBSLT00000022703: ['5event', 140, 0]
+ENSAMXT00000053693: ['no event', 152, 1]
+>2
+ENSBSLT00000022703: ['exon skipping', 0, 0]
+ENSAMXT00000053693: ['no event', 70, 0]
+>3
+ENSBSLT00000022703: ['5event', 4, 0]
+ENSAMXT00000053693: ['exon skipping', 0, 0]
+>4
+ENSBSLT00000022703: ['no event', 63, 2]
+ENSAMXT00000053693: ['exon skipping', 0, 0]
+>5
+ENSBSLT00000022703: ['exon skipping', 0, 0]
+ENSAMXT00000053693: ['5event', 21, 2]

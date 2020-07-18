@@ -1,0 +1,1 @@
+(((ENSPVIG00000020486__Pogona_vitticeps,ENSCPUG00000019762__Calidris_pugnax),ENSEASG00005002267__Equus_asinus_asinus),ENSAMXG00000033893__Astyanax_mexicanus);

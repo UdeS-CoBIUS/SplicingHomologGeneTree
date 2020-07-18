@@ -1,1 +1,0 @@
-(ENSLACG00000014677__Latimeria_chalumnae,ENSPFOG00000024477__Poecilia_formosa);

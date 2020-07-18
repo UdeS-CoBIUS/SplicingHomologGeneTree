@@ -1,0 +1,1 @@
+(((((ENSXMAG00000008496__Xiphophorus_maculatus,ENSXCOG00000003152__Xiphophorus_couchianus),ENSPFOG00000002710__Poecilia_formosa),ENSONIG00000007932__Oreochromis_niloticus),ENSPFOG00000024020__Poecilia_formosa),ENSSFOG00015001306__Scleropages_formosus);

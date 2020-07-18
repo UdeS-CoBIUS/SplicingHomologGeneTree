@@ -1,0 +1,1 @@
+((ENSHGLG00100018730__Heterocephalus_glaber_HetGla_1.0,ENSHGLG00000007276__Heterocephalus_glaber_HetGla_female_1.0),(ENSUMAG00000019732__Ursus_maritimus,ENSUAMG00000020835__Ursus_americanus));

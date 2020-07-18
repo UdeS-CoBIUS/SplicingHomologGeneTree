@@ -1,0 +1,1 @@
+((((ENSCSAVG00000009761__Ciona_savignyi,ENSCING00000004527__Ciona_intestinalis),ENSPTEG00000001943__Piliocolobus_tephrosceles),(FBgn0010590__Drosophila_melanogaster,WBGene00003947__Caenorhabditis_elegans_strain_N2)),YJL001W__Saccharomyces_cerevisiae_strain_S288C);

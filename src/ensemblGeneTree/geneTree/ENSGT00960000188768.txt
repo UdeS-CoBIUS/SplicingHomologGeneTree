@@ -1,0 +1,1 @@
+((ENSCSEG00000002204__Cynoglossus_semilaevis,ENSCSEG00000002196__Cynoglossus_semilaevis),ENSTGUG00000018274__Taeniopygia_guttata);

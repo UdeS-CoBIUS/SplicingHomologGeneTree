@@ -1,0 +1,1 @@
+(((ENSSLDG00000007922__Seriola_lalandi_dorsalis,ENSSDUG00000015743__Seriola_dumerili),(ENSTRUG00000024153__Takifugu_rubripes,ENSTRUG00000021428__Takifugu_rubripes)),ENSLOCG00000001365__Lepisosteus_oculatus);

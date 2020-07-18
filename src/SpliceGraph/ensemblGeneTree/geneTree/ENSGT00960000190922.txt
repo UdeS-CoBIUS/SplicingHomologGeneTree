@@ -1,0 +1,1 @@
+((ENSLSDG00000016808__Lonchura_striata_domestica,ENSCJPG00005018965__Coturnix_japonica),ENSARWG00000015595__Apteryx_rowi);

@@ -1,0 +1,1 @@
+((((ENSTRUG00000022004__Takifugu_rubripes,ENSFHEG00000000451__Fundulus_heteroclitus),ENSELUG00000005027__Esox_lucius),ENSCGRG00000002650__Cricetulus_griseus_CriGri_1.0),ENSEBUG00000009777__Eptatretus_burgeri);

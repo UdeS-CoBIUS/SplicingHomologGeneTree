@@ -1,0 +1,75 @@
+>0
+ENSXCOT00000005928: ['exon skipping', 0, 0]
+ENSXMAT00000002364: ['no event', 16, 0]
+ENSGAFT00000018570: ['exon skipping', 0, 0]
+ENSMALT00000032450: ['exon skipping', 0, 0]
+>1
+ENSXCOT00000005928: ['exon skipping', 0, 0]
+ENSXMAT00000002364: ['no event', 30, 2]
+ENSGAFT00000018570: ['exon skipping', 0, 0]
+ENSMALT00000032450: ['exon skipping', 0, 0]
+>2
+ENSXCOT00000005928: ['exon skipping', 0, 0]
+ENSXMAT00000002364: ['exon skipping', 0, 0]
+ENSGAFT00000018570: ['5event', 32, 0]
+ENSMALT00000032450: ['exon skipping', 0, 0]
+>3
+ENSXCOT00000005928: ['5event', 47, 0]
+ENSXMAT00000002364: ['exon skipping', 0, 0]
+ENSGAFT00000018570: ['exon skipping', 0, 0]
+ENSMALT00000032450: ['exon skipping', 0, 0]
+>4
+ENSXCOT00000005928: ['no event', 41, 0]
+ENSXMAT00000002364: ['exon skipping', 0, 0]
+ENSGAFT00000018570: ['exon skipping', 0, 0]
+ENSMALT00000032450: ['exon skipping', 0, 0]
+>5
+ENSXCOT00000005928: ['no event', 147, 0]
+ENSXMAT00000002364: ['5event', 145, 0]
+ENSGAFT00000018570: ['5event', 145, 0]
+ENSMALT00000032450: ['5event', 102, 0]
+>6
+ENSXCOT00000005928: ['no event', 91, 2]
+ENSXMAT00000002364: ['no event', 91, 2]
+ENSGAFT00000018570: ['no event', 91, 2]
+ENSMALT00000032450: ['no event', 91, 1]
+>7
+ENSXCOT00000005928: ['exon skipping', 0, 0]
+ENSXMAT00000002364: ['no event', 8, 1]
+ENSGAFT00000018570: ['exon skipping', 0, 0]
+ENSMALT00000032450: ['no event', 8, 0]
+>8
+ENSXCOT00000005928: ['5event', 16, 1]
+ENSXMAT00000002364: ['exon skipping', 0, 0]
+ENSGAFT00000018570: ['5event', 16, 1]
+ENSMALT00000032450: ['exon skipping', 0, 0]
+>9
+ENSXCOT00000005928: ['no event', 75, 0]
+ENSXMAT00000002364: ['5event', 74, 0]
+ENSGAFT00000018570: ['no event', 75, 0]
+ENSMALT00000032450: ['5event', 74, 0]
+>10
+ENSXCOT00000005928: [['internal gap < 30', 18, 6], 77, 0]
+ENSXMAT00000002364: [['internal gap < 30', 18, 6], 77, 0]
+ENSGAFT00000018570: [['internal gap < 30', 18, 6], 77, 0]
+ENSMALT00000032450: ['no event', 83, 0]
+>11
+ENSXCOT00000005928: ['no event', 77, 0]
+ENSXMAT00000002364: ['no event', 77, 0]
+ENSGAFT00000018570: ['no event', 77, 0]
+ENSMALT00000032450: ['no event', 77, 0]
+>12
+ENSXCOT00000005928: ['no event', 110, 0]
+ENSXMAT00000002364: ['no event', 110, 0]
+ENSGAFT00000018570: ['no event', 110, 0]
+ENSMALT00000032450: ['no event', 110, 0]
+>13
+ENSXCOT00000005928: ['no event', 122, 0]
+ENSXMAT00000002364: ['no event', 122, 0]
+ENSGAFT00000018570: ['no event', 122, 0]
+ENSMALT00000032450: ['no event', 122, 0]
+>14
+ENSXCOT00000005928: ['no event', 47, 0]
+ENSXMAT00000002364: ['no event', 47, 0]
+ENSGAFT00000018570: ['no event', 47, 0]
+ENSMALT00000032450: ['no event', 47, 0]

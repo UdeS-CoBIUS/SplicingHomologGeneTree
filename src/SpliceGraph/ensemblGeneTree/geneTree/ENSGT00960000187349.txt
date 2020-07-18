@@ -1,0 +1,1 @@
+((((ENSAMXG00000032391__Astyanax_mexicanus,ENSAMXG00000036744__Astyanax_mexicanus),ENSAMXG00000039632__Astyanax_mexicanus),(ENSPNAG00000015744__Pygocentrus_nattereri,ENSPNAG00000008694__Pygocentrus_nattereri)),ENSFALG00000014122__Ficedula_albicollis);

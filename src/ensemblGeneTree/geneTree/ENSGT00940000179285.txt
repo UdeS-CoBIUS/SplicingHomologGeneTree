@@ -1,0 +1,1 @@
+((ENSLSDG00000017701__Lonchura_striata_domestica,ENSCCNG00000026538__Castor_canadensis),(ENSAOCG00000017334__Amphiprion_ocellaris,ENSAOCG00000006065__Amphiprion_ocellaris));

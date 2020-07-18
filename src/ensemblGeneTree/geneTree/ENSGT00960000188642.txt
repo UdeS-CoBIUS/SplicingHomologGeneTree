@@ -1,0 +1,1 @@
+(((((ENSCPOG00000024733__Cavia_porcellus,ENSCAPG00000016132__Cavia_aperea),ENSHGLG00100012642__Heterocephalus_glaber_HetGla_1.0),ENSODEG00000011167__Octodon_degus),ENSCLAG00000005120__Chinchilla_lanigera),ENSSTOG00000008910__Ictidomys_tridecemlineatus);

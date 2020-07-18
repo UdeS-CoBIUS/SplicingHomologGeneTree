@@ -1,0 +1,1 @@
+((((ENSORLG00020007617__Oryzias_latipes_ASM223471v1,ENSORLG00015021732__Oryzias_latipes_ASM223469v1),ENSOMEG00000008272__Oryzias_melastigma),ENSFHEG00000008431__Fundulus_heteroclitus),ENSEASG00005008393__Equus_asinus_asinus);

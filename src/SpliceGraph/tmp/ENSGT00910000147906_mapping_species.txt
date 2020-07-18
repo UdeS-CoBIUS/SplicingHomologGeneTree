@@ -1,0 +1,6 @@
+PANPANISCUS	pan_paniscus
+PANTROGLODYTES	pan_troglodytes
+NOMASCUSLEUCOGENYS	nomascus_leucogenys
+PAPIOANUBIS	papio_anubis
+THEROPITHECUSGELADA	theropithecus_gelada
+AOTUSNANCYMAAE	aotus_nancymaae

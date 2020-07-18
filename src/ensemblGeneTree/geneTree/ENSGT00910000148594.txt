@@ -1,0 +1,1 @@
+(ENSETEG00000003414__Echinops_telfairi,ENSCCAG00000026277__Cebus_capucinus_imitator);

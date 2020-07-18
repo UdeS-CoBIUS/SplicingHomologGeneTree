@@ -1,0 +1,1 @@
+(((((ENSGGOG00000036817__Gorilla_gorilla,ENSPTRG00000043925__Pan_troglodytes),(ENSGGOG00000038230__Gorilla_gorilla,ENSPPAG00000041671__Pan_paniscus)),ENSRBIG00000031561__Rhinopithecus_bieti),ENSCHIG00000016691__Capra_hircus),((ENSZALG00000011273__Zonotrichia_albicollis,ENSNPEG00000002603__Nothoprocta_perdicaria),ENSCPRG00005015974__Crocodylus_porosus));

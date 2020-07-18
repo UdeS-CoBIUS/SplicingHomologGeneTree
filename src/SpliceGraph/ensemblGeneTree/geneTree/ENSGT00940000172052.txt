@@ -1,0 +1,1 @@
+(((ENSMNEG00000030215__Macaca_nemestrina,ENSPCOG00000001716__Propithecus_coquereli),(ENSUAMG00000008666__Ursus_americanus,ENSBTAG00000050981__Bos_taurus)),(ENSAPLG00000025579__Anas_platyrhynchos_platyrhynchos,ENSAPLG00000019953__Anas_platyrhynchos_platyrhynchos));

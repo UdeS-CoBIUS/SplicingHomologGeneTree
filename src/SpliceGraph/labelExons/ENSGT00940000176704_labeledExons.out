@@ -1,0 +1,8 @@
+>0
+YBR117C_mRNA: [['internal gap < 30', 1116, 2], 2045, 0]
+YPR074C_mRNA: [['internal gap < 30', 1728, 5], 2042, 0]
+ENSHHUT00000029078: ['3event', '5event', 331, 0]
+>1
+YBR117C_mRNA: ['exon skipping', 0, 0]
+YPR074C_mRNA: ['exon skipping', 0, 0]
+ENSHHUT00000029078: ['5event', 16, 1]

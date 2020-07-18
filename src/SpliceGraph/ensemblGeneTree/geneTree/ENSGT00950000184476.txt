@@ -1,0 +1,1 @@
+(((ENSMMMG00000023819__Marmota_marmota_marmota,ENSUPAG00010018916__Urocitellus_parryii),ENSSDAG00000009711__Spermophilus_dauricus),ENSMMUG00000017530__Macaca_mulatta);

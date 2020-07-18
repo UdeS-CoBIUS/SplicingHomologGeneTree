@@ -1,0 +1,1 @@
+((ENSCABG00000002607__Chelonoidis_abingdonii,ENSAPLG00000028575__Anas_platyrhynchos_platyrhynchos),(ENSSFOG00015018983__Scleropages_formosus,ENSSFOG00015018990__Scleropages_formosus));

@@ -1,1 +1,0 @@
-(ENSABRG00000002632__Anser_brachyrhynchus,ENSNSUG00000006985__Notechis_scutatus);

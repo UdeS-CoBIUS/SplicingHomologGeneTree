@@ -1,1 +1,0 @@
-(ENSAPOG00000013180__Acanthochromis_polyacanthus,ENSMMOG00000012405__Mola_mola);

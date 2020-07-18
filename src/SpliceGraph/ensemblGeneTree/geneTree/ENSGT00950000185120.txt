@@ -1,0 +1,1 @@
+((ENSSPUG00000010604__Sphenodon_punctatus,ENSCPBG00000016583__Chrysemys_picta_bellii),(ENSSSCG00000031316__Sus_scrofa,ENSUMAG00000017094__Ursus_maritimus));

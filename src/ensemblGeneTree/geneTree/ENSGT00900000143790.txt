@@ -1,0 +1,1 @@
+(((((ENSMSIG00000016775__Mus_spicilegus,ENSMSIG00000015704__Mus_spicilegus),ENSMSIG00000015920__Mus_spicilegus),ENSRNOG00000057851__Rattus_norvegicus),ENSMUGG00000013583__Meriones_unguiculatus),((ENSCGRG00001023711__Cricetulus_griseus_CHOK1GS_HDv1,ENSCGRG00000008180__Cricetulus_griseus_CriGri_1.0),ENSCGRG00015013658__Cricetulus_griseus_CriGri-PICR));

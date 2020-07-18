@@ -1,0 +1,8 @@
+>0
+ENSCSAVT00000003006: ['5event', ['internal gap >= 30', 198, 37], 207, 0]
+ENSCSAVT00000003288: [['internal gap >= 30', 105, 45], 199, 0]
+ENSCINT00000022587: ['5event', ['internal gap < 30', 216, 19], 225, 0]
+>1
+ENSCSAVT00000003006: ['3event', 216, 1]
+ENSCSAVT00000003288: ['3event', '5event', 230, 1]
+ENSCINT00000022587: [['internal gap < 30', 194, 25], 214, 1]

@@ -1,1 +1,0 @@
-(ENSATEG00000016947__Anabas_testudineus,ENSLBEG00000021927__Labrus_bergylta);

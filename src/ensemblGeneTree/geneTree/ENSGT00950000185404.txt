@@ -1,0 +1,1 @@
+((((ENSUAMG00000019668__Ursus_americanus,ENSUMAG00000004028__Ursus_maritimus),(ENSSDAG00000018872__Spermophilus_dauricus,ENSOCUG00000037167__Oryctolagus_cuniculus)),ENSDNOG00000040789__Dasypus_novemcinctus),ENSZALG00000014755__Zonotrichia_albicollis);

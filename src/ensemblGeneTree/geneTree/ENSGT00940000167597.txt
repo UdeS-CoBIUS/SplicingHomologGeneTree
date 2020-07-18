@@ -1,0 +1,1 @@
+((((((ENSMVIG00005017275__Manacus_vitellinus,ENSMGAG00000011114__Meleagris_gallopavo),ENSACAG00000013795__Anolis_carolinensis),ENSPPYG00000014057__Pongo_abelii),(ENSPMEG00000010359__Poecilia_mexicana,ENSMALG00000006121__Monopterus_albus)),ENSTBEG00000008869__Tupaia_belangeri),WBGene00017033__Caenorhabditis_elegans_strain_N2);

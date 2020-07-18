@@ -1,0 +1,1 @@
+(((ENSLBEG00000006299__Labrus_bergylta,ENSPMGG00000018187__Periophthalmus_magnuspinnatus),(ENSORLG00000030508__Oryzias_latipes_ASM223467v1,ENSXMAG00000026656__Xiphophorus_maculatus)),ENSAMXG00000040869__Astyanax_mexicanus);

@@ -1,0 +1,1 @@
+(ENSMUSG00000058295__Mus_musculus_strain_reference_(CL57BL6),ENSMUSG00000059934__Mus_musculus_strain_reference_(CL57BL6));

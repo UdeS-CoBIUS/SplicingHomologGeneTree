@@ -1,0 +1,2 @@
+SCOPHTHALMUSMAXIMUS	scophthalmus_maximus
+CYPRINODONVARIEGATUS	cyprinodon_variegatus

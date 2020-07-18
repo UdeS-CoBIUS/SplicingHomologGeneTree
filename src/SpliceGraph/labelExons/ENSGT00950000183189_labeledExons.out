@@ -1,0 +1,66 @@
+>0
+ENSACAT00000000705: ['no event', 50, 0]
+ENSNSUT00000009390: ['exon skipping', 0, 0]
+>1
+ENSACAT00000000705: ['no event', 52, 0]
+ENSNSUT00000009390: ['exon skipping', 0, 0]
+>2
+ENSACAT00000000705: ['no event', 93, 2]
+ENSNSUT00000009390: ['exon skipping', 0, 0]
+>3
+ENSACAT00000000705: ['no event', 71, 0]
+ENSNSUT00000009390: ['exon skipping', 0, 0]
+>4
+ENSACAT00000000705: ['no event', 124, 0]
+ENSNSUT00000009390: ['exon skipping', 0, 0]
+>5
+ENSACAT00000000705: ['no event', 44, 2]
+ENSNSUT00000009390: ['exon skipping', 0, 0]
+>6
+ENSACAT00000000705: ['no event', 76, 2]
+ENSNSUT00000009390: ['exon skipping', 0, 0]
+>7
+ENSACAT00000000705: ['no event', 75, 1]
+ENSNSUT00000009390: ['exon skipping', 0, 0]
+>8
+ENSACAT00000000705: ['no event', 30, 2]
+ENSNSUT00000009390: ['exon skipping', 0, 0]
+>9
+ENSACAT00000000705: ['no event', 111, 0]
+ENSNSUT00000009390: ['exon skipping', 0, 0]
+>10
+ENSACAT00000000705: [['internal gap < 30', 43, 22], 78, 1]
+ENSNSUT00000009390: ['5event', ['internal gap < 30', 74, 17], 83, 0]
+>11
+ENSACAT00000000705: ['no event', 24, 1]
+ENSNSUT00000009390: ['exon skipping', 0, 0]
+>12
+ENSACAT00000000705: ['no event', 90, 2]
+ENSNSUT00000009390: ['exon skipping', 0, 0]
+>13
+ENSACAT00000000705: ['no event', 72, 0]
+ENSNSUT00000009390: ['exon skipping', 0, 0]
+>14
+ENSACAT00000000705: ['no event', 24, 1]
+ENSNSUT00000009390: ['exon skipping', 0, 0]
+>15
+ENSACAT00000000705: [['internal gap < 30', 217, 6], 246, 2]
+ENSNSUT00000009390: ['5event', ['internal gap >= 30', 136, 39], 213, 0]
+>16
+ENSACAT00000000705: [['internal gap < 30', 165, 3], 200, 1]
+ENSNSUT00000009390: ['no event', 203, 1]
+>17
+ENSACAT00000000705: ['no event', 200, 1]
+ENSNSUT00000009390: ['no event', 200, 1]
+>18
+ENSACAT00000000705: ['no event', 94, 1]
+ENSNSUT00000009390: ['no event', 94, 1]
+>19
+ENSACAT00000000705: ['exon skipping', 0, 0]
+ENSNSUT00000009390: ['only gap', 0, 0]
+>20
+ENSACAT00000000705: ['exon skipping', 0, 0]
+ENSNSUT00000009390: ['no event', 109, 1]
+>21
+ENSACAT00000000705: ['exon skipping', 0, 0]
+ENSNSUT00000009390: ['no event', 110, 0]

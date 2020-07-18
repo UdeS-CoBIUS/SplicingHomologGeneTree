@@ -1,0 +1,2 @@
+MELEAGRISGALLOPAVO	meleagris_gallopavo
+SPHENODONPUNCTATUS	sphenodon_punctatus

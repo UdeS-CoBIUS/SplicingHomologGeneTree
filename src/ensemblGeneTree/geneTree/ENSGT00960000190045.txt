@@ -1,0 +1,1 @@
+((ENSCJPG00005014390__Coturnix_japonica,ENSSCAG00000001612__Serinus_canaria),(ENSPVIG00000000658__Pogona_vitticeps,ENSPVIG00000010277__Pogona_vitticeps));

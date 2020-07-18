@@ -1,0 +1,1 @@
+((((ENSCHOG00000002508__Choloepus_hoffmanni,ENSPVAG00000014950__Pteropus_vampyrus),(ENSPCOG00000022164__Propithecus_coquereli,ENSCAFG00020011802__Canis_lupus_dingo)),ENSPVIG00000009444__Pogona_vitticeps),ENSPKIG00000001749__Paramormyrops_kingsleyae);

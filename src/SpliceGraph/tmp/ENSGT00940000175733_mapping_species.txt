@@ -1,0 +1,11 @@
+SCLEROPAGESFORMOSUS	scleropages_formosus
+PARAMORMYROPSKINGSLEYAE	paramormyrops_kingsleyae
+PYGOCENTRUSNATTERERI	pygocentrus_nattereri
+ASTYANAXMEXICANUS	astyanax_mexicanus
+ICTALURUSPUNCTATUS	ictalurus_punctatus
+ELECTROPHORUSELECTRICUS	electrophorus_electricus
+CLUPEAHARENGUS	clupea_harengus
+HUCHOHUCHO	hucho_hucho
+ESOXLUCIUS	esox_lucius
+LEPISOSTEUSOCULATUS	lepisosteus_oculatus
+XENOPUSTROPICALIS	xenopus_tropicalis

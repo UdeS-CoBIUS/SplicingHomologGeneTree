@@ -1,0 +1,1 @@
+((ENSCHOG00000013168__Choloepus_hoffmanni,ENSCHOG00000000123__Choloepus_hoffmanni),ENSSARG00000000868__Sorex_araneus);

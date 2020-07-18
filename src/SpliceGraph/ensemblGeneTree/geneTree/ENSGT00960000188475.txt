@@ -1,0 +1,1 @@
+((ENSPKIG00000004534__Paramormyrops_kingsleyae,ENSELUG00000015722__Esox_lucius),(((((ENSMVIG00005000934__Manacus_vitellinus,ENSLCOG00000003003__Lepidothrix_coronata),ENSSCAG00000002127__Serinus_canaria),(ENSCJPG00005003485__Coturnix_japonica,ENSCPGG00000005986__Calidris_pygmaea)),ENSABRG00000020952__Anser_brachyrhynchus),ENSNPEG00000009972__Nothoprocta_perdicaria));

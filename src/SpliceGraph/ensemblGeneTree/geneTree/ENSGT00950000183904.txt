@@ -1,0 +1,1 @@
+((ENSACLG00000020871__Astatotilapia_calliptera,ENSACLG00000018401__Astatotilapia_calliptera),(ENSACLG00000015351__Astatotilapia_calliptera,ENSACLG00000015367__Astatotilapia_calliptera));

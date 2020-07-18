@@ -1,0 +1,1 @@
+(((ENSJHYG00000002982__Junco_hyemalis,ENSSCAG00000006774__Serinus_canaria),ENSCCEG00000019816__Cyanistes_caeruleus),ENSLCOG00000003355__Lepidothrix_coronata);

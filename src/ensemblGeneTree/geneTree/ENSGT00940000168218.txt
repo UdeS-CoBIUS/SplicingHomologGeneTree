@@ -1,0 +1,1 @@
+((((ENSTBEG00000014875__Tupaia_belangeri,ENSTBEG00000010863__Tupaia_belangeri),ENSTBEG00000014930__Tupaia_belangeri),ENSTBEG00000013201__Tupaia_belangeri),ENSSSCG00000035115__Sus_scrofa);

@@ -1,0 +1,1 @@
+((ENSAPEG00000024137__Amphiprion_percula,ENSORLG00000028642__Oryzias_latipes_ASM223467v1),(ENSPNAG00000018805__Pygocentrus_nattereri,ENSAMXG00000041901__Astyanax_mexicanus));

@@ -1,0 +1,1 @@
+(((ENSMVIG00005006779__Manacus_vitellinus,ENSSCAG00000004152__Serinus_canaria),ENSABRG00000020007__Anser_brachyrhynchus),((ENSARWG00000005790__Apteryx_rowi,ENSAHAG00000017158__Apteryx_haastii),ENSDNVG00000013658__Dromaius_novaehollandiae));

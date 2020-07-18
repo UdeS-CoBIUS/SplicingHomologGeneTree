@@ -1,0 +1,8 @@
+>cluster_0
+R06C7.4.1	F52E1.5.2	Y54G2A.36.3
+>cluster_1
+F52E1.5.1	R06C7.4.3	Y54G2A.36.4
+>cluster_2
+Y54G2A.36.1	R06C7.4.2
+>cluster_3
+Y54G2A.36.2

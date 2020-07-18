@@ -1,0 +1,1 @@
+(((ENSORLG00020022307__Oryzias_latipes_ASM223471v1,ENSAPOG00000020327__Acanthochromis_polyacanthus),(((ENSCSAVG00000000580__Ciona_savignyi,ENSCSAVG00000000581__Ciona_savignyi),ENSCSAVG00000000583__Ciona_savignyi),ENSCING00000023114__Ciona_intestinalis)),FBgn0041096__Drosophila_melanogaster);

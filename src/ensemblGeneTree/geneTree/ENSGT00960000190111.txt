@@ -1,0 +1,1 @@
+(((ENSSDAG00000022979__Spermophilus_dauricus,ENSMUGG00000026756__Meriones_unguiculatus),(ENSUAMG00000014401__Ursus_americanus,ENSNVIG00000017226__Neovison_vison)),ENSGWIG00000026457__Gouania_willdenowi);

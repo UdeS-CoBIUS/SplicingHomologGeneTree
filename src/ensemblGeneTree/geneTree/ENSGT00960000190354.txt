@@ -1,0 +1,1 @@
+((ENSDNVG00000018523__Dromaius_novaehollandiae,ENSNPEG00000009575__Nothoprocta_perdicaria),ENSELUG00000020101__Esox_lucius);

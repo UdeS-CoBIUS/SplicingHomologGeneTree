@@ -1,0 +1,1 @@
+((((ENSLCOG00000007571__Lepidothrix_coronata,ENSLSDG00000017214__Lonchura_striata_domestica),ENSAPLG00000018243__Anas_platyrhynchos_platyrhynchos),ENSNPEG00000000636__Nothoprocta_perdicaria),(ENSGAGG00000007950__Gopherus_agassizii,ENSCABG00000008435__Chelonoidis_abingdonii));

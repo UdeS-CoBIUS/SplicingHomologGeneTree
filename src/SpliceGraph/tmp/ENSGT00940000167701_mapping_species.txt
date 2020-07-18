@@ -1,0 +1,13 @@
+ESOXLUCIUS	esox_lucius
+GASTEROSTEUSACULEATUS	gasterosteus_aculeatus
+PYGOCENTRUSNATTERERI	pygocentrus_nattereri
+ASTYANAXMEXICANUS	astyanax_mexicanus
+PYGOCENTRUSNATTERERI	pygocentrus_nattereri
+ASTYANAXMEXICANUS	astyanax_mexicanus
+ICTALURUSPUNCTATUS	ictalurus_punctatus
+DANIORERIO	danio_rerio
+POECILIAFORMOSA	poecilia_formosa
+POECILIAFORMOSA	poecilia_formosa
+GASTEROSTEUSACULEATUS	gasterosteus_aculeatus
+GADUSMORHUA	gadus_morhua
+SCLEROPAGESFORMOSUS	scleropages_formosus

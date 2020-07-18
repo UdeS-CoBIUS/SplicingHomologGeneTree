@@ -1,0 +1,1 @@
+((ENSATEG00000008167__Anabas_testudineus,ENSORLG00015022074__Oryzias_latipes_ASM223469v1),WBGene00004996__Caenorhabditis_elegans_strain_N2);

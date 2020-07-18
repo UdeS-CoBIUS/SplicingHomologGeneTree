@@ -1,0 +1,1 @@
+(((((ENSCCAG00000034490__Cebus_capucinus_imitator,ENSUPAG00010018959__Urocitellus_parryii),ENSOANG00000031889__Ornithorhynchus_anatinus),ENSSPUG00000003820__Sphenodon_punctatus),ENSZALG00000000957__Zonotrichia_albicollis),ENSGAFG00000003830__Gambusia_affinis);

@@ -1,0 +1,1 @@
+((ENSPTEG00000031847__Piliocolobus_tephrosceles,ENSNLEG00000029224__Nomascus_leucogenys),ENSSARG00000013682__Sorex_araneus);

@@ -1,0 +1,4 @@
+PANPANISCUS	pan_paniscus
+GORILLAGORILLA	gorilla_gorilla
+AOTUSNANCYMAAE	aotus_nancymaae
+PANTHERAPARDUS	panthera_pardus

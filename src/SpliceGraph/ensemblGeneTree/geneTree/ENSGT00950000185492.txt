@@ -1,0 +1,1 @@
+(((ENSSPUG00000001483__Sphenodon_punctatus,ENSCABG00000002513__Chelonoidis_abingdonii),((ENSBTAG00000009268__Bos_taurus,ENSBMUG00000023575__Bos_mutus),ENSBBBG00000018987__Bison_bison_bison)),ENSPNYG00000003766__Pundamilia_nyererei);

@@ -1,0 +1,1 @@
+((ENSNGAG00000001158__Nannospalax_galili,MGP_CAROLIEiJ_G0033247__Mus_caroli_strain_CAROLI_EIJ),(ENSODEG00000002977__Octodon_degus,ENSCPOG00000030973__Cavia_porcellus));

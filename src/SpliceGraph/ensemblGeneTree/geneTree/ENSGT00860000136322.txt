@@ -1,0 +1,1 @@
+((((ENSMMUG00000037541__Macaca_mulatta,ENSMMUG00000042626__Macaca_mulatta),(ENSMNEG00000028102__Macaca_nemestrina,ENSMFAG00000031225__Macaca_fascicularis)),ENSMMMG00000016452__Marmota_marmota_marmota),(ENSECAG00000009525__Equus_caballus,ENSEASG00005014404__Equus_asinus_asinus));

@@ -1,1 +1,0 @@
-((ENSPREG00000021064__Poecilia_reticulata,ENSATEG00000020452__Anabas_testudineus),ENSAMXG00000034783__Astyanax_mexicanus);

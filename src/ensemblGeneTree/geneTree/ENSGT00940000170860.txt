@@ -1,0 +1,1 @@
+(((ENSPCIG00000022487__Phascolarctos_cinereus,ENSMODG00000028019__Monodelphis_domestica),ENSCING00000018982__Ciona_intestinalis),(FBgn0035997__Drosophila_melanogaster,WBGene00011639__Caenorhabditis_elegans_strain_N2));

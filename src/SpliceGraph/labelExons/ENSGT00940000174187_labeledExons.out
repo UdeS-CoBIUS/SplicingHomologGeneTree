@@ -1,0 +1,12 @@
+>0
+ENSSHAT00000010227: [['internal gap < 30', 114, 3], 120, 0]
+ENSPCIT00000065745: ['no event', 123, 0]
+>1
+ENSSHAT00000010227: ['no event', 146, 1]
+ENSPCIT00000065745: [['internal gap < 30', 1, 3], 143, 1]
+>2
+ENSSHAT00000010227: [['internal gap < 30', 2, 21], 116, 1]
+ENSPCIT00000065745: ['no event', 137, 1]
+>3
+ENSSHAT00000010227: [['internal gap < 30', 53, 6], 229, 1]
+ENSPCIT00000065745: ['3event', 233, 1]

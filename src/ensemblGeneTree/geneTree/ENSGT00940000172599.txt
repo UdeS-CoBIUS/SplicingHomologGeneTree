@@ -1,0 +1,1 @@
+(ENSSTOG00000014455__Ictidomys_tridecemlineatus,ENSFDAG00000000203__Fukomys_damarensis);

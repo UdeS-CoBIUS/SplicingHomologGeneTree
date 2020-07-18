@@ -1,0 +1,1 @@
+(((ENSORLG00015012873__Oryzias_latipes_ASM223469v1,ENSOMEG00000016183__Oryzias_melastigma),((ENSPNYG00000010932__Pundamilia_nyererei,ENSACLG00000018403__Astatotilapia_calliptera),ENSSPAG00000004726__Stegastes_partitus)),ENSATEG00000017153__Anabas_testudineus);

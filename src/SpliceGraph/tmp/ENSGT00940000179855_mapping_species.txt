@@ -1,0 +1,3 @@
+AMPHILOPHUSCITRINELLUS	amphilophus_citrinellus
+POECILIARETICULATA	poecilia_reticulata
+MONOPTERUSALBUS	monopterus_albus

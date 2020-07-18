@@ -1,1 +1,0 @@
-((ENSPSIG00000018072__Pelodiscus_sinensis,ENSZALG00000013212__Zonotrichia_albicollis),((((ENSMLEG00000027366__Mandrillus_leucophaeus,ENSCANG00000040838__Colobus_angolensis_palliatus),ENSTSYG00000034031__Carlito_syrichta),ENSBBBG00000020855__Bison_bison_bison),ENSOANG00000015357__Ornithorhynchus_anatinus));

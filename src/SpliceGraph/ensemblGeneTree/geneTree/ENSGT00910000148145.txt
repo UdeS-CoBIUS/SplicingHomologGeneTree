@@ -1,0 +1,1 @@
+(((ENSPTIG00000005570__Panthera_tigris_altaica,ENSSSCG00000039734__Sus_scrofa),((ENSNLEG00000028693__Nomascus_leucogenys,ENSCJAG00000040582__Callithrix_jacchus),ENSMICG00000043341__Microcebus_murinus)),((ENSCAFG00020008491__Canis_lupus_dingo,ENSECAG00000035834__Equus_caballus),ENSPTEG00000004981__Piliocolobus_tephrosceles));

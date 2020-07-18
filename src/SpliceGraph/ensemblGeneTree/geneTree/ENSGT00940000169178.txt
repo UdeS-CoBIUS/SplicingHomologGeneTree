@@ -1,0 +1,1 @@
+(((ENSVPAG00000011909__Vicugna_pacos,ENSOARG00000002123__Ovis_aries),ENSOPRG00000009914__Ochotona_princeps),ENSCHOG00000004705__Choloepus_hoffmanni);

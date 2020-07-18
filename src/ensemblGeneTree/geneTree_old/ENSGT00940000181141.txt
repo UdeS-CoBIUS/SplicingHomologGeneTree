@@ -1,1 +1,0 @@
-((ENSMZEG00005014605__Maylandia_zebra,ENSPMGG00000016174__Periophthalmus_magnuspinnatus),(ENSAPLG00000024335__Anas_platyrhynchos_platyrhynchos,ENSGAGG00000007532__Gopherus_agassizii));

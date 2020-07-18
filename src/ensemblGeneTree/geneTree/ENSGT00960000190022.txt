@@ -1,0 +1,1 @@
+(((ENSSCAG00000016822__Serinus_canaria,ENSPMJG00000018121__Parus_major),ENSCPUG00000001685__Calidris_pugnax),ENSDNVG00000008131__Dromaius_novaehollandiae);

@@ -1,0 +1,1 @@
+(((ENSPNYG00000001060__Pundamilia_nyererei,ENSPREG00000009909__Poecilia_reticulata),ENSPMGG00000013079__Periophthalmus_magnuspinnatus),(ENSUAMG00000013655__Ursus_americanus,ENSPCIG00000007424__Phascolarctos_cinereus));

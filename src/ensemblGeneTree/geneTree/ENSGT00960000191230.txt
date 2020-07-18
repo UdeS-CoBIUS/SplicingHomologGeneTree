@@ -1,0 +1,1 @@
+(ENSLSDG00000005017__Lonchura_striata_domestica,ENSMSIG00000009044__Mus_spicilegus);

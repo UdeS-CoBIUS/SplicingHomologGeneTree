@@ -1,0 +1,1 @@
+((ENSSDUG00000022803__Seriola_dumerili,ENSSLDG00000002155__Seriola_lalandi_dorsalis),ENSATEG00000000983__Anabas_testudineus);

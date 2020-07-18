@@ -1,0 +1,1 @@
+(ENSOARG00000012155__Ovis_aries,ENSPTIG00000012585__Panthera_tigris_altaica);

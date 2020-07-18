@@ -1,1 +1,0 @@
-((ENSCSAVG00000006021__Ciona_savignyi,ENSCING00000008793__Ciona_intestinalis),(ENSPTIG00000017983__Panthera_tigris_altaica,ENSUMAG00000005758__Ursus_maritimus));

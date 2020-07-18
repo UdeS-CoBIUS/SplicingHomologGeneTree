@@ -1,1 +1,0 @@
-(ENSDNVG00000017817__Dromaius_novaehollandiae,ENSSCAG00000011512__Serinus_canaria);

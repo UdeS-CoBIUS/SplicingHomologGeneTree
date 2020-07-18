@@ -1,1 +1,0 @@
-((ENSTRUG00000023220__Takifugu_rubripes,ENSGAFG00000011094__Gambusia_affinis),ENSCABG00000016072__Chelonoidis_abingdonii);

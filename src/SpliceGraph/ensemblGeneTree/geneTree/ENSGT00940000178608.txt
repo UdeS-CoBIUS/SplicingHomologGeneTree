@@ -1,0 +1,1 @@
+(((ENSPNYG00000002203__Pundamilia_nyererei,ENSHBUG00000010569__Haplochromis_burtoni),ENSPNYG00000013906__Pundamilia_nyererei),(ENSACIG00000011603__Amphilophus_citrinellus,ENSACIG00000023206__Amphilophus_citrinellus));

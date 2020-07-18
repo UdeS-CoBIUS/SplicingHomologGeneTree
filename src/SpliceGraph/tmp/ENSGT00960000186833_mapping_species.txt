@@ -1,0 +1,12 @@
+POECILIAMEXICANA	poecilia_mexicana
+POECILIAMEXICANA	poecilia_mexicana
+POECILIALATIPINNA	poecilia_latipinna
+POECILIALATIPINNA	poecilia_latipinna
+GAMBUSIAAFFINIS	gambusia_affinis
+XIPHOPHORUSCOUCHIANUS	xiphophorus_couchianus
+STEGASTESPARTITUS	stegastes_partitus
+NEOLAMPROLOGUSBRICHARDI	neolamprologus_brichardi
+MAYLANDIAZEBRA	maylandia_zebra
+ANABASTESTUDINEUS	anabas_testudineus
+POECILIARETICULATA	poecilia_reticulata
+LABRUSBERGYLTA	labrus_bergylta

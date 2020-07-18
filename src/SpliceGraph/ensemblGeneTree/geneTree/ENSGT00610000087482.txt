@@ -1,0 +1,1 @@
+(((ENSPFOG00000020335__Poecilia_formosa,ENSHBUG00000023458__Haplochromis_burtoni),ENSGACG00000017725__Gasterosteus_aculeatus),ENSGMOG00000014614__Gadus_morhua);

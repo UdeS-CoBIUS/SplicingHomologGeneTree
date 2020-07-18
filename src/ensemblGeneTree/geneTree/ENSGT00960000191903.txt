@@ -1,0 +1,1 @@
+(ENSMUNG00000001958__Melopsittacus_undulatus,ENSTRUG00000019909__Takifugu_rubripes);

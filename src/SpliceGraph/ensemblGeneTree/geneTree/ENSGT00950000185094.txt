@@ -1,0 +1,1 @@
+((((((ENSMMMG00000000355__Marmota_marmota_marmota,ENSCGRG00015020548__Cricetulus_griseus_CriGri-PICR),ENSPTEG00000033972__Piliocolobus_tephrosceles),((ENSUAMG00000018496__Ursus_americanus,ENSUMAG00000015607__Ursus_maritimus),ENSSSCG00000033501__Sus_scrofa)),ENSBTAG00000054985__Bos_taurus),ENSMUGG00000010079__Meriones_unguiculatus),ENSPCIG00000013102__Phascolarctos_cinereus);

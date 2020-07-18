@@ -1,0 +1,1 @@
+((((ENSSDUG00000011834__Seriola_dumerili,ENSORLG00015001197__Oryzias_latipes_ASM223469v1),ENSDCDG00000005136__Denticeps_clupeoides),ENSECRG00000017229__Erpetoichthys_calabaricus),ENSJHYG00000005729__Junco_hyemalis);

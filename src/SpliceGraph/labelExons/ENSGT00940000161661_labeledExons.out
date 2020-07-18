@@ -1,0 +1,8 @@
+>0
+ENSUMAT00000017925: ['exon skipping', 0, 0]
+ENSAMET00000017312: ['3event', 616, 0]
+ENSAMET00000017318: ['no event', 646, 0]
+>1
+ENSUMAT00000017925: ['5event', 1916, 0]
+ENSAMET00000017312: ['5event', ['internal gap >= 30', 908, 689], 1228, 1]
+ENSAMET00000017318: ['3event', 1199, 2]

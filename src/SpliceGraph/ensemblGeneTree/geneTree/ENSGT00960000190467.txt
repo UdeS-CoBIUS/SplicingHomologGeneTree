@@ -1,0 +1,1 @@
+((ENSLSDG00000010160__Lonchura_striata_domestica,ENSAOWG00000004023__Apteryx_owenii),ENSTRUG00000022041__Takifugu_rubripes);

@@ -1,0 +1,1 @@
+((ENSORLG00015001401__Oryzias_latipes_ASM223469v1,ENSOMEG00000020369__Oryzias_melastigma),ENSMODG00000029408__Monodelphis_domestica);

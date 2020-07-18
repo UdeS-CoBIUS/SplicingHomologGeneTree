@@ -1,0 +1,1 @@
+((ENSSSCG00000033482__Sus_scrofa,ENSBBBG00000016418__Bison_bison_bison),((((ENSPANG00000035351__Papio_anubis,ENSTGEG00000001332__Theropithecus_gelada),ENSMFAG00000015786__Macaca_fascicularis),ENSPTEG00000021723__Piliocolobus_tephrosceles),ENSCJAG00000043979__Callithrix_jacchus));

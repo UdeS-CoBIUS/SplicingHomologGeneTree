@@ -1,0 +1,1 @@
+(((ENSCPUG00000000374__Calidris_pugnax,ENSACAG00000024895__Anolis_carolinensis),(ENSRROG00000026494__Rhinopithecus_roxellana,ENSRBIG00000029519__Rhinopithecus_bieti)),ENSSDUG00000018356__Seriola_dumerili);

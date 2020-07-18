@@ -1,0 +1,3 @@
+MACACANEMESTRINA	macaca_nemestrina
+MACACAMULATTA	macaca_mulatta
+COLOBUSANGOLENSISPALLIATUS	colobus_angolensis_palliatus

@@ -1,0 +1,1 @@
+((((ENSPLAG00000022523__Poecilia_latipinna,ENSPMEG00000023232__Poecilia_mexicana),ENSPMGG00000022095__Periophthalmus_magnuspinnatus),ENSACLG00000017542__Astatotilapia_calliptera),ENSMALG00000000041__Monopterus_albus);

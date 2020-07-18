@@ -1,0 +1,1 @@
+(((ENSIPUG00000015974__Ictalurus_punctatus,ENSAMXG00000040153__Astyanax_mexicanus),ENSDARG00000115717__Danio_rerio),ENSELUG00000012247__Esox_lucius);

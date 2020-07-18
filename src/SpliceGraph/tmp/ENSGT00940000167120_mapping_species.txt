@@ -1,0 +1,10 @@
+PONGOABELII	pongo_abelii
+PILIOCOLOBUSTEPHROSCELES	piliocolobus_tephrosceles
+PANTROGLODYTES	pan_troglodytes
+PANPANISCUS	pan_paniscus
+GORILLAGORILLA	gorilla_gorilla
+NOMASCUSLEUCOGENYS	nomascus_leucogenys
+NOMASCUSLEUCOGENYS	nomascus_leucogenys
+THEROPITHECUSGELADA	theropithecus_gelada
+CASTORCANADENSIS	castor_canadensis
+TURSIOPSTRUNCATUS	tursiops_truncatus

@@ -1,0 +1,1 @@
+((ENSAPLG00000027145__Anas_platyrhynchos_platyrhynchos,ENSABRG00000005338__Anser_brachyrhynchus),(ENSCABG00000011785__Chelonoidis_abingdonii,ENSCPBG00000021429__Chrysemys_picta_bellii));

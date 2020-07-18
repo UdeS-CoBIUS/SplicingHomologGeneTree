@@ -1,0 +1,1 @@
+(((ENSVPAG00000009215__Vicugna_pacos,ENSEEUG00000008053__Erinaceus_europaeus),ENSTBEG00000016972__Tupaia_belangeri),(ENSPCAG00000007173__Procavia_capensis,ENSETEG00000000421__Echinops_telfairi));

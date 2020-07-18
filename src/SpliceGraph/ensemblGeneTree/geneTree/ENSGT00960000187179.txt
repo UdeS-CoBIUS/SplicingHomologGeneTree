@@ -1,0 +1,1 @@
+(((((ENSSARG00000012769__Sorex_araneus,ENSMMUG00000045164__Macaca_mulatta),(ENSPCAG00000015298__Procavia_capensis,ENSCAPG00000008937__Cavia_aperea)),ENSETEG00000010864__Echinops_telfairi),ENSHGLG00000000121__Heterocephalus_glaber_HetGla_female_1.0),(ENSMUNG00000005785__Melopsittacus_undulatus,ENSCABG00000021378__Chelonoidis_abingdonii));

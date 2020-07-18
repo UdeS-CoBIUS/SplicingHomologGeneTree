@@ -1,0 +1,1 @@
+(((ENSCING00000018508__Ciona_intestinalis,ENSCSAVG00000008096__Ciona_savignyi),ENSPSMG00000024725__Prolemur_simus),FBgn0011202__Drosophila_melanogaster);

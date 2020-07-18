@@ -1,1 +1,0 @@
-(((((ENSANAG00000025003__Aotus_nancymaae,ENSRNOG00000060520__Rattus_norvegicus),ENSAMEG00000017951__Ailuropoda_melanoleuca),ENSLAFG00000031520__Loxodonta_africana),ENSGALG00000048227__Gallus_gallus),ENSLOCG00000003010__Lepisosteus_oculatus);

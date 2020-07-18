@@ -1,0 +1,1 @@
+((ENSCPGG00000005007__Calidris_pygmaea,ENSMUNG00000005565__Melopsittacus_undulatus),(ENSDNVG00000006530__Dromaius_novaehollandiae,ENSNPEG00000001522__Nothoprocta_perdicaria));

@@ -1,1 +1,0 @@
-(ENSNSUG00000001610__Notechis_scutatus,ENSNSUG00000017565__Notechis_scutatus);

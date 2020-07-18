@@ -1,0 +1,1 @@
+((ENSMAMG00000022719__Mastacembelus_armatus,ENSPMGG00000006138__Periophthalmus_magnuspinnatus),ENSXCOG00000004919__Xiphophorus_couchianus);

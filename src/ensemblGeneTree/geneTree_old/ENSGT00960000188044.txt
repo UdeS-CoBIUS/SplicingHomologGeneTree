@@ -1,1 +1,0 @@
-(ENSACIG00000002767__Amphilophus_citrinellus,ENSONIG00000021454__Oreochromis_niloticus);

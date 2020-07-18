@@ -1,0 +1,1 @@
+((((ENSATEG00000012403__Anabas_testudineus,ENSHCOG00000019392__Hippocampus_comes),ENSPNAG00000023718__Pygocentrus_nattereri),ENSPKIG00000006882__Paramormyrops_kingsleyae),ENSLSDG00000002849__Lonchura_striata_domestica);

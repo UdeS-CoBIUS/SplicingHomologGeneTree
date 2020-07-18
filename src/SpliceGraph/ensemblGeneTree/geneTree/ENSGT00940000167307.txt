@@ -1,0 +1,1 @@
+(((((ENSDORG00000024071__Dipodomys_ordii,ENSOPRG00000011643__Ochotona_princeps),ENSTBEG00000014217__Tupaia_belangeri),ENSSARG00000010951__Sorex_araneus),ENSOANG00000006612__Ornithorhynchus_anatinus),ENSTGUG00000008490__Taeniopygia_guttata);

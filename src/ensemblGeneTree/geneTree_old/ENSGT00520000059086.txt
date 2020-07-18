@@ -1,1 +1,0 @@
-((ENSMLUG00000025455__Myotis_lucifugus,ENSOARG00000000892__Ovis_aries),ENSCSAG00000005530__Chlorocebus_sabaeus);

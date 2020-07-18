@@ -1,0 +1,1 @@
+(((ENSJHYG00000012386__Junco_hyemalis,ENSZALG00000007664__Zonotrichia_albicollis),ENSLSDG00000008411__Lonchura_striata_domestica),ENSNMEG00000012202__Numida_meleagris);

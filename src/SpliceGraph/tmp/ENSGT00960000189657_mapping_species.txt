@@ -1,0 +1,5 @@
+MUSSPICILEGUS	mus_spicilegus
+RATTUSNORVEGICUS	rattus_norvegicus
+MERIONESUNGUICULATUS	meriones_unguiculatus
+CRICETULUSGRISEUSCRIGRIPICR	cricetulus_griseus_crigri-picr
+PILIOCOLOBUSTEPHROSCELES	piliocolobus_tephrosceles

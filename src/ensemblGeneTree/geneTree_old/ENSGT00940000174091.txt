@@ -1,1 +1,0 @@
-(ENSEBUG00000000501__Eptatretus_burgeri,ENSODEG00000000084__Octodon_degus);

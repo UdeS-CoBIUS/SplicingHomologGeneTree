@@ -1,0 +1,18 @@
+>0
+F20D12.7.1: ['no event', 93, 0]
+ENSCINT00000020166: ['exon skipping', 0, 0]
+>1
+F20D12.7.1: ['exon skipping', 0, 0]
+ENSCINT00000020166: ['5event', 338, 0]
+>2
+F20D12.7.1: ['5event', 256, 1]
+ENSCINT00000020166: ['exon skipping', 0, 0]
+>3
+F20D12.7.1: ['exon skipping', 0, 0]
+ENSCINT00000020166: ['5event', 106, 0]
+>4
+F20D12.7.1: ['5event', 125, 0]
+ENSCINT00000020166: ['exon skipping', 0, 0]
+>5
+F20D12.7.1: ['exon skipping', 0, 0]
+ENSCINT00000020166: ['5event', 261, 2]

@@ -1,0 +1,7 @@
+CIONAINTESTINALIS	ciona_intestinalis
+CIONASAVIGNYI	ciona_savignyi
+CIONASAVIGNYI	ciona_savignyi
+CIONAINTESTINALIS	ciona_intestinalis
+DROSOPHILAMELANOGASTER	drosophila_melanogaster
+DROSOPHILAMELANOGASTER	drosophila_melanogaster
+CAENORHABDITISELEGANSSTRAINN2	caenorhabditis_elegans_strain_n2

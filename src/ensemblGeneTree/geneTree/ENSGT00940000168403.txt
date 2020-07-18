@@ -1,0 +1,1 @@
+(((ENSTBEG00000007635__Tupaia_belangeri,ENSPPYG00000008551__Pongo_abelii),(ENSTTRG00000009321__Tursiops_truncatus,ENSVPAG00000000198__Vicugna_pacos)),ENSETEG00000012067__Echinops_telfairi);

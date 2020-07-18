@@ -1,0 +1,1 @@
+((((ENSPNYG00000024164__Pundamilia_nyererei,ENSMZEG00005010865__Maylandia_zebra),ENSMZEG00005011006__Maylandia_zebra),ENSGAFG00000012751__Gambusia_affinis),((ENSMAMG00000021181__Mastacembelus_armatus,ENSMAMG00000021577__Mastacembelus_armatus),ENSMAMG00000021529__Mastacembelus_armatus));

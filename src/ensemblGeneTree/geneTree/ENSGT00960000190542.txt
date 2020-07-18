@@ -1,0 +1,1 @@
+((ENSZALG00000013122__Zonotrichia_albicollis,ENSTGUG00000011642__Taeniopygia_guttata),ENSCCEG00000020186__Cyanistes_caeruleus);

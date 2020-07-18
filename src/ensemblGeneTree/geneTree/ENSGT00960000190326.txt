@@ -1,0 +1,1 @@
+((ENSCPUG00000008621__Calidris_pugnax,ENSAPLG00000029843__Anas_platyrhynchos_platyrhynchos),ENSFALG00000014298__Ficedula_albicollis);

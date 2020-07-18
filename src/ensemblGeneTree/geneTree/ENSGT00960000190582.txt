@@ -1,0 +1,1 @@
+((ENSTGUG00000009000__Taeniopygia_guttata,ENSTGUG00000009002__Taeniopygia_guttata),ENSPMJG00000000987__Parus_major);

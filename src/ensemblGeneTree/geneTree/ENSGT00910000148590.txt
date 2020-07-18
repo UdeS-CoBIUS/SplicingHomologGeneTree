@@ -1,0 +1,1 @@
+(((ENSPANG00000030699__Papio_anubis,ENSMLEG00000026649__Mandrillus_leucophaeus),ENSPTEG00000037976__Piliocolobus_tephrosceles),(ENSPPAG00000019223__Pan_paniscus,ENSPTRG00000048488__Pan_troglodytes));

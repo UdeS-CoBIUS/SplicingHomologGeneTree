@@ -1,1 +1,0 @@
-(ENSACAG00000022381__Anolis_carolinensis,ENSFALG00000014858__Ficedula_albicollis);

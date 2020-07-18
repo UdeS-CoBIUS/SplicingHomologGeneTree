@@ -1,0 +1,1 @@
+(((((ENSSLDG00000021922__Seriola_lalandi_dorsalis,ENSNBRG00000002763__Neolamprologus_brichardi),ENSLBEG00000009003__Labrus_bergylta),ENSPMGG00000003916__Periophthalmus_magnuspinnatus),ENSHHUG00000015341__Hucho_hucho),(ENSSCAG00000002216__Serinus_canaria,ENSAPLG00000016797__Anas_platyrhynchos_platyrhynchos));

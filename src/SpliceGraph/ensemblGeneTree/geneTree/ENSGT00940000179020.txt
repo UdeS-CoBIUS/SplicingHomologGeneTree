@@ -1,0 +1,1 @@
+(((ENSACLG00000027693__Astatotilapia_calliptera,ENSPNYG00000002887__Pundamilia_nyererei),ENSHBUG00000009480__Haplochromis_burtoni),ENSNBRG00000008437__Neolamprologus_brichardi);

@@ -1,0 +1,4 @@
+POECILIAMEXICANA	poecilia_mexicana
+POECILIALATIPINNA	poecilia_latipinna
+ACANTHOCHROMISPOLYACANTHUS	acanthochromis_polyacanthus
+ANABASTESTUDINEUS	anabas_testudineus

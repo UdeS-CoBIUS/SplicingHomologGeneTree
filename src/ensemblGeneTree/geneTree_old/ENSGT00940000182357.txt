@@ -1,1 +1,0 @@
-(ENSORLG00020011626__Oryzias_latipes_ASM223471v1,ENSPMEG00000004787__Poecilia_mexicana);

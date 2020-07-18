@@ -1,0 +1,1 @@
+(ENSVPAG00000004771__Vicugna_pacos,ENSMFAG00000035174__Macaca_fascicularis);

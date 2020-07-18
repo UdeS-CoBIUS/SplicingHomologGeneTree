@@ -1,0 +1,1 @@
+((ENSPNAG00000000080__Pygocentrus_nattereri,ENSPKIG00000007366__Paramormyrops_kingsleyae),ENSMVIG00005015921__Manacus_vitellinus);

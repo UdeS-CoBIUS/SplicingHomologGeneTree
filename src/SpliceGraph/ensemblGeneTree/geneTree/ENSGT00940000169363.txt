@@ -1,0 +1,1 @@
+((ENSPPRG00000011797__Panthera_pardus,ENSUMAG00000016911__Ursus_maritimus),((ENSODEG00000000943__Octodon_degus,ENSMSIG00000019169__Mus_spicilegus),(ENSRBIG00000038087__Rhinopithecus_bieti,ENSRROG00000020523__Rhinopithecus_roxellana)));

@@ -1,1 +1,0 @@
-((ENSXCOG00000007702__Xiphophorus_couchianus,ENSKMAG00000019825__Kryptolebias_marmoratus),ENSAOCG00000022722__Amphiprion_ocellaris);

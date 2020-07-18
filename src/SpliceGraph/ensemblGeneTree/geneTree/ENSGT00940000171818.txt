@@ -1,0 +1,1 @@
+(ENSSARG00000013724__Sorex_araneus,ENSFCAG00000023770__Felis_catus);

@@ -1,0 +1,15 @@
+>0
+ENSCCET00000035987: ['no event', 82, 0]
+ENSPMJT00000015556: ['no event', 82, 0]
+>1
+ENSCCET00000035987: ['no event', 75, 2]
+ENSPMJT00000015556: ['no event', 75, 2]
+>2
+ENSCCET00000035987: ['no event', 40, 0]
+ENSPMJT00000015556: ['exon skipping', 0, 0]
+>3
+ENSCCET00000035987: ['exon skipping', 0, 0]
+ENSPMJT00000015556: ['5event', 62, 0]
+>4
+ENSCCET00000035987: ['5event', 69, 2]
+ENSPMJT00000015556: ['exon skipping', 0, 0]

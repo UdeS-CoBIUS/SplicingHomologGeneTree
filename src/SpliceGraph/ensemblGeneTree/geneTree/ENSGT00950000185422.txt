@@ -1,0 +1,1 @@
+(((ENSFCAG00000039374__Felis_catus,ENSVVUG00000017401__Vulpes_vulpes),ENSBMUG00000013311__Bos_mutus),ENSPCIG00000008725__Phascolarctos_cinereus);

@@ -1,0 +1,1 @@
+(((ENSTRUG00000021886__Takifugu_rubripes,ENSORLG00015001729__Oryzias_latipes_ASM223469v1),ENSAOCG00000018108__Amphiprion_ocellaris),ENSPKIG00000000752__Paramormyrops_kingsleyae);

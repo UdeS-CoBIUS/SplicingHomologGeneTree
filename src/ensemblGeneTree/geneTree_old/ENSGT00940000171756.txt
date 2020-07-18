@@ -1,1 +1,0 @@
-(ENSTGUG00000016817__Taeniopygia_guttata,ENSMLUG00000005976__Myotis_lucifugus);

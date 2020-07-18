@@ -1,1 +1,0 @@
-((ENSSCAG00000006011__Serinus_canaria,ENSZALG00000011960__Zonotrichia_albicollis),ENSPMAG00000002477__Petromyzon_marinus);

@@ -1,1 +1,0 @@
-(ENSCPBG00000008590__Chrysemys_picta_bellii,ENSGAGG00000005127__Gopherus_agassizii);

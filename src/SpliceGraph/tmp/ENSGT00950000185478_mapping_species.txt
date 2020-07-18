@@ -1,0 +1,3 @@
+EQUUSCABALLUS	equus_caballus
+EQUUSASINUS	equus_asinus
+CANISLUPUS	canis_lupus

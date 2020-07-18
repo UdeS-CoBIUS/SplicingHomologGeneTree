@@ -1,0 +1,1 @@
+((((ENSSPUG00000007691__Sphenodon_punctatus,ENSGAGG00000001452__Gopherus_agassizii),ENSLCOG00000009986__Lepidothrix_coronata),(ENSAMEG00000011322__Ailuropoda_melanoleuca,ENSSHAG00000004831__Sarcophilus_harrisii)),((ENSPMEG00000022574__Poecilia_mexicana,ENSXCOG00000003350__Xiphophorus_couchianus),ENSAPEG00000003101__Amphiprion_percula));

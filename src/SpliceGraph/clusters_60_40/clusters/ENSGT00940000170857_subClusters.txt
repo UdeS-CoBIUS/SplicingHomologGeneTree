@@ -1,0 +1,6 @@
+>cluster_0
+Y52B11A.4.1	FBtr0347186
+>cluster_1
+FBtr0342882	Y52B11A.4.2
+>cluster_2
+FBtr0342883

@@ -1,0 +1,1 @@
+(((ENSPPRG00000022905__Panthera_pardus,ENSUMAG00000013543__Ursus_maritimus),ENSSDAG00000006584__Spermophilus_dauricus),ENSETEG00000008632__Echinops_telfairi);

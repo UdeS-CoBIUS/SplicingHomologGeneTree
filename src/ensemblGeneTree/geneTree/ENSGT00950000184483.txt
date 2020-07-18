@@ -1,0 +1,1 @@
+((ENSPMGG00000012716__Periophthalmus_magnuspinnatus,ENSPMGG00000015721__Periophthalmus_magnuspinnatus),ENSELUG00000011026__Esox_lucius);

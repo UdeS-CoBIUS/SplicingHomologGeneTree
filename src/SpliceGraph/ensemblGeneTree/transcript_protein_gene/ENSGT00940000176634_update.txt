@@ -1,0 +1,2 @@
+YLR307W_mRNA	YLR307W	Saccharomyces_cerevisiae_strain_S288C
+YLR308W_mRNA	YLR308W	Saccharomyces_cerevisiae_strain_S288C

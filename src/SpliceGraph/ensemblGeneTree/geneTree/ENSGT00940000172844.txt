@@ -1,0 +1,1 @@
+(((ENSJHYG00000017365__Junco_hyemalis,ENSMVIG00005002362__Manacus_vitellinus),ENSAPLG00000026509__Anas_platyrhynchos_platyrhynchos),(ENSMEUG00000009969__Notamacropus_eugenii,ENSEEUG00000001412__Erinaceus_europaeus));

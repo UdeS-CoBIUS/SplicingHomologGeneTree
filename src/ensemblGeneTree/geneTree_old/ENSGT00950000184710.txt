@@ -1,1 +1,0 @@
-(ENSTBEG00000008186__Tupaia_belangeri,ENSG00000284393__Homo_sapiens);

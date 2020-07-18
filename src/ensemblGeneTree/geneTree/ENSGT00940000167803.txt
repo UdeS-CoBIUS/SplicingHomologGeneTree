@@ -1,0 +1,1 @@
+(((ENSHCOG00000009892__Hippocampus_comes,ENSTRUG00000002922__Takifugu_rubripes),(((ENSEBUG00000010393__Eptatretus_burgeri,ENSEBUG00000000570__Eptatretus_burgeri),ENSEBUG00000016888__Eptatretus_burgeri),ENSEBUG00000000500__Eptatretus_burgeri)),ENSCING00000001430__Ciona_intestinalis);

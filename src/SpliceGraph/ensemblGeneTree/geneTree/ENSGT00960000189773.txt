@@ -1,0 +1,1 @@
+((ENSOARG00000005684__Ovis_aries,ENSNVIG00000003672__Neovison_vison),((ENSSDAG00000014427__Spermophilus_dauricus,ENSSDAG00000000971__Spermophilus_dauricus),ENSSDAG00000016515__Spermophilus_dauricus));

@@ -1,0 +1,1 @@
+(((ENSOANG00000022441__Ornithorhynchus_anatinus,ENSAMEG00000016891__Ailuropoda_melanoleuca),ENSACAG00000014190__Anolis_carolinensis),ENSPMAG00000006693__Petromyzon_marinus);

@@ -1,0 +1,1 @@
+(((ENSTNIG00000002960__Tetraodon_nigroviridis,ENSEBUG00000013231__Eptatretus_burgeri),((WBGene00002980__Caenorhabditis_elegans_strain_N2,FBgn0038539__Drosophila_melanogaster),ENSLACG00000006869__Latimeria_chalumnae)),YBL078C__Saccharomyces_cerevisiae_strain_S288C);

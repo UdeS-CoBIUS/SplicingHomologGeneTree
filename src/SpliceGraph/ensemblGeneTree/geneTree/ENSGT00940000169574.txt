@@ -1,0 +1,1 @@
+(((ENSACIG00000014939__Amphilophus_citrinellus,ENSLBEG00000005990__Labrus_bergylta),ENSHCOG00000018978__Hippocampus_comes),((ENSCANG00000011276__Colobus_angolensis_palliatus,ENSRBIG00000001284__Rhinopithecus_bieti),ENSTSYG00000031817__Carlito_syrichta));

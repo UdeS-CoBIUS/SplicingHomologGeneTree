@@ -1,0 +1,1 @@
+(((((ENSTGEG00000018259__Theropithecus_gelada,ENSPTEG00000033122__Piliocolobus_tephrosceles),ENSGGOG00000037472__Gorilla_gorilla),ENSCJAG00000047581__Callithrix_jacchus),ENSCCNG00000029446__Castor_canadensis),ENSSSCG00000038822__Sus_scrofa);

@@ -1,0 +1,1 @@
+(((ENSFDAG00000010552__Fukomys_damarensis,ENSHGLG00100016276__Heterocephalus_glaber_HetGla_1.0),ENSCAPG00000012063__Cavia_aperea),ENSCGRG00000009476__Cricetulus_griseus_CriGri_1.0);

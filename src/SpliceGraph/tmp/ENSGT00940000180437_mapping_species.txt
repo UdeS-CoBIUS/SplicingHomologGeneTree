@@ -1,0 +1,7 @@
+URSUSAMERICANUS	ursus_americanus
+BOSMUTUS	bos_mutus
+MERIONESUNGUICULATUS	meriones_unguiculatus
+CHELONOIDISABINGDONII	chelonoidis_abingdonii
+AMPHIPRIONPERCULA	amphiprion_percula
+CYNOGLOSSUSSEMILAEVIS	cynoglossus_semilaevis
+ICTALURUSPUNCTATUS	ictalurus_punctatus

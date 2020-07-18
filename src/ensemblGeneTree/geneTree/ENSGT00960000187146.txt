@@ -1,0 +1,1 @@
+((ENSAMXG00000034159__Astyanax_mexicanus,ENSNBRG00000005674__Neolamprologus_brichardi),(((ENSPKIG00000008859__Paramormyrops_kingsleyae,ENSPKIG00000008893__Paramormyrops_kingsleyae),ENSPKIG00000010657__Paramormyrops_kingsleyae),ENSPKIG00000010665__Paramormyrops_kingsleyae));

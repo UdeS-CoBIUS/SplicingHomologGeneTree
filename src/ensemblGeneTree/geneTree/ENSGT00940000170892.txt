@@ -1,0 +1,1 @@
+((ENSODEG00000012228__Octodon_degus,ENSCLAG00000014207__Chinchilla_lanigera),ENSMAUG00000019275__Mesocricetus_auratus);

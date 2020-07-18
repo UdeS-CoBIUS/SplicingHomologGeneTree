@@ -1,1 +1,0 @@
-((((ENSMUNG00000006085__Melopsittacus_undulatus,ENSAPLG00000017420__Anas_platyrhynchos_platyrhynchos),ENSCABG00000000181__Chelonoidis_abingdonii),ENSUAMG00000013528__Ursus_americanus),(ENSAPEG00000022072__Amphiprion_percula,ENSPKIG00000004766__Paramormyrops_kingsleyae));

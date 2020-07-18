@@ -1,0 +1,1 @@
+((((ENSAMXG00000033572__Astyanax_mexicanus,ENSAMXG00000032940__Astyanax_mexicanus),ENSFHEG00000013490__Fundulus_heteroclitus),(ENSPREG00000005730__Poecilia_reticulata,ENSPNAG00000029897__Pygocentrus_nattereri)),ENSPSIG00000004870__Pelodiscus_sinensis);

@@ -1,0 +1,1 @@
+((ENSCPUG00000009314__Calidris_pugnax,ENSCPGG00000003971__Calidris_pygmaea),ENSMUNG00000010764__Melopsittacus_undulatus);

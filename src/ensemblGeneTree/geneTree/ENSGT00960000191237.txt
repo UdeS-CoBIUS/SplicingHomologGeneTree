@@ -1,0 +1,1 @@
+(ENSAHAG00000004977__Apteryx_haastii,ENSSCAG00000016024__Serinus_canaria);

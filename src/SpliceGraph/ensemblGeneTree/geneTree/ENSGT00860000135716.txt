@@ -1,0 +1,1 @@
+((((ENSMFAG00000039381__Macaca_fascicularis,ENSMNEG00000033522__Macaca_nemestrina),ENSMMUG00000041497__Macaca_mulatta),ENSCANG00000028137__Colobus_angolensis_palliatus),((ENSPPAG00000027613__Pan_paniscus,ENSPTRG00000046412__Pan_troglodytes),ENSNLEG00000035612__Nomascus_leucogenys));

@@ -1,0 +1,1 @@
+((ENSXCOG00000008143__Xiphophorus_couchianus,ENSORLG00015003962__Oryzias_latipes_ASM223469v1),ENSGMOG00000008468__Gadus_morhua);

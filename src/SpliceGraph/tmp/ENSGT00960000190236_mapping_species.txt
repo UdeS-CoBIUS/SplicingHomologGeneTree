@@ -1,0 +1,3 @@
+PROLEMURSIMUS	prolemur_simus
+PROLEMURSIMUS	prolemur_simus
+EQUUSCABALLUS	equus_caballus

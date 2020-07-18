@@ -1,0 +1,1 @@
+((((ENSPFOG00000023032__Poecilia_formosa,ENSPMEG00000011092__Poecilia_mexicana),((ENSGAFG00000001595__Gambusia_affinis,ENSGAFG00000011927__Gambusia_affinis),ENSXMAG00000021157__Xiphophorus_maculatus)),ENSPFOG00000023028__Poecilia_formosa),ENSAPEG00000008459__Amphiprion_percula);

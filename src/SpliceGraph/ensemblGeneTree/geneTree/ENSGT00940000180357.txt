@@ -1,0 +1,1 @@
+((ENSSLDG00000010052__Seriola_lalandi_dorsalis,ENSSMAG00000006420__Scophthalmus_maximus),ENSACIG00000016433__Amphilophus_citrinellus);

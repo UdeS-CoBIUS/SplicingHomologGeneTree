@@ -1,0 +1,5 @@
+DROSOPHILAMELANOGASTER	drosophila_melanogaster
+CAENORHABDITISELEGANSSTRAINN2	caenorhabditis_elegans_strain_n2
+GAMBUSIAAFFINIS	gambusia_affinis
+POECILIAFORMOSA	poecilia_formosa
+POGONAVITTICEPS	pogona_vitticeps

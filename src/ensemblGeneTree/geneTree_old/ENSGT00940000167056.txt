@@ -1,1 +1,0 @@
-(((ENSCING00000022443__Ciona_intestinalis,ENSCING00000019094__Ciona_intestinalis),(((ENSCSAVG00000008491__Ciona_savignyi,ENSCING00000007520__Ciona_intestinalis),ENSOPRG00000003760__Ochotona_princeps),(FBgn0037218__Drosophila_melanogaster,WBGene00001043__Caenorhabditis_elegans_strain_N2))),YDR320C__Saccharomyces_cerevisiae_strain_S288C);

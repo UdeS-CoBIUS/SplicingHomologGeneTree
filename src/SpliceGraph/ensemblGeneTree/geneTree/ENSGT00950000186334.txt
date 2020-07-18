@@ -1,0 +1,1 @@
+(ENSECAG00000035621__Equus_caballus,ENSMPUG00000011576__Mustela_putorius_furo);

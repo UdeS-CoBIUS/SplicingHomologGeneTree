@@ -1,1 +1,0 @@
-((ENSANAG00000032933__Aotus_nancymaae,ENSPSMG00000013946__Prolemur_simus),(ENSUMAG00000010069__Ursus_maritimus,ENSNVIG00000018922__Neovison_vison));

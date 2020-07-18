@@ -1,0 +1,1 @@
+(((ENSNMEG00000004477__Numida_meleagris,ENSCJPG00005016026__Coturnix_japonica),ENSAPLG00000025590__Anas_platyrhynchos_platyrhynchos),ENSCPGG00000000336__Calidris_pygmaea);

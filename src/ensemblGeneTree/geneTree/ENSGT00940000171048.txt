@@ -1,0 +1,1 @@
+((((ENSMAUG00000009140__Mesocricetus_auratus,ENSMOCG00000016595__Microtus_ochrogaster),ENSCCNG00000014367__Castor_canadensis),((ENSCAFG00020017986__Canis_lupus_dingo,ENSUAMG00000024241__Ursus_americanus),ENSEASG00005012910__Equus_asinus_asinus)),ENSNSUG00000015904__Notechis_scutatus);

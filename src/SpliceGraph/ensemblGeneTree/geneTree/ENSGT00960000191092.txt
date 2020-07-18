@@ -1,0 +1,1 @@
+((ENSLSDG00000014862__Lonchura_striata_domestica,ENSPVIG00000017832__Pogona_vitticeps),ENSSDAG00000000693__Spermophilus_dauricus);

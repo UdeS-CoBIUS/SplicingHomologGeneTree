@@ -1,1 +1,0 @@
-((((ENSARWG00000013990__Apteryx_rowi,ENSAHAG00000010534__Apteryx_haastii),ENSAOWG00000019296__Apteryx_owenii),ENSDNVG00000010138__Dromaius_novaehollandiae),ENSCABG00000019485__Chelonoidis_abingdonii);

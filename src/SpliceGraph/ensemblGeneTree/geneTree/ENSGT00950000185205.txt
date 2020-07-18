@@ -1,0 +1,1 @@
+(((ENSGALG00000054217__Gallus_gallus,ENSLCOG00000012412__Lepidothrix_coronata),ENSEASG00005002817__Equus_asinus_asinus),ENSPNAG00000014067__Pygocentrus_nattereri);

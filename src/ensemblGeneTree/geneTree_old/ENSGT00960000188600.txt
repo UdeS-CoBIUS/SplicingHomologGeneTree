@@ -1,1 +1,0 @@
-(ENSOMEG00000003616__Oryzias_melastigma,ENSOMEG00000011542__Oryzias_melastigma);

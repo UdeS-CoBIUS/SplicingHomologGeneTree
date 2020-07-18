@@ -1,0 +1,1 @@
+((ENSMLEG00000033399__Mandrillus_leucophaeus,MGP_CAROLIEiJ_G0030791__Mus_caroli_strain_CAROLI_EIJ),(((ENSNVIG00000017824__Neovison_vison,ENSCAFG00000032532__Canis_lupus_familiaris),ENSOARG00000002855__Ovis_aries),ENSMLUG00000028297__Myotis_lucifugus));

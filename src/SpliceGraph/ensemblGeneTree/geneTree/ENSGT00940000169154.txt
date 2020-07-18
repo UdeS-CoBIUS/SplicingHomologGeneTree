@@ -1,0 +1,1 @@
+((ENSMAUG00000015673__Mesocricetus_auratus,ENSHGLG00100000855__Heterocephalus_glaber_HetGla_1.0),(ENSJJAG00000024002__Jaculus_jaculus,ENSODEG00000015250__Octodon_degus));

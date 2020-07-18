@@ -1,0 +1,4 @@
+Y17G7B.19.1	WBGene00012470	Caenorhabditis_elegans_strain_N2	Y17G7B.19.1
+F57A8.6.1	WBGene00010181	Caenorhabditis_elegans_strain_N2	F57A8.6.1
+T10E9.4.1	WBGene00020414	Caenorhabditis_elegans_strain_N2	T10E9.4.1
+F09E8.1b.1	WBGene00008623	Caenorhabditis_elegans_strain_N2	F09E8.1b.1

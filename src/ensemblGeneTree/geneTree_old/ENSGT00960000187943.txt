@@ -1,1 +1,0 @@
-((ENSEBUG00000002659__Eptatretus_burgeri,ENSEBUG00000010778__Eptatretus_burgeri),ENSOANG00000030928__Ornithorhynchus_anatinus);

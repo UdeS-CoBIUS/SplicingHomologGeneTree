@@ -1,0 +1,1 @@
+((((ENSPPRG00000010956__Panthera_pardus,ENSPTIG00000009656__Panthera_tigris_altaica),ENSFCAG00000039306__Felis_catus),ENSMPUG00000016152__Mustela_putorius_furo),ENSCCNG00000019753__Castor_canadensis);

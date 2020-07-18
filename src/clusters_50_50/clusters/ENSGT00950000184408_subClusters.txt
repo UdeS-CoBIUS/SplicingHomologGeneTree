@@ -1,0 +1,6 @@
+>cluster_0
+Y39A1A.11a.1
+>cluster_1
+F09E10.3.1	Y39A1A.11b.2
+>cluster_2
+Y39A1A.11b.1

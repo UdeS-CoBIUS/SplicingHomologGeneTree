@@ -1,0 +1,1 @@
+(ENSJHYG00000004896__Junco_hyemalis,ENSAPLG00000022724__Anas_platyrhynchos_platyrhynchos);

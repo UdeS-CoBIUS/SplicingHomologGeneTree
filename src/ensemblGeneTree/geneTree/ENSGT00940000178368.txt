@@ -1,0 +1,1 @@
+(((ENSACIG00000022969__Amphilophus_citrinellus,ENSNBRG00000002465__Neolamprologus_brichardi),ENSPMEG00000000196__Poecilia_mexicana),(ENSMMOG00000005819__Mola_mola,ENSTRUG00000022011__Takifugu_rubripes));

@@ -1,0 +1,5 @@
+THEROPITHECUSGELADA	theropithecus_gelada
+MACACAMULATTA	macaca_mulatta
+PAPIOANUBIS	papio_anubis
+PILIOCOLOBUSTEPHROSCELES	piliocolobus_tephrosceles
+PANTHERATIGRISALTAICA	panthera_tigris_altaica

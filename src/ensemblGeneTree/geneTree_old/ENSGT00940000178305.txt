@@ -1,1 +1,0 @@
-(((((ENSMZEG00005026915__Maylandia_zebra,ENSPNYG00000004721__Pundamilia_nyererei),ENSACLG00000010363__Astatotilapia_calliptera),ENSNBRG00000011327__Neolamprologus_brichardi),ENSFHEG00000013478__Fundulus_heteroclitus),ENSMMOG00000009819__Mola_mola);

@@ -1,0 +1,1 @@
+(((ENSHGLG00000004741__Heterocephalus_glaber_HetGla_female_1.0,ENSFDAG00000014021__Fukomys_damarensis),ENSCAPG00000013692__Cavia_aperea),ENSSDAG00000003973__Spermophilus_dauricus);

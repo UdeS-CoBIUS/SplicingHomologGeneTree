@@ -1,0 +1,1 @@
+(ENSCAFG00000032218__Canis_lupus_familiaris,ENSMAMG00000020314__Mastacembelus_armatus);

@@ -1,0 +1,1 @@
+(((((ENSACAG00000029358__Anolis_carolinensis,ENSPVIG00000014029__Pogona_vitticeps),ENSNSUG00000016902__Notechis_scutatus),ENSSMRG00000008790__Salvator_merianae),ENSSPUG00000009953__Sphenodon_punctatus),((ENSCABG00000004946__Chelonoidis_abingdonii,ENSGAGG00000016172__Gopherus_agassizii),ENSCPBG00000011344__Chrysemys_picta_bellii));

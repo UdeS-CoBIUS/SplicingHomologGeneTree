@@ -1,0 +1,1 @@
+(((((ENSNSUG00000019268__Notechis_scutatus,ENSNSUG00000001308__Notechis_scutatus),ENSPVIG00000009181__Pogona_vitticeps),ENSSMRG00000001111__Salvator_merianae),ENSXETG00000026767__Xenopus_tropicalis),ENSLACG00000006463__Latimeria_chalumnae);

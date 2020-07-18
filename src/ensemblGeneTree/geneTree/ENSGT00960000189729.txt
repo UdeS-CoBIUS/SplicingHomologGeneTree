@@ -1,0 +1,1 @@
+(((ENSPTEG00000004083__Piliocolobus_tephrosceles,ENSTGEG00000021226__Theropithecus_gelada),(ENSPTEG00000038426__Piliocolobus_tephrosceles,ENSTGEG00000012641__Theropithecus_gelada)),ENSCCNG00000015585__Castor_canadensis);

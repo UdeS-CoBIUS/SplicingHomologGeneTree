@@ -1,1 +1,0 @@
-((ENSAOCG00000011715__Amphiprion_ocellaris,ENSPNYG00000003066__Pundamilia_nyererei),(ENSJHYG00000017690__Junco_hyemalis,ENSMUNG00000005468__Melopsittacus_undulatus));

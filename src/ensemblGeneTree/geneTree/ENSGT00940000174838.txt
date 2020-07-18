@@ -1,0 +1,1 @@
+(((ENSUAMG00000001443__Ursus_americanus,ENSSSCG00000033839__Sus_scrofa),ENSGAGG00000025403__Gopherus_agassizii),ENSPMGG00000006364__Periophthalmus_magnuspinnatus);

@@ -1,0 +1,1 @@
+(((((((ENSOANG00000013416__Ornithorhynchus_anatinus,ENSACAG00000010227__Anolis_carolinensis),ENSXETG00000030213__Xenopus_tropicalis),ENSLACG00000013782__Latimeria_chalumnae),ENSLACG00000008676__Latimeria_chalumnae),ENSAMEG00000001789__Ailuropoda_melanoleuca),ENSGMOG00000019959__Gadus_morhua),ENSPMAG00000009997__Petromyzon_marinus);

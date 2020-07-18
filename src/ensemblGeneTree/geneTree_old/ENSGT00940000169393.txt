@@ -1,1 +1,0 @@
-(((((ENSPPAG00000027574__Pan_paniscus,ENSPTRG00000016129__Pan_troglodytes),ENSGGOG00000008905__Gorilla_gorilla),ENSG00000171201__Homo_sapiens),ENSNLEG00000007684__Nomascus_leucogenys),(ENSCANG00000010562__Colobus_angolensis_palliatus,ENSPANG00000009688__Papio_anubis));

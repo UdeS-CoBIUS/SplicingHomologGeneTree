@@ -1,0 +1,1 @@
+((((ENSCCNG00000029455__Castor_canadensis,ENSCCNG00000007315__Castor_canadensis),ENSMSIG00000026060__Mus_spicilegus),ENSMEUG00000010823__Notamacropus_eugenii),(ENSGAGG00000018129__Gopherus_agassizii,ENSTGUG00000015827__Taeniopygia_guttata));

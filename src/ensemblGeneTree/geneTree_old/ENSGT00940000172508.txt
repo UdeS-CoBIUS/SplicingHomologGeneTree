@@ -1,1 +1,0 @@
-(FBgn0035236__Drosophila_melanogaster,ENSTNIG00000004360__Tetraodon_nigroviridis);

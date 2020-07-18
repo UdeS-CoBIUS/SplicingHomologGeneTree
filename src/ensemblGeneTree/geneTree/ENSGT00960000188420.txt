@@ -1,0 +1,1 @@
+(((((ENSCPUG00000009696__Calidris_pugnax,ENSGALG00000035818__Gallus_gallus),ENSFALG00000004039__Ficedula_albicollis),ENSAHAG00000004048__Apteryx_haastii),ENSDNOG00000039323__Dasypus_novemcinctus),ENSOMEG00000023825__Oryzias_melastigma);

@@ -1,0 +1,1 @@
+((((((ENSVPAG00000009120__Vicugna_pacos,ENSMLUG00000008028__Myotis_lucifugus),ENSCCAG00000024474__Cebus_capucinus_imitator),(ENSCHOG00000012806__Choloepus_hoffmanni,ENSDNOG00000019114__Dasypus_novemcinctus)),ENSHGLG00100003127__Heterocephalus_glaber_HetGla_1.0),ENSOANG00000004534__Ornithorhynchus_anatinus),ENSGMOG00000012787__Gadus_morhua);

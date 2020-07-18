@@ -1,0 +1,1 @@
+(((ENSTGEG00000011874__Theropithecus_gelada,ENSPTEG00000032538__Piliocolobus_tephrosceles),ENSMSIG00000030776__Mus_spicilegus),ENSPTIG00000021644__Panthera_tigris_altaica);

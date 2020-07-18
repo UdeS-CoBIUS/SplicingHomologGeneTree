@@ -1,0 +1,9 @@
+>0
+ENSUAMT00000010118: ['no event', 23, 0]
+ENSUMAT00000002197: ['exon skipping', 0, 0]
+>1
+ENSUAMT00000010118: ['exon skipping', 0, 0]
+ENSUMAT00000002197: ['5event', 2, 0]
+>2
+ENSUAMT00000010118: ['5event', 152, 0]
+ENSUMAT00000002197: ['no event', 165, 0]

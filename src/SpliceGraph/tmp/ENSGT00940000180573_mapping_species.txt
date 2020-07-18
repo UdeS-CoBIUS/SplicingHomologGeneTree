@@ -1,0 +1,5 @@
+FUNDULUSHETEROCLITUS	fundulus_heteroclitus
+GAMBUSIAAFFINIS	gambusia_affinis
+PHASCOLARCTOSCINEREUS	phascolarctos_cinereus
+PHASCOLARCTOSCINEREUS	phascolarctos_cinereus
+PHASCOLARCTOSCINEREUS	phascolarctos_cinereus

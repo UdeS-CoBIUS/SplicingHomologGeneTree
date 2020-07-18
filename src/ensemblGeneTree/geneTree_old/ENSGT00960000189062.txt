@@ -1,1 +1,0 @@
-(ENSCPGG00000015132__Calidris_pygmaea,ENSSPUG00000013147__Sphenodon_punctatus);

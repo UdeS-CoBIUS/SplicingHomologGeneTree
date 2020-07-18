@@ -1,1 +1,0 @@
-((ENSTSYG00000030239__Carlito_syrichta,ENSCPGG00000001038__Calidris_pygmaea),((ENSACIG00000011993__Amphilophus_citrinellus,ENSAPOG00000021063__Acanthochromis_polyacanthus),(ENSKMAG00000012947__Kryptolebias_marmoratus,ENSKMAG00000005887__Kryptolebias_marmoratus)));

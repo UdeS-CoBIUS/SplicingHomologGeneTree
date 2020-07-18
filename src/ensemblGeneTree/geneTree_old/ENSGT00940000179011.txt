@@ -1,1 +1,0 @@
-(((ENSPNYG00000006754__Pundamilia_nyererei,ENSACIG00000011513__Amphilophus_citrinellus),ENSSPAG00000012577__Stegastes_partitus),ENSATEG00000018755__Anabas_testudineus);

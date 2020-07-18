@@ -1,1 +1,0 @@
-((ENSXMAG00000021929__Xiphophorus_maculatus,ENSXCOG00000000305__Xiphophorus_couchianus),ENSGAFG00000013704__Gambusia_affinis);

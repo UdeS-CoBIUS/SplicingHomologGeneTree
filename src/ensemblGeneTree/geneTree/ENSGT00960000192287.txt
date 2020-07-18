@@ -1,0 +1,1 @@
+(ENSCHIG00000000178__Capra_hircus,ENSMSIG00000015029__Mus_spicilegus);

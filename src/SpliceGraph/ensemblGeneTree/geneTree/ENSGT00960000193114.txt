@@ -1,0 +1,1 @@
+(ENSMSIG00000013850__Mus_spicilegus,ENSMSIG00000000620__Mus_spicilegus);

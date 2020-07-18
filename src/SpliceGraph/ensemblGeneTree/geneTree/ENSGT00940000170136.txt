@@ -1,0 +1,1 @@
+((ENSNMEG00000016223__Numida_meleagris,ENSSPUG00000008902__Sphenodon_punctatus),(((ENSHGLG00000021420__Heterocephalus_glaber_HetGla_female_1.0,ENSHGLG00100019686__Heterocephalus_glaber_HetGla_1.0),ENSCPOG00000030894__Cavia_porcellus),ENSCGRG00001012081__Cricetulus_griseus_CHOK1GS_HDv1));

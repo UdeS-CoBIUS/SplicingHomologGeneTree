@@ -1,0 +1,1 @@
+(((ENSCHAG00000011774__Clupea_harengus,ENSDCDG00000021515__Denticeps_clupeoides),ENSHHUG00000026559__Hucho_hucho),((ENSSFOG00015022727__Scleropages_formosus,ENSSFOG00015022720__Scleropages_formosus),ENSSFOG00015016300__Scleropages_formosus));

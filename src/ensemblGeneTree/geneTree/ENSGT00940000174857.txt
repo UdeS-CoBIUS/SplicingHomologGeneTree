@@ -1,0 +1,1 @@
+(((ENSXCOG00000014484__Xiphophorus_couchianus,ENSFHEG00000004853__Fundulus_heteroclitus),ENSPNAG00000029452__Pygocentrus_nattereri),ENSOANG00000009945__Ornithorhynchus_anatinus);

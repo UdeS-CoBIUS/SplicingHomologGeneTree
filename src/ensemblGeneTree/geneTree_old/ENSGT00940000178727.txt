@@ -1,1 +1,0 @@
-((ENSAPOG00000014994__Acanthochromis_polyacanthus,ENSMALG00000019646__Monopterus_albus),(ENSLBEG00000004681__Labrus_bergylta,ENSLBEG00000004639__Labrus_bergylta));

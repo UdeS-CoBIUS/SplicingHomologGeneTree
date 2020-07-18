@@ -1,0 +1,1 @@
+((ENSLBEG00000008892__Labrus_bergylta,ENSLBEG00000014326__Labrus_bergylta),((ENSAPEG00000014487__Amphiprion_percula,ENSAPEG00000014499__Amphiprion_percula),ENSAOCG00000004863__Amphiprion_ocellaris));

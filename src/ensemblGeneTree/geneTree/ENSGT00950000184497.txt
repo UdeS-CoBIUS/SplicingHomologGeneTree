@@ -1,0 +1,1 @@
+(((ENSSPUG00000004826__Sphenodon_punctatus,ENSSMRG00000018893__Salvator_merianae),(((ENSCPGG00000016706__Calidris_pygmaea,ENSLCOG00000007112__Lepidothrix_coronata),ENSMGAG00000016386__Meleagris_gallopavo),ENSNPEG00000001073__Nothoprocta_perdicaria)),((ENSPSMG00000024563__Prolemur_simus,ENSCCNG00000012114__Castor_canadensis),ENSSSCG00000016876__Sus_scrofa));

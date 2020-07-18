@@ -1,0 +1,4 @@
+PANPANISCUS	pan_paniscus
+PANTROGLODYTES	pan_troglodytes
+NOMASCUSLEUCOGENYS	nomascus_leucogenys
+THEROPITHECUSGELADA	theropithecus_gelada

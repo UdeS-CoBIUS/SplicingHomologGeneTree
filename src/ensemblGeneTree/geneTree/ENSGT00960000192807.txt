@@ -1,0 +1,1 @@
+(ENSMEUG00000014099__Notamacropus_eugenii,ENSMUNG00000002397__Melopsittacus_undulatus);

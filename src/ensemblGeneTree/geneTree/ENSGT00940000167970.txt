@@ -1,0 +1,1 @@
+((((((ENSCHIG00000010201__Capra_hircus,ENSCHIG00000011936__Capra_hircus),ENSCHIG00000026245__Capra_hircus),ENSVVUG00000013755__Vulpes_vulpes),((ENSCAPG00000002334__Cavia_aperea,ENSMSIG00000001260__Mus_spicilegus),ENSMMUG00000003788__Macaca_mulatta)),ENSCPRG00005008781__Crocodylus_porosus),ENSAPOG00000013346__Acanthochromis_polyacanthus);

@@ -1,0 +1,1 @@
+(((ENSTTRG00000010319__Tursiops_truncatus,ENSVPAG00000002350__Vicugna_pacos),ENSPVAG00000016379__Pteropus_vampyrus),ENSTBEG00000007060__Tupaia_belangeri);

@@ -1,0 +1,2 @@
+>completeCluster_0
+F28B3.10.1	F28B3.6.2

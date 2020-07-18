@@ -1,1 +1,0 @@
-((ENSTRUG00000007290__Takifugu_rubripes,ENSTGUG00000011955__Taeniopygia_guttata),ENSPMAG00000007454__Petromyzon_marinus);

@@ -1,0 +1,1 @@
+((ENSLAFG00000028478__Loxodonta_africana,ENSPSMG00000002831__Prolemur_simus),ENSOANG00000005716__Ornithorhynchus_anatinus);

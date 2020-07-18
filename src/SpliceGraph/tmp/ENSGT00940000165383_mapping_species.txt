@@ -1,0 +1,16 @@
+PROPITHECUSCOQUERELI	propithecus_coquereli
+PROLEMURSIMUS	prolemur_simus
+COLOBUSANGOLENSISPALLIATUS	colobus_angolensis_palliatus
+RHINOPITHECUSBIETI	rhinopithecus_bieti
+CERCOCEBUSATYS	cercocebus_atys
+PAPIOANUBIS	papio_anubis
+MACACAMULATTA	macaca_mulatta
+MACACANEMESTRINA	macaca_nemestrina
+CERCOCEBUSATYS	cercocebus_atys
+AOTUSNANCYMAAE	aotus_nancymaae
+CEBUSCAPUCINUS	cebus_capucinus
+PANPANISCUS	pan_paniscus
+PANTROGLODYTES	pan_troglodytes
+GORILLAGORILLA	gorilla_gorilla
+NOMASCUSLEUCOGENYS	nomascus_leucogenys
+FELISCATUS	felis_catus

@@ -1,0 +1,1 @@
+((((ENSCCNG00000007612__Castor_canadensis,ENSMUGG00000024281__Meriones_unguiculatus),ENSGGOG00000042652__Gorilla_gorilla),((ENSECAG00000037478__Equus_caballus,ENSECAG00000032647__Equus_caballus),ENSUAMG00000019630__Ursus_americanus)),ENSGAGG00000013735__Gopherus_agassizii);

@@ -1,0 +1,1 @@
+(((ENSTGUG00000005523__Taeniopygia_guttata,ENSCPUG00000013879__Calidris_pugnax),ENSXETG00000010195__Xenopus_tropicalis),(ENSLOCG00000003563__Lepisosteus_oculatus,ENSIPUG00000010316__Ictalurus_punctatus));

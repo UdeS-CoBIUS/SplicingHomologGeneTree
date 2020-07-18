@@ -1,0 +1,1 @@
+(((ENSSPAG00000004041__Stegastes_partitus,ENSPLAG00000008676__Poecilia_latipinna),ENSPMGG00000006380__Periophthalmus_magnuspinnatus),ENSHCOG00000016958__Hippocampus_comes);

@@ -1,0 +1,1 @@
+(((ENSLBEG00000028870__Labrus_bergylta,ENSTRUG00000020988__Takifugu_rubripes),(ENSSLDG00000007890__Seriola_lalandi_dorsalis,ENSSLDG00000007897__Seriola_lalandi_dorsalis)),ENSCCNG00000018418__Castor_canadensis);

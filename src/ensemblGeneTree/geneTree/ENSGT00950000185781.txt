@@ -1,0 +1,1 @@
+(((((ENSSDAG00000007756__Spermophilus_dauricus,ENSSDAG00000007786__Spermophilus_dauricus),ENSUPAG00010011200__Urocitellus_parryii),ENSCCNG00000030940__Castor_canadensis),ENSPTRG00000047170__Pan_troglodytes),ENSUMAG00000000703__Ursus_maritimus);

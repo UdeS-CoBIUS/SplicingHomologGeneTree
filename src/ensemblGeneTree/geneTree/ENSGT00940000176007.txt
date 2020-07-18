@@ -1,0 +1,1 @@
+(ENSMLEG00000041318__Mandrillus_leucophaeus,ENSOARG00000004483__Ovis_aries);

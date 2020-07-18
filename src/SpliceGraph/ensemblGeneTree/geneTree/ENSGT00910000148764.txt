@@ -1,0 +1,1 @@
+((ENSTGEG00000005916__Theropithecus_gelada,ENSPTEG00000016753__Piliocolobus_tephrosceles),(ENSPTRG00000043195__Pan_troglodytes,ENSGGOG00000038918__Gorilla_gorilla));

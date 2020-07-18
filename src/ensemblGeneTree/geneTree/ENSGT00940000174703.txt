@@ -1,0 +1,1 @@
+(((ENSPNAG00000004976__Pygocentrus_nattereri,ENSPNAG00000025290__Pygocentrus_nattereri),ENSHHUG00000018345__Hucho_hucho),((ENSUMAG00000002802__Ursus_maritimus,ENSUAMG00000020474__Ursus_americanus),ENSTTRG00000015060__Tursiops_truncatus));

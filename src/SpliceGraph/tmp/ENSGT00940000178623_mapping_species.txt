@@ -1,0 +1,5 @@
+CYNOGLOSSUSSEMILAEVIS	cynoglossus_semilaevis
+SERIOLADUMERILI	seriola_dumerili
+HAPLOCHROMISBURTONI	haplochromis_burtoni
+PUNDAMILIANYEREREI	pundamilia_nyererei
+HIPPOCAMPUSCOMES	hippocampus_comes

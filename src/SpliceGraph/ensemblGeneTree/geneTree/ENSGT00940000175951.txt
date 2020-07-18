@@ -1,0 +1,1 @@
+(((ENSCPRG00005010040__Crocodylus_porosus,ENSSPUG00000015251__Sphenodon_punctatus),ENSEEUG00000011843__Erinaceus_europaeus),((ENSACLG00000006284__Astatotilapia_calliptera,ENSPREG00000002546__Poecilia_reticulata),ENSPMGG00000001685__Periophthalmus_magnuspinnatus));

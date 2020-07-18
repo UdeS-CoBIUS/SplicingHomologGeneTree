@@ -1,1 +1,0 @@
-((((ENSSLDG00000020749__Seriola_lalandi_dorsalis,ENSLBEG00000021506__Labrus_bergylta),((ENSMMOG00000005529__Mola_mola,ENSCSEG00000012088__Cynoglossus_semilaevis),ENSMALG00000017626__Monopterus_albus)),ENSAMXG00000033699__Astyanax_mexicanus),(ENSMUGG00000008083__Meriones_unguiculatus,ENSMUGG00000008118__Meriones_unguiculatus));

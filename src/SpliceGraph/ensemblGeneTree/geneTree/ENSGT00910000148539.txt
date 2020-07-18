@@ -1,0 +1,1 @@
+(((ENSVVUG00000017369__Vulpes_vulpes,ENSCAFG00020024870__Canis_lupus_dingo),ENSUAMG00000020306__Ursus_americanus),((ENSMFAG00000028749__Macaca_fascicularis,ENSMNEG00000043585__Macaca_nemestrina),ENSANAG00000032995__Aotus_nancymaae));

@@ -1,0 +1,12 @@
+>0
+ENSUPAT00010028200: ['5event', 97, 0]
+ENSMSIT00000010783: ['no event', 106, 0]
+ENSMSIT00000010799: ['no event', 106, 0]
+>1
+ENSUPAT00010028200: ['no event', 1, 2]
+ENSMSIT00000010783: ['exon skipping', 0, 0]
+ENSMSIT00000010799: ['exon skipping', 0, 0]
+>2
+ENSUPAT00010028200: [['internal gap < 30', 31, 17], 133, 1]
+ENSMSIT00000010783: ['3event', '5event', 133, 2]
+ENSMSIT00000010799: ['3event', '5event', 133, 2]

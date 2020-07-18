@@ -1,0 +1,15 @@
+>0
+ENSNLET00000042068: ['no event', 24, 0]
+ENSCATT00000038695: ['no event', 24, 0]
+>1
+ENSNLET00000042068: ['no event', 45, 1]
+ENSCATT00000038695: [['internal gap < 30', 30, 3], 42, 1]
+>2
+ENSNLET00000042068: ['no event', 51, 2]
+ENSCATT00000038695: ['exon skipping', 0, 0]
+>3
+ENSNLET00000042068: ['exon skipping', 0, 0]
+ENSCATT00000038695: ['5event', 63, 2]
+>4
+ENSNLET00000042068: ['5event', 128, 0]
+ENSCATT00000038695: ['no event', 129, 0]

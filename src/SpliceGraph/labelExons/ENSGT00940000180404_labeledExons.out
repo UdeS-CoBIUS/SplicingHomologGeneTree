@@ -1,0 +1,8 @@
+>0
+ENSACLT00000015741: ['no event', 78, 0]
+ENSHBUT00000006937: ['no event', 78, 0]
+ENSMZET00005039438: ['no event', 78, 0]
+>1
+ENSACLT00000015741: ['no event', 133, 1]
+ENSHBUT00000006937: [['internal gap < 30', 1, 24], 109, 1]
+ENSMZET00005039438: [['internal gap < 30', 1, 24], 109, 1]

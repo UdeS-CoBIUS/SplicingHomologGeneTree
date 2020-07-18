@@ -1,0 +1,14 @@
+MACACAFASCICULARIS	macaca_fascicularis
+MACACANEMESTRINA	macaca_nemestrina
+PAPIOANUBIS	papio_anubis
+THEROPITHECUSGELADA	theropithecus_gelada
+MANDRILLUSLEUCOPHAEUS	mandrillus_leucophaeus
+CERCOCEBUSATYS	cercocebus_atys
+PILIOCOLOBUSTEPHROSCELES	piliocolobus_tephrosceles
+PANPANISCUS	pan_paniscus
+PANTROGLODYTES	pan_troglodytes
+GORILLAGORILLA	gorilla_gorilla
+CALLITHRIXJACCHUS	callithrix_jacchus
+AOTUSNANCYMAAE	aotus_nancymaae
+MICROCEBUSMURINUS	microcebus_murinus
+PROPITHECUSCOQUERELI	propithecus_coquereli

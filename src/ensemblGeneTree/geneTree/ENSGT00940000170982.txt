@@ -1,0 +1,1 @@
+((ENSPVAG00000010457__Pteropus_vampyrus,ENSSARG00000009364__Sorex_araneus),ENSOANG00000015671__Ornithorhynchus_anatinus);

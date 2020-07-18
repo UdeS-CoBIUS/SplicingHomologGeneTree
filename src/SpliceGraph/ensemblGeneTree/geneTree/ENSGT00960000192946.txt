@@ -1,0 +1,1 @@
+(ENSPPRG00000006258__Panthera_pardus,ENSLCOG00000006603__Lepidothrix_coronata);

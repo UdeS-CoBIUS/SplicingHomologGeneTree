@@ -1,0 +1,1 @@
+(((ENSPNAG00000020611__Pygocentrus_nattereri,ENSAMXG00000042729__Astyanax_mexicanus),ENSDARG00000100885__Danio_rerio),((ENSMALG00000019189__Monopterus_albus,ENSORLG00000027489__Oryzias_latipes_ASM223467v1),ENSHCOG00000017711__Hippocampus_comes));

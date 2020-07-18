@@ -1,0 +1,1 @@
+((((ENSSPUG00000002666__Sphenodon_punctatus,ENSECAG00000039061__Equus_caballus),(ENSDNOG00000038994__Dasypus_novemcinctus,ENSLCOG00000003230__Lepidothrix_coronata)),((ENSPREG00000000973__Poecilia_reticulata,ENSHBUG00000020733__Haplochromis_burtoni),ENSSFOG00015022010__Scleropages_formosus)),ENSPMAG00000001396__Petromyzon_marinus);

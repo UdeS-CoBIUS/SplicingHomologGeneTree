@@ -1,0 +1,1 @@
+((ENSCAFG00000030022__Canis_lupus_familiaris,ENSOARG00000008219__Ovis_aries),ENSLAFG00000030939__Loxodonta_africana);

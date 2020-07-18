@@ -1,0 +1,4 @@
+CIONAINTESTINALIS	ciona_intestinalis
+DROSOPHILAMELANOGASTER	drosophila_melanogaster
+CAENORHABDITISELEGANSSTRAINN2	caenorhabditis_elegans_strain_n2
+SACCHAROMYCESCEREVISIAE	saccharomyces_cerevisiae

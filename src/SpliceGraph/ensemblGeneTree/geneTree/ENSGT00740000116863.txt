@@ -1,0 +1,1 @@
+((ENSMPUG00000006314__Mustela_putorius_furo,ENSMPUG00000006325__Mustela_putorius_furo),ENSOARG00000004894__Ovis_aries);

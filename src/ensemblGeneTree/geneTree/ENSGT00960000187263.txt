@@ -1,0 +1,1 @@
+((((ENSSSCG00000039892__Sus_scrofa,ENSBTAG00000019597__Bos_taurus),ENSMMUG00000040613__Macaca_mulatta),ENSCLAG00000017912__Chinchilla_lanigera),ENSPCIG00000011729__Phascolarctos_cinereus);

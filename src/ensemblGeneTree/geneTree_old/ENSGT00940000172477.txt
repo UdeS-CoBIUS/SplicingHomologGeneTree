@@ -1,1 +1,0 @@
-((ENSPSIG00000004371__Pelodiscus_sinensis,ENSFALG00000014311__Ficedula_albicollis),(ENSPMGG00000019631__Periophthalmus_magnuspinnatus,ENSPKIG00000024923__Paramormyrops_kingsleyae));

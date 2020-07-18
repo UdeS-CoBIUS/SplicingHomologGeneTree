@@ -1,1 +1,0 @@
-(((ENSCSEG00000018308__Cynoglossus_semilaevis,ENSCSEG00000018304__Cynoglossus_semilaevis),ENSPNYG00000020673__Pundamilia_nyererei),ENSTSYG00000030691__Carlito_syrichta);

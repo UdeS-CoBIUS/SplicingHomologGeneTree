@@ -1,0 +1,1 @@
+(ENSMMUG00000021558__Macaca_mulatta,ENSBBBG00000020092__Bison_bison_bison);

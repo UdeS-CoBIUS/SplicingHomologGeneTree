@@ -1,0 +1,1 @@
+((((ENSPLAG00000007918__Poecilia_latipinna,ENSXMAG00000024183__Xiphophorus_maculatus),(ENSOMEG00000021940__Oryzias_melastigma,ENSORLG00000025094__Oryzias_latipes_ASM223467v1)),ENSHHUG00000014568__Hucho_hucho),ENSECRG00000001714__Erpetoichthys_calabaricus);

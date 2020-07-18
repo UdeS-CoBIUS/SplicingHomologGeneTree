@@ -1,1 +1,0 @@
-((ENSOPRG00000011457__Ochotona_princeps,ENSVPAG00000010985__Vicugna_pacos),ENSCPBG00000009119__Chrysemys_picta_bellii);

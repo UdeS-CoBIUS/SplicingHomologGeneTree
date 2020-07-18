@@ -1,0 +1,1 @@
+(((ENSCCAG00000038033__Cebus_capucinus_imitator,ENSPEMG00000030303__Peromyscus_maniculatus_bairdii),ENSUAMG00000003365__Ursus_americanus),((ENSAPLG00000029632__Anas_platyrhynchos_platyrhynchos,ENSMVIG00005017926__Manacus_vitellinus),ENSARWG00000008249__Apteryx_rowi));

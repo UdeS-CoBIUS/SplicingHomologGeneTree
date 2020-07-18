@@ -1,0 +1,1 @@
+((((ENSACIG00000023871__Amphilophus_citrinellus,ENSPNYG00000002541__Pundamilia_nyererei),(ENSLCAG00010017129__Lates_calcarifer,ENSCVAG00000015314__Cyprinodon_variegatus)),(ENSLCRG00005001750__Larimichthys_crocea,ENSTRUG00000022940__Takifugu_rubripes)),(ENSDCDG00000034501__Denticeps_clupeoides,ENSPNAG00000003090__Pygocentrus_nattereri));

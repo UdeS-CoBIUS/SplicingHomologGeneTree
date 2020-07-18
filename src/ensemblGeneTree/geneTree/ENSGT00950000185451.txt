@@ -1,0 +1,1 @@
+(((ENSNVIG00000022467__Neovison_vison,ENSUAMG00000018311__Ursus_americanus),ENSECAG00000034636__Equus_caballus),ENSTBEG00000009889__Tupaia_belangeri);

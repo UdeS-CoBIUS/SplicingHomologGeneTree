@@ -1,1 +1,0 @@
-(ENSCCNG00000012234__Castor_canadensis,ENSCPBG00000028079__Chrysemys_picta_bellii);

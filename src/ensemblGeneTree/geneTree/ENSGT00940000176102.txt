@@ -1,0 +1,1 @@
+((((ENSKMAG00000016414__Kryptolebias_marmoratus,ENSPLAG00000022996__Poecilia_latipinna),ENSPMGG00000010297__Periophthalmus_magnuspinnatus),ENSEEEG00000006076__Electrophorus_electricus),ENSLOCG00000017766__Lepisosteus_oculatus);

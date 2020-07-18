@@ -1,0 +1,1 @@
+(((ENSMAMG00000014710__Mastacembelus_armatus,ENSATEG00000012106__Anabas_testudineus),(ENSPNYG00000023800__Pundamilia_nyererei,ENSXCOG00000019000__Xiphophorus_couchianus)),(ENSSLDG00000020218__Seriola_lalandi_dorsalis,ENSTNIG00000003329__Tetraodon_nigroviridis));

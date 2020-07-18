@@ -1,0 +1,1 @@
+(((((ENSAPLG00000022594__Anas_platyrhynchos_platyrhynchos,ENSCJPG00005000420__Coturnix_japonica),ENSCPGG00000010032__Calidris_pygmaea),ENSNMEG00000002992__Numida_meleagris),ENSLCOG00000000185__Lepidothrix_coronata),ENSNPEG00000003927__Nothoprocta_perdicaria);

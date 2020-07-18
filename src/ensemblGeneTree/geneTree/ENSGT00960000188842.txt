@@ -1,0 +1,1 @@
+((ENSSDAG00000020672__Spermophilus_dauricus,ENSSDAG00000020668__Spermophilus_dauricus),ENSCSEG00000014464__Cynoglossus_semilaevis);

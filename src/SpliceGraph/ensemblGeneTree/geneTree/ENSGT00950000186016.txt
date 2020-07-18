@@ -1,0 +1,1 @@
+((ENSPCIG00000007027__Phascolarctos_cinereus,ENSPCIG00000037150__Phascolarctos_cinereus),ENSMLUG00000030162__Myotis_lucifugus);

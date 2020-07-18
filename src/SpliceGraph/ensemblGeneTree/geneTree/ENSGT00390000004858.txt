@@ -1,0 +1,1 @@
+((((ENSCING00000010265__Ciona_intestinalis,ENSCING00000019592__Ciona_intestinalis),ENSCING00000016272__Ciona_intestinalis),ENSCING00000008914__Ciona_intestinalis),ENSCING00000023226__Ciona_intestinalis);

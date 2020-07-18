@@ -1,0 +1,1 @@
+((((ENSSPUG00000019193__Sphenodon_punctatus,ENSACAG00000000869__Anolis_carolinensis),ENSLAFG00000025690__Loxodonta_africana),ENSPMAG00000009643__Petromyzon_marinus),ENSCING00000023198__Ciona_intestinalis);

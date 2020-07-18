@@ -1,0 +1,1 @@
+(((ENSHHUG00000012661__Hucho_hucho,ENSHHUG00000009510__Hucho_hucho),(ENSMPUG00000005159__Mustela_putorius_furo,ENSTSYG00000010775__Carlito_syrichta)),ENSEBUG00000010496__Eptatretus_burgeri);

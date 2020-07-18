@@ -1,0 +1,1 @@
+((((ENSLSDG00000017770__Lonchura_striata_domestica,ENSMVIG00005014764__Manacus_vitellinus),((ENSAOWG00000008373__Apteryx_owenii,ENSARWG00000011817__Apteryx_rowi),ENSAHAG00000014146__Apteryx_haastii)),ENSNSUG00000006881__Notechis_scutatus),ENSRNOG00000029586__Rattus_norvegicus);

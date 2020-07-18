@@ -1,0 +1,1 @@
+((ENSAHAG00000014473__Apteryx_haastii,ENSARWG00000017426__Apteryx_rowi),ENSPTIG00000020164__Panthera_tigris_altaica);

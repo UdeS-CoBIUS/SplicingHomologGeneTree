@@ -1,0 +1,1 @@
+(((ENSEEUG00000011045__Erinaceus_europaeus,ENSMGAG00000016821__Meleagris_gallopavo),ENSACAG00000027952__Anolis_carolinensis),ENSTNIG00000010306__Tetraodon_nigroviridis);

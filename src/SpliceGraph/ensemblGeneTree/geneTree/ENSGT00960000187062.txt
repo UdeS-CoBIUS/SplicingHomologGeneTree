@@ -1,0 +1,1 @@
+(((((ENSLBEG00000018177__Labrus_bergylta,ENSLBEG00000016493__Labrus_bergylta),ENSLBEG00000020349__Labrus_bergylta),ENSLBEG00000011364__Labrus_bergylta),ENSMALG00000020957__Monopterus_albus),(ENSSDUG00000011722__Seriola_dumerili,ENSSLDG00000009274__Seriola_lalandi_dorsalis));

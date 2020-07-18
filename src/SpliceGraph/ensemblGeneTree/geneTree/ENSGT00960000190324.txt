@@ -1,0 +1,1 @@
+((ENSSDAG00000023316__Spermophilus_dauricus,ENSCCNG00000025885__Castor_canadensis),ENSBTAG00000054884__Bos_taurus);

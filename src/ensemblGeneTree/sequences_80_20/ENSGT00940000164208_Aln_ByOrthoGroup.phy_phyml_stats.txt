@@ -21,10 +21,10 @@
   - Gamma shape parameter: 		0.698
 
 . Run ID:				none
-. Random seed:				1580965216
+. Random seed:				1594958229
 . Subtree patterns aliasing:		no
 . Version:				20120412
-. Time used:				0h0m0s (0 seconds)
+. Time used:				0h0m1s (1 seconds)
 
  oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
  Suggested citations:
@@ -44,19 +44,19 @@
 . Initial tree: 			user tree (ensemblGeneTree/trees_80_20/ENSGT00940000164208.nw)
 . Model of amino acids substitution: 	LG
 . Number of taxa: 			4
-. Log-likelihood: 			-1642.90059
+. Log-likelihood: 			-1639.76406
 . Unconstrained likelihood: 		-1295.46391
-. Parsimony: 				181
-. Tree size: 				1.64248
+. Parsimony: 				184
+. Tree size: 				1.61858
 . Discrete gamma model: 		Yes
   - Number of categories: 		4
-  - Gamma shape parameter: 		0.670
+  - Gamma shape parameter: 		0.698
 
 . Run ID:				none
-. Random seed:				1580965216
+. Random seed:				1594958229
 . Subtree patterns aliasing:		no
 . Version:				20120412
-. Time used:				0h0m0s (0 seconds)
+. Time used:				0h0m1s (1 seconds)
 
  oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
  Suggested citations:
@@ -76,16 +76,16 @@
 . Initial tree: 			user tree (ensemblGeneTree/trees_80_20/ENSGT00940000164208.nw)
 . Model of amino acids substitution: 	LG
 . Number of taxa: 			4
-. Log-likelihood: 			-1639.76406
+. Log-likelihood: 			-1639.76409
 . Unconstrained likelihood: 		-1295.46391
 . Parsimony: 				184
-. Tree size: 				1.61858
+. Tree size: 				1.61814
 . Discrete gamma model: 		Yes
   - Number of categories: 		4
   - Gamma shape parameter: 		0.698
 
 . Run ID:				none
-. Random seed:				1580965216
+. Random seed:				1594958229
 . Subtree patterns aliasing:		no
 . Version:				20120412
 . Time used:				0h0m0s (0 seconds)
@@ -117,10 +117,10 @@
   - Gamma shape parameter: 		0.698
 
 . Run ID:				none
-. Random seed:				1580965216
+. Random seed:				1594958229
 . Subtree patterns aliasing:		no
 . Version:				20120412
-. Time used:				0h0m1s (1 seconds)
+. Time used:				0h0m0s (0 seconds)
 
  oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
  Suggested citations:

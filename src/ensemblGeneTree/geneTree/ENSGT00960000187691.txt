@@ -1,0 +1,1 @@
+((ENSCSEG00000020057__Cynoglossus_semilaevis,ENSORLG00015001170__Oryzias_latipes_ASM223469v1),ENSELUG00000023057__Esox_lucius);

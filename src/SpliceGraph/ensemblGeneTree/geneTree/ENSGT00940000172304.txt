@@ -1,0 +1,1 @@
+(((ENSLBEG00000024454__Labrus_bergylta,ENSPMGG00000013598__Periophthalmus_magnuspinnatus),(ENSDARG00000053792__Danio_rerio,ENSPKIG00000008989__Paramormyrops_kingsleyae)),ENSCING00000017647__Ciona_intestinalis);

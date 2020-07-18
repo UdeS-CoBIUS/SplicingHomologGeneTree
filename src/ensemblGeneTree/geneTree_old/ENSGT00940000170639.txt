@@ -1,1 +1,0 @@
-(((ENSFALG00000007414__Ficedula_albicollis,ENSTGUG00000004016__Taeniopygia_guttata),ENSZALG00000004426__Zonotrichia_albicollis),(ENSECAG00000022981__Equus_caballus,ENSPPYG00000010646__Pongo_abelii));

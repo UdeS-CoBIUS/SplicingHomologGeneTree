@@ -1,0 +1,2 @@
+>completeCluster_0
+Y6G8.16.1	Y6G8.15.1	Y6G8.14.1

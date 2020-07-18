@@ -1,0 +1,1 @@
+(((FBgn0025631__Drosophila_melanogaster,FBgn0046687__Drosophila_melanogaster),FBgn0025632__Drosophila_melanogaster),((ENSACIG00000001285__Amphilophus_citrinellus,ENSNBRG00000016493__Neolamprologus_brichardi),(ENSLCAG00010017938__Lates_calcarifer,ENSLBEG00000019657__Labrus_bergylta)));

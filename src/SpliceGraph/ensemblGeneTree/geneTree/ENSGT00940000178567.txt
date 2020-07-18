@@ -1,0 +1,1 @@
+(((ENSLBEG00000018089__Labrus_bergylta,ENSHCOG00000008436__Hippocampus_comes),(ENSSDUG00000023236__Seriola_dumerili,ENSSLDG00000021830__Seriola_lalandi_dorsalis)),ENSORLG00015020688__Oryzias_latipes_ASM223469v1);

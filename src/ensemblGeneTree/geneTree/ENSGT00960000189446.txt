@@ -1,0 +1,1 @@
+(((((ENSMVIG00005001203__Manacus_vitellinus,ENSMVIG00005010986__Manacus_vitellinus),ENSLCOG00000003010__Lepidothrix_coronata),ENSLSDG00000014270__Lonchura_striata_domestica),(ENSABRG00000018270__Anser_brachyrhynchus,ENSABRG00000011019__Anser_brachyrhynchus)),(ENSAOWG00000001007__Apteryx_owenii,ENSAHAG00000017646__Apteryx_haastii));

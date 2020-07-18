@@ -1,0 +1,1 @@
+(((((ENSPMEG00000024387__Poecilia_mexicana,ENSXMAG00000022946__Xiphophorus_maculatus),ENSPREG00000003129__Poecilia_reticulata),ENSAPEG00000019686__Amphiprion_percula),ENSHBUG00000005185__Haplochromis_burtoni),ENSATEG00000008550__Anabas_testudineus);

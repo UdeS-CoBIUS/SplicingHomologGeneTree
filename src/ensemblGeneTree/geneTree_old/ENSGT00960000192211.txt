@@ -1,1 +1,0 @@
-(ENSCSEG00000005087__Cynoglossus_semilaevis,ENSPVIG00000009202__Pogona_vitticeps);

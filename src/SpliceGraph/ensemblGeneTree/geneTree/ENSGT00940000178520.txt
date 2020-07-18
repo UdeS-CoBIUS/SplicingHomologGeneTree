@@ -1,0 +1,1 @@
+(((ENSXCOG00000001272__Xiphophorus_couchianus,ENSKMAG00000002992__Kryptolebias_marmoratus),ENSOMEG00000020347__Oryzias_melastigma),ENSNBRG00000006065__Neolamprologus_brichardi);

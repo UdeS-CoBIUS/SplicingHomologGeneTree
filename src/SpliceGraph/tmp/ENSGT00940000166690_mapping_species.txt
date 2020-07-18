@@ -1,0 +1,8 @@
+NANNOSPALAXGALILI	nannospalax_galili
+MICROTUSOCHROGASTER	microtus_ochrogaster
+JACULUSJACULUS	jaculus_jaculus
+OCTODONDEGUS	octodon_degus
+DIPODOMYSORDII	dipodomys_ordii
+MACACAMULATTA	macaca_mulatta
+TAENIOPYGIAGUTTATA	taeniopygia_guttata
+EPTATRETUSBURGERI	eptatretus_burgeri

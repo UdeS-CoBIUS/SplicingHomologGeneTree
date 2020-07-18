@@ -1,0 +1,12 @@
+>0
+ENSPKIT00000038791: ['exon skipping', 0, 0]
+ENSPKIT00000016829: ['no event', 11, 0]
+>1
+ENSPKIT00000038791: ['3event', '5event', 199, 0]
+ENSPKIT00000016829: ['no event', 209, 0]
+>2
+ENSPKIT00000038791: ['5event', 106, 1]
+ENSPKIT00000016829: ['exon skipping', 0, 0]
+>3
+ENSPKIT00000038791: ['exon skipping', 0, 0]
+ENSPKIT00000016829: ['5event', 116, 0]

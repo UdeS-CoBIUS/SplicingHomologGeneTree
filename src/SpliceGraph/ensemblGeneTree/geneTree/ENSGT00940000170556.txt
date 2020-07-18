@@ -1,0 +1,1 @@
+((ENSLACG00000006530__Latimeria_chalumnae,ENSTGUG00000016852__Taeniopygia_guttata),ENSLOCG00000005793__Lepisosteus_oculatus);

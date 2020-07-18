@@ -1,1 +1,0 @@
-(((((ENSPLAG00000000489__Poecilia_latipinna,ENSPMEG00000009133__Poecilia_mexicana),ENSPREG00000006909__Poecilia_reticulata),ENSGAFG00000006043__Gambusia_affinis),ENSCVAG00000003275__Cyprinodon_variegatus),ENSDARG00000093776__Danio_rerio);

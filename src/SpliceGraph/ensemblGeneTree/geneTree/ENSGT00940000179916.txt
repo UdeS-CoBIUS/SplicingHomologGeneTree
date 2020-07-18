@@ -1,0 +1,1 @@
+((ENSXCOG00000020477__Xiphophorus_couchianus,ENSORLG00020011036__Oryzias_latipes_ASM223471v1),ENSACLG00000005095__Astatotilapia_calliptera);

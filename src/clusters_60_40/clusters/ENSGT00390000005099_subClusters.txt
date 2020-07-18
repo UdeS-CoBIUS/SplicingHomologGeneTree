@@ -1,0 +1,8 @@
+>cluster_0
+H10D18.5b.1	FBtr0332923
+>cluster_1
+H10D18.5a.1	FBtr0345483
+>cluster_2
+FBtr0345481	H10D18.5d.1
+>cluster_3
+FBtr0302923	H10D18.5c.1

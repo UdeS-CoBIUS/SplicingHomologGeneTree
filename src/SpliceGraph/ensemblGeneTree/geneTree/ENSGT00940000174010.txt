@@ -1,0 +1,1 @@
+(((ENSPTEG00000032236__Piliocolobus_tephrosceles,ENSPTEG00000023571__Piliocolobus_tephrosceles),ENSMNEG00000018559__Macaca_nemestrina),ENSLAFG00000031094__Loxodonta_africana);

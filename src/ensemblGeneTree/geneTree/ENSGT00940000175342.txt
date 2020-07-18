@@ -1,0 +1,1 @@
+((ENSGMOG00000011719__Gadus_morhua,ENSCVAG00000019653__Cyprinodon_variegatus),((ENSCABG00000012076__Chelonoidis_abingdonii,ENSCPBG00000023212__Chrysemys_picta_bellii),ENSNSUG00000005833__Notechis_scutatus));

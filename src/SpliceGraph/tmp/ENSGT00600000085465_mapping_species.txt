@@ -1,0 +1,4 @@
+XIPHOPHORUSCOUCHIANUS	xiphophorus_couchianus
+CYPRINODONVARIEGATUS	cyprinodon_variegatus
+LEPISOSTEUSOCULATUS	lepisosteus_oculatus
+SPHENODONPUNCTATUS	sphenodon_punctatus

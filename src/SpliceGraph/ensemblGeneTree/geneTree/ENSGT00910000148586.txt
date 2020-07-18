@@ -1,0 +1,1 @@
+((ENSTGEG00000012990__Theropithecus_gelada,ENSMNEG00000018196__Macaca_nemestrina),(ENSCANG00000018852__Colobus_angolensis_palliatus,ENSPTEG00000001830__Piliocolobus_tephrosceles));

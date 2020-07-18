@@ -1,0 +1,1 @@
+(((((ENSABRG00000015819__Anser_brachyrhynchus,ENSNMEG00000013375__Numida_meleagris),(ENSLCOG00000005525__Lepidothrix_coronata,ENSMVIG00005003558__Manacus_vitellinus)),ENSDNVG00000017250__Dromaius_novaehollandiae),ENSLOCG00000006716__Lepisosteus_oculatus),ENSEBUG00000014385__Eptatretus_burgeri);

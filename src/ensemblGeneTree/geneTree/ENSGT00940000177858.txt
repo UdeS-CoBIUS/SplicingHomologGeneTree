@@ -1,0 +1,1 @@
+((((ENSAOCG00000022411__Amphiprion_ocellaris,ENSAPEG00000010706__Amphiprion_percula),ENSSPAG00000010322__Stegastes_partitus),((ENSMZEG00005002833__Maylandia_zebra,ENSACLG00000027938__Astatotilapia_calliptera),ENSPNYG00000017616__Pundamilia_nyererei)),(ENSMMOG00000007613__Mola_mola,ENSSDUG00000008487__Seriola_dumerili));

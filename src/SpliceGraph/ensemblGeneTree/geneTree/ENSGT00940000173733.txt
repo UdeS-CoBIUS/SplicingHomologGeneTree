@@ -1,0 +1,1 @@
+(((ENSSMRG00000012390__Salvator_merianae,ENSACAG00000028331__Anolis_carolinensis),ENSMGAG00000013592__Meleagris_gallopavo),ENSOANG00000020507__Ornithorhynchus_anatinus);

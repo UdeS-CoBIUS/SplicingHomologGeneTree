@@ -1,0 +1,1 @@
+(ENSSDAG00000017841__Spermophilus_dauricus,ENSCAFG00020018490__Canis_lupus_dingo);

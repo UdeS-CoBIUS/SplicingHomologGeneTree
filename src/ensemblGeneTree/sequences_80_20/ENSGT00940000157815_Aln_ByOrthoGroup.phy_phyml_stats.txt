@@ -21,10 +21,10 @@
   - Gamma shape parameter: 		1.269
 
 . Run ID:				none
-. Random seed:				1580962073
+. Random seed:				1594948240
 . Subtree patterns aliasing:		no
 . Version:				20120412
-. Time used:				0h0m2s (2 seconds)
+. Time used:				0h0m1s (1 seconds)
 
  oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
  Suggested citations:
@@ -44,16 +44,16 @@
 . Initial tree: 			user tree (ensemblGeneTree/trees_80_20/ENSGT00940000157815.nw)
 . Model of amino acids substitution: 	LG
 . Number of taxa: 			8
-. Log-likelihood: 			-2656.58827
+. Log-likelihood: 			-2460.08657
 . Unconstrained likelihood: 		-1661.90269
-. Parsimony: 				349
-. Tree size: 				2.65712
+. Parsimony: 				266
+. Tree size: 				1.41112
 . Discrete gamma model: 		Yes
   - Number of categories: 		4
-  - Gamma shape parameter: 		0.553
+  - Gamma shape parameter: 		1.269
 
 . Run ID:				none
-. Random seed:				1580962073
+. Random seed:				1594948240
 . Subtree patterns aliasing:		no
 . Version:				20120412
 . Time used:				0h0m2s (2 seconds)
@@ -76,16 +76,16 @@
 . Initial tree: 			user tree (ensemblGeneTree/trees_80_20/ENSGT00940000157815.nw)
 . Model of amino acids substitution: 	LG
 . Number of taxa: 			8
-. Log-likelihood: 			-2460.08657
+. Log-likelihood: 			-2476.42964
 . Unconstrained likelihood: 		-1661.90269
-. Parsimony: 				266
-. Tree size: 				1.41112
+. Parsimony: 				272
+. Tree size: 				1.45070
 . Discrete gamma model: 		Yes
   - Number of categories: 		4
-  - Gamma shape parameter: 		1.269
+  - Gamma shape parameter: 		1.166
 
 . Run ID:				none
-. Random seed:				1580962073
+. Random seed:				1594948240
 . Subtree patterns aliasing:		no
 . Version:				20120412
 . Time used:				0h0m2s (2 seconds)
@@ -108,16 +108,16 @@
 . Initial tree: 			user tree (ensemblGeneTree/trees_80_20/ENSGT00940000157815.nw)
 . Model of amino acids substitution: 	LG
 . Number of taxa: 			8
-. Log-likelihood: 			-2460.08655
+. Log-likelihood: 			-2460.08657
 . Unconstrained likelihood: 		-1661.90269
 . Parsimony: 				266
-. Tree size: 				1.41132
+. Tree size: 				1.41138
 . Discrete gamma model: 		Yes
   - Number of categories: 		4
-  - Gamma shape parameter: 		1.268
+  - Gamma shape parameter: 		1.269
 
 . Run ID:				none
-. Random seed:				1580962073
+. Random seed:				1594948240
 . Subtree patterns aliasing:		no
 . Version:				20120412
 . Time used:				0h0m1s (1 seconds)

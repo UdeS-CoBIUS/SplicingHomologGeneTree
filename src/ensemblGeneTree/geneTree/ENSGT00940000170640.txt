@@ -1,0 +1,1 @@
+(((((ENSMNEG00000021310__Macaca_nemestrina,ENSCATG00000033786__Cercocebus_atys),ENSNLEG00000030537__Nomascus_leucogenys),(ENSUMAG00000004554__Ursus_maritimus,ENSUAMG00000009375__Ursus_americanus)),ENSABRG00000000317__Anser_brachyrhynchus),ENSPMGG00000008099__Periophthalmus_magnuspinnatus);

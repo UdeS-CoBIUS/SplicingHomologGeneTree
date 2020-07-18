@@ -1,0 +1,1 @@
+((((ENSUAMG00000020561__Ursus_americanus,ENSUAMG00000002130__Ursus_americanus),ENSPEMG00000027375__Peromyscus_maniculatus_bairdii),ENSNSUG00000010157__Notechis_scutatus),(ENSLBEG00000021515__Labrus_bergylta,ENSTRUG00000006322__Takifugu_rubripes));

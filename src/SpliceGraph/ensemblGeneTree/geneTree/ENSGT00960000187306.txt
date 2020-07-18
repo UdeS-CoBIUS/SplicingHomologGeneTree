@@ -1,0 +1,1 @@
+(((ENSPKIG00000021188__Paramormyrops_kingsleyae,ENSSFOG00015015268__Scleropages_formosus),((ENSSFOG00015015262__Scleropages_formosus,ENSPKIG00000021201__Paramormyrops_kingsleyae),ENSELUG00000015849__Esox_lucius)),(ENSCABG00000013492__Chelonoidis_abingdonii,ENSCPRG00005011522__Crocodylus_porosus));

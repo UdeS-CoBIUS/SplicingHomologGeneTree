@@ -1,0 +1,1 @@
+(ENSBMUG00000014878__Bos_mutus,ENSPTEG00000030100__Piliocolobus_tephrosceles);

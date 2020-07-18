@@ -1,0 +1,1 @@
+((((ENSSHAG00000004812__Sarcophilus_harrisii,ENSMODG00000008826__Monodelphis_domestica),ENSTBEG00000013881__Tupaia_belangeri),ENSMGAG00000017272__Meleagris_gallopavo),ENSCING00000006115__Ciona_intestinalis);

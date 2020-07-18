@@ -1,1 +1,0 @@
-((((ENSCPUG00000002455__Calidris_pugnax,ENSCPGG00000007877__Calidris_pygmaea),ENSAPLG00000020105__Anas_platyrhynchos_platyrhynchos),ENSCPRG00005016940__Crocodylus_porosus),(ENSCPBG00000000993__Chrysemys_picta_bellii,ENSGAGG00000016543__Gopherus_agassizii));

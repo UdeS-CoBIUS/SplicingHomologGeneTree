@@ -1,1 +1,0 @@
-((((ENSLCOG00000005028__Lepidothrix_coronata,ENSMVIG00005019575__Manacus_vitellinus),ENSLSDG00000017042__Lonchura_striata_domestica),(ENSCPGG00000004229__Calidris_pygmaea,ENSCJPG00005007839__Coturnix_japonica)),(ENSCABG00000011718__Chelonoidis_abingdonii,ENSCPBG00000019771__Chrysemys_picta_bellii));

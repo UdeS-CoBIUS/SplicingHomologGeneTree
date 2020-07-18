@@ -1,0 +1,1 @@
+((ENSACLG00000015347__Astatotilapia_calliptera,ENSHBUG00000007954__Haplochromis_burtoni),((ENSHBUG00000010744__Haplochromis_burtoni,ENSPNYG00000000870__Pundamilia_nyererei),ENSACLG00000015332__Astatotilapia_calliptera));

@@ -1,0 +1,1 @@
+((((ENSTGEG00000005415__Theropithecus_gelada,ENSMMUG00000038632__Macaca_mulatta),ENSPTEG00000031020__Piliocolobus_tephrosceles),ENSANAG00000031978__Aotus_nancymaae),ENSHCOG00000009662__Hippocampus_comes);

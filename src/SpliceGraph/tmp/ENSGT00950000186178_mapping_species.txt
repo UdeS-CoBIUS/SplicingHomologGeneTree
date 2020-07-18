@@ -1,0 +1,4 @@
+VULPESVULPES	vulpes_vulpes
+NEOVISONVISON	neovison_vison
+EQUUSCABALLUS	equus_caballus
+CASTORCANADENSIS	castor_canadensis

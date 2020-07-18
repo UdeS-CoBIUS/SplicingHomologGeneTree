@@ -1,0 +1,1 @@
+(ENSOANG00000007163__Ornithorhynchus_anatinus,ENSOPRG00000014314__Ochotona_princeps);

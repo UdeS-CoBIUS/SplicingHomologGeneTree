@@ -1,0 +1,4 @@
+XIPHOPHORUSMACULATUS	xiphophorus_maculatus
+GAMBUSIAAFFINIS	gambusia_affinis
+XIPHOPHORUSCOUCHIANUS	xiphophorus_couchianus
+POECILIARETICULATA	poecilia_reticulata

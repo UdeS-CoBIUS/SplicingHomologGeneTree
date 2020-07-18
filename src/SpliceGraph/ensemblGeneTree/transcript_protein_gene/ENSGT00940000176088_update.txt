@@ -1,0 +1,5 @@
+B0285.1b.1	WBGene00007135	Caenorhabditis_elegans_strain_N2	B0285.1b.1
+ENSSLDP00000002558	ENSSLDG00000001944	Seriola_lalandi_dorsalis
+ENSPTEP00000007967	ENSPTEG00000009045	Piliocolobus_tephrosceles
+ENSPTEP00000013455	ENSPTEG00000015078	Piliocolobus_tephrosceles
+YKL139W_mRNA	YKL139W	Saccharomyces_cerevisiae_strain_S288C

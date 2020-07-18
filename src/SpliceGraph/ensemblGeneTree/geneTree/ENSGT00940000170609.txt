@@ -1,0 +1,1 @@
+((ENSFDAG00000019052__Fukomys_damarensis,ENSCLAG00000003446__Chinchilla_lanigera),ENSDORG00000027143__Dipodomys_ordii);

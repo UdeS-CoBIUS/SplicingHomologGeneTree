@@ -1,0 +1,1 @@
+((((((ENSMFAG00000036865__Macaca_fascicularis,ENSMFAG00000000385__Macaca_fascicularis),ENSCATG00000035459__Cercocebus_atys),ENSCANG00000029946__Colobus_angolensis_palliatus),ENSUPAG00010006798__Urocitellus_parryii),ENSPCIG00000035490__Phascolarctos_cinereus),ENSNSUG00000002056__Notechis_scutatus);

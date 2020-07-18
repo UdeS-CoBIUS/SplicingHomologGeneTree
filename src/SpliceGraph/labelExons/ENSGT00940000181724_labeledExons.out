@@ -1,0 +1,9 @@
+>0
+ENSPMGT00000011454: [['internal gap < 30', 190, 22], 260, 0]
+ENSIPUT00000026968: ['3event', 254, 0]
+>1
+ENSPMGT00000011454: ['exon skipping', 0, 0]
+ENSIPUT00000026968: ['5event', 96, 2]
+>2
+ENSPMGT00000011454: ['5event', 200, 0]
+ENSIPUT00000026968: ['exon skipping', 0, 0]

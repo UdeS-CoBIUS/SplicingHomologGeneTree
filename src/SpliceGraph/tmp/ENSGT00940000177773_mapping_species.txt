@@ -1,0 +1,14 @@
+LATESCALCARIFER	lates_calcarifer
+LATESCALCARIFER	lates_calcarifer
+SERIOLALALANDI	seriola_lalandi
+SERIOLADUMERILI	seriola_dumerili
+SERIOLALALANDI	seriola_lalandi
+COTTOPERCAGOBIO	cottoperca_gobio
+COTTOPERCAGOBIO	cottoperca_gobio
+LARIMICHTHYSCROCEA	larimichthys_crocea
+AMPHILOPHUSCITRINELLUS	amphilophus_citrinellus
+AMPHILOPHUSCITRINELLUS	amphilophus_citrinellus
+HAPLOCHROMISBURTONI	haplochromis_burtoni
+POECILIARETICULATA	poecilia_reticulata
+MONOPTERUSALBUS	monopterus_albus
+MONOPTERUSALBUS	monopterus_albus

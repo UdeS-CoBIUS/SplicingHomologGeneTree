@@ -1,0 +1,12 @@
+>0
+ENSCVAT00000005689: ['no event', 53, 0]
+ENSXCOT00000028317: ['exon skipping', 0, 0]
+>1
+ENSCVAT00000005689: [['internal gap >= 30', 1, 132], 89, 0]
+ENSXCOT00000028317: ['5event', 220, 0]
+>2
+ENSCVAT00000005689: ['no event', 36, 2]
+ENSXCOT00000028317: ['exon skipping', 0, 0]
+>3
+ENSCVAT00000005689: ['exon skipping', 0, 0]
+ENSXCOT00000028317: ['5event', 153, 2]

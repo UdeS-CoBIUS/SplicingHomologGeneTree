@@ -1,0 +1,1 @@
+((ENSCSEG00000018203__Cynoglossus_semilaevis,ENSCSEG00000020309__Cynoglossus_semilaevis),ENSRNOG00000043413__Rattus_norvegicus);

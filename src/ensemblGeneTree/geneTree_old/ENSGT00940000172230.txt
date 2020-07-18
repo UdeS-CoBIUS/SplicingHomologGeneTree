@@ -1,1 +1,0 @@
-(ENSTBEG00000011699__Tupaia_belangeri,ENSDORG00000009731__Dipodomys_ordii);

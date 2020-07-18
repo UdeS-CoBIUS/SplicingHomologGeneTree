@@ -1,0 +1,1 @@
+((((ENSUMAG00000022852__Ursus_maritimus,ENSVVUG00000019542__Vulpes_vulpes),ENSNVIG00000011910__Neovison_vison),(ENSCCAG00000020448__Cebus_capucinus_imitator,ENSTBEG00000001537__Tupaia_belangeri)),ENSPCIG00000015665__Phascolarctos_cinereus);

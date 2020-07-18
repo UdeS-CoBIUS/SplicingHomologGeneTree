@@ -1,0 +1,1 @@
+((ENSMALG00000006657__Monopterus_albus,ENSPREG00000013169__Poecilia_reticulata),ENSIPUG00000000853__Ictalurus_punctatus);

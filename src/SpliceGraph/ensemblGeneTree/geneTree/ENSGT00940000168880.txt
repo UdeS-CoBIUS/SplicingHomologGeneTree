@@ -1,0 +1,1 @@
+(((ENSTGUG00000000914__Taeniopygia_guttata,ENSFALG00000014646__Ficedula_albicollis),ENSPSIG00000001453__Pelodiscus_sinensis),ENSLOCG00000018065__Lepisosteus_oculatus);

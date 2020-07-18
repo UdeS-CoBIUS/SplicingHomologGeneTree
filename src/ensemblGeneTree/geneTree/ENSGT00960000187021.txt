@@ -1,0 +1,1 @@
+(((((ENSPREG00000015929__Poecilia_reticulata,ENSPLAG00000016836__Poecilia_latipinna),ENSXMAG00000025132__Xiphophorus_maculatus),ENSFHEG00000021244__Fundulus_heteroclitus),(ENSAPOG00000008773__Acanthochromis_polyacanthus,ENSAOCG00000007947__Amphiprion_ocellaris)),ENSPKIG00000013869__Paramormyrops_kingsleyae);

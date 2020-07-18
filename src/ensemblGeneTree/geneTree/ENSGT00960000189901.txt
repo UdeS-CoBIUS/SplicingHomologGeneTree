@@ -1,0 +1,1 @@
+(((ENSCPUG00000011112__Calidris_pugnax,ENSJHYG00000001920__Junco_hyemalis),ENSGAGG00000008836__Gopherus_agassizii),ENSMSIG00000005947__Mus_spicilegus);

@@ -1,0 +1,1 @@
+((ENSABRG00000015799__Anser_brachyrhynchus,ENSAPLG00000009233__Anas_platyrhynchos_platyrhynchos),ENSXCOG00000007698__Xiphophorus_couchianus);

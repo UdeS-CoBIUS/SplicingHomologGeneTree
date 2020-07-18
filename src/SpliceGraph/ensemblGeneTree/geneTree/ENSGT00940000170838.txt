@@ -1,0 +1,1 @@
+(((ENSMALG00000016740__Monopterus_albus,ENSHCOG00000002337__Hippocampus_comes),((((ENSAOWG00000014421__Apteryx_owenii,ENSCPBG00000017075__Chrysemys_picta_bellii),ENSNSUG00000001753__Notechis_scutatus),(ENSPCAG00000008637__Procavia_capensis,ENSUAMG00000024328__Ursus_americanus)),ENSCCEG00000022175__Cyanistes_caeruleus)),ENSCING00000012203__Ciona_intestinalis);

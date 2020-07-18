@@ -1,0 +1,2 @@
+SARCOPHILUSHARRISII	sarcophilus_harrisii
+PHASCOLARCTOSCINEREUS	phascolarctos_cinereus

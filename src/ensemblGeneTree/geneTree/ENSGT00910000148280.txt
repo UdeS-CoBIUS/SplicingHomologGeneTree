@@ -1,0 +1,1 @@
+((ENSPANG00000034373__Papio_anubis,ENSMMUG00000012047__Macaca_mulatta),(ENSRBIG00000014697__Rhinopithecus_bieti,ENSPTEG00000019770__Piliocolobus_tephrosceles));

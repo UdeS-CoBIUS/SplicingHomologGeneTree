@@ -1,0 +1,1 @@
+((ENSMUNG00000008936__Melopsittacus_undulatus,ENSAPLG00000024175__Anas_platyrhynchos_platyrhynchos),ENSLSDG00000003897__Lonchura_striata_domestica);

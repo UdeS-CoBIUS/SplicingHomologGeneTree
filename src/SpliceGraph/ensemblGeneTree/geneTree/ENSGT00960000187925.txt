@@ -1,0 +1,1 @@
+(((ENSXMAG00000024550__Xiphophorus_maculatus,ENSXCOG00000012413__Xiphophorus_couchianus),ENSPNAG00000012165__Pygocentrus_nattereri),ENSPKIG00000021370__Paramormyrops_kingsleyae);

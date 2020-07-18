@@ -1,0 +1,1 @@
+((ENSLACG00000007610__Latimeria_chalumnae,ENSORLG00015002627__Oryzias_latipes_ASM223469v1),ENSEBUG00000004975__Eptatretus_burgeri);

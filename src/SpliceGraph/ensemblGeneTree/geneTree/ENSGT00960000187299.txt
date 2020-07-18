@@ -1,0 +1,1 @@
+(((ENSCABG00000002727__Chelonoidis_abingdonii,ENSGAGG00000009844__Gopherus_agassizii),(ENSTGUG00000010160__Taeniopygia_guttata,ENSFALG00000014310__Ficedula_albicollis)),(ENSLAFG00000015826__Loxodonta_africana,ENSETEG00000006593__Echinops_telfairi));

@@ -1,0 +1,1 @@
+(((ENSHGLG00100019536__Heterocephalus_glaber_HetGla_1.0,ENSHGLG00000020738__Heterocephalus_glaber_HetGla_female_1.0),ENSCLAG00000002891__Chinchilla_lanigera),ENSODEG00000009304__Octodon_degus);

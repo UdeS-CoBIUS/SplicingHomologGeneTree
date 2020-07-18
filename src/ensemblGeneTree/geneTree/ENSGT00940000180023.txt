@@ -1,0 +1,1 @@
+((ENSNBRG00000012247__Neolamprologus_brichardi,ENSPMGG00000002080__Periophthalmus_magnuspinnatus),ENSTRUG00000025288__Takifugu_rubripes);

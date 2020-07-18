@@ -1,0 +1,1 @@
+((ENSOANG00000029620__Ornithorhynchus_anatinus,ENSMZEG00005012968__Maylandia_zebra),YDR420W__Saccharomyces_cerevisiae_strain_S288C);

@@ -1,1 +1,0 @@
-(((ENSEASG00005010498__Equus_asinus_asinus,ENSECAG00000034985__Equus_caballus),((ENSMMMG00000019102__Marmota_marmota_marmota,ENSSDAG00000005852__Spermophilus_dauricus),ENSMMMG00000017402__Marmota_marmota_marmota)),(ENSAHAG00000008998__Apteryx_haastii,ENSAOWG00000018899__Apteryx_owenii));

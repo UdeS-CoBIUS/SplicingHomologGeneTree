@@ -1,0 +1,12 @@
+URSUSAMERICANUS	ursus_americanus
+URSUSMARITIMUS	ursus_maritimus
+BISONBISON	bison_bison
+PEROMYSCUSMANICULATUS	peromyscus_maniculatus
+CRICETULUSGRISEUS	cricetulus_griseus
+SPERMOPHILUSDAURICUS	spermophilus_dauricus
+UROCITELLUSPARRYII	urocitellus_parryii
+CALLITHRIXJACCHUS	callithrix_jacchus
+CALLITHRIXJACCHUS	callithrix_jacchus
+PROPITHECUSCOQUERELI	propithecus_coquereli
+NOTAMACROPUSEUGENII	notamacropus_eugenii
+ICTALURUSPUNCTATUS	ictalurus_punctatus

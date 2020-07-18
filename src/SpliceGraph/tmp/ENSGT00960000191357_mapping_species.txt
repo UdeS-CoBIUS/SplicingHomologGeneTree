@@ -1,0 +1,2 @@
+CASTORCANADENSIS	castor_canadensis
+DIPODOMYSORDII	dipodomys_ordii

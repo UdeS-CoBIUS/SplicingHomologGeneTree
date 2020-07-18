@@ -1,0 +1,1 @@
+((ENSOANG00000030008__Ornithorhynchus_anatinus,ENSOANG00000028592__Ornithorhynchus_anatinus),ENSTNIG00000019676__Tetraodon_nigroviridis);

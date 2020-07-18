@@ -1,0 +1,1 @@
+((ENSAPLG00000019073__Anas_platyrhynchos_platyrhynchos,ENSLCOG00000014802__Lepidothrix_coronata),ENSGAGG00000006039__Gopherus_agassizii);

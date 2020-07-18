@@ -1,0 +1,12 @@
+>0
+ENSCPGT00000023752: ['exon skipping', 0, 0]
+ENSSPUT00000018106: ['no event', 11, 0]
+>1
+ENSCPGT00000023752: ['exon skipping', 0, 0]
+ENSSPUT00000018106: ['no event', 71, 0]
+>2
+ENSCPGT00000023752: ['5event', 269, 0]
+ENSSPUT00000018106: [['internal gap >= 30', 62, 90], 181, 0]
+>3
+ENSCPGT00000023752: ['exon skipping', 0, 0]
+ENSSPUT00000018106: ['no event', 2, 0]

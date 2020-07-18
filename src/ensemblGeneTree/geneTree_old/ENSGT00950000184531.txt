@@ -1,1 +1,0 @@
-((ENSSPUG00000013270__Sphenodon_punctatus,ENSSHAG00000000298__Sarcophilus_harrisii),ENSPMAG00000004773__Petromyzon_marinus);

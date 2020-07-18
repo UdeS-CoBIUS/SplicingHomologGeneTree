@@ -1,0 +1,2 @@
+>completeCluster_0
+C50C10.7.1	C50C10.6.1	W08G11.5.1	Y116A8C.40b.1	R10E8.5.1

@@ -1,0 +1,55 @@
+>0
+ZK688.12.1: ['exon skipping', 0, 0]
+Y53F4B.19.1: ['no event', 191, 0]
+F52F12.8.1: ['exon skipping', 0, 0]
+C15H11.1.1: ['exon skipping', 0, 0]
+>1
+ZK688.12.1: ['5event', 63, 0]
+Y53F4B.19.1: ['exon skipping', 0, 0]
+F52F12.8.1: ['5event', ['internal gap < 30', 39, 20], 44, 0]
+C15H11.1.1: ['5event', ['internal gap < 30', 39, 20], 44, 0]
+>2
+ZK688.12.1: ['no event', 4, 1]
+Y53F4B.19.1: ['exon skipping', 0, 0]
+F52F12.8.1: ['exon skipping', 0, 0]
+C15H11.1.1: ['exon skipping', 0, 0]
+>3
+ZK688.12.1: [['internal gap < 30', 83, 25], 203, 0]
+Y53F4B.19.1: ['3event', '5event', 168, 0]
+F52F12.8.1: ['5event', ['internal gap >= 30', 151, 53], 175, 0]
+C15H11.1.1: ['5event', ['internal gap >= 30', 151, 53], 175, 0]
+>4
+ZK688.12.1: ['no event', 47, 1]
+Y53F4B.19.1: ['exon skipping', 0, 0]
+F52F12.8.1: ['exon skipping', 0, 0]
+C15H11.1.1: ['exon skipping', 0, 0]
+>5
+ZK688.12.1: ['exon skipping', 0, 0]
+Y53F4B.19.1: ['5event', 86, 0]
+F52F12.8.1: ['exon skipping', 0, 0]
+C15H11.1.1: ['exon skipping', 0, 0]
+>6
+ZK688.12.1: ['exon skipping', 0, 0]
+Y53F4B.19.1: ['no event', 77, 0]
+F52F12.8.1: ['exon skipping', 0, 0]
+C15H11.1.1: ['exon skipping', 0, 0]
+>7
+ZK688.12.1: ['5event', 7, 1]
+Y53F4B.19.1: ['exon skipping', 0, 0]
+F52F12.8.1: ['exon skipping', 0, 0]
+C15H11.1.1: ['exon skipping', 0, 0]
+>8
+ZK688.12.1: [['internal gap >= 30', 165, 75], 173, 0]
+Y53F4B.19.1: ['3event', '5event', 156, 0]
+F52F12.8.1: ['5event', ['internal gap >= 30', 142, 98], 150, 2]
+C15H11.1.1: ['5event', ['internal gap >= 30', 139, 101], 147, 2]
+>9
+ZK688.12.1: ['exon skipping', 0, 0]
+Y53F4B.19.1: ['5event', 335, 0]
+F52F12.8.1: ['exon skipping', 0, 0]
+C15H11.1.1: ['exon skipping', 0, 0]
+>10
+ZK688.12.1: ['5event', 21, 2]
+Y53F4B.19.1: ['exon skipping', 0, 0]
+F52F12.8.1: ['exon skipping', 0, 0]
+C15H11.1.1: ['exon skipping', 0, 0]

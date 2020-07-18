@@ -1,0 +1,1 @@
+((FBgn0025639__Drosophila_melanogaster,WBGene00016313__Caenorhabditis_elegans_strain_N2),((((ENSPRNG00000003007__Parambassis_ranga,ENSPRNG00000002858__Parambassis_ranga),ENSPRNG00000002899__Parambassis_ranga),ENSACIG00000006460__Amphilophus_citrinellus),(ENSSDUG00000023840__Seriola_dumerili,ENSSLDG00000012937__Seriola_lalandi_dorsalis)));

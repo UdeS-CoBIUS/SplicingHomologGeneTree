@@ -1,1 +1,0 @@
-(((ENSSCAG00000002762__Serinus_canaria,ENSZALG00000013370__Zonotrichia_albicollis),ENSPMJG00000010446__Parus_major),(ENSLCOG00000015676__Lepidothrix_coronata,ENSMVIG00005002210__Manacus_vitellinus));

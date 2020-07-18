@@ -1,0 +1,1 @@
+((ENSPEMG00000027904__Peromyscus_maniculatus_bairdii,ENSCGRG00015014163__Cricetulus_griseus_CriGri-PICR),(ENSMSIG00000009186__Mus_spicilegus,ENSRNOG00000057545__Rattus_norvegicus));

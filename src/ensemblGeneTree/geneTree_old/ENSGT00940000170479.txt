@@ -1,1 +1,0 @@
-(((ENSTGUG00000015709__Taeniopygia_guttata,ENSSPUG00000010901__Sphenodon_punctatus),ENSPMAG00000007091__Petromyzon_marinus),FBgn0085409__Drosophila_melanogaster);

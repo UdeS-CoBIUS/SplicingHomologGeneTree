@@ -1,1 +1,0 @@
-(YGL055W__Saccharomyces_cerevisiae_strain_S288C,ENSSLDG00000002508__Seriola_lalandi_dorsalis);

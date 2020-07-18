@@ -1,1 +1,0 @@
-(((ENSORLG00015006239__Oryzias_latipes_ASM223469v1,ENSORLG00000029276__Oryzias_latipes_ASM223467v1),ENSTRUG00000023842__Takifugu_rubripes),ENSPKIG00000003766__Paramormyrops_kingsleyae);

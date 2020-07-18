@@ -1,0 +1,1 @@
+(((ENSMLUG00000015341__Myotis_lucifugus,ENSAMEG00000017701__Ailuropoda_melanoleuca),((ENSPVAG00000007910__Pteropus_vampyrus,ENSPPYG00000003081__Pongo_abelii),ENSOCUG00000000813__Oryctolagus_cuniculus)),ENSLAFG00000022887__Loxodonta_africana);

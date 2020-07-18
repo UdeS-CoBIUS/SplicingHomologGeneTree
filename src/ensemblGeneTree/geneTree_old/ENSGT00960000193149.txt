@@ -1,1 +1,0 @@
-(ENSNSUG00000008762__Notechis_scutatus,ENSCABG00000009006__Chelonoidis_abingdonii);

@@ -1,0 +1,1 @@
+((((ENSPPAG00000021902__Pan_paniscus,ENSPTRG00000008464__Pan_troglodytes),ENSPPYG00000007650__Pongo_abelii),ENSNLEG00000000652__Nomascus_leucogenys),((ENSRBIG00000044966__Rhinopithecus_bieti,ENSRROG00000042753__Rhinopithecus_roxellana),ENSCATG00000044579__Cercocebus_atys));

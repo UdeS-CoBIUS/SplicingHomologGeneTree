@@ -1,0 +1,1 @@
+(((ENSAPOG00000004562__Acanthochromis_polyacanthus,ENSAPOG00000022929__Acanthochromis_polyacanthus),(ENSLBEG00000011865__Labrus_bergylta,ENSLBEG00000014715__Labrus_bergylta)),ENSPMGG00000001197__Periophthalmus_magnuspinnatus);

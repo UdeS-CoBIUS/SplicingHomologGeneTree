@@ -1,0 +1,72 @@
+>0
+ENSFHET00000025179: ['no event', 99, 0]
+ENSCVAT00000024693: ['no event', 99, 0]
+ENSCVAT00000031860: ['no event', 99, 0]
+>1
+ENSFHET00000025179: ['no event', 190, 1]
+ENSCVAT00000024693: ['no event', 190, 1]
+ENSCVAT00000031860: ['no event', 190, 1]
+>2
+ENSFHET00000025179: ['no event', 216, 0]
+ENSCVAT00000024693: ['3event', 163, 0]
+ENSCVAT00000031860: [['internal gap < 30', 176, 13], 203, 0]
+>3
+ENSFHET00000025179: ['exon skipping', 0, 0]
+ENSCVAT00000024693: ['exon skipping', 0, 0]
+ENSCVAT00000031860: ['no event', 81, 0]
+>4
+ENSFHET00000025179: ['exon skipping', 0, 0]
+ENSCVAT00000024693: ['5event', 210, 2]
+ENSCVAT00000031860: [['internal gap >= 30', 4, 32], 182, 1]
+>5
+ENSFHET00000025179: ['exon skipping', 0, 0]
+ENSCVAT00000024693: ['no event', 99, 0]
+ENSCVAT00000031860: ['no event', 99, 0]
+>6
+ENSFHET00000025179: ['exon skipping', 0, 0]
+ENSCVAT00000024693: ['no event', 118, 1]
+ENSCVAT00000031860: ['no event', 118, 1]
+>7
+ENSFHET00000025179: ['exon skipping', 0, 0]
+ENSCVAT00000024693: ['no event', 143, 0]
+ENSCVAT00000031860: ['no event', 143, 0]
+>8
+ENSFHET00000025179: ['exon skipping', 0, 0]
+ENSCVAT00000024693: ['no event', 154, 0]
+ENSCVAT00000031860: ['no event', 154, 0]
+>9
+ENSFHET00000025179: ['exon skipping', 0, 0]
+ENSCVAT00000024693: ['no event', 129, 2]
+ENSCVAT00000031860: ['no event', 129, 2]
+>10
+ENSFHET00000025179: ['exon skipping', 0, 0]
+ENSCVAT00000024693: ['no event', 92, 0]
+ENSCVAT00000031860: ['no event', 92, 0]
+>11
+ENSFHET00000025179: ['exon skipping', 0, 0]
+ENSCVAT00000024693: ['no event', 100, 0]
+ENSCVAT00000031860: ['3event', 67, 0]
+>12
+ENSFHET00000025179: ['exon skipping', 0, 0]
+ENSCVAT00000024693: ['no event', 135, 2]
+ENSCVAT00000031860: ['exon skipping', 0, 0]
+>13
+ENSFHET00000025179: ['exon skipping', 0, 0]
+ENSCVAT00000024693: ['no event', 131, 0]
+ENSCVAT00000031860: ['exon skipping', 0, 0]
+>14
+ENSFHET00000025179: ['exon skipping', 0, 0]
+ENSCVAT00000024693: ['no event', 171, 0]
+ENSCVAT00000031860: ['5event', 152, 0]
+>15
+ENSFHET00000025179: ['exon skipping', 0, 0]
+ENSCVAT00000024693: ['3event', 289, 0]
+ENSCVAT00000031860: ['no event', 293, 0]
+>16
+ENSFHET00000025179: ['exon skipping', 0, 0]
+ENSCVAT00000024693: ['5event', 143, 0]
+ENSCVAT00000031860: ['exon skipping', 0, 0]
+>17
+ENSFHET00000025179: ['5event', 85, 1]
+ENSCVAT00000024693: ['exon skipping', 0, 0]
+ENSCVAT00000031860: ['exon skipping', 0, 0]

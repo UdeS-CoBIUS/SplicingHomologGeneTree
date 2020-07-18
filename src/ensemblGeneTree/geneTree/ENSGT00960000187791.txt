@@ -1,0 +1,1 @@
+((((ENSCGRG00000000506__Cricetulus_griseus_CriGri_1.0,ENSCGRG00015013225__Cricetulus_griseus_CriGri-PICR),ENSMUGG00000008269__Meriones_unguiculatus),ENSNLEG00000035340__Nomascus_leucogenys),(ENSBMUG00000026368__Bos_mutus,ENSUAMG00000001937__Ursus_americanus));

@@ -1,0 +1,3 @@
+DASYPUSNOVEMCINCTUS	dasypus_novemcinctus
+MESOCRICETUSAURATUS	mesocricetus_auratus
+CIONASAVIGNYI	ciona_savignyi

@@ -1,0 +1,1 @@
+(((((ENSOPRG00000008399__Ochotona_princeps,ENSTBEG00000008618__Tupaia_belangeri),ENSOANG00000030777__Ornithorhynchus_anatinus),(MGP_PahariEiJ_G0014179__Mus_pahari_strain_PAHARI_EIJ,ENSOANG00000022487__Ornithorhynchus_anatinus)),ENSLOCG00000001339__Lepisosteus_oculatus),ENSPMAG00000009606__Petromyzon_marinus);

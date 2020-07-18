@@ -1,1 +1,0 @@
-(ENSSHAG00000007994__Sarcophilus_harrisii,ENSLOCG00000006413__Lepisosteus_oculatus);

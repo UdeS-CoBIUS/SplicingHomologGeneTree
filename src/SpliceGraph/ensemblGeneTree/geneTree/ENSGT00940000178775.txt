@@ -1,0 +1,1 @@
+(((ENSPLAG00000004036__Poecilia_latipinna,ENSXCOG00000016946__Xiphophorus_couchianus),ENSMAMG00000002118__Mastacembelus_armatus),ENSSMAG00000008495__Scophthalmus_maximus);

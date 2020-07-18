@@ -1,0 +1,1 @@
+((ENSUMAG00000024770__Ursus_maritimus,ENSUAMG00000027947__Ursus_americanus),ENSCSAG00000001673__Chlorocebus_sabaeus);

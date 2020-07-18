@@ -1,0 +1,1 @@
+((ENSPMGG00000022998__Periophthalmus_magnuspinnatus,ENSSDUG00000004987__Seriola_dumerili),ENSMALG00000004979__Monopterus_albus);

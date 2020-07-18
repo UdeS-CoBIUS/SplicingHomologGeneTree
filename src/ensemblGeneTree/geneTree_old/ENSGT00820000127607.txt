@@ -1,1 +1,0 @@
-((ENSDNOG00000042969__Dasypus_novemcinctus,ENSAMEG00000001240__Ailuropoda_melanoleuca),ENSMODG00000028906__Monodelphis_domestica);

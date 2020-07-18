@@ -1,0 +1,1 @@
+((ENSMMMG00000013439__Marmota_marmota_marmota,ENSUPAG00010016555__Urocitellus_parryii),ENSVPAG00000000093__Vicugna_pacos);

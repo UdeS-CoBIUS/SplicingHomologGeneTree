@@ -1,0 +1,2 @@
+POECILIALATIPINNA	poecilia_latipinna
+SERIOLADUMERILI	seriola_dumerili

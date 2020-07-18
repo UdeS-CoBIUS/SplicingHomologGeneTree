@@ -1,0 +1,7 @@
+CALIDRISPUGNAX	calidris_pugnax
+CALIDRISPYGMAEA	calidris_pygmaea
+TAENIOPYGIAGUTTATA	taeniopygia_guttata
+ZONOTRICHIAALBICOLLIS	zonotrichia_albicollis
+FICEDULAALBICOLLIS	ficedula_albicollis
+APTERYXOWENII	apteryx_owenii
+APTERYXROWI	apteryx_rowi

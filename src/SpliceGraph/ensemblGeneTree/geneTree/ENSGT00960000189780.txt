@@ -1,0 +1,1 @@
+(((ENSMMMG00000009522__Marmota_marmota_marmota,ENSCCNG00000002632__Castor_canadensis),(ENSMMMG00000019053__Marmota_marmota_marmota,ENSPSMG00000021780__Prolemur_simus)),ENSOARG00000016317__Ovis_aries);

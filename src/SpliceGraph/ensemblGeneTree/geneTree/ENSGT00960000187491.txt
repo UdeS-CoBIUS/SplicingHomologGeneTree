@@ -1,0 +1,1 @@
+(((((ENSBMUG00000001567__Bos_mutus,ENSBTAG00000054142__Bos_taurus),ENSSSCG00000037842__Sus_scrofa),ENSTBEG00000007501__Tupaia_belangeri),ENSMEUG00000012006__Notamacropus_eugenii),(ENSAPLG00000030002__Anas_platyrhynchos_platyrhynchos,ENSAPLG00000027609__Anas_platyrhynchos_platyrhynchos));

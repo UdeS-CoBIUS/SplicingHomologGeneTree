@@ -1,0 +1,1 @@
+(((ENSTTRG00000008558__Tursiops_truncatus,ENSTBEG00000015535__Tupaia_belangeri),ENSDNOG00000025970__Dasypus_novemcinctus),ENSOANG00000031282__Ornithorhynchus_anatinus);

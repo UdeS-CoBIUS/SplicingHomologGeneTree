@@ -1,0 +1,1 @@
+(((ENSFALG00000014151__Ficedula_albicollis,ENSLSDG00000012594__Lonchura_striata_domestica),ENSPMAG00000007857__Petromyzon_marinus),(ENSEBUG00000009840__Eptatretus_burgeri,ENSORLG00000003387__Oryzias_latipes_ASM223467v1));

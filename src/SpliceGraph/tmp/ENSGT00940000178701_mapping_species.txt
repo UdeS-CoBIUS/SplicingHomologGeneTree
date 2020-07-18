@@ -1,0 +1,4 @@
+ORYZIASLATIPES	oryzias_latipes
+ORYZIASLATIPES	oryzias_latipes
+POECILIALATIPINNA	poecilia_latipinna
+POECILIAMEXICANA	poecilia_mexicana

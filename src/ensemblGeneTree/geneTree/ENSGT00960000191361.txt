@@ -1,0 +1,1 @@
+(ENSOANG00000028478__Ornithorhynchus_anatinus,ENSAHAG00000000227__Apteryx_haastii);

@@ -1,0 +1,1 @@
+((((ENSPLAG00000004269__Poecilia_latipinna,ENSXCOG00000013865__Xiphophorus_couchianus),ENSHCOG00000009744__Hippocampus_comes),((ENSPNAG00000014207__Pygocentrus_nattereri,ENSPNAG00000014192__Pygocentrus_nattereri),ENSPNAG00000027331__Pygocentrus_nattereri)),ENSCCNG00000006902__Castor_canadensis);

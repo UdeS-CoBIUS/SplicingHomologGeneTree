@@ -1,0 +1,1 @@
+((((((ENSLACG00000018060__Latimeria_chalumnae,ENSLACG00000013787__Latimeria_chalumnae),ENSLACG00000002252__Latimeria_chalumnae),ENSLACG00000015225__Latimeria_chalumnae),ENSLACG00000001867__Latimeria_chalumnae),ENSLACG00000003462__Latimeria_chalumnae),ENSPMGG00000008800__Periophthalmus_magnuspinnatus);

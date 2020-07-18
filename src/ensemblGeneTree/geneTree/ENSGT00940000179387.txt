@@ -1,0 +1,1 @@
+((ENSRNOG00000031486__Rattus_norvegicus,ENSLSDG00000010302__Lonchura_striata_domestica),ENSAMXG00000038267__Astyanax_mexicanus);

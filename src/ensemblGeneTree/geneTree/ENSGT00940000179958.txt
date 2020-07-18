@@ -1,0 +1,1 @@
+((((ENSNBRG00000017814__Neolamprologus_brichardi,ENSHCOG00000015822__Hippocampus_comes),ENSPMGG00000024196__Periophthalmus_magnuspinnatus),ENSAMXG00000030311__Astyanax_mexicanus),(ENSVVUG00000024916__Vulpes_vulpes,ENSNSUG00000018226__Notechis_scutatus));

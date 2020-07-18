@@ -1,0 +1,1 @@
+((((ENSTGEG00000023719__Theropithecus_gelada,ENSPTEG00000031054__Piliocolobus_tephrosceles),ENSCCNG00000029589__Castor_canadensis),ENSNVIG00000015681__Neovison_vison),ENSCPRG00005012466__Crocodylus_porosus);

@@ -1,0 +1,1 @@
+(((ENSFALG00000013181__Ficedula_albicollis,ENSCGRG00000000616__Cricetulus_griseus_CriGri_1.0),FBgn0053556__Drosophila_melanogaster),YIL159W__Saccharomyces_cerevisiae_strain_S288C);

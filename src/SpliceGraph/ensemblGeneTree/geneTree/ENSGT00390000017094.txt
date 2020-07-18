@@ -1,0 +1,1 @@
+((((ENSGACG00000004518__Gasterosteus_aculeatus,ENSTNIG00000005310__Tetraodon_nigroviridis),ENSGMOG00000005536__Gadus_morhua),ENSLOCG00000009381__Lepisosteus_oculatus),(ENSCING00000009383__Ciona_intestinalis,ENSCSAVG00000009003__Ciona_savignyi));

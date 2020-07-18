@@ -1,0 +1,1 @@
+((ENSNMEG00000022664__Numida_meleagris,ENSCJPG00005014841__Coturnix_japonica),ENSABRG00000013432__Anser_brachyrhynchus);

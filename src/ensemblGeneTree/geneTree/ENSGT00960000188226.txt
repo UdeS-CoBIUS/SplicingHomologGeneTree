@@ -1,0 +1,1 @@
+(((ENSLCOG00000000278__Lepidothrix_coronata,ENSMVIG00005018060__Manacus_vitellinus),((ENSJHYG00000004607__Junco_hyemalis,ENSLSDG00000006118__Lonchura_striata_domestica),ENSSCAG00000004386__Serinus_canaria)),((ENSGAGG00000021211__Gopherus_agassizii,ENSCABG00000017542__Chelonoidis_abingdonii),ENSCPBG00000023021__Chrysemys_picta_bellii));

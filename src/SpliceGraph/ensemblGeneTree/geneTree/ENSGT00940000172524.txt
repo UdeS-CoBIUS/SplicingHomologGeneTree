@@ -1,0 +1,1 @@
+(((ENSGAGG00000009474__Gopherus_agassizii,ENSCPBG00000005418__Chrysemys_picta_bellii),(ENSAOWG00000016751__Apteryx_owenii,ENSARWG00000011967__Apteryx_rowi)),((ENSRBIG00000031673__Rhinopithecus_bieti,ENSCCNG00000007443__Castor_canadensis),ENSOANG00000031544__Ornithorhynchus_anatinus));

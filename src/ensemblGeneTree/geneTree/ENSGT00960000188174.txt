@@ -1,0 +1,1 @@
+(((ENSCGRG00015023923__Cricetulus_griseus_CriGri-PICR,ENSCGRG00015008850__Cricetulus_griseus_CriGri-PICR),((MGP_SPRETEiJ_G0015878__Mus_spretus_strain_SPRET/EiJ,ENSMSIG00000028950__Mus_spicilegus),ENSMUGG00000011998__Meriones_unguiculatus)),(ENSOPRG00000005276__Ochotona_princeps,ENSOPRG00000006508__Ochotona_princeps));

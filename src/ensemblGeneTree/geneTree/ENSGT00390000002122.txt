@@ -1,0 +1,1 @@
+(((ENSCAFG00000029800__Canis_lupus_familiaris,ENSCAFG00000012194__Canis_lupus_familiaris),(ENSSHAG00000011846__Sarcophilus_harrisii,ENSMODG00000024592__Monodelphis_domestica)),((ENSFALG00000014773__Ficedula_albicollis,ENSTGUG00000002192__Taeniopygia_guttata),ENSPSIG00000001729__Pelodiscus_sinensis));

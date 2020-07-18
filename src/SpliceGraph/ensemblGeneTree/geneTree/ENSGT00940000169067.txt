@@ -1,0 +1,1 @@
+(((ENSRROG00000029354__Rhinopithecus_roxellana,ENSMGAG00000001078__Meleagris_gallopavo),((ENSTNIG00000003093__Tetraodon_nigroviridis,ENSPMGG00000008604__Periophthalmus_magnuspinnatus),ENSFHEG00000015360__Fundulus_heteroclitus)),ENSPMAG00000001829__Petromyzon_marinus);

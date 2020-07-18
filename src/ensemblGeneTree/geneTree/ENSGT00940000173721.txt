@@ -1,0 +1,1 @@
+(((ENSTGUG00000016211__Taeniopygia_guttata,ENSCPUG00000012798__Calidris_pugnax),ENSMUNG00000008096__Melopsittacus_undulatus),ENSOANG00000030360__Ornithorhynchus_anatinus);

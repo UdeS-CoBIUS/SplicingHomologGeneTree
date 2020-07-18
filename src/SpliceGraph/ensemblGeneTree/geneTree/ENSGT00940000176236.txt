@@ -1,0 +1,1 @@
+(((ENSMLEG00000037316__Mandrillus_leucophaeus,ENSCCNG00000029099__Castor_canadensis),ENSCAFG00020003403__Canis_lupus_dingo),(ENSPKIG00000001682__Paramormyrops_kingsleyae,ENSACIG00000010978__Amphilophus_citrinellus));

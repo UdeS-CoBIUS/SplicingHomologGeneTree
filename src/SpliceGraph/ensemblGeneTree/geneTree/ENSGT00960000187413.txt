@@ -1,0 +1,1 @@
+((((ENSBTAG00000051400__Bos_taurus,ENSBBBG00000023317__Bison_bison_bison),ENSCHIG00000013088__Capra_hircus),(ENSFCAG00000039215__Felis_catus,ENSPPRG00000004158__Panthera_pardus)),ENSMUGG00000021357__Meriones_unguiculatus);

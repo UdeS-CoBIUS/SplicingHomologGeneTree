@@ -1,0 +1,3 @@
+GOPHERUSAGASSIZII	gopherus_agassizii
+LOXODONTAAFRICANA	loxodonta_africana
+SCLEROPAGESFORMOSUS	scleropages_formosus

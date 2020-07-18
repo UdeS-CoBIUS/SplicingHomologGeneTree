@@ -1,1 +1,0 @@
-(((((ENSCJPG00005012569__Coturnix_japonica,ENSNMEG00000008291__Numida_meleagris),(ENSAHAG00000003494__Apteryx_haastii,ENSAOWG00000017577__Apteryx_owenii)),(ENSORLG00015011098__Oryzias_latipes_ASM223469v1,ENSOMEG00000006982__Oryzias_melastigma)),ENSUPAG00010012879__Urocitellus_parryii),(ENSPMAG00000010312__Petromyzon_marinus,ENSEBUG00000014652__Eptatretus_burgeri));

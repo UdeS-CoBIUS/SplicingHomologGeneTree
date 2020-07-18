@@ -1,0 +1,1 @@
+(ENSRNOG00000038721__Rattus_norvegicus,ENSOPRG00000004488__Ochotona_princeps);

@@ -1,0 +1,1 @@
+((((ENSCAFG00020008810__Canis_lupus_dingo,ENSVVUG00000011312__Vulpes_vulpes),ENSUMAG00000017718__Ursus_maritimus),ENSSDAG00000022892__Spermophilus_dauricus),ENSNPEG00000014272__Nothoprocta_perdicaria);

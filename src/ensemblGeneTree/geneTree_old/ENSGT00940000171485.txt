@@ -1,1 +1,0 @@
-(((((ENSBMUG00000005015__Bos_mutus,ENSOARG00000006088__Ovis_aries),ENSUAMG00000003671__Ursus_americanus),(ENSCCNG00000028512__Castor_canadensis,ENSCCNG00000006974__Castor_canadensis)),ENSCHOG00000001518__Choloepus_hoffmanni),ENSNSUG00000019950__Notechis_scutatus);

@@ -1,0 +1,1 @@
+(((((ENSACIG00000021270__Amphilophus_citrinellus,ENSPNYG00000003505__Pundamilia_nyererei),(ENSXCOG00000017734__Xiphophorus_couchianus,ENSPLAG00000021777__Poecilia_latipinna)),ENSTRUG00000025130__Takifugu_rubripes),ENSCSEG00000008715__Cynoglossus_semilaevis),ENSELUG00000004328__Esox_lucius);

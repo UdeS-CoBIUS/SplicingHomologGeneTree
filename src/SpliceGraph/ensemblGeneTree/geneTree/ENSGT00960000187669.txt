@@ -1,0 +1,1 @@
+((ENSAMXG00000043569__Astyanax_mexicanus,ENSDARG00000114019__Danio_rerio),(ENSTGUG00000010230__Taeniopygia_guttata,ENSSCAG00000014155__Serinus_canaria));

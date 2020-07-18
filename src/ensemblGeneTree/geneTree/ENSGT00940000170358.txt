@@ -1,0 +1,1 @@
+((((ENSARWG00000018186__Apteryx_rowi,ENSSCAG00000002123__Serinus_canaria),ENSCPRG00005011770__Crocodylus_porosus),(ENSGAGG00000002287__Gopherus_agassizii,ENSPSIG00000000718__Pelodiscus_sinensis)),(ENSTSYG00000030356__Carlito_syrichta,ENSTSYG00000033050__Carlito_syrichta));

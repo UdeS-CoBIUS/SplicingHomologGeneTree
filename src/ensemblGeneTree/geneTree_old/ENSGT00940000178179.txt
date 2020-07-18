@@ -1,1 +1,0 @@
-(((((ENSCVAG00000013389__Cyprinodon_variegatus,ENSCVAG00000000793__Cyprinodon_variegatus),ENSCVAG00000009059__Cyprinodon_variegatus),ENSCVAG00000015401__Cyprinodon_variegatus),ENSCVAG00000008194__Cyprinodon_variegatus),ENSELUG00000000565__Esox_lucius);

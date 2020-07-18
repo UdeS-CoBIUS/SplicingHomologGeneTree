@@ -1,0 +1,1 @@
+((ENSCING00000013477__Ciona_intestinalis,ENSCING00000014262__Ciona_intestinalis),((ENSCPBG00000023081__Chrysemys_picta_bellii,ENSXCOG00000003511__Xiphophorus_couchianus),ENSEBUG00000000586__Eptatretus_burgeri));

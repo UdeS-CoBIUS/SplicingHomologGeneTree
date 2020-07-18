@@ -1,0 +1,1 @@
+((ENSATEG00000021663__Anabas_testudineus,ENSMMOG00000006525__Mola_mola),(((((ENSACLG00000012756__Astatotilapia_calliptera,ENSMZEG00005021602__Maylandia_zebra),ENSPNYG00000017066__Pundamilia_nyererei),ENSHBUG00000004270__Haplochromis_burtoni),ENSNBRG00000013615__Neolamprologus_brichardi),ENSACIG00000018061__Amphilophus_citrinellus));

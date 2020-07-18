@@ -1,0 +1,1 @@
+(((ENSLBEG00000021528__Labrus_bergylta,ENSXCOG00000001828__Xiphophorus_couchianus),ENSFALG00000002666__Ficedula_albicollis),(ENSCGRG00015000992__Cricetulus_griseus_CriGri-PICR,ENSAMXG00000036024__Astyanax_mexicanus));

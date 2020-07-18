@@ -1,0 +1,45 @@
+>0
+ENSEEET00000001022: ['3event', 349, 0]
+ENSIPUT00000019842: ['5event', ['internal gap >= 30', 305, 35], 363, 0]
+ENSPNAT00000021872: [['internal gap < 30', 317, 23], 375, 0]
+ENSAMXT00000034204: ['3event', '5event', 337, 0]
+>1
+ENSEEET00000001022: ['5event', 113, 1]
+ENSIPUT00000019842: [['internal gap < 30', 97, 3], 111, 1]
+ENSPNAT00000021872: [['internal gap < 30', 1, 3], 111, 1]
+ENSAMXT00000034204: ['5event', 110, 1]
+>2
+ENSEEET00000001022: ['no event', 90, 1]
+ENSIPUT00000019842: ['no event', 90, 1]
+ENSPNAT00000021872: ['no event', 90, 1]
+ENSAMXT00000034204: ['no event', 90, 1]
+>3
+ENSEEET00000001022: ['no event', 80, 2]
+ENSIPUT00000019842: [['internal gap < 30', 23, 9], 71, 2]
+ENSPNAT00000021872: ['no event', 80, 2]
+ENSAMXT00000034204: ['no event', 80, 2]
+>4
+ENSEEET00000001022: ['no event', 108, 2]
+ENSIPUT00000019842: [['internal gap < 30', 61, 6], 102, 2]
+ENSPNAT00000021872: ['no event', 108, 2]
+ENSAMXT00000034204: [['internal gap < 30', 3, 6], 102, 2]
+>5
+ENSEEET00000001022: ['no event', 147, 0]
+ENSIPUT00000019842: ['no event', 147, 0]
+ENSPNAT00000021872: [['internal gap < 30', 42, 3], 144, 0]
+ENSAMXT00000034204: ['no event', 147, 0]
+>6
+ENSEEET00000001022: ['no event', 89, 1]
+ENSIPUT00000019842: ['no event', 89, 1]
+ENSPNAT00000021872: ['no event', 89, 1]
+ENSAMXT00000034204: ['no event', 89, 1]
+>7
+ENSEEET00000001022: ['no event', 92, 1]
+ENSIPUT00000019842: ['no event', 92, 1]
+ENSPNAT00000021872: ['no event', 92, 1]
+ENSAMXT00000034204: ['no event', 92, 1]
+>8
+ENSEEET00000001022: ['no event', 121, 1]
+ENSIPUT00000019842: ['no event', 121, 1]
+ENSPNAT00000021872: ['no event', 121, 1]
+ENSAMXT00000034204: ['no event', 121, 1]

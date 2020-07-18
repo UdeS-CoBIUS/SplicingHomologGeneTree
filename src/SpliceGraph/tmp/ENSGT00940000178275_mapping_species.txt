@@ -1,0 +1,6 @@
+ASTATOTILAPIACALLIPTERA	astatotilapia_calliptera
+MAYLANDIAZEBRA	maylandia_zebra
+NEOLAMPROLOGUSBRICHARDI	neolamprologus_brichardi
+SERIOLALALANDIDORSALIS	seriola_lalandi_dorsalis
+SERIOLADUMERILI	seriola_dumerili
+MASTACEMBELUSARMATUS	mastacembelus_armatus

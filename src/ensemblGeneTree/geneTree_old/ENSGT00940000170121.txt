@@ -1,1 +1,0 @@
-((ENSMEUG00000010287__Notamacropus_eugenii,ENSTTRG00000000546__Tursiops_truncatus),ENSOANG00000020557__Ornithorhynchus_anatinus);

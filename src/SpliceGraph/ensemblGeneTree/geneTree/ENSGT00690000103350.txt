@@ -1,0 +1,1 @@
+((ENSSCAG00000010304__Serinus_canaria,ENSACAG00000027210__Anolis_carolinensis),(ENSSHAG00000004972__Sarcophilus_harrisii,ENSOANG00000020570__Ornithorhynchus_anatinus));

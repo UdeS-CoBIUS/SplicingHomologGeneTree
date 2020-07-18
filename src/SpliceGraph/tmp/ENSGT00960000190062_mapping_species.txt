@@ -1,0 +1,4 @@
+APTERYXHAASTII	apteryx_haastii
+APTERYXOWENII	apteryx_owenii
+APTERYXROWI	apteryx_rowi
+NOTHOPROCTAPERDICARIA	nothoprocta_perdicaria

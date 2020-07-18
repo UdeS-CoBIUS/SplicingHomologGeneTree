@@ -1,0 +1,7 @@
+CERCOCEBUSATYS	cercocebus_atys
+MACACAFASCICULARIS	macaca_fascicularis
+PAPIOANUBIS	papio_anubis
+THEROPITHECUSGELADA	theropithecus_gelada
+MANDRILLUSLEUCOPHAEUS	mandrillus_leucophaeus
+RHINOPITHECUSBIETI	rhinopithecus_bieti
+PANPANISCUS	pan_paniscus

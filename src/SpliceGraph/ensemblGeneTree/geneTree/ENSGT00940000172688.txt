@@ -1,0 +1,1 @@
+(((ENSMMMG00000015035__Marmota_marmota_marmota,ENSSDAG00000008470__Spermophilus_dauricus),ENSOPRG00000005771__Ochotona_princeps),((((ENSAMEG00000004053__Ailuropoda_melanoleuca,ENSUMAG00000022050__Ursus_maritimus),ENSNVIG00000008383__Neovison_vison),ENSCAFG00020012462__Canis_lupus_dingo),(ENSBMUG00000009133__Bos_mutus,ENSBBBG00000012483__Bison_bison_bison)));

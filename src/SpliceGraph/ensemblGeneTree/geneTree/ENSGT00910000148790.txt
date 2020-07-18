@@ -1,0 +1,1 @@
+(((ENSEASG00005016793__Equus_asinus_asinus,ENSECAG00000029510__Equus_caballus),ENSFCAG00000048840__Felis_catus),((((ENSTGEG00000024071__Theropithecus_gelada,ENSPANG00000036083__Papio_anubis),ENSPTEG00000039511__Piliocolobus_tephrosceles),ENSCCAG00000028823__Cebus_capucinus_imitator),ENSMMMG00000020910__Marmota_marmota_marmota));

@@ -1,0 +1,1 @@
+(((YLR136C__Saccharomyces_cerevisiae_strain_S288C,ENSCING00000014446__Ciona_intestinalis),(YDR151C__Saccharomyces_cerevisiae_strain_S288C,ENSCING00000023848__Ciona_intestinalis)),(FBgn0011837__Drosophila_melanogaster,ENSAPLG00000026054__Anas_platyrhynchos_platyrhynchos));

@@ -1,0 +1,5 @@
+ENSVVUP00000022517	ENSVVUG00000016528	Vulpes_vulpes	ENSVVUT00000029808
+FBpp0085427	FBgn0033021	Drosophila_melanogaster
+T23F11.1.1	WBGene00011953	Caenorhabditis_elegans_strain_N2
+YER089C_mRNA	YER089C	Saccharomyces_cerevisiae_strain_S288C
+YBL056W_mRNA	YBL056W	Saccharomyces_cerevisiae_strain_S288C

@@ -1,0 +1,3 @@
+APTERYXHAASTII	apteryx_haastii
+APTERYXOWENII	apteryx_owenii
+FICEDULAALBICOLLIS	ficedula_albicollis

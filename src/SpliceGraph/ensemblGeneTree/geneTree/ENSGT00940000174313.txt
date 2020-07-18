@@ -1,0 +1,1 @@
+((((ENSPMJG00000004724__Parus_major,ENSSCAG00000007018__Serinus_canaria),ENSGALG00000000309__Gallus_gallus),ENSPSIG00000007313__Pelodiscus_sinensis),ENSXETG00000033210__Xenopus_tropicalis);

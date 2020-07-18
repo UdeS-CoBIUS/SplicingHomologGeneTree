@@ -1,1 +1,0 @@
-(((((((ENSXMAG00000011181__Xiphophorus_maculatus,ENSGAFG00000007031__Gambusia_affinis),ENSPFOG00000023268__Poecilia_formosa),ENSCVAG00000004082__Cyprinodon_variegatus),ENSKMAG00000003660__Kryptolebias_marmoratus),ENSCSEG00000004327__Cynoglossus_semilaevis),ENSELUG00000006445__Esox_lucius),ENSPNAG00000006180__Pygocentrus_nattereri);

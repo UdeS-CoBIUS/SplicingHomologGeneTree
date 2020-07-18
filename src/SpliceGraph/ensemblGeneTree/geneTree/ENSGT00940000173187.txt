@@ -1,0 +1,1 @@
+((ENSPCAG00000004274__Procavia_capensis,ENSMODG00000024489__Monodelphis_domestica),ENSOANG00000003798__Ornithorhynchus_anatinus);

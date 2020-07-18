@@ -1,0 +1,6 @@
+FELISCATUS	felis_catus
+PANTHERAPARDUS	panthera_pardus
+NEOVISONVISON	neovison_vison
+UROCITELLUSPARRYII	urocitellus_parryii
+CASTORCANADENSIS	castor_canadensis
+PROLEMURSIMUS	prolemur_simus

@@ -1,0 +1,1 @@
+(ENSVVUG00000023430__Vulpes_vulpes,ENSBMUG00000024672__Bos_mutus);

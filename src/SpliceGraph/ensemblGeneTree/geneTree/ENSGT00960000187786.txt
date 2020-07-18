@@ -1,0 +1,1 @@
+((ENSXMAG00000026812__Xiphophorus_maculatus,ENSTRUG00000023732__Takifugu_rubripes),ENSEBUG00000006043__Eptatretus_burgeri);

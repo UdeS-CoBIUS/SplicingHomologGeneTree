@@ -1,0 +1,1 @@
+((ENSSMAG00000019495__Scophthalmus_maximus,ENSTRUG00000021079__Takifugu_rubripes),ENSPKIG00000000907__Paramormyrops_kingsleyae);

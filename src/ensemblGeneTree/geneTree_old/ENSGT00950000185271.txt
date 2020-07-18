@@ -1,1 +1,0 @@
-((ENSCANG00000014931__Colobus_angolensis_palliatus,ENSNLEG00000033775__Nomascus_leucogenys),ENSPTIG00000005445__Panthera_tigris_altaica);

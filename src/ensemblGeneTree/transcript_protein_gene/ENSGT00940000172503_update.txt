@@ -1,0 +1,2 @@
+F54D12.6a.1	WBGene00018819	Caenorhabditis_elegans_strain_N2	F54D12.6a.1
+FBpp0304312	FBgn0032042	Drosophila_melanogaster	FBtr0331990

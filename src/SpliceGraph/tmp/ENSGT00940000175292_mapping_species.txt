@@ -1,0 +1,2 @@
+ACANTHOCHROMISPOLYACANTHUS	acanthochromis_polyacanthus
+GADUSMORHUA	gadus_morhua

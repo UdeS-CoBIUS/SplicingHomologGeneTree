@@ -1,0 +1,1 @@
+(((ENSATEG00000018055__Anabas_testudineus,ENSATEG00000005685__Anabas_testudineus),ENSMAMG00000005345__Mastacembelus_armatus),(ENSAPEG00000011035__Amphiprion_percula,ENSONIG00000009077__Oreochromis_niloticus));

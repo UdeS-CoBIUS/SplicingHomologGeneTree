@@ -1,0 +1,1 @@
+((ENSSPAG00000019234__Stegastes_partitus,ENSELUG00000018197__Esox_lucius),(((ENSGGOG00000036139__Gorilla_gorilla,ENSUPAG00010003303__Urocitellus_parryii),ENSCAFG00020022909__Canis_lupus_dingo),(ENSMVIG00005017072__Manacus_vitellinus,ENSNPEG00000006849__Nothoprocta_perdicaria)));

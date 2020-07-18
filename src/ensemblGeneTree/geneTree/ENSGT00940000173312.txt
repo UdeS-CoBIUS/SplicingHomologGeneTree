@@ -1,0 +1,1 @@
+(ENSLACG00000022254__Latimeria_chalumnae,ENSCING00000012260__Ciona_intestinalis);

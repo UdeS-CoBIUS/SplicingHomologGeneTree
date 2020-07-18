@@ -1,1 +1,0 @@
-(ENSACAG00000026075__Anolis_carolinensis,ENSOANG00000030486__Ornithorhynchus_anatinus);

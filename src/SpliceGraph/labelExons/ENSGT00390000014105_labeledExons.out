@@ -1,0 +1,15 @@
+>0
+FBtr0077084: [['internal gap < 30', 215, 20], 236, 0]
+Y73E7A.6.1: ['3event', 125, 0]
+Y73E7A.6.2: ['3event', 125, 0]
+ENSPMGT00000028106: [['internal gap < 30', 52, 3], 253, 0]
+>1
+FBtr0077084: ['exon skipping', 0, 0]
+Y73E7A.6.1: ['5event', 144, 2]
+Y73E7A.6.2: ['5event', 144, 2]
+ENSPMGT00000028106: ['exon skipping', 0, 0]
+>2
+FBtr0077084: ['exon skipping', 0, 0]
+Y73E7A.6.1: ['exon skipping', 0, 0]
+Y73E7A.6.2: ['exon skipping', 0, 0]
+ENSPMGT00000028106: ['5event', 9, 2]

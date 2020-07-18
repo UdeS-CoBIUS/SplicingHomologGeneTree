@@ -1,0 +1,12 @@
+MACACAMULATTA	macaca_mulatta
+MACACANEMESTRINA	macaca_nemestrina
+MACACAFASCICULARIS	macaca_fascicularis
+PAPIOANUBIS	papio_anubis
+MANDRILLUSLEUCOPHAEUS	mandrillus_leucophaeus
+PAPIOANUBIS	papio_anubis
+CEBUSCAPUCINUS	cebus_capucinus
+MERIONESUNGUICULATUS	meriones_unguiculatus
+URSUSAMERICANUS	ursus_americanus
+SPHENODONPUNCTATUS	sphenodon_punctatus
+AMPHILOPHUSCITRINELLUS	amphilophus_citrinellus
+XIPHOPHORUSCOUCHIANUS	xiphophorus_couchianus

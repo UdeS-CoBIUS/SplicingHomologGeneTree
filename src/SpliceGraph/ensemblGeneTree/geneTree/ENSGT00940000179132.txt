@@ -1,0 +1,1 @@
+((ENSPKIG00000011936__Paramormyrops_kingsleyae,ENSPKIG00000000193__Paramormyrops_kingsleyae),(ENSORLG00020018388__Oryzias_latipes_ASM223471v1,ENSORLG00015020384__Oryzias_latipes_ASM223469v1));

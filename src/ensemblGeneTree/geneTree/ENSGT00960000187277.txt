@@ -1,0 +1,1 @@
+((((ENSAPEG00000024818__Amphiprion_percula,ENSAPEG00000008659__Amphiprion_percula),ENSAOCG00000020776__Amphiprion_ocellaris),ENSAPOG00000020687__Acanthochromis_polyacanthus),ENSSLDG00000023858__Seriola_lalandi_dorsalis);

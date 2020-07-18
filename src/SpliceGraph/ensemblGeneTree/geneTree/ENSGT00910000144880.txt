@@ -1,0 +1,1 @@
+(((((ENSMODG00000004887__Monodelphis_domestica,ENSMODG00000000197__Monodelphis_domestica),ENSMODG00000000702__Monodelphis_domestica),ENSMODG00000004911__Monodelphis_domestica),ENSMODG00000000751__Monodelphis_domestica),ENSMODG00000020810__Monodelphis_domestica);

@@ -1,0 +1,1 @@
+(((ENSGALG00000052401__Gallus_gallus,ENSGALG00000051061__Gallus_gallus),ENSNMEG00000004207__Numida_meleagris),((ENSFALG00000015150__Ficedula_albicollis,ENSFALG00000001359__Ficedula_albicollis),ENSPMJG00000017466__Parus_major));

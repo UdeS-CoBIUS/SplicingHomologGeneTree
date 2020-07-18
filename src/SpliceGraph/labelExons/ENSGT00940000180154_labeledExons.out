@@ -1,0 +1,20 @@
+>0
+ENSMALT00000025774: ['exon skipping', 0, 0]
+ENSSMAT00000012832: ['exon skipping', 0, 0]
+ENSAMXT00000054779: [['internal gap < 30', 24, 1], 151, 0]
+>1
+ENSMALT00000025774: ['5event', 126, 0]
+ENSSMAT00000012832: ['5event', 228, 0]
+ENSAMXT00000054779: [['internal gap >= 30', 1, 95], 134, 2]
+>2
+ENSMALT00000025774: [['internal gap < 30', 223, 1], 235, 1]
+ENSSMAT00000012832: [['internal gap >= 30', 153, 58], 178, 1]
+ENSAMXT00000054779: ['exon skipping', 0, 0]
+>3
+ENSMALT00000025774: ['exon skipping', 0, 0]
+ENSSMAT00000012832: ['exon skipping', 0, 0]
+ENSAMXT00000054779: ['5event', 67, 1]
+>4
+ENSMALT00000025774: ['5event', 14, 0]
+ENSSMAT00000012832: ['exon skipping', 0, 0]
+ENSAMXT00000054779: ['exon skipping', 0, 0]

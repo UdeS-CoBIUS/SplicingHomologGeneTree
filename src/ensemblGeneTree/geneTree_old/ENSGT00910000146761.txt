@@ -1,1 +1,0 @@
-(((((ENSMFAG00000029834__Macaca_fascicularis,ENSRBIG00000042535__Rhinopithecus_bieti),ENSTGEG00000007463__Theropithecus_gelada),ENSPTEG00000035115__Piliocolobus_tephrosceles),ENSG00000258691__Homo_sapiens),ENSOGAG00000029001__Otolemur_garnettii);

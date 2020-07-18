@@ -1,1 +1,0 @@
-(ENSPMAG00000005620__Petromyzon_marinus,ENSEBUG00000013071__Eptatretus_burgeri);

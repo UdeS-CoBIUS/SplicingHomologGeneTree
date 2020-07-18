@@ -1,0 +1,1 @@
+((((ENSMMMG00000005785__Marmota_marmota_marmota,ENSSDAG00000001625__Spermophilus_dauricus),ENSTSYG00000032413__Carlito_syrichta),(((ENSBBBG00000006567__Bison_bison_bison,ENSBMUG00000005660__Bos_mutus),ENSOARG00000015719__Ovis_aries),(ENSNVIG00000006304__Neovison_vison,ENSPPRG00000022956__Panthera_pardus))),ENSCPBG00000006637__Chrysemys_picta_bellii);

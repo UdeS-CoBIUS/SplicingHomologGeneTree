@@ -1,0 +1,1 @@
+((ENSXMAG00000029843__Xiphophorus_maculatus,ENSCVAG00000005674__Cyprinodon_variegatus),((((ENSACLG00000000920__Astatotilapia_calliptera,ENSPNYG00000010771__Pundamilia_nyererei),ENSMZEG00005007279__Maylandia_zebra),ENSHBUG00000016337__Haplochromis_burtoni),ENSACIG00000012883__Amphilophus_citrinellus));

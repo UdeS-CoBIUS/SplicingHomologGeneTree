@@ -1,1 +1,0 @@
-(((ENSNLEG00000027184__Nomascus_leucogenys,ENSUPAG00010017972__Urocitellus_parryii),ENSSSCG00000039606__Sus_scrofa),ENSSPUG00000011175__Sphenodon_punctatus);

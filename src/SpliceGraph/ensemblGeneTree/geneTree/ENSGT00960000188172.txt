@@ -1,0 +1,1 @@
+((ENSFALG00000012329__Ficedula_albicollis,ENSDNVG00000017522__Dromaius_novaehollandiae),ENSATEG00000010917__Anabas_testudineus);

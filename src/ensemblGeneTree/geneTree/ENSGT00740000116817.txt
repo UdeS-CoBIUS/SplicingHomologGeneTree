@@ -1,0 +1,1 @@
+(((ENSDNOG00000035589__Dasypus_novemcinctus,ENSDNOG00000042524__Dasypus_novemcinctus),ENSDNOG00000047514__Dasypus_novemcinctus),ENSMODG00000027982__Monodelphis_domestica);

@@ -1,0 +1,1 @@
+(((ENSSCAG00000006253__Serinus_canaria,ENSLSDG00000008446__Lonchura_striata_domestica),ENSJHYG00000015922__Junco_hyemalis),ENSARWG00000014025__Apteryx_rowi);

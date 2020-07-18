@@ -1,0 +1,70 @@
+>0
+ENSCINT00000016535: [['internal gap < 30', 194, 18], 207, 0]
+ENSCSAVT00000016685: ['3event', 211, 0]
+Y38C1BA.2a.1: ['exon skipping', 0, 0]
+Y38C1BA.2b.1: ['5event', ['internal gap >= 30', 86, 98], 127, 0]
+>1
+ENSCINT00000016535: ['exon skipping', 0, 0]
+ENSCSAVT00000016685: ['exon skipping', 0, 0]
+Y38C1BA.2a.1: ['exon skipping', 0, 0]
+Y38C1BA.2b.1: ['no event', 71, 2]
+>2
+ENSCINT00000016535: ['5event', ['internal gap >= 30', 101, 254], 126, 1]
+ENSCSAVT00000016685: ['5event', ['internal gap >= 30', 104, 251], 129, 1]
+Y38C1BA.2a.1: ['5event', ['internal gap < 30', 114, 23], 357, 0]
+Y38C1BA.2b.1: [['internal gap < 30', 135, 2], 378, 2]
+>3
+ENSCINT00000016535: ['no event', 57, 2]
+ENSCSAVT00000016685: [['internal gap < 30', 30, 3], 54, 2]
+Y38C1BA.2a.1: ['exon skipping', 0, 0]
+Y38C1BA.2b.1: ['exon skipping', 0, 0]
+>4
+ENSCINT00000016535: ['exon skipping', 0, 0]
+ENSCSAVT00000016685: ['exon skipping', 0, 0]
+Y38C1BA.2a.1: ['5event', 55, 1]
+Y38C1BA.2b.1: ['5event', 55, 1]
+>5
+ENSCINT00000016535: ['5event', 91, 0]
+ENSCSAVT00000016685: ['5event', 91, 0]
+Y38C1BA.2a.1: ['exon skipping', 0, 0]
+Y38C1BA.2b.1: ['exon skipping', 0, 0]
+>6
+ENSCINT00000016535: ['no event', 156, 2]
+ENSCSAVT00000016685: ['no event', 156, 2]
+Y38C1BA.2a.1: ['exon skipping', 0, 0]
+Y38C1BA.2b.1: ['exon skipping', 0, 0]
+>7
+ENSCINT00000016535: ['no event', 89, 0]
+ENSCSAVT00000016685: ['no event', 89, 0]
+Y38C1BA.2a.1: ['exon skipping', 0, 0]
+Y38C1BA.2b.1: ['exon skipping', 0, 0]
+>8
+ENSCINT00000016535: ['no event', 205, 0]
+ENSCSAVT00000016685: ['exon skipping', 0, 0]
+Y38C1BA.2a.1: ['exon skipping', 0, 0]
+Y38C1BA.2b.1: ['exon skipping', 0, 0]
+>9
+ENSCINT00000016535: ['exon skipping', 0, 0]
+ENSCSAVT00000016685: ['exon skipping', 0, 0]
+Y38C1BA.2a.1: ['5event', 143, 0]
+Y38C1BA.2b.1: ['5event', 143, 0]
+>10
+ENSCINT00000016535: ['5event', ['internal gap >= 30', 96, 111], 177, 2]
+ENSCSAVT00000016685: ['exon skipping', 0, 0]
+Y38C1BA.2a.1: ['3event', 272, 0]
+Y38C1BA.2b.1: ['3event', 272, 0]
+>11
+ENSCINT00000016535: [['internal gap < 30', 139, 16], 157, 0]
+ENSCSAVT00000016685: ['exon skipping', 0, 0]
+Y38C1BA.2a.1: ['5event', ['internal gap < 30', 90, 15], 158, 1]
+Y38C1BA.2b.1: ['5event', ['internal gap < 30', 90, 15], 158, 1]
+>12
+ENSCINT00000016535: ['no event', 12, 1]
+ENSCSAVT00000016685: ['exon skipping', 0, 0]
+Y38C1BA.2a.1: ['exon skipping', 0, 0]
+Y38C1BA.2b.1: ['exon skipping', 0, 0]
+>13
+ENSCINT00000016535: [['internal gap < 30', 176, 8], 275, 2]
+ENSCSAVT00000016685: ['exon skipping', 0, 0]
+Y38C1BA.2a.1: ['5event', ['internal gap >= 30', 56, 66], 217, 1]
+Y38C1BA.2b.1: ['5event', ['internal gap >= 30', 56, 66], 217, 1]

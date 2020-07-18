@@ -1,1 +1,0 @@
-((ENSCAPG00000016652__Cavia_aperea,ENSLSDG00000003442__Lonchura_striata_domestica),ENSKMAG00000011811__Kryptolebias_marmoratus);

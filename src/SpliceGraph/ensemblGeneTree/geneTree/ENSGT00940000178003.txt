@@ -1,0 +1,1 @@
+(((((ENSPLAG00000007498__Poecilia_latipinna,ENSPMEG00000005596__Poecilia_mexicana),ENSGAFG00000015365__Gambusia_affinis),ENSORLG00000026673__Oryzias_latipes_ASM223467v1),(ENSAPOG00000019349__Acanthochromis_polyacanthus,ENSNBRG00000006281__Neolamprologus_brichardi)),ENSSDUG00000011431__Seriola_dumerili);

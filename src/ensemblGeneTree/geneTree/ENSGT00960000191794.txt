@@ -1,0 +1,1 @@
+(ENSLCOG00000007871__Lepidothrix_coronata,ENSMUNG00000008352__Melopsittacus_undulatus);

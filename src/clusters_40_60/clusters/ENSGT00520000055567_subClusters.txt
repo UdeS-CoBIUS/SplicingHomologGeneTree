@@ -1,0 +1,6 @@
+>cluster_0
+Y94H6A.9b.1
+>cluster_1
+FBtr0088997	Y94H6A.9c.1
+>cluster_2
+FBtr0299995	Y94H6A.9a.1

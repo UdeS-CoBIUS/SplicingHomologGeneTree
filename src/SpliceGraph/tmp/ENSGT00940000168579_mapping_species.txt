@@ -1,0 +1,3 @@
+RHINOPITHECUSBIETI	rhinopithecus_bieti
+ORNITHORHYNCHUSANATINUS	ornithorhynchus_anatinus
+EPTATRETUSBURGERI	eptatretus_burgeri

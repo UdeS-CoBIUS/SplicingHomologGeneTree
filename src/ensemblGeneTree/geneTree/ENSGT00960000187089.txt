@@ -1,0 +1,1 @@
+(((ENSPVIG00000013455__Pogona_vitticeps,ENSSMRG00000016412__Salvator_merianae),ENSGAGG00000003603__Gopherus_agassizii),((ENSSFOG00015020121__Scleropages_formosus,ENSPKIG00000022344__Paramormyrops_kingsleyae),((ENSAMXG00000039211__Astyanax_mexicanus,ENSIPUG00000005972__Ictalurus_punctatus),ENSDARG00000101235__Danio_rerio)));

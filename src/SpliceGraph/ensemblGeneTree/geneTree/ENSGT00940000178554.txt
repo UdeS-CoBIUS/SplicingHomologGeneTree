@@ -1,0 +1,1 @@
+(((ENSKMAG00000017393__Kryptolebias_marmoratus,ENSGAFG00000012461__Gambusia_affinis),ENSPNYG00000012994__Pundamilia_nyererei),(ENSPMGG00000015423__Periophthalmus_magnuspinnatus,ENSPMGG00000022466__Periophthalmus_magnuspinnatus));

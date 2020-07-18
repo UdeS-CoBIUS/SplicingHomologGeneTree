@@ -1,0 +1,1 @@
+((WBGene00003559__Caenorhabditis_elegans_strain_N2,FBgn0010300__Drosophila_melanogaster),ENSLACG00000013788__Latimeria_chalumnae);

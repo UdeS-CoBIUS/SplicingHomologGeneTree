@@ -1,0 +1,1 @@
+(((ENSPPRG00000024179__Panthera_pardus,ENSPTIG00000007017__Panthera_tigris_altaica),ENSSSCG00000033379__Sus_scrofa),ENSMMMG00000011593__Marmota_marmota_marmota);

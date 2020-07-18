@@ -1,0 +1,1 @@
+((((ENSPCOG00000017124__Propithecus_coquereli,ENSMICG00000037548__Microcebus_murinus),ENSPSMG00000006625__Prolemur_simus),ENSCAFG00020009569__Canis_lupus_dingo),ENSSMRG00000006359__Salvator_merianae);

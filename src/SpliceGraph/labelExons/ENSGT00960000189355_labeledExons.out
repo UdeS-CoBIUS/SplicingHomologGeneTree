@@ -1,0 +1,12 @@
+>0
+ENSZALT00000010469: ['no event', 37, 0]
+ENSJHYT00000010711: ['no event', 37, 0]
+ENSCCET00000009911: ['no event', 37, 0]
+>1
+ENSZALT00000010469: ['exon skipping', 0, 0]
+ENSJHYT00000010711: ['exon skipping', 0, 0]
+ENSCCET00000009911: ['no event', 9, 2]
+>2
+ENSZALT00000010469: ['5event', ['internal gap < 30', 29, 4], 165, 2]
+ENSJHYT00000010711: ['5event', ['internal gap < 30', 29, 4], 165, 2]
+ENSCCET00000009911: ['no event', 169, 0]

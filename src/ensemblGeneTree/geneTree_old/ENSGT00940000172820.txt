@@ -1,1 +1,0 @@
-(ENSMAUG00000021703__Mesocricetus_auratus,ENSOANG00000021682__Ornithorhynchus_anatinus);

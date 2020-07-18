@@ -1,0 +1,14 @@
+APTERYXROWI	apteryx_rowi
+APTERYXOWENII	apteryx_owenii
+APTERYXHAASTII	apteryx_haastii
+NOTHOPROCTAPERDICARIA	nothoprocta_perdicaria
+LEPIDOTHRIXCORONATA	lepidothrix_coronata
+ANSERBRACHYRHYNCHUS	anser_brachyrhynchus
+ANASPLATYRHYNCHOSPLATYRHYNCHOS	anas_platyrhynchos_platyrhynchos
+GALLUSGALLUS	gallus_gallus
+CALIDRISPYGMAEA	calidris_pygmaea
+CALIDRISPUGNAX	calidris_pugnax
+POGONAVITTICEPS	pogona_vitticeps
+JACULUSJACULUS	jaculus_jaculus
+CAVIAAPEREA	cavia_aperea
+MACACAMULATTA	macaca_mulatta

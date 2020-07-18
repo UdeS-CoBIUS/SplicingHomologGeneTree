@@ -1,0 +1,1 @@
+((ENSMLEG00000013323__Mandrillus_leucophaeus,ENSNLEG00000002127__Nomascus_leucogenys),ENSSSCG00000035943__Sus_scrofa);

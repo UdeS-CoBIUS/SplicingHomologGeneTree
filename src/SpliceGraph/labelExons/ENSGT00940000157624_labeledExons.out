@@ -1,0 +1,15 @@
+>0
+ENSPKIT00000037732: [['internal gap >= 30', 72, 36], 198, 0]
+ENSSFOT00015026610: [['internal gap >= 30', 72, 36], 198, 0]
+ENSEEET00000027948: [['internal gap >= 30', 72, 36], 198, 0]
+ENSIPUT00000029170: ['no event', 234, 0]
+>1
+ENSPKIT00000037732: ['no event', 58, 1]
+ENSSFOT00015026610: ['no event', 58, 1]
+ENSEEET00000027948: ['no event', 58, 1]
+ENSIPUT00000029170: ['no event', 58, 1]
+>2
+ENSPKIT00000037732: [['internal gap < 30', 394, 3], 443, 0]
+ENSSFOT00015026610: [['internal gap < 30', 394, 3], 443, 0]
+ENSEEET00000027948: ['no event', 446, 0]
+ENSIPUT00000029170: ['no event', 446, 0]

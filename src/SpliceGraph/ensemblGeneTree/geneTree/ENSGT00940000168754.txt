@@ -1,0 +1,1 @@
+((ENSTBEG00000010588__Tupaia_belangeri,ENSOPRG00000009966__Ochotona_princeps),(ENSAMEG00000015570__Ailuropoda_melanoleuca,ENSVPAG00000005370__Vicugna_pacos));

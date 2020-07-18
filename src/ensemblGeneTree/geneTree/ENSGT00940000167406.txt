@@ -1,0 +1,1 @@
+(((ENSPPRG00000007143__Panthera_pardus,ENSPTIG00000007112__Panthera_tigris_altaica),(((ENSMNEG00000041705__Macaca_nemestrina,ENSMFAG00000040877__Macaca_fascicularis),ENSRBIG00000039364__Rhinopithecus_bieti),(ENSNLEG00000029103__Nomascus_leucogenys,ENSGGOG00000011638__Gorilla_gorilla))),ENSLSDG00000012799__Lonchura_striata_domestica);

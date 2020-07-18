@@ -1,0 +1,48 @@
+>0
+T05A10.3.1: ['no event', 147, 0]
+K03H1.3.1: ['exon skipping', 0, 0]
+K03H1.3.2: ['exon skipping', 0, 0]
+>1
+T05A10.3.1: ['exon skipping', 0, 0]
+K03H1.3.1: ['5event', 83, 0]
+K03H1.3.2: ['5event', 83, 0]
+>2
+T05A10.3.1: ['5event', 79, 1]
+K03H1.3.1: ['exon skipping', 0, 0]
+K03H1.3.2: ['exon skipping', 0, 0]
+>3
+T05A10.3.1: ['exon skipping', 0, 0]
+K03H1.3.1: ['5event', 69, 0]
+K03H1.3.2: ['5event', 69, 0]
+>4
+T05A10.3.1: ['5event', 63, 0]
+K03H1.3.1: [['internal gap < 30', 141, 7], 155, 1]
+K03H1.3.2: [['internal gap < 30', 141, 7], 155, 1]
+>5
+T05A10.3.1: ['no event', 1, 1]
+K03H1.3.1: ['exon skipping', 0, 0]
+K03H1.3.2: ['exon skipping', 0, 0]
+>6
+T05A10.3.1: ['3event', 99, 0]
+K03H1.3.1: ['5event', 137, 0]
+K03H1.3.2: ['5event', 137, 0]
+>7
+T05A10.3.1: ['5event', 109, 1]
+K03H1.3.1: ['exon skipping', 0, 0]
+K03H1.3.2: ['exon skipping', 0, 0]
+>8
+T05A10.3.1: ['no event', 222, 0]
+K03H1.3.1: ['exon skipping', 0, 0]
+K03H1.3.2: ['exon skipping', 0, 0]
+>9
+T05A10.3.1: ['no event', 155, 1]
+K03H1.3.1: ['exon skipping', 0, 0]
+K03H1.3.2: ['exon skipping', 0, 0]
+>10
+T05A10.3.1: ['no event', 271, 1]
+K03H1.3.1: ['exon skipping', 0, 0]
+K03H1.3.2: ['exon skipping', 0, 0]
+>11
+T05A10.3.1: ['no event', 68, 0]
+K03H1.3.1: ['exon skipping', 0, 0]
+K03H1.3.2: ['exon skipping', 0, 0]

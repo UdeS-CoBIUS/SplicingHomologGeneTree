@@ -1,1 +1,0 @@
-(ENSCABG00000000054__Chelonoidis_abingdonii,ENSPMEG00000009944__Poecilia_mexicana);

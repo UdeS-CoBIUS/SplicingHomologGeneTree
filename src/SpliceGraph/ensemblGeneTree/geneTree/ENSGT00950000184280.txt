@@ -1,0 +1,1 @@
+((((ENSMNEG00000031331__Macaca_nemestrina,ENSCSAG00000009919__Chlorocebus_sabaeus),ENSNLEG00000010801__Nomascus_leucogenys),(ENSOCUG00000028229__Oryctolagus_cuniculus,ENSHGLG00000014399__Heterocephalus_glaber_HetGla_female_1.0)),ENSECAG00000036605__Equus_caballus);

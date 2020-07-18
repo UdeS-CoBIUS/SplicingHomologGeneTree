@@ -1,0 +1,1 @@
+(((ENSRNOG00000049584__Rattus_norvegicus,ENSMUGG00000009808__Meriones_unguiculatus),ENSCCNG00000002607__Castor_canadensis),((ENSEASG00005006712__Equus_asinus_asinus,ENSECAG00000038459__Equus_caballus),ENSVVUG00000001972__Vulpes_vulpes));

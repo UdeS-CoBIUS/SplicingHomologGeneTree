@@ -1,1 +1,0 @@
-(ENSFALG00000014183__Ficedula_albicollis,ENSPVIG00000024164__Pogona_vitticeps);

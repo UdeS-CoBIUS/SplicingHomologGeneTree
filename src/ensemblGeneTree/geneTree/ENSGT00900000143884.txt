@@ -1,0 +1,1 @@
+((ENSMUGG00000007580__Meriones_unguiculatus,ENSMSIG00000008463__Mus_spicilegus),(ENSCGRG00000003654__Cricetulus_griseus_CriGri_1.0,ENSCGRG00001000235__Cricetulus_griseus_CHOK1GS_HDv1));

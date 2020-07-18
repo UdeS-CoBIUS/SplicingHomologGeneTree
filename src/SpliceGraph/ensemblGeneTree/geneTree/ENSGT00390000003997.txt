@@ -1,0 +1,1 @@
+(((ENSPPYG00000018013__Pongo_abelii,ENSTBEG00000014553__Tupaia_belangeri),((ENSOARG00000006747__Ovis_aries,ENSVPAG00000008841__Vicugna_pacos),ENSEEUG00000013665__Erinaceus_europaeus)),ENSCHOG00000006768__Choloepus_hoffmanni);

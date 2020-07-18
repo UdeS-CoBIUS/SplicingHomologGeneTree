@@ -1,0 +1,1 @@
+((((ENSMALG00000015233__Monopterus_albus,ENSACIG00000004391__Amphilophus_citrinellus),ENSCSEG00000001318__Cynoglossus_semilaevis),ENSPMGG00000018732__Periophthalmus_magnuspinnatus),ENSELUG00000020678__Esox_lucius);

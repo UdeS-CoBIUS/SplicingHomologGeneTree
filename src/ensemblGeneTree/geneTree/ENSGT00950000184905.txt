@@ -1,0 +1,1 @@
+((ENSMLEG00000044364__Mandrillus_leucophaeus,ENSG00000241598__Homo_sapiens),ENSPCOG00000010578__Propithecus_coquereli);

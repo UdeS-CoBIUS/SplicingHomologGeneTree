@@ -1,0 +1,1 @@
+((((ENSMMMG00000019056__Marmota_marmota_marmota,ENSVPAG00000008772__Vicugna_pacos),ENSPCAG00000010314__Procavia_capensis),ENSCATG00000043091__Cercocebus_atys),ENSMEUG00000006156__Notamacropus_eugenii);

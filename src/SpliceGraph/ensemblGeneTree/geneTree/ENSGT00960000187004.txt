@@ -1,0 +1,1 @@
+(((ENSMAMG00000021050__Mastacembelus_armatus,ENSMAMG00000023703__Mastacembelus_armatus),(((ENSMMOG00000006219__Mola_mola,ENSMMOG00000005540__Mola_mola),ENSMMOG00000014919__Mola_mola),ENSMMOG00000015384__Mola_mola)),ENSPKIG00000021485__Paramormyrops_kingsleyae);

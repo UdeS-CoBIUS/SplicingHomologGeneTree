@@ -1,1 +1,0 @@
-(((ENSPNAG00000027055__Pygocentrus_nattereri,ENSAMXG00000038840__Astyanax_mexicanus),ENSIPUG00000011132__Ictalurus_punctatus),ENSATEG00000024041__Anabas_testudineus);

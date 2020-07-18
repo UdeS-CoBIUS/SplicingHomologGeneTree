@@ -1,0 +1,2 @@
+FBpp0088895	FBgn0262160	Drosophila_melanogaster	FBtr0089956
+FBpp0080014	FBgn0032473	Drosophila_melanogaster	FBtr0080433

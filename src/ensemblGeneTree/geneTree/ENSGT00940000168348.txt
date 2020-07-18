@@ -1,0 +1,1 @@
+(((((ENSACAG00000003350__Anolis_carolinensis,ENSNSUG00000001549__Notechis_scutatus),ENSSMRG00000009144__Salvator_merianae),ENSCPRG00005001776__Crocodylus_porosus),((ENSMODG00000023685__Monodelphis_domestica,ENSSHAG00000002980__Sarcophilus_harrisii),ENSOANG00000022293__Ornithorhynchus_anatinus)),ENSXETG00000025326__Xenopus_tropicalis);

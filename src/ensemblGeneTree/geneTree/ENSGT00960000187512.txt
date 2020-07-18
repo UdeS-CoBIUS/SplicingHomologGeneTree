@@ -1,0 +1,1 @@
+((ENSPKIG00000002675__Paramormyrops_kingsleyae,ENSXMAG00000024506__Xiphophorus_maculatus),(((ENSFALG00000003163__Ficedula_albicollis,ENSCCEG00000014354__Cyanistes_caeruleus),ENSDNVG00000002938__Dromaius_novaehollandiae),ENSLACG00000003561__Latimeria_chalumnae));

@@ -1,1 +1,0 @@
-(ENSATEG00000009201__Anabas_testudineus,ENSORLG00020000408__Oryzias_latipes_ASM223471v1);

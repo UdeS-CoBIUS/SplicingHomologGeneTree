@@ -1,0 +1,1 @@
+(ENSPSIG00000010165__Pelodiscus_sinensis,ENSORLG00020021192__Oryzias_latipes_ASM223471v1);

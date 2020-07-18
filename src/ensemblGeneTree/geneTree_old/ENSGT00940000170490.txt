@@ -1,1 +1,0 @@
-((ENSPANG00000031895__Papio_anubis,ENSMLEG00000035633__Mandrillus_leucophaeus),ENSCATG00000030772__Cercocebus_atys);

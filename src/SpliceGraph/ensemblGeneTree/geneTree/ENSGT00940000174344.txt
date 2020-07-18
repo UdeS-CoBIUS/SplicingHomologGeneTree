@@ -1,0 +1,1 @@
+(((((ENSPEMG00000027392__Peromyscus_maniculatus_bairdii,ENSMSIG00000018661__Mus_spicilegus),ENSODEG00000007180__Octodon_degus),(ENSSDAG00000008516__Spermophilus_dauricus,ENSMMMG00000006923__Marmota_marmota_marmota)),ENSBMUG00000017128__Bos_mutus),ENSOANG00000006921__Ornithorhynchus_anatinus);

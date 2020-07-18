@@ -1,1 +1,0 @@
-((ENSCABG00000004181__Chelonoidis_abingdonii,ENSGAGG00000004361__Gopherus_agassizii),ENSPNAG00000019352__Pygocentrus_nattereri);

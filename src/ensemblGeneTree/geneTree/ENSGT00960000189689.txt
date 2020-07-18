@@ -1,0 +1,1 @@
+(((ENSABRG00000007206__Anser_brachyrhynchus,ENSAPLG00000029497__Anas_platyrhynchos_platyrhynchos),ENSNMEG00000016107__Numida_meleagris),(ENSMVIG00005005013__Manacus_vitellinus,ENSLCOG00000013916__Lepidothrix_coronata));

@@ -1,0 +1,1 @@
+(((ENSUMAG00000013253__Ursus_maritimus,ENSUAMG00000007522__Ursus_americanus),((ENSBMUG00000014433__Bos_mutus,ENSBTAG00000014133__Bos_taurus),ENSBBBG00000002225__Bison_bison_bison)),((ENSANAG00000025800__Aotus_nancymaae,ENSRROG00000043031__Rhinopithecus_roxellana),ENSTSYG00000010950__Carlito_syrichta));

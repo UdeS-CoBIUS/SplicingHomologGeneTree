@@ -1,0 +1,1 @@
+(WBGene00007764__Caenorhabditis_elegans_strain_N2,ENSTRUG00000021854__Takifugu_rubripes);

@@ -1,1 +1,0 @@
-(((ENSPVIG00000013377__Pogona_vitticeps,ENSPVIG00000013376__Pogona_vitticeps),ENSSPUG00000012856__Sphenodon_punctatus),(ENSCPGG00000011913__Calidris_pygmaea,ENSAPLG00000030575__Anas_platyrhynchos_platyrhynchos));

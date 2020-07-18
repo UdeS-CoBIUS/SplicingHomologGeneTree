@@ -1,0 +1,1 @@
+((((ENSARWG00000014812__Apteryx_rowi,ENSNPEG00000011301__Nothoprocta_perdicaria),((ENSCCEG00000006020__Cyanistes_caeruleus,ENSCPGG00000014882__Calidris_pygmaea),ENSCJPG00005020861__Coturnix_japonica)),ENSCABG00000000220__Chelonoidis_abingdonii),ENSCAFG00020012815__Canis_lupus_dingo);

@@ -1,0 +1,3 @@
+PARAMORMYROPSKINGSLEYAE	paramormyrops_kingsleyae
+ACANTHOCHROMISPOLYACANTHUS	acanthochromis_polyacanthus
+URSUSAMERICANUS	ursus_americanus

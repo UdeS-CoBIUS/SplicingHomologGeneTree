@@ -1,0 +1,1 @@
+((ENSATEG00000018387__Anabas_testudineus,ENSPLAG00000016873__Poecilia_latipinna),ENSTRUG00000010427__Takifugu_rubripes);

@@ -1,0 +1,4 @@
+CALIDRISPUGNAX	calidris_pugnax
+CALIDRISPYGMAEA	calidris_pygmaea
+PARUSMAJOR	parus_major
+NOTHOPROCTAPERDICARIA	nothoprocta_perdicaria

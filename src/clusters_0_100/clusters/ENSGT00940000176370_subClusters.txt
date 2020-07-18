@@ -1,0 +1,4 @@
+>cluster_0
+YML115C_mRNA	YPL050C_mRNA
+>cluster_1
+YEL036C_mRNA

@@ -1,0 +1,21 @@
+>0
+ENSRBIT00000032957: ['no event', 265, 0]
+ENSRROT00000036414: ['no event', 265, 0]
+>1
+ENSRBIT00000032957: ['no event', 31, 2]
+ENSRROT00000036414: ['no event', 31, 2]
+>2
+ENSRBIT00000032957: ['no event', 23, 1]
+ENSRROT00000036414: ['exon skipping', 0, 0]
+>3
+ENSRBIT00000032957: ['no event', 42, 1]
+ENSRROT00000036414: ['exon skipping', 0, 0]
+>4
+ENSRBIT00000032957: ['exon skipping', 0, 0]
+ENSRROT00000036414: ['5event', 17, 1]
+>5
+ENSRBIT00000032957: ['exon skipping', 0, 0]
+ENSRROT00000036414: ['no event', 46, 1]
+>6
+ENSRBIT00000032957: ['5event', 36, 2]
+ENSRROT00000036414: ['exon skipping', 0, 0]

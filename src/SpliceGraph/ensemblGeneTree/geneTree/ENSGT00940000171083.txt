@@ -1,0 +1,1 @@
+((ENSLOCG00000000487__Lepisosteus_oculatus,ENSLOCG00000018073__Lepisosteus_oculatus),ENSRNOG00000051931__Rattus_norvegicus);

@@ -1,0 +1,1 @@
+((((ENSTRUG00000009290__Takifugu_rubripes,ENSTNIG00000015208__Tetraodon_nigroviridis),(ENSTRUG00000018327__Takifugu_rubripes,ENSTNIG00000000487__Tetraodon_nigroviridis)),(ENSLBEG00000023513__Labrus_bergylta,ENSLBEG00000023561__Labrus_bergylta)),(ENSAOCG00000021567__Amphiprion_ocellaris,ENSXCOG00000001734__Xiphophorus_couchianus));

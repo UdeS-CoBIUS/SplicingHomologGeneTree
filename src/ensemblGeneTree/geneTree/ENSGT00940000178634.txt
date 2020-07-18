@@ -1,0 +1,1 @@
+((((ENSATEG00000022833__Anabas_testudineus,ENSTRUG00000020629__Takifugu_rubripes),ENSACLG00000005588__Astatotilapia_calliptera),ENSELUG00000016157__Esox_lucius),ENSIPUG00000011263__Ictalurus_punctatus);

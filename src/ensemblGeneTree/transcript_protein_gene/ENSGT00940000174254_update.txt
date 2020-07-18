@@ -1,0 +1,3 @@
+FBpp0076782	FBgn0002638	Drosophila_melanogaster	FBtr0077074
+C26D10.1.1	WBGene00004304	Caenorhabditis_elegans_strain_N2	C26D10.1.1
+YGL097W_mRNA	YGL097W	Saccharomyces_cerevisiae_strain_S288C

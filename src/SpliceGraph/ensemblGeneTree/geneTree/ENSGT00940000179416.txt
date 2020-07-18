@@ -1,0 +1,1 @@
+((ENSSLDG00000010137__Seriola_lalandi_dorsalis,ENSSDUG00000023708__Seriola_dumerili),ENSMALG00000016227__Monopterus_albus);

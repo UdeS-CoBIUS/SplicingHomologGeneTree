@@ -1,0 +1,1 @@
+((ENSATEG00000011372__Anabas_testudineus,ENSORLG00000022244__Oryzias_latipes_ASM223467v1),ENSEBUG00000007036__Eptatretus_burgeri);

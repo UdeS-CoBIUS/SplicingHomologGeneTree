@@ -1,0 +1,1 @@
+((ENSXCOG00000006965__Xiphophorus_couchianus,ENSXCOG00000004109__Xiphophorus_couchianus),ENSCVAG00000005031__Cyprinodon_variegatus);

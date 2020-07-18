@@ -1,0 +1,1 @@
+((ENSPSMG00000013452__Prolemur_simus,ENSCGRG00015008645__Cricetulus_griseus_CriGri-PICR),ENSBTAG00000050617__Bos_taurus);

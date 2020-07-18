@@ -1,0 +1,3 @@
+DROSOPHILAMELANOGASTER	drosophila_melanogaster
+CAENORHABDITISELEGANS	caenorhabditis_elegans
+CIONAINTESTINALIS	ciona_intestinalis

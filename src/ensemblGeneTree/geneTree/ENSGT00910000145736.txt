@@ -1,0 +1,1 @@
+(((ENSPTEG00000025804__Piliocolobus_tephrosceles,ENSRROG00000038617__Rhinopithecus_roxellana),ENSTGEG00000020496__Theropithecus_gelada),(ENSPTRG00000000558__Pan_troglodytes,ENSPPYG00000001522__Pongo_abelii));

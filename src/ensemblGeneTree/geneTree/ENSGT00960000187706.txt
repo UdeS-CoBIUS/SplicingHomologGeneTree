@@ -1,0 +1,1 @@
+(((ENSGALG00000050260__Gallus_gallus,ENSGALG00000048474__Gallus_gallus),ENSCPUG00000013434__Calidris_pugnax),ENSAMXG00000030232__Astyanax_mexicanus);

@@ -1,1 +1,0 @@
-(ENSCCAG00000035281__Cebus_capucinus_imitator,ENSMMUG00000045629__Macaca_mulatta);

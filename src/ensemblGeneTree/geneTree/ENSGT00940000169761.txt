@@ -1,0 +1,1 @@
+((((ENSCVAG00000010165__Cyprinodon_variegatus,ENSXMAG00000001086__Xiphophorus_maculatus),((ENSLBEG00000021932__Labrus_bergylta,ENSLBEG00000022264__Labrus_bergylta),ENSLBEG00000020758__Labrus_bergylta)),(ENSCCEG00000006112__Cyanistes_caeruleus,ENSPMJG00000002675__Parus_major)),ENSEBUG00000016381__Eptatretus_burgeri);

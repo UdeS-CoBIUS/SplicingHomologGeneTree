@@ -1,0 +1,2 @@
+YFL029C_mRNA	YFL029C	Saccharomyces_cerevisiae_strain_S288C
+H01G02.2.1	WBGene00010349	Caenorhabditis_elegans_strain_N2	H01G02.2.1

@@ -1,0 +1,1 @@
+((((ENSCJAG00000045801__Callithrix_jacchus,ENSPSMG00000013693__Prolemur_simus),ENSSTOG00000028894__Ictidomys_tridecemlineatus),(ENSFCAG00000044857__Felis_catus,ENSVVUG00000001834__Vulpes_vulpes)),ENSCPBG00000003894__Chrysemys_picta_bellii);

@@ -1,0 +1,8 @@
+>cluster_0
+FBtr0077413	F37C12.2.3
+>cluster_1
+F37C12.2.2
+>cluster_2
+F37C12.2.1
+>cluster_3
+FBtr0077412	F37C12.2.4

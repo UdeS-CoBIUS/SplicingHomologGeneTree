@@ -1,0 +1,1 @@
+((ENSPCIG00000036103__Phascolarctos_cinereus,ENSSHAG00000011980__Sarcophilus_harrisii),(ENSCPBG00000005336__Chrysemys_picta_bellii,ENSCPBG00000011635__Chrysemys_picta_bellii));

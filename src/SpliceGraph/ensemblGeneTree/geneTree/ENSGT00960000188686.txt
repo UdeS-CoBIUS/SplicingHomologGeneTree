@@ -1,0 +1,1 @@
+(((ENSNMEG00000021761__Numida_meleagris,ENSCJPG00005000714__Coturnix_japonica),ENSAPLG00000023085__Anas_platyrhynchos_platyrhynchos),ENSSPUG00000003947__Sphenodon_punctatus);

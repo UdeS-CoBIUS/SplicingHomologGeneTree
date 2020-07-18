@@ -1,1 +1,0 @@
-((ENSXCOG00000007327__Xiphophorus_couchianus,ENSXCOG00000007324__Xiphophorus_couchianus),ENSXCOG00000010543__Xiphophorus_couchianus);

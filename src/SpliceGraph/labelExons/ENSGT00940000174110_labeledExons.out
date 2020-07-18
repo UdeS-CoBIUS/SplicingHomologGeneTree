@@ -1,0 +1,16 @@
+>0
+ENSPCIT00000029439: ['exon skipping', 0, 0]
+ENSVURT00010035210: ['no event', 32, 0]
+ENSFCAT00000043579: ['exon skipping', 0, 0]
+>1
+ENSPCIT00000029439: ['3event', '5event', 210, 0]
+ENSVURT00010035210: ['3event', 209, 0]
+ENSFCAT00000043579: ['5event', ['internal gap >= 30', 143, 43], 170, 0]
+>2
+ENSPCIT00000029439: ['exon skipping', 0, 0]
+ENSVURT00010035210: ['5event', 22, 1]
+ENSFCAT00000043579: ['exon skipping', 0, 0]
+>3
+ENSPCIT00000029439: ['exon skipping', 0, 0]
+ENSVURT00010035210: ['exon skipping', 0, 0]
+ENSFCAT00000043579: ['5event', 50, 0]

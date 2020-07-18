@@ -1,0 +1,1 @@
+((((ENSAPOG00000015350__Acanthochromis_polyacanthus,ENSPMEG00000013836__Poecilia_mexicana),ENSCSEG00000016826__Cynoglossus_semilaevis),ENSPNAG00000003660__Pygocentrus_nattereri),(ENSMAUG00000008823__Mesocricetus_auratus,ENSCPUG00000003755__Calidris_pugnax));

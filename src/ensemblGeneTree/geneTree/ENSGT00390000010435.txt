@@ -1,0 +1,1 @@
+(((ENSPFOG00000020467__Poecilia_formosa,ENSLOCG00000002127__Lepisosteus_oculatus),ENSLACG00000012297__Latimeria_chalumnae),((((ENSPFOG00000020466__Poecilia_formosa,ENSACLG00000010227__Astatotilapia_calliptera),ENSTNIG00000015388__Tetraodon_nigroviridis),ENSLOCG00000002138__Lepisosteus_oculatus),ENSLACG00000012167__Latimeria_chalumnae));

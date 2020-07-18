@@ -1,0 +1,4 @@
+>completeCluster_0
+C11D9.1.1	FBtr0330123	YAL041W_mRNA
+>completeCluster_1
+YAL041W_mRNA	FBtr0112712	C11D9.1.1

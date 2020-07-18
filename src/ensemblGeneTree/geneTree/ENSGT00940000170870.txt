@@ -1,0 +1,1 @@
+((((ENSTRUG00000013432__Takifugu_rubripes,ENSONIG00000016343__Oreochromis_niloticus),ENSSDUG00000004335__Seriola_dumerili),(ENSELUG00000002158__Esox_lucius,ENSHBUG00000012232__Haplochromis_burtoni)),FBgn0010473__Drosophila_melanogaster);

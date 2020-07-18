@@ -1,0 +1,1 @@
+(((ENSJJAG00000009450__Jaculus_jaculus,ENSMAUG00000009356__Mesocricetus_auratus),ENSOPRG00000000093__Ochotona_princeps),ENSECAG00000024666__Equus_caballus);

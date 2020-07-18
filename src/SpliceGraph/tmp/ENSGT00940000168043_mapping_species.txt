@@ -1,0 +1,7 @@
+PANPANISCUS	pan_paniscus
+PANTROGLODYTES	pan_troglodytes
+GORILLAGORILLA	gorilla_gorilla
+PAPIOANUBIS	papio_anubis
+URSUSAMERICANUS	ursus_americanus
+NUMIDAMELEAGRIS	numida_meleagris
+CALIDRISPYGMAEA	calidris_pygmaea

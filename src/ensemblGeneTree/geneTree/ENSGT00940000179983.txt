@@ -1,0 +1,1 @@
+((ENSAOWG00000005623__Apteryx_owenii,ENSCPBG00000010836__Chrysemys_picta_bellii),((ENSSDUG00000022141__Seriola_dumerili,ENSMAMG00000021847__Mastacembelus_armatus),ENSMZEG00005023144__Maylandia_zebra));

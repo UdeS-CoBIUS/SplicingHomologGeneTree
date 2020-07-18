@@ -1,0 +1,1 @@
+((WBGene00011606__Caenorhabditis_elegans_strain_N2,ENSPMEG00000017587__Poecilia_mexicana),(YAR002C-A__Saccharomyces_cerevisiae_strain_S288C,YGL002W__Saccharomyces_cerevisiae_strain_S288C));

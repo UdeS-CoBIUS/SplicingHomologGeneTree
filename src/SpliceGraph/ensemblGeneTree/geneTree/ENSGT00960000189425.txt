@@ -1,0 +1,1 @@
+(((ENSPVIG00000020452__Pogona_vitticeps,ENSNSUG00000011854__Notechis_scutatus),ENSSMRG00000011828__Salvator_merianae),((((ENSAHAG00000017924__Apteryx_haastii,ENSAOWG00000009483__Apteryx_owenii),ENSARWG00000009517__Apteryx_rowi),ENSDNVG00000013339__Dromaius_novaehollandiae),(ENSABRG00000020795__Anser_brachyrhynchus,ENSNMEG00000007032__Numida_meleagris)));

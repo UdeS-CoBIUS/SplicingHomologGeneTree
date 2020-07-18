@@ -1,0 +1,4 @@
+POECILIAFORMOSA	poecilia_formosa
+POECILIAFORMOSA	poecilia_formosa
+LEPISOSTEUSOCULATUS	lepisosteus_oculatus
+LEPISOSTEUSOCULATUS	lepisosteus_oculatus

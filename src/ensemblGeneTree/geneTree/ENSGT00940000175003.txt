@@ -1,0 +1,1 @@
+(((((ENSPMEG00000021069__Poecilia_mexicana,ENSFHEG00000023019__Fundulus_heteroclitus),ENSMMOG00000012327__Mola_mola),ENSMALG00000002082__Monopterus_albus),ENSCPUG00000005723__Calidris_pugnax),FBgn0034706__Drosophila_melanogaster);

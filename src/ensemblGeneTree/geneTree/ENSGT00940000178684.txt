@@ -1,0 +1,1 @@
+(((ENSCVAG00000000857__Cyprinodon_variegatus,ENSHBUG00000010810__Haplochromis_burtoni),ENSLBEG00000001327__Labrus_bergylta),ENSCSEG00000000820__Cynoglossus_semilaevis);

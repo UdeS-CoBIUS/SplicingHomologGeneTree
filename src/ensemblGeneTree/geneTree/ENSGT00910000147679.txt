@@ -1,0 +1,1 @@
+(((ENSVVUG00000010699__Vulpes_vulpes,ENSVVUG00000022046__Vulpes_vulpes),(ENSCHIG00000022774__Capra_hircus,ENSSSCG00000037396__Sus_scrofa)),(ENSRBIG00000032084__Rhinopithecus_bieti,ENSGGOG00000040719__Gorilla_gorilla));

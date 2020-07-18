@@ -1,0 +1,1 @@
+(((ENSPCIG00000020609__Phascolarctos_cinereus,ENSMEUG00000013971__Notamacropus_eugenii),((ENSMODG00000017949__Monodelphis_domestica,ENSMODG00000023896__Monodelphis_domestica),ENSSHAG00000016649__Sarcophilus_harrisii)),ENSGAGG00000010398__Gopherus_agassizii);

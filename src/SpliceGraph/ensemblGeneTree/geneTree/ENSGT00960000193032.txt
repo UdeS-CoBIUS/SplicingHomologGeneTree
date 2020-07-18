@@ -1,0 +1,1 @@
+(ENSETEG00000019291__Echinops_telfairi,ENSNMEG00000017104__Numida_meleagris);

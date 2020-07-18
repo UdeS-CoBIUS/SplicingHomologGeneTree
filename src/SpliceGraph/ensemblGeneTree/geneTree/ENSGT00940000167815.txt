@@ -1,0 +1,1 @@
+(((ENSCCAG00000032701__Cebus_capucinus_imitator,ENSCCAG00000022181__Cebus_capucinus_imitator),(ENSGGOG00000040058__Gorilla_gorilla,ENSGGOG00000040146__Gorilla_gorilla)),(ENSHGLG00100010656__Heterocephalus_glaber_HetGla_1.0,ENSHGLG00000013703__Heterocephalus_glaber_HetGla_female_1.0));

@@ -1,0 +1,1 @@
+(((ENSATEG00000001169__Anabas_testudineus,ENSDCDG00000013152__Denticeps_clupeoides),ENSCSEG00000001297__Cynoglossus_semilaevis),ENSZALG00000005887__Zonotrichia_albicollis);

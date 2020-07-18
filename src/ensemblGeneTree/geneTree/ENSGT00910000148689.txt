@@ -1,0 +1,1 @@
+((ENSPTEG00000024048__Piliocolobus_tephrosceles,ENSTGEG00000028565__Theropithecus_gelada),(ENSPPYG00000017174__Pongo_abelii,ENSPPAG00000025522__Pan_paniscus));

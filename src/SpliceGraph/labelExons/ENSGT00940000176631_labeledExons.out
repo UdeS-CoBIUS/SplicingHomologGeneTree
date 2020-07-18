@@ -1,0 +1,6 @@
+>0
+YJL076W_mRNA: ['5event', ['internal gap >= 30', 2195, 92], 3563, 0]
+YKR010C_mRNA: [['internal gap >= 30', 2257, 1340], 2315, 0]
+>1
+YJL076W_mRNA: ['no event', 5, 0]
+YKR010C_mRNA: ['exon skipping', 0, 0]

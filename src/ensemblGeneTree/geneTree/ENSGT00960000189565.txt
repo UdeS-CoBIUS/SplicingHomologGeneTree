@@ -1,0 +1,1 @@
+(((((ENSZALG00000009103__Zonotrichia_albicollis,ENSLSDG00000013930__Lonchura_striata_domestica),ENSCJPG00005015842__Coturnix_japonica),ENSUMAG00000011540__Ursus_maritimus),ENSNSUG00000016013__Notechis_scutatus),ENSLACG00000022323__Latimeria_chalumnae);

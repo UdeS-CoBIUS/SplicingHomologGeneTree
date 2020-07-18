@@ -1,1 +1,0 @@
-((ENSSPAG00000009955__Stegastes_partitus,ENSMALG00000002843__Monopterus_albus),(((ENSSLDG00000010305__Seriola_lalandi_dorsalis,ENSSLDG00000004811__Seriola_lalandi_dorsalis),(ENSSLDG00000001125__Seriola_lalandi_dorsalis,ENSSLDG00000007184__Seriola_lalandi_dorsalis)),ENSSDUG00000014814__Seriola_dumerili));

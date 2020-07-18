@@ -1,0 +1,1 @@
+(((ENSUPAG00010020678__Urocitellus_parryii,ENSSTOG00000034019__Ictidomys_tridecemlineatus),ENSSDAG00000011246__Spermophilus_dauricus),ENSFDAG00000013032__Fukomys_damarensis);

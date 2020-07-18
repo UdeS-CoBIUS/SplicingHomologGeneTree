@@ -1,0 +1,1 @@
+((ENSPKIG00000011402__Paramormyrops_kingsleyae,ENSMMOG00000012267__Mola_mola),(ENSGALG00000030845__Gallus_gallus,ENSNSUG00000005185__Notechis_scutatus));

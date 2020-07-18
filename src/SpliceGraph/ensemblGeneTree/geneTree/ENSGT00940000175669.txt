@@ -1,0 +1,1 @@
+((((ENSIPUG00000011784__Ictalurus_punctatus,ENSIPUG00000003137__Ictalurus_punctatus),ENSCVAG00000003073__Cyprinodon_variegatus),ENSPKIG00000019249__Paramormyrops_kingsleyae),ENSOANG00000008246__Ornithorhynchus_anatinus);

@@ -1,0 +1,1 @@
+(ENSLAFG00000026980__Loxodonta_africana,ENSNVIG00000022379__Neovison_vison);

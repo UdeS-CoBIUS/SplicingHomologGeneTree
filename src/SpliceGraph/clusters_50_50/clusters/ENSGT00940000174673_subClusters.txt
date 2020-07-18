@@ -1,0 +1,6 @@
+>cluster_0
+YNL117W_mRNA	YIR031C_mRNA	C05E4.9b.1
+>cluster_1
+C05E4.9a.2
+>cluster_2
+C05E4.9a.1

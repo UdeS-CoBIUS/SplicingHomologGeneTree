@@ -1,1 +1,0 @@
-(ENSELUG00000020339__Esox_lucius,ENSPFOG00000006408__Poecilia_formosa);

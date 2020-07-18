@@ -1,0 +1,1 @@
+((ENSLACG00000003881__Latimeria_chalumnae,FBgn0052485__Drosophila_melanogaster),YLR380W__Saccharomyces_cerevisiae_strain_S288C);

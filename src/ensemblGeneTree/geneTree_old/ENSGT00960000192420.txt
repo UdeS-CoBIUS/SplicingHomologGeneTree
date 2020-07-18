@@ -1,1 +1,0 @@
-(ENSSDAG00000015815__Spermophilus_dauricus,ENSPSMG00000016725__Prolemur_simus);

@@ -1,0 +1,5 @@
+FBpp0305868	FBgn0030703	Drosophila_melanogaster	FBtr0333719
+FBpp0080101	FBgn0032519	Drosophila_melanogaster	FBtr0080523
+K07E3.8.2	WBGene00006890	Caenorhabditis_elegans_strain_N2	K07E3.8.2
+ENSCINP00000033808	ENSCING00000019425	Ciona_intestinalis	ENSCINT00000037319
+YPL170W_mRNA	YPL170W	Saccharomyces_cerevisiae_strain_S288C

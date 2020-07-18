@@ -1,0 +1,1 @@
+(((ENSAOCG00000016374__Amphiprion_ocellaris,ENSKMAG00000007502__Kryptolebias_marmoratus),((ENSMALG00000015810__Monopterus_albus,ENSMALG00000016459__Monopterus_albus),ENSSDUG00000005672__Seriola_dumerili)),ENSPNAG00000011064__Pygocentrus_nattereri);

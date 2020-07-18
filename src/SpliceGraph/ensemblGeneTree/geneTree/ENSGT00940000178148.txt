@@ -1,0 +1,1 @@
+(((((ENSPREG00000014384__Poecilia_reticulata,ENSPLAG00000012583__Poecilia_latipinna),ENSGAFG00000010830__Gambusia_affinis),ENSXMAG00000025697__Xiphophorus_maculatus),ENSMMOG00000014620__Mola_mola),ENSSMAG00000014986__Scophthalmus_maximus);

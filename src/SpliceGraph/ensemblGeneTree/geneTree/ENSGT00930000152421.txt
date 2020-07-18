@@ -1,0 +1,1 @@
+((((((ENSCAFG00000019006__Canis_lupus_familiaris,ENSCAFG00020012238__Canis_lupus_dingo),ENSUMAG00000022279__Ursus_maritimus),((ENSPTIG00000007616__Panthera_tigris_altaica,ENSPPRG00000001044__Panthera_pardus),ENSFCAG00000042943__Felis_catus)),ENSCHIG00000018280__Capra_hircus),ENSCCNG00000031239__Castor_canadensis),ENSDNOG00000045321__Dasypus_novemcinctus);

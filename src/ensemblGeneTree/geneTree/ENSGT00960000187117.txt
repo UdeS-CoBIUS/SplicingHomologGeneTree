@@ -1,0 +1,1 @@
+(((((ENSPNAG00000016745__Pygocentrus_nattereri,ENSAMXG00000026106__Astyanax_mexicanus),ENSIPUG00000005371__Ictalurus_punctatus),ENSDARG00000092478__Danio_rerio),ENSLACG00000013262__Latimeria_chalumnae),ENSEBUG00000016066__Eptatretus_burgeri);

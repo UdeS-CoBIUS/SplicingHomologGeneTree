@@ -1,0 +1,1 @@
+((ENSORLG00020003145__Oryzias_latipes_ASM223471v1,ENSLBEG00000015987__Labrus_bergylta),ENSPKIG00000024987__Paramormyrops_kingsleyae);

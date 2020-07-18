@@ -1,0 +1,12 @@
+>0
+ENSOANT00000040706: ['no event', 91, 0]
+ENSLOCT00000020481: ['no event', 91, 0]
+>1
+ENSOANT00000040706: ['no event', 143, 2]
+ENSLOCT00000020481: ['no event', 143, 2]
+>2
+ENSOANT00000040706: ['no event', 48, 2]
+ENSLOCT00000020481: ['exon skipping', 0, 0]
+>3
+ENSOANT00000040706: ['exon skipping', 0, 0]
+ENSLOCT00000020481: ['5event', 117, 2]

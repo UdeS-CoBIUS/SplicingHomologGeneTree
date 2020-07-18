@@ -1,0 +1,1 @@
+(((((ENSFHEG00000017844__Fundulus_heteroclitus,ENSCVAG00000009511__Cyprinodon_variegatus),ENSMMOG00000009658__Mola_mola),ENSPMGG00000008567__Periophthalmus_magnuspinnatus),ENSELUG00000019413__Esox_lucius),ENSPKIG00000006043__Paramormyrops_kingsleyae);

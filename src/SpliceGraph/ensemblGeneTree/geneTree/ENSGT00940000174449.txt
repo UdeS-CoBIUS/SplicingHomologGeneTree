@@ -1,0 +1,1 @@
+(ENSRROG00000012080__Rhinopithecus_roxellana,ENSRBIG00000006495__Rhinopithecus_bieti);

@@ -1,0 +1,5 @@
+MACACANEMESTRINA	macaca_nemestrina
+PAPIOANUBIS	papio_anubis
+MANDRILLUSLEUCOPHAEUS	mandrillus_leucophaeus
+COLOBUSANGOLENSISPALLIATUS	colobus_angolensis_palliatus
+URSUSAMERICANUS	ursus_americanus

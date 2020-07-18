@@ -1,0 +1,1 @@
+((((ENSPPRG00000021699__Panthera_pardus,ENSPTIG00000011658__Panthera_tigris_altaica),(ENSFCAG00000040016__Felis_catus,ENSUAMG00000024296__Ursus_americanus)),ENSPEMG00000012932__Peromyscus_maniculatus_bairdii),ENSMEUG00000007092__Notamacropus_eugenii);

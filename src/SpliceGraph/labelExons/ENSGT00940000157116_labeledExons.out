@@ -1,0 +1,8 @@
+>0
+ENSECRT00000004312: ['no event', 393, 0]
+ENSMUNT00000012865: [['internal gap < 30', 142, 6], 387, 0]
+ENSMUNT00000012866: [['internal gap < 30', 142, 6], 387, 0]
+>1
+ENSECRT00000004312: [['internal gap >= 30', 334, 108], 778, 1]
+ENSMUNT00000012865: ['no event', 886, 1]
+ENSMUNT00000012866: ['no event', 886, 1]

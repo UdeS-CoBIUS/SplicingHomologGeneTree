@@ -1,0 +1,1 @@
+((((ENSPSMG00000005694__Prolemur_simus,ENSTBEG00000016431__Tupaia_belangeri),ENSNGAG00000003932__Nannospalax_galili),ENSDNOG00000015102__Dasypus_novemcinctus),ENSELUG00000003035__Esox_lucius);

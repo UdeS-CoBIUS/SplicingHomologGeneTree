@@ -1,0 +1,1 @@
+(((((ENSAHAG00000011151__Apteryx_haastii,ENSAOWG00000011168__Apteryx_owenii),ENSARWG00000010635__Apteryx_rowi),ENSNPEG00000010309__Nothoprocta_perdicaria),(ENSLCOG00000000876__Lepidothrix_coronata,ENSMUNG00000008940__Melopsittacus_undulatus)),ENSCPBG00000025050__Chrysemys_picta_bellii);

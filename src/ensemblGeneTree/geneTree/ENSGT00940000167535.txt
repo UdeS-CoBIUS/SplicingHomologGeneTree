@@ -1,0 +1,1 @@
+(((ENSBMUG00000022550__Bos_mutus,ENSBBBG00000024389__Bison_bison_bison),ENSSSCG00000039438__Sus_scrofa),((((ENSPPAG00000006979__Pan_paniscus,ENSPTRG00000048109__Pan_troglodytes),ENSGGOG00000039170__Gorilla_gorilla),ENSGGOG00000040310__Gorilla_gorilla),ENSNLEG00000029640__Nomascus_leucogenys));

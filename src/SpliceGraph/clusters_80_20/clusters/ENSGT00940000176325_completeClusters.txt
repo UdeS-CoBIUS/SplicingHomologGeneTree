@@ -1,0 +1,2 @@
+>completeCluster_0
+YBR085W_mRNA	YMR056C_mRNA	YBL030C_mRNA

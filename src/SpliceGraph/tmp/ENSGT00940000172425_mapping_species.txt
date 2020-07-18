@@ -1,0 +1,5 @@
+PANTROGLODYTES	pan_troglodytes
+NOMASCUSLEUCOGENYS	nomascus_leucogenys
+PILIOCOLOBUSTEPHROSCELES	piliocolobus_tephrosceles
+BOSMUTUS	bos_mutus
+BISONBISONBISON	bison_bison_bison

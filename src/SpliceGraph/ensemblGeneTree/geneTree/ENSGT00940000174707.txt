@@ -1,0 +1,1 @@
+((ENSFHEG00000009459__Fundulus_heteroclitus,ENSORLG00020012467__Oryzias_latipes_ASM223471v1),(ENSTRUG00000023182__Takifugu_rubripes,ENSSMAG00000004411__Scophthalmus_maximus));

@@ -1,0 +1,1 @@
+((ENSPTEG00000028938__Piliocolobus_tephrosceles,ENSG00000285231__Homo_sapiens),ENSPSMG00000004860__Prolemur_simus);

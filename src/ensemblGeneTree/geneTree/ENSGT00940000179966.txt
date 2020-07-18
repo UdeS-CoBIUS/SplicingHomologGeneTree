@@ -1,0 +1,1 @@
+((ENSSDUG00000020828__Seriola_dumerili,ENSATEG00000005725__Anabas_testudineus),ENSLBEG00000007805__Labrus_bergylta);

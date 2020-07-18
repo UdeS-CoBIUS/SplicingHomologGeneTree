@@ -1,1 +1,0 @@
-(ENSPKIG00000017439__Paramormyrops_kingsleyae,ENSAMXG00000043368__Astyanax_mexicanus);

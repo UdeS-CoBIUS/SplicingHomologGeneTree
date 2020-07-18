@@ -1,0 +1,1 @@
+(FBgn0032640__Drosophila_melanogaster,ENSXCOG00000017192__Xiphophorus_couchianus);

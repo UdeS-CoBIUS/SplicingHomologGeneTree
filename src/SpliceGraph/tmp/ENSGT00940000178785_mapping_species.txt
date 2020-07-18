@@ -1,0 +1,4 @@
+POECILIARETICULATA	poecilia_reticulata
+POECILIALATIPINNA	poecilia_latipinna
+XIPHOPHORUSMACULATUS	xiphophorus_maculatus
+AMPHILOPHUSCITRINELLUS	amphilophus_citrinellus

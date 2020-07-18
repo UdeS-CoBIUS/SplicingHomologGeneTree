@@ -1,0 +1,1 @@
+((((((ENSMZEG00005028564__Maylandia_zebra,ENSACLG00000001710__Astatotilapia_calliptera),ENSOMEG00000009119__Oryzias_melastigma),ENSSPAG00000005922__Stegastes_partitus),ENSGMOG00000009606__Gadus_morhua),ENSIPUG00000018960__Ictalurus_punctatus),ENSSFOG00015011247__Scleropages_formosus);

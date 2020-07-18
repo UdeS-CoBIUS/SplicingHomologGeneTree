@@ -1,0 +1,1 @@
+(((ENSSMAG00000000781__Scophthalmus_maximus,ENSSDUG00000017758__Seriola_dumerili),ENSMALG00000019078__Monopterus_albus),ENSSMRG00000007144__Salvator_merianae);

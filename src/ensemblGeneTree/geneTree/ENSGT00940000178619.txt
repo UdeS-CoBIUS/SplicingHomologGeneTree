@@ -1,0 +1,1 @@
+(((ENSACIG00000017069__Amphilophus_citrinellus,ENSACIG00000015647__Amphilophus_citrinellus),((ENSACLG00000011548__Astatotilapia_calliptera,ENSACLG00000011630__Astatotilapia_calliptera),ENSNBRG00000011699__Neolamprologus_brichardi)),ENSECAG00000029872__Equus_caballus);

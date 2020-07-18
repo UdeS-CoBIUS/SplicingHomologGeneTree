@@ -1,0 +1,1 @@
+(((ENSCPGG00000007885__Calidris_pygmaea,ENSOANG00000030552__Ornithorhynchus_anatinus),ENSXETG00000008119__Xenopus_tropicalis),ENSCING00000014690__Ciona_intestinalis);

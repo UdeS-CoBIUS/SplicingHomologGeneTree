@@ -1,0 +1,1 @@
+(((ENSDNVG00000004376__Dromaius_novaehollandiae,ENSARWG00000002996__Apteryx_rowi),(ENSMVIG00005005354__Manacus_vitellinus,ENSLCOG00000008779__Lepidothrix_coronata)),((ENSGAGG00000006036__Gopherus_agassizii,ENSCABG00000011064__Chelonoidis_abingdonii),ENSCPBG00000006898__Chrysemys_picta_bellii));

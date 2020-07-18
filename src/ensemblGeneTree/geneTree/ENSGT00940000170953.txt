@@ -1,0 +1,1 @@
+((ENSCING00000011761__Ciona_intestinalis,ENSCING00000019997__Ciona_intestinalis),WBGene00010716__Caenorhabditis_elegans_strain_N2);

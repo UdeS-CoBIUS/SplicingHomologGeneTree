@@ -1,0 +1,1 @@
+(((ENSCJPG00005005933__Coturnix_japonica,ENSNMEG00000001437__Numida_meleagris),ENSAPLG00000024108__Anas_platyrhynchos_platyrhynchos),(((ENSAMXG00000034144__Astyanax_mexicanus,ENSIPUG00000013436__Ictalurus_punctatus),ENSSDUG00000000394__Seriola_dumerili),ENSPMGG00000010184__Periophthalmus_magnuspinnatus));

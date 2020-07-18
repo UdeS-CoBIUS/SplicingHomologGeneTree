@@ -1,0 +1,1 @@
+((ENSTGEG00000006598__Theropithecus_gelada,ENSPANG00000030679__Papio_anubis),ENSPSMG00000019282__Prolemur_simus);

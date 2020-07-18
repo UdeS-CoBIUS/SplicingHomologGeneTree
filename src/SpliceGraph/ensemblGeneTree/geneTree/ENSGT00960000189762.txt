@@ -1,0 +1,1 @@
+((((ENSPMJG00000019537__Parus_major,ENSSCAG00000006768__Serinus_canaria),ENSLCOG00000013096__Lepidothrix_coronata),ENSCCEG00000002649__Cyanistes_caeruleus),ENSSMRG00000015288__Salvator_merianae);

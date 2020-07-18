@@ -1,0 +1,1 @@
+(ENSAHAG00000006790__Apteryx_haastii,ENSLCOG00000016312__Lepidothrix_coronata);

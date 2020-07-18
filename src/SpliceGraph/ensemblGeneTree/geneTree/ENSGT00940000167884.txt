@@ -1,0 +1,1 @@
+((((((ENSPPRG00000001460__Panthera_pardus,ENSFCAG00000028768__Felis_catus),ENSMUGG00000021484__Meriones_unguiculatus),ENSDNOG00000011226__Dasypus_novemcinctus),ENSETEG00000015410__Echinops_telfairi),ENSMODG00000007745__Monodelphis_domestica),ENSPVIG00000016687__Pogona_vitticeps);

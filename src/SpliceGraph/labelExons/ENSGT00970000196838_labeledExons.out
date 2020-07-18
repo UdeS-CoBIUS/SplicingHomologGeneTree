@@ -1,0 +1,12 @@
+>0
+ZK673.10.1: [['internal gap >= 30', 414, 55], 428, 0]
+ZK666.4.1: [['internal gap >= 30', 411, 53], 430, 0]
+ZK673.5.1: [['internal gap >= 30', 426, 43], 440, 0]
+ZK666.1.1: [['internal gap >= 30', 399, 70], 413, 0]
+C09G5.14.1: ['3event', 381, 0]
+>1
+ZK673.10.1: ['exon skipping', 0, 0]
+ZK666.4.1: ['no event', 3, 2]
+ZK673.5.1: ['exon skipping', 0, 0]
+ZK666.1.1: ['exon skipping', 0, 0]
+C09G5.14.1: ['exon skipping', 0, 0]

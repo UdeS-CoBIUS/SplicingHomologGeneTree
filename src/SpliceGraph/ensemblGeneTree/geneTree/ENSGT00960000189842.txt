@@ -1,0 +1,1 @@
+(((ENSCCEG00000014279__Cyanistes_caeruleus,ENSLSDG00000003314__Lonchura_striata_domestica),ENSSPUG00000018301__Sphenodon_punctatus),ENSPTEG00000013272__Piliocolobus_tephrosceles);

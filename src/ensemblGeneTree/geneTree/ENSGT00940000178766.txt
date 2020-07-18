@@ -1,0 +1,1 @@
+((ENSXCOG00000013012__Xiphophorus_couchianus,ENSXMAG00000029839__Xiphophorus_maculatus),(ENSPLAG00000005199__Poecilia_latipinna,ENSPREG00000006287__Poecilia_reticulata));

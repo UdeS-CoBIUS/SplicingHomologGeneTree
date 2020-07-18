@@ -1,0 +1,1 @@
+((YML115C__Saccharomyces_cerevisiae_strain_S288C,YPL050C__Saccharomyces_cerevisiae_strain_S288C),YEL036C__Saccharomyces_cerevisiae_strain_S288C);

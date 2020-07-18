@@ -1,0 +1,1 @@
+((((((ENSPNAG00000008772__Pygocentrus_nattereri,ENSAMXG00000027371__Astyanax_mexicanus),ENSDARG00000099361__Danio_rerio),ENSSDUG00000000567__Seriola_dumerili),ENSSFOG00015020624__Scleropages_formosus),ENSFCAG00000044238__Felis_catus),ENSCING00000012633__Ciona_intestinalis);

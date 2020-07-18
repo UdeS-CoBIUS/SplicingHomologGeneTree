@@ -1,0 +1,3 @@
+NOMASCUSLEUCOGENYS	nomascus_leucogenys
+MACACANEMESTRINA	macaca_nemestrina
+AOTUSNANCYMAAE	aotus_nancymaae

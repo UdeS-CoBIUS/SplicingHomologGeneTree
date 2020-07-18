@@ -1,0 +1,24 @@
+>0
+FBtr0075160: ['exon skipping', 0, 0]
+FBtr0345815: ['exon skipping', 0, 0]
+Y71H2B.6.1: ['no event', 90, 0]
+>1
+FBtr0075160: ['5event', 437, 0]
+FBtr0345815: ['5event', 437, 0]
+Y71H2B.6.1: [['internal gap >= 30', 198, 181], 257, 1]
+>2
+FBtr0075160: ['no event', 114, 0]
+FBtr0345815: ['no event', 114, 0]
+Y71H2B.6.1: ['exon skipping', 0, 0]
+>3
+FBtr0075160: ['exon skipping', 0, 0]
+FBtr0345815: ['exon skipping', 0, 0]
+Y71H2B.6.1: ['5event', 10, 0]
+>4
+FBtr0075160: ['5event', 457, 1]
+FBtr0345815: ['5event', 457, 1]
+Y71H2B.6.1: ['exon skipping', 0, 0]
+>5
+FBtr0075160: ['exon skipping', 0, 0]
+FBtr0345815: ['exon skipping', 0, 0]
+Y71H2B.6.1: ['5event', 240, 2]

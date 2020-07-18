@@ -1,0 +1,1 @@
+(((ENSPTEG00000033449__Piliocolobus_tephrosceles,ENSCANG00000027885__Colobus_angolensis_palliatus),ENSTGEG00000002048__Theropithecus_gelada),(ENSEASG00005003078__Equus_asinus_asinus,ENSECAG00000036881__Equus_caballus));

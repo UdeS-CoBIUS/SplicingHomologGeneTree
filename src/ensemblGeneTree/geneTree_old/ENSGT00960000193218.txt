@@ -1,1 +1,0 @@
-(ENSPMGG00000002324__Periophthalmus_magnuspinnatus,ENSSCAG00000010581__Serinus_canaria);

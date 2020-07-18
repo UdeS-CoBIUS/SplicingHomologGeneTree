@@ -1,0 +1,1 @@
+(((ENSPTIG00000011901__Panthera_tigris_altaica,ENSPPRG00000000407__Panthera_pardus),(ENSEASG00005013889__Equus_asinus_asinus,ENSEASG00005011107__Equus_asinus_asinus)),((ENSMFAG00000019454__Macaca_fascicularis,ENSPTEG00000023980__Piliocolobus_tephrosceles),ENSSDAG00000018903__Spermophilus_dauricus));

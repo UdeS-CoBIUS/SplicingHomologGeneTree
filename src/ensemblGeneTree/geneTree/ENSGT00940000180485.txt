@@ -1,0 +1,1 @@
+(((ENSSCAG00000009704__Serinus_canaria,ENSTGUG00000016108__Taeniopygia_guttata),ENSNMEG00000000628__Numida_meleagris),((ENSORLG00015009999__Oryzias_latipes_ASM223469v1,ENSAPOG00000017449__Acanthochromis_polyacanthus),ENSAMXG00000029211__Astyanax_mexicanus));

@@ -1,0 +1,1 @@
+(((ENSOMEG00000012045__Oryzias_melastigma,ENSOMEG00000007388__Oryzias_melastigma),ENSPREG00000014528__Poecilia_reticulata),(ENSPMGG00000020087__Periophthalmus_magnuspinnatus,ENSPMGG00000012253__Periophthalmus_magnuspinnatus));

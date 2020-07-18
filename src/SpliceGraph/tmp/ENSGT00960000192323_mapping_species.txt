@@ -1,0 +1,2 @@
+MESOCRICETUSAURATUS	mesocricetus_auratus
+NEOVISONVISON	neovison_vison

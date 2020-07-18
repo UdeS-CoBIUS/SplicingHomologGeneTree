@@ -1,0 +1,6 @@
+>0
+YKL161C_mRNA: [['internal gap >= 30', 1277, 107], 1301, 0]
+YHR030C_mRNA: [['internal gap < 30', 1315, 11], 1397, 0]
+>1
+YKL161C_mRNA: ['exon skipping', 0, 0]
+YHR030C_mRNA: ['no event', 56, 0]

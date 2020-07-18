@@ -1,0 +1,1 @@
+(((ENSORLG00015005559__Oryzias_latipes_ASM223469v1,ENSORLG00000024660__Oryzias_latipes_ASM223467v1),((ENSOMEG00000004699__Oryzias_melastigma,ENSOMEG00000004692__Oryzias_melastigma),ENSOMEG00000004684__Oryzias_melastigma)),ENSAPEG00000022962__Amphiprion_percula);

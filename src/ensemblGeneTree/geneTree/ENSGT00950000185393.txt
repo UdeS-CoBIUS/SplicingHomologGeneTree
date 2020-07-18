@@ -1,0 +1,1 @@
+((ENSMMMG00000018142__Marmota_marmota_marmota,ENSMSIG00000027793__Mus_spicilegus),ENSEASG00005009620__Equus_asinus_asinus);

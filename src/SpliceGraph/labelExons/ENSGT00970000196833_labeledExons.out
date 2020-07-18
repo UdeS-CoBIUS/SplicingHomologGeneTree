@@ -1,0 +1,30 @@
+>0
+K05D4.8.1: ['3event', 549, 0]
+K05D4.3.1: ['3event', 552, 0]
+K08G2.7.1: ['3event', 558, 0]
+T09F5.16.1: ['3event', '5event', 510, 0]
+ZK1037.11.1: [['internal gap >= 30', 556, 65], 563, 0]
+>1
+K05D4.8.1: ['5event', 164, 0]
+K05D4.3.1: ['5event', 164, 0]
+K08G2.7.1: ['5event', ['internal gap < 30', 79, 5], 161, 0]
+T09F5.16.1: ['5event', ['internal gap < 30', 79, 5], 161, 0]
+ZK1037.11.1: [['internal gap < 30', 100, 16], 150, 0]
+>2
+K05D4.8.1: [['internal gap < 30', 22, 28], 32, 0]
+K05D4.3.1: [['internal gap < 30', 22, 28], 32, 0]
+K08G2.7.1: ['3event', 49, 0]
+T09F5.16.1: ['3event', 49, 0]
+ZK1037.11.1: [['internal gap < 30', 1, 11], 49, 0]
+>3
+K05D4.8.1: ['exon skipping', 0, 0]
+K05D4.3.1: ['exon skipping', 0, 0]
+K08G2.7.1: ['exon skipping', 0, 0]
+T09F5.16.1: ['exon skipping', 0, 0]
+ZK1037.11.1: ['no event', 12, 2]
+>4
+K05D4.8.1: ['5event', ['internal gap >= 30', 153, 35], 215, 0]
+K05D4.3.1: ['5event', ['internal gap >= 30', 153, 35], 215, 0]
+K08G2.7.1: ['5event', ['internal gap < 30', 198, 23], 227, 0]
+T09F5.16.1: ['5event', ['internal gap >= 30', 176, 35], 215, 0]
+ZK1037.11.1: [['internal gap >= 30', 186, 35], 215, 0]

@@ -1,1 +1,0 @@
-(ENSGMOG00000019901__Gadus_morhua,ENSTNIG00000018676__Tetraodon_nigroviridis);

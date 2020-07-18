@@ -1,0 +1,25 @@
+>0
+ENSMNET00000052692: ['no event', 68, 0]
+ENSMLET00000045811: ['no event', 68, 0]
+ENSRBIT00000033198: ['no event', 68, 0]
+ENSTSYT00000033221: ['no event', 68, 0]
+>1
+ENSMNET00000052692: ['no event', 47, 0]
+ENSMLET00000045811: ['no event', 47, 0]
+ENSRBIT00000033198: ['no event', 47, 0]
+ENSTSYT00000033221: ['no event', 47, 0]
+>2
+ENSMNET00000052692: ['exon skipping', 0, 0]
+ENSMLET00000045811: ['no event', 41, 0]
+ENSRBIT00000033198: ['no event', 41, 0]
+ENSTSYT00000033221: ['exon skipping', 0, 0]
+>3
+ENSMNET00000052692: ['exon skipping', 0, 0]
+ENSMLET00000045811: ['no event', 1, 0]
+ENSRBIT00000033198: ['exon skipping', 0, 0]
+ENSTSYT00000033221: ['exon skipping', 0, 0]
+>4
+ENSMNET00000052692: ['exon skipping', 0, 0]
+ENSMLET00000045811: ['no event', 51, 2]
+ENSRBIT00000033198: ['exon skipping', 0, 0]
+ENSTSYT00000033221: ['exon skipping', 0, 0]

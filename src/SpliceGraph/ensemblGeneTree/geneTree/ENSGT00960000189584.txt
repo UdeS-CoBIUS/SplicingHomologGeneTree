@@ -1,0 +1,1 @@
+(((((ENSCPGG00000011538__Calidris_pygmaea,ENSCPUG00000013765__Calidris_pugnax),ENSPMJG00000008730__Parus_major),ENSAPLG00000020312__Anas_platyrhynchos_platyrhynchos),ENSCPRG00005011940__Crocodylus_porosus),ENSCPBG00000011601__Chrysemys_picta_bellii);

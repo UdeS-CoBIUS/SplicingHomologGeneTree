@@ -1,0 +1,1 @@
+((((((ENSCANG00000035060__Colobus_angolensis_palliatus,ENSPTEG00000020857__Piliocolobus_tephrosceles),ENSRBIG00000031796__Rhinopithecus_bieti),ENSCATG00000033301__Cercocebus_atys),ENSPTRG00000047863__Pan_troglodytes),ENSMODG00000006936__Monodelphis_domestica),ENSLACG00000003223__Latimeria_chalumnae);

@@ -1,0 +1,1 @@
+(((ENSCABG00000021067__Chelonoidis_abingdonii,ENSNPEG00000013826__Nothoprocta_perdicaria),((ENSFDAG00000013382__Fukomys_damarensis,ENSCCNG00000024566__Castor_canadensis),ENSMMMG00000010174__Marmota_marmota_marmota)),(ENSHCOG00000003312__Hippocampus_comes,ENSHCOG00000003267__Hippocampus_comes));

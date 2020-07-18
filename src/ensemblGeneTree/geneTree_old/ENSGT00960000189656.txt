@@ -1,1 +1,0 @@
-((ENSNSUG00000007900__Notechis_scutatus,ENSPVIG00000025464__Pogona_vitticeps),((ENSNSUG00000013956__Notechis_scutatus,ENSNSUG00000017099__Notechis_scutatus),ENSPVIG00000013443__Pogona_vitticeps));

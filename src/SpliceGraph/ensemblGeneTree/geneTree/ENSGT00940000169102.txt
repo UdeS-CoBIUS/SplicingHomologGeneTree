@@ -1,0 +1,1 @@
+(((((ENSMALG00000001113__Monopterus_albus,ENSGACG00000018706__Gasterosteus_aculeatus),ENSPMGG00000002940__Periophthalmus_magnuspinnatus),ENSORLG00015017918__Oryzias_latipes_ASM223469v1),ENSGMOG00000007565__Gadus_morhua),(ENSCHOG00000003383__Choloepus_hoffmanni,ENSPCAG00000014113__Procavia_capensis));

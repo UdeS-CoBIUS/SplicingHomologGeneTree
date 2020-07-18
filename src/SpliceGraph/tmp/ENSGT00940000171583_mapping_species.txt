@@ -1,0 +1,5 @@
+ANSERBRACHYRHYNCHUS	anser_brachyrhynchus
+SALVATORMERIANAE	salvator_merianae
+MONODELPHISDOMESTICA	monodelphis_domestica
+AILUROPODAMELANOLEUCA	ailuropoda_melanoleuca
+LATIMERIACHALUMNAE	latimeria_chalumnae

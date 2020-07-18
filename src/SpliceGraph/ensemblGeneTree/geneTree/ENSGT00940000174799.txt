@@ -1,0 +1,1 @@
+(((ENSGAFG00000009412__Gambusia_affinis,ENSXMAG00000028320__Xiphophorus_maculatus),ENSFHEG00000022455__Fundulus_heteroclitus),ENSTBEG00000010322__Tupaia_belangeri);

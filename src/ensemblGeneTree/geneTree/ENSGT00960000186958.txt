@@ -1,0 +1,1 @@
+((((ENSLBEG00000013067__Labrus_bergylta,ENSLBEG00000003423__Labrus_bergylta),(ENSPREG00000012788__Poecilia_reticulata,ENSCVAG00000004077__Cyprinodon_variegatus)),(ENSGMOG00000020069__Gadus_morhua,ENSGMOG00000000314__Gadus_morhua)),(ENSPNAG00000020895__Pygocentrus_nattereri,ENSPNAG00000022317__Pygocentrus_nattereri));

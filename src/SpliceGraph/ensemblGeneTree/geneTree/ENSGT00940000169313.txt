@@ -1,0 +1,1 @@
+((((ENSDORG00000008794__Dipodomys_ordii,ENSHGLG00000005104__Heterocephalus_glaber_HetGla_female_1.0),ENSSTOG00000033916__Ictidomys_tridecemlineatus),ENSTSYG00000028901__Carlito_syrichta),((ENSZALG00000006702__Zonotrichia_albicollis,ENSMVIG00005012157__Manacus_vitellinus),ENSCCEG00000014814__Cyanistes_caeruleus));

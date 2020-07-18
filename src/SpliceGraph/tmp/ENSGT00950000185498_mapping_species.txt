@@ -1,0 +1,8 @@
+UROCITELLUSPARRYII	urocitellus_parryii
+MUSSPICILEGUS	mus_spicilegus
+PEROMYSCUSMANICULATUSBAIRDII	peromyscus_maniculatus_bairdii
+MERIONESUNGUICULATUS	meriones_unguiculatus
+CASTORCANADENSIS	castor_canadensis
+PROLEMURSIMUS	prolemur_simus
+URSUSAMERICANUS	ursus_americanus
+VULPESVULPES	vulpes_vulpes

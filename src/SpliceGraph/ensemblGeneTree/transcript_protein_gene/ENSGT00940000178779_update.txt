@@ -1,0 +1,4 @@
+YER138W-A_mRNA	YER138W-A	Saccharomyces_cerevisiae_strain_S288C
+YOR192C-C_mRNA	YOR192C-C	Saccharomyces_cerevisiae_strain_S288C
+YIL060W_mRNA	YIL060W	Saccharomyces_cerevisiae_strain_S288C
+YHR145C_mRNA	YHR145C	Saccharomyces_cerevisiae_strain_S288C

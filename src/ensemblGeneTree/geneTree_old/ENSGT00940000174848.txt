@@ -1,1 +1,0 @@
-((ENSXETG00000017573__Xenopus_tropicalis,ENSABRG00000006840__Anser_brachyrhynchus),ENSAPEG00000005999__Amphiprion_percula);

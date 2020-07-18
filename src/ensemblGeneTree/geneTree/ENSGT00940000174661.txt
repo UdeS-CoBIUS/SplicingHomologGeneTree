@@ -1,0 +1,1 @@
+(((ENSPTEG00000013227__Piliocolobus_tephrosceles,ENSPTEG00000018993__Piliocolobus_tephrosceles),WBGene00002076__Caenorhabditis_elegans_strain_N2),YBR017C__Saccharomyces_cerevisiae_strain_S288C);

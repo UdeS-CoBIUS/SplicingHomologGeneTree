@@ -1,0 +1,1 @@
+(ENSMMUG00000043391__Macaca_mulatta,ENSG00000267952__Homo_sapiens);

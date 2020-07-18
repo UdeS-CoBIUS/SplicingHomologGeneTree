@@ -1,0 +1,1 @@
+((ENSNBRG00000006677__Neolamprologus_brichardi,ENSORLG00000025114__Oryzias_latipes_ASM223467v1),ENSGMOG00000014403__Gadus_morhua);

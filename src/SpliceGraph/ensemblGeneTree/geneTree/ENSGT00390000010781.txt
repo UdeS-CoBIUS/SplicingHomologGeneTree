@@ -1,0 +1,1 @@
+((((((ENSPTRG00000041478__Pan_troglodytes,ENSPPAG00000015245__Pan_paniscus),ENSG00000221916__Homo_sapiens),ENSGGOG00000008400__Gorilla_gorilla),ENSPPYG00000010236__Pongo_abelii),(ENSMMUG00000043385__Macaca_mulatta,ENSCSAG00000019645__Chlorocebus_sabaeus)),ENSTBEG00000009869__Tupaia_belangeri);

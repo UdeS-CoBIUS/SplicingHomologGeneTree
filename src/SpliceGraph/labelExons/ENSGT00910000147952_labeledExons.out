@@ -1,0 +1,18 @@
+>0
+ENSTGET00000008389: [['internal gap < 30', 204, 1], 221, 0]
+ENSPANT00000058846: [['internal gap < 30', 204, 1], 221, 0]
+ENSPTET00000004819: [['internal gap < 30', 204, 1], 221, 0]
+ENSPPAT00000013589: [['internal gap < 30', 204, 1], 221, 0]
+ENSCJAT00000068793: ['no event', 222, 0]
+>1
+ENSTGET00000008389: ['exon skipping', 0, 0]
+ENSPANT00000058846: ['exon skipping', 0, 0]
+ENSPTET00000004819: ['exon skipping', 0, 0]
+ENSPPAT00000013589: ['exon skipping', 0, 0]
+ENSCJAT00000068793: ['no event', 4, 1]
+>2
+ENSTGET00000008389: ['exon skipping', 0, 0]
+ENSPANT00000058846: ['exon skipping', 0, 0]
+ENSPTET00000004819: ['exon skipping', 0, 0]
+ENSPPAT00000013589: ['exon skipping', 0, 0]
+ENSCJAT00000068793: ['no event', 23, 0]

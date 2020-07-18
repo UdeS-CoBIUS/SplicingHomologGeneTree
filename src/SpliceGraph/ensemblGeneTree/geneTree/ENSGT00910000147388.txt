@@ -1,0 +1,1 @@
+(((ENSCAFG00020004563__Canis_lupus_dingo,ENSUAMG00000011646__Ursus_americanus),ENSSSCG00000033994__Sus_scrofa),((ENSRROG00000044529__Rhinopithecus_roxellana,ENSRBIG00000040543__Rhinopithecus_bieti),((ENSANAG00000035122__Aotus_nancymaae,ENSCCAG00000021283__Cebus_capucinus_imitator),ENSNLEG00000035129__Nomascus_leucogenys)));

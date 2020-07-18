@@ -1,0 +1,1 @@
+((((YPL280W__Saccharomyces_cerevisiae_strain_S288C,YMR322C__Saccharomyces_cerevisiae_strain_S288C),YOR391C__Saccharomyces_cerevisiae_strain_S288C),YDR533C__Saccharomyces_cerevisiae_strain_S288C),ENSPNAG00000005985__Pygocentrus_nattereri);

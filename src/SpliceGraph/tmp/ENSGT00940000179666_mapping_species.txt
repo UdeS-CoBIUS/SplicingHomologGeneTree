@@ -1,0 +1,5 @@
+CAVIAAPEREA	cavia_aperea
+MERIONESUNGUICULATUS	meriones_unguiculatus
+SPERMOPHILUSDAURICUS	spermophilus_dauricus
+AMPHIPRIONOCELLARIS	amphiprion_ocellaris
+NEOLAMPROLOGUSBRICHARDI	neolamprologus_brichardi

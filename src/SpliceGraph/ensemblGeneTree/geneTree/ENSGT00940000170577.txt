@@ -1,0 +1,1 @@
+(((ENSCSAVG00000007412__Ciona_savignyi,ENSOMEG00000012182__Oryzias_melastigma),(FBgn0002593__Drosophila_melanogaster,WBGene00004409__Caenorhabditis_elegans_strain_N2)),YDL081C__Saccharomyces_cerevisiae_strain_S288C);

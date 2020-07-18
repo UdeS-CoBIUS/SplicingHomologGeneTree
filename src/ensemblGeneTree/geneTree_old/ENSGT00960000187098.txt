@@ -1,1 +1,0 @@
-((((ENSCCAG00000034156__Cebus_capucinus_imitator,ENSTSYG00000026814__Carlito_syrichta),ENSPCOG00000022663__Propithecus_coquereli),((ENSFDAG00000013520__Fukomys_damarensis,ENSCPOG00000031754__Cavia_porcellus),ENSSTOG00000034667__Ictidomys_tridecemlineatus)),((ENSBMUG00000019715__Bos_mutus,ENSBBBG00000009549__Bison_bison_bison),ENSNVIG00000017251__Neovison_vison));

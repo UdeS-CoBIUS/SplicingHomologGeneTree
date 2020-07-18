@@ -1,0 +1,120 @@
+>0
+ENSETET00000002277: ['exon skipping', 0, 0]
+ENSPCAT00000014991: ['exon skipping', 0, 0]
+ENSDNOT00000008627: ['no event', 45, 0]
+>1
+ENSETET00000002277: ['exon skipping', 0, 0]
+ENSPCAT00000014991: ['exon skipping', 0, 0]
+ENSDNOT00000008627: ['no event', 154, 1]
+>2
+ENSETET00000002277: ['exon skipping', 0, 0]
+ENSPCAT00000014991: ['exon skipping', 0, 0]
+ENSDNOT00000008627: ['no event', 122, 0]
+>3
+ENSETET00000002277: ['exon skipping', 0, 0]
+ENSPCAT00000014991: ['exon skipping', 0, 0]
+ENSDNOT00000008627: ['no event', 134, 0]
+>4
+ENSETET00000002277: ['exon skipping', 0, 0]
+ENSPCAT00000014991: ['exon skipping', 0, 0]
+ENSDNOT00000008627: ['no event', 111, 0]
+>5
+ENSETET00000002277: ['exon skipping', 0, 0]
+ENSPCAT00000014991: ['exon skipping', 0, 0]
+ENSDNOT00000008627: ['no event', 119, 1]
+>6
+ENSETET00000002277: ['exon skipping', 0, 0]
+ENSPCAT00000014991: ['exon skipping', 0, 0]
+ENSDNOT00000008627: ['no event', 118, 1]
+>7
+ENSETET00000002277: ['exon skipping', 0, 0]
+ENSPCAT00000014991: ['exon skipping', 0, 0]
+ENSDNOT00000008627: ['no event', 129, 0]
+>8
+ENSETET00000002277: ['5event', 48, 0]
+ENSPCAT00000014991: ['5event', 48, 0]
+ENSDNOT00000008627: ['exon skipping', 0, 0]
+>9
+ENSETET00000002277: ['no event', 67, 1]
+ENSPCAT00000014991: ['exon skipping', 0, 0]
+ENSDNOT00000008627: ['exon skipping', 0, 0]
+>10
+ENSETET00000002277: ['no event', 29, 0]
+ENSPCAT00000014991: ['exon skipping', 0, 0]
+ENSDNOT00000008627: ['exon skipping', 0, 0]
+>11
+ENSETET00000002277: [['internal gap >= 30', 3, 98], 59, 0]
+ENSPCAT00000014991: ['5event', 154, 1]
+ENSDNOT00000008627: ['5event', 154, 1]
+>12
+ENSETET00000002277: ['no event', 125, 0]
+ENSPCAT00000014991: ['3event', 106, 0]
+ENSDNOT00000008627: ['no event', 125, 0]
+>13
+ENSETET00000002277: ['exon skipping', 0, 0]
+ENSPCAT00000014991: ['5event', 17, 0]
+ENSDNOT00000008627: ['exon skipping', 0, 0]
+>14
+ENSETET00000002277: ['5event', 134, 0]
+ENSPCAT00000014991: ['3event', 10, 0]
+ENSDNOT00000008627: ['5event', 134, 0]
+>15
+ENSETET00000002277: ['exon skipping', 0, 0]
+ENSPCAT00000014991: ['5event', 86, 0]
+ENSDNOT00000008627: ['exon skipping', 0, 0]
+>16
+ENSETET00000002277: ['exon skipping', 0, 0]
+ENSPCAT00000014991: ['no event', 17, 0]
+ENSDNOT00000008627: ['exon skipping', 0, 0]
+>17
+ENSETET00000002277: ['5event', 108, 0]
+ENSPCAT00000014991: ['no event', 110, 0]
+ENSDNOT00000008627: ['5event', 108, 0]
+>18
+ENSETET00000002277: [['internal gap < 30', 103, 6], 119, 1]
+ENSPCAT00000014991: [['internal gap < 30', 39, 3], 122, 1]
+ENSDNOT00000008627: [['internal gap < 30', 103, 6], 119, 1]
+>19
+ENSETET00000002277: ['no event', 119, 1]
+ENSPCAT00000014991: ['no event', 119, 1]
+ENSDNOT00000008627: ['no event', 119, 1]
+>20
+ENSETET00000002277: ['no event', 118, 1]
+ENSPCAT00000014991: ['exon skipping', 0, 0]
+ENSDNOT00000008627: ['exon skipping', 0, 0]
+>21
+ENSETET00000002277: ['exon skipping', 0, 0]
+ENSPCAT00000014991: ['5event', 118, 1]
+ENSDNOT00000008627: ['5event', 118, 1]
+>22
+ENSETET00000002277: ['5event', 129, 0]
+ENSPCAT00000014991: ['no event', 130, 0]
+ENSDNOT00000008627: ['no event', 130, 0]
+>23
+ENSETET00000002277: ['exon skipping', 0, 0]
+ENSPCAT00000014991: ['no event', 1, 1]
+ENSDNOT00000008627: ['exon skipping', 0, 0]
+>24
+ENSETET00000002277: ['exon skipping', 0, 0]
+ENSPCAT00000014991: ['no event', 2, 0]
+ENSDNOT00000008627: ['exon skipping', 0, 0]
+>25
+ENSETET00000002277: ['5event', 108, 1]
+ENSPCAT00000014991: [['internal gap < 30', 3, 11], 100, 0]
+ENSDNOT00000008627: ['5event', 108, 1]
+>26
+ENSETET00000002277: ['exon skipping', 0, 0]
+ENSPCAT00000014991: ['no event', 72, 2]
+ENSDNOT00000008627: ['exon skipping', 0, 0]
+>27
+ENSETET00000002277: ['5event', 165, 2]
+ENSPCAT00000014991: [['internal gap >= 30', 2, 79], 88, 0]
+ENSDNOT00000008627: ['5event', 165, 2]
+>28
+ENSETET00000002277: ['no event', 1, 0]
+ENSPCAT00000014991: ['exon skipping', 0, 0]
+ENSDNOT00000008627: ['exon skipping', 0, 0]
+>29
+ENSETET00000002277: ['no event', 63, 2]
+ENSPCAT00000014991: ['exon skipping', 0, 0]
+ENSDNOT00000008627: ['exon skipping', 0, 0]

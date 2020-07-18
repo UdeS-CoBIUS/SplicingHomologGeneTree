@@ -1,0 +1,1 @@
+((ENSACIG00000001077__Amphilophus_citrinellus,ENSAMXG00000001350__Astyanax_mexicanus),((ENSMGAG00000011701__Meleagris_gallopavo,ENSPSIG00000010014__Pelodiscus_sinensis),ENSSARG00000012602__Sorex_araneus));

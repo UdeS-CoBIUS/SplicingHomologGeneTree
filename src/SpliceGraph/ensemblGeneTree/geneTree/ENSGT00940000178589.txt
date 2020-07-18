@@ -1,0 +1,1 @@
+((ENSMALG00000013417__Monopterus_albus,ENSMZEG00005020064__Maylandia_zebra),((ENSSLDG00000003894__Seriola_lalandi_dorsalis,ENSSDUG00000010470__Seriola_dumerili),ENSSMAG00000011102__Scophthalmus_maximus));

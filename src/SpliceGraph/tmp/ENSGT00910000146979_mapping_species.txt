@@ -1,0 +1,9 @@
+PANTROGLODYTES	pan_troglodytes
+PANPANISCUS	pan_paniscus
+GORILLAGORILLA	gorilla_gorilla
+NOMASCUSLEUCOGENYS	nomascus_leucogenys
+MACACAMULATTA	macaca_mulatta
+CEBUSCAPUCINUS	cebus_capucinus
+SAIMIRIBOLIVIENSISBOLIVIENSIS	saimiri_boliviensis_boliviensis
+AOTUSNANCYMAAE	aotus_nancymaae
+CARLITOSYRICHTA	carlito_syrichta

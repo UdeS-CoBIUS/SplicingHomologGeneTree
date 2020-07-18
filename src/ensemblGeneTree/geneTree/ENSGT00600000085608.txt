@@ -1,0 +1,1 @@
+((ENSAMEG00000014352__Ailuropoda_melanoleuca,ENSMPUG00000007270__Mustela_putorius_furo),ENSLACG00000016738__Latimeria_chalumnae);

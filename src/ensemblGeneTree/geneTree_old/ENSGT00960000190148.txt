@@ -1,1 +1,0 @@
-((ENSMVIG00005007273__Manacus_vitellinus,ENSMVIG00005007682__Manacus_vitellinus),ENSCAPG00000010265__Cavia_aperea);

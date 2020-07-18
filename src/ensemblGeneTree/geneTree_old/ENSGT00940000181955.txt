@@ -1,1 +1,0 @@
-(ENSSPAG00000015446__Stegastes_partitus,ENSPMGG00000014640__Periophthalmus_magnuspinnatus);

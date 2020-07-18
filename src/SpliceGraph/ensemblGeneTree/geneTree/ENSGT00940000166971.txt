@@ -1,0 +1,1 @@
+(((((ENSXETG00000019332__Xenopus_tropicalis,ENSXETG00000021104__Xenopus_tropicalis),ENSXETG00000018155__Xenopus_tropicalis),ENSXETG00000004208__Xenopus_tropicalis),(ENSLACG00000001270__Latimeria_chalumnae,ENSLACG00000004582__Latimeria_chalumnae)),((FBgn0033874__Drosophila_melanogaster,FBgn0037396__Drosophila_melanogaster),FBgn0032228__Drosophila_melanogaster));

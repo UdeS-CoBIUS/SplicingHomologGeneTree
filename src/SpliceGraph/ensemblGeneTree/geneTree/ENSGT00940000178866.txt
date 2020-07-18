@@ -1,0 +1,1 @@
+(((ENSMAMG00000020820__Mastacembelus_armatus,ENSMALG00000010391__Monopterus_albus),ENSTRUG00000021029__Takifugu_rubripes),ENSPKIG00000003828__Paramormyrops_kingsleyae);

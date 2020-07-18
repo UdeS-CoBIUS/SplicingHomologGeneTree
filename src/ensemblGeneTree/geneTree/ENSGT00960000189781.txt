@@ -1,0 +1,1 @@
+((ENSLSDG00000010628__Lonchura_striata_domestica,ENSPVIG00000014211__Pogona_vitticeps),((ENSCCNG00000010450__Castor_canadensis,ENSTSYG00000030782__Carlito_syrichta),ENSPCIG00000030640__Phascolarctos_cinereus));

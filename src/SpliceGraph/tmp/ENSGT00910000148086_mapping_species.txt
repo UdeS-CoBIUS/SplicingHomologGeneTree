@@ -1,0 +1,4 @@
+MACACAFASCICULARIS	macaca_fascicularis
+MACACANEMESTRINA	macaca_nemestrina
+PAPIOANUBIS	papio_anubis
+CERCOCEBUSATYS	cercocebus_atys

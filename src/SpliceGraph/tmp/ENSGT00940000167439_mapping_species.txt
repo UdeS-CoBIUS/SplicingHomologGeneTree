@@ -1,0 +1,5 @@
+RHINOPITHECUSBIETI	rhinopithecus_bieti
+CEBUSCAPUCINUS	cebus_capucinus
+HETEROCEPHALUSGLABER	heterocephalus_glaber
+ERINACEUSEUROPAEUS	erinaceus_europaeus
+PROCAVIACAPENSIS	procavia_capensis

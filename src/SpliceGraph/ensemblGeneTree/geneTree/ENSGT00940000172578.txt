@@ -1,0 +1,1 @@
+(ENSVPAG00000005015__Vicugna_pacos,ENSETEG00000006303__Echinops_telfairi);

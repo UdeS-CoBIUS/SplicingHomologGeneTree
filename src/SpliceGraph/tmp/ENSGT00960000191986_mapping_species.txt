@@ -1,0 +1,2 @@
+CHELONOIDISABINGDONII	chelonoidis_abingdonii
+GOPHERUSAGASSIZII	gopherus_agassizii

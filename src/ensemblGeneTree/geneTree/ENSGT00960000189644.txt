@@ -1,0 +1,1 @@
+((((ENSZALG00000014482__Zonotrichia_albicollis,ENSLCOG00000004258__Lepidothrix_coronata),ENSCJPG00005006612__Coturnix_japonica),(ENSAHAG00000010600__Apteryx_haastii,ENSAOWG00000007492__Apteryx_owenii)),ENSFHEG00000017187__Fundulus_heteroclitus);

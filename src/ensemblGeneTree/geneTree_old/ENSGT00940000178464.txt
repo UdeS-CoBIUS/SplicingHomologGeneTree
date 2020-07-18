@@ -1,1 +1,0 @@
-((ENSFHEG00000003742__Fundulus_heteroclitus,ENSXCOG00000017336__Xiphophorus_couchianus),((ENSSLDG00000015324__Seriola_lalandi_dorsalis,ENSSLDG00000011772__Seriola_lalandi_dorsalis),ENSSLDG00000000734__Seriola_lalandi_dorsalis));

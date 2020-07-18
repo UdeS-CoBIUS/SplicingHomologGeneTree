@@ -1,1 +1,0 @@
-((ENSCING00000009144__Ciona_intestinalis,ENSCING00000017901__Ciona_intestinalis),ENSPMAG00000004209__Petromyzon_marinus);

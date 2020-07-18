@@ -1,0 +1,1 @@
+(((ENSHGLG00100019518__Heterocephalus_glaber_HetGla_1.0,ENSHGLG00000020319__Heterocephalus_glaber_HetGla_female_1.0),(ENSHGLG00000020312__Heterocephalus_glaber_HetGla_female_1.0,ENSHGLG00100020496__Heterocephalus_glaber_HetGla_1.0)),ENSFDAG00000001483__Fukomys_damarensis);

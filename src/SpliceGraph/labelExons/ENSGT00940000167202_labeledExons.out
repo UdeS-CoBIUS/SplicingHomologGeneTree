@@ -1,0 +1,16 @@
+>0
+ENSACAT00000013153: ['no event', 71, 0]
+ENSPVIT00000031491: ['no event', 71, 0]
+ENSPVIT00000031492: ['exon skipping', 0, 0]
+>1
+ENSACAT00000013153: ['exon skipping', 0, 0]
+ENSPVIT00000031491: ['exon skipping', 0, 0]
+ENSPVIT00000031492: ['no event', 76, 1]
+>2
+ENSACAT00000013153: ['5event', 288, 0]
+ENSPVIT00000031491: ['5event', 288, 0]
+ENSPVIT00000031492: ['no event', 290, 0]
+>3
+ENSACAT00000013153: ['no event', 361, 1]
+ENSPVIT00000031491: ['no event', 361, 1]
+ENSPVIT00000031492: ['no event', 361, 1]

@@ -1,0 +1,1 @@
+(ENSBTAG00000054259__Bos_taurus,ENSMPUG00000003859__Mustela_putorius_furo);

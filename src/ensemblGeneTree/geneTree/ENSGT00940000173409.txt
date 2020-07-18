@@ -1,0 +1,1 @@
+(((ENSOANG00000004907__Ornithorhynchus_anatinus,ENSTBEG00000009236__Tupaia_belangeri),ENSNMEG00000012264__Numida_meleagris),(ENSORLG00015011362__Oryzias_latipes_ASM223469v1,ENSMALG00000019659__Monopterus_albus));

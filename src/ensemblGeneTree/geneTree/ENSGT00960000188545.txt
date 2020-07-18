@@ -1,0 +1,1 @@
+((ENSDNOG00000041612__Dasypus_novemcinctus,ENSDNVG00000002230__Dromaius_novaehollandiae),ENSACLG00000014326__Astatotilapia_calliptera);

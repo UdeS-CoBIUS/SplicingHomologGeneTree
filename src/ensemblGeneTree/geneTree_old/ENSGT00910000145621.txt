@@ -1,1 +1,0 @@
-(((ENSPPAG00000034135__Pan_paniscus,ENSPTRG00000000902__Pan_troglodytes),ENSGGOG00000026782__Gorilla_gorilla),ENSSSCG00000037081__Sus_scrofa);

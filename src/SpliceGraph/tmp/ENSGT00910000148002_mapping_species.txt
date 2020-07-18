@@ -1,0 +1,5 @@
+PROLEMURSIMUS	prolemur_simus
+PROLEMURSIMUS	prolemur_simus
+PANTROGLODYTES	pan_troglodytes
+PANPANISCUS	pan_paniscus
+NOMASCUSLEUCOGENYS	nomascus_leucogenys

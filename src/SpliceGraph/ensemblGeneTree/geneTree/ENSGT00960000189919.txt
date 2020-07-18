@@ -1,0 +1,1 @@
+(((ENSCPGG00000002275__Calidris_pygmaea,ENSMUNG00000002692__Melopsittacus_undulatus),(ENSPSMG00000011394__Prolemur_simus,ENSVVUG00000028348__Vulpes_vulpes)),ENSHHUG00000027409__Hucho_hucho);

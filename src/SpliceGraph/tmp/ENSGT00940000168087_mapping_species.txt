@@ -1,0 +1,5 @@
+CIONASAVIGNYI	ciona_savignyi
+CIONAINTESTINALIS	ciona_intestinalis
+CIONAINTESTINALIS	ciona_intestinalis
+EPTATRETUSBURGERI	eptatretus_burgeri
+CAENORHABDITISELEGANSSTRAINN2	caenorhabditis_elegans_strain_n2

@@ -1,0 +1,1 @@
+((YGL073W__Saccharomyces_cerevisiae_strain_S288C,YJR147W__Saccharomyces_cerevisiae_strain_S288C),(((FBgn0001222__Drosophila_melanogaster,WBGene00002004__Caenorhabditis_elegans_strain_N2),ENSCING00000007929__Ciona_intestinalis),ENSMMOG00000020250__Mola_mola));

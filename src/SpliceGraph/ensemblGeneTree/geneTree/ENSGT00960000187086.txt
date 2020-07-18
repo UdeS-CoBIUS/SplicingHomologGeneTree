@@ -1,0 +1,1 @@
+((((ENSAPEG00000011371__Amphiprion_percula,ENSAOCG00000015378__Amphiprion_ocellaris),ENSAPOG00000021890__Acanthochromis_polyacanthus),ENSSPAG00000009852__Stegastes_partitus),(ENSACLG00000018813__Astatotilapia_calliptera,ENSMZEG00005018580__Maylandia_zebra));

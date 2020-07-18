@@ -1,1 +1,0 @@
-((((ENSPLAG00000023720__Poecilia_latipinna,ENSGAFG00000008607__Gambusia_affinis),ENSKMAG00000011358__Kryptolebias_marmoratus),ENSTRUG00000021146__Takifugu_rubripes),ENSSFOG00015000146__Scleropages_formosus);

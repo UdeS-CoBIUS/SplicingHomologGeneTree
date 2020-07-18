@@ -1,0 +1,1 @@
+((((((ENSUPAG00010008188__Urocitellus_parryii,ENSMMMG00000019189__Marmota_marmota_marmota),ENSSDAG00000014831__Spermophilus_dauricus),ENSSDAG00000014906__Spermophilus_dauricus),ENSMUGG00000003291__Meriones_unguiculatus),ENSCCNG00000015109__Castor_canadensis),ENSPSMG00000001800__Prolemur_simus);

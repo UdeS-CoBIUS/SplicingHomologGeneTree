@@ -1,0 +1,5 @@
+AMPHILOPHUSCITRINELLUS	amphilophus_citrinellus
+AMPHILOPHUSCITRINELLUS	amphilophus_citrinellus
+MAYLANDIAZEBRA	maylandia_zebra
+FUNDULUSHETEROCLITUS	fundulus_heteroclitus
+SERIOLADUMERILI	seriola_dumerili

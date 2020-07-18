@@ -1,0 +1,1 @@
+((ENSUAMG00000013644__Ursus_americanus,ENSUMAG00000024280__Ursus_maritimus),ENSEASG00005004308__Equus_asinus_asinus);

@@ -1,0 +1,4 @@
+K09F6.5.1	WBGene00019588	Caenorhabditis_elegans_strain_N2	K09F6.5.1
+F54H12.2.1	WBGene00018842	Caenorhabditis_elegans_strain_N2	F54H12.2.1
+W04A8.2.1	WBGene00012237	Caenorhabditis_elegans_strain_N2	W04A8.2.1
+ENSLACP00000011363	ENSLACG00000009998	Latimeria_chalumnae	ENSLACT00000011449

@@ -1,0 +1,1 @@
+((ENSMPUG00000013402__Mustela_putorius_furo,ENSECAG00000036822__Equus_caballus),ENSLSDG00000006511__Lonchura_striata_domestica);

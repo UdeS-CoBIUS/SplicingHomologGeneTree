@@ -1,0 +1,1 @@
+((ENSCCEG00000022996__Cyanistes_caeruleus,ENSPMJG00000019093__Parus_major),ENSGALG00000049875__Gallus_gallus);

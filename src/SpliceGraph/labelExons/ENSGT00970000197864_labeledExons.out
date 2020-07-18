@@ -1,0 +1,15 @@
+>0
+ZC204.6.1: [['internal gap < 30', 240, 3], 309, 0]
+ZC204.17.1: [['internal gap >= 30', 180, 42], 270, 0]
+>1
+ZC204.6.1: [['internal gap < 30', 115, 3], 148, 1]
+ZC204.17.1: ['no event', 151, 1]
+>2
+ZC204.6.1: ['exon skipping', 0, 0]
+ZC204.17.1: ['no event', 232, 0]
+>3
+ZC204.6.1: ['exon skipping', 0, 0]
+ZC204.17.1: ['no event', 24, 2]
+>4
+ZC204.6.1: ['5event', 53, 0]
+ZC204.17.1: ['exon skipping', 0, 0]

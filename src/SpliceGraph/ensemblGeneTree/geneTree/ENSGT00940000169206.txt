@@ -1,0 +1,1 @@
+(((ENSLACG00000008462__Latimeria_chalumnae,ENSOANG00000007369__Ornithorhynchus_anatinus),ENSPMAG00000000407__Petromyzon_marinus),ENSCING00000012352__Ciona_intestinalis);

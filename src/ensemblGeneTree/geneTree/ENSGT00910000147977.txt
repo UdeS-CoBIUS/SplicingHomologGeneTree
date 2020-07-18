@@ -1,0 +1,1 @@
+((((ENSPTEG00000026465__Piliocolobus_tephrosceles,ENSCANG00000017884__Colobus_angolensis_palliatus),(ENSTGEG00000002311__Theropithecus_gelada,ENSMFAG00000020953__Macaca_fascicularis)),ENSPPAG00000020991__Pan_paniscus),ENSBBBG00000019271__Bison_bison_bison);

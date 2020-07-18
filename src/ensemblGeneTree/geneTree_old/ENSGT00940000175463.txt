@@ -1,1 +1,0 @@
-(ENSNBRG00000004346__Neolamprologus_brichardi,ENSORLG00000008661__Oryzias_latipes_ASM223467v1);

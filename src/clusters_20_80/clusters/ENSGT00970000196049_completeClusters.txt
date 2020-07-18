@@ -1,0 +1,2 @@
+>completeCluster_0
+F55C10.2.1	F55C10.3.1	T11F9.9.1	Y73B6BL.34.1

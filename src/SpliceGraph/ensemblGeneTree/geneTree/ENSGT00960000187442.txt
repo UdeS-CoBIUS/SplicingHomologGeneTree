@@ -1,0 +1,1 @@
+((((ENSACLG00000024919__Astatotilapia_calliptera,ENSACLG00000024903__Astatotilapia_calliptera),ENSCVAG00000014001__Cyprinodon_variegatus),ENSSDUG00000006629__Seriola_dumerili),(ENSCJPG00005002698__Coturnix_japonica,ENSLSDG00000011246__Lonchura_striata_domestica));

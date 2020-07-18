@@ -1,1 +1,0 @@
-((((ENSXCOG00000015617__Xiphophorus_couchianus,ENSXMAG00000026187__Xiphophorus_maculatus),ENSPFOG00000023196__Poecilia_formosa),ENSGAFG00000011803__Gambusia_affinis),ENSSLDG00000002558__Seriola_lalandi_dorsalis);

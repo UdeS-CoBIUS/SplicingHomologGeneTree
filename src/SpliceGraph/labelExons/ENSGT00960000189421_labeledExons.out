@@ -1,0 +1,12 @@
+>0
+ENSCABT00000027886: ['no event', 293, 0]
+ENSGAGT00000025154: ['no event', 293, 0]
+>1
+ENSCABT00000027886: ['exon skipping', 0, 0]
+ENSGAGT00000025154: ['no event', 1, 0]
+>2
+ENSCABT00000027886: ['5event', 1, 0]
+ENSGAGT00000025154: ['exon skipping', 0, 0]
+>3
+ENSCABT00000027886: ['no event', 37, 2]
+ENSGAGT00000025154: ['5event', 33, 2]

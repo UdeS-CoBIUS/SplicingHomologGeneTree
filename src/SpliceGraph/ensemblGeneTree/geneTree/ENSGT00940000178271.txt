@@ -1,0 +1,1 @@
+(((ENSLBEG00000005311__Labrus_bergylta,ENSTRUG00000021310__Takifugu_rubripes),((ENSORLG00020002325__Oryzias_latipes_ASM223471v1,ENSCVAG00000012148__Cyprinodon_variegatus),ENSACIG00000021961__Amphilophus_citrinellus)),ENSPMGG00000006216__Periophthalmus_magnuspinnatus);

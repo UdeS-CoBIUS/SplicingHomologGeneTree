@@ -1,1 +1,0 @@
-((ENSPKIG00000002377__Paramormyrops_kingsleyae,ENSPKIG00000002631__Paramormyrops_kingsleyae),ENSIPUG00000010557__Ictalurus_punctatus);

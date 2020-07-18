@@ -1,1 +1,0 @@
-((((ENSUAMG00000023825__Ursus_americanus,ENSUAMG00000001617__Ursus_americanus),ENSUMAG00000012567__Ursus_maritimus),ENSNVIG00000014533__Neovison_vison),ENSPVAG00000010758__Pteropus_vampyrus);

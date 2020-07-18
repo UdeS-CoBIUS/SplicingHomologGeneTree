@@ -1,0 +1,2 @@
+>completeCluster_0
+K10D2.2.1	Y34F4.3.1	R07H5.11a.1	T08B2.4.1

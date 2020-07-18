@@ -1,0 +1,1 @@
+(((ENSFHEG00000005693__Fundulus_heteroclitus,ENSXCOG00000006018__Xiphophorus_couchianus),ENSGACG00000012641__Gasterosteus_aculeatus),ENSGMOG00000015978__Gadus_morhua);

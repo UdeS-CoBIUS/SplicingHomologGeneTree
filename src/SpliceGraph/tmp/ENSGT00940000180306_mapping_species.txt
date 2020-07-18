@@ -1,0 +1,3 @@
+NEOLAMPROLOGUSBRICHARDI	neolamprologus_brichardi
+ACANTHOCHROMISPOLYACANTHUS	acanthochromis_polyacanthus
+CALIDRISPUGNAX	calidris_pugnax

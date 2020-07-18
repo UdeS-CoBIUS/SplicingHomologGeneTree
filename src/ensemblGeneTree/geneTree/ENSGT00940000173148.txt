@@ -1,0 +1,1 @@
+(((ENSCAPG00000013749__Cavia_aperea,ENSDORG00000025422__Dipodomys_ordii),ENSCCNG00000011392__Castor_canadensis),((ENSPMGG00000017960__Periophthalmus_magnuspinnatus,ENSMMOG00000001170__Mola_mola),ENSHHUG00000015869__Hucho_hucho));

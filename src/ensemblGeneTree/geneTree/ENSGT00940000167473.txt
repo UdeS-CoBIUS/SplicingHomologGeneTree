@@ -1,0 +1,1 @@
+(((((ENSCSAG00000014701__Chlorocebus_sabaeus,ENSCCNG00000008287__Castor_canadensis),ENSHCOG00000001820__Hippocampus_comes),ENSPMAG00000009322__Petromyzon_marinus),((ENSCAFG00000002058__Canis_lupus_familiaris,ENSTBEG00000006592__Tupaia_belangeri),ENSCHOG00000011424__Choloepus_hoffmanni)),ENSCING00000012709__Ciona_intestinalis);

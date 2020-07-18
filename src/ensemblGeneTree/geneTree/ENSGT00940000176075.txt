@@ -1,0 +1,1 @@
+(((ENSORLG00015006969__Oryzias_latipes_ASM223469v1,ENSOMEG00000009437__Oryzias_melastigma),ENSTRUG00000023100__Takifugu_rubripes),(ENSZALG00000009508__Zonotrichia_albicollis,ENSOANG00000020334__Ornithorhynchus_anatinus));

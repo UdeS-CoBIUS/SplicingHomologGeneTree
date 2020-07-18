@@ -1,1 +1,0 @@
-(((ENSOPRG00000010768__Ochotona_princeps,ENSJJAG00000014200__Jaculus_jaculus),ENSSARG00000009112__Sorex_araneus),ENSCHOG00000013628__Choloepus_hoffmanni);

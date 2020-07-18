@@ -1,0 +1,1 @@
+(((((ENSPTRG00000008793__Pan_troglodytes,ENSGGOG00000003149__Gorilla_gorilla),ENSPPYG00000008002__Pongo_abelii),ENSNVIG00000011019__Neovison_vison),((ENSMVIG00005018990__Manacus_vitellinus,ENSCCEG00000010614__Cyanistes_caeruleus),ENSSCAG00000003793__Serinus_canaria)),ENSXCOG00000004065__Xiphophorus_couchianus);

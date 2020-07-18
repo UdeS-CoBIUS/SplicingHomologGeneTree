@@ -1,0 +1,1 @@
+((((((ENSPREG00000016629__Poecilia_reticulata,ENSPLAG00000014683__Poecilia_latipinna),ENSGAFG00000014621__Gambusia_affinis),ENSOMEG00000005203__Oryzias_melastigma),((ENSATEG00000018292__Anabas_testudineus,ENSATEG00000018126__Anabas_testudineus),ENSLBEG00000021756__Labrus_bergylta)),ENSCSEG00000001416__Cynoglossus_semilaevis),ENSELUG00000007496__Esox_lucius);

@@ -1,0 +1,1 @@
+(((ENSPLAG00000003373__Poecilia_latipinna,ENSPLAG00000012764__Poecilia_latipinna),(ENSXMAG00000027469__Xiphophorus_maculatus,ENSXCOG00000020616__Xiphophorus_couchianus)),(ENSSDUG00000019097__Seriola_dumerili,ENSATEG00000019981__Anabas_testudineus));

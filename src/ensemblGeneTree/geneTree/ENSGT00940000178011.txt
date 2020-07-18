@@ -1,0 +1,1 @@
+((((ENSKMAG00000004382__Kryptolebias_marmoratus,ENSXCOG00000013155__Xiphophorus_couchianus),((ENSHBUG00000016968__Haplochromis_burtoni,ENSMZEG00005024759__Maylandia_zebra),ENSACIG00000021219__Amphilophus_citrinellus)),ENSLBEG00000025602__Labrus_bergylta),ENSPMGG00000002364__Periophthalmus_magnuspinnatus);

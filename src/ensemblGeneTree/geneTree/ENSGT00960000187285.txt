@@ -1,0 +1,1 @@
+((ENSNMEG00000000153__Numida_meleagris,ENSPSIG00000001784__Pelodiscus_sinensis),(((ENSORLG00015001974__Oryzias_latipes_ASM223469v1,ENSORLG00020007340__Oryzias_latipes_ASM223471v1),ENSPKIG00000000563__Paramormyrops_kingsleyae),ENSPMGG00000007186__Periophthalmus_magnuspinnatus));

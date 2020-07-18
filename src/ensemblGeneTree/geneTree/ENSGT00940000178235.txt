@@ -1,0 +1,1 @@
+((((ENSKMAG00000021872__Kryptolebias_marmoratus,ENSXCOG00000013645__Xiphophorus_couchianus),(ENSAPEG00000022390__Amphiprion_percula,ENSAPOG00000004935__Acanthochromis_polyacanthus)),ENSNBRG00000018197__Neolamprologus_brichardi),ENSSMAG00000013695__Scophthalmus_maximus);

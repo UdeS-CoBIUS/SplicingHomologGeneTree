@@ -1,0 +1,1 @@
+((((((ENSPTRG00000044914__Pan_troglodytes,ENSPTRG00000047518__Pan_troglodytes),ENSPPAG00000026875__Pan_paniscus),ENSGGOG00000038883__Gorilla_gorilla),ENSMMUG00000018676__Macaca_mulatta),ENSOPRG00000007171__Ochotona_princeps),ENSSMRG00000012728__Salvator_merianae);

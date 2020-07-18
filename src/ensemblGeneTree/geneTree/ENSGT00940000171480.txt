@@ -1,0 +1,1 @@
+((ENSTNIG00000011009__Tetraodon_nigroviridis,ENSPNAG00000029942__Pygocentrus_nattereri),FBgn0085385__Drosophila_melanogaster);

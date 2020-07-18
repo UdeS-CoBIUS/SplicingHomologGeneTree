@@ -1,0 +1,1 @@
+(((ENSAOCG00000000985__Amphiprion_ocellaris,ENSAPEG00000004579__Amphiprion_percula),ENSPMEG00000022573__Poecilia_mexicana),ENSPMGG00000001109__Periophthalmus_magnuspinnatus);

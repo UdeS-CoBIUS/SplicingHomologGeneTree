@@ -1,0 +1,1 @@
+(((ENSMMUG00000023805__Macaca_mulatta,ENSMNEG00000028200__Macaca_nemestrina),ENSCJAG00000040344__Callithrix_jacchus),ENSECAG00000031840__Equus_caballus);

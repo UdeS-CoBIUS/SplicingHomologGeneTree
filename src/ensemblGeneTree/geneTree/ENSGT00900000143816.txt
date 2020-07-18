@@ -1,0 +1,1 @@
+((ENSCCNG00000026332__Castor_canadensis,ENSMSIG00000010492__Mus_spicilegus),(ENSHGLG00100011094__Heterocephalus_glaber_HetGla_1.0,ENSHGLG00000004503__Heterocephalus_glaber_HetGla_female_1.0));

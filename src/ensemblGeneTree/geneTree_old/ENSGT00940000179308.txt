@@ -1,1 +1,0 @@
-((ENSACLG00000005639__Astatotilapia_calliptera,ENSMZEG00005024242__Maylandia_zebra),ENSHBUG00000007337__Haplochromis_burtoni);

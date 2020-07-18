@@ -1,0 +1,1 @@
+(((((ENSMZEG00005024615__Maylandia_zebra,ENSMZEG00005015305__Maylandia_zebra),ENSMZEG00005002885__Maylandia_zebra),ENSMZEG00005009074__Maylandia_zebra),ENSKMAG00000008008__Kryptolebias_marmoratus),ENSCGOG00000000345__Cottoperca_gobio);

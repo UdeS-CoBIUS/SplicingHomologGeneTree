@@ -1,0 +1,1 @@
+(((ENSAPEG00000005432__Amphiprion_percula,ENSFHEG00000009508__Fundulus_heteroclitus),ENSNBRG00000019311__Neolamprologus_brichardi),ENSPMGG00000014830__Periophthalmus_magnuspinnatus);

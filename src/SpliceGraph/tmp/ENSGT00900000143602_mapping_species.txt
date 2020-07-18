@@ -1,0 +1,10 @@
+MACACAMULATTA	macaca_mulatta
+MACACANEMESTRINA	macaca_nemestrina
+MACACAFASCICULARIS	macaca_fascicularis
+PAPIOANUBIS	papio_anubis
+RHINOPITHECUSBIETI	rhinopithecus_bieti
+NOMASCUSLEUCOGENYS	nomascus_leucogenys
+GORILLAGORILLA	gorilla_gorilla
+PANPANISCUS	pan_paniscus
+MARMOTAMARMOTAMARMOTA	marmota_marmota_marmota
+SUSSCROFA	sus_scrofa

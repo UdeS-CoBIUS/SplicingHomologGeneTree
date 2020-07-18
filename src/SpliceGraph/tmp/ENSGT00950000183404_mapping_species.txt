@@ -1,0 +1,10 @@
+ORYZIASLATIPES	oryzias_latipes
+ORYZIASLATIPES	oryzias_latipes
+ORYZIASLATIPES	oryzias_latipes
+ORYZIASLATIPESASM223469V1	oryzias_latipes_asm223469v1
+AMPHIPRIONOCELLARIS	amphiprion_ocellaris
+AMPHIPRIONPERCULA	amphiprion_percula
+ORYZIASMELASTIGMA	oryzias_melastigma
+ORYZIASLATIPES	oryzias_latipes
+ORYZIASLATIPES	oryzias_latipes
+ASTYANAXMEXICANUS	astyanax_mexicanus

@@ -1,0 +1,1 @@
+((((ENSPTEG00000017651__Piliocolobus_tephrosceles,ENSTGEG00000018657__Theropithecus_gelada),((ENSPTRG00000044825__Pan_troglodytes,ENSPPAG00000018775__Pan_paniscus),ENSG00000256892__Homo_sapiens)),ENSPSMG00000017258__Prolemur_simus),(ENSBMUG00000002047__Bos_mutus,ENSPTIG00000006063__Panthera_tigris_altaica));

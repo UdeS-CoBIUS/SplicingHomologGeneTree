@@ -1,0 +1,1 @@
+((ENSPTEG00000032594__Piliocolobus_tephrosceles,ENSCSAG00000002302__Chlorocebus_sabaeus),ENSPTRG00000040368__Pan_troglodytes);

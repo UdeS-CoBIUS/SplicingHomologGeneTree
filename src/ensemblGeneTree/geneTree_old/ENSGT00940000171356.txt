@@ -1,1 +1,0 @@
-(ENSOANG00000008660__Ornithorhynchus_anatinus,ENSCJAG00000042663__Callithrix_jacchus);

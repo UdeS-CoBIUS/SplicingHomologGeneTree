@@ -1,0 +1,1 @@
+((ENSPNAG00000019173__Pygocentrus_nattereri,ENSSFOG00015022104__Scleropages_formosus),((((ENSPPRG00000020962__Panthera_pardus,ENSNVIG00000003970__Neovison_vison),ENSBMUG00000001643__Bos_mutus),ENSOGAG00000026311__Otolemur_garnettii),ENSPCIG00000032352__Phascolarctos_cinereus));

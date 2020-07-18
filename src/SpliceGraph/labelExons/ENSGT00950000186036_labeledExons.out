@@ -1,0 +1,15 @@
+>0
+ENSUAMT00000009521: ['5event', 65, 0]
+ENSCCNT00000037985: ['5event', 65, 0]
+>1
+ENSUAMT00000009521: ['no event', 57, 0]
+ENSCCNT00000037985: ['no event', 57, 0]
+>2
+ENSUAMT00000009521: ['no event', 92, 1]
+ENSCCNT00000037985: ['no event', 92, 1]
+>3
+ENSUAMT00000009521: ['exon skipping', 0, 0]
+ENSCCNT00000037985: ['no event', 124, 1]
+>4
+ENSUAMT00000009521: ['5event', 34, 1]
+ENSCCNT00000037985: ['exon skipping', 0, 0]

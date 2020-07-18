@@ -1,0 +1,1 @@
+((ENSPMJG00000006553__Parus_major,ENSFALG00000015321__Ficedula_albicollis),((ENSTGUG00000006849__Taeniopygia_guttata,ENSLSDG00000004239__Lonchura_striata_domestica),ENSSCAG00000008458__Serinus_canaria));

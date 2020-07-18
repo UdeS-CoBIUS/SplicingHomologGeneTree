@@ -1,0 +1,15 @@
+>0
+ENSAOCT00000007654: ['no event', 71, 0]
+ENSPMGT00000018983: ['no event', 71, 0]
+>1
+ENSAOCT00000007654: ['no event', 71, 0]
+ENSPMGT00000018983: ['exon skipping', 0, 0]
+>2
+ENSAOCT00000007654: ['exon skipping', 0, 0]
+ENSPMGT00000018983: ['5event', 3, 0]
+>3
+ENSAOCT00000007654: ['exon skipping', 0, 0]
+ENSPMGT00000018983: ['no event', 60, 1]
+>4
+ENSAOCT00000007654: ['exon skipping', 0, 0]
+ENSPMGT00000018983: ['no event', 57, 2]

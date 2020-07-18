@@ -1,0 +1,1 @@
+((((ENSACLG00000006085__Astatotilapia_calliptera,ENSMZEG00005027458__Maylandia_zebra),ENSNBRG00000023173__Neolamprologus_brichardi),(ENSAMXG00000036879__Astyanax_mexicanus,ENSAMXG00000030663__Astyanax_mexicanus)),ENSAHAG00000014577__Apteryx_haastii);

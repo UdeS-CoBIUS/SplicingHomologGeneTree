@@ -1,0 +1,1 @@
+((((ENSEASG00005008276__Equus_asinus_asinus,ENSECAG00000005247__Equus_caballus),ENSFCAG00000045407__Felis_catus),ENSOARG00000020286__Ovis_aries),ENSSBOG00000021189__Saimiri_boliviensis_boliviensis);

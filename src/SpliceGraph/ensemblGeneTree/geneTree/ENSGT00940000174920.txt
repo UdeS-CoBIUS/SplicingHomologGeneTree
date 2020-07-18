@@ -1,0 +1,1 @@
+(ENSGMOG00000019897__Gadus_morhua,ENSCSEG00000018639__Cynoglossus_semilaevis);

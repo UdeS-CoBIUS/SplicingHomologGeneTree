@@ -1,0 +1,1 @@
+(((ENSUAMG00000001394__Ursus_americanus,ENSUAMG00000008362__Ursus_americanus),ENSUAMG00000003592__Ursus_americanus),ENSCAFG00000046770__Canis_lupus_familiaris);

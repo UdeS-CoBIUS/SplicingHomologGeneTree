@@ -1,0 +1,5 @@
+PERIOPHTHALMUSMAGNUSPINNATUS	periophthalmus_magnuspinnatus
+PERIOPHTHALMUSMAGNUSPINNATUS	periophthalmus_magnuspinnatus
+POECILIAMEXICANA	poecilia_mexicana
+LABRUSBERGYLTA	labrus_bergylta
+CROCODYLUSPOROSUS	crocodylus_porosus

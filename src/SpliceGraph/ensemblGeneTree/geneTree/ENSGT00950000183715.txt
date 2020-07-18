@@ -1,0 +1,1 @@
+((((ENSTRUG00000022303__Takifugu_rubripes,ENSPMGG00000002525__Periophthalmus_magnuspinnatus),ENSAMXG00000031884__Astyanax_mexicanus),ENSPNAG00000007765__Pygocentrus_nattereri),ENSPKIG00000011868__Paramormyrops_kingsleyae);

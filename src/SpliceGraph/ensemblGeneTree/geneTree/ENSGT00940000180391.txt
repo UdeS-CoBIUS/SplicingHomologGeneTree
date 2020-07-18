@@ -1,0 +1,1 @@
+((ENSLBEG00000024430__Labrus_bergylta,ENSGACG00000012600__Gasterosteus_aculeatus),ENSSDUG00000011488__Seriola_dumerili);

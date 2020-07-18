@@ -1,0 +1,4 @@
+FBpp0303136	FBgn0035432	Drosophila_melanogaster	FBtr0330103
+ENSCINP00000030189	ENSCING00000011998	Ciona_intestinalis	ENSCINT00000032956
+YMR243C_mRNA	YMR243C	Saccharomyces_cerevisiae_strain_S288C
+YOR316C_mRNA	YOR316C	Saccharomyces_cerevisiae_strain_S288C

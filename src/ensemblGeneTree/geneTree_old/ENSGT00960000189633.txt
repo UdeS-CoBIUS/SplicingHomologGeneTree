@@ -1,1 +1,0 @@
-(((((ENSCCEG00000023803__Cyanistes_caeruleus,ENSPMJG00000017502__Parus_major),ENSZALG00000011869__Zonotrichia_albicollis),ENSLCOG00000005815__Lepidothrix_coronata),ENSNMEG00000019404__Numida_meleagris),ENSNPEG00000009962__Nothoprocta_perdicaria);

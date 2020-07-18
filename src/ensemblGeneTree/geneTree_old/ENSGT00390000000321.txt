@@ -1,1 +1,0 @@
-(ENSPPYG00000013742__Pongo_abelii,ENSOPRG00000016454__Ochotona_princeps);

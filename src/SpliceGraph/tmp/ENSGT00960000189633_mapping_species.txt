@@ -1,0 +1,6 @@
+CYANISTESCAERULEUS	cyanistes_caeruleus
+PARUSMAJOR	parus_major
+ZONOTRICHIAALBICOLLIS	zonotrichia_albicollis
+LEPIDOTHRIXCORONATA	lepidothrix_coronata
+NUMIDAMELEAGRIS	numida_meleagris
+NOTHOPROCTAPERDICARIA	nothoprocta_perdicaria

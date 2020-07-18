@@ -1,0 +1,1 @@
+((ENSSCAG00000008470__Serinus_canaria,ENSPMJG00000004575__Parus_major),ENSLCOG00000007346__Lepidothrix_coronata);

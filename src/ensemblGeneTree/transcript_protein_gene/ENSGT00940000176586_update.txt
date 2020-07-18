@@ -1,0 +1,2 @@
+YGR273C_mRNA	YGR273C	Saccharomyces_cerevisiae_strain_S288C
+YMR295C_mRNA	YMR295C	Saccharomyces_cerevisiae_strain_S288C

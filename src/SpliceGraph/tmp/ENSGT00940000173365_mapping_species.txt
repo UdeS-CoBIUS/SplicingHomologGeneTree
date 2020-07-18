@@ -1,0 +1,2 @@
+BOSTAURUS	bos_taurus
+OVISARIES	ovis_aries

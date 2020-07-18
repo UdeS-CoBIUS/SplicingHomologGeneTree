@@ -1,0 +1,1 @@
+(((ENSPTEG00000017917__Piliocolobus_tephrosceles,ENSTGEG00000015624__Theropithecus_gelada),ENSUPAG00010013170__Urocitellus_parryii),(((ENSBTAG00000048670__Bos_taurus,ENSBMUG00000025005__Bos_mutus),ENSBBBG00000000184__Bison_bison_bison),((ENSBMUG00000005679__Bos_mutus,ENSBTAG00000054179__Bos_taurus),ENSBBBG00000003599__Bison_bison_bison)));

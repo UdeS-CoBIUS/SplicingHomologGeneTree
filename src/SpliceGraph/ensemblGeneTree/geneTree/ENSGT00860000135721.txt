@@ -1,0 +1,1 @@
+((ENSUMAG00000006236__Ursus_maritimus,ENSEASG00005017600__Equus_asinus_asinus),((ENSODEG00000018601__Octodon_degus,ENSJJAG00000012869__Jaculus_jaculus),ENSSDAG00000004374__Spermophilus_dauricus));

@@ -1,0 +1,1 @@
+((ENSCAPG00000013489__Cavia_aperea,ENSODEG00000001396__Octodon_degus),(ENSJJAG00000011484__Jaculus_jaculus,ENSMAUG00000018504__Mesocricetus_auratus));

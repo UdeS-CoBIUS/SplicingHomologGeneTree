@@ -1,0 +1,1 @@
+((((((ENSMMOG00000011580__Mola_mola,ENSGACG00000009852__Gasterosteus_aculeatus),ENSCSEG00000021015__Cynoglossus_semilaevis),ENSORLG00020011925__Oryzias_latipes_ASM223471v1),(ENSSHAG00000007158__Sarcophilus_harrisii,ENSDARG00000098764__Danio_rerio)),ENSPMAG00000002194__Petromyzon_marinus),WBGene00008270__Caenorhabditis_elegans_strain_N2);

@@ -1,0 +1,1 @@
+((((ENSXMAG00000027237__Xiphophorus_maculatus,ENSPLAG00000012086__Poecilia_latipinna),ENSCVAG00000004217__Cyprinodon_variegatus),ENSAPOG00000013637__Acanthochromis_polyacanthus),ENSTRUG00000022079__Takifugu_rubripes);

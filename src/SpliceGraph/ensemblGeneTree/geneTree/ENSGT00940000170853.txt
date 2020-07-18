@@ -1,0 +1,1 @@
+((ENSZALG00000012797__Zonotrichia_albicollis,ENSTTRG00000004337__Tursiops_truncatus),((ENSPREG00000002467__Poecilia_reticulata,ENSTRUG00000009680__Takifugu_rubripes),ENSLOCG00000007793__Lepisosteus_oculatus));

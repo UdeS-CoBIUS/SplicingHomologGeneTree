@@ -1,0 +1,1 @@
+(((ENSCABG00000006000__Chelonoidis_abingdonii,ENSNPEG00000004701__Nothoprocta_perdicaria),ENSNSUG00000006969__Notechis_scutatus),(ENSCAFG00020010872__Canis_lupus_dingo,ENSPEMG00000030307__Peromyscus_maniculatus_bairdii));

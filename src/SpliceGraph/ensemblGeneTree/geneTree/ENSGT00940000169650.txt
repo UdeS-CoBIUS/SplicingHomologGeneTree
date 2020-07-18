@@ -1,0 +1,1 @@
+((((ENSMMUG00000031309__Macaca_mulatta,ENSPTEG00000018521__Piliocolobus_tephrosceles),ENSPCOG00000019351__Propithecus_coquereli),ENSNVIG00000012992__Neovison_vison),ENSCHOG00000003424__Choloepus_hoffmanni);

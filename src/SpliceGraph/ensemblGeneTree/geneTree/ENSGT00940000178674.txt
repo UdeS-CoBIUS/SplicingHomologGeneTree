@@ -1,0 +1,1 @@
+(((ENSSDUG00000022390__Seriola_dumerili,ENSSLDG00000017945__Seriola_lalandi_dorsalis),ENSPMGG00000003994__Periophthalmus_magnuspinnatus),ENSSFOG00015008817__Scleropages_formosus);

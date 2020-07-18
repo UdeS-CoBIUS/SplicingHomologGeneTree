@@ -1,0 +1,1 @@
+(((((ENSMAUG00000020144__Mesocricetus_auratus,ENSMUGG00000006385__Meriones_unguiculatus),ENSJJAG00000019189__Jaculus_jaculus),ENSPTEG00000022375__Piliocolobus_tephrosceles),((ENSCAFG00020004310__Canis_lupus_dingo,ENSVVUG00000004894__Vulpes_vulpes),ENSUMAG00000011071__Ursus_maritimus)),ENSSMRG00000010072__Salvator_merianae);

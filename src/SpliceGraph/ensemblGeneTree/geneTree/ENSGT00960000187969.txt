@@ -1,0 +1,1 @@
+((ENSLACG00000022429__Latimeria_chalumnae,ENSPMJG00000011227__Parus_major),(ENSSFOG00015005485__Scleropages_formosus,ENSSFOG00015012299__Scleropages_formosus));

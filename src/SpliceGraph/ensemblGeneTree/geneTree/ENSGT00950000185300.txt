@@ -1,0 +1,1 @@
+((((ENSSDAG00000017410__Spermophilus_dauricus,ENSMMMG00000003320__Marmota_marmota_marmota),ENSCGRG00015003833__Cricetulus_griseus_CriGri-PICR),(ENSCAFG00020018107__Canis_lupus_dingo,ENSCAFG00020019681__Canis_lupus_dingo)),ENSPCIG00000007864__Phascolarctos_cinereus);

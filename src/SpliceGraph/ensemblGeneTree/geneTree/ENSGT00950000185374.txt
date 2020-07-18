@@ -1,0 +1,1 @@
+(((ENSTGEG00000021513__Theropithecus_gelada,ENSPTEG00000034814__Piliocolobus_tephrosceles),ENSCJAG00000047482__Callithrix_jacchus),(ENSUAMG00000024323__Ursus_americanus,ENSUMAG00000013297__Ursus_maritimus));

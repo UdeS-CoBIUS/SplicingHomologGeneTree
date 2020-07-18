@@ -1,0 +1,6 @@
+FBpp0084314	FBgn0039387	Drosophila_melanogaster	FBtr0084940
+ENSCSAVP00000004533	ENSCSAVG00000002692	Ciona_savignyi
+ENSCINP00000034888	ENSCING00000022173	Ciona_intestinalis
+FBpp0074240	FBgn0052557	Drosophila_melanogaster	FBtr0074466
+FBpp0292899	FBgn0032116	Drosophila_melanogaster	FBtr0303896
+F21D5.3a.2	WBGene00009008	Caenorhabditis_elegans_strain_N2	F21D5.3a.2

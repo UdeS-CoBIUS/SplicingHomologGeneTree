@@ -1,0 +1,1 @@
+(((ENSHGLG00000019588__Heterocephalus_glaber_HetGla_female_1.0,ENSPEMG00000029332__Peromyscus_maniculatus_bairdii),ENSOPRG00000005679__Ochotona_princeps),ENSPVAG00000006776__Pteropus_vampyrus);

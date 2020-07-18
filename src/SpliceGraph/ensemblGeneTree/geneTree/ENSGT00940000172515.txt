@@ -1,0 +1,1 @@
+(ENSDARG00000070065__Danio_rerio,WBGene00020130__Caenorhabditis_elegans_strain_N2);

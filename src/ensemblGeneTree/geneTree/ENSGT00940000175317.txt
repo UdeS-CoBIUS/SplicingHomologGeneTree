@@ -1,0 +1,1 @@
+(((ENSMUNG00000009299__Melopsittacus_undulatus,ENSNPEG00000014122__Nothoprocta_perdicaria),ENSCHOG00000011759__Choloepus_hoffmanni),(ENSCSEG00000002135__Cynoglossus_semilaevis,ENSORLG00000024740__Oryzias_latipes_ASM223467v1));

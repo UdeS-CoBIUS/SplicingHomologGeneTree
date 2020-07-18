@@ -1,0 +1,1 @@
+(((ENSARWG00000010671__Apteryx_rowi,ENSNPEG00000007866__Nothoprocta_perdicaria),ENSLACG00000003832__Latimeria_chalumnae),((((ENSATEG00000014819__Anabas_testudineus,ENSOMEG00000018466__Oryzias_melastigma),ENSAPEG00000011040__Amphiprion_percula),ENSTRUG00000025449__Takifugu_rubripes),(ENSOMEG00000022187__Oryzias_melastigma,ENSLBEG00000015666__Labrus_bergylta)));

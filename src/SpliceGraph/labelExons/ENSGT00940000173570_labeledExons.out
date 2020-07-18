@@ -1,0 +1,24 @@
+>0
+ENSCINT00000015037: ['no event', 53, 0]
+ENSCSAVT00000005013: ['no event', 53, 0]
+>1
+ENSCINT00000015037: ['no event', 114, 0]
+ENSCSAVT00000005013: ['exon skipping', 0, 0]
+>2
+ENSCINT00000015037: ['exon skipping', 0, 0]
+ENSCSAVT00000005013: ['5event', 101, 0]
+>3
+ENSCINT00000015037: ['5event', 137, 1]
+ENSCSAVT00000005013: ['exon skipping', 0, 0]
+>4
+ENSCINT00000015037: ['no event', 91, 1]
+ENSCSAVT00000005013: ['exon skipping', 0, 0]
+>5
+ENSCINT00000015037: ['no event', 174, 0]
+ENSCSAVT00000005013: ['exon skipping', 0, 0]
+>6
+ENSCINT00000015037: ['no event', 50, 1]
+ENSCSAVT00000005013: ['exon skipping', 0, 0]
+>7
+ENSCINT00000015037: ['no event', 79, 1]
+ENSCSAVT00000005013: ['exon skipping', 0, 0]

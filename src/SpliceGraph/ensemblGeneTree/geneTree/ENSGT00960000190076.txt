@@ -1,0 +1,1 @@
+((ENSNGAG00000000024__Nannospalax_galili,ENSCGRG00015027378__Cricetulus_griseus_CriGri-PICR),(ENSFDAG00000011322__Fukomys_damarensis,ENSCCNG00000011503__Castor_canadensis));

@@ -1,0 +1,1 @@
+((ENSMMMG00000010574__Marmota_marmota_marmota,ENSSDAG00000003739__Spermophilus_dauricus),(ENSCCAG00000028788__Cebus_capucinus_imitator,ENSTGEG00000008480__Theropithecus_gelada));

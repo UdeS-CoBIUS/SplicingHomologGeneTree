@@ -1,0 +1,5 @@
+POECILIALATIPINNA	poecilia_latipinna
+POECILIALATIPINNA	poecilia_latipinna
+POECILIAMEXICANA	poecilia_mexicana
+KRYPTOLEBIASMARMORATUS	kryptolebias_marmoratus
+SPHENODONPUNCTATUS	sphenodon_punctatus

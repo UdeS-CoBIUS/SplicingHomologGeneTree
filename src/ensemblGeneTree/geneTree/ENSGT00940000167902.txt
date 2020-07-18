@@ -1,0 +1,1 @@
+((ENSSLDG00000009061__Seriola_lalandi_dorsalis,ENSPLAG00000008528__Poecilia_latipinna),(((((ENSPVAG00000001737__Pteropus_vampyrus,ENSCAFG00000031103__Canis_lupus_familiaris),ENSBTAG00000013142__Bos_taurus),ENSEEUG00000004011__Erinaceus_europaeus),ENSETEG00000006796__Echinops_telfairi),ENSSARG00000009362__Sorex_araneus));

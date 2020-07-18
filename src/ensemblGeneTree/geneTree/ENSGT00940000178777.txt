@@ -1,0 +1,1 @@
+((ENSAPOG00000010721__Acanthochromis_polyacanthus,ENSPMGG00000008985__Periophthalmus_magnuspinnatus),(ENSSFOG00015004336__Scleropages_formosus,ENSPKIG00000017134__Paramormyrops_kingsleyae));

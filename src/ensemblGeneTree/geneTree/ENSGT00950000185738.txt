@@ -1,0 +1,1 @@
+(ENSGAFG00000021731__Gambusia_affinis,ENSGALG00000032052__Gallus_gallus);

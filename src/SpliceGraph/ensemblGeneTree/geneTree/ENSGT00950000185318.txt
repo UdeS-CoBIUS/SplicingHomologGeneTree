@@ -1,0 +1,1 @@
+((ENSEASG00005001063__Equus_asinus_asinus,ENSCAFG00020008403__Canis_lupus_dingo),ENSSTOG00000034131__Ictidomys_tridecemlineatus);

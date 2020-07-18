@@ -1,0 +1,1 @@
+(ENSEEUG00000008040__Erinaceus_europaeus,ENSEEUG00000015686__Erinaceus_europaeus);

@@ -1,0 +1,1 @@
+((((ENSFHEG00000001256__Fundulus_heteroclitus,ENSXMAG00000023337__Xiphophorus_maculatus),ENSKMAG00000012121__Kryptolebias_marmoratus),(ENSAPOG00000012313__Acanthochromis_polyacanthus,ENSSPAG00000004976__Stegastes_partitus)),ENSHCOG00000006254__Hippocampus_comes);

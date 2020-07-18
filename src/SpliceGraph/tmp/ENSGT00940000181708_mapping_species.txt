@@ -1,0 +1,2 @@
+AMPHIPRIONPERCULA	amphiprion_percula
+ACANTHOCHROMISPOLYACANTHUS	acanthochromis_polyacanthus

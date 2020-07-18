@@ -1,0 +1,1 @@
+((ENSPCOG00000011887__Propithecus_coquereli,ENSUPAG00010011405__Urocitellus_parryii),ENSPCIG00000030829__Phascolarctos_cinereus);

@@ -1,0 +1,24 @@
+>0
+ENSPTRT00000040584: ['no event', 71, 0]
+ENSPPAT00000061633: ['no event', 71, 0]
+ENST00000377073: ['no event', 71, 0]
+ENSGGOT00000013218: ['no event', 71, 0]
+ENSNLET00000004222: ['no event', 71, 0]
+>1
+ENSPTRT00000040584: ['no event', 126, 0]
+ENSPPAT00000061633: ['no event', 126, 0]
+ENST00000377073: ['no event', 126, 0]
+ENSGGOT00000013218: ['no event', 126, 0]
+ENSNLET00000004222: ['no event', 126, 0]
+>2
+ENSPTRT00000040584: ['no event', 95, 1]
+ENSPPAT00000061633: ['no event', 95, 1]
+ENST00000377073: ['no event', 95, 1]
+ENSGGOT00000013218: ['no event', 95, 1]
+ENSNLET00000004222: ['no event', 95, 1]
+>3
+ENSPTRT00000040584: [['internal gap < 30', 295, 1], 1225, 1]
+ENSPPAT00000061633: [['internal gap < 30', 295, 1], 1225, 1]
+ENST00000377073: [['internal gap < 30', 295, 1], 1225, 1]
+ENSGGOT00000013218: [['internal gap < 30', 295, 1], 1225, 1]
+ENSNLET00000004222: [['internal gap < 30', 295, 1], 1225, 1]

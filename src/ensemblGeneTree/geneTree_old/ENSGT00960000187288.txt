@@ -1,1 +1,0 @@
-((ENSVVUG00000019031__Vulpes_vulpes,ENSCAFG00020002145__Canis_lupus_dingo),(((ENSTGEG00000013840__Theropithecus_gelada,ENSMLEG00000027549__Mandrillus_leucophaeus),ENSPANG00000029770__Papio_anubis),ENSANAG00000020812__Aotus_nancymaae));

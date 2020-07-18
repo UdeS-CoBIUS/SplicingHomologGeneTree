@@ -1,0 +1,3 @@
+CYNOGLOSSUSSEMILAEVIS	cynoglossus_semilaevis
+PARAMORMYROPSKINGSLEYAE	paramormyrops_kingsleyae
+CHELONOIDISABINGDONII	chelonoidis_abingdonii

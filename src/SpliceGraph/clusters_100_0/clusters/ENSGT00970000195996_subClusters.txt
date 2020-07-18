@@ -1,0 +1,8 @@
+>cluster_0
+T21E8.1b.1
+>cluster_1
+T21E8.1a.1	T21E8.2.1	T21E8.3.1
+>cluster_2
+K08E7.9.1	T21E8.1b.2
+>cluster_3
+C47A10.1.1	T21E8.1c.1

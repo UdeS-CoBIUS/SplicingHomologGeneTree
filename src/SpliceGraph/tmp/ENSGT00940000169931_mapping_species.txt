@@ -1,0 +1,4 @@
+EPTATRETUSBURGERI	eptatretus_burgeri
+AMPHILOPHUSCITRINELLUS	amphilophus_citrinellus
+CAENORHABDITISELEGANSSTRAINN2	caenorhabditis_elegans_strain_n2
+DROSOPHILAMELANOGASTER	drosophila_melanogaster

@@ -1,0 +1,6 @@
+>cluster_0
+Y43F8B.14.1	M04C3.2a.1
+>cluster_1
+M04C3.2b.1
+>cluster_2
+Y43F8B.15.1	M04C3.2b.2

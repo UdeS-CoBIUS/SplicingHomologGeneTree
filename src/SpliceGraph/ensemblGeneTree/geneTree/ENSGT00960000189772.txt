@@ -1,0 +1,1 @@
+((((ENSMUNG00000001547__Melopsittacus_undulatus,ENSJHYG00000006974__Junco_hyemalis),ENSABRG00000006349__Anser_brachyrhynchus),ENSAHAG00000010291__Apteryx_haastii),ENSPTEG00000039534__Piliocolobus_tephrosceles);

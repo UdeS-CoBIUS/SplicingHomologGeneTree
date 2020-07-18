@@ -1,0 +1,1 @@
+((ENSCPUG00000007409__Calidris_pugnax,ENSCPUG00000007410__Calidris_pugnax),ENSMAMG00000005005__Mastacembelus_armatus);

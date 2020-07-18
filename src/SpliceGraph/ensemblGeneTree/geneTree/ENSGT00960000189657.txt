@@ -1,0 +1,1 @@
+((((ENSMSIG00000021254__Mus_spicilegus,ENSRNOG00000037894__Rattus_norvegicus),ENSMUGG00000022310__Meriones_unguiculatus),ENSCGRG00015028923__Cricetulus_griseus_CriGri-PICR),ENSPTEG00000037758__Piliocolobus_tephrosceles);

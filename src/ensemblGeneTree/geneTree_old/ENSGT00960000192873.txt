@@ -1,1 +1,0 @@
-(ENSOANG00000004140__Ornithorhynchus_anatinus,ENSNSUG00000008675__Notechis_scutatus);

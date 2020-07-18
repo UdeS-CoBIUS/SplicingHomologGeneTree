@@ -1,0 +1,1 @@
+(((ENSSPAG00000006081__Stegastes_partitus,ENSAPOG00000007382__Acanthochromis_polyacanthus),ENSOMEG00000022704__Oryzias_melastigma),ENSSMAG00000019292__Scophthalmus_maximus);

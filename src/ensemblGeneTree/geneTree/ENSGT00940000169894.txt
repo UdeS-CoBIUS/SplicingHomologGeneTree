@@ -1,0 +1,1 @@
+(((((ENSPNAG00000010915__Pygocentrus_nattereri,ENSAMXG00000021388__Astyanax_mexicanus),ENSGMOG00000016190__Gadus_morhua),(ENSSFOG00015015201__Scleropages_formosus,ENSPKIG00000007936__Paramormyrops_kingsleyae)),ENSDARG00000105607__Danio_rerio),WBGene00003026__Caenorhabditis_elegans_strain_N2);

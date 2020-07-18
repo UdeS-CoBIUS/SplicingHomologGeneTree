@@ -1,0 +1,1 @@
+(MGP_PahariEiJ_G0018441__Mus_pahari_strain_PAHARI_EIJ,ENSMSIG00000025270__Mus_spicilegus);

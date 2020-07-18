@@ -1,0 +1,4 @@
+F54F2.2a.2	WBGene00006975	Caenorhabditis_elegans_strain_N2	F54F2.2a.2
+FBpp0306738	FBgn0261238	Drosophila_melanogaster
+ENSMAMP00000000732	ENSMAMG00000000537	Mastacembelus_armatus
+ENSCHAP00000005345	ENSCHAG00000001290	Clupea_harengus

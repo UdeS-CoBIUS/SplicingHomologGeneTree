@@ -1,0 +1,9 @@
+JUNCOHYEMALIS	junco_hyemalis
+ZONOTRICHIAALBICOLLIS	zonotrichia_albicollis
+LONCHURASTRIATADOMESTICA	lonchura_striata_domestica
+LEPIDOTHRIXCORONATA	lepidothrix_coronata
+PARUSMAJOR	parus_major
+COTURNIXJAPONICA	coturnix_japonica
+CALIDRISPUGNAX	calidris_pugnax
+CHELONOIDISABINGDONII	chelonoidis_abingdonii
+GOPHERUSAGASSIZII	gopherus_agassizii

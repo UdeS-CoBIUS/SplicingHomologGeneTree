@@ -1,0 +1,1 @@
+((ENSCABG00000018794__Chelonoidis_abingdonii,ENSNSUG00000005331__Notechis_scutatus),((((ENSUAMG00000004124__Ursus_americanus,ENSUAMG00000001595__Ursus_americanus),ENSUAMG00000004035__Ursus_americanus),ENSUAMG00000001480__Ursus_americanus),ENSTBEG00000012658__Tupaia_belangeri));

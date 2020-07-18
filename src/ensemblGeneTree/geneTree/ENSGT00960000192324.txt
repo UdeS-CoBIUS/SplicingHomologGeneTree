@@ -1,0 +1,1 @@
+(ENSCGRG00001005160__Cricetulus_griseus_CHOK1GS_HDv1,ENSMUNG00000001444__Melopsittacus_undulatus);

@@ -1,0 +1,1 @@
+(((((ENSZALG00000007292__Zonotrichia_albicollis,ENSFALG00000011841__Ficedula_albicollis),ENSGALG00000053779__Gallus_gallus),ENSPMJG00000003781__Parus_major),ENSCPGG00000002650__Calidris_pygmaea),ENSARWG00000005444__Apteryx_rowi);

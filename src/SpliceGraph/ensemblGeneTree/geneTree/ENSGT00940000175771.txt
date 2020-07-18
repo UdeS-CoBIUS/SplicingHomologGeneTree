@@ -1,0 +1,1 @@
+(((((ENSAOCG00000004632__Amphiprion_ocellaris,ENSAPEG00000004852__Amphiprion_percula),(ENSPMEG00000014422__Poecilia_mexicana,ENSPLAG00000005709__Poecilia_latipinna)),ENSTRUG00000024210__Takifugu_rubripes),ENSCSEG00000001879__Cynoglossus_semilaevis),ENSGMOG00000012736__Gadus_morhua);

@@ -1,1 +1,0 @@
-((ENSSPUG00000018933__Sphenodon_punctatus,ENSNSUG00000012080__Notechis_scutatus),ENSCPBG00000024177__Chrysemys_picta_bellii);

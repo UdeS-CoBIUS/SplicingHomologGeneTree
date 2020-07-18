@@ -1,0 +1,30 @@
+>0
+F23F1.3.1: [['internal gap < 30', 27, 21], 76, 0]
+C46E10.5.1: ['no event', 97, 0]
+C46E10.4.1: [['internal gap < 30', 27, 21], 76, 0]
+C46E10.4.2: [['internal gap < 30', 27, 21], 76, 0]
+>1
+F23F1.3.1: ['3event', 455, 2]
+C46E10.5.1: [['internal gap >= 30', 667, 82], 708, 2]
+C46E10.4.1: ['3event', 647, 2]
+C46E10.4.2: ['3event', 647, 2]
+>2
+F23F1.3.1: ['5event', ['internal gap >= 30', 91, 52], 143, 0]
+C46E10.5.1: [['internal gap >= 30', 29, 44], 151, 0]
+C46E10.4.1: ['5event', ['internal gap >= 30', 107, 31], 164, 0]
+C46E10.4.2: ['5event', ['internal gap >= 30', 107, 31], 164, 0]
+>3
+F23F1.3.1: [['internal gap < 30', 40, 3], 133, 0]
+C46E10.5.1: ['no event', 136, 0]
+C46E10.4.1: ['no event', 136, 0]
+C46E10.4.2: ['no event', 136, 0]
+>4
+F23F1.3.1: [['internal gap < 30', 91, 21], 150, 2]
+C46E10.5.1: [['internal gap < 30', 71, 6], 165, 2]
+C46E10.4.1: [['internal gap < 30', 101, 15], 156, 2]
+C46E10.4.2: [['internal gap < 30', 101, 15], 156, 2]
+>5
+F23F1.3.1: ['exon skipping', 0, 0]
+C46E10.5.1: ['exon skipping', 0, 0]
+C46E10.4.1: ['no event', 2, 0]
+C46E10.4.2: ['no event', 2, 0]

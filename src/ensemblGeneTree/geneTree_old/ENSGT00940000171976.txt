@@ -1,1 +1,0 @@
-(((ENSSFOG00015007676__Scleropages_formosus,ENSSFOG00015007667__Scleropages_formosus),ENSPNYG00000012074__Pundamilia_nyererei),((ENSSPUG00000009755__Sphenodon_punctatus,ENSSMRG00000011540__Salvator_merianae),(ENSFDAG00000012145__Fukomys_damarensis,ENSCPOG00000034253__Cavia_porcellus)));

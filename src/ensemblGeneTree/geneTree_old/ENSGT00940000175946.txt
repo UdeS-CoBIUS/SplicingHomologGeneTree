@@ -1,1 +1,0 @@
-(ENSATEG00000023660__Anabas_testudineus,ENSEBUG00000003660__Eptatretus_burgeri);

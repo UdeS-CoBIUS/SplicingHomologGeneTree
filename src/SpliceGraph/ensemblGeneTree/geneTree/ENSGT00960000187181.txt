@@ -1,0 +1,1 @@
+(((((ENSLBEG00000001922__Labrus_bergylta,ENSLBEG00000000413__Labrus_bergylta),ENSTRUG00000022170__Takifugu_rubripes),ENSMZEG00005025559__Maylandia_zebra),ENSMAMG00000000476__Mastacembelus_armatus),ENSPMGG00000014426__Periophthalmus_magnuspinnatus);

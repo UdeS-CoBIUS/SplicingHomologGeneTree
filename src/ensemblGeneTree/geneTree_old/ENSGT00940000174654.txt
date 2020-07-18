@@ -1,1 +1,0 @@
-((ENSPMAG00000007421__Petromyzon_marinus,ENSEBUG00000013768__Eptatretus_burgeri),ENSCPGG00000008052__Calidris_pygmaea);

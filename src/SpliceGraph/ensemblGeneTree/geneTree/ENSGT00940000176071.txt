@@ -1,0 +1,1 @@
+(((ENSPPYG00000008620__Pongo_abelii,ENSCGRG00015001564__Cricetulus_griseus_CriGri-PICR),ENSLCOG00000003233__Lepidothrix_coronata),((ENSCVAG00000008560__Cyprinodon_variegatus,ENSPMGG00000021488__Periophthalmus_magnuspinnatus),ENSHCOG00000010530__Hippocampus_comes));

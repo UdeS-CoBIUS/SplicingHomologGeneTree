@@ -1,0 +1,1 @@
+(((ENSUPAG00010016698__Urocitellus_parryii,ENSMMMG00000008790__Marmota_marmota_marmota),ENSCCNG00000009235__Castor_canadensis),(((ENSECAG00000034355__Equus_caballus,ENSEASG00005005599__Equus_asinus_asinus),ENSSSCG00000031194__Sus_scrofa),ENSPPRG00000015143__Panthera_pardus));

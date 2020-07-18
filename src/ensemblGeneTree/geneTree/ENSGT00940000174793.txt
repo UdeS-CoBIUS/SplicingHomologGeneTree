@@ -1,0 +1,1 @@
+((ENSXCOG00000015824__Xiphophorus_couchianus,ENSORLG00000024489__Oryzias_latipes_ASM223467v1),(ENSTNIG00000003168__Tetraodon_nigroviridis,ENSTRUG00000019802__Takifugu_rubripes));

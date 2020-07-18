@@ -1,0 +1,1 @@
+((ENSKMAG00000007668__Kryptolebias_marmoratus,ENSORLG00000027980__Oryzias_latipes_ASM223467v1),ENSSMAG00000016111__Scophthalmus_maximus);

@@ -1,0 +1,1 @@
+(ENSACLG00000012193__Astatotilapia_calliptera,ENSACIG00000022434__Amphilophus_citrinellus);

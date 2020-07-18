@@ -1,0 +1,1 @@
+(((ENSFHEG00000001081__Fundulus_heteroclitus,ENSGAFG00000019702__Gambusia_affinis),ENSOMEG00000016101__Oryzias_melastigma),(ENSPCAG00000011247__Procavia_capensis,ENSAHAG00000014505__Apteryx_haastii));

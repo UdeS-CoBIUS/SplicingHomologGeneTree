@@ -1,0 +1,1 @@
+((((ENSCPGG00000015662__Calidris_pygmaea,ENSCPUG00000004178__Calidris_pugnax),(ENSLCOG00000013132__Lepidothrix_coronata,ENSMVIG00005008599__Manacus_vitellinus)),ENSNPEG00000008650__Nothoprocta_perdicaria),ENSACAG00000024278__Anolis_carolinensis);

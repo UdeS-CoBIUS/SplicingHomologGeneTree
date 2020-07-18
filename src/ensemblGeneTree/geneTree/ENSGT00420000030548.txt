@@ -1,0 +1,1 @@
+((ENSPSIG00000000954__Pelodiscus_sinensis,ENSMGAG00000015980__Meleagris_gallopavo),(ENSOARG00000019693__Ovis_aries,ENSMLUG00000024376__Myotis_lucifugus));

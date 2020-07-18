@@ -1,0 +1,1 @@
+((((ENSSPAG00000013000__Stegastes_partitus,ENSPLAG00000017038__Poecilia_latipinna),ENSATEG00000018982__Anabas_testudineus),ENSPNAG00000021719__Pygocentrus_nattereri),ENSPMAG00000005637__Petromyzon_marinus);

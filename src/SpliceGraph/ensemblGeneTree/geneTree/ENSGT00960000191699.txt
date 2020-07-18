@@ -1,0 +1,1 @@
+(ENSMUSG00000117965__Mus_musculus_strain_reference_(CL57BL6),ENSG00000286224__Homo_sapiens);

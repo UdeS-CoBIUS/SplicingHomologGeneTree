@@ -1,1 +1,0 @@
-(((ENSNLEG00000018839__Nomascus_leucogenys,ENSPPYG00000000087__Pongo_abelii),(((ENSCATG00000038318__Cercocebus_atys,ENSPANG00000032039__Papio_anubis),ENSMLEG00000043834__Mandrillus_leucophaeus),ENSMMUG00000041461__Macaca_mulatta)),ENSCCAG00000037843__Cebus_capucinus_imitator);

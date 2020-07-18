@@ -1,0 +1,1 @@
+(((((ENSLCOG00000014443__Lepidothrix_coronata,ENSZALG00000001178__Zonotrichia_albicollis),ENSCPGG00000010591__Calidris_pygmaea),ENSAPLG00000023075__Anas_platyrhynchos_platyrhynchos),ENSCPGG00000010859__Calidris_pygmaea),ENSAHAG00000000322__Apteryx_haastii);

@@ -1,1 +1,0 @@
-((ENSGALG00000016670__Gallus_gallus,ENSMGAG00000005535__Meleagris_gallopavo),ENSNMEG00000008258__Numida_meleagris);

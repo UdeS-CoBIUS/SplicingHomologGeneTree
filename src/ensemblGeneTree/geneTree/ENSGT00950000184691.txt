@@ -1,0 +1,1 @@
+(((ENSMUSG00000113880__Mus_musculus_strain_reference_(CL57BL6),ENSMSIG00000019389__Mus_spicilegus),(ENSMSIG00000019450__Mus_spicilegus,ENSMUSG00000104423__Mus_musculus_strain_reference_(CL57BL6))),ENSMUGG00000025967__Meriones_unguiculatus);

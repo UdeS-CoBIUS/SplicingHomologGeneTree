@@ -1,0 +1,1 @@
+(((ENSAHAG00000010773__Apteryx_haastii,ENSNMEG00000011357__Numida_meleagris),((ENSCHOG00000003908__Choloepus_hoffmanni,ENSMFAG00000025196__Macaca_fascicularis),ENSOANG00000014674__Ornithorhynchus_anatinus)),FBgn0052250__Drosophila_melanogaster);

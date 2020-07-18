@@ -1,0 +1,1 @@
+(((((ENSAMXG00000040335__Astyanax_mexicanus,ENSAMXG00000039074__Astyanax_mexicanus),ENSAMXG00000033175__Astyanax_mexicanus),ENSAMXG00000037304__Astyanax_mexicanus),ENSSFOG00015000049__Scleropages_formosus),ENSLACG00000002023__Latimeria_chalumnae);

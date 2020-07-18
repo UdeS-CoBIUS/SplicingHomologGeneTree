@@ -1,0 +1,1 @@
+((((ENSPSIG00000007605__Pelodiscus_sinensis,ENSPSIG00000002312__Pelodiscus_sinensis),ENSGALG00000052853__Gallus_gallus),(ENSSPUG00000007076__Sphenodon_punctatus,ENSPSIG00000001556__Pelodiscus_sinensis)),(ENSLACG00000002944__Latimeria_chalumnae,ENSLACG00000001053__Latimeria_chalumnae));

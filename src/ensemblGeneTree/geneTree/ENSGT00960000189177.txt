@@ -1,0 +1,1 @@
+((((ENSARWG00000004529__Apteryx_rowi,ENSAOWG00000014279__Apteryx_owenii),ENSAHAG00000016289__Apteryx_haastii),ENSDNVG00000017551__Dromaius_novaehollandiae),ENSCPBG00000018871__Chrysemys_picta_bellii);

@@ -1,0 +1,1 @@
+((ENSCPBG00000019748__Chrysemys_picta_bellii,ENSNPEG00000006469__Nothoprocta_perdicaria),ENSUAMG00000016761__Ursus_americanus);

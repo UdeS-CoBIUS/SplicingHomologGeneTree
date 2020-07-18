@@ -1,0 +1,8 @@
+MANACUSVITELLINUS	manacus_vitellinus
+ZONOTRICHIAALBICOLLIS	zonotrichia_albicollis
+CALIDRISPUGNAX	calidris_pugnax
+MELEAGRISGALLOPAVO	meleagris_gallopavo
+NOTECHISSCUTATUS	notechis_scutatus
+URSUSMARITIMUS	ursus_maritimus
+SERIOLALALANDIDORSALIS	seriola_lalandi_dorsalis
+DROSOPHILAMELANOGASTER	drosophila_melanogaster

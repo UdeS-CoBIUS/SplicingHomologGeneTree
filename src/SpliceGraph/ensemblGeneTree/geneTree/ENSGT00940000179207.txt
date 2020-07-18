@@ -1,0 +1,1 @@
+((ENSMEUG00000010670__Notamacropus_eugenii,ENSMEUG00000010664__Notamacropus_eugenii),ENSMEUG00000016324__Notamacropus_eugenii);

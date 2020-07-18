@@ -1,0 +1,1 @@
+((ENSCHIG00000011319__Capra_hircus,ENSMUGG00000004126__Meriones_unguiculatus),(((ENSAOWG00000016376__Apteryx_owenii,ENSARWG00000009693__Apteryx_rowi),ENSNPEG00000009695__Nothoprocta_perdicaria),ENSCPBG00000005673__Chrysemys_picta_bellii));

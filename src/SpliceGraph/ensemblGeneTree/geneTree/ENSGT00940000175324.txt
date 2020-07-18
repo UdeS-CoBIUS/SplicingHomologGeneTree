@@ -1,0 +1,1 @@
+((ENSVPAG00000010920__Vicugna_pacos,ENSTGUG00000016610__Taeniopygia_guttata),ENSPMGG00000013214__Periophthalmus_magnuspinnatus);

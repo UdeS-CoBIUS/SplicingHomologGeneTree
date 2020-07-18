@@ -1,0 +1,5 @@
+   FBpp0074643	FBgn0261283	Drosophila_melanogaster Y47D3B.7.1	WBGene00004735	Caenorhabditis_elegans_strain_N2 
+  ENSEBUP00000024267	ENSEBUG00000014951	Eptatretus_burgeri ENSPMAP00000010317	ENSPMAG00000009384	Petromyzon_marinus 
+ 
+ YOR032C	YOR032C	Saccharomyces_cerevisiae_strain_S288C 
+;

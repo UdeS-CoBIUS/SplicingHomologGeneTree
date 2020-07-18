@@ -1,0 +1,12 @@
+>0
+ENSAPET00000018206: ['no event', 493, 0]
+ENSAPET00000018214: [['internal gap >= 30', 237, 91], 402, 0]
+MGP_PahariEiJ_T0065405: ['exon skipping', 0, 0]
+>1
+ENSAPET00000018206: ['exon skipping', 0, 0]
+ENSAPET00000018214: ['exon skipping', 0, 0]
+MGP_PahariEiJ_T0065405: ['5event', 314, 0]
+>2
+ENSAPET00000018206: ['3event', '5event', 247, 2]
+ENSAPET00000018214: ['5event', 310, 1]
+MGP_PahariEiJ_T0065405: ['exon skipping', 0, 0]

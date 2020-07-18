@@ -1,0 +1,1 @@
+((ENSORLG00015000058__Oryzias_latipes_ASM223469v1,ENSTRUG00000021700__Takifugu_rubripes),((ENSPMJG00000007158__Parus_major,ENSCCEG00000020292__Cyanistes_caeruleus),ENSSHAG00000006458__Sarcophilus_harrisii));

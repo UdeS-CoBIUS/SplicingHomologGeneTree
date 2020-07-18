@@ -1,0 +1,1 @@
+(ENSABRG00000006350__Anser_brachyrhynchus,ENSAPLG00000027334__Anas_platyrhynchos_platyrhynchos);

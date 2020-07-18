@@ -1,0 +1,1 @@
+((((ENSXCOG00000014721__Xiphophorus_couchianus,ENSGAFG00000016555__Gambusia_affinis),ENSPMEG00000012704__Poecilia_mexicana),(ENSACIG00000023470__Amphilophus_citrinellus,ENSAPEG00000004095__Amphiprion_percula)),ENSPMGG00000006736__Periophthalmus_magnuspinnatus);

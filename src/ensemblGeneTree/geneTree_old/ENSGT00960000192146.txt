@@ -1,1 +1,0 @@
-(ENSGGOG00000000949__Gorilla_gorilla,ENSDNVG00000019095__Dromaius_novaehollandiae);

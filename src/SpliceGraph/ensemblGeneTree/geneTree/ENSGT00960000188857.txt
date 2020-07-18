@@ -1,0 +1,1 @@
+(ENSMALG00000000277__Monopterus_albus,ENSTRUG00000025046__Takifugu_rubripes);

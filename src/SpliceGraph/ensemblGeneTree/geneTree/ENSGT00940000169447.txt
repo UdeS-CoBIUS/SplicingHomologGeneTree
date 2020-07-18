@@ -1,0 +1,1 @@
+(((WBGene00015565__Caenorhabditis_elegans_strain_N2,WBGene00016985__Caenorhabditis_elegans_strain_N2),WBGene00015564__Caenorhabditis_elegans_strain_N2),((ENSLACG00000017769__Latimeria_chalumnae,ENSCABG00000009735__Chelonoidis_abingdonii),ENSCING00000007642__Ciona_intestinalis));

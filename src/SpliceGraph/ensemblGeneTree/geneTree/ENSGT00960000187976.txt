@@ -1,0 +1,1 @@
+(((ENSPTEG00000029784__Piliocolobus_tephrosceles,ENSTGEG00000004509__Theropithecus_gelada),ENSTSYG00000006352__Carlito_syrichta),(ENSPPRG00000012063__Panthera_pardus,ENSFCAG00000034780__Felis_catus));

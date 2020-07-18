@@ -1,0 +1,1 @@
+(ENSMAUG00000018341__Mesocricetus_auratus,ENSODEG00000009867__Octodon_degus);

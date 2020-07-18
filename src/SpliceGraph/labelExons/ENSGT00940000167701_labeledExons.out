@@ -1,0 +1,55 @@
+>0
+ENSPNAT00000010763: ['3event', 132, 0]
+ENSAMXT00000036077: ['3event', 132, 0]
+ENSDART00000168278: [['internal gap < 30', 64, 9], 124, 0]
+ENSPFOT00000025412: [['internal gap >= 30', 64, 33], 100, 0]
+>1
+ENSPNAT00000010763: ['5event', ['internal gap >= 30', 885, 63], 899, 0]
+ENSAMXT00000036077: ['5event', ['internal gap >= 30', 873, 75], 887, 0]
+ENSDART00000168278: [['internal gap >= 30', 800, 148], 814, 2]
+ENSPFOT00000025412: [['internal gap >= 30', 329, 625], 337, 2]
+>2
+ENSPNAT00000010763: ['exon skipping', 0, 0]
+ENSAMXT00000036077: [['internal gap >= 30', 120, 285], 137, 0]
+ENSDART00000168278: ['no event', 422, 0]
+ENSPFOT00000025412: ['exon skipping', 0, 0]
+>3
+ENSPNAT00000010763: ['exon skipping', 0, 0]
+ENSAMXT00000036077: ['no event', 2, 0]
+ENSDART00000168278: ['exon skipping', 0, 0]
+ENSPFOT00000025412: ['exon skipping', 0, 0]
+>4
+ENSPNAT00000010763: ['5event', 26, 0]
+ENSAMXT00000036077: ['no event', 29, 0]
+ENSDART00000168278: ['5event', 26, 0]
+ENSPFOT00000025412: ['exon skipping', 0, 0]
+>5
+ENSPNAT00000010763: ['exon skipping', 0, 0]
+ENSAMXT00000036077: ['exon skipping', 0, 0]
+ENSDART00000168278: ['no event', 1, 0]
+ENSPFOT00000025412: ['exon skipping', 0, 0]
+>6
+ENSPNAT00000010763: ['5event', 125, 0]
+ENSAMXT00000036077: ['5event', 125, 0]
+ENSDART00000168278: ['no event', 128, 2]
+ENSPFOT00000025412: ['exon skipping', 0, 0]
+>7
+ENSPNAT00000010763: ['exon skipping', 0, 0]
+ENSAMXT00000036077: ['exon skipping', 0, 0]
+ENSDART00000168278: ['no event', 1, 0]
+ENSPFOT00000025412: ['exon skipping', 0, 0]
+>8
+ENSPNAT00000010763: ['5event', 65, 0]
+ENSAMXT00000036077: ['5event', 68, 0]
+ENSDART00000168278: [['internal gap < 30', 2, 2], 68, 2]
+ENSPFOT00000025412: ['exon skipping', 0, 0]
+>9
+ENSPNAT00000010763: ['no event', 107, 0]
+ENSAMXT00000036077: ['no event', 107, 0]
+ENSDART00000168278: ['no event', 107, 0]
+ENSPFOT00000025412: ['exon skipping', 0, 0]
+>10
+ENSPNAT00000010763: ['3event', 668, 0]
+ENSAMXT00000036077: ['3event', 665, 0]
+ENSDART00000168278: [['internal gap >= 30', 429, 154], 569, 0]
+ENSPFOT00000025412: ['exon skipping', 0, 0]

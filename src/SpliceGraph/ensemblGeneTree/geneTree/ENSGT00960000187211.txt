@@ -1,0 +1,1 @@
+(((ENSRBIG00000039308__Rhinopithecus_bieti,ENSRBIG00000042431__Rhinopithecus_bieti),(ENSCGRG00000010243__Cricetulus_griseus_CriGri_1.0,ENSCGRG00001001047__Cricetulus_griseus_CHOK1GS_HDv1)),(ENSEASG00005007234__Equus_asinus_asinus,ENSECAG00000027964__Equus_caballus));

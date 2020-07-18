@@ -1,0 +1,1 @@
+(((ENSOMEG00000023403__Oryzias_melastigma,ENSFHEG00000022298__Fundulus_heteroclitus),ENSATEG00000012068__Anabas_testudineus),ENSTRUG00000023917__Takifugu_rubripes);

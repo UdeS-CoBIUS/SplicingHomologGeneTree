@@ -1,0 +1,1 @@
+((ENSARWG00000002062__Apteryx_rowi,ENSAHAG00000016484__Apteryx_haastii),ENSDNVG00000014083__Dromaius_novaehollandiae);

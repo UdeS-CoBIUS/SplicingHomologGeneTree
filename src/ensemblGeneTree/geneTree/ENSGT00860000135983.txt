@@ -1,0 +1,1 @@
+(((ENSMMUG00000042253__Macaca_mulatta,ENSPTRG00000052692__Pan_troglodytes),ENSTSYG00000025767__Carlito_syrichta),ENSPCOG00000015791__Propithecus_coquereli);

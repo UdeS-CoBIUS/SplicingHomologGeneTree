@@ -1,0 +1,1 @@
+((((ENSPTEG00000025854__Piliocolobus_tephrosceles,ENSTGEG00000025239__Theropithecus_gelada),ENSNLEG00000028674__Nomascus_leucogenys),ENSCJAG00000045450__Callithrix_jacchus),ENSTSYG00000032930__Carlito_syrichta);

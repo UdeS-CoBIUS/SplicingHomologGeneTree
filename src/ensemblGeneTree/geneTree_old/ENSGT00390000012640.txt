@@ -1,1 +1,0 @@
-(((ENSGACG00000012624__Gasterosteus_aculeatus,ENSTNIG00000011473__Tetraodon_nigroviridis),ENSPFOG00000013363__Poecilia_formosa),ENSDARG00000103000__Danio_rerio);

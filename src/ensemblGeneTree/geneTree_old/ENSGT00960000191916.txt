@@ -1,1 +1,0 @@
-(ENSMMUG00000041769__Macaca_mulatta,ENSPTIG00000021571__Panthera_tigris_altaica);

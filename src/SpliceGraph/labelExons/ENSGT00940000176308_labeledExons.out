@@ -1,0 +1,36 @@
+>0
+YMR215W_mRNA: ['exon skipping', 0, 0]
+YOL132W_mRNA: ['no event', 5, 0]
+YOL030W_mRNA: ['exon skipping', 0, 0]
+YMR307W_mRNA: ['exon skipping', 0, 0]
+YLR343W_mRNA: ['5event', 2, 0]
+>1
+YMR215W_mRNA: ['5event', 3, 0]
+YOL132W_mRNA: ['exon skipping', 0, 0]
+YOL030W_mRNA: ['exon skipping', 0, 0]
+YMR307W_mRNA: ['exon skipping', 0, 0]
+YLR343W_mRNA: ['exon skipping', 0, 0]
+>2
+YMR215W_mRNA: ['exon skipping', 0, 0]
+YOL132W_mRNA: ['exon skipping', 0, 0]
+YOL030W_mRNA: ['exon skipping', 0, 0]
+YMR307W_mRNA: ['exon skipping', 0, 0]
+YLR343W_mRNA: ['5event', 10, 0]
+>3
+YMR215W_mRNA: ['5event', ['internal gap >= 30', 1512, 342], 1518, 1]
+YOL132W_mRNA: ['5event', ['internal gap >= 30', 1400, 451], 1409, 0]
+YOL030W_mRNA: ['5event', ['internal gap >= 30', 1445, 406], 1454, 0]
+YMR307W_mRNA: ['5event', ['internal gap >= 30', 1564, 287], 1573, 0]
+YLR343W_mRNA: [['internal gap >= 30', 1623, 208], 1652, 2]
+>4
+YMR215W_mRNA: ['exon skipping', 0, 0]
+YOL132W_mRNA: ['exon skipping', 0, 0]
+YOL030W_mRNA: ['exon skipping', 0, 0]
+YMR307W_mRNA: ['no event', 37, 2]
+YLR343W_mRNA: ['exon skipping', 0, 0]
+>5
+YMR215W_mRNA: ['5event', ['internal gap < 30', 26, 17], 52, 1]
+YOL132W_mRNA: ['exon skipping', 0, 0]
+YOL030W_mRNA: ['exon skipping', 0, 0]
+YMR307W_mRNA: ['no event', 69, 1]
+YLR343W_mRNA: ['5event', 1, 1]

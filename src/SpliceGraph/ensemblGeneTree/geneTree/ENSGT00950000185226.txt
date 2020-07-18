@@ -1,0 +1,1 @@
+(((ENSCPGG00000011871__Calidris_pygmaea,ENSAHAG00000013469__Apteryx_haastii),ENSSPUG00000005752__Sphenodon_punctatus),((ENSRROG00000037536__Rhinopithecus_roxellana,ENSTSYG00000035681__Carlito_syrichta),ENSBBBG00000024397__Bison_bison_bison));

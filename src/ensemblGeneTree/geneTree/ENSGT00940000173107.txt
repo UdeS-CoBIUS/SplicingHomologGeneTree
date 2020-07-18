@@ -1,0 +1,1 @@
+(((ENSMMUG00000030100__Macaca_mulatta,ENSPTEG00000006264__Piliocolobus_tephrosceles),ENSECAG00000031250__Equus_caballus),ENSCHOG00000002549__Choloepus_hoffmanni);

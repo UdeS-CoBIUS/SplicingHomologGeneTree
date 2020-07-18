@@ -1,1 +1,0 @@
-((((ENSMAUG00000000639__Mesocricetus_auratus,ENSPEMG00000025336__Peromyscus_maniculatus_bairdii),ENSETEG00000000594__Echinops_telfairi),(ENSCPGG00000017044__Calidris_pygmaea,ENSLSDG00000007012__Lonchura_striata_domestica)),(ENSLOCG00000014727__Lepisosteus_oculatus,ENSFHEG00000000723__Fundulus_heteroclitus));

@@ -1,0 +1,1 @@
+(((((ENSSCAG00000014576__Serinus_canaria,ENSSCAG00000001492__Serinus_canaria),ENSLSDG00000010828__Lonchura_striata_domestica),ENSCCEG00000020913__Cyanistes_caeruleus),ENSZALG00000007111__Zonotrichia_albicollis),ENSDNVG00000017807__Dromaius_novaehollandiae);

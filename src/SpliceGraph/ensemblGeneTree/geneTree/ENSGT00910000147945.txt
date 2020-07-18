@@ -1,0 +1,1 @@
+((ENSCHIG00000018181__Capra_hircus,ENSSSCG00000040190__Sus_scrofa),((ENSMNEG00000000205__Macaca_nemestrina,ENSPANG00000029845__Papio_anubis),(ENSRROG00000044124__Rhinopithecus_roxellana,ENSRBIG00000037049__Rhinopithecus_bieti)));

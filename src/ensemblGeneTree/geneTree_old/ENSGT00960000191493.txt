@@ -1,1 +1,0 @@
-(ENSCPUG00000008639__Calidris_pugnax,ENSMODG00000027306__Monodelphis_domestica);

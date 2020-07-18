@@ -1,0 +1,1 @@
+((((((ENSMAUG00000020169__Mesocricetus_auratus,ENSMOCG00000016669__Microtus_ochrogaster),ENSJJAG00000021318__Jaculus_jaculus),ENSODEG00000008638__Octodon_degus),ENSDORG00000023663__Dipodomys_ordii),ENSSHAG00000016333__Sarcophilus_harrisii),ENSOANG00000029590__Ornithorhynchus_anatinus);

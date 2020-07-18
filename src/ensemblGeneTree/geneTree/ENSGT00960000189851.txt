@@ -1,0 +1,1 @@
+(((ENSSCAG00000006686__Serinus_canaria,ENSCCEG00000004956__Cyanistes_caeruleus),ENSPVIG00000021776__Pogona_vitticeps),ENSSHAG00000013522__Sarcophilus_harrisii);

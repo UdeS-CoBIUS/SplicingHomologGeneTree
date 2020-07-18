@@ -136,7 +136,6 @@ def one_spliceGraphMaker(save_path, root, filename):
 					else: #if fqz is equal
 						if most_common[k][1][1] == most_common[k+1][1][1]: #if distance is equal
 							outputfile.write(most_common[k][1][2] + ":" + str(most_common[k][0]) + " \n")
-							#outputfile.write(most_common[k+1][1][2] + ":" + str(most_common[k+1][0]) + " \n")
 						else: #distance is different, get max dist
 							l = (most_common[k][1][1],most_common[k+1][1][1])
 							m = max(l)
@@ -168,12 +167,9 @@ def main_spliceGraphMaker(save_path, macroalignment,weightStructure, weightSeque
 		for filename in files:	
 			tmp = filename.split("_")
 			prefixe= tmp[0]				
-			if filename.count("~")>0 :#or os.path.exists("/home/local/USHERBROOKE/kuie2201/Bureau/MarieDegen/SpliceGraph/clusters_50_50/fuzzyCMeans/" +  prefixe + "_cluster_1_NT.fasta") == True:
+			if filename.count("~")>0 :
 				print("pass")
-				#break
 			else:						
-				#spliceGraphFile, save_path, root, filename = one_spliceGraphMaker(save_path, root, filename)							
-				#executeAllScript(spliceGraphFile, save_path, root, filename)
 				executeAllScript(save_path, root, filename, weightStructure, weightSequence)			
 			
 
@@ -240,43 +236,12 @@ def executeAllScript(save_path, root, filename, weightStructure, weightSequence)
 		print("Fusion of scoreMatrixSeq and matrixMicroalignment")
 		fusionSeqMat_MicroAlignMat, names, x_coords, u, mappingGeneToTranscript = main_fusion_matrix(scoreMatrixSeq, matrixMicroalignment, weightStructure, weightSequence)  
 
-		#matrixSequenceFile = main_normalize(scoreMatrixSeq)
-		#print("matrixSequenceFile", matrixSequenceFile)
-
 		print("Compute clusters")
-		#print(names, x_coords, mappingGeneToTranscript, microalignmentFile)
 		clustersFilenames = main_fuzzy_cMeans(names, x_coords, mappingGeneToTranscript, microalignmentFile)
-		"""
-		print(clustersFilenames)
-		if len(clustersFilenames)==0:
-			return -1
-		main_fasta_to_phylip_aux(clustersFilenames[0])
-		#clusterMicroalignment = main_cluster_aux(matrixMicroalignment, minSimilarity)	
-		clusterFusionSeqMicro = main_cluster_aux(fusionSeqMat_MicroAlignMat, minSimilarity)
-		
-		#clusterMatrixeSeqFile = main_cluster_aux(matrixSequenceFile, minSimilarity)	
 
-		#print("\t", clusterMicroalignment)
-		print("\t", clusterFusionSeqMicro)
-		#print("\t", clusterMatrixeSeqFile)
-
-		print("Extract cluster and sequences")
-		#pathRetriveClusterMicroalignment = main_retrive_cluster_aux(clusterMicroalignment, microalignmentFile)			
-		pathRetriveClusterFusionMicro = main_retrive_cluster_aux(clusterFusionSeqMicro, microalignmentFile)				
-
-		#print("\t", pathRetriveClusterMicroalignment)
-		print("\t", pathRetriveClusterFusionMicro)
-
-		#print("\t", pathRetriveCLusterMatrixSeqFile)
-
-		#main_fasta_to_phylip_aux(pathRetriveClusterMicroalignment)
-		main_fasta_to_phylip_aux(pathRetriveClusterFusionMicro)
-		#main_fasta_to_phylip_aux(pathRetriveCLusterMatrixSeqFile)
-
-		"""
 
 	except Exception, e:
-		print("_____________________________________________________________________________________________________________________________________ ",e)
+		pass
 		#exit()
 		
 
@@ -301,8 +266,4 @@ if __name__ == "__main__":
 		tmp_savepath = save_path.split("/")
 		tmp_savepath =tmp_savepath[-1]
 		tmp_savepath = "/".join(tmp_savepath)
-		print(tmp_savepath)
 		executeAllScript(save_path, tmp_savepath+"macroalignment/", filename, weightStructure, weightSequence)
-		#spliceGraphFile, save_path, root, filename = one_spliceGraphMaker(save_path, root, filename)							
-		#executeAllScript(spliceGraphFile, save_path, root, filename)
-	#main_corrected_ensemblTree()

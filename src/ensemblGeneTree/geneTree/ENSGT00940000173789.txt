@@ -1,0 +1,1 @@
+((ENSTGUG00000001719__Taeniopygia_guttata,ENSHHUG00000045386__Hucho_hucho),ENSCING00000008858__Ciona_intestinalis);

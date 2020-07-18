@@ -1,1 +1,0 @@
-(((ENSPTIG00000012541__Panthera_tigris_altaica,ENSNVIG00000018000__Neovison_vison),(ENSBMUG00000003219__Bos_mutus,ENSBBBG00000009969__Bison_bison_bison)),(ENSSBOG00000031041__Saimiri_boliviensis_boliviensis,ENSMLEG00000037800__Mandrillus_leucophaeus));

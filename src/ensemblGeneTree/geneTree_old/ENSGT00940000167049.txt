@@ -1,1 +1,0 @@
-(((ENSPPRG00000006403__Panthera_pardus,ENSFCAG00000035151__Felis_catus),(ENSAMEG00000003592__Ailuropoda_melanoleuca,ENSVVUG00000026068__Vulpes_vulpes)),((ENSHGLG00000011874__Heterocephalus_glaber_HetGla_female_1.0,ENSCGRG00015020575__Cricetulus_griseus_CriGri-PICR),(ENSPTRG00000021568__Pan_troglodytes,ENSANAG00000034333__Aotus_nancymaae)));

@@ -1,0 +1,1 @@
+(((ENSCING00000000839__Ciona_intestinalis,ENSCSAVG00000008427__Ciona_savignyi),ENSPMAG00000000063__Petromyzon_marinus),(FBgn0050054__Drosophila_melanogaster,FBgn0033756__Drosophila_melanogaster));

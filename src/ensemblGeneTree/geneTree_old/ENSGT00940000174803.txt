@@ -1,1 +1,0 @@
-(((ENSMALG00000001710__Monopterus_albus,ENSCSEG00000019339__Cynoglossus_semilaevis),ENSPKIG00000011488__Paramormyrops_kingsleyae),(ENSNSUG00000003878__Notechis_scutatus,ENSAPLG00000028555__Anas_platyrhynchos_platyrhynchos));

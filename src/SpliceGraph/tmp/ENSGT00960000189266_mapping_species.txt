@@ -1,0 +1,2 @@
+PILIOCOLOBUSTEPHROSCELES	piliocolobus_tephrosceles
+SACCHAROMYCESCEREVISIAE	saccharomyces_cerevisiae

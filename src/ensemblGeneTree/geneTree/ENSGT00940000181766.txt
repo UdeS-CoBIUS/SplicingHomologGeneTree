@@ -1,0 +1,1 @@
+((ENSSDAG00000021470__Spermophilus_dauricus,ENSNMEG00000002856__Numida_meleagris),(ENSMALG00000022410__Monopterus_albus,ENSNBRG00000016419__Neolamprologus_brichardi));

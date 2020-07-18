@@ -1,0 +1,1 @@
+(((ENSSDUG00000016975__Seriola_dumerili,ENSSLDG00000007598__Seriola_lalandi_dorsalis),ENSATEG00000015572__Anabas_testudineus),(((ENSHBUG00000009449__Haplochromis_burtoni,ENSPNYG00000019083__Pundamilia_nyererei),ENSNBRG00000024200__Neolamprologus_brichardi),ENSACIG00000009251__Amphilophus_citrinellus));

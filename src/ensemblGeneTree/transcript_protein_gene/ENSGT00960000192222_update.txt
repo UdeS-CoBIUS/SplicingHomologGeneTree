@@ -1,0 +1,2 @@
+ENSPEMP00000030508	ENSPEMG00000028471	Peromyscus_maniculatus_bairdii
+ENSPEMP00000029258	ENSPEMG00000026542	Peromyscus_maniculatus_bairdii

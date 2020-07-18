@@ -1,0 +1,1 @@
+(ENSCSEG00000017471__Cynoglossus_semilaevis,ENSSMAG00000018562__Scophthalmus_maximus);

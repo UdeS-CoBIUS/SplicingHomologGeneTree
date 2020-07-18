@@ -1,0 +1,9 @@
+PROLEMURSIMUS	prolemur_simus
+PROPITHECUSCOQUERELI	propithecus_coquereli
+SAIMIRIBOLIVIENSIS	saimiri_boliviensis
+CALLITHRIXJACCHUS	callithrix_jacchus
+PILIOCOLOBUSTEPHROSCELES	piliocolobus_tephrosceles
+CARLITOSYRICHTA	carlito_syrichta
+PANTHERATIGRIS	panthera_tigris
+PANTHERAPARDUS	panthera_pardus
+CANISLUPUS	canis_lupus

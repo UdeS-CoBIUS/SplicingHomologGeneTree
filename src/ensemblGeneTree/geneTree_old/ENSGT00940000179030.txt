@@ -1,1 +1,0 @@
-((ENSMZEG00005013872__Maylandia_zebra,ENSACIG00000006791__Amphilophus_citrinellus),(ENSTRUG00000004260__Takifugu_rubripes,ENSHCOG00000019440__Hippocampus_comes));

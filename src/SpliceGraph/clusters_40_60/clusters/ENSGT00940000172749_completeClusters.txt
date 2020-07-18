@@ -1,0 +1,2 @@
+>completeCluster_0
+ENSCSAVT00000009005	FBtr0088858

@@ -1,0 +1,1 @@
+(((((ENSSTOG00000033272__Ictidomys_tridecemlineatus,ENSMMMG00000011766__Marmota_marmota_marmota),ENSSDAG00000006121__Spermophilus_dauricus),ENSPEMG00000026718__Peromyscus_maniculatus_bairdii),ENSDNOG00000042759__Dasypus_novemcinctus),ENSPFOG00000023643__Poecilia_formosa);

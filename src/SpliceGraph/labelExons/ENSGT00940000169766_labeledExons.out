@@ -1,0 +1,65 @@
+>0
+FBtr0081621: ['no event', 786, 0]
+C07H6.7.1: ['exon skipping', 0, 0]
+C07H6.7.2: ['exon skipping', 0, 0]
+ENSCSAVT00000007033: ['exon skipping', 0, 0]
+>1
+FBtr0081621: ['exon skipping', 0, 0]
+C07H6.7.1: ['exon skipping', 0, 0]
+C07H6.7.2: ['exon skipping', 0, 0]
+ENSCSAVT00000007033: ['5event', 146, 0]
+>2
+FBtr0081621: ['5event', 100, 1]
+C07H6.7.1: ['exon skipping', 0, 0]
+C07H6.7.2: ['exon skipping', 0, 0]
+ENSCSAVT00000007033: ['exon skipping', 0, 0]
+>3
+FBtr0081621: [['internal gap >= 30', 123, 57], 166, 0]
+C07H6.7.1: ['exon skipping', 0, 0]
+C07H6.7.2: ['exon skipping', 0, 0]
+ENSCSAVT00000007033: ['5event', 222, 0]
+>4
+FBtr0081621: ['no event', 11, 1]
+C07H6.7.1: ['exon skipping', 0, 0]
+C07H6.7.2: ['exon skipping', 0, 0]
+ENSCSAVT00000007033: ['exon skipping', 0, 0]
+>5
+FBtr0081621: ['no event', 379, 1]
+C07H6.7.1: ['exon skipping', 0, 0]
+C07H6.7.2: ['exon skipping', 0, 0]
+ENSCSAVT00000007033: ['exon skipping', 0, 0]
+>6
+FBtr0081621: ['no event', 27, 0]
+C07H6.7.1: ['exon skipping', 0, 0]
+C07H6.7.2: ['exon skipping', 0, 0]
+ENSCSAVT00000007033: ['exon skipping', 0, 0]
+>7
+FBtr0081621: ['3event', 288, 1]
+C07H6.7.1: ['5event', ['internal gap >= 30', 262, 51], 299, 0]
+C07H6.7.2: ['5event', ['internal gap >= 30', 262, 51], 299, 0]
+ENSCSAVT00000007033: ['exon skipping', 0, 0]
+>8
+FBtr0081621: ['exon skipping', 0, 0]
+C07H6.7.1: ['no event', 177, 0]
+C07H6.7.2: ['no event', 177, 0]
+ENSCSAVT00000007033: ['exon skipping', 0, 0]
+>9
+FBtr0081621: ['exon skipping', 0, 0]
+C07H6.7.1: [['internal gap < 30', 2, 6], 147, 1]
+C07H6.7.2: [['internal gap < 30', 2, 6], 147, 1]
+ENSCSAVT00000007033: ['5event', 151, 1]
+>10
+FBtr0081621: ['exon skipping', 0, 0]
+C07H6.7.1: ['no event', 50, 0]
+C07H6.7.2: ['no event', 50, 0]
+ENSCSAVT00000007033: ['exon skipping', 0, 0]
+>11
+FBtr0081621: ['exon skipping', 0, 0]
+C07H6.7.1: ['exon skipping', 0, 0]
+C07H6.7.2: ['exon skipping', 0, 0]
+ENSCSAVT00000007033: ['5event', 17, 0]
+>12
+FBtr0081621: ['exon skipping', 0, 0]
+C07H6.7.1: ['5event', ['internal gap < 30', 67, 2], 86, 0]
+C07H6.7.2: ['5event', ['internal gap < 30', 67, 2], 86, 0]
+ENSCSAVT00000007033: [['internal gap < 30', 28, 1], 87, 0]

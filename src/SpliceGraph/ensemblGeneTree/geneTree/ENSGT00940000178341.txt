@@ -1,0 +1,1 @@
+((((ENSLBEG00000021023__Labrus_bergylta,ENSLBEG00000021051__Labrus_bergylta),ENSLBEG00000005488__Labrus_bergylta),ENSATEG00000007391__Anabas_testudineus),(ENSSLDG00000013837__Seriola_lalandi_dorsalis,ENSCSEG00000007483__Cynoglossus_semilaevis));

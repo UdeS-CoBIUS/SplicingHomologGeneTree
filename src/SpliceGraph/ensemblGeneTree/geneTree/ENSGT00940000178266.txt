@@ -1,0 +1,1 @@
+(((((ENSSLDG00000014131__Seriola_lalandi_dorsalis,ENSSDUG00000015534__Seriola_dumerili),ENSCSEG00000007232__Cynoglossus_semilaevis),ENSLBEG00000005650__Labrus_bergylta),ENSELUG00000011753__Esox_lucius),ENSSFOG00015009980__Scleropages_formosus);

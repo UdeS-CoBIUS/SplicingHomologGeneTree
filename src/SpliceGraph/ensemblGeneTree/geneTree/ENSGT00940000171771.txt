@@ -1,0 +1,1 @@
+(((ENSBTAG00000049082__Bos_taurus,ENSRBIG00000029931__Rhinopithecus_bieti),ENSCAFG00020007520__Canis_lupus_dingo),ENSCHOG00000002534__Choloepus_hoffmanni);

@@ -1,0 +1,10 @@
+APTERYXROWI	apteryx_rowi
+APTERYXHAASTII	apteryx_haastii
+APTERYXOWENII	apteryx_owenii
+DROMAIUSNOVAEHOLLANDIAE	dromaius_novaehollandiae
+CALIDRISPYGMAEA	calidris_pygmaea
+ANSERBRACHYRHYNCHUS	anser_brachyrhynchus
+NOTHOPROCTAPERDICARIA	nothoprocta_perdicaria
+CHELONOIDISABINGDONII	chelonoidis_abingdonii
+GOPHERUSAGASSIZII	gopherus_agassizii
+CHRYSEMYSPICTABELLII	chrysemys_picta_bellii

@@ -1,1 +1,0 @@
-(((ENSNMEG00000001993__Numida_meleagris,ENSCJPG00005002098__Coturnix_japonica),ENSGALG00000054646__Gallus_gallus),(ENSSCAG00000006844__Serinus_canaria,ENSJHYG00000017198__Junco_hyemalis));

@@ -1,1 +1,0 @@
-(ENSPFOG00000018029__Poecilia_formosa,ENSGACG00000012536__Gasterosteus_aculeatus);

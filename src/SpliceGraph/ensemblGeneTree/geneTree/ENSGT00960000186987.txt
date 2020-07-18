@@ -1,0 +1,1 @@
+(((((ENSTRUG00000025844__Takifugu_rubripes,ENSTRUG00000022761__Takifugu_rubripes),ENSTRUG00000022567__Takifugu_rubripes),(ENSMPUG00000012050__Mustela_putorius_furo,ENSPMGG00000008378__Periophthalmus_magnuspinnatus)),ENSPMAG00000004720__Petromyzon_marinus),((ENSPMAG00000008434__Petromyzon_marinus,ENSOARG00000004542__Ovis_aries),ENSCJPG00005004982__Coturnix_japonica));

@@ -1,1 +1,0 @@
-((ENSXMAG00000021297__Xiphophorus_maculatus,ENSXMAG00000027306__Xiphophorus_maculatus),ENSCVAG00000009251__Cyprinodon_variegatus);

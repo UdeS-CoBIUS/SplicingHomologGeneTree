@@ -1,0 +1,12 @@
+>0
+ENSCVAT00000005757: ['no event', 102, 0]
+ENSCVAT00000005773: ['no event', 102, 0]
+>1
+ENSCVAT00000005757: ['no event', 166, 1]
+ENSCVAT00000005773: ['no event', 166, 1]
+>2
+ENSCVAT00000005757: ['exon skipping', 0, 0]
+ENSCVAT00000005773: ['no event', 56, 0]
+>3
+ENSCVAT00000005757: ['5event', 35, 0]
+ENSCVAT00000005773: ['exon skipping', 0, 0]

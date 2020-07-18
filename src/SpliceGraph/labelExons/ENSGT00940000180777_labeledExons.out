@@ -1,0 +1,6 @@
+>0
+ENSHBUT00000031013: ['5event', ['internal gap >= 30', 263, 84], 268, 0]
+ENSNBRT00000020343: [['internal gap < 30', 338, 9], 343, 0]
+>1
+ENSHBUT00000031013: ['no event', 36, 2]
+ENSNBRT00000020343: ['no event', 36, 2]

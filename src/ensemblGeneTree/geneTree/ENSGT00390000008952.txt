@@ -1,0 +1,1 @@
+(((((ENSPMAG00000004852__Petromyzon_marinus,ENSPMAG00000010094__Petromyzon_marinus),ENSPMAG00000010045__Petromyzon_marinus),ENSPMAG00000002166__Petromyzon_marinus),((ENSPSIG00000006804__Pelodiscus_sinensis,ENSAHAG00000002877__Apteryx_haastii),ENSPMAG00000003762__Petromyzon_marinus)),(ENSCSAVG00000007793__Ciona_savignyi,ENSCSAVG00000001600__Ciona_savignyi));

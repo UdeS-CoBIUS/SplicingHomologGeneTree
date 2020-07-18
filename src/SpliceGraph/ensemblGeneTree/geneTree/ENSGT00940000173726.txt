@@ -1,0 +1,1 @@
+((((ENSAPOG00000013495__Acanthochromis_polyacanthus,ENSORLG00000028199__Oryzias_latipes_ASM223467v1),ENSPKIG00000009014__Paramormyrops_kingsleyae),ENSTNIG00000002287__Tetraodon_nigroviridis),ENSOANG00000028924__Ornithorhynchus_anatinus);

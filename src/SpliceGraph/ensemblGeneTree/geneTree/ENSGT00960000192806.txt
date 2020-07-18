@@ -1,0 +1,1 @@
+(ENSOARG00000008839__Ovis_aries,ENSCPUG00000015231__Calidris_pugnax);

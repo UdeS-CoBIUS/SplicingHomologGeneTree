@@ -1,0 +1,1 @@
+(((ENSSLDG00000000898__Seriola_lalandi_dorsalis,ENSPTEG00000012114__Piliocolobus_tephrosceles),ENSCSAVG00000004378__Ciona_savignyi),(FBgn0035630__Drosophila_melanogaster,WBGene00021088__Caenorhabditis_elegans_strain_N2));

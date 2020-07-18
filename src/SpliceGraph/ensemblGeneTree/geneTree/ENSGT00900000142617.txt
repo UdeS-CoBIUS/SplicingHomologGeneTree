@@ -1,0 +1,1 @@
+((ENSPVAG00000005929__Pteropus_vampyrus,ENSNVIG00000016471__Neovison_vison),(ENSG00000186967__Homo_sapiens,ENSCCAG00000036266__Cebus_capucinus_imitator));

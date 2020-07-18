@@ -1,1 +1,0 @@
-((FBgn0035134__Drosophila_melanogaster,FBgn0032276__Drosophila_melanogaster),(ENSCSAVG00000004430__Ciona_savignyi,ENSCING00000019386__Ciona_intestinalis));

@@ -1,0 +1,1 @@
+((ENSPCIG00000033818__Phascolarctos_cinereus,ENSPCIG00000035893__Phascolarctos_cinereus),ENSMODG00000029261__Monodelphis_domestica);

@@ -1,0 +1,1 @@
+((ENSUAMG00000013734__Ursus_americanus,ENSUMAG00000009503__Ursus_maritimus),ENSOANG00000001692__Ornithorhynchus_anatinus);

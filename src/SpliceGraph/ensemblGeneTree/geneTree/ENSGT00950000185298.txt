@@ -1,0 +1,1 @@
+(((ENSGAGG00000004951__Gopherus_agassizii,ENSCPBG00000012330__Chrysemys_picta_bellii),((ENSABRG00000004005__Anser_brachyrhynchus,ENSGALG00000047233__Gallus_gallus),ENSCPUG00000016389__Calidris_pugnax)),ENSNSUG00000011715__Notechis_scutatus);

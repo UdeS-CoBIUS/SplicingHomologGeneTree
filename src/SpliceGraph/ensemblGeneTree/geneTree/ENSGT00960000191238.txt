@@ -1,0 +1,1 @@
+(ENSSCAG00000001793__Serinus_canaria,ENSSLDG00000004577__Seriola_lalandi_dorsalis);

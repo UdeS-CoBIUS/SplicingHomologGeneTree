@@ -1,1 +1,0 @@
-(ENSAPEG00000023983__Amphiprion_percula,ENSNBRG00000011052__Neolamprologus_brichardi);

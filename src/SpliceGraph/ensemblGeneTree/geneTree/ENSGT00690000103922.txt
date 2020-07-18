@@ -1,0 +1,1 @@
+(((ENSPPYG00000029674__Pongo_abelii,ENSG00000142396__Homo_sapiens),((ENSSDAG00000018682__Spermophilus_dauricus,ENSSDAG00000016361__Spermophilus_dauricus),ENSMMMG00000001902__Marmota_marmota_marmota)),ENSBBBG00000022090__Bison_bison_bison);

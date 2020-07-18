@@ -1,0 +1,1 @@
+((ENSLSDG00000005899__Lonchura_striata_domestica,ENSSCAG00000010361__Serinus_canaria),ENSPKIG00000012715__Paramormyrops_kingsleyae);

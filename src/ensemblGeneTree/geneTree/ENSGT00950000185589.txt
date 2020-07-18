@@ -1,0 +1,1 @@
+(((ENSSDAG00000015396__Spermophilus_dauricus,ENSPCIG00000006865__Phascolarctos_cinereus),ENSMVIG00005002716__Manacus_vitellinus),ENSACIG00000013322__Amphilophus_citrinellus);

@@ -1,1 +1,0 @@
-(ENSIPUG00000010474__Ictalurus_punctatus,ENSIPUG00000001180__Ictalurus_punctatus);

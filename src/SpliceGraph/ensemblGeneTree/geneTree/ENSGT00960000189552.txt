@@ -1,0 +1,1 @@
+((((ENSMMMG00000012105__Marmota_marmota_marmota,ENSSDAG00000024361__Spermophilus_dauricus),ENSUPAG00010010735__Urocitellus_parryii),ENSUPAG00010005122__Urocitellus_parryii),(ENSTGEG00000004815__Theropithecus_gelada,ENSPTEG00000029000__Piliocolobus_tephrosceles));

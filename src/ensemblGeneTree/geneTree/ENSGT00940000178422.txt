@@ -1,0 +1,1 @@
+(((ENSKMAG00000016936__Kryptolebias_marmoratus,ENSPREG00000013645__Poecilia_reticulata),(ENSHBUG00000011956__Haplochromis_burtoni,ENSNBRG00000010056__Neolamprologus_brichardi)),ENSSLDG00000011679__Seriola_lalandi_dorsalis);

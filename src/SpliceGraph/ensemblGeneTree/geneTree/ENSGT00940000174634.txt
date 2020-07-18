@@ -1,0 +1,1 @@
+(((ENSGALG00000003464__Gallus_gallus,ENSCJPG00005004787__Coturnix_japonica),ENSAOWG00000008706__Apteryx_owenii),ENSIPUG00000003903__Ictalurus_punctatus);

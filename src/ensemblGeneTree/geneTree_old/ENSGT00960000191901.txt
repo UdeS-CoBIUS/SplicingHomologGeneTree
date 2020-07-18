@@ -1,1 +1,0 @@
-(ENSCCNG00000006791__Castor_canadensis,ENSPEMG00000024821__Peromyscus_maniculatus_bairdii);

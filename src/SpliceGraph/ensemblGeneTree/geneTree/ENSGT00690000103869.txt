@@ -1,0 +1,1 @@
+(ENSOCUG00000021495__Oryctolagus_cuniculus,ENSOANG00000030549__Ornithorhynchus_anatinus);

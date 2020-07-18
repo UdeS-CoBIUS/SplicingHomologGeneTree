@@ -1,0 +1,1 @@
+((((ENSTRUG00000023207__Takifugu_rubripes,ENSLBEG00000006094__Labrus_bergylta),(ENSELUG00000005649__Esox_lucius,ENSELUG00000005662__Esox_lucius)),((ENSAMXG00000043109__Astyanax_mexicanus,ENSAMXG00000037825__Astyanax_mexicanus),ENSOMEG00000001890__Oryzias_melastigma)),ENSAHAG00000017236__Apteryx_haastii);

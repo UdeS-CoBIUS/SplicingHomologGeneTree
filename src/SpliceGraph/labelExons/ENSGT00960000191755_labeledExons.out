@@ -1,0 +1,12 @@
+>0
+ENSAOWT00000003737: ['no event', 139, 0]
+ENSAHAT00000017935: ['no event', 139, 0]
+>1
+ENSAOWT00000003737: ['no event', 547, 2]
+ENSAHAT00000017935: ['no event', 547, 2]
+>2
+ENSAOWT00000003737: ['exon skipping', 0, 0]
+ENSAHAT00000017935: ['no event', 43, 1]
+>3
+ENSAOWT00000003737: ['5event', 301, 1]
+ENSAHAT00000017935: ['exon skipping', 0, 0]

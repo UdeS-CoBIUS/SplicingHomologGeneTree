@@ -1,0 +1,1 @@
+(((ENSPANG00000033764__Papio_anubis,ENSMMUG00000020055__Macaca_mulatta),ENSMLEG00000004820__Mandrillus_leucophaeus),ENSPTEG00000010581__Piliocolobus_tephrosceles);

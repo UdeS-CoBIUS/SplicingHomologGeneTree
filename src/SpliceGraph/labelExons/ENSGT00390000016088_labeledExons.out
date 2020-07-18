@@ -1,0 +1,44 @@
+>0
+ENSAMXT00000049630: ['no event', 233, 0]
+ENSAMXT00000053418: ['no event', 233, 0]
+ENSAMXT00000017918: ['no event', 233, 0]
+>1
+ENSAMXT00000049630: ['no event', 114, 0]
+ENSAMXT00000053418: ['no event', 114, 0]
+ENSAMXT00000017918: ['no event', 114, 0]
+>2
+ENSAMXT00000049630: ['no event', 113, 1]
+ENSAMXT00000053418: ['exon skipping', 0, 0]
+ENSAMXT00000017918: ['no event', 113, 1]
+>3
+ENSAMXT00000049630: ['no event', 76, 1]
+ENSAMXT00000053418: ['5event', 73, 1]
+ENSAMXT00000017918: ['no event', 76, 1]
+>4
+ENSAMXT00000049630: ['no event', 197, 0]
+ENSAMXT00000053418: ['no event', 197, 0]
+ENSAMXT00000017918: ['no event', 197, 0]
+>5
+ENSAMXT00000049630: ['no event', 137, 0]
+ENSAMXT00000053418: ['no event', 137, 0]
+ENSAMXT00000017918: ['no event', 137, 0]
+>6
+ENSAMXT00000049630: ['no event', 89, 0]
+ENSAMXT00000053418: ['no event', 89, 0]
+ENSAMXT00000017918: ['no event', 89, 0]
+>7
+ENSAMXT00000049630: ['no event', 143, 0]
+ENSAMXT00000053418: ['no event', 143, 0]
+ENSAMXT00000017918: ['no event', 143, 0]
+>8
+ENSAMXT00000049630: ['no event', 83, 0]
+ENSAMXT00000053418: ['no event', 83, 0]
+ENSAMXT00000017918: ['no event', 83, 0]
+>9
+ENSAMXT00000049630: ['exon skipping', 0, 0]
+ENSAMXT00000053418: ['exon skipping', 0, 0]
+ENSAMXT00000017918: ['no event', 5, 0]
+>10
+ENSAMXT00000049630: [['internal gap < 30', 1, 6], 233, 0]
+ENSAMXT00000053418: [['internal gap < 30', 1, 6], 233, 0]
+ENSAMXT00000017918: ['exon skipping', 0, 0]

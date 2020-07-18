@@ -1,0 +1,1 @@
+((ENSCGRG00000012880__Cricetulus_griseus_CriGri_1.0,ENSCLAG00000005210__Chinchilla_lanigera),ENSSTOG00000010819__Ictidomys_tridecemlineatus);

@@ -1,0 +1,1 @@
+(((ENSPPRG00000016289__Panthera_pardus,ENSFCAG00000040895__Felis_catus),ENSMMMG00000010906__Marmota_marmota_marmota),((ENSPMJG00000007122__Parus_major,ENSCCEG00000008791__Cyanistes_caeruleus),ENSSCAG00000000043__Serinus_canaria));

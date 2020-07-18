@@ -1,1 +1,0 @@
-((ENSPREG00000009758__Poecilia_reticulata,ENSAMXG00000032835__Astyanax_mexicanus),ENSPKIG00000024676__Paramormyrops_kingsleyae);

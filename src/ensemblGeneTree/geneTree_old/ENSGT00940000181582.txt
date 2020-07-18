@@ -1,1 +1,0 @@
-(ENSFHEG00000011834__Fundulus_heteroclitus,ENSMMOG00000016452__Mola_mola);

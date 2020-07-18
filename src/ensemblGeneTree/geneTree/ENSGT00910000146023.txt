@@ -1,0 +1,1 @@
+(((ENSMUGG00000015556__Meriones_unguiculatus,ENSMSIG00000011324__Mus_spicilegus),(ENSHGLG00100015778__Heterocephalus_glaber_HetGla_1.0,ENSHGLG00000007161__Heterocephalus_glaber_HetGla_female_1.0)),(ENSPTRG00000052365__Pan_troglodytes,ENSGGOG00000036858__Gorilla_gorilla));

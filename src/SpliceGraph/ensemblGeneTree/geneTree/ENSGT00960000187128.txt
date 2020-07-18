@@ -1,0 +1,1 @@
+(((ENSIPUG00000018647__Ictalurus_punctatus,ENSPKIG00000024754__Paramormyrops_kingsleyae),((ENSGAFG00000014224__Gambusia_affinis,ENSAMXG00000038397__Astyanax_mexicanus),(ENSCVAG00000003883__Cyprinodon_variegatus,ENSAMXG00000041012__Astyanax_mexicanus))),ENSCPUG00000014501__Calidris_pugnax);

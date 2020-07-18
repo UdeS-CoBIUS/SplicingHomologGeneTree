@@ -1,1 +1,0 @@
-(ENSDNOG00000040723__Dasypus_novemcinctus,ENSPMAG00000009811__Petromyzon_marinus);

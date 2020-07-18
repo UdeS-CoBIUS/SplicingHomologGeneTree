@@ -1,0 +1,1 @@
+((ENSXCOG00000001219__Xiphophorus_couchianus,ENSHCOG00000010166__Hippocampus_comes),(ENSBBBG00000002833__Bison_bison_bison,ENSMVIG00005000735__Manacus_vitellinus));

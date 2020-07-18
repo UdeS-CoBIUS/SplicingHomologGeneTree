@@ -1,1 +1,0 @@
-(ENSUPAG00010007474__Urocitellus_parryii,ENSMMMG00000012552__Marmota_marmota_marmota);

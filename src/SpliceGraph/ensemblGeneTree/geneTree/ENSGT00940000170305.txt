@@ -1,0 +1,1 @@
+((ENSLACG00000006286__Latimeria_chalumnae,ENSDARG00000114226__Danio_rerio),ENSCING00000007132__Ciona_intestinalis);

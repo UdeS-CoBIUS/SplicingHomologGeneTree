@@ -1,0 +1,1 @@
+(ENSDNVG00000010996__Dromaius_novaehollandiae,ENSNSUG00000015496__Notechis_scutatus);

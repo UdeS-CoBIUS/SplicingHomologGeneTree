@@ -1,0 +1,1 @@
+((((ENSJHYG00000000188__Junco_hyemalis,ENSCPGG00000017792__Calidris_pygmaea),ENSABRG00000012456__Anser_brachyrhynchus),ENSAHAG00000010192__Apteryx_haastii),((ENSTSYG00000034899__Carlito_syrichta,ENSNLEG00000013218__Nomascus_leucogenys),ENSNVIG00000023040__Neovison_vison));

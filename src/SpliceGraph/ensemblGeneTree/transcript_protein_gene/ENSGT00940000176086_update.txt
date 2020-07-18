@@ -1,0 +1,2 @@
+ENSXCOP00000023004	ENSXCOG00000017192	Xiphophorus_couchianus
+FBpp0296963	FBgn0032640	Drosophila_melanogaster

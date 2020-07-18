@@ -1,0 +1,1 @@
+((((ENSMPUG00000012000__Mustela_putorius_furo,ENSVVUG00000027268__Vulpes_vulpes),ENSMPUG00000012004__Mustela_putorius_furo),ENSEASG00005017553__Equus_asinus_asinus),ENSMLEG00000024637__Mandrillus_leucophaeus);

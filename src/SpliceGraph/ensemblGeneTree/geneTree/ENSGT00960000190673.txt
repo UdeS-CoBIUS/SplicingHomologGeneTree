@@ -1,0 +1,1 @@
+((ENSSDAG00000008397__Spermophilus_dauricus,ENSUPAG00010014315__Urocitellus_parryii),ENSPTEG00000008432__Piliocolobus_tephrosceles);

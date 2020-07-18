@@ -1,1 +1,0 @@
-(ENSCPUG00000014650__Calidris_pugnax,ENSABRG00000015642__Anser_brachyrhynchus);

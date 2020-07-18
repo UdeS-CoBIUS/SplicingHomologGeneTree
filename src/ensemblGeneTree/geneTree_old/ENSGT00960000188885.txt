@@ -1,1 +1,0 @@
-(ENSTGEG00000011090__Theropithecus_gelada,ENSCSAG00000018522__Chlorocebus_sabaeus);

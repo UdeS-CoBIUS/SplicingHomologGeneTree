@@ -1,0 +1,1 @@
+(((((ENSFHEG00000022924__Fundulus_heteroclitus,ENSCVAG00000016507__Cyprinodon_variegatus),ENSKMAG00000001751__Kryptolebias_marmoratus),ENSAPEG00000005049__Amphiprion_percula),ENSCSEG00000003678__Cynoglossus_semilaevis),ENSXETG00000007481__Xenopus_tropicalis);

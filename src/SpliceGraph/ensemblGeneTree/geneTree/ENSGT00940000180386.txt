@@ -1,0 +1,1 @@
+(((((ENSCGOG00000006775__Cottoperca_gobio,ENSLCRG00005015923__Larimichthys_crocea),(ENSMALG00000001171__Monopterus_albus,ENSATEG00000023841__Anabas_testudineus)),ENSAOCG00000003906__Amphiprion_ocellaris),ENSEEEG00000000224__Electrophorus_electricus),ENSSPUG00000004150__Sphenodon_punctatus);

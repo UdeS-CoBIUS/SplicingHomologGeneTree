@@ -1,0 +1,1 @@
+((ENSVPAG00000005739__Vicugna_pacos,ENSSARG00000003576__Sorex_araneus),(((ENSCPOG00000005409__Cavia_porcellus,ENSODEG00000012624__Octodon_degus),ENSFDAG00000006254__Fukomys_damarensis),ENSOPRG00000013484__Ochotona_princeps));

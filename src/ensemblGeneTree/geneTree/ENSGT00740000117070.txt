@@ -1,0 +1,1 @@
+((((ENSPMGG00000020380__Periophthalmus_magnuspinnatus,ENSMMOG00000012630__Mola_mola),ENSATEG00000023382__Anabas_testudineus),(ENSSFOG00015018575__Scleropages_formosus,ENSPNAG00000005907__Pygocentrus_nattereri)),ENSLOCG00000008642__Lepisosteus_oculatus);

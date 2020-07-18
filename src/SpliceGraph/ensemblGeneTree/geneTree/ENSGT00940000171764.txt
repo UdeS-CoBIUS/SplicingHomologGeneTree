@@ -1,0 +1,1 @@
+((ENSGACG00000005029__Gasterosteus_aculeatus,ENSTNIG00000011511__Tetraodon_nigroviridis),(ENSPREG00000018808__Poecilia_reticulata,ENSCVAG00000016670__Cyprinodon_variegatus));

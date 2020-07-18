@@ -1,0 +1,42 @@
+>0
+ENSPVIT00000009435: ['exon skipping', 0, 0]
+ENSPVIT00000009436: ['no event', 627, 0]
+ENSPVIT00000009437: ['exon skipping', 0, 0]
+ENSPVIT00000009438: ['exon skipping', 0, 0]
+ENSPVIT00000009439: ['exon skipping', 0, 0]
+>1
+ENSPVIT00000009435: ['5event', 56, 0]
+ENSPVIT00000009436: ['no event', 86, 1]
+ENSPVIT00000009437: ['exon skipping', 0, 0]
+ENSPVIT00000009438: ['exon skipping', 0, 0]
+ENSPVIT00000009439: ['exon skipping', 0, 0]
+>2
+ENSPVIT00000009435: ['exon skipping', 0, 0]
+ENSPVIT00000009436: ['exon skipping', 0, 0]
+ENSPVIT00000009437: ['exon skipping', 0, 0]
+ENSPVIT00000009438: ['5event', 35, 0]
+ENSPVIT00000009439: ['exon skipping', 0, 0]
+>3
+ENSPVIT00000009435: ['exon skipping', 0, 0]
+ENSPVIT00000009436: ['exon skipping', 0, 0]
+ENSPVIT00000009437: ['5event', 35, 0]
+ENSPVIT00000009438: ['exon skipping', 0, 0]
+ENSPVIT00000009439: ['5event', 35, 0]
+>4
+ENSPVIT00000009435: ['5event', 102, 0]
+ENSPVIT00000009436: ['5event', 102, 0]
+ENSPVIT00000009437: ['no event', 103, 0]
+ENSPVIT00000009438: ['5event', 102, 0]
+ENSPVIT00000009439: ['no event', 103, 0]
+>5
+ENSPVIT00000009435: ['no event', 268, 1]
+ENSPVIT00000009436: ['no event', 268, 1]
+ENSPVIT00000009437: ['no event', 268, 1]
+ENSPVIT00000009438: ['no event', 268, 1]
+ENSPVIT00000009439: ['no event', 268, 1]
+>6
+ENSPVIT00000009435: ['no event', 107, 0]
+ENSPVIT00000009436: ['no event', 107, 0]
+ENSPVIT00000009437: ['no event', 107, 0]
+ENSPVIT00000009438: ['no event', 107, 0]
+ENSPVIT00000009439: ['no event', 107, 0]

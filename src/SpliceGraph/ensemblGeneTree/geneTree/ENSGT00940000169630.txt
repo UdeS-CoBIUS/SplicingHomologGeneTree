@@ -1,0 +1,1 @@
+((ENSTGUG00000010334__Taeniopygia_guttata,ENSNPEG00000009665__Nothoprocta_perdicaria),ENSSHAG00000004250__Sarcophilus_harrisii);

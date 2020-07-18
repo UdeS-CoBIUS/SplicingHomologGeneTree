@@ -1,0 +1,24 @@
+>0
+ENSEBUT00000023473: ['no event', 66, 0]
+ENSEBUT00000026399: ['exon skipping', 0, 0]
+>1
+ENSEBUT00000023473: ['exon skipping', 0, 0]
+ENSEBUT00000026399: ['5event', 8, 0]
+>2
+ENSEBUT00000023473: ['5event', 47, 1]
+ENSEBUT00000026399: ['exon skipping', 0, 0]
+>3
+ENSEBUT00000023473: ['no event', 193, 1]
+ENSEBUT00000026399: ['exon skipping', 0, 0]
+>4
+ENSEBUT00000023473: ['no event', 194, 0]
+ENSEBUT00000026399: ['5event', 192, 0]
+>5
+ENSEBUT00000023473: ['no event', 174, 1]
+ENSEBUT00000026399: ['exon skipping', 0, 0]
+>6
+ENSEBUT00000023473: ['no event', 9, 2]
+ENSEBUT00000026399: ['exon skipping', 0, 0]
+>7
+ENSEBUT00000023473: ['exon skipping', 0, 0]
+ENSEBUT00000026399: ['5event', 67, 1]

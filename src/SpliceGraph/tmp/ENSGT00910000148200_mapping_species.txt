@@ -1,0 +1,4 @@
+PAPIOANUBIS	papio_anubis
+CERCOCEBUSATYS	cercocebus_atys
+MANDRILLUSLEUCOPHAEUS	mandrillus_leucophaeus
+MACACAFASCICULARIS	macaca_fascicularis

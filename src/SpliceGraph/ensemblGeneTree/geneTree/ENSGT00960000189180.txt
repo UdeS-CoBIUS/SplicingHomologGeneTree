@@ -1,0 +1,1 @@
+(((ENSCPUG00000012440__Calidris_pugnax,ENSCPGG00000000464__Calidris_pygmaea),ENSDNVG00000008842__Dromaius_novaehollandiae),ENSPSIG00000007058__Pelodiscus_sinensis);

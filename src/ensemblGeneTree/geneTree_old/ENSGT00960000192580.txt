@@ -1,1 +1,0 @@
-(ENSZALG00000002216__Zonotrichia_albicollis,ENSSCAG00000003364__Serinus_canaria);

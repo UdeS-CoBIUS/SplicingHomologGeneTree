@@ -1,1 +1,0 @@
-(ENSCSAVG00000009620__Ciona_savignyi,YOR181W__Saccharomyces_cerevisiae_strain_S288C);

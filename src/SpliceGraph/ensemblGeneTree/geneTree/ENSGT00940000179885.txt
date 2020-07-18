@@ -1,0 +1,1 @@
+(((ENSTGEG00000015647__Theropithecus_gelada,ENSPTEG00000014219__Piliocolobus_tephrosceles),ENSCPBG00000026576__Chrysemys_picta_bellii),(ENSNBRG00000011321__Neolamprologus_brichardi,ENSSPAG00000011746__Stegastes_partitus));

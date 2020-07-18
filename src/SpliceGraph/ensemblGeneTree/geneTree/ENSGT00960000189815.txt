@@ -1,0 +1,1 @@
+(((ENSPMJG00000000789__Parus_major,ENSCCEG00000012318__Cyanistes_caeruleus),ENSLCOG00000007682__Lepidothrix_coronata),ENSAPLG00000022834__Anas_platyrhynchos_platyrhynchos);

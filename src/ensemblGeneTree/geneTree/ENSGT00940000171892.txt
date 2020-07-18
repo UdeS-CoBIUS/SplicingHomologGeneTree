@@ -1,0 +1,1 @@
+((ENSRNOG00000051869__Rattus_norvegicus,ENSMSIG00000024913__Mus_spicilegus),(ENSCGRG00001010157__Cricetulus_griseus_CHOK1GS_HDv1,ENSCGRG00000000172__Cricetulus_griseus_CriGri_1.0));

@@ -1,1 +1,0 @@
-((ENSSSCG00000022232__Sus_scrofa,ENSEEUG00000011386__Erinaceus_europaeus),(ENSUAMG00000020240__Ursus_americanus,ENSUMAG00000006746__Ursus_maritimus));

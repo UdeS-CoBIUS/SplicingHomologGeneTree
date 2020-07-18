@@ -1,0 +1,30 @@
+>0
+YNL117W_mRNA: ['exon skipping', 0, 0]
+YIR031C_mRNA: ['exon skipping', 0, 0]
+C05E4.9a.1: ['no event', 29, 0]
+C05E4.9a.2: ['no event', 29, 0]
+C05E4.9b.1: ['no event', 29, 0]
+>1
+YNL117W_mRNA: ['exon skipping', 0, 0]
+YIR031C_mRNA: ['exon skipping', 0, 0]
+C05E4.9a.1: ['no event', 473, 0]
+C05E4.9a.2: ['no event', 473, 0]
+C05E4.9b.1: ['no event', 473, 0]
+>2
+YNL117W_mRNA: ['exon skipping', 0, 0]
+YIR031C_mRNA: ['exon skipping', 0, 0]
+C05E4.9a.1: ['no event', 827, 0]
+C05E4.9a.2: ['no event', 827, 0]
+C05E4.9b.1: ['no event', 827, 0]
+>3
+YNL117W_mRNA: ['5event', ['internal gap >= 30', 1395, 31], 1664, 0]
+YIR031C_mRNA: ['5event', ['internal gap >= 30', 1395, 31], 1664, 0]
+C05E4.9a.1: ['3event', 1252, 0]
+C05E4.9a.2: ['3event', 1252, 0]
+C05E4.9b.1: ['3event', 1263, 0]
+>4
+YNL117W_mRNA: ['exon skipping', 0, 0]
+YIR031C_mRNA: ['exon skipping', 0, 0]
+C05E4.9a.1: ['5event', 325, 1]
+C05E4.9a.2: ['5event', 325, 1]
+C05E4.9b.1: ['exon skipping', 0, 0]

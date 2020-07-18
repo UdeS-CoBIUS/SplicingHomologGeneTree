@@ -1,0 +1,1 @@
+((ENSSPUG00000013553__Sphenodon_punctatus,ENSGALG00000050206__Gallus_gallus),(ENSHGLG00100006767__Heterocephalus_glaber_HetGla_1.0,ENSHGLG00000005089__Heterocephalus_glaber_HetGla_female_1.0));

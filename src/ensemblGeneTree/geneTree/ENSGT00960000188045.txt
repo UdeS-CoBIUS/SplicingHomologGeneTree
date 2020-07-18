@@ -1,0 +1,1 @@
+(((((ENSTGUG00000002339__Taeniopygia_guttata,ENSCCEG00000023084__Cyanistes_caeruleus),ENSNMEG00000022779__Numida_meleagris),ENSNPEG00000004780__Nothoprocta_perdicaria),ENSCPRG00005010658__Crocodylus_porosus),ENSSPUG00000009548__Sphenodon_punctatus);

@@ -1,0 +1,1 @@
+((((ENSACLG00000026416__Astatotilapia_calliptera,ENSNBRG00000008147__Neolamprologus_brichardi),ENSAPOG00000003046__Acanthochromis_polyacanthus),ENSMMOG00000008812__Mola_mola),ENSSFOG00015000775__Scleropages_formosus);

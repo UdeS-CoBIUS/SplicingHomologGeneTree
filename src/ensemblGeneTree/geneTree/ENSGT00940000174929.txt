@@ -1,0 +1,1 @@
+((((((ENSONIG00000003375__Oreochromis_niloticus,ENSACIG00000023819__Amphilophus_citrinellus),ENSXCOG00000001166__Xiphophorus_couchianus),ENSSMAG00000002480__Scophthalmus_maximus),ENSMMOG00000016931__Mola_mola),ENSAMXG00000003734__Astyanax_mexicanus),ENSSFOG00015022662__Scleropages_formosus);

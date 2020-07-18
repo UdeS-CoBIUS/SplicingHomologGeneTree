@@ -1,0 +1,1 @@
+(((ENSACIG00000013769__Amphilophus_citrinellus,ENSXCOG00000014422__Xiphophorus_couchianus),ENSMMOG00000017306__Mola_mola),ENSNPEG00000009353__Nothoprocta_perdicaria);

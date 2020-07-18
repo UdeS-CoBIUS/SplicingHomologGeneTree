@@ -1,0 +1,1 @@
+(ENSUMAG00000023184__Ursus_maritimus,ENSECAG00000039055__Equus_caballus);

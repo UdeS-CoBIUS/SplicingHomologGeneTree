@@ -1,0 +1,5 @@
+EQUUSASINUSASINUS	equus_asinus_asinus
+CHOLOEPUSHOFFMANNI	choloepus_hoffmanni
+PROCAVIACAPENSIS	procavia_capensis
+MONODELPHISDOMESTICA	monodelphis_domestica
+ORNITHORHYNCHUSANATINUS	ornithorhynchus_anatinus

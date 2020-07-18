@@ -1,1 +1,0 @@
-((((ENSPMEG00000024328__Poecilia_mexicana,ENSPFOG00000023002__Poecilia_formosa),((ENSPNAG00000020629__Pygocentrus_nattereri,ENSAMXG00000036765__Astyanax_mexicanus),ENSDARG00000094881__Danio_rerio)),(ENSDARG00000093760__Danio_rerio,ENSAMXG00000030650__Astyanax_mexicanus)),(ENSPKIG00000022594__Paramormyrops_kingsleyae,ENSSFOG00015010072__Scleropages_formosus));

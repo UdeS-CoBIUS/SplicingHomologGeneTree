@@ -1,0 +1,1 @@
+(ENSCATG00000005536__Cercocebus_atys,ENSPPAG00000031890__Pan_paniscus);

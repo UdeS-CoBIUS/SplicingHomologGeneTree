@@ -1,0 +1,1 @@
+((ENSFALG00000014968__Ficedula_albicollis,ENSAOWG00000011243__Apteryx_owenii),ENSOARG00000013766__Ovis_aries);

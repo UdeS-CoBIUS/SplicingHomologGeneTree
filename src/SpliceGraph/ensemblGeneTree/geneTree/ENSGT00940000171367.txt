@@ -1,0 +1,1 @@
+((((ENSOMEG00000015548__Oryzias_melastigma,ENSORLG00000027796__Oryzias_latipes_ASM223467v1),((ENSACIG00000010236__Amphilophus_citrinellus,ENSXCOG00000013718__Xiphophorus_couchianus),ENSMALG00000007373__Monopterus_albus)),ENSGACG00000016115__Gasterosteus_aculeatus),ENSGMOG00000006316__Gadus_morhua);

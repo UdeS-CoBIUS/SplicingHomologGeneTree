@@ -1,0 +1,1 @@
+((ENSFALG00000014464__Ficedula_albicollis,ENSFALG00000014431__Ficedula_albicollis),ENSTGUG00000013597__Taeniopygia_guttata);

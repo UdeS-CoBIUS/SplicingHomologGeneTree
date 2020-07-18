@@ -1,0 +1,2 @@
+>completeCluster_0
+YDR544C_mRNA	YHR217C_mRNA	YBL109W_mRNA

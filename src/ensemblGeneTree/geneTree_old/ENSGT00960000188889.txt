@@ -1,1 +1,0 @@
-((ENSAPEG00000021000__Amphiprion_percula,ENSCVAG00000001530__Cyprinodon_variegatus),ENSGALG00000052789__Gallus_gallus);

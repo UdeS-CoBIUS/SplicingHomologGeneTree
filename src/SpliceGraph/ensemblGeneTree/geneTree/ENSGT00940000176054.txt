@@ -1,0 +1,1 @@
+(((ENSTNIG00000003053__Tetraodon_nigroviridis,ENSMMOG00000000295__Mola_mola),ENSHHUG00000007229__Hucho_hucho),ENSAMXG00000034187__Astyanax_mexicanus_Astyanax_mexicanus-2.0);

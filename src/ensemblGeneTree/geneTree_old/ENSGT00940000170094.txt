@@ -1,1 +1,0 @@
-(((ENSACAG00000028319__Anolis_carolinensis,ENSPVIG00000005690__Pogona_vitticeps),ENSPSIG00000006470__Pelodiscus_sinensis),(((ENSGAGG00000000705__Gopherus_agassizii,ENSCABG00000020548__Chelonoidis_abingdonii),ENSCPBG00000016885__Chrysemys_picta_bellii),(ENSACAG00000029166__Anolis_carolinensis,ENSACAG00000028875__Anolis_carolinensis)));

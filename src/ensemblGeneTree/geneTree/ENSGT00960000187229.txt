@@ -1,0 +1,1 @@
+((((ENSHBUG00000003970__Haplochromis_burtoni,ENSMZEG00005006127__Maylandia_zebra),ENSAPOG00000003533__Acanthochromis_polyacanthus),ENSPMGG00000022245__Periophthalmus_magnuspinnatus),ENSPKIG00000015666__Paramormyrops_kingsleyae);

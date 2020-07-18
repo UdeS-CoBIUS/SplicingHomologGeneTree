@@ -1,0 +1,3 @@
+THEROPITHECUSGELADA	theropithecus_gelada
+PANPANISCUS	pan_paniscus
+AOTUSNANCYMAAE	aotus_nancymaae

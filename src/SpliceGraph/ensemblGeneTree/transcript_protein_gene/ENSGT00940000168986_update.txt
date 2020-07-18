@@ -1,0 +1,4 @@
+FBpp0297165	FBgn0040238	Drosophila_melanogaster	FBtr0306023
+FBpp0075371	FBgn0036492	Drosophila_melanogaster	FBtr0075618
+FBpp0112085	FBgn0036491	Drosophila_melanogaster	FBtr0113172
+ZK688.2.1	WBGene00022797	Caenorhabditis_elegans_strain_N2	ZK688.2.1

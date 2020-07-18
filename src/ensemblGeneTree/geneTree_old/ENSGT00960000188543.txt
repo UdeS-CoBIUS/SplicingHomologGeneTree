@@ -1,1 +1,0 @@
-((ENSAMXG00000033302__Astyanax_mexicanus,ENSACIG00000008218__Amphilophus_citrinellus),ENSSCAG00000014670__Serinus_canaria);

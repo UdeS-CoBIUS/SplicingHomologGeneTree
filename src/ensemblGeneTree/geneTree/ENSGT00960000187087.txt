@@ -1,0 +1,1 @@
+(((((ENSAPEG00000003482__Amphiprion_percula,ENSAPEG00000003445__Amphiprion_percula),ENSAOCG00000016567__Amphiprion_ocellaris),ENSORLG00015010611__Oryzias_latipes_ASM223469v1),ENSPNAG00000008869__Pygocentrus_nattereri),ENSMODG00000028811__Monodelphis_domestica);

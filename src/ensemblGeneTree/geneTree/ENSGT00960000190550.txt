@@ -1,0 +1,1 @@
+((ENSPTEG00000031038__Piliocolobus_tephrosceles,ENSMUGG00000017464__Meriones_unguiculatus),ENSVVUG00000007757__Vulpes_vulpes);

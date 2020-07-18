@@ -1,0 +1,28 @@
+>0
+F56C11.3.1: ['no event', 99, 0]
+FBtr0331763: ['exon skipping', 0, 0]
+FBtr0074794: ['exon skipping', 0, 0]
+>1
+F56C11.3.1: ['exon skipping', 0, 0]
+FBtr0331763: ['5event', 395, 0]
+FBtr0074794: ['5event', 380, 0]
+>2
+F56C11.3.1: ['3event', '5event', 72, 1]
+FBtr0331763: ['no event', 241, 0]
+FBtr0074794: ['no event', 241, 0]
+>3
+F56C11.3.1: ['5event', 106, 1]
+FBtr0331763: ['exon skipping', 0, 0]
+FBtr0074794: ['exon skipping', 0, 0]
+>4
+F56C11.3.1: ['no event', 40, 0]
+FBtr0331763: ['exon skipping', 0, 0]
+FBtr0074794: ['exon skipping', 0, 0]
+>5
+F56C11.3.1: ['no event', 161, 2]
+FBtr0331763: ['5event', 159, 2]
+FBtr0074794: ['5event', 159, 2]
+>6
+F56C11.3.1: ['no event', 5, 0]
+FBtr0331763: ['exon skipping', 0, 0]
+FBtr0074794: ['exon skipping', 0, 0]

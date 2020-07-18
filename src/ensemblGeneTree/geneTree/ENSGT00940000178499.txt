@@ -1,0 +1,1 @@
+(((ENSACIG00000015741__Amphilophus_citrinellus,ENSXCOG00000011340__Xiphophorus_couchianus),ENSSMAG00000015381__Scophthalmus_maximus),(ENSPMGG00000015508__Periophthalmus_magnuspinnatus,ENSPMGG00000007349__Periophthalmus_magnuspinnatus));

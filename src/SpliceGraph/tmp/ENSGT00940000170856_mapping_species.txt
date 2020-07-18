@@ -1,0 +1,3 @@
+GASTEROSTEUSACULEATUS	gasterosteus_aculeatus
+TETRAODONNIGROVIRIDIS	tetraodon_nigroviridis
+GADUSMORHUA	gadus_morhua

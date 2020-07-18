@@ -1,1 +1,0 @@
-(ENSSPUG00000014046__Sphenodon_punctatus,ENSECAG00000028721__Equus_caballus);

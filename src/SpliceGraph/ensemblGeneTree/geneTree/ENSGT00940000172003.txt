@@ -1,0 +1,1 @@
+(ENSOANG00000031270__Ornithorhynchus_anatinus,ENSTGUG00000013678__Taeniopygia_guttata);

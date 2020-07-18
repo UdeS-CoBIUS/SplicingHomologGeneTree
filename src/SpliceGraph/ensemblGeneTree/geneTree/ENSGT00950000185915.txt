@@ -1,0 +1,1 @@
+(((((ENSPANG00000030868__Papio_anubis,ENSTGEG00000024082__Theropithecus_gelada),ENSPTEG00000039512__Piliocolobus_tephrosceles),ENSPSMG00000008355__Prolemur_simus),(ENSSDAG00000020825__Spermophilus_dauricus,ENSMMMG00000020913__Marmota_marmota_marmota)),ENSEASG00005016796__Equus_asinus_asinus);

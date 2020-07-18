@@ -1,1 +1,0 @@
-((ENSPPYG00000010616__Pongo_abelii,ENSTGEG00000015288__Theropithecus_gelada),ENSPSMG00000014521__Prolemur_simus);

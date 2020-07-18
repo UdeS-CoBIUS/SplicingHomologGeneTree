@@ -1,0 +1,1 @@
+(((((ENSGAFG00000014626__Gambusia_affinis,ENSPMEG00000004538__Poecilia_mexicana),ENSCVAG00000021340__Cyprinodon_variegatus),ENSAOCG00000021686__Amphiprion_ocellaris),ENSSFOG00015017551__Scleropages_formosus),ENSPCIG00000013432__Phascolarctos_cinereus);

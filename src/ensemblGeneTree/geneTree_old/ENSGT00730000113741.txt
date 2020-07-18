@@ -1,1 +1,0 @@
-(((((ENSNMEG00000012987__Numida_meleagris,ENSGALG00000048672__Gallus_gallus),ENSCPUG00000012276__Calidris_pugnax),ENSCCEG00000017141__Cyanistes_caeruleus),(ENSPSIG00000015688__Pelodiscus_sinensis,ENSPSIG00000008853__Pelodiscus_sinensis)),ENSPVIG00000020396__Pogona_vitticeps);

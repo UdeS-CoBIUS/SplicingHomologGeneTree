@@ -1,0 +1,18 @@
+>0
+ENSBTAT00000056674: ['no event', 953, 0]
+ENSBTAT00000073006: [['internal gap < 30', 921, 1], 952, 0]
+ENSSSCT00000002900: ['no event', 953, 0]
+ENSSSCT00000002892: ['no event', 953, 0]
+ENSSSCT00000002465: ['no event', 953, 0]
+>1
+ENSBTAT00000056674: ['exon skipping', 0, 0]
+ENSBTAT00000073006: ['no event', 3, 2]
+ENSSSCT00000002900: ['exon skipping', 0, 0]
+ENSSSCT00000002892: ['exon skipping', 0, 0]
+ENSSSCT00000002465: ['no event', 3, 0]
+>2
+ENSBTAT00000056674: ['exon skipping', 0, 0]
+ENSBTAT00000073006: ['exon skipping', 0, 0]
+ENSSSCT00000002900: ['exon skipping', 0, 0]
+ENSSSCT00000002892: ['exon skipping', 0, 0]
+ENSSSCT00000002465: ['no event', 46, 1]

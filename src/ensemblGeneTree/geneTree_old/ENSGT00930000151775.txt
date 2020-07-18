@@ -1,1 +1,0 @@
-((((ENSGACG00000003550__Gasterosteus_aculeatus,ENSHCOG00000010281__Hippocampus_comes),ENSGMOG00000010955__Gadus_morhua),ENSPNYG00000005016__Pundamilia_nyererei),((ENSACAG00000023713__Anolis_carolinensis,ENSSPUG00000009041__Sphenodon_punctatus),ENSCCNG00000005003__Castor_canadensis));

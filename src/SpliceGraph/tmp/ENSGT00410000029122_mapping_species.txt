@@ -1,0 +1,4 @@
+PONGOABELII	pongo_abelii
+ERINACEUSEUROPAEUS	erinaceus_europaeus
+CHOLOEPUSHOFFMANNI	choloepus_hoffmanni
+ECHINOPSTELFAIRI	echinops_telfairi

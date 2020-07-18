@@ -1,0 +1,12 @@
+>0
+YCL065W_mRNA: ['3event', 346, 0]
+YCR097W-A_mRNA: ['3event', 267, 0]
+YCR041W_mRNA: [['internal gap < 30', 289, 27], 332, 0]
+>1
+YCL065W_mRNA: ['5event', 5, 1]
+YCR097W-A_mRNA: ['exon skipping', 0, 0]
+YCR041W_mRNA: ['exon skipping', 0, 0]
+>2
+YCL065W_mRNA: ['no event', 16, 1]
+YCR097W-A_mRNA: ['exon skipping', 0, 0]
+YCR041W_mRNA: ['exon skipping', 0, 0]

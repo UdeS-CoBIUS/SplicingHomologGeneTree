@@ -1,0 +1,1 @@
+((ENSGACG00000002023__Gasterosteus_aculeatus,ENSTNIG00000002069__Tetraodon_nigroviridis),ENSGMOG00000003825__Gadus_morhua);

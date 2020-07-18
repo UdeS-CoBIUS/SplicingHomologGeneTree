@@ -1,0 +1,1 @@
+(((ENSLACG00000013065__Latimeria_chalumnae,ENSXETG00000011374__Xenopus_tropicalis),ENSELUG00000023340__Esox_lucius),FBgn0035253__Drosophila_melanogaster);

@@ -1,0 +1,1 @@
+((ENSLAFG00000018673__Loxodonta_africana,ENSMGAG00000016800__Meleagris_gallopavo),ENSGMOG00000018764__Gadus_morhua);

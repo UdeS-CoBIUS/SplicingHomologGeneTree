@@ -1,0 +1,3 @@
+R03A10.6.2	WBGene00010986	Caenorhabditis_elegans_strain_N2	R03A10.6.2
+Y69A2AR.15.1	WBGene00022086	Caenorhabditis_elegans_strain_N2	Y69A2AR.15.1
+FBpp0308828	FBgn0029768	Drosophila_melanogaster	FBtr0339781

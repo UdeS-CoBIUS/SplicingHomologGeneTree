@@ -1,0 +1,1 @@
+((ENSGMOG00000017378__Gadus_morhua,ENSPMGG00000013817__Periophthalmus_magnuspinnatus),ENSIPUG00000023585__Ictalurus_punctatus);

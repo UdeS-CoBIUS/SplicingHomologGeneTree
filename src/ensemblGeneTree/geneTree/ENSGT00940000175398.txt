@@ -1,0 +1,1 @@
+(((ENSDNVG00000018824__Dromaius_novaehollandiae,ENSTTRG00000014191__Tursiops_truncatus),((ENSPLAG00000001202__Poecilia_latipinna,ENSPMEG00000004590__Poecilia_mexicana),ENSCVAG00000002237__Cyprinodon_variegatus)),ENSEBUG00000000572__Eptatretus_burgeri);

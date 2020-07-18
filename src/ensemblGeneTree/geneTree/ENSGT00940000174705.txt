@@ -1,0 +1,1 @@
+((((ENSRBIG00000036037__Rhinopithecus_bieti,ENSTGEG00000013483__Theropithecus_gelada),ENSPCIG00000012591__Phascolarctos_cinereus),(ENSPMJG00000012739__Parus_major,ENSCCEG00000002642__Cyanistes_caeruleus)),ENSELUG00000011880__Esox_lucius);

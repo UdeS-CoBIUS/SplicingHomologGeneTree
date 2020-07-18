@@ -1,0 +1,4 @@
+STEGASTESPARTITUS	stegastes_partitus
+STEGASTESPARTITUS	stegastes_partitus
+AMPHIPRIONPERCULA	amphiprion_percula
+TAKIFUGURUBRIPES	takifugu_rubripes

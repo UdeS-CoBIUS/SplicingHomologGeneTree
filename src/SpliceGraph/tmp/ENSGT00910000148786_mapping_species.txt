@@ -1,0 +1,5 @@
+RHINOPITHECUSBIETI	rhinopithecus_bieti
+PILIOCOLOBUSTEPHROSCELES	piliocolobus_tephrosceles
+PAPIOANUBIS	papio_anubis
+NOMASCUSLEUCOGENYS	nomascus_leucogenys
+PROLEMURSIMUS	prolemur_simus

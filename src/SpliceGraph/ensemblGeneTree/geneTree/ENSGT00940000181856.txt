@@ -1,0 +1,1 @@
+(ENSATEG00000021934__Anabas_testudineus,ENSXCOG00000002523__Xiphophorus_couchianus);

@@ -1,0 +1,1 @@
+((((ENSCPOG00000025237__Cavia_porcellus,ENSCAPG00000001050__Cavia_aperea),ENSCLAG00000012295__Chinchilla_lanigera),(ENSCPOG00000006664__Cavia_porcellus,ENSCAPG00000012700__Cavia_aperea)),ENSFDAG00000016166__Fukomys_damarensis);

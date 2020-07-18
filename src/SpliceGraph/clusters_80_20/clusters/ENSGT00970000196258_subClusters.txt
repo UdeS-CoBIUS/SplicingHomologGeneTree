@@ -1,0 +1,6 @@
+>cluster_0
+Y57G11C.47.1	Y38C1AA.3b.2
+>cluster_1
+Y38C1AA.3b.1
+>cluster_2
+Y38C1AA.3a.1

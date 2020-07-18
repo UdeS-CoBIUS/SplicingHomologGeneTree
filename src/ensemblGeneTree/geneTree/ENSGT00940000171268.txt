@@ -1,0 +1,1 @@
+(((ENSPTRG00000042522__Pan_troglodytes,ENSGGOG00000027972__Gorilla_gorilla),ENSNLEG00000005199__Nomascus_leucogenys),ENSAMXG00000029513__Astyanax_mexicanus);

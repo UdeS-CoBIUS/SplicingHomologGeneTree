@@ -1,0 +1,1 @@
+(((ENSPNYG00000018796__Pundamilia_nyererei,ENSNBRG00000001387__Neolamprologus_brichardi),ENSACIG00000015270__Amphilophus_citrinellus),((ENSACIG00000003334__Amphilophus_citrinellus,ENSACIG00000001855__Amphilophus_citrinellus),ENSMZEG00005001566__Maylandia_zebra));

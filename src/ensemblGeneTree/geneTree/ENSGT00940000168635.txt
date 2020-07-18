@@ -1,0 +1,1 @@
+(((ENSMGAG00000008999__Meleagris_gallopavo,ENSMUNG00000016941__Melopsittacus_undulatus),ENSPSIG00000009290__Pelodiscus_sinensis),ENSSSCG00000009199__Sus_scrofa);

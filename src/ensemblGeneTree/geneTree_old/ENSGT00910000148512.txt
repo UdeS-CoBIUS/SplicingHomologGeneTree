@@ -1,1 +1,0 @@
-((ENSCCAG00000019114__Cebus_capucinus_imitator,ENSNLEG00000029426__Nomascus_leucogenys),ENSPPRG00000019970__Panthera_pardus);

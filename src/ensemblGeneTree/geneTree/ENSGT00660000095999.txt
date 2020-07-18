@@ -1,0 +1,1 @@
+(((((((ENSTGUG00000012485__Taeniopygia_guttata,ENSFALG00000014813__Ficedula_albicollis),ENSGALG00000051651__Gallus_gallus),ENSPSIG00000000143__Pelodiscus_sinensis),ENSACAG00000022692__Anolis_carolinensis),(ENSMODG00000000001__Monodelphis_domestica,ENSOARG00000017107__Ovis_aries)),ENSLACG00000013110__Latimeria_chalumnae),ENSPFOG00000022687__Poecilia_formosa);

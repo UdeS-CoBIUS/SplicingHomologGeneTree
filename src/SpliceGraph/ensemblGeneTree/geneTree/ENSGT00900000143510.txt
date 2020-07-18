@@ -1,0 +1,1 @@
+((ENSTRUG00000023882__Takifugu_rubripes,ENSXCOG00000015280__Xiphophorus_couchianus),((((ENSJJAG00000014336__Jaculus_jaculus,ENSNGAG00000017653__Nannospalax_galili),ENSSDAG00000000643__Spermophilus_dauricus),ENSNLEG00000028122__Nomascus_leucogenys),ENSLCOG00000010077__Lepidothrix_coronata));

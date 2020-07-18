@@ -1,1 +1,0 @@
-((((ENSPNYG00000002541__Pundamilia_nyererei,ENSACIG00000023871__Amphilophus_citrinellus),ENSCVAG00000015314__Cyprinodon_variegatus),ENSTRUG00000022940__Takifugu_rubripes),ENSPNAG00000003090__Pygocentrus_nattereri);

@@ -1,0 +1,1 @@
+((ENSPKIG00000011548__Paramormyrops_kingsleyae,ENSSLDG00000005162__Seriola_lalandi_dorsalis),(((ENSLSDG00000011236__Lonchura_striata_domestica,ENSSCAG00000007675__Serinus_canaria),ENSCCEG00000002679__Cyanistes_caeruleus),ENSCPGG00000004588__Calidris_pygmaea));

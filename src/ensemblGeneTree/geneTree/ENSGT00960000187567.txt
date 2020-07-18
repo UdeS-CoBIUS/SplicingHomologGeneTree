@@ -1,0 +1,1 @@
+((((ENSSCAG00000014664__Serinus_canaria,ENSLSDG00000001945__Lonchura_striata_domestica),ENSELUG00000006303__Esox_lucius),(ENSAOCG00000022480__Amphiprion_ocellaris,ENSAPEG00000012845__Amphiprion_percula)),ENSEBUG00000007420__Eptatretus_burgeri);

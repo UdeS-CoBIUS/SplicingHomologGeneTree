@@ -1,0 +1,1 @@
+(((ENSUPAG00010020749__Urocitellus_parryii,ENSSDAG00000017690__Spermophilus_dauricus),ENSCHIG00000014804__Capra_hircus),(ENSNBRG00000002963__Neolamprologus_brichardi,ENSKMAG00000005323__Kryptolebias_marmoratus));

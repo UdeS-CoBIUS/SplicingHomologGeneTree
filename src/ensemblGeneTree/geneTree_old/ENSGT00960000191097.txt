@@ -1,1 +1,0 @@
-((ENSCPRG00005008188__Crocodylus_porosus,ENSLSDG00000015750__Lonchura_striata_domestica),ENSMSIG00000004676__Mus_spicilegus);

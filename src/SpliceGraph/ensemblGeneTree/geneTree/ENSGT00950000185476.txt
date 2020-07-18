@@ -1,0 +1,1 @@
+(((ENSPANG00000034736__Papio_anubis,ENSMLEG00000021493__Mandrillus_leucophaeus),ENSTGEG00000019943__Theropithecus_gelada),ENSCATG00000006010__Cercocebus_atys);

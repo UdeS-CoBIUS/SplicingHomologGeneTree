@@ -1,0 +1,1 @@
+(((ENSFCAG00000014447__Felis_catus,ENSPTIG00000009343__Panthera_tigris_altaica),ENSCANG00000025433__Colobus_angolensis_palliatus),ENSAHAG00000006708__Apteryx_haastii);

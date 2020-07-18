@@ -1,0 +1,1 @@
+((((ENSSDAG00000012377__Spermophilus_dauricus,ENSSDAG00000012384__Spermophilus_dauricus),ENSMMMG00000023502__Marmota_marmota_marmota),ENSSTOG00000030963__Ictidomys_tridecemlineatus),ENSPTEG00000011187__Piliocolobus_tephrosceles);

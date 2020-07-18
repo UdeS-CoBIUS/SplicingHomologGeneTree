@@ -1,0 +1,1 @@
+(((ENSGAFG00000014107__Gambusia_affinis,ENSPMGG00000003668__Periophthalmus_magnuspinnatus),ENSPKIG00000016738__Paramormyrops_kingsleyae),ENSNMEG00000005223__Numida_meleagris);

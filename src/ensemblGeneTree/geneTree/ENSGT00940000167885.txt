@@ -1,0 +1,1 @@
+(((((((ENSCCNG00000014317__Castor_canadensis,ENSUPAG00010020777__Urocitellus_parryii),ENSMOCG00000003822__Microtus_ochrogaster),ENSODEG00000000817__Octodon_degus),ENSVVUG00000015945__Vulpes_vulpes),ENSOANG00000019850__Ornithorhynchus_anatinus),ENSTNIG00000000148__Tetraodon_nigroviridis),ENSEBUG00000004159__Eptatretus_burgeri);

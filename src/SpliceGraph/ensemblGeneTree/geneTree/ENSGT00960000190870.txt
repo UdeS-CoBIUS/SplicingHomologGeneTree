@@ -1,0 +1,1 @@
+((ENSMMMG00000024483__Marmota_marmota_marmota,ENSEASG00005003040__Equus_asinus_asinus),ENSAPLG00000023083__Anas_platyrhynchos_platyrhynchos);

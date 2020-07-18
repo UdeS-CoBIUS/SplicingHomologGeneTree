@@ -1,0 +1,1 @@
+((ENSCAPG00000016847__Cavia_aperea,ENSCPOG00000014975__Cavia_porcellus),ENSCGRG00000017322__Cricetulus_griseus_CriGri_1.0);

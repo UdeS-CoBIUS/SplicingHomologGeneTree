@@ -1,1 +1,0 @@
-(((ENSORLG00015019872__Oryzias_latipes_ASM223469v1,ENSPMGG00000018280__Periophthalmus_magnuspinnatus),ENSFALG00000014374__Ficedula_albicollis),ENSPMAG00000009775__Petromyzon_marinus);

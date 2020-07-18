@@ -1,0 +1,1 @@
+(((ENSPMGG00000023801__Periophthalmus_magnuspinnatus,ENSLBEG00000009611__Labrus_bergylta),ENSELUG00000002648__Esox_lucius),ENSLSDG00000009859__Lonchura_striata_domestica);

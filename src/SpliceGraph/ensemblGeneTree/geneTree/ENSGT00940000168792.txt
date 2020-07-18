@@ -1,0 +1,1 @@
+((((ENSHGLG00000009404__Heterocephalus_glaber_HetGla_female_1.0,ENSCAPG00000013003__Cavia_aperea),ENSOANG00000031152__Ornithorhynchus_anatinus),((ENSZALG00000017896__Zonotrichia_albicollis,ENSCCEG00000003332__Cyanistes_caeruleus),ENSCPUG00000006933__Calidris_pugnax)),ENSIPUG00000016384__Ictalurus_punctatus);

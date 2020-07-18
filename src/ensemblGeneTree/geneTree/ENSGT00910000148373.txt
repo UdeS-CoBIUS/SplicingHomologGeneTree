@@ -1,0 +1,1 @@
+((((ENSSBOG00000031253__Saimiri_boliviensis_boliviensis,ENSCCAG00000036306__Cebus_capucinus_imitator),(ENSTGEG00000022047__Theropithecus_gelada,ENSPTEG00000014599__Piliocolobus_tephrosceles)),ENSPSMG00000014447__Prolemur_simus),ENSEASG00005014666__Equus_asinus_asinus);

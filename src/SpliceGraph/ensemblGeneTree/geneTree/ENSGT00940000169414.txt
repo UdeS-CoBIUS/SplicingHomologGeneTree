@@ -1,0 +1,1 @@
+((((ENSMLUG00000029258__Myotis_lucifugus,ENSMLUG00000025994__Myotis_lucifugus),(ENSMLUG00000025936__Myotis_lucifugus,ENSMLUG00000029278__Myotis_lucifugus)),((ENSMUGG00000007413__Meriones_unguiculatus,ENSMUGG00000007426__Meriones_unguiculatus),ENSMUGG00000007420__Meriones_unguiculatus)),(ENSARWG00000007884__Apteryx_rowi,ENSCJPG00005002632__Coturnix_japonica));

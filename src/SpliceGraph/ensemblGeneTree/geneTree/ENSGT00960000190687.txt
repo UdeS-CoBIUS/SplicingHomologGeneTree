@@ -1,0 +1,1 @@
+(((ENSMAUG00000013103__Mesocricetus_auratus,ENSPEMG00000024881__Peromyscus_maniculatus_bairdii),ENSSDAG00000005214__Spermophilus_dauricus),ENSOCUG00000031920__Oryctolagus_cuniculus);

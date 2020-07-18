@@ -1,0 +1,1 @@
+((((ENSPSIG00000003559__Pelodiscus_sinensis,ENSMGAG00000012242__Meleagris_gallopavo),(ENSGGOG00000038907__Gorilla_gorilla,ENSOGAG00000007016__Otolemur_garnettii)),ENSLACG00000011722__Latimeria_chalumnae),ENSPMAG00000001917__Petromyzon_marinus);

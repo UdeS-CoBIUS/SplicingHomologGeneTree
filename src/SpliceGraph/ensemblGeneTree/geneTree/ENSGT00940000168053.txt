@@ -1,0 +1,1 @@
+((((((ENSPFOG00000002632__Poecilia_formosa,ENSPMEG00000013193__Poecilia_mexicana),ENSPLAG00000010617__Poecilia_latipinna),ENSGAFG00000015145__Gambusia_affinis),ENSMMOG00000000835__Mola_mola),ENSMGAG00000007631__Meleagris_gallopavo),(ENSCSAVG00000010809__Ciona_savignyi,ENSCING00000012671__Ciona_intestinalis));

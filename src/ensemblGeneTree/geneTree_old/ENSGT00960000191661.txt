@@ -1,1 +1,0 @@
-(ENSCCEG00000002817__Cyanistes_caeruleus,ENSSMRG00000006119__Salvator_merianae);

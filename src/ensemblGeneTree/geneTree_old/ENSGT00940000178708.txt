@@ -1,1 +1,0 @@
-(((ENSXCOG00000003246__Xiphophorus_couchianus,ENSXMAG00000029100__Xiphophorus_maculatus),ENSOMEG00000022321__Oryzias_melastigma),ENSACIG00000012438__Amphilophus_citrinellus);

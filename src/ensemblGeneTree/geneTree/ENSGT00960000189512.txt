@@ -1,0 +1,1 @@
+((((ENSGAGG00000007764__Gopherus_agassizii,ENSCABG00000005293__Chelonoidis_abingdonii),ENSCABG00000021310__Chelonoidis_abingdonii),(ENSMVIG00005019694__Manacus_vitellinus,ENSPMJG00000004413__Parus_major)),(ENSNSUG00000005952__Notechis_scutatus,ENSNSUG00000011267__Notechis_scutatus));

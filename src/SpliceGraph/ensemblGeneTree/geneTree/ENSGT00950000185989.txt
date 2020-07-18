@@ -1,0 +1,1 @@
+((((ENSCPGG00000007502__Calidris_pygmaea,ENSCPUG00000009173__Calidris_pugnax),(ENSCCEG00000006230__Cyanistes_caeruleus,ENSSCAG00000015687__Serinus_canaria)),ENSGAGG00000024488__Gopherus_agassizii),ENSOANG00000021777__Ornithorhynchus_anatinus);

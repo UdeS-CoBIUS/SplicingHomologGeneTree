@@ -1,0 +1,4 @@
+SERIOLADUMERILI	seriola_dumerili
+ORYZIASMELASTIGMA	oryzias_melastigma
+SERIOLADUMERILI	seriola_dumerili
+MONOPTERUSALBUS	monopterus_albus

@@ -1,0 +1,15 @@
+>0
+ENSCHOT00000007123: ['3event', 492, 0]
+ENSDNOT00000051508: [['internal gap < 30', 373, 3], 533, 0]
+ENSSDAT00000011718: ['no event', 536, 0]
+ENSSDAT00000011706: ['no event', 536, 0]
+>1
+ENSCHOT00000007123: ['5event', 11, 0]
+ENSDNOT00000051508: ['exon skipping', 0, 0]
+ENSSDAT00000011718: ['exon skipping', 0, 0]
+ENSSDAT00000011706: ['exon skipping', 0, 0]
+>2
+ENSCHOT00000007123: ['no event', 17, 0]
+ENSDNOT00000051508: ['exon skipping', 0, 0]
+ENSSDAT00000011718: ['exon skipping', 0, 0]
+ENSSDAT00000011706: ['exon skipping', 0, 0]

@@ -1,0 +1,1 @@
+(((ENSCCNG00000019433__Castor_canadensis,ENSMAUG00000016794__Mesocricetus_auratus),(ENSPTRG00000044023__Pan_troglodytes,ENSGGOG00000042258__Gorilla_gorilla)),ENSUMAG00000015974__Ursus_maritimus);

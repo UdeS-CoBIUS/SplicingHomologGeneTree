@@ -1,0 +1,1 @@
+((ENSDARG00000086724__Danio_rerio,ENSCING00000014819__Ciona_intestinalis),FBgn0030617__Drosophila_melanogaster);

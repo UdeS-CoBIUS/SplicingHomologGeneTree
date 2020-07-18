@@ -1,0 +1,1 @@
+((ENSDNOG00000032232__Dasypus_novemcinctus,ENSPCIG00000016260__Phascolarctos_cinereus),ENSOANG00000032275__Ornithorhynchus_anatinus);

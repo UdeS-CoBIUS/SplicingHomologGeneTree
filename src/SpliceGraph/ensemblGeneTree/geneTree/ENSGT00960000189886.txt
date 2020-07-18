@@ -1,0 +1,1 @@
+(((ENSJHYG00000002919__Junco_hyemalis,ENSZALG00000002088__Zonotrichia_albicollis),ENSCCEG00000018015__Cyanistes_caeruleus),ENSNMEG00000002947__Numida_meleagris);

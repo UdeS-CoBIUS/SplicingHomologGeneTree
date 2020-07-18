@@ -1,0 +1,5 @@
+DROSOPHILAMELANOGASTER	drosophila_melanogaster
+DROSOPHILAMELANOGASTER	drosophila_melanogaster
+CAENORHABDITISELEGANS	caenorhabditis_elegans
+SACCHAROMYCESCEREVISIAE	saccharomyces_cerevisiae
+SACCHAROMYCESCEREVISIAE	saccharomyces_cerevisiae

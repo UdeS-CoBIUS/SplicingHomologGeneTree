@@ -1,0 +1,1 @@
+((ENSAPLG00000030992__Anas_platyrhynchos_platyrhynchos,ENSZALG00000016994__Zonotrichia_albicollis),ENSFHEG00000019664__Fundulus_heteroclitus);

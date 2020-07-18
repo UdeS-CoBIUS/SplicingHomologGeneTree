@@ -1,1 +1,0 @@
-(((ENSTGEG00000021875__Theropithecus_gelada,ENSMNEG00000039683__Macaca_nemestrina),ENSPTEG00000022662__Piliocolobus_tephrosceles),ENSPSMG00000001780__Prolemur_simus);

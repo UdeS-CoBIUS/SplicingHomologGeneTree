@@ -1,1 +1,0 @@
-((((ENSFALG00000000345__Ficedula_albicollis,ENSFALG00000001847__Ficedula_albicollis),ENSFALG00000000342__Ficedula_albicollis),ENSFALG00000004548__Ficedula_albicollis),(ENSCAFG00000031779__Canis_lupus_familiaris,ENSMODG00000028509__Monodelphis_domestica));

@@ -1,0 +1,1 @@
+((((ENSMALG00000020881__Monopterus_albus,ENSPMGG00000020861__Periophthalmus_magnuspinnatus),(ENSPNAG00000010485__Pygocentrus_nattereri,ENSIPUG00000019479__Ictalurus_punctatus)),ENSPKIG00000006900__Paramormyrops_kingsleyae),ENSLOCG00000018099__Lepisosteus_oculatus);

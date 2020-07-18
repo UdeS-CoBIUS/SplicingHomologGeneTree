@@ -1,0 +1,1 @@
+((ENSTGUG00000004417__Taeniopygia_guttata,ENSCPGG00000000877__Calidris_pygmaea),ENSGACG00000019655__Gasterosteus_aculeatus);

@@ -1,0 +1,4 @@
+CALIDRISPUGNAX	calidris_pugnax
+CALIDRISPUGNAX	calidris_pugnax
+CALIDRISPYGMAEA	calidris_pygmaea
+CALIDRISPYGMAEA	calidris_pygmaea

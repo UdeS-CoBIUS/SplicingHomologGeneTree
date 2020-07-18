@@ -1,0 +1,1 @@
+(((ENSLCRG00005003034__Larimichthys_crocea,ENSGACG00000009762__Gasterosteus_aculeatus),ENSSDUG00000012319__Seriola_dumerili),((ENSAMXG00000033507__Astyanax_mexicanus_Astyanax_mexicanus-2.0,ENSAMXG00000032431__Astyanax_mexicanus_Astyanax_mexicanus-2.0),ENSAMXG00005008734__Astyanax_mexicanus_Astyanax_mexicanus-1.0.2));

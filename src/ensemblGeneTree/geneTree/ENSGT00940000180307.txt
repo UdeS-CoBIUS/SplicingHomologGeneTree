@@ -1,0 +1,1 @@
+((ENSXCOG00000006040__Xiphophorus_couchianus,ENSGAFG00000014191__Gambusia_affinis),ENSTRUG00000024687__Takifugu_rubripes);

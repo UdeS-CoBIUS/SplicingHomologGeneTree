@@ -1,0 +1,6 @@
+MACACAMULATTA	macaca_mulatta
+MACACAMULATTA	macaca_mulatta
+RHINOPITHECUSROXELLANA	rhinopithecus_roxellana
+PANTROGLODYTES	pan_troglodytes
+PANPANISCUS	pan_paniscus
+GORILLAGORILLA	gorilla_gorilla

@@ -1,0 +1,1 @@
+(ENSATEG00000012306__Anabas_testudineus,ENSARWG00000013694__Apteryx_rowi);

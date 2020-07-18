@@ -1,0 +1,1 @@
+(((ENSMMUG00000040830__Macaca_mulatta,ENSMFAG00000041418__Macaca_fascicularis),ENSCATG00000034402__Cercocebus_atys),(((ENSG00000212719__Homo_sapiens,ENSPTRG00000040701__Pan_troglodytes),ENSPPYG00000008856__Pongo_abelii),ENSNLEG00000013496__Nomascus_leucogenys));

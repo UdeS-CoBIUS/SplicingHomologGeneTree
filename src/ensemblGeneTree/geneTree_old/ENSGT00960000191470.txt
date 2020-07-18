@@ -1,1 +1,0 @@
-(ENSUAMG00000025614__Ursus_americanus,ENSBBBG00000003144__Bison_bison_bison);

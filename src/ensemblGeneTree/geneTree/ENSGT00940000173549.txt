@@ -1,0 +1,1 @@
+((ENSTGUG00000011597__Taeniopygia_guttata,ENSNMEG00000005870__Numida_meleagris),ENSMEUG00000013899__Notamacropus_eugenii);

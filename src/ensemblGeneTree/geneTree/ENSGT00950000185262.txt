@@ -1,0 +1,1 @@
+((((((ENSJHYG00000014373__Junco_hyemalis,ENSZALG00000003551__Zonotrichia_albicollis),ENSCPGG00000000571__Calidris_pygmaea),ENSSCAG00000000206__Serinus_canaria),ENSABRG00000010018__Anser_brachyrhynchus),ENSCPBG00000006409__Chrysemys_picta_bellii),ENSPCIG00000019665__Phascolarctos_cinereus);

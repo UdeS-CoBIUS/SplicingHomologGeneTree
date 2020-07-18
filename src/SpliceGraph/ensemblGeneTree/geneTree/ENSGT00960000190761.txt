@@ -1,0 +1,1 @@
+((ENSSMRG00000023067__Salvator_merianae,ENSSCAG00000002788__Serinus_canaria),ENSSDAG00000003422__Spermophilus_dauricus);

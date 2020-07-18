@@ -1,0 +1,4 @@
+ASTATOTILAPIACALLIPTERA	astatotilapia_calliptera
+PUNDAMILIANYEREREI	pundamilia_nyererei
+MAYLANDIAZEBRA	maylandia_zebra
+HAPLOCHROMISBURTONI	haplochromis_burtoni

@@ -1,1 +1,0 @@
-(((ENSHCOG00000009399__Hippocampus_comes,ENSCSEG00000015744__Cynoglossus_semilaevis),(ENSCCEG00000001291__Cyanistes_caeruleus,ENSAPLG00000014059__Anas_platyrhynchos_platyrhynchos)),ENSCING00000021774__Ciona_intestinalis);

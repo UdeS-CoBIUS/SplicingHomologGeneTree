@@ -1,0 +1,1 @@
+(((ENSDNVG00000000965__Dromaius_novaehollandiae,ENSAOWG00000002929__Apteryx_owenii),(ENSCCEG00000000769__Cyanistes_caeruleus,ENSZALG00000015430__Zonotrichia_albicollis)),(ENSCABG00000009993__Chelonoidis_abingdonii,ENSGAGG00000018465__Gopherus_agassizii));

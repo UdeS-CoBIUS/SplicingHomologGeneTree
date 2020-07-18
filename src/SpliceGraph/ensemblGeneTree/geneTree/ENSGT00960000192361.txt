@@ -1,0 +1,1 @@
+(ENSAHAG00000019008__Apteryx_haastii,ENSAPLG00000022217__Anas_platyrhynchos_platyrhynchos);

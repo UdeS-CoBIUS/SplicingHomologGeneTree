@@ -1,0 +1,1 @@
+((((ENSGGOG00000042624__Gorilla_gorilla,ENSRROG00000013038__Rhinopithecus_roxellana),ENSUAMG00000017331__Ursus_americanus),(ENSMMMG00000006505__Marmota_marmota_marmota,ENSSTOG00000030824__Ictidomys_tridecemlineatus)),ENSCPBG00000001515__Chrysemys_picta_bellii);

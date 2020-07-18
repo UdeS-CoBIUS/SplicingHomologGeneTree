@@ -1,0 +1,1 @@
+((ENSORLG00020014847__Oryzias_latipes_ASM223471v1,ENSSLDG00000021784__Seriola_lalandi_dorsalis),ENSGMOG00000005204__Gadus_morhua);

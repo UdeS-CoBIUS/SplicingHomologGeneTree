@@ -1,1 +1,0 @@
-(ENSPCAG00000012243__Procavia_capensis,ENSEEUG00000011293__Erinaceus_europaeus);

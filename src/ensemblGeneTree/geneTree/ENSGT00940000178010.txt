@@ -1,0 +1,1 @@
+((ENSMMOG00000016266__Mola_mola,ENSTRUG00000024814__Takifugu_rubripes),((((ENSGAFG00000009409__Gambusia_affinis,ENSXCOG00000012637__Xiphophorus_couchianus),ENSPLAG00000011241__Poecilia_latipinna),ENSSPAG00000020404__Stegastes_partitus),ENSATEG00000004123__Anabas_testudineus));

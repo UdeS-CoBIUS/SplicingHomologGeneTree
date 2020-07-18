@@ -1,0 +1,1 @@
+(((((ENSMSIG00000023406__Mus_spicilegus,ENSRNOG00000055642__Rattus_norvegicus),ENSMUGG00000011270__Meriones_unguiculatus),ENSPEMG00000030413__Peromyscus_maniculatus_bairdii),ENSUPAG00010023527__Urocitellus_parryii),(ENSUAMG00000020169__Ursus_americanus,ENSUMAG00000021052__Ursus_maritimus));

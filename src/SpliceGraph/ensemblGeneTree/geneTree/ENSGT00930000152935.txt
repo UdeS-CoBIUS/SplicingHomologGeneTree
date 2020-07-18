@@ -1,0 +1,1 @@
+((((((ENSBBBG00000010059__Bison_bison_bison,ENSODEG00000015546__Octodon_degus),ENSPPRG00000020382__Panthera_pardus),ENSAPLG00000024222__Anas_platyrhynchos_platyrhynchos),ENSNSUG00000011316__Notechis_scutatus),ENSCABG00000018103__Chelonoidis_abingdonii),ENSSLDG00000005396__Seriola_lalandi_dorsalis);

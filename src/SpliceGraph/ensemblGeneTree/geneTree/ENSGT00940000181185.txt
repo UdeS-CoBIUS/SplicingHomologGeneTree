@@ -1,0 +1,1 @@
+(ENSSMAG00000020143__Scophthalmus_maximus,ENSORLG00015011502__Oryzias_latipes_ASM223469v1);

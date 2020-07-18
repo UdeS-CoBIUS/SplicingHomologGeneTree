@@ -1,0 +1,1 @@
+(((ENSLCOG00000000221__Lepidothrix_coronata,ENSMUNG00000010167__Melopsittacus_undulatus),ENSAPLG00000023412__Anas_platyrhynchos_platyrhynchos),(ENSGAGG00000018006__Gopherus_agassizii,ENSCABG00000002168__Chelonoidis_abingdonii));

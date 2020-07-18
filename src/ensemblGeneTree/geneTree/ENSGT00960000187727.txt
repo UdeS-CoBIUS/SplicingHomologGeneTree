@@ -1,0 +1,1 @@
+((ENSUAMG00000013722__Ursus_americanus,ENSMICG00000047149__Microcebus_murinus),ENSORLG00015010772__Oryzias_latipes_ASM223469v1);

@@ -1,0 +1,1 @@
+(((ENSCABG00000020355__Chelonoidis_abingdonii,ENSUAMG00000019836__Ursus_americanus),ENSCPUG00000015873__Calidris_pugnax),ENSAMXG00000029897__Astyanax_mexicanus);

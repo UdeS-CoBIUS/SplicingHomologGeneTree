@@ -1,1 +1,0 @@
-(((ENSMGAG00000017367__Meleagris_gallopavo,ENSEASG00005008910__Equus_asinus_asinus),ENSEBUG00000000845__Eptatretus_burgeri),(ENSCSAVG00000008845__Ciona_savignyi,ENSCING00000008877__Ciona_intestinalis));

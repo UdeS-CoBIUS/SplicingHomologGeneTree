@@ -1,1 +1,0 @@
-((((ENSCCNG00000021811__Castor_canadensis,ENSPEMG00000026184__Peromyscus_maniculatus_bairdii),ENSSDAG00000016171__Spermophilus_dauricus),ENSANAG00000023515__Aotus_nancymaae),((ENSVVUG00000002830__Vulpes_vulpes,ENSUAMG00000013420__Ursus_americanus),ENSPTIG00000000775__Panthera_tigris_altaica));

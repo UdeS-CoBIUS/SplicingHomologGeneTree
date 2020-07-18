@@ -1,0 +1,1 @@
+((((ENSMALG00000017116__Monopterus_albus,ENSMALG00000016624__Monopterus_albus),(ENSPFOG00000022153__Poecilia_formosa,ENSOMEG00000010807__Oryzias_melastigma)),ENSTNIG00000009232__Tetraodon_nigroviridis),(ENSPMAG00000001463__Petromyzon_marinus,ENSPMAG00000008786__Petromyzon_marinus));

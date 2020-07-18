@@ -1,0 +1,1 @@
+(((ENSABRG00000002399__Anser_brachyrhynchus,ENSSMRG00000015189__Salvator_merianae),(ENSMODG00000029477__Monodelphis_domestica,ENSAMEG00000019021__Ailuropoda_melanoleuca)),ENSLACG00000012060__Latimeria_chalumnae);

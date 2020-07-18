@@ -1,1 +1,0 @@
-(((ENSPTEG00000023573__Piliocolobus_tephrosceles,ENSCANG00000031941__Colobus_angolensis_palliatus),(ENSPANG00000035117__Papio_anubis,ENSMLEG00000042455__Mandrillus_leucophaeus)),ENSGGOG00000036617__Gorilla_gorilla);

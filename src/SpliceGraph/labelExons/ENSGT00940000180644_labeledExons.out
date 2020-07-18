@@ -1,0 +1,15 @@
+>0
+ENSAPOT00000030685: ['no event', 118, 0]
+ENSLBET00000039271: ['exon skipping', 0, 0]
+>1
+ENSAPOT00000030685: ['exon skipping', 0, 0]
+ENSLBET00000039271: ['5event', 25, 0]
+>2
+ENSAPOT00000030685: ['5event', 87, 2]
+ENSLBET00000039271: ['exon skipping', 0, 0]
+>3
+ENSAPOT00000030685: ['exon skipping', 0, 0]
+ENSLBET00000039271: ['5event', 140, 2]
+>4
+ENSAPOT00000030685: ['exon skipping', 0, 0]
+ENSLBET00000039271: ['no event', 48, 2]

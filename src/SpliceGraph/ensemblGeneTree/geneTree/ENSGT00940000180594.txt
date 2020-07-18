@@ -1,0 +1,1 @@
+(ENSACIG00000019625__Amphilophus_citrinellus,ENSTRUG00000024217__Takifugu_rubripes);

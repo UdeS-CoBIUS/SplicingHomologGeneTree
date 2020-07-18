@@ -1,0 +1,1 @@
+((ENSPSIG00000001666__Pelodiscus_sinensis,ENSPSIG00000006051__Pelodiscus_sinensis),ENSNMEG00000001397__Numida_meleagris);

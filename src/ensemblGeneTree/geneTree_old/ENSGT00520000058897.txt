@@ -1,1 +1,0 @@
-(ENSMPUG00000013169__Mustela_putorius_furo,ENSTBEG00000002204__Tupaia_belangeri);

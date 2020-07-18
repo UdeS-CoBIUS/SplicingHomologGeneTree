@@ -1,1 +1,0 @@
-(ENSSFOG00015009995__Scleropages_formosus,ENSSFOG00015012692__Scleropages_formosus);

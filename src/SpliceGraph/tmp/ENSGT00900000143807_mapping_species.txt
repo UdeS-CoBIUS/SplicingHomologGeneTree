@@ -1,0 +1,9 @@
+URSUSAMERICANUS	ursus_americanus
+URSUSMARITIMUS	ursus_maritimus
+NEOVISONVISON	neovison_vison
+CERCOCEBUSATYS	cercocebus_atys
+PAPIOANUBIS	papio_anubis
+PILIOCOLOBUSTEPHROSCELES	piliocolobus_tephrosceles
+NOMASCUSLEUCOGENYS	nomascus_leucogenys
+CALLITHRIXJACCHUS	callithrix_jacchus
+PROPITHECUSCOQUERELI	propithecus_coquereli

@@ -1,0 +1,1 @@
+(((((ENSGGOG00000004945__Gorilla_gorilla,ENSPTRG00000012136__Pan_troglodytes),ENSNLEG00000002000__Nomascus_leucogenys),ENSTBEG00000001179__Tupaia_belangeri),ENSCHOG00000004152__Choloepus_hoffmanni),ENSPNYG00000006968__Pundamilia_nyererei);

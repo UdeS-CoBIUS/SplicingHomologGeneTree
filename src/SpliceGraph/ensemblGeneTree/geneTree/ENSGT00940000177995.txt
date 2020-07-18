@@ -1,0 +1,1 @@
+(((((ENSAMXG00000038180__Astyanax_mexicanus,ENSPNAG00000010754__Pygocentrus_nattereri),ENSAMXG00000036999__Astyanax_mexicanus),ENSSLDG00000010811__Seriola_lalandi_dorsalis),ENSPKIG00000010844__Paramormyrops_kingsleyae),ENSEBUG00000004733__Eptatretus_burgeri);

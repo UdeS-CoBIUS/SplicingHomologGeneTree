@@ -1,1 +1,0 @@
-(((ENSCING00000019669__Ciona_intestinalis,ENSCING00000012503__Ciona_intestinalis),ENSCSAVG00000004910__Ciona_savignyi),ENSDARG00000063577__Danio_rerio);

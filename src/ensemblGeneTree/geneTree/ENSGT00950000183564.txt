@@ -1,0 +1,1 @@
+(((((ENSPTRG00000031445__Pan_troglodytes,ENSPPAG00000032522__Pan_paniscus),ENSG00000206102__Homo_sapiens),ENSTSYG00000002390__Carlito_syrichta),(ENSPCOG00000014486__Propithecus_coquereli,ENSMICG00000044709__Microcebus_murinus)),((ENSPTIG00000005210__Panthera_tigris_altaica,ENSPPRG00000011993__Panthera_pardus),ENSNVIG00000004624__Neovison_vison));

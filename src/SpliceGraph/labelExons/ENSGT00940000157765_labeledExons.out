@@ -1,0 +1,24 @@
+>0
+ENSCHAT00000044929: ['no event', 230, 0]
+ENSDCDT00000062375: ['no event', 230, 0]
+>1
+ENSCHAT00000044929: ['no event', 61, 0]
+ENSDCDT00000062375: ['no event', 61, 0]
+>2
+ENSCHAT00000044929: ['no event', 121, 2]
+ENSDCDT00000062375: ['no event', 121, 2]
+>3
+ENSCHAT00000044929: [['internal gap < 30', 226, 7], 970, 1]
+ENSDCDT00000062375: [['internal gap >= 30', 474, 181], 796, 1]
+>4
+ENSCHAT00000044929: ['no event', 485, 0]
+ENSDCDT00000062375: ['no event', 485, 0]
+>5
+ENSCHAT00000044929: ['no event', 143, 0]
+ENSDCDT00000062375: ['no event', 143, 0]
+>6
+ENSCHAT00000044929: ['no event', 154, 0]
+ENSDCDT00000062375: ['no event', 154, 0]
+>7
+ENSCHAT00000044929: ['no event', 219, 2]
+ENSDCDT00000062375: ['no event', 219, 2]

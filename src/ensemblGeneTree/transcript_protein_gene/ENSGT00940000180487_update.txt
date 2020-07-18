@@ -1,0 +1,3 @@
+YBL109W_mRNA	YBL109W	Saccharomyces_cerevisiae_strain_S288C
+YDR544C_mRNA	YDR544C	Saccharomyces_cerevisiae_strain_S288C
+YHR217C_mRNA	YHR217C	Saccharomyces_cerevisiae_strain_S288C

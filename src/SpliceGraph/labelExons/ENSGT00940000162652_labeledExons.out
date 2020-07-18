@@ -1,0 +1,10 @@
+>0
+ENSCLAT00000011198: ['no event', 1508, 0]
+ENSCLAT00000017235: ['exon skipping', 0, 0]
+ENSODET00000027463: [['internal gap < 30', 341, 6], 1502, 0]
+ENSCPOT00000031698: ['no event', 1508, 0]
+>1
+ENSCLAT00000011198: ['exon skipping', 0, 0]
+ENSCLAT00000017235: ['5event', 1508, 0]
+ENSODET00000027463: ['exon skipping', 0, 0]
+ENSCPOT00000031698: ['exon skipping', 0, 0]

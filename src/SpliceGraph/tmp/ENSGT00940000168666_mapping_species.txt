@@ -1,0 +1,5 @@
+SPHENODONPUNCTATUS	sphenodon_punctatus
+ANOLISCAROLINENSIS	anolis_carolinensis
+LOXODONTAAFRICANA	loxodonta_africana
+PETROMYZONMARINUS	petromyzon_marinus
+CIONAINTESTINALIS	ciona_intestinalis

@@ -1,0 +1,1 @@
+(((ENSMMUG00000042353__Macaca_mulatta,ENSMFAG00000030277__Macaca_fascicularis),ENSCATG00000030543__Cercocebus_atys),ENSCANG00000005902__Colobus_angolensis_palliatus);

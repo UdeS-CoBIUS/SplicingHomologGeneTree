@@ -1,0 +1,1 @@
+(((ENSCCAG00000029538__Cebus_capucinus_imitator,ENSANAG00000032228__Aotus_nancymaae),(((ENSRROG00000044276__Rhinopithecus_roxellana,ENSRBIG00000021387__Rhinopithecus_bieti),ENSCANG00000040715__Colobus_angolensis_palliatus),ENSMMUG00000045516__Macaca_mulatta)),ENSNVIG00000000264__Neovison_vison);

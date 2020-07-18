@@ -1,0 +1,3 @@
+POECILIAMEXICANA	poecilia_mexicana
+POECILIALATIPINNA	poecilia_latipinna
+POECILIARETICULATA	poecilia_reticulata

@@ -1,1 +1,0 @@
-(ENSATEG00000016320__Anabas_testudineus,ENSPMGG00000000149__Periophthalmus_magnuspinnatus);

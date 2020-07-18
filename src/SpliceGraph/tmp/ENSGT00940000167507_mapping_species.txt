@@ -1,0 +1,8 @@
+BOSMUTUS	bos_mutus
+BOSTAURUS	bos_taurus
+BISONBISONBISON	bison_bison_bison
+OVISARIES	ovis_aries
+CAPRAHIRCUS	capra_hircus
+AILUROPODAMELANOLEUCA	ailuropoda_melanoleuca
+CALLITHRIXJACCHUS	callithrix_jacchus
+MONODELPHISDOMESTICA	monodelphis_domestica

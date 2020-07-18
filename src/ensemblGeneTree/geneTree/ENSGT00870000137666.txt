@@ -1,0 +1,1 @@
+(ENSGGOG00000024622__Gorilla_gorilla,ENSMMUG00000038113__Macaca_mulatta);

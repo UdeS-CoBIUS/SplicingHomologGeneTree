@@ -1,0 +1,1 @@
+(((((ENSPCOG00000022549__Propithecus_coquereli,ENSNGAG00000001246__Nannospalax_galili),(ENSCAFG00020011439__Canis_lupus_dingo,ENSPPRG00000010966__Panthera_pardus)),ENSODEG00000010911__Octodon_degus),ENSNSUG00000019081__Notechis_scutatus),ENSAPOG00000012287__Acanthochromis_polyacanthus);

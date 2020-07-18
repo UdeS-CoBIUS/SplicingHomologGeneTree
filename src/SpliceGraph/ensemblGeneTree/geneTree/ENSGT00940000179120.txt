@@ -1,0 +1,1 @@
+((ENSTRUG00000025228__Takifugu_rubripes,ENSTRUG00000024755__Takifugu_rubripes),ENSELUG00000023575__Esox_lucius);

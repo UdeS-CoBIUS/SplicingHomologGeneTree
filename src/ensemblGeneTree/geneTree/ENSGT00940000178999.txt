@@ -1,0 +1,1 @@
+(((ENSSLDG00000003860__Seriola_lalandi_dorsalis,ENSMMOG00000014238__Mola_mola),ENSPMGG00000009661__Periophthalmus_magnuspinnatus),ENSATEG00000006963__Anabas_testudineus);

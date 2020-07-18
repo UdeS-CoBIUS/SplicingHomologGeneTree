@@ -1,0 +1,1 @@
+((((ENSLOCG00000000293__Lepisosteus_oculatus,ENSLOCG00000000500__Lepisosteus_oculatus),ENSLOCG00000003150__Lepisosteus_oculatus),ENSLOCG00000000142__Lepisosteus_oculatus),ENSEBUG00000005972__Eptatretus_burgeri);

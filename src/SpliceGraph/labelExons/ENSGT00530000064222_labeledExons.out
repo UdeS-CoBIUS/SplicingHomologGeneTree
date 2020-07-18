@@ -1,0 +1,16 @@
+>0
+ENSACAT00000016653: ['exon skipping', 0, 0]
+ENSPVIT00000029958: ['no event', 77, 0]
+ENSNSUT00000002244: ['exon skipping', 0, 0]
+>1
+ENSACAT00000016653: ['5event', ['internal gap >= 30', 429, 67], 698, 0]
+ENSPVIT00000029958: [['internal gap >= 30', 559, 147], 618, 0]
+ENSNSUT00000002244: ['5event', ['internal gap >= 30', 339, 367], 398, 0]
+>2
+ENSACAT00000016653: ['3event', 345, 0]
+ENSPVIT00000029958: ['3event', 257, 0]
+ENSNSUT00000002244: ['no event', 378, 0]
+>3
+ENSACAT00000016653: ['5event', ['internal gap < 30', 11, 27], 828, 2]
+ENSPVIT00000029958: ['5event', ['internal gap < 30', 299, 17], 838, 1]
+ENSNSUT00000002244: [['internal gap < 30', 306, 6], 849, 1]

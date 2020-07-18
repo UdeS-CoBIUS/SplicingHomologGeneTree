@@ -1,1 +1,0 @@
-(FBgn0011581__Drosophila_melanogaster,ENSGACG00000015816__Gasterosteus_aculeatus);

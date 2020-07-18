@@ -1,1 +1,0 @@
-(((ENSPNYG00000011491__Pundamilia_nyererei,ENSGMOG00000003466__Gadus_morhua),(((ENSMFAG00000033121__Macaca_fascicularis,ENSCJAG00000047461__Callithrix_jacchus),ENSOANG00000021588__Ornithorhynchus_anatinus),ENSTGUG00000003732__Taeniopygia_guttata)),ENSEBUG00000012223__Eptatretus_burgeri);

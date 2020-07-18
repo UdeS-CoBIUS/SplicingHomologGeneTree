@@ -1,0 +1,1 @@
+((ENSORLG00020002604__Oryzias_latipes_ASM223471v1,ENSSPAG00000023484__Stegastes_partitus),ENSECRG00000012123__Erpetoichthys_calabaricus);

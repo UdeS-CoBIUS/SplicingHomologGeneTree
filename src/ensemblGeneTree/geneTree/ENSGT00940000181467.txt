@@ -1,0 +1,1 @@
+((ENSABRG00000008718__Anser_brachyrhynchus,ENSCPUG00000001670__Calidris_pugnax),(ENSAPOG00000006494__Acanthochromis_polyacanthus,ENSFHEG00000008147__Fundulus_heteroclitus));

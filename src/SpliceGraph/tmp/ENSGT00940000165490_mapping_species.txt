@@ -1,0 +1,14 @@
+PONGOABELII	pongo_abelii
+HOMOSAPIENS	homo_sapiens
+NOMASCUSLEUCOGENYS	nomascus_leucogenys
+PAPIOANUBIS	papio_anubis
+THEROPITHECUSGELADA	theropithecus_gelada
+MACACAFASCICULARIS	macaca_fascicularis
+MACACANEMESTRINA	macaca_nemestrina
+MACACAMULATTA	macaca_mulatta
+MANDRILLUSLEUCOPHAEUS	mandrillus_leucophaeus
+CERCOCEBUSATYS	cercocebus_atys
+CHLOROCEBUSSABAEUS	chlorocebus_sabaeus
+RHINOPITHECUSROXELLANA	rhinopithecus_roxellana
+RHINOPITHECUSBIETI	rhinopithecus_bieti
+COLOBUSANGOLENSIS	colobus_angolensis

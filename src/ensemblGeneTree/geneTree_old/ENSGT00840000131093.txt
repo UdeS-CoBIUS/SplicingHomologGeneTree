@@ -1,1 +1,0 @@
-((ENSPSIG00000002234__Pelodiscus_sinensis,ENSGALG00000052306__Gallus_gallus),ENSCAFG00000031401__Canis_lupus_familiaris);

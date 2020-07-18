@@ -1,0 +1,3 @@
+FUNDULUSHETEROCLITUS	fundulus_heteroclitus
+XIPHOPHORUSCOUCHIANUS	xiphophorus_couchianus
+ORYZIASLATIPESASM223469V1	oryzias_latipes_asm223469v1

@@ -1,0 +1,1 @@
+((((ENSCSEG00000011222__Cynoglossus_semilaevis,ENSCVAG00000018479__Cyprinodon_variegatus),ENSATEG00000005798__Anabas_testudineus),ENSHCOG00000020124__Hippocampus_comes),ENSPKIG00000005312__Paramormyrops_kingsleyae);

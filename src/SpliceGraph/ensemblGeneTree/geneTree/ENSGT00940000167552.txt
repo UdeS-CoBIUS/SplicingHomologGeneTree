@@ -1,0 +1,1 @@
+((((ENSAMEG00000006717__Ailuropoda_melanoleuca,ENSCAFG00000024449__Canis_lupus_familiaris),ENSOCUG00000025024__Oryctolagus_cuniculus),ENSOANG00000000631__Ornithorhynchus_anatinus),(ENSTGUG00000013719__Taeniopygia_guttata,ENSTGUG00000002505__Taeniopygia_guttata));

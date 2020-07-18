@@ -1,0 +1,1 @@
+(ENSAPLG00000016934__Anas_platyrhynchos_platyrhynchos,ENSPVAG00000009155__Pteropus_vampyrus);

@@ -1,0 +1,1 @@
+(((ENSDNVG00000016022__Dromaius_novaehollandiae,ENSNPEG00000001333__Nothoprocta_perdicaria),(((ENSNMEG00000007729__Numida_meleagris,ENSCJPG00005020367__Coturnix_japonica),ENSAPLG00000007140__Anas_platyrhynchos_platyrhynchos),ENSCCEG00000024264__Cyanistes_caeruleus)),ENSNSUG00000008287__Notechis_scutatus);

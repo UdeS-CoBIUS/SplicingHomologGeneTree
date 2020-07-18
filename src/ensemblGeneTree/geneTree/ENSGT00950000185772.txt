@@ -1,0 +1,1 @@
+((ENSEASG00005000068__Equus_asinus_asinus,ENSMUGG00000025823__Meriones_unguiculatus),ENSPCIG00000002813__Phascolarctos_cinereus);

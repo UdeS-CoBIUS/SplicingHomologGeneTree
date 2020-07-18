@@ -1,0 +1,1 @@
+((ENSUMAG00000024638__Ursus_maritimus,ENSBBBG00000004299__Bison_bison_bison),ENSSDAG00000007599__Spermophilus_dauricus);

@@ -1,0 +1,1 @@
+((ENSTRUG00000014877__Takifugu_rubripes,ENSTNIG00000001419__Tetraodon_nigroviridis),(ENSPNYG00000012101__Pundamilia_nyererei,ENSNBRG00000013435__Neolamprologus_brichardi));

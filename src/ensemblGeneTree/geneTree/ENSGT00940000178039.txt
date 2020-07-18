@@ -1,0 +1,1 @@
+((((ENSGAFG00000017975__Gambusia_affinis,ENSSLDG00000012581__Seriola_lalandi_dorsalis),ENSMALG00000019074__Monopterus_albus),ENSIPUG00000009433__Ictalurus_punctatus),((ENSSFOG00015006771__Scleropages_formosus,ENSSFOG00015005907__Scleropages_formosus),ENSSFOG00015006853__Scleropages_formosus));

@@ -1,0 +1,1 @@
+(((ENSTSYG00000031337__Carlito_syrichta,ENSTGEG00000022962__Theropithecus_gelada),(ENSMAUG00000020084__Mesocricetus_auratus,ENSCGRG00000007918__Cricetulus_griseus_CriGri_1.0)),(ENSBMUG00000015731__Bos_mutus,ENSBBBG00000001435__Bison_bison_bison));

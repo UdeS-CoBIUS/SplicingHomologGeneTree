@@ -1,0 +1,20 @@
+>0
+ENSMSIT00000046425: ['no event', 708, 0]
+ENSMSIT00000046427: ['no event', 708, 0]
+ENSMUGT00000029754: ['no event', 708, 0]
+>1
+ENSMSIT00000046425: ['no event', 17, 1]
+ENSMSIT00000046427: ['no event', 17, 1]
+ENSMUGT00000029754: ['exon skipping', 0, 0]
+>2
+ENSMSIT00000046425: ['no event', 29, 1]
+ENSMSIT00000046427: ['no event', 29, 1]
+ENSMUGT00000029754: ['exon skipping', 0, 0]
+>3
+ENSMSIT00000046425: ['no event', 19, 1]
+ENSMSIT00000046427: ['no event', 19, 1]
+ENSMUGT00000029754: ['exon skipping', 0, 0]
+>4
+ENSMSIT00000046425: ['exon skipping', 0, 0]
+ENSMSIT00000046427: ['exon skipping', 0, 0]
+ENSMUGT00000029754: ['5event', 58, 1]

@@ -1,0 +1,1 @@
+(((((ENSUAMG00000025522__Ursus_americanus,ENSNVIG00000003743__Neovison_vison),ENSPVAG00000012361__Pteropus_vampyrus),ENSEEUG00000000669__Erinaceus_europaeus),ENSPSMG00000005957__Prolemur_simus),ENSETEG00000018208__Echinops_telfairi);

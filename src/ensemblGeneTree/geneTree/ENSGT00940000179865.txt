@@ -1,0 +1,1 @@
+((ENSGAFG00000000087__Gambusia_affinis,ENSSMAG00000000046__Scophthalmus_maximus),ENSTRUG00000022217__Takifugu_rubripes);

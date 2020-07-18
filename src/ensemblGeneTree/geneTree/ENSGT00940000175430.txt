@@ -1,0 +1,1 @@
+((ENSXMAG00000021442__Xiphophorus_maculatus,ENSAMXG00000037443__Astyanax_mexicanus),(((ENSAOCG00000014093__Amphiprion_ocellaris,ENSCPUG00000005778__Calidris_pugnax),ENSAMXG00000036310__Astyanax_mexicanus),((ENSVVUG00000013001__Vulpes_vulpes,ENSSHAG00000011657__Sarcophilus_harrisii),ENSXMAG00000025743__Xiphophorus_maculatus)));

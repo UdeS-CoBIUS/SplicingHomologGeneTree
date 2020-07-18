@@ -1,0 +1,1 @@
+(((ENSCVAG00000016561__Cyprinodon_variegatus,ENSORLG00020016296__Oryzias_latipes_ASM223471v1),((((ENSUAMG00000012560__Ursus_americanus,ENSNVIG00000019397__Neovison_vison),ENSBMUG00000021358__Bos_mutus),ENSPPAG00000023019__Pan_paniscus),(ENSABRG00000022598__Anser_brachyrhynchus,ENSNPEG00000006087__Nothoprocta_perdicaria))),ENSEBUG00000012909__Eptatretus_burgeri);

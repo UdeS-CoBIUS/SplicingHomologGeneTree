@@ -1,0 +1,14 @@
+PROLEMURSIMUS	prolemur_simus
+PROLEMURSIMUS	prolemur_simus
+MACACAMULATTA	macaca_mulatta
+PAPIOANUBIS	papio_anubis
+PILIOCOLOBUSTEPHROSCELES	piliocolobus_tephrosceles
+CALLITHRIXJACCHUS	callithrix_jacchus
+SPERMOPHILUSDAURICUS	spermophilus_dauricus
+MARMOTAMARMOTAMARMOTA	marmota_marmota_marmota
+MUSSPICILEGUS	mus_spicilegus
+VULPESVULPES	vulpes_vulpes
+PANTHERAPARDUS	panthera_pardus
+CAPRAHIRCUS	capra_hircus
+BISONBISONBISON	bison_bison_bison
+EQUUSASINUSASINUS	equus_asinus_asinus

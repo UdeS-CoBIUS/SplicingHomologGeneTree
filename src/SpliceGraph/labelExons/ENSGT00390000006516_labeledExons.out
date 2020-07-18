@@ -1,0 +1,20 @@
+>0
+ENSLAFT00000032098: ['no event', 299, 0]
+ENSLAFT00000025583: ['no event', 299, 0]
+ENSLAFT00000031905: ['no event', 299, 0]
+ENSDCDT00000035015: ['5event', 272, 0]
+>1
+ENSLAFT00000032098: ['exon skipping', 0, 0]
+ENSLAFT00000025583: ['exon skipping', 0, 0]
+ENSLAFT00000031905: ['exon skipping', 0, 0]
+ENSDCDT00000035015: ['no event', 83, 0]
+>2
+ENSLAFT00000032098: ['5event', 6, 0]
+ENSLAFT00000025583: ['5event', 6, 0]
+ENSLAFT00000031905: ['5event', 5, 0]
+ENSDCDT00000035015: ['exon skipping', 0, 0]
+>3
+ENSLAFT00000032098: ['no event', 19, 1]
+ENSLAFT00000025583: ['3event', 18, 1]
+ENSLAFT00000031905: ['exon skipping', 0, 0]
+ENSDCDT00000035015: ['exon skipping', 0, 0]

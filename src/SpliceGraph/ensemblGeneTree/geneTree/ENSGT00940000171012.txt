@@ -1,0 +1,1 @@
+((ENSPSIG00000000328__Pelodiscus_sinensis,ENSLACG00000009062__Latimeria_chalumnae),((ENSACLG00000005586__Astatotilapia_calliptera,ENSMZEG00005026367__Maylandia_zebra),ENSGACG00000013596__Gasterosteus_aculeatus));

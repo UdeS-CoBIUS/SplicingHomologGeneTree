@@ -1,0 +1,6 @@
+MACACAMULATTA	macaca_mulatta
+MACACAFASCICULARIS	macaca_fascicularis
+MANDRILLUSLEUCOPHAEUS	mandrillus_leucophaeus
+CERCOCEBUSATYS	cercocebus_atys
+PAPIOANUBIS	papio_anubis
+RHINOPITHECUSBIETI	rhinopithecus_bieti

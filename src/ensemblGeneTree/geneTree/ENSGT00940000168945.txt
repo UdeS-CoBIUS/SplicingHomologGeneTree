@@ -1,0 +1,1 @@
+(((ENSEASG00005011263__Equus_asinus_asinus,ENSECAG00000029928__Equus_caballus),(ENSOARG00000004030__Ovis_aries,ENSBTAG00000025258__Bos_taurus)),((ENSPCIG00000011771__Phascolarctos_cinereus,ENSSHAG00000005950__Sarcophilus_harrisii),ENSMODG00000010540__Monodelphis_domestica));

@@ -1,1 +1,0 @@
-(ENSEBUG00000007153__Eptatretus_burgeri,ENSDNVG00000004917__Dromaius_novaehollandiae);

@@ -1,0 +1,1 @@
+(((ENSCAFG00020012903__Canis_lupus_dingo,ENSVVUG00000000571__Vulpes_vulpes),ENSECAG00000021975__Equus_caballus),ENSCHOG00000000095__Choloepus_hoffmanni);

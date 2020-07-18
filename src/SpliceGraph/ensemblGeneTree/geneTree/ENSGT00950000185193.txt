@@ -1,0 +1,1 @@
+(((ENSCAFG00020023199__Canis_lupus_dingo,ENSCCNG00000026933__Castor_canadensis),ENSAPLG00000019355__Anas_platyrhynchos_platyrhynchos),ENSPKIG00000023627__Paramormyrops_kingsleyae);

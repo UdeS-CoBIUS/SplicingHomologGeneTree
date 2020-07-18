@@ -1,0 +1,12 @@
+>0
+ENSPLAT00000008659: ['no event', 20, 0]
+ENSPLAT00000014835: ['no event', 20, 0]
+ENSPMET00000015486: ['exon skipping', 0, 0]
+>1
+ENSPLAT00000008659: ['exon skipping', 0, 0]
+ENSPLAT00000014835: ['exon skipping', 0, 0]
+ENSPMET00000015486: ['5event', ['internal gap < 30', 13, 9], 66, 0]
+>2
+ENSPLAT00000008659: ['5event', 185, 0]
+ENSPLAT00000014835: ['5event', 185, 0]
+ENSPMET00000015486: [['internal gap >= 30', 1, 55], 131, 1]

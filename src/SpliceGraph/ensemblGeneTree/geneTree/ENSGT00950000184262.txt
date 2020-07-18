@@ -1,0 +1,1 @@
+((ENSHBUG00000012570__Haplochromis_burtoni,ENSACLG00000016683__Astatotilapia_calliptera),ENSACIG00000007830__Amphilophus_citrinellus);

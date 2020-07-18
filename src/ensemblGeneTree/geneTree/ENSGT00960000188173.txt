@@ -1,0 +1,1 @@
+(((((ENSFALG00000003848__Ficedula_albicollis,ENSPMJG00000004331__Parus_major),ENSLCOG00000002505__Lepidothrix_coronata),ENSZALG00000001088__Zonotrichia_albicollis),ENSPMJG00000015564__Parus_major),ENSCSAVG00000002822__Ciona_savignyi);

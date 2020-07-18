@@ -1,0 +1,1 @@
+((ENSCHAG00000016271__Clupea_harengus,ENSDCDG00000035221__Denticeps_clupeoides),((ENSAMXG00000041072__Astyanax_mexicanus_Astyanax_mexicanus-2.0,ENSPNAG00000028609__Pygocentrus_nattereri),ENSDARG00000095400__Danio_rerio));

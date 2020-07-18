@@ -1,1 +1,0 @@
-((((ENSPSMG00000002159__Prolemur_simus,ENSPSMG00000016413__Prolemur_simus),ENSPCOG00000016548__Propithecus_coquereli),ENSCGRG00015019245__Cricetulus_griseus_CriGri-PICR),ENSNVIG00000018065__Neovison_vison);

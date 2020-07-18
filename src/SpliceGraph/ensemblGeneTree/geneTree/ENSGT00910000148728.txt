@@ -1,0 +1,1 @@
+(((ENSCJAG00000040458__Callithrix_jacchus,ENSSBOG00000024325__Saimiri_boliviensis_boliviensis),ENSANAG00000033177__Aotus_nancymaae),(ENSSDAG00000006648__Spermophilus_dauricus,ENSUPAG00010005877__Urocitellus_parryii));

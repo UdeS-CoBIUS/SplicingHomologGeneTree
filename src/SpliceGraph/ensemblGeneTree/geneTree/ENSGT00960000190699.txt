@@ -1,0 +1,1 @@
+((ENSLSDG00000003268__Lonchura_striata_domestica,ENSLCOG00000000155__Lepidothrix_coronata),ENSCPGG00000001503__Calidris_pygmaea);

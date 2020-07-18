@@ -1,0 +1,9 @@
+>0
+ENSCJAT00000077528: ['no event', 83, 0]
+ENSCCAT00000029149: ['no event', 83, 0]
+>1
+ENSCJAT00000077528: ['exon skipping', 0, 0]
+ENSCCAT00000029149: ['no event', 26, 0]
+>2
+ENSCJAT00000077528: ['5event', 137, 0]
+ENSCCAT00000029149: [['internal gap < 30', 2, 18], 121, 0]

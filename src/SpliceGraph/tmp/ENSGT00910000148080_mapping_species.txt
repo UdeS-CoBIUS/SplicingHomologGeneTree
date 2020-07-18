@@ -1,0 +1,3 @@
+MACACAMULATTA	macaca_mulatta
+PAPIOANUBIS	papio_anubis
+NOMASCUSLEUCOGENYS	nomascus_leucogenys

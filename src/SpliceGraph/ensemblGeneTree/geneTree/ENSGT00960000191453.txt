@@ -1,0 +1,1 @@
+(ENSSDAG00000012044__Spermophilus_dauricus,ENSHCOG00000009349__Hippocampus_comes);

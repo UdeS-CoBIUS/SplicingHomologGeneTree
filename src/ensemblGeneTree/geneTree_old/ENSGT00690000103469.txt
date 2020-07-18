@@ -1,1 +1,0 @@
-((ENSMODG00000023182__Monodelphis_domestica,ENSOANG00000012644__Ornithorhynchus_anatinus),ENSACAG00000028575__Anolis_carolinensis);

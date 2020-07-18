@@ -1,0 +1,1 @@
+(((ENSLACG00000012536__Latimeria_chalumnae,ENSPMAG00000007222__Petromyzon_marinus),(ENSCING00000008113__Ciona_intestinalis,ENSCSAVG00000010035__Ciona_savignyi)),FBgn0085434__Drosophila_melanogaster);

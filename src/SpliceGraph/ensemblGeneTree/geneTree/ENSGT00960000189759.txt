@@ -1,0 +1,1 @@
+(((ENSNMEG00000000845__Numida_meleagris,ENSNVIG00000022480__Neovison_vison),(ENSMVIG00005016467__Manacus_vitellinus,ENSOANG00000022627__Ornithorhynchus_anatinus)),ENSFHEG00000019425__Fundulus_heteroclitus);

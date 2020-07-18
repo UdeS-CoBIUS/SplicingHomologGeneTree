@@ -1,0 +1,1 @@
+(((((ENSPTRG00000051950__Pan_troglodytes,ENSNLEG00000033777__Nomascus_leucogenys),(ENSTGEG00000015589__Theropithecus_gelada,ENSMMUG00000037822__Macaca_mulatta)),(ENSCJAG00000044225__Callithrix_jacchus,ENSANAG00000032024__Aotus_nancymaae)),ENSPCOG00000016352__Propithecus_coquereli),ENSNGAG00000019668__Nannospalax_galili);

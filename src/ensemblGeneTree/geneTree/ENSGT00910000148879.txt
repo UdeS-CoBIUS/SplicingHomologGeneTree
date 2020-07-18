@@ -1,0 +1,1 @@
+(((ENSCATG00000030478__Cercocebus_atys,ENSCATG00000033965__Cercocebus_atys),ENSLCOG00000008445__Lepidothrix_coronata),ENSSFOG00015003938__Scleropages_formosus);

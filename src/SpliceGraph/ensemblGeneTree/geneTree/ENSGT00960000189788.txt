@@ -1,0 +1,1 @@
+(((ENSZALG00000004067__Zonotrichia_albicollis,ENSZALG00000004066__Zonotrichia_albicollis),(ENSLSDG00000001052__Lonchura_striata_domestica,ENSSCAG00000001725__Serinus_canaria)),ENSEASG00005000284__Equus_asinus_asinus);

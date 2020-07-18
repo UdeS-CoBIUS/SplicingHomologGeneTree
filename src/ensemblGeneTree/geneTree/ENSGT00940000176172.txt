@@ -1,0 +1,1 @@
+(ENSAPOG00000022547__Acanthochromis_polyacanthus,ENSPCOG00000015320__Propithecus_coquereli);

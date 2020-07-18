@@ -1,0 +1,1 @@
+((ENSAPEG00000020057__Amphiprion_percula,ENSAMXG00000041830__Astyanax_mexicanus),ENSOANG00000001998__Ornithorhynchus_anatinus);

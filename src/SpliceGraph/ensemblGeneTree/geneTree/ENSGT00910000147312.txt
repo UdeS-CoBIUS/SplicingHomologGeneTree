@@ -1,0 +1,1 @@
+(((ENSRBIG00000005121__Rhinopithecus_bieti,ENSCANG00000003088__Colobus_angolensis_palliatus),ENSPTRG00000047070__Pan_troglodytes),(ENSCCAG00000034446__Cebus_capucinus_imitator,ENSSBOG00000028223__Saimiri_boliviensis_boliviensis));

@@ -1,0 +1,1 @@
+((((ENSAMXG00000031581__Astyanax_mexicanus,ENSDARG00000111458__Danio_rerio),ENSACLG00000022331__Astatotilapia_calliptera),ENSMAMG00000020004__Mastacembelus_armatus),ENSMVIG00005002880__Manacus_vitellinus);

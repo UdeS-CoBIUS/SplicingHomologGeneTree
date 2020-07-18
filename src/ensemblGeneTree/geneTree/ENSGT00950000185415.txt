@@ -1,0 +1,1 @@
+((((ENSUMAG00000021224__Ursus_maritimus,ENSUAMG00000027406__Ursus_americanus),ENSSCAG00000000113__Serinus_canaria),ENSCGRG00015022238__Cricetulus_griseus_CriGri-PICR),ENSCSEG00000006595__Cynoglossus_semilaevis);

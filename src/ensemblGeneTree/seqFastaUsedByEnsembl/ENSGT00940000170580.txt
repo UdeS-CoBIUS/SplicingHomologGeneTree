@@ -1,0 +1,4 @@
+  FBpp0271782	FBgn0003660	Drosophila_melanogaster F23H12.1.2	WBGene00004898	Caenorhabditis_elegans_strain_N2 
+  ENSCCRP00020094947	ENSCCRG00020043506	Cyprinus_carpio_Hebao_red_carp_1.0 ENSCINP00000017996	ENSCING00000008839	Ciona_intestinalis 
+ 
+;

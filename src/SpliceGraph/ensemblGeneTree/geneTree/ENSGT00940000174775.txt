@@ -1,0 +1,1 @@
+(((((ENSBMUG00000013896__Bos_mutus,ENSBTAG00000051757__Bos_taurus),ENSOARG00000021146__Ovis_aries),ENSMMMG00000010084__Marmota_marmota_marmota),(ENSABRG00000002720__Anser_brachyrhynchus,ENSJHYG00000006445__Junco_hyemalis)),(ENSAOCG00000007214__Amphiprion_ocellaris,ENSAPEG00000022766__Amphiprion_percula));

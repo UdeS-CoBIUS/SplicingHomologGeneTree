@@ -1,0 +1,1 @@
+((((ENSATEG00000005489__Anabas_testudineus,ENSATEG00000022151__Anabas_testudineus),ENSATEG00000005513__Anabas_testudineus),ENSATEG00000022133__Anabas_testudineus),((ENSPFOG00000023735__Poecilia_formosa,ENSPMEG00000016433__Poecilia_mexicana),ENSPREG00000010015__Poecilia_reticulata));

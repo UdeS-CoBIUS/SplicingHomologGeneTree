@@ -1,0 +1,1 @@
+(((ENSLACG00000022595__Latimeria_chalumnae,ENSXETG00000021136__Xenopus_tropicalis),(ENSPMAG00000008277__Petromyzon_marinus,ENSEBUG00000011507__Eptatretus_burgeri)),(FBgn0035909__Drosophila_melanogaster,WBGene00002070__Caenorhabditis_elegans_strain_N2));

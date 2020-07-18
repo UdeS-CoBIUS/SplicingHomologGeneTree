@@ -1,0 +1,1 @@
+((((ENSCPOG00000032197__Cavia_porcellus,ENSODEG00000001817__Octodon_degus),(ENSHGLG00100009775__Heterocephalus_glaber_HetGla_1.0,ENSHGLG00000004351__Heterocephalus_glaber_HetGla_female_1.0)),(ENSNGAG00000023660__Nannospalax_galili,ENSMOCG00000010622__Microtus_ochrogaster)),ENSRBIG00000044147__Rhinopithecus_bieti);

@@ -1,0 +1,1 @@
+((ENSCJAG00000044808__Callithrix_jacchus,ENSANAG00000023310__Aotus_nancymaae),(((((ENSPTRG00000031452__Pan_troglodytes,ENSPPAG00000030023__Pan_paniscus),ENSG00000206106__Homo_sapiens),ENSGGOG00000010140__Gorilla_gorilla),ENSPPYG00000011341__Pongo_abelii),ENSCSAG00000018696__Chlorocebus_sabaeus));

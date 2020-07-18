@@ -1,0 +1,1 @@
+((((ENSMALG00000020012__Monopterus_albus,ENSMAMG00000012881__Mastacembelus_armatus),ENSAOCG00000012784__Amphiprion_ocellaris),ENSLBEG00000003285__Labrus_bergylta),ENSELUG00000007857__Esox_lucius);

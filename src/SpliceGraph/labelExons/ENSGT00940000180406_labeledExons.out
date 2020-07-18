@@ -1,0 +1,12 @@
+>0
+ENSCINT00000009842: [['internal gap < 30', 85, 10], 142, 0]
+ENSCINT00000006607: ['3event', 128, 0]
+ENSCINT00000028627: ['3event', 140, 0]
+>1
+ENSCINT00000009842: ['no event', 44, 2]
+ENSCINT00000006607: ['5event', 43, 2]
+ENSCINT00000028627: ['5event', 43, 2]
+>2
+ENSCINT00000009842: [['internal gap < 30', 38, 1], 58, 1]
+ENSCINT00000006607: [['internal gap < 30', 29, 1], 58, 1]
+ENSCINT00000028627: [['internal gap < 30', 35, 7], 52, 1]

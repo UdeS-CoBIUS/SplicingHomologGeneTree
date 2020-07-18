@@ -1,0 +1,1 @@
+(((((ENSSPAG00000003325__Stegastes_partitus,ENSHBUG00000000003__Haplochromis_burtoni),ENSPLAG00000012113__Poecilia_latipinna),ENSPMGG00000012964__Periophthalmus_magnuspinnatus),ENSELUG00000005712__Esox_lucius),ENSAMXG00000040842__Astyanax_mexicanus);

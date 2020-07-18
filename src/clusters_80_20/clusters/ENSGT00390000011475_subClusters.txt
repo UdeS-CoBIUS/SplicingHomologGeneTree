@@ -1,0 +1,6 @@
+>cluster_0
+FBtr0072344	Y34D9A.7c.1
+>cluster_1
+Y34D9A.7a.1
+>cluster_2
+ZK632.11.1	FBtr0300490	Y34D9A.7b.1

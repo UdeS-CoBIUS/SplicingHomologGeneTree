@@ -1,0 +1,1 @@
+((ENSCLAG00000001012__Chinchilla_lanigera,ENSHGLG00100002727__Heterocephalus_glaber_HetGla_1.0),ENSMPUG00000008212__Mustela_putorius_furo);

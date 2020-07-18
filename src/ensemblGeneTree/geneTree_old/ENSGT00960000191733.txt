@@ -1,1 +1,0 @@
-(ENSMUGG00000008221__Meriones_unguiculatus,ENSMUGG00000008182__Meriones_unguiculatus);

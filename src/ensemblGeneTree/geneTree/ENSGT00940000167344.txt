@@ -1,0 +1,1 @@
+(((((((ENSGALG00000048685__Gallus_gallus,ENSGALG00000052504__Gallus_gallus),ENSGALG00000048929__Gallus_gallus),ENSGALG00000053649__Gallus_gallus),ENSMGAG00000009746__Meleagris_gallopavo),ENSGALG00000054027__Gallus_gallus),ENSNMEG00000002154__Numida_meleagris),(ENSNMEG00000001929__Numida_meleagris,ENSGALG00000048392__Gallus_gallus));

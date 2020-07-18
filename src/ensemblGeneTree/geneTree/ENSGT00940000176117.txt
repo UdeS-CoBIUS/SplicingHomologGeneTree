@@ -1,0 +1,1 @@
+((ENSACIG00000013772__Amphilophus_citrinellus,ENSTNIG00000007261__Tetraodon_nigroviridis),ENSPKIG00000001003__Paramormyrops_kingsleyae);

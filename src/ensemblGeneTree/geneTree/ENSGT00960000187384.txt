@@ -1,0 +1,1 @@
+((ENSCPBG00000020152__Chrysemys_picta_bellii,ENSMVIG00005002398__Manacus_vitellinus),((ENSMAUG00000007814__Mesocricetus_auratus,ENSNGAG00000020513__Nannospalax_galili),ENSCATG00000035297__Cercocebus_atys));

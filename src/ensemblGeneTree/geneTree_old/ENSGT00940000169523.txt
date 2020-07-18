@@ -1,1 +1,0 @@
-(((ENSPTEG00000008414__Piliocolobus_tephrosceles,ENSOGAG00000034054__Otolemur_garnettii),ENSRNOG00000023342__Rattus_norvegicus),ENSVPAG00000006913__Vicugna_pacos);

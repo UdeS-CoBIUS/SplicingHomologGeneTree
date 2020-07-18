@@ -1,0 +1,1 @@
+((((((ENSPVAG00000007190__Pteropus_vampyrus,ENSTTRG00000014677__Tursiops_truncatus),ENSTBEG00000016325__Tupaia_belangeri),ENSPCAG00000015523__Procavia_capensis),(ENSOARG00000014626__Ovis_aries,ENSCAFG00000029839__Canis_lupus_familiaris)),ENSOANG00000013124__Ornithorhynchus_anatinus),ENSCPRG00005009053__Crocodylus_porosus);

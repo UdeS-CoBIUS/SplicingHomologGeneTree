@@ -1,0 +1,1 @@
+((ENSCMIG00000003962__Callorhinchus_milii,ENSCMIG00000006919__Callorhinchus_milii),ENSGALG00000039509__Gallus_gallus);

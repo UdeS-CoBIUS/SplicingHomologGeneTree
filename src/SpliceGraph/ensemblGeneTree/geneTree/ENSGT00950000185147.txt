@@ -1,0 +1,1 @@
+(((ENSCAFG00020026073__Canis_lupus_dingo,ENSUAMG00000015009__Ursus_americanus),ENSEASG00005009338__Equus_asinus_asinus),ENSMLEG00000038077__Mandrillus_leucophaeus);

@@ -1,1 +1,0 @@
-((((ENSSHAG00000004729__Sarcophilus_harrisii,ENSCAFG00000032366__Canis_lupus_familiaris),ENSOANG00000032015__Ornithorhynchus_anatinus),ENSOANG00000031106__Ornithorhynchus_anatinus),ENSORLG00000029965__Oryzias_latipes_ASM223467v1);

@@ -1,0 +1,8 @@
+>cluster_0
+C28H8.9b.1	FBtr0073849	FBtr0086082
+>cluster_1
+C28H8.9c.1	FBtr0111115
+>cluster_2
+FBtr0346118	FBtr0086083
+>cluster_3
+FBtr0335258	C28H8.9a.1

@@ -1,0 +1,1 @@
+(((ENSSMAG00000000027__Scophthalmus_maximus,ENSPMGG00000007823__Periophthalmus_magnuspinnatus),ENSSFOG00015020830__Scleropages_formosus),ENSARWG00000003314__Apteryx_rowi);

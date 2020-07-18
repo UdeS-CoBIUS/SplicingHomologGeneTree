@@ -1,0 +1,1 @@
+(((((ENSPTRG00000043078__Pan_troglodytes,ENSPTRG00000049166__Pan_troglodytes),ENSPTRG00000043380__Pan_troglodytes),ENSPTRG00000049889__Pan_troglodytes),ENSPPYG00000011557__Pongo_abelii),ENSUAMG00000018367__Ursus_americanus);

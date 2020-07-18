@@ -1,0 +1,1 @@
+((((ENSCPBG00000024458__Chrysemys_picta_bellii,ENSNSUG00000003466__Notechis_scutatus),ENSCJAG00000046580__Callithrix_jacchus),ENSLACG00000001937__Latimeria_chalumnae),ENSTRUG00000025385__Takifugu_rubripes);

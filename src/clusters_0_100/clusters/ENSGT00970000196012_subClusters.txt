@@ -1,0 +1,10 @@
+>cluster_0
+Y95B8A.6b.1	F39D8.3c.1
+>cluster_1
+F39D8.3a.1	Y95B8A.6b.2
+>cluster_2
+F39D8.3d.1	F25B3.2.1	Y95B8A.6a.1
+>cluster_3
+B0222.11.1	T16H12.9.1	Y95B8A.6a.2	F39D8.3b.1
+>cluster_4
+Y95B8A.6d.1

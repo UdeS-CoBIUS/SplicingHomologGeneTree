@@ -1,0 +1,1 @@
+((((ENSABRG00000006383__Anser_brachyrhynchus,ENSLCOG00000003426__Lepidothrix_coronata),(ENSCPUG00000005862__Calidris_pugnax,ENSCPUG00000005861__Calidris_pugnax)),ENSPVIG00000020935__Pogona_vitticeps),(ENSMAMG00000015336__Mastacembelus_armatus,ENSPMGG00000013409__Periophthalmus_magnuspinnatus));

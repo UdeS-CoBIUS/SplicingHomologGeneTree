@@ -1,1 +1,0 @@
-(ENSFHEG00000011487__Fundulus_heteroclitus,ENSPREG00000006398__Poecilia_reticulata);

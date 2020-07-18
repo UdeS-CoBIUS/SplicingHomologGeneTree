@@ -1,0 +1,1 @@
+((ENSNPEG00000009344__Nothoprocta_perdicaria,ENSEASG00005013027__Equus_asinus_asinus),ENSORLG00015015584__Oryzias_latipes_ASM223469v1);

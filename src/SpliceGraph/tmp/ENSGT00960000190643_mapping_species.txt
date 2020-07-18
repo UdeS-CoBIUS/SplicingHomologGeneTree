@@ -1,0 +1,3 @@
+FICEDULAALBICOLLIS	ficedula_albicollis
+COTURNIXJAPONICA	coturnix_japonica
+MELOPSITTACUSUNDULATUS	melopsittacus_undulatus

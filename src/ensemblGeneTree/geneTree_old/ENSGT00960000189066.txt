@@ -1,1 +1,0 @@
-((ENSPTIG00000020709__Panthera_tigris_altaica,ENSMSIG00000010598__Mus_spicilegus),((ENSCPUG00000006932__Calidris_pugnax,ENSCPGG00000011738__Calidris_pygmaea),ENSMUNG00000001722__Melopsittacus_undulatus));

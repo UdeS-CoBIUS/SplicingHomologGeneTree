@@ -1,0 +1,1 @@
+((ENSPFOG00000022515__Poecilia_formosa,ENSPMGG00000018328__Periophthalmus_magnuspinnatus),ENSOARG00000006588__Ovis_aries);

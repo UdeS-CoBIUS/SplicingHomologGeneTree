@@ -1,0 +1,1 @@
+(((ENSPCOG00000017807__Propithecus_coquereli,ENSMUGG00000009586__Meriones_unguiculatus),((ENSUAMG00000003969__Ursus_americanus,ENSUMAG00000024963__Ursus_maritimus),ENSPPRG00000019531__Panthera_pardus)),ENSTGUG00000015054__Taeniopygia_guttata);

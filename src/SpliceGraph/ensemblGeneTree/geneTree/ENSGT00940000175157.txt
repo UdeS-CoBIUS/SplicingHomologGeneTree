@@ -1,0 +1,1 @@
+(((ENSXCOG00000019424__Xiphophorus_couchianus,ENSPREG00000008210__Poecilia_reticulata),ENSCSEG00000018771__Cynoglossus_semilaevis),ENSGMOG00000004780__Gadus_morhua);

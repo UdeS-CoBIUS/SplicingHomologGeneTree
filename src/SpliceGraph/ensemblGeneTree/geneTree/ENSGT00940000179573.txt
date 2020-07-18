@@ -1,0 +1,1 @@
+(((ENSATEG00000015231__Anabas_testudineus,ENSTRUG00000021718__Takifugu_rubripes),ENSPMEG00000016558__Poecilia_mexicana),ENSNSUG00000020522__Notechis_scutatus);

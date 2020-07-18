@@ -1,0 +1,1 @@
+((((ENSDORG00000028778__Dipodomys_ordii,ENSODEG00000016314__Octodon_degus),(ENSNGAG00000013989__Nannospalax_galili,ENSMAUG00000019900__Mesocricetus_auratus)),(((ENSCATG00000032990__Cercocebus_atys,ENSPANG00000020019__Papio_anubis),ENSNLEG00000030936__Nomascus_leucogenys),ENSCCAG00000032539__Cebus_capucinus_imitator)),ENSMLUG00000029946__Myotis_lucifugus);

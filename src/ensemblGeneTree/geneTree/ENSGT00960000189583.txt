@@ -1,0 +1,1 @@
+(((ENSPTEG00000036531__Piliocolobus_tephrosceles,ENSPSMG00000007770__Prolemur_simus),(ENSMUGG00000014989__Meriones_unguiculatus,ENSMSIG00000007052__Mus_spicilegus)),(ENSVPAG00000003218__Vicugna_pacos,ENSEEUG00000011161__Erinaceus_europaeus));

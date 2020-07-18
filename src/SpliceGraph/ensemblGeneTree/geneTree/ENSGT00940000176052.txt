@@ -1,0 +1,1 @@
+((ENSPSIG00000014667__Pelodiscus_sinensis,ENSMUGG00000012774__Meriones_unguiculatus),((ENSPNYG00000014407__Pundamilia_nyererei,ENSNBRG00000009665__Neolamprologus_brichardi),ENSORLG00000024583__Oryzias_latipes_ASM223467v1));

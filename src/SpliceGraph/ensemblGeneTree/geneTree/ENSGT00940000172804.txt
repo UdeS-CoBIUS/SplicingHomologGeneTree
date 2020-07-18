@@ -1,0 +1,1 @@
+(((ENSMUNG00000008030__Melopsittacus_undulatus,ENSFALG00000015022__Ficedula_albicollis),ENSMGAG00000015250__Meleagris_gallopavo),ENSGAGG00000024784__Gopherus_agassizii);

@@ -1,0 +1,1 @@
+(((ENSCPBG00000005203__Chrysemys_picta_bellii,ENSCPBG00000023420__Chrysemys_picta_bellii),((ENSCABG00000018111__Chelonoidis_abingdonii,ENSCABG00000018112__Chelonoidis_abingdonii),ENSGAGG00000022773__Gopherus_agassizii)),ENSACAG00000029243__Anolis_carolinensis);

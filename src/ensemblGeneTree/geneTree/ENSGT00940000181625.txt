@@ -1,0 +1,1 @@
+((ENSSLDG00000006418__Seriola_lalandi_dorsalis,ENSPMGG00000014930__Periophthalmus_magnuspinnatus),(ENSZALG00000012089__Zonotrichia_albicollis,ENSCJPG00005020490__Coturnix_japonica));

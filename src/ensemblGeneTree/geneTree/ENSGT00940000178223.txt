@@ -1,0 +1,1 @@
+(((((ENSOMEG00000000209__Oryzias_melastigma,ENSOMEG00000019658__Oryzias_melastigma),ENSCVAG00000013680__Cyprinodon_variegatus),ENSFHEG00000020762__Fundulus_heteroclitus),ENSLBEG00000017171__Labrus_bergylta),ENSPMGG00000009078__Periophthalmus_magnuspinnatus);

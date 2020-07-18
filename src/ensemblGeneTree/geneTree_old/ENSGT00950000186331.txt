@@ -1,1 +1,0 @@
-(((((ENSMSIG00000004855__Mus_spicilegus,ENSRNOG00000029808__Rattus_norvegicus),ENSCCNG00000031492__Castor_canadensis),ENSMMMG00000000315__Marmota_marmota_marmota),ENSTGEG00000007023__Theropithecus_gelada),ENSECAG00000034043__Equus_caballus);

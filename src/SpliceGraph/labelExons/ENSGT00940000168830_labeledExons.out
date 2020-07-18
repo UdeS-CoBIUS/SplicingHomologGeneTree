@@ -1,0 +1,50 @@
+>0
+ENSXETT00000033211: ['no event', 65, 0]
+ENSSCAT00000019556: ['exon skipping', 0, 0]
+FBtr0079305: ['exon skipping', 0, 0]
+FBtr0300056: ['exon skipping', 0, 0]
+>1
+ENSXETT00000033211: ['exon skipping', 0, 0]
+ENSSCAT00000019556: ['5event', 157, 0]
+FBtr0079305: ['exon skipping', 0, 0]
+FBtr0300056: ['exon skipping', 0, 0]
+>2
+ENSXETT00000033211: ['exon skipping', 0, 0]
+ENSSCAT00000019556: ['no event', 25, 2]
+FBtr0079305: ['exon skipping', 0, 0]
+FBtr0300056: ['exon skipping', 0, 0]
+>3
+ENSXETT00000033211: ['5event', ['internal gap >= 30', 82, 1257], 174, 0]
+ENSSCAT00000019556: ['exon skipping', 0, 0]
+FBtr0079305: ['5event', ['internal gap >= 30', 1195, 144], 1287, 0]
+FBtr0300056: ['5event', ['internal gap >= 30', 1109, 189], 1242, 0]
+>4
+ENSXETT00000033211: ['exon skipping', 0, 0]
+ENSSCAT00000019556: ['exon skipping', 0, 0]
+FBtr0079305: [['internal gap < 30', 70, 9], 92, 1]
+FBtr0300056: [['internal gap < 30', 42, 15], 86, 1]
+>5
+ENSXETT00000033211: ['5event', ['internal gap >= 30', 655, 678], 679, 1]
+ENSSCAT00000019556: ['3event', '5event', 251, 1]
+FBtr0079305: ['3event', 515, 1]
+FBtr0300056: [['internal gap >= 30', 148, 554], 803, 1]
+>6
+ENSXETT00000033211: ['no event', 26, 0]
+ENSSCAT00000019556: ['exon skipping', 0, 0]
+FBtr0079305: ['exon skipping', 0, 0]
+FBtr0300056: ['exon skipping', 0, 0]
+>7
+ENSXETT00000033211: ['exon skipping', 0, 0]
+ENSSCAT00000019556: ['exon skipping', 0, 0]
+FBtr0079305: ['5event', 1081, 1]
+FBtr0300056: ['exon skipping', 0, 0]
+>8
+ENSXETT00000033211: ['exon skipping', 0, 0]
+ENSSCAT00000019556: ['exon skipping', 0, 0]
+FBtr0079305: ['exon skipping', 0, 0]
+FBtr0300056: ['5event', 6, 2]
+>9
+ENSXETT00000033211: ['exon skipping', 0, 0]
+ENSSCAT00000019556: ['exon skipping', 0, 0]
+FBtr0079305: ['exon skipping', 0, 0]
+FBtr0300056: ['no event', 128, 0]

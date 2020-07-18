@@ -1,1 +1,0 @@
-(ENSJHYG00000002911__Junco_hyemalis,ENSCJPG00005002721__Coturnix_japonica);

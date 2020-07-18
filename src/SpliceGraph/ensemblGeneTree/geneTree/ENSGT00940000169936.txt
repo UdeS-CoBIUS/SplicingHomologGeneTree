@@ -1,0 +1,1 @@
+((((ENSPPRG00000006802__Panthera_pardus,ENSPPRG00000006604__Panthera_pardus),ENSPPRG00000017760__Panthera_pardus),((ENSBTAG00000053411__Bos_taurus,ENSBMUG00000002661__Bos_mutus),ENSBBBG00000014409__Bison_bison_bison)),ENSCCNG00000012797__Castor_canadensis);

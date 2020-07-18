@@ -1,0 +1,1 @@
+((ENSHCOG00000017746__Hippocampus_comes,ENSPMEG00000015195__Poecilia_mexicana),(ENSAPLG00000025313__Anas_platyrhynchos_platyrhynchos,ENSABRG00000012037__Anser_brachyrhynchus));

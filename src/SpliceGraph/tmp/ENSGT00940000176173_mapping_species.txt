@@ -1,0 +1,7 @@
+POECILIAFORMOSA	poecilia_formosa
+FUNDULUSHETEROCLITUS	fundulus_heteroclitus
+AMPHILOPHUSCITRINELLUS	amphilophus_citrinellus
+PUNDAMILIANYEREREI	pundamilia_nyererei
+CYPRINODONVARIEGATUS	cyprinodon_variegatus
+CYNOGLOSSUSSEMILAEVIS	cynoglossus_semilaevis
+PYGOCENTRUSNATTERERI	pygocentrus_nattereri

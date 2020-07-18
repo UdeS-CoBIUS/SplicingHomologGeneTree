@@ -1,0 +1,1 @@
+(ENSOARG00000018578__Ovis_aries,ENSCGRG00000011486__Cricetulus_griseus_CriGri_1.0);

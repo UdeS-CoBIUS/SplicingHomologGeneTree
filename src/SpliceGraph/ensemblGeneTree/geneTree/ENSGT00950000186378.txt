@@ -1,0 +1,1 @@
+(((ENSCCNG00000007275__Castor_canadensis,ENSSDAG00000024142__Spermophilus_dauricus),(ENSMSIG00000010863__Mus_spicilegus,ENSPEMG00000013287__Peromyscus_maniculatus_bairdii)),ENSVVUG00000001072__Vulpes_vulpes);

@@ -1,0 +1,1 @@
+((((((ENSOMEG00000001796__Oryzias_melastigma,ENSOMEG00000021173__Oryzias_melastigma),ENSOMEG00000013463__Oryzias_melastigma),ENSOMEG00000021955__Oryzias_melastigma),ENSORLG00020017540__Oryzias_latipes_ASM223471v1),ENSSMAG00000004043__Scophthalmus_maximus),ENSAMXG00000030312__Astyanax_mexicanus);

@@ -1,1 +1,0 @@
-((ENSGAFG00000000539__Gambusia_affinis,ENSXCOG00000016428__Xiphophorus_couchianus),ENSLOCG00000014554__Lepisosteus_oculatus);

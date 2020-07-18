@@ -1,0 +1,2 @@
+GADUSMORHUA	gadus_morhua
+TETRAODONNIGROVIRIDIS	tetraodon_nigroviridis

@@ -1,1 +1,0 @@
-(ENSPMGG00000018500__Periophthalmus_magnuspinnatus,ENSCSEG00000019289__Cynoglossus_semilaevis);

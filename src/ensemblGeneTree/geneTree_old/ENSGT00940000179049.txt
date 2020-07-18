@@ -1,1 +1,0 @@
-(((ENSNBRG00000005397__Neolamprologus_brichardi,ENSAPEG00000023984__Amphiprion_percula),ENSATEG00000006947__Anabas_testudineus),ENSGMOG00000004652__Gadus_morhua);

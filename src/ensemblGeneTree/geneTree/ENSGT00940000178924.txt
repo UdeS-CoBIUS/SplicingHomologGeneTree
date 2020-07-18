@@ -1,0 +1,1 @@
+((ENSSLDG00000000714__Seriola_lalandi_dorsalis,ENSLBEG00000026126__Labrus_bergylta),(ENSPNYG00000012089__Pundamilia_nyererei,ENSPMGG00000010849__Periophthalmus_magnuspinnatus));

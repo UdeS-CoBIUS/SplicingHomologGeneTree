@@ -1,0 +1,1 @@
+((ENSLOCG00000000201__Lepisosteus_oculatus,ENSLOCG00000017819__Lepisosteus_oculatus),ENSIPUG00000002225__Ictalurus_punctatus);

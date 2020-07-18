@@ -1,1 +1,0 @@
-((ENSLACG00000004140__Latimeria_chalumnae,ENSLACG00000001607__Latimeria_chalumnae),(ENSACAG00000028807__Anolis_carolinensis,ENSACAG00000029387__Anolis_carolinensis));

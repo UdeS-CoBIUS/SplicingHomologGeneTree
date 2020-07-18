@@ -1,1 +1,0 @@
-(ENSLSDG00000008021__Lonchura_striata_domestica,ENSARWG00000017509__Apteryx_rowi);

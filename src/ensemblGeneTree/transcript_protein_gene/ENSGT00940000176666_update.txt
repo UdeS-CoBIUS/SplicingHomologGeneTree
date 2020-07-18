@@ -1,0 +1,2 @@
+YHR061C_mRNA	YHR061C	Saccharomyces_cerevisiae_strain_S288C
+YDR309C_mRNA	YDR309C	Saccharomyces_cerevisiae_strain_S288C

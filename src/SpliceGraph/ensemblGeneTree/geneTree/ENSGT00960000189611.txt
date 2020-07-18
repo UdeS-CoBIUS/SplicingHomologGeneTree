@@ -1,0 +1,1 @@
+(((ENSLSDG00000003961__Lonchura_striata_domestica,ENSJHYG00000015704__Junco_hyemalis),ENSLCOG00000008839__Lepidothrix_coronata),((ENSGALG00000032606__Gallus_gallus,ENSCJPG00005007715__Coturnix_japonica),ENSNMEG00000007952__Numida_meleagris));

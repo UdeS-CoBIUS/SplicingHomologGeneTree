@@ -1,1 +1,0 @@
-((ENSHCOG00000004419__Hippocampus_comes,ENSHCOG00000005150__Hippocampus_comes),ENSNSUG00000016632__Notechis_scutatus);

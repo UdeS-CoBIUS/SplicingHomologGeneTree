@@ -1,0 +1,4 @@
+  FBpp0303070	FBgn0262871	Drosophila_melanogaster FBpp0077033	FBgn0031098	Drosophila_melanogaster 
+  ENSCSAVP00000012310	ENSCSAVG00000007242	Ciona_savignyi ENSCINP00000008658	ENSCING00000004187	Ciona_intestinalis 
+ 
+;

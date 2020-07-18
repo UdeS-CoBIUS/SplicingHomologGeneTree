@@ -1,0 +1,1 @@
+((ENSCCAG00000027885__Cebus_capucinus_imitator,ENSABRG00000010815__Anser_brachyrhynchus),(ENSHCOG00000003147__Hippocampus_comes,ENSAPOG00000015735__Acanthochromis_polyacanthus));

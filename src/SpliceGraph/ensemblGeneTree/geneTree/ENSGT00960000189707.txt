@@ -1,0 +1,1 @@
+((((ENSPMJG00000008561__Parus_major,ENSLSDG00000006438__Lonchura_striata_domestica),ENSJHYG00000005935__Junco_hyemalis),ENSAPLG00000023706__Anas_platyrhynchos_platyrhynchos),ENSSMRG00000021302__Salvator_merianae);

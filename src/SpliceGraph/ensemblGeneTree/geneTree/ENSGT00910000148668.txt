@@ -1,0 +1,1 @@
+(((ENSPSMG00000009941__Prolemur_simus,ENSCCAG00000024103__Cebus_capucinus_imitator),ENSCGRG00015023074__Cricetulus_griseus_CriGri-PICR),ENSSSCG00000039499__Sus_scrofa);

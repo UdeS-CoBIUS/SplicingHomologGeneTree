@@ -1,0 +1,1 @@
+((ENSCVAG00000011249__Cyprinodon_variegatus,ENSORLG00000028940__Oryzias_latipes_ASM223467v1),ENSCSEG00000001316__Cynoglossus_semilaevis);

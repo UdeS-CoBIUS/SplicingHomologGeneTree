@@ -1,0 +1,1 @@
+((((ENSMMMG00000023501__Marmota_marmota_marmota,ENSCCNG00000011510__Castor_canadensis),(ENSPPYG00000019026__Pongo_abelii,ENSRBIG00000042247__Rhinopithecus_bieti)),(ENSPVAG00000017336__Pteropus_vampyrus,ENSCAFG00020022505__Canis_lupus_dingo)),ENSETEG00000010673__Echinops_telfairi);

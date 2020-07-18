@@ -1,0 +1,1 @@
+((ENSPCIG00000036165__Phascolarctos_cinereus,ENSUAMG00000016137__Ursus_americanus),(((ENSAPLG00000022247__Anas_platyrhynchos_platyrhynchos,ENSMVIG00005008920__Manacus_vitellinus),ENSNPEG00000010718__Nothoprocta_perdicaria),(ENSGAGG00000000131__Gopherus_agassizii,ENSCABG00000016006__Chelonoidis_abingdonii)));

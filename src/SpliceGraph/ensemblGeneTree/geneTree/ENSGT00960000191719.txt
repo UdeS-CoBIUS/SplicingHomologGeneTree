@@ -1,0 +1,1 @@
+(ENSPCAG00000004966__Procavia_capensis,ENSMSIG00000025258__Mus_spicilegus);

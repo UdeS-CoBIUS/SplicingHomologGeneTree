@@ -1,1 +1,0 @@
-((ENSCVAG00000011896__Cyprinodon_variegatus,ENSLBEG00000029019__Labrus_bergylta),ENSAMXG00000031201__Astyanax_mexicanus);

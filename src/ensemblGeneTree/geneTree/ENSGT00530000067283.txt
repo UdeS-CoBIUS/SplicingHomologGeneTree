@@ -1,0 +1,1 @@
+(((ENSMSIG00000001141__Mus_spicilegus,ENSMUSG00000060311__Mus_musculus_strain_reference_(CL57BL6)),(ENSMUSG00000036925__Mus_musculus_strain_reference_(CL57BL6),ENSMSIG00000007272__Mus_spicilegus)),(ENSRNOG00000047477__Rattus_norvegicus,ENSRNOG00000036825__Rattus_norvegicus));

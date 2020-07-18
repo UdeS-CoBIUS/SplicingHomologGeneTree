@@ -1,0 +1,6 @@
+PAPIOANUBIS	papio_anubis
+THEROPITHECUSGELADA	theropithecus_gelada
+MANDRILLUSLEUCOPHAEUS	mandrillus_leucophaeus
+NOMASCUSLEUCOGENYS	nomascus_leucogenys
+CEBUSCAPUCINUS	cebus_capucinus
+SUSSCROFA	sus_scrofa

@@ -1,1 +1,0 @@
-(ENSPNAG00000021700__Pygocentrus_nattereri,ENSTGUG00000014665__Taeniopygia_guttata);

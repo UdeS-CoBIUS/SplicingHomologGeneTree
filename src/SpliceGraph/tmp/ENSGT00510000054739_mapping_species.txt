@@ -1,0 +1,7 @@
+DANIORERIO	danio_rerio
+DANIORERIO	danio_rerio
+DANIORERIO	danio_rerio
+POECILIAFORMOSA	poecilia_formosa
+POECILIAFORMOSA	poecilia_formosa
+POECILIAFORMOSA	poecilia_formosa
+LEPISOSTEUSOCULATUS	lepisosteus_oculatus

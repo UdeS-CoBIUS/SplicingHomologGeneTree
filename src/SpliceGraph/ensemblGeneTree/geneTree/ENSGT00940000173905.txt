@@ -1,0 +1,1 @@
+((((ENSPCOG00000012899__Propithecus_coquereli,ENSMAUG00000016170__Mesocricetus_auratus),ENSCAFG00020011296__Canis_lupus_dingo),ENSSPUG00000010362__Sphenodon_punctatus),(ENSTRUG00000021484__Takifugu_rubripes,ENSNBRG00000020853__Neolamprologus_brichardi));

@@ -1,1 +1,0 @@
-((ENSPSIG00000001157__Pelodiscus_sinensis,ENSXETG00000033536__Xenopus_tropicalis),WBGene00021303__Caenorhabditis_elegans_strain_N2);

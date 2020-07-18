@@ -1,0 +1,1 @@
+(((((ENSTBEG00000014856__Tupaia_belangeri,ENSTBEG00000000679__Tupaia_belangeri),ENSMMMG00000017484__Marmota_marmota_marmota),(ENSSSCG00000012143__Sus_scrofa,ENSSSCG00000037966__Sus_scrofa)),ENSDNOG00000034400__Dasypus_novemcinctus),ENSSMRG00000022983__Salvator_merianae);

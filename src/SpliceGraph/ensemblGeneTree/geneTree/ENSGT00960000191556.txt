@@ -1,0 +1,1 @@
+(ENSPSMG00000022845__Prolemur_simus,ENSG00000285082__Homo_sapiens);

@@ -1,0 +1,1 @@
+((((ENSTSYG00000027727__Carlito_syrichta,ENSANAG00000033210__Aotus_nancymaae),ENSPSMG00000018133__Prolemur_simus),(((ENSUPAG00010020595__Urocitellus_parryii,ENSSDAG00000022665__Spermophilus_dauricus),ENSMMMG00000009348__Marmota_marmota_marmota),ENSCGRG00015028468__Cricetulus_griseus_CriGri-PICR)),(ENSAMEG00000009472__Ailuropoda_melanoleuca,ENSNVIG00000016475__Neovison_vison));

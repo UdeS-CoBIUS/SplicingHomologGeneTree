@@ -1,0 +1,1 @@
+((ENSLOCG00000012564__Lepisosteus_oculatus,ENSDARG00000087457__Danio_rerio),(ENSMGAG00000016862__Meleagris_gallopavo,ENSFALG00000002964__Ficedula_albicollis));

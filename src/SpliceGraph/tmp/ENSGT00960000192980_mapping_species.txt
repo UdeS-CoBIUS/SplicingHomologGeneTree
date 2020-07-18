@@ -1,0 +1,2 @@
+CALIDRISPYGMAEA	calidris_pygmaea
+GALLUSGALLUS	gallus_gallus

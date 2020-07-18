@@ -1,0 +1,1 @@
+((ENSTRUG00000022740__Takifugu_rubripes,ENSHCOG00000005702__Hippocampus_comes),ENSPKIG00000012491__Paramormyrops_kingsleyae);

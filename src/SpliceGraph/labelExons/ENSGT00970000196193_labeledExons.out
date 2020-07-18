@@ -1,0 +1,48 @@
+>0
+C29F3.2.1: [['internal gap < 30', 51, 10], 95, 0]
+ZK678.5.1: [['internal gap < 30', 35, 7], 98, 0]
+ZK1037.10.1: [['internal gap < 30', 41, 1], 104, 0]
+>1
+C29F3.2.1: ['no event', 197, 0]
+ZK678.5.1: ['no event', 197, 0]
+ZK1037.10.1: ['no event', 197, 0]
+>2
+C29F3.2.1: [['internal gap < 30', 70, 6], 88, 0]
+ZK678.5.1: ['no event', 94, 0]
+ZK1037.10.1: ['no event', 94, 0]
+>3
+C29F3.2.1: ['no event', 238, 2]
+ZK678.5.1: ['no event', 238, 2]
+ZK1037.10.1: ['no event', 238, 2]
+>4
+C29F3.2.1: [['internal gap >= 30', 273, 40], 286, 1]
+ZK678.5.1: [['internal gap < 30', 186, 1], 325, 1]
+ZK1037.10.1: [['internal gap >= 30', 122, 190], 136, 1]
+>5
+C29F3.2.1: [['internal gap < 30', 2, 3], 53, 0]
+ZK678.5.1: ['exon skipping', 0, 0]
+ZK1037.10.1: ['exon skipping', 0, 0]
+>6
+C29F3.2.1: ['exon skipping', 0, 0]
+ZK678.5.1: ['5event', 17, 0]
+ZK1037.10.1: ['exon skipping', 0, 0]
+>7
+C29F3.2.1: ['5event', ['internal gap < 30', 32, 7], 51, 0]
+ZK678.5.1: [['internal gap < 30', 1, 6], 52, 0]
+ZK1037.10.1: ['3event', '5event', 34, 0]
+>8
+C29F3.2.1: [['internal gap < 30', 101, 6], 178, 1]
+ZK678.5.1: ['no event', 184, 1]
+ZK1037.10.1: ['5event', 183, 1]
+>9
+C29F3.2.1: [['internal gap < 30', 91, 6], 156, 2]
+ZK678.5.1: ['no event', 162, 2]
+ZK1037.10.1: [['internal gap < 30', 69, 3], 159, 2]
+>10
+C29F3.2.1: ['no event', 164, 0]
+ZK678.5.1: ['no event', 164, 0]
+ZK1037.10.1: ['no event', 164, 0]
+>11
+C29F3.2.1: [['internal gap < 30', 55, 3], 140, 0]
+ZK678.5.1: [['internal gap < 30', 136, 5], 138, 0]
+ZK1037.10.1: [['internal gap < 30', 126, 15], 128, 0]

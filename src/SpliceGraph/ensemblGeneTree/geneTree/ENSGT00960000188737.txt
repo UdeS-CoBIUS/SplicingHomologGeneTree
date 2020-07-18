@@ -1,0 +1,1 @@
+(((ENSCJPG00005007961__Coturnix_japonica,ENSLCOG00000009211__Lepidothrix_coronata),ENSNMEG00000002858__Numida_meleagris),ENSPKIG00000008768__Paramormyrops_kingsleyae);

@@ -1,0 +1,2 @@
+ASTYANAXMEXICANUS	astyanax_mexicanus
+DANIORERIO	danio_rerio

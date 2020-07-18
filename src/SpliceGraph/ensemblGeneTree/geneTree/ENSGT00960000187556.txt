@@ -1,0 +1,1 @@
+(((ENSNSUG00000005629__Notechis_scutatus,ENSCPBG00000027287__Chrysemys_picta_bellii),(ENSSHAG00000015770__Sarcophilus_harrisii,ENSMEUG00000003275__Notamacropus_eugenii)),ENSPMGG00000015758__Periophthalmus_magnuspinnatus);

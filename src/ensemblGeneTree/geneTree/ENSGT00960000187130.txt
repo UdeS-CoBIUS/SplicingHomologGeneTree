@@ -1,0 +1,1 @@
+(((((ENSOMEG00000008344__Oryzias_melastigma,ENSPMGG00000001421__Periophthalmus_magnuspinnatus),ENSAMXG00000040168__Astyanax_mexicanus),ENSPKIG00000020798__Paramormyrops_kingsleyae),ENSPKIG00000024751__Paramormyrops_kingsleyae),ENSPMAG00000005911__Petromyzon_marinus);

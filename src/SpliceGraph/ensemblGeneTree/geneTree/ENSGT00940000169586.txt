@@ -1,0 +1,1 @@
+((ENSRROG00000045281__Rhinopithecus_roxellana,ENSPSMG00000007979__Prolemur_simus),(((ENSFCAG00000040515__Felis_catus,ENSPPRG00000011973__Panthera_pardus),ENSNVIG00000013049__Neovison_vison),ENSBBBG00000019719__Bison_bison_bison));

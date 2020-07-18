@@ -1,0 +1,1 @@
+(((WBGene00006051__Caenorhabditis_elegans_strain_N2,WBGene00006050__Caenorhabditis_elegans_strain_N2),(WBGene00006053__Caenorhabditis_elegans_strain_N2,WBGene00006052__Caenorhabditis_elegans_strain_N2)),ENSXETG00000025034__Xenopus_tropicalis);
