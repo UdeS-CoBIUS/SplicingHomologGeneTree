@@ -1,5 +1,5 @@
 # SplicingHomologGeneTree
-SplicingHomologGeneTree: Gene Tree Construction While Accounting for Splicing Structure Similarity
+SplicingHomologGeneTree: Choosing representative proteins based on splicingstructure similarity improves the accuracy of gene treereconstruction
 
 ### Esaie Kuitche and Aïda Ouangraoua 
 
