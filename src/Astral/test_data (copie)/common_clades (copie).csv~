@@ -1,0 +1,12 @@
+,100_0_Species_consensus.tre,100_0_SpeciesTreeReconstructEnsembl.tre,100_0_SpeciesTreeIsoSel.tre,100_0_SpeciesTreeEnsembl.tre,0_100_SpeciesTreeOrthoGroup.tre,20_80_SpeciesTreeOrthoGroup.tre,40_60_SpeciesTreeOrthoGroup.tre,50_50_SpeciesTreeOrthoGroup.tre,60_40_SpeciesTreeOrthoGroup.tre,80_20_SpeciesTreeOrthoGroup.tre,100_0_SpeciesTreeOrthoGroup.tre
+100_0_Species_consensus.tre,,,,,,,,,,,
+100_0_SpeciesTreeReconstructEnsembl.tre,42.86,,,,,,,,,,
+100_0_SpeciesTreeIsoSel.tre,91.93,49.42,,,,,,,,,
+100_0_SpeciesTreeEnsembl.tre,38.51,29.07,41.86,,,,,,,,
+0_100_SpeciesTreeOrthoGroup.tre,52.17,37.79,53.49,31.4,,,,,,,
+20_80_SpeciesTreeOrthoGroup.tre,47.2,31.4,47.09,27.91,62.79,,,,,,
+40_60_SpeciesTreeOrthoGroup.tre,30.43,28.99,34.32,24.26,36.09,30.18,,,,,
+50_50_SpeciesTreeOrthoGroup.tre,44.72,36.05,45.93,28.49,50.0,50.0,34.91,,,,
+60_40_SpeciesTreeOrthoGroup.tre,33.54,26.47,37.06,25.88,34.71,34.71,39.64,42.35,,,
+80_20_SpeciesTreeOrthoGroup.tre,33.54,28.4,38.46,23.67,37.28,36.09,37.28,34.32,46.15,,
+100_0_SpeciesTreeOrthoGroup.tre,88.82,51.16,93.6,38.95,57.56,47.67,37.28,48.26,38.24,41.42,
